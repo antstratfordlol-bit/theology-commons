@@ -1,0 +1,31 @@
+---
+title: "Edward Mayhew"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: "Thomas Kennedy"
+signed: "THOMAS KENNEDY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Edward_Mayhew"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.edward-mayhew} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Christian Mayer"
+next: "Bl. Cuthbert Mayne"
+entry-type: "article"
+characters: 2310
+words: 373
+links: 0
+images: 0
+---
+
+# Edward Mayhew {#cathen.edward-mayhew}
+
+Born in 1569; died 14 September, 1625. He belonged to the old English family of Mayhew or Mayow of Winton, near Salisbury, Wiltshire, which had endured much persecution for the Faith. On 10 July, 1583, he entered with his elder brother Henry, the English College at Reims, where he displayed conspicuous talents, and received the tonsure and minor orders on 22 August, 1590. Thence proceeding to Rome, he there continued his studies until his ordination, after which he left for the English missions in 1595. Having served for twelve years on the mission as a secular priest, he joined the Benedictine Order, being professed by Dom Sigelbert Buckley, the sole survivor of the English congregation, in his cell at the Gatehouse prison, Westminster, on 21 November 1607. The old English congregation would thus have ended with Dom Buckley, had not Mayhez and other secular priest, Father Robert Sadler, sought profession, thus preserving its continuity to the present day. Under these two new members the English congregation began to revive. Becoming affiliated with the Spanish congregation in 1612, it was given an equal share in St. Lawrence's monastery at Dieulwart, Lorraine, henceforth the centre of the English congregation. Retiring from the English mission in 1613, Mayhew took up his residence at Dieulwart, where he filled the office of prior from 1613 to 1620. The union of the three congregations engaged on the English missions had for some time been canvassed, in 1617 Mayhew was appointed one of the nine definitors to bring this about. That of the English and Spanish congregations was accomplished by the Apostolic Brief, "Ex incumbenti", of August, 1619, but the members of the Italian congregation refused to become united. The zeal for the strict observance of the Benedictine Rule, so characteristic of Dieulwart, was in great part due to Mayhew's religious earnestness and strength of character. From 1623 until his death he acted as vicar to the nuns at Cambrai. His remains lie in the parish church at St. Vedast. The most important of Mayhew's works are: "Sacra Institutio Baptizandi etc." (Douai, 1604); "Treatise on the Groundes of the Olde and Newe Religion etc." (s. l., 1608); "Congregationis Anglicanae Ordinis S. Benedicti Trophaea" (2 vols., Reims, 1619, 1625).
+
+THOMAS KENNEDY

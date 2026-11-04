@@ -1,0 +1,33 @@
+---
+title: "Apocrisiarius"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "unknown"
+author: "Johann Peter Kirsch"
+signed: "J.P. KIRSCH"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Apocrisiarius"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.apocrisiarius} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Apocatastasis"
+next: "Apocrypha"
+entry-type: "article"
+characters: 2563
+words: 397
+links: 0
+images: 0
+---
+
+# Apocrisiarius {#cathen.apocrisiarius}
+
+(Gr. *ἀπόκρισις*, an answer; cf. Lat. *responsalis*, from *responsum*). This term indicates in general the ecclesiastical envoys of Christian antiquity, whether permanent or sent temporarily on missions to high ecclesiastical authorities or royal courts. In the East the patriarchs had their apocrisiarii at the imperial court, and the metropolitans theirs at the courts of the patriarchs. The popes also frequently deputed clerics of the Roman Church as envoys, either for the adjustment of important questions affecting the Church of Rome, or to settle points of discipline in local dioceses, or to safeguard the interests of the Church in religious controversies. In the letters of St. Gregory the Great (590-604) very frequent mention is made of such envoys (*responsales*). In view of the great importance attaching to the relations between the popes and the imperial court of Constantinople, especially after the fall of the Western Empire (476), and during the great dogmatic controversies in the Greek Church, these papal representatives at Constantinople took on gradually the character of permanent legates and were accounted the most important and responsible among the papal envoys. The first of these apocrisiarii seems to have been Julianus, Bishop of Cos, accredited by St. Leo the Great to the court of Emperor Marcian (450-457) for a considerable period of time during the Monophysite heresies. From then until 743, when all relations between Rome and Constantinople were severed during the iconoclastic troubles, there were always, apart from a few brief intervals, apocrisiarii in Constantinople. On account of the importance of the office, only capable and trustworthy members of the Roman Clergy were selected for such missions. Thus Gregory I, while Deacon of the Roman Church, served in Byzantium for several years as apocrisiarius. At the court of the exarch at Ravenna the Pope also had a permanent apocrisiarius. In turn, at least during the reign of Gregory I, the archbishop of that city had a special responsalis at the papal court. From the reign of Charlemagne (d. 814) we find apocrisiarii at the court of the Frankish kings, but they are only royal archchaplains decorated with the title of the ancient papal envoys.
+
+THOMASSINUS, *Vetus et nova eccl. disciplina circa beneficia* (ed. London, 1706, I, 569 sqq.) Pt. I, Bk. II, cvii-cxi; BINGHAM, *Origines sive antiquitates ecclesiasticæ* (ed. Halle, 1725) II, 77 sqq.; III, xiii, art. 6; LUXARDO, *Das päpstliche Vordekretalen-Gesandtschaftsrecht* (Innsbruck, 1878).
+
+J.P. KIRSCH

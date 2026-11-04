@@ -1,0 +1,559 @@
+---
+id: in-decal.la
+work: de-duobus-praeceptis-caritatis
+title: De duobus praeceptis caritatis et decem legis praeceptis
+creator: Thomas Aquinas
+language: la
+original-language: yes
+authority-type: doctor-of-the-church
+authenticity: reportatio
+status: current
+parallel-text: "in-decal.en — same anchors, so a reference beginning `in-decal.` resolves in both"
+edition: Joseph Kenny OP's collection, dhspriory.org, now served at isidore.co; taken from the edited mirror github.com/Geremia/AquinasOperaOmnia. The Latin and English were published there as facing columns of one table and are split here. Translators are named in the source where they are known and are preserved in the body of the file
+source-url: "https://github.com/Geremia/AquinasOperaOmnia"
+source-files: TenCommandments
+anchors: "14 division anchors on the `in-decal.` prefix, emitted on the headings the source itself marks. Paragraph-level anchors are NOT minted: the source has no stable paragraph numbering"
+contents-lists-dropped: 2 headings belonged to a table of contents laid out like the text and were removed; the divisions themselves are kept
+column-gaps: 0 rows carry Latin with no English, 1 carry English with no Latin, out of 214 paired rows. Those rows appear in one language only
+extracted: 2026-08-22
+extracted-by: 99. Tools/aquinas/aoo_convert.py
+---
+
+# De duobus praeceptis caritatis et decem legis praeceptis
+
+### Collationes in decem praeceptis EXPLANATION OF THE TEN COMMANDMENTS
+## PROLOGUE {#in-decal.prologue}
+
+PROLOGUE
+
+## Prooemium {#in-decal.prooemium}
+
+Tria sunt homini necessaria ad salutem: scilicet scientia credendorum, scientia desiderandorum, et scientia operandorum.
+
+Primum docetur in symbolo, ubi traditur scientia de articulis fidei; secundum in oratione dominica; tertium autem in lege.
+
+**A fourfold law**
+
+Nunc autem de scientia operandorum intendimus: ad quam tractandam quadruplex lex invenitur.
+
+Prima dicitur lex naturae; et haec nihil aliud est nisi lumen intellectus insitum nobis a Deo, per quod cognoscimus quid agendum et quid vitandum. Hoc lumen et hanc legem dedit Deus homini in creatione. Sed multi credunt excusari per ignorantiam, si hanc legem non observant. Sed contra eos dicit propheta in Psal. IV, 6: *multi dicunt: quis ostendit nobis bona? *Quasi ignorent quid sit operandum. Sed ipse ibidem 7, respondet: *signatum est super nos lumen vultus tui, domine*: lumen scilicet intellectus, per quod nota sunt nobis agenda. Nullus enim ignorat quod illud quod nollet sibi fieri, non faciat alteri, et cetera talia. Sed licet Deus in creatione dederit homini hanc legem, scilicet naturae, Diabolus tamen in homine superseminavit aliam legem, scilicet concupiscentiae. Quousque enim in primo homine anima fuit subdita Deo, servando divina praecepta, etiam caro fuit subdita in omnibus animae vel rationi. Sed postquam Diabolus per suggestionem retraxit hominem ab observantia divinorum praeceptorum, ita etiam caro fuit inobediens rationi. Et inde accidit quod licet homo velit bonum secundum rationem, tamen ex concupiscentia ad contrarium inclinatur. Et hoc est quod apostolus dicit Rom. VII, 23: *video autem aliam legem in membris meis, repugnantem legi mentis meae*. Et inde est quod frequenter lex concupiscentiae legem naturae et ordinem rationis corrumpit. Et ideo subdit apostolus, ibid.: *captivantem me in lege peccati, quae est in membris meis*.
+
+Quia ergo lex naturae per legem concupiscentiae destructa erat, oportebat quod homo reduceretur ad opera virtutis, et retraheretur a vitiis: ad quae necessaria erat lex Scripturae. Sed sciendum, quod homo retrahitur a malo et inducitur ad bonum ex duobus. Primo, timore: primum enim propter quod aliquis maxime incipit peccatum vitare, est consideratio poenae Inferni, et extremi iudicii. Et ideo dicitur Eccli. I, 16: *initium sapientiae timor domini*; et ibidem 27: *timor domini expellit peccatum*. Licet enim ille qui ex timore non peccat, non sit iustus: inde tamen incipit iustificatio. Hoc ergo modo retrahitur homo a malo et inducitur ad bonum per legem Moysi, quam quidam irritantes, morte puniebantur. Hebr. X, 28: *irritam quis faciens legem Moysi, sine ulla miseratione duobus vel tribus testibus moritur*.
+
+Sed quia modus iste est insufficiens, et lex quae data erat per Moysen, hoc modo, scilicet per timorem, retrahebat a malis, insufficiens fuit: licet enim coercuerit manum, non coercebat animum; ideo est alius modus retrahendi a malo et inducendi ad bonum, modus scilicet amoris. Et hoc modo fuit data lex Christi, scilicet lex evangelica, quae est lex amoris.
+
+Sed considerandum est quod inter legem timoris et legem amoris triplex differentia invenitur. Et primo, quia lex timoris facit suos observatores servos, lex vero amoris facit liberos. Qui enim operatur solum ex timore, operatur per modum servi; qui vero ex amore, per modum liberi vel filii. Unde apostolus II Cor. III, 17: *ubi spiritus domini, ibi libertas*; quia scilicet tales ex amore ut filii operantur. Secunda differentia est quia observatores primae legis ad bona temporalia introducebantur. Isai. I, 19, *si volueritis et audieritis me, bona terrae comedetis*. Sed observatores secundae legis, in bona caelestia introducuntur. Matth. XIX, 17, *si vis ad vitam ingredi, serva mandata*; et ibid. III, 2: *poenitentiam agite: appropinquavit enim regnum caelorum*. Tertia differentia est, quia prima gravis: Act. XV, 10: *cur tentatis imponere iugum super cervicem nostram, quod neque nos neque patres nostri portare potuerunt? *Secunda autem levis: Matth. XI, 30: *iugum enim meum suave est; et onus meum leve*; apostolus, Rom. VIII, 15: *non accepistis spiritum servitutis iterum in timore, sed accepistis spiritum adoptionis filiorum*.
+
+Sicut ergo iam praedictum est, quadruplex lex invenitur: et prima quidem lex naturae, quam Deus in creatione infudit; secunda lex concupiscentiae; tertia lex Scripturae; quarta est lex caritatis et gratiae, quae est lex Christi. Sed manifestum est quod non omnes possunt scientiae insudare; et propterea a Christo data est lex brevis, ut ab omnibus posset sciri, et nullus propter ignorantiam possit ab eius observantia excusari. Et haec est lex divini amoris. Apostolus, Rom. IX, 28: *verbum breviatum faciet dominus super terram*. Sed sciendum, quod haec lex debet esse regula omnium actuum humanorum. Sicut enim videmus in artificialibus quod unumquodque opus tunc bonum et rectum dicitur quando regulae coaequatur; sic etiam quodlibet humanum opus rectum est et virtuosum quando regulae divinae dilectionis concordat; quando vero discordat ab hac regula, non est bonum nec rectum aut perfectum. Ad hoc autem quod actus humani boni reddantur, oportet quod regulae divinae dilectionis concordent.
+
+**Four effects of charity**
+
+Sed sciendum quod haec lex, scilicet divini amoris, quatuor efficit in homine valde desiderabilia. Primo causat in eo spiritualem vitam. Manifestum est enim quod naturaliter amatum est in amante. Et ideo qui Deum diligit, ipsum in se habet: I Ioan. IV, 16: *qui manet in caritate, in Deo manet, et Deus in eo*. Natura etiam amoris est quod amantem in amatum transformat: unde si vilia diligimus et caduca, viles et instabiles efficimur: Os. IX, 10: *facti sunt abominabiles sicut ea quae dilexerunt*. Si autem Deum diligimus, divini efficimur, quia, ut dicitur I Cor. VI, 17: *qui adhaeret domino, unus spiritus est*. Sed sicut Augustinus dicit, *sicut anima est vita corporis, ita Deus est vita animae*. Et hoc manifestum est. Tunc enim dicimus corpus per animam vivere quando habet operationes proprias vitae, et quando operatur et movetur; anima vero recedente, corpus nec operatur nec movetur. Sic etiam tunc anima operatur virtuose et perfecte quando per caritatem operatur, per quam habitat Deus in ea; absque caritate vero non operatur: I Ioan. III, 14, *qui non diligit, manet in morte*. Considerandum est autem, quod si quis habet omnia dona spiritus sancti absque caritate, non habet vitam. Sive enim sit gratia linguarum, sive sit donum fidei, vel quicquid sit aliud, sine caritate vitam non tribuunt. Si enim corpus mortuum induatur auro et lapidibus pretiosis, nihilominus mortuum manet. Hoc est ergo primum quod efficit caritas.
+
+Secundum quod facit caritas, est divinorum mandatorum observantia. Gregorius: *nunquam est Dei amor otiosus: operatur enim magna si est; si vero operari renuit, amor non est*. Unde manifestum signum caritatis est promptitudo implendi divina praecepta. Videmus enim amantem propter amatum magna et difficilia operari. Ioan. XIV, 23: *si quis diligit me, sermonem meum servabit*. Sed considerandum, quod qui mandatum et legem divinae dilectionis servat, totam legem implet. Est autem duplex modus divinorum mandatorum. Quaedam enim sunt affirmativa: et haec quidem implet caritas; quia plenitudo legis quae consistit in mandatis, est dilectio, qua mandata servantur. Quaedam vero sunt prohibitoria; haec etiam implet caritas, quia non agit perperam, ut dicit apostolus I Cor. XIII.
+
+Tertium quod facit caritas, est, quia est praesidium contra adversa. Habenti enim caritatem nulla adversa nocent, sed in utilia convertuntur: Rom. VIII, 28: *diligentibus Deum omnia cooperantur in bonum*; immo etiam adversa et difficilia suavia videntur amanti, sicut et apud nos manifeste videmus.
+
+Quartum vero est quod ad felicitatem perducit. Solum enim caritatem habentibus aeterna beatitudo promittitur. Omnia enim absque caritate insufficientia sunt. II Tim. IV, 8: *in reliquo reposita est mihi corona iustitiae, quam reddet mihi in illa die iustus iudex: non solum autem mihi, sed et his qui diligunt adventum eius*. Et sciendum, quod solum secundum differentiam caritatis est differentia beatitudinis et non secundum aliquam aliam virtutem. Multi enim magis abstinentes fuerunt quam apostoli; sed ipsi in beatitudine omnes alios excellunt propter excellentiam caritatis: ipsi enim fuerunt primitias spiritus habentes, sicut dicit apostolus, Rom. VIII. Unde differentia beatitudinis est ex differentia caritatis.
+
+Et sic patent quatuor quae in nobis efficit caritas.
+
+**Other effects of charity**
+
+Sed praeter illa, quaedam alia efficit quae praetermittenda non sunt. Primo enim efficit peccatorum remissionem. Et hoc manifeste videmus ex nobis. Si enim aliquis aliquem offendit, et ipsum postea intime diligat, propter dilectionem sibi offensam laxat. Sic et Deus diligentibus se peccata dimittit. I Petr. IV, 8: *caritas operit multitudinem peccatorum*. Et bene dicit, *operit*, quia scilicet a Deo non videntur ut puniat. Sed licet dicat quod *operit multitudinem*, tamen Salomon dicit, Prov. X, 12, quod *universa delicta operit caritas*. Et hoc maxime manifestat Magdalenae exemplum, Luc. VII, 47: *dimissa sunt ei peccata multa*: et causa subditur: *quoniam dilexit multum*. Sed forte dicet aliquis: sufficit ergo caritas ad delenda peccata, et non est necessaria poenitentia. Sed considerandum, quod nullus vere diligit qui non vere poenitet. Manifestum est enim quod quanto magis aliquem diligimus, tanto magis dolemus si ipsum offendimus. Et hic est unus caritatis effectus.
+
+Item causat cordis illuminationem. Sicut enim dicit Iob XXXVII, 19: *omnes involvimur tenebris*. Frequenter enim nescimus quid agendum vel desiderandum. Sed caritas docet omnia necessaria ad salutem. Ideo dicitur I Ioan. II, 27: *unctio eius docet vos de omnibus*. Et hoc ideo est, quia ubi caritas, ibi spiritus sanctus, qui novit omnia, qui deducit nos in viam rectam, sicut dicitur in Psal. CXLII. Ideo dicitur Eccli. II, 10: *qui timetis Deum, diligite illum; et illuminabuntur corda vestra*, scilicet ad sciendum necessaria ad salutem.
+
+Item perficit in homine perfectam laetitiam. Nullus enim vere gaudium habet, nisi existens in caritate. Quicumque enim aliquod desiderat, non gaudet nec laetatur nec quietatur donec illud adipiscatur. Et accidit in rebus temporalibus quod non habitum appetatur, et habitum despicitur et taedium generat; sed non sic est in spiritualibus; immo qui Deum diligit, habet ipsum, et ideo animus diligentis et desiderantis quietatur in eo. *Qui enim manet in caritate, in Deo manet, et Deus in eo*, ut dicitur I Ioan. IV, 16.
+
+Item efficit pacem perfectam. Accidit enim in rebus temporalibus, quod frequenter desiderantur; sed ipsis habitis adhuc animus desiderantis non quiescit; immo uno habito aliud appetit. Isai. LVII, 20: *cor autem impii quasi mare fervens, quod quiescere non potest*. Item ibidem, 20: *non est pax impiis, dicit dominus*. Sed non sic accidit in caritate circa Deum. Qui enim diligit Deum, pacem perfectam habet. Psal. CXVIII, 165: *pax multa diligentibus legem tuam, et non est illis scandalum*. Et hoc ideo est, quia solus Deus sufficit ad implendum desiderium nostrum: Deus enim maior est corde nostro, sicut dicit apostolus: et ideo dicit Augustinus in I confessionum: *fecisti nos domine ad te, et inquietum est cor nostrum, donec requiescat in te*. Psal. CII, 5: *qui replet in bonis desiderium tuum*.
+
+Item facit caritas hominem magnae dignitatis. Omnes enim creaturae ipsi divinae maiestati serviunt (omnia enim ab ipso sunt facta) sicut artificialia subserviunt artifici; sed caritas de servo facit liberum et amicum. Unde ait dominus apostolis, Ioan. XV, 15: *iam non dicam vos servos (...) sed amicos*. Sed nunquid Paulus non servus; sed et alii apostoli, qui se servos scribunt? Sed sciendum, quod duplex est servitus. Prima est timoris; et haec est poenosa, et non meritoria. Si enim aliquis a peccato abstinet solum timore poenae, non meretur ex hoc, sed adhuc est servus. Secunda est amoris. Si enim quis operatur non timore iustitiae sed amore divino, non sicut servus operatur, sed sicut liber, quia voluntarie. Et ideo dicit: *iam non dicam vos servos*. Et quare? Ad hoc respondet apostolus, Rom. VIII, 15: *non accepistis spiritum servitutis iterum in timore; sed accepistis spiritum adoptionis filiorum*. Timor enim non est in caritate, sicut dicitur I Ioan. IV; habet enim poenam; sed caritas facit non solum liberos, sed etiam filios, ut scilicet filii Dei nominemur et simus, ut dicitur I Ioan. III. Tunc enim extraneus efficitur alicuius filius adoptivus, quando acquiritur sibi ius. In hereditate illius. Sic et caritas acquirit ius in hereditate Dei, quae est vita aeterna: quia, ut dicitur Rom. VIII, 16-17: *ipse spiritus testimonium reddit spiritui nostro, quod sumus filii Dei. Si autem filii, et heredes: heredes quidem Dei, coheredes autem Christi*. Sap. V, 5: *ecce quomodo computati sunt inter filios Dei*.
+
+**How to get and increase charity**
+
+Ex iam dictis patent utilitates caritatis. Postquam igitur tam utilis est, studiose laborandum est ad acquirendam eam et retinendam. Sed sciendum, quod nullus a se caritatem habere potest, immo solius Dei est donum: unde Ioannes dicit: *non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos*: quia videlicet non propterea ipse nos diligit quia nos prius dilexerimus eum; sed hoc ipsum quod diligimus eum, causatur in nobis ex dilectione ipsius. Considerandum etiam, quod licet omnia dona sint a patre luminum, istud tamen donum, scilicet caritatis, omnia alia dona superexcellit. Omnia enim alia sine caritate et spiritu sancto habentur, cum caritate vero necessario spiritus sanctus habetur. Apostolus, Rom. V, 5: *caritas Dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis*. Sive enim sit donum linguarum, sive scientiae, sive prophetiae, absque gratia et spiritu sancto habentur.
+
+Sed licet caritas sit donum divinum, ad ipsam tamen habendam requiritur dispositio ex parte nostra. Et ideo sciendum, quod duo specialiter ad acquirendam caritatem necessaria sunt, et duo ad augmentum caritatis iam acquisitae. Ad acquirendam igitur caritatem primum est diligens divini verbi auditio. Et hoc manifestum est satis ex his quae sunt apud nos. Audientes enim bona de aliquo, in eius dilectionem accendimur. Sic et Dei verba audientes, accendimur in amorem ipsius. Psal. CXVIII, 140: *ignitum eloquium tuum vehementer, et servus tuus dilexit illud*. Item Psal. CIV, 19: *eloquium domini inflammavit eum*. Et propterea illi duo discipuli divino amore aestuantes dicebant, Luc. XXIV, 32: *nonne cor nostrum ardens erat in nobis dum loqueretur in via, et aperiret nobis Scripturas? *Unde et Act. X, legitur, quod praedicante Petro, spiritus sanctus in auditores divini verbi cecidit. Et hoc frequenter accidit in praedicationibus, quod qui duro corde accedunt, propter verbum praedicationis ad divinum amorem accenduntur.
+
+Secundum est bonorum continua cogitatio. Psal. XXXVIII, 4: *concaluit cor meum intra me*. Si ergo vis divinum amorem consequi, mediteris bona. Durus enim nimis esset qui divina beneficia quae consecutus est, pericula etiam quae evasit, et beatitudinem quae sibi a Deo repromittitur, cogitans, ad divinum amorem non accenderetur. Unde Augustinus: *durus est animus hominis, qui etsi dilectionem nolit impendere, saltem non velit rependere*. Et universaliter, sicut cogitationes malae destruunt caritatem, ita bonae eam acquirunt, nutriunt et conservant. Unde iubemur Isai. I, 16: *auferte malum cogitationum vestrarum ab oculis meis*. Sap. I, 3: *perversae cogitationes separant a Deo*.
+
+Sunt autem et duo quae habitam caritatem augent. Primum est cordis separatio a terrenis. Cor enim perfecte in diversa ferri non potest. Unde nullus valet Deum et mundum diligere. Et ideo quanto magis ab amore terrenorum noster animus elongatur, tanto magis firmatur in dilectione divina. Unde Augustinus dicit in Lib. 83 quaest.: *caritatis venenum est spes adipiscendorum aut retinendorum temporalium; nutrimentum eius est imminutio cupiditatis; perfectio, nulla cupiditas: quia radix omnium malorum est cupiditas*. Quisquis igitur caritatem nutrire vult, instet minuendis cupiditatibus. Est autem cupiditas amor adipiscendi aut obtinendi temporalia. Huius imminuendae initium est Deum timere, qui solus timeri sine amore non potest. Et propter hoc ordinatae fuerunt religiones, in quibus et per quas a mundanis et corruptibilibus animus trahitur, et erigitur ad divina: quod signatur II Mac. I, 22, ubi dicitur: *refulsit sol, qui prius erat in nubilo*. Sol, idest intellectus humanus, est in nubilo, quando deditus est terrenis; sed refulget, quando a terrenorum amore elongatur et retrahitur. Tunc enim splendet, et tunc divinus amor in eo crescit.
+
+Secundum est firma patientia in adversis. Manifestum est enim quod quando gravia pro eo quem diligimus, sustinemus, amor ipse non destruitur, immo crescit. Cant. VIII, 7: *aquae multae *(idest tribulationes multae) *non potuerunt extinguere caritatem*. Et ideo sancti viri qui adversitates pro Deo sustinent, magis in eius dilectione firmantur; sicut artifex illud artificium magis diligit in quo plus laboravit. Et inde est quod fideles quanto plures afflictiones pro Deo sustinent, tanto magis elevantur in amore ipsius. Gen. VII, 17: *multiplicatae sunt aquae *(idest tribulationes) *et elevaverunt arcam in sublime*, idest Ecclesiam, vel animam viri iusti.
+
+## Articulus 1 {#in-decal.1}
+
+De dilectione Dei
+
+Interrogatus Christus ante passionem, a legisperitis, quod esset maximum et primum mandatum, dixit, Matth. XXII, 37: *diliges dominum Deum tuum ex toto corde tuo, et in tota anima tua, et in tota mente tua; hoc est maximum et primum mandatum*. Et vere istud est maius et nobilius et utilius inter omnia mandata, sicut satis manifestum est. In hoc enim omnia mandata implentur.
+
+Sed ad hoc quod istud praeceptum dilectionis possit perfecte impleri, quatuor requiruntur. Primum est divinorum beneficiorum rememoratio: quia omnia quae habemus, sive anima, sive corpus, sive exteriora, habemus a Deo: et ideo oportet quod sibi de omnibus serviamus, et eum diligamus corde perfecto. Nimis enim ingratus est qui cogitans alicuius beneficia, eum non diligit. Haec recogitans David dicebat, I Paralip. XXIX, 14: *tua sunt omnia: quae de manu tua accepimus, dedimus tibi*. Et ideo in eius laudem dicitur Eccli. XLVII, 10: *de omni corde suo laudavit dominum, et dilexit Deum qui fecit illum*.
+
+Secundum est divinae excellentiae consideratio. Deus enim maior est corde nostro, I Ioan. III: unde si toto corde et viribus ei serviamus, adhuc non sufficimus. Eccli. XLIII, 32-33: *glorificantes dominum quantumcumque potueritis, supervalebit adhuc (...) benedicentes dominum exaltate illum quantum potestis: maior est enim omni laude*.
+
+Tertium est mundanorum et terrenorum abdicatio. Magnam enim iniuriam Deo facit qui aliquid ei adaequat. Isai. XL, 18: *cui similem fecistis Deum? *Tunc autem alia Deo adaequamus, quando res temporales et corruptibiles simul cum Deo diligimus. Sed hoc est omnino impossibile. Propterea dicitur Isai. XXVIII, 20: *coangustatum est stratum, ita ut alter decidat; et pallium breve utrumque operire non potest*. Ubi cor hominis assimilatur strato arcto et pallio brevi. Cor enim humanum arctum est in respectu ad Deum: unde quando alia ab eo in corde tuo recipis, ipsum expellis: ipse enim non patitur consortem in anima, sicut nec vir in uxore. Et ideo dicit ipse Exod. XX, 5: *ego sum Deus tuus Zelotes*. Nihil enim vult quod diligamus quantum eum aut praeter eum.
+
+Quartum est omnimoda peccatorum vitatio. Nullus enim potest diligere Deum in peccato existens. Matth. VI, 24: *non potestis Deo servire et mammonae*. Unde si in peccato existis, Deum non diligis. Sed ille diligebat qui dicebat, Isai. XXXVIII, 3: *memento quomodo ambulaverim coram te in veritate et in corde perfecto*. Praeterea dicebat Elias, III Reg. XVIII, 21: *quousque claudicatis in duas partes? *Sicut claudicans nunc huc nunc illuc inclinatur; sic et peccator nunc peccat, nunc Deum quaerere nititur. Et ideo dominus dicit, Ioelis II, 12: *convertimini ad me in toto corde vestro*.
+
+Sed contra istud praeceptum duo genera hominum peccant. Illi scilicet homines, qui vitando unum peccatum, utputa luxuriam, aliud committunt, ut usuram. Sed nihilominus damnantur: quia qui *offendit in uno, factus est omnium reus*, ut dicitur Iac. II, 10. Item sunt aliqui qui confitentur quaedam, quaedam non, vel quantum ad diversos confessionem dividunt. Sed isti non merentur, immo peccant in hoc, quia Deum decipere intendunt, et quia divisionem in sacramento committunt.
+
+Quantum ad primum dicit quidam: *impium est a Deo dimidiam sperare veniam*. Quantum ad secundum, Psal. LXI, 9: *effundite coram illo corda vestra*: quia videlicet omnia sunt in confessione revelanda.
+
+Iam ostensum est quod homo se Deo dare tenetur. Nunc considerandum est quid homo de se Deo dare debeat. Debet enim homo Deo dare quatuor: scilicet cor, animam, mentem et fortitudinem. Et ideo dicitur Matth. XXII, 37: *diliges dominum Deum tuum ex toto corde tuo, et ex tota anima tua, et ex tota mente tua et ex tota virtute*, idest fortitudine tua. Sciendum est autem, quod per cor intelligitur hic intentio. Est autem intentio tantae virtutis quod omnia opera ad se trahit: unde quaecumque bona mala intentione facta, in mala convertuntur. Luc. XI, 34: *si oculus tuus *(idest intentio) *nequam fuerit, totum corpus tenebrosum erit*; idest, congeries bonorum operum tuorum tenebrosa erit. Et propterea in omni opere nostro intentio ponenda est in Deo. Apostolus, I Cor. X, 31: *sive ergo manducatis, sive bibitis, vel aliud quid facitis, omnia in gloriam Dei facite*.
+
+Sed bona intentio non sufficit; immo oportet quod adsit bona voluntas, quae per animam significatur. Frequenter enim aliquis bona intentione operatur, sed inutiliter, cum bona voluntas desit; ut si quis furetur ut pascat pauperem, est quidem recta intentio, sed deest rectitudo debitae voluntatis. Unde nullum malum bona intentione factum excusatur. Rom. III, 8: *qui dicunt, faciamus mala ut veniant bona: quorum damnatio iusta est*. Tunc autem adest bona voluntas intentioni, quando ipsa voluntas voluntati divinae concordat; quod quotidie postulamus dicentes: *fiat voluntas tua sicut in caelo et in terra*; et Psal. XXXIX, 9: *ut facerem voluntatem tuam, Deus meus, volui*. Et propter hoc dicit, *in tota anima tua*. Anima enim in Scriptura frequenter pro voluntate accipitur, ut Hebr. X, 38: *quod si subtraxerit se, non placebit animae meae*, idest voluntati meae.
+
+Sed aliquando est bona intentio et bona voluntas, sed in intellectu quandoque aliquod peccatum habetur, et ideo totus intellectus dandus est Deo. Apostolus, II Cor. X, 5: *in captivitatem redigentes omnem intellectum in obsequium Christi*. Multi enim in opere non peccant, sed tamen volunt ipsa peccata cogitare frequenter; contra quos dicitur Isai. I, 16: *auferte malum cogitationum vestrarum*. Sunt etiam multi qui in sua sapientia confidentes, nolunt fidei assentire, et tales non dant mentem Deo. Contra hos dicitur Prov. III, 5: *ne innitaris prudentiae tuae*.
+
+Sed istud non sufficit; immo totam virtutem et fortitudinem Deo dare oportet. Psal. LVIII, 10: *fortitudinem meam ad te custodiam*. Aliqui enim sunt qui fortitudinem suam tribuunt ad peccandum, et in hoc suam potentiam manifestant; contra quos dicitur Isai. V, 22: *vae qui potentes estis ad bibendum vinum, et viri fortes ad miscendam ebrietatem*. Aliqui ostendunt potentiam suam vel virtutem in nocendo proximis; deberent eam ostendere in subveniendo ipsis. Prov. XXIV, II: *erue eos qui ducuntur ad mortem; et qui trahuntur ad interitum, liberare ne cesses*.
+
+Igitur ad diligendum Deum danda sunt ista Deo: scilicet intentio, voluntas, mens, fortitudo.
+
+## Articulus 2 {#in-decal.2}
+
+De dilectione proximi
+
+Interrogatus Christus quod esset maximum mandatum, uni interrogationi duas responsiones dedit. Et prima fuit: *diliges dominum Deum tuum*; de quo dictum est. Secunda vero fuit: *et proximum tuum sicut teipsum*. Ubi considerandum est, quod qui hoc servat, totam legem implet. Apostolus, Rom. XIII, 10: *plenitudo ergo legis est dilectio*.
+
+**Four motives for loving our neighbor**
+
+Sed sciendum, quod ad dilectionem proximi quatuor nos inducunt. Primo divinus amor: quia sicut dicitur I Ioan. IV, 20: *si quis dixerit quoniam diligo Deum, et fratrem suum oderit, mendax est*. Qui enim dicit se diligere aliquem, et filium eius vel eius membra odio habet, mentitur. Omnes autem fideles filii et membra Christi sumus. Apostolus, I Cor. XII, 27: *vos estis corpus Christi, et membra de membro*. Et ideo qui odit proximum, non diligit Deum.
+
+Secundum est divinum praeceptum. Christus enim in recessu suo inter omnia alia praecepta, hoc praeceptum discipulis praecipue commendavit dicens, Ioan. XV, 12: *hoc est praeceptum meum, ut diligatis invicem sicut dilexi vos*. Nullus enim praecepta divina servat qui proximum odit. Unde istud est signum observantiae divinae legis, dilectio proximi. Unde dominus, Ioan. XIII, 35: *in hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis ad invicem*. Non dicit in suscitatione mortuorum, non in aliquo evidenti signo; sed hoc est signum, *si dilectionem habueritis ad invicem*. Et hoc beatus Ioannes recte considerabat: unde dicebat: *nos scimus quoniam translati sumus de morte ad vitam*. Et quare? *Quoniam diligimus fratres. Qui non diligit, manet in morte*.
+
+Tertium est naturae communicatio. Sicut enim dicitur Eccli. XIII, 19, *omne animal diligit simile sibi*. Unde cum omnes homines sint similes in natura, invicem se diligere debent. Et ideo odire proximum non solum est contra divinam legem, sed etiam contra legem naturae.
+
+Quartum utilitatis consecutio. Omnia enim alterius alii sunt utilia per caritatem. Haec enim est quae unit Ecclesiam, et omnia communia facit. Psal. CXVIII, 63: *particeps ego sum omnium timentium te, et custodientium mandata tua.*
+
+**Five requisites in loving our neighbor**
+
+Diliges proximum tuum sicut teipsum. Istud est secundum praeceptum legis, et est de dilectione proximi. Quantum autem proximum diligere debeamus, iam dictum est; et dicendum restat de modo dilectionis: qui quidem innuitur cum dicitur, *sicut teipsum*. Circa quod verbum quinque considerare possumus, quae in dilectione proximi servare debemus.
+
+Primum est quia debemus eum diligere vere sicut nos: quod facimus, si propter seipsum ipsum diligimus, non propter nos. Ideo notandum, quod triplex est amor; quorum duo non sunt veri, tertius autem verus. Primus est qui est propter utile. Eccli. VI, 10: *est amicus socius mensae, et non permanebit in die necessitatis*. Sed certe iste non est verus amor. Deficit enim deficiente utilitate. Et tunc nolumus bonum proximo, sed potius bonum utilitatis volumus nobis. Est et alius amor qui est propter delectabile. Et hic etiam non est verus, quia deficiente delectabili deficit. Et ideo nolumus bonum propter hoc principaliter proximo, sed potius bonum suum nobis volumus. Tertius est amor qui est propter virtutem. Et iste solus est verus. Tunc enim non diligimus proximum propter bonum nostrum, sed propter suum.
+
+Secundum est quod debemus diligere ordinate: ut scilicet non diligamus eum supra Deum vel quantum Deum, sed iuxta sicut teipsum debes diligere. Cant. II, 4: *ordinavit in me caritatem*. Hunc ordinem docuit dominus Matth. X, 37, dicens: *qui amat patrem aut matrem plus quam me, non est me dignus; et qui amat filium aut filiam super me, non est me dignus*.
+
+Tertium est quod debemus eum diligere efficaciter. Non enim te solum diligis, sed etiam procuras studiose tibi bona, et vitas mala. Sic quoque debes facere proximo. I Ioan. III, 18: *non diligamus verbo neque lingua, sed opere et veritate*. Sed certe illi pessimi sunt qui ore diligunt et corde nocent; de quibus Psal. XXVII, 3: *loquuntur pacem cum proximo suo, mala autem in cordibus eorum*. Apostolus, Rom. XII, 9: *dilectio sine simulatione*.
+
+Quartum, quod debemus eum diligere perseveranter, sicut et te perseveranter diligis. Prov. XVII, 17: *omni tempore diligit qui amicus est, et frater in angustiis comprobatur*: scilicet tam tempore adversitatis quam prosperitatis; immo tunc, scilicet tempore adversitatis, maxime probatur amicus, ut dicitur ibidem.
+
+Sed sciendum, quod duo sunt quae iuvant ad amicitiam conservandam. Primum est patientia: *vir enim iracundus suscitat rixas*, ut dicitur Prov. XXVI, 21. Secundum est humilitas, quae causat primum, scilicet patientiam: Prov. XIII, 10: *inter superbos semper iurgia sunt*. Qui enim considerat magna de se, et despicit alium, non potest defectus illius pati.
+
+Quintum est quod eum debemus diligere iuste et sancte, ut scilicet eum non diligamus ad peccandum, quia nec te sic debes diligere, cum Deum ex hoc amittas. Unde Ioan. XV, 9: *manete in dilectione mea*: de qua dilectione dicitur Eccli. XXIV, 24: *ego mater pulchrae dilectionis.*
+
+**Loving sinner and hating sin**
+
+Diliges proximum tuum sicut teipsum. Hoc praeceptum Iudaei et Pharisaei male intelligebant, credentes quod Deus praeciperet diligendos amicos, et odiendos inimicos; et ideo per proximos intelligebant tantum amicos. Hunc autem intellectum intendit Christus reprobare, dicens Matth. V, 44: *diligite inimicos vestros, benefacite his qui oderunt vos*. Sciendum autem, quod quicumque odit fratrem suum, non est in statu salutis. I Ioan. II, 9: *qui (...) odit fratrem suum, in tenebris est*.
+
+Est autem attendendum, quod etiam in hoc invenitur quaedam contrarietas. Nam sancti aliquos oderunt: Psal. CXXXVIII, 22: *perfecto odio oderam illos*; et in Evangelio Luc. XIV, 26: *si quis (...) non odit patrem suum et matrem et uxorem et filios et fratres et sorores, adhuc autem et animam suam, non potest meus esse discipulus*. Et ideo sciendum, quod in omnibus factis nostris factum Christi debet esse nobis exemplum. Deus enim diligit et odit. Quia in quolibet homine duo sunt consideranda: scilicet natura et vitium. Natura quidem in hominibus diligi debet, vitium vero odiri. Unde si quis vellet hominem esse in Inferno, odiret naturam; si quis vero vellet ipsum esse bonum, odiret peccatum, quod semper odiendum est. Psal. V, 7: *odisti omnes qui operantur iniquitatem*. Sap. XI, 25: *diligis domine omnia quae sunt, et nihil odisti eorum quae fecisti*. Ecce ergo quod Deus diligit et odit: diligit naturam et odit vitium.
+
+Sciendum etiam, quod homo aliquando sine peccato potest malum facere: quando scilicet sic facit malum ut velit bonum: quia et Deus sic facit. Sicut cum homo infirmatur, convertitur ad bonum, qui in sanitate erat malus. Item in adversitate aliquis convertitur et est bonus, qui in prosperitate erat malus, iuxta illud Isai. XXVIII, 19: *vexatio intellectum dabit auditui*. Item si desideras malum tyranni destruentis Ecclesiam, inquantum desideras bonum Ecclesiae per destructionem tyranni: unde II Mac. I, 17: *per omnia benedictus Deus, qui tradidit impios*. Et hoc omnes debent velle non solum voluntate, sed etiam opere. Non enim est peccatum suspendere iuste malos: ministri enim Dei sunt tales, secundum apostolum, Rom. XIII, et servant isti dilectionem, quia poena fit aliquando propter castigationem, aliquando propter bonum melius et divinius. Est enim maius bonum unius civitatis quam vita unius hominis. Sed sciendum, quod non sufficit non velle malum, sed oportet velle bonum; scilicet emendationem suam, et vitam aeternam.
+
+Duobus enim modis quis vult bonum alterius. Uno modo generaliter, inquantum est creatura Dei, et participabilis vitae aeternae; alio modo specialiter, inquantum est amicus vel socius. A generali autem dilectione nullus excluditur: debet enim quilibet pro quolibet orare, et cuilibet in necessitate ultima subvenire. Sed non teneris cum quolibet habere familiaritatem, nisi peteret veniam: quia tunc esset amicus; et si refutares, haberes odio amicum. Unde Matth. VI, 14, dicitur: *si dimiseritis hominibus peccata eorum, dimittet et pater vester caelestis delicta vestra; si autem non dimiseritis hominibus, nec pater vester dimittet vobis peccata vestra*. Et in oratione dominica quae ponitur Matth. VI, 9, dicitur: *dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris.*
+
+**Reasons for forgiving**
+
+Diliges proximum tuum sicut te ipsum. Dictum est, quod tu peccas, si non parcis veniam postulanti; et quod perfectionis est, si tu eum ad te revocas, licet non tenearis. Sed ad hoc ut eum trahas ad te, multae rationes inducunt. Prima est propriae dignitatis conservatio. Diversae enim dignitates diversa signa habent. Nullus autem propriae dignitatis signa dimittere debet. Inter omnes autem dignitates maior est quod quis sit filius Dei. Huius autem dignitatis signum est, si diligis inimicum: Matth. V, 44-45: *diligite inimicos vestros, ut sitis filii patris vestri qui in caelis est*. Si enim diligis amicum, non est hoc signum filiationis divinae: nam publicani et ethnici hoc faciunt, ut dicitur Matth. V.
+
+Secunda est victoriae acquisitio: omnes enim hoc naturaliter desiderant. Oportet ergo quod vel trahas eum qui te offendit ad dilectionem bonitate tua, et tunc vincis; vel quod alius trahat te ad odium, et tunc perdis. Rom. XII, 21: *noli vinci a malo, sed vince in bono malum*.
+
+Tertia est multiplicis utilitatis consecutio. Acquiris enim ex hoc amicos. Rom. XII, 20: *si esurierit inimicus tuus, ciba illum; si sitit, potum da illi: hoc enim faciens, carbones ignis congeres super caput eius*. Augustinus: *nulla maior provocatio ad amorem, quam praevenire amando. Nullus enim est ita durus, qui etsi dilectionem nolit impendere, nolit tamen rependere*: quia, ut dicitur Eccli. VI, 15, *amico fideli nulla comparatio*. Prov. XVI, 7: *cum placuerint domino viae hominis, inimicos quoque eius convertet ad pacem*.
+
+Quarta est, quia ex hoc preces tuae facilius exaudiuntur. Unde super illud Ier. XV, *si steterint Moyses et Samuel coram me*, dicit Gregorius, quod fecit potius de istis mentionem, quia rogaverunt pro inimicis. Similiter Christus ait, Luc. XXIII, 34: *pater, dimitte illis*. Item beatus Stephanus orando pro inimicis magnam utilitatem fecit Ecclesiae, quia Paulum convertit.
+
+Quinta est peccati evasio, quam maxime desiderare debemus. Aliquando enim peccamus, nec Deum quaerimus: et Deus trahit nos ad se vel infirmitate, vel aliquo huiusmodi. Os. II, 6: *sepiam viam tuam spinis*. Sic fuit tractus beatus Paulus. Psal. CXVIII, 176: *erravi sicut ovis quae periit. Quaere servum tuum, domine*. Cant. I, 3: *trahe me post te*. Hoc autem consequimur, si inimicum ad nos trahimus, primo remittentes: quia, ut dicitur Luc. VI, 38, *eadem quippe mensura qua mensi fueritis, remetietur vobis*; et ibidem 37, *dimittite et dimittemini*; et Matth. V, 7: *beati misericordes, quoniam ipsi misericordiam consequentur*. Nulla est enim maior misericordia quam offendenti dimittere.
+
+## Articulus 3 {#in-decal.3}
+
+De primo praecepto legis
+
+Non habebis deos alienos coram me. Exod. XX, 3.
+
+Sicut iam dictum est, tota lex Christi dependet a caritate. Caritas autem pendet ex duobus praeceptis; quorum unum est de dilectione Dei, reliquum de dilectione proximi. Et de istis duobus iam dictum est.
+
+Nunc autem sciendum, quod Deus dando legem Moysi, dedit decem praecepta in duabus tabulis lapideis scripta: quorum tria in prima tabula scripta pertinent ad amorem Dei; septem vero scripta in secunda tabula pertinent ad amorem proximi. Et ideo tota lex fundatur in duobus praeceptis.
+
+**Errors**
+
+Primum autem quod pertinet ad amorem Dei est, *non habebis deos alienos*. Et ad huius intellectum sciendum est, quod antiqui multipliciter hoc praeceptum transgrediebantur. Quidam enim colebant Daemonia. Psal. XCV, 5: *omnes dii gentium Daemonia*. Hoc autem est maximum omnium peccatorum, et horribile. Nunc quoque multi transgrediuntur hoc praeceptum, omnes scilicet qui divinationibus et sortilegiis intendunt. Haec enim, secundum Augustinum, fieri non possunt quin aliquod pactum cum Diabolo contrahatur. I Cor. X, 20: *nolo vos fieri socios Daemoniorum*; et iterum ibidem 21, *non potestis mensae domini participes esse, et mensae Daemoniorum*.
+
+Alii colebant caelestia corpora, credentes astra esse deos. Sap. XIII, 2: *solem et lunam rectores orbis terrarum deos putaverunt*. Et ideo Moyses prohibuit Iudaeis, quod non levarent oculos, nec adorarent solem et lunam et stellas. Deut. IV, 19: *custodite solicite animas vestras, ne forte elevatis oculis ad caelum videas solem et lunam et omnia astra caeli, et errore deceptus adores ea, et colas quae creavit dominus Deus tuus in ministerium cunctis gentibus*. Idem dicitur Deut. V. Contra hoc praeceptum peccant astrologi, qui dicunt haec esse animarum rectores; cum tamen propter hominem facta sint, cuius solus Deus rector est.
+
+Alii vero colebant inferiora elementa. Sap. XIII, 2: *aut ignem aut spiritum (...) deos putaverunt*. In quorum errorem inciderunt homines qui inferioribus male utuntur, nimis ea diligentes. Apostolus, Ephes. V, 5: *aut avarus, quod est idolorum servitus*.
+
+Alii errantes colebant homines, vel aves, vel alios, vel seipsos. Quod quidem contingit ex tribus.
+
+Primo ex carnalitate. Sap. XIV, 15: *acerbo luctu dolens pater rapti cito sibi filii, fecit imaginem et illum qui tunc quasi homo mortuus fuerat, nunc tanquam Deum colere coepit, et constituit inter servos suos sacra et sacrificia*.
+
+Secundo ex adulatione. Etenim quidam aliquos quos non potuerunt honorare in praesentia, curaverunt in absentia honorare, faciendo scilicet eorum imagines, et colendo loco eorum. Sap. XIV, 17: *quem honorare volebant, fecerunt ut illum qui aberat, tanquam praesentem colerent*. Tales sunt quicumque diligunt et venerantur homines plusquam Deum. Matth. X, 37: *qui diligit patrem aut matrem plusquam me, non est me dignus*. Psal. CXLV, 2-3: *nolite confidere in principibus, neque in filiis hominum, in quibus non est salus*.
+
+Tertio ex praesumptione. Quidam enim ex praesumptione fecerunt se vocari deos, sicut patet Iudith III, de Nabuchodonosor. Ez. XXVIII, 2: *elevatum est cor tuum, et dixisti, Deus ego sum*. Et hoc faciunt qui plus suo sensui quam Dei praeceptis credunt. Isti enim se pro diis colunt, sequentes enim delectationes carnis, corpus suum pro Deo colunt. Apostolus, Philip. III, 19: *quorum Deus venter est*. Ab his ergo omnibus cavere oportet. *Non habebis deos alienos coram me*.
+
+**Why adore one God?**
+
+Sicut dictum est, primum praeceptum legis est hoc, quo prohibemur non colere nisi unum Deum. Et ad hoc etiam inducimur quinque rationibus.
+
+Prima sumitur ex Dei dignitate, quae si auferatur, fit Deo iniuria, sicut potest videri ex consuetudine hominum. Cuilibet enim dignitati debetur reverentia: unde proditor regis est qui aufert quod exhibere teneretur. Et hoc quidam Deo faciunt. Rom. I, 23: *mutaverunt gloriam incorruptibilis Dei in similitudinem imaginis corruptibilis hominis*. Et hoc summe Deo displicet. Isai. XLII, 8: *gloriam meam alteri non dabo, et laudem meam sculptilibus*. Et considerandum, quod haec Dei dignitas est, scilicet quod omnia sciat. Unde Deus dicitur a videndo; hoc enim est unum signum deitatis. Isai. XLI, 23: *annuntiate quae ventura sunt in futurum, et sciemus quia dii estis vos*. Hebr. IV, 13: *omnia nuda et aperta sunt oculis eius*. Hanc autem dignitatem auferunt divinatores: contra quos dicit Isai. VIII, 19: *nunquid non populus a Deo suo requirit visionem pro vivis ac mortuis?*
+
+Secunda ratio sumitur ex eius largitate. Omne enim bonum habemus a Deo. Et hoc etiam ad dignitatem Dei pertinet quod factor et dator est omnium bonorum. Psal. CIII, 28: *aperiente te manum tuam, omnia implebuntur bonitate*. Et hoc importatur in hoc nomine Deus, quod dicitur a distributione, idest dator rerum, quia omnia replet sua bonitate. Nimis ergo ingratus es, si ab illo tibi collatum non recognoscis; immo facis tibi alium Deum, sicut filii Israel deducti de Aegypto fecerunt idolum. Os. II, 5: *vadam post amatores meos*. Hoc etiam fit quando quis in alio quam in Deo spem ponit, hoc est quando adiutorium ab alio petit. Psal. XXXIX, 5: *beatus vir cuius est nomen domini spes eius*. Apostolus, ad Gal. IV, 9-10: *cum cognoveritis Deum (...) quomodo convertimini iterum ad infirma et egena elementa? (...). Dies observatis et menses, et tempora et annos*.
+
+Tertia ratio sumitur ex promissi firmitate. Abrenuntiavimus enim Diabolo, et fidem promisimus soli Deo: unde non debemus ipsam infringere. Hebr. X, 28-29: *irritam quis faciens legem Moysi, sine ulla miseratione duobus vel tribus testibus moritur: quanto magis putatis deteriora mereri supplicia qui filium Dei conculcaverit, et sanguinem testamenti pollutum duxerit, in quo sanctificatus est, et spiritui gratiae contumeliam fecerit? *Rom. VII, 3: *vivente viro vocabitur adultera, si fuerit cum alio viro*: et talis debet comburi. Vae ergo peccatori ingredienti terram duabus viis, et claudicantibus in duas partes.
+
+Quarta ratio est ex dominii diabolici gravitate. Ier. XVI, 13: *servietis diis alienis die ac nocte, qui non dabunt vobis requiem*. Non enim quiescit in uno peccato, sed potius nititur ad aliud ducere. *Qui facit peccatum, servus est peccati*, Ioan. VIII, 34; ideo non de facili quis egreditur de peccato, Gregorius: *peccatum quod per poenitentiam non diluitur, mox suo pondere in aliud trahit*. Contrarium est de dominio divino: quia praecepta eius gravia non sunt. Matth. XI, 30: *iugum enim meum suave est, et onus meum leve*. Satis enim reputatur quis facere, si tantum facit pro Deo quantum fecit pro peccato. Rom. VI, 19: *sicut exhibuistis membra vestra servire immunditiae et iniquitati ad iniquitatem; ita nunc exhibete membra vestra servire iustitiae in sanctificationem*. Sed de servis Diaboli dicitur Sap. V, 7: *lassati sumus in via iniquitatis et perditionis, et ambulavimus vias difficiles*; et Ier. IX, 5: *ut inique agerent, laboraverunt*.
+
+Quinta est ex praemii sive muneris immensitate. In nulla enim lege talia promittuntur praemia sicut in lege Christi. Saracenis enim promittuntur fluvii lactis et mellis, Iudaeis terra promissionis; sed Christianis Angelorum gloria. Matth. XXII, 30: *erunt sicut Angeli Dei in caelo*. Hoc considerans Petrus ait, Ioan. VI, 69: *domine, ad quem ibimus? Verba vitae aeternae habes*.
+
+## Articulus 4 {#in-decal.4}
+
+De secundo praecepto
+
+Non assumes nomen domini Dei tui in vanum. Exod. XX, 7.
+
+Hoc est secundum praeceptum legis: et sicut non est nisi unus Deus quem debemus colere, ita non est nisi unus quem debemus maxime venerari. Et primo quantum ad nomen: unde *non assumes nomen domini Dei tui in vanum*.
+
+**The meaning of “in vain”**
+
+Sciendum, quod vanum dicitur tripliciter. Aliquando enim dicitur falsum. Psal. XI, 3: *vana locuti sunt unusquisque ad proximum suum*. Assumis ergo nomen Dei in vanum, quando assumis illud ad confirmationem falsitatis. Zach. VIII, 17: *iuramentum mendax ne diligatis*; ibidem XIII, 3: *non vives, quia locutus es mendacium in nomine domini*.
+
+Talis autem facit iniuriam Deo, sibi ipsi, et omnibus hominibus. Deo quidem, quia cum iurare per Deum nihil aliud sit nisi invocare eius testimonium, cum iuras falsum: aut credis Deum nescire verum, et sic ponis ignorantiam in Deo, cum tamen omnia nuda et aperta sint oculis eius, ut dicitur ad Hebr. IV; aut quod diligat mendacium, cum tamen odiat ipsum: Psal. V, 7: *perdes omnes qui loquuntur mendacium*; aut derogas potentiae, quasi non possit de eo punire.
+
+Item facit iniuriam sibi ipsi: obligat enim se iudicio Dei. Nihil est autem aliud dicere, per Deum ita est, nisi quod Deus puniat me, si non est ita.
+
+Item iniuriatur aliis hominibus. Nulla enim inter aliquos societas durare potest, nisi credant sibi invicem. Dubia autem iuramentis confirmantur. Hebr. VI, 16: *omnis controversiae finis ad confirmationem est iuramentum*. Iniuriatur ergo Deo, crudelis est sibi, et noxius et hominibus.
+
+Aliquando dicitur vanum, inutile. Psal. XCIII, 11: *dominus scit cogitationes hominum, quoniam vanae sunt*. Et ideo confirmando vanitatem assumitur nomen Dei in vanum.
+
+In veteri enim lege prohibitum fuit ut non iuraretur falsum: Deut. V, 11: *non usurpabis nomen Dei tui frustra*. Sed Christus prohibuit non nisi in necessitate iurare; et ideo dicitur Matth. V, 33-34: *audistis quia dictum est antiquis, non iurabis. Ego autem dico vobis: nolite iurare omnino*. Et huius ratio est, quia in nulla parte ita fragiles sumus sicut in lingua: quia eam nullus domare potuit, sicut dicitur Iac. III, et ideo de levi posset homo deierare. Matth. V, 37: *sit sermo vester, est est, non non*; et iterum, vers. 34: *ego autem dico vobis: nolite iurare omnino*.
+
+Et nota, quod iuramentum est sicut medicina, quae non semper accipitur, sed in necessitate. Et ideo, ut dicitur Matth. V, 37, *quod his amplius est, a malo est*. Eccli. XXIII, 9: *iurationi non assuescat os tuum: multi enim casus in illa. Nominatio vero Dei non sit assidua in ore tuo, et nominibus sanctorum ne admiscearis: quoniam non eris immunis ab eis*.
+
+Aliquando autem dicitur vanum, peccatum vel iniustitia. Psal. IV, 3: *filii hominum usquequo gravi corde? Ut quid diligitis vanitatem? *Qui ergo iurat pro peccato faciendo, assumit nomen Dei sui in vanum. Iustitiae vero partes sunt facere bonum, et dimittere malum. Si ergo iuras facere furtum, vel aliud huiusmodi, hoc contra iustitiam est: et quamvis non sit servandum hoc iuramentum, tamen sic iurans periurus est. Talis fuit Herodes contra Ioannem, Marc. VI. Similiter contra iustitiam facit qui iurat non facere bonum, sicut non intrare Ecclesiam vel religionem: et hoc etiam iuramentum non est servandum, et tamen periurus est iurans.
+
+**Conditions of a lawful oath**
+
+Non est ergo iurandum de falso, non de inutili, non etiam de iniustitia: et ideo dicitur Ier. IV, 2: *et iurabis, vivit dominus, in veritate et in iudicio et in iustitia*.
+
+Vanum dicitur aliquando fatuum: Sap. XIII, 1: *vani sunt omnes homines in quibus non est scientia Dei*. Qui ergo accipiunt nomen Dei stulte, sicut blasphemi, assumunt nomen Dei in vanum. Lev. XXIV, 16: *qui blasphemaverit nomen domini, morte morietur.*
+
+**Taking God’s name justly**
+
+Non assumes nomen domini Dei tui in vanum. Sciendum, quod nomen Dei sumitur ad sex. Primo quidem ad dicti confirmationem sicut in iuramento. Et in hoc confitemur quod prima veritas non est nisi in Deo. In hoc autem fit reverentia Deo: unde in lege praecipitur, Deut. VI, quod non iuretur nisi per Deum. Contrarium faciunt qui aliter iurant. Exod. XXIII, 13: *non iurabis per nomina deorum exterorum*. Et quamvis aliquando iuretur per creaturas, tamen sciendum, quod in omnibus his non iuratur nisi per Deum. Cum enim iuras per animam tuam vel caput tuum, idem est quod eam obligare poenae infligendae a Deo. Apostolus, II Cor. I, 23: *testem Deum invoco in animam meam*. Item cum iuras per Evangelium, iuras per Deum, qui dedit Evangelium: et ideo peccant qui iurant per Deum de facili, aut per Evangelium.
+
+Secundo sumitur ad sanctificationem. Baptismus enim sanctificat. Apostolus, I Cor. VI, 11: *sed abluti estis, sed sanctificati estis, sed iustificati estis in nomine domini nostri Iesu Christi*. Hoc autem non habet virtutem nisi in invocatione Trinitatis. Ier. XIV, 9: *tu autem in nobis es, domine, et nomen sanctum tuum invocatum est super nos*.
+
+Tertio sumitur ad adversarii expulsionem. Unde ante Baptismum abrenuntiatur Diabolo. Isai. IV, 1: *tantummodo invocetur nomen tuum super nos, aufert opprobrium nostrum*. Et ideo si redis ad peccata, nomen Dei sumitur in vanum.
+
+Quarto sumitur ad eiusdem nominis confessionem. Apostolus, Rom. X, 14: *quomodo ergo invocabunt in quem non crediderunt? *Et iterum, vers. 13: *omnis enim quicumque invocaverit nomen domini, salvus erit*. Confitemur autem primo ore ad manifestandum gloriam Dei. Isai. XLIII, 7: *omnis qui invocat nomen meum, in gloriam meam creavi eum*. Ergo si dicis aliquid contra gloriam Dei, assumis nomen Dei in vanum. Confitemur secundo opere, cum ea operamur quae gloriam Dei manifestant. Matth. V, 16: *videant opera vestra bona, et glorificent patrem vestrum qui in caelis est*. Contrarium faciunt quidam, de quibus dicit apostolus, Rom. II, 24: *nomen Dei per vos blasphematur inter gentes*.
+
+Quinto assumitur ad defensionem. Prov. XVIII, 10: *turris fortissima nomen domini: ad ipsam currit iustus, et exaltabitur*. Marc. ult., 17: *in nomine meo Daemonia eiicient*. Act. IV, 12: *non est aliud nomen sub caelo datum hominibus, in quo oporteat nos salvos fieri*.
+
+Sexto sumitur ad operis completionem. Apostolus, Col. III, 17: *omne quodcumque facitis in verbo aut in opere, omnia in nomine domini nostri Iesu Christi facite*. Psal. CXXIII, 8: *adiutorium nostrum in nomine domini*. Sed quia aliquando aliquis indiscrete incipit, sicut accidit in voto quod non adimpletur, tunc etiam in vanum nomen domini assumitur. Unde Eccli. V, 3: *si quid vovisti Deo, ne moreris reddere*. Psal. LXXV, 12: *vovete et reddite domino Deo vestro omnes qui in circuitu eius affertis munera. Displicet enim ei infidelis et stulta promissio*, Eccli. V, 3.
+
+## Articulus 5 {#in-decal.5}
+
+De tertio praecepto
+
+Memento ut diem sabbati sanctifices. Exod. XX, 8.
+
+Hoc est tertium mandatum legis, et convenienter. Primo enim debemus Deum venerari corde: unde praecipitur quod non colatur nisi unus Deus: unde *non habebis deos alienos coram me*. Secundo ore: unde *non assumes nomen domini Dei tui in vanum*. Tertio opere: et hoc est: *memento ut diem sabbati sanctifices*. Voluit enim ut esset certus dies in quo intenderent homines ad servitium Dei.
+
+**Reasons for this commandment**
+
+Habetur autem hoc praeceptum quinque rationibus. Primo enim datum fuit ad destructionem erroris. Praevidit enim spiritus sanctus quod futuri erant aliqui dicturi mundum semper fuisse. II Petr. III, 3-5: *venient in novissimis diebus in deceptione illusores iuxta proprias concupiscentias ambulantes, dicentes: ubi est promissio aut adventus eius? Ex quo enim patres dormierunt, omnia sic perseverant ab initio creaturae. Latet enim eos hoc volentes quod caeli erant prius et terra de aqua, et per aquam consistens Dei verbo*. Voluit ergo Deus ut custodiretur unus dies in memoriam quod Deus omnia creaverat in sex diebus, et in septimo quievit a novis creaturis condendis. Et hanc rationem ponit dominus in lege, dicens: *memento ut diem sabbati sanctifices*. Sed Iudaei in memoriam primae creationis colebant sabbatum; Christus autem veniens fecit novam creationem. Per primam enim homo terrenus, per secundam homo caelestis effectus est. Gal. VI, 15: *in Christo Iesu neque circumcisio aliquid valet neque praeputium, sed nova creatura*. Et haec nova creatura est per gratiam, quae incepit in resurrectione. Rom. VI, 4-5: *quomodo Christus surrexit a mortuis per gloriam patris, ita et nos in novitate vitae ambulemus. Si enim complantati facti sumus similitudini mortis eius, simul et resurrectionis erimus*. Et quia resurrectio facta est in dominica, ideo celebramus illum diem, sicut Iudaei sabbatum propter primam creationem.
+
+Secundo datum fuit ad instructionem fidei redemptoris. Caro enim Christi in sepulcro corrupta non fuit: unde dicit Psal. XV, 9: *caro mea requiescat in spe*; item, ibidem 10: *non dabis sanctum tuum videre corruptionem*. Unde voluit sabbatum observari, ut sicut sacrificia significabant mortem Christi, ita quies sabbati requiem carnis eius. Sed nos ista sacrificia non servamus, quia adveniente re et veritate, debet cessare figura, sicut adveniente sole cessat umbra; servamus tamen in veneratione virginis gloriosae, in qua remansit tota fides tali die in morte Christi.
+
+Tertio datum fuit ad roborandum sive figurandum veritatem promissionis. Promittitur enim nobis quies. Isai. XIV, 3: *et erit in die illa, cum requiem dederit tibi Deus a labore tuo et a concussione tua et a servitute dura qua ante servisti*; item ibid. XXXII, 18: *sedebit populus meus in pulchritudine pacis et in tabernaculis fiduciae et in requie opulenta*.
+
+Et nota, quod expectamus requiem de tribus: de labore praesentis vitae, de tentationum concussione, et de Diaboli servitute. Hanc Christus repromisit venientibus ad se, dicens, Matth. XI, 28-30: *venite ad me omnes qui laboratis et onerati estis; et ego reficiam vos. Tollite iugum meum super vos, et discite a me, quia mitis sum et humilis corde; et invenietis requiem animabus vestris: iugum enim meum suave est, et onus meum leve*.
+
+Invenimus autem quod dominus operatus est sex diebus, et in septimo quievit: quia primo oportet facere opera perfecta. Eccli. LI, 35: *modicum laboravi, et inveni mihi multam requiem*. Plus enim incomparabiliter excedit tempus aeternitatis totum tempus praesens, quam mille anni diem unum.
+
+Quarto datum fuit hoc praeceptum ad inflammationem amoris. Sap. IX, 15: *corpus quod corrumpitur, aggravat animam*, et ideo homo semper ad terrena inferius tendit, nisi conetur erigere se ab eis. Et ideo oportet habere certum tempus ad hoc. Unde aliqui toto tempore hoc faciunt: Psal. XXXIII, 2: *benedicam dominum in omni tempore, semper laus eius in ore meo*; apostolus, I Thess. V, 17: *sine intermissione orate*: et hi continue sabbatum habent. Aliqui hoc faciunt in aliqua parte temporis: Psal. CXVIII, 164: *septies in die laudem dixi tibi*. Alii, ne omnino alienarentur a Deo, oportuit quod haberent aliquem diem determinatum, ne nimis tepescat in eis amor Dei. Isai. LVIII, 13-14: *si vocaveris sabbatum delicatum (...) tunc delectaberis super domino*. Iob. XXII, 26: *tunc super omnipotentem deliciis afflues, et elevabis ad Deum faciem tuam*. Non enim ad ludendum ordinatur talis dies, sed ad laudandum et orandum dominum Deum. Unde Augustinus dicit, quod minus malum est tali die arare, quam ludere.
+
+Quinto datum fuit ad opera pietatis respectu subiectorum. Aliqui enim crudeles sibi et suis, non cessant continue operari propter lucrum; et hoc habent Iudaei maxime, quia avarissimi sunt. Deut. V, 12-14: *observa diem sabbati (...) ut requiescat servus tuus et ancilla tua, sicut et tu*; et post: *non faciens in eo quidquam operis tu et filius et filia, servus et ancilla, bos et asinus et omne iumentum tuum, ut requiescat servus et ancilla tua sicut et tu*. Propter praedicta ergo praedictum mandatum datum fuit.
+
+**From what we should abstain on the Sabbath**
+
+*Memento ut diem sabbati sanctifices*. Dictum est, quod sicut Iudaei celebrant sabbatum, sic nos Christiani dominicam, et alia principalia festa. Videamus ergo quomodo ista servare debemus. Et sciendum, quod non dicit, custodi sabbatum, sed *memento ut diem sabbati sanctifices*. Sanctum autem accipitur duobus modis. Aliquando enim est sanctum idem quod purum. Apostolus, I Cor. VI, 11: *sed abluti estis, sed sanctificati estis*. Aliquando dicitur sanctum res consecrata ad cultum Dei, ut locus, tempus, vestes et vasa sacra. Istis ergo duobus modis debemus festa celebrare; quia et pure, et mancipando se divino servitio.
+
+In isto ergo praecepto duo considerantur. Primo quidem in festo quid cavendum sit; secundo quid faciendum. Debemus autem cavere tria.
+
+Primo corporalem operam. Ier. XVII, 22: *sanctificabis sabbatum, ut non facias in eo opus servile*; unde et in lege dicitur, Lev. XXIII, 25: *omne opus servile non facietis in eo*. Opus autem servile est opus corporale: nam opus liberum est animae, sicut intelligere et huiusmodi; ad quod opus homo constringi non potest.
+
+Sed sciendum, quod opera corporalia possunt fieri in sabbato propter quatuor. Primo propter necessitatem. Unde dominus excusavit discipulos evellentes spicas in sabbato, ut dicitur Matth. XII. Secundo propter Ecclesiae utilitatem. Unde dicitur in Evangelio ibid., quod sacerdotes faciebant omnia quae erant necessaria in templo in die sabbati. Tertio propter proximi utilitatem. Unde dominus curavit in die sabbati habentem manum aridam, et confutavit Iudaeos reprehendentes eum, ponens exemplum de ove, ibid. Quarto propter superioris auctoritatem. Unde dominus praecepit Iudaeis ut circumciderent in die sabbati, ut dicitur Ioan. VII.
+
+Secundo debemus cavere culpam. Ier. XVII, 21: *custodite animas vestras, et nolite portare pondera in die sabbati*. Onus autem animae vel pondus malum est peccatum: Psal. XXXVII, 5: *sicut onus grave gravatae sunt super me*. Peccatum autem opus servile est: quia, ut dicitur Ioan. VIII, 34, *qui facit peccatum, servus est peccati*. Unde cum dicitur, *omne opus servile non facietis in eo*, potest intelligi de peccato: et ideo contra praeceptum hoc facit quis, quando in sabbato peccat, quia operando et peccando Deus offenditur. Isai. I, 13-14: *sabbatum et festivitates alias non feram*. Et quare? Quia *iniqui sunt coetus vestri. Calendas vestras et solemnitates vestras odivit anima mea: facta sunt mihi molesta*.
+
+Tertio debemus cavere negligentiam, Eccli. XXXIII, 29: *multam malitiam docuit otiositas*. Hieronymus, ad rusticum: *semper aliquid boni operis facito, ut te Diabolus inveniat occupatum*. Et ideo non est bonum custodire nisi principalia festa, si in aliis debeat homo esse otiosus. Psal. XCVIII, 4: *honor regis iudicium diligit*, scilicet discretionem. Unde I Mach. II, dicitur, quod Iudaei quidam occultati erant, et inimici irruerunt super eos, qui credentes quod se non possent in sabbato defendere, victi et occisi sunt. Ita accidit multis qui otiosi sunt in festis. Thren. I, 7: *viderunt eam hostes, et deriserunt sabbata eius*. Sed tales debent facere sicut illi Iudaei fecerunt: unde I Mach. II, 41, dicitur: *quicumque venerit ad nos in bello in die sabbatorum, pugnemus adversus eum.*
+
+**Do what on the Sabbath?**
+
+Memento ut diem sabbati sanctifices. Sicut dictum est, homo diem festum debet sanctificare: et dictum est, quod sanctum dicitur duobus modis: quia et quod mundum est, et quod Deo consecratum est. Item dictum est a quibus tali die abstinere debemus. Nunc dicendum est in quibus occupari debemus: et sunt tria.
+
+Primo in faciendis sacrificiis. Unde Num. XXVIII, dicitur, quod Deus praecepit quod quolibet die unus agnus mane, et alius vespere debeat offerri; sed in sabbato debent duplicari. Et significat quod in sabbato debemus offerre Deo sacrificium, et de omnibus quae habemus. I Paralip. XXIX, 14: *tua sunt omnia, et quae de manibus tuis accepimus, dedimus tibi*. Unde primo debemus ultro offerre animam nostram, dolendo de peccatis: Psal. I, 19: *sacrificium Deo spiritus contribulatus*, et orando pro beneficiis: Psal. CXL, 2: *dirigatur, domine, oratio mea, sicut incensum in conspectu tuo*. Factus est enim dies festus ad habendam spiritualem laetitiam, quam facit oratio: unde et tali die multiplicari debent preces.
+
+Secundo corpus nostrum affligere, et hoc ieiunando: Rom. XII, 1: *obsecro vos per misericordiam Dei, ut exhibeatis membra vestra hostiam viventem Deo, sanctam*; laudando: Psal. XLIX, 2: *sacrificium laudis honorificabit me*: unde in tali die cantus multiplicantur. Tertio res tuas sacrificare, et hoc dando eleemosynas. Hebr. XIII, 16: *beneficentiae autem et communionis nolite oblivisci: talibus enim hostis promeretur Deus*; et hoc in duplo magis quam in aliis diebus, quia tunc est communis laetitia. Nehem. VIII, 10: *mittite partes his qui non paraverunt sibi, quia sanctus dies domini est*.
+
+Secundo in verborum Dei studiis, sicut et Iudaei faciunt hodie. Act. XIII, 27: *voces prophetarum quae per omne sabbatum leguntur*. Unde et Christiani, quorum iustitia debet esse perfectior, debent tali die convenire ad praedicationes et ad officium Ecclesiae. Ioan. VIII, 47: *qui ex Deo est, verba Dei audit*; item loqui utilia: apostolus, Ephes. IV, 29: *omnis sermo malus ex ore vestro non procedat: sed si quis bonus, ad aedificationem*. Ista enim duo utilia sunt animae peccatoris, quia immutant cor eius in melius. Ierem. XXIII, 29: *verba mea sunt quasi ignis ardens, dicit dominus, et quasi malleus conterens petram*. Contrarium autem accidit etiam in perfectis non loquentibus utilia, vel audientibus. Apostolus, I Cor. XV, 33-34: *corrumpunt bonos mores colloquia mala. Evigilate iusti, et nolite peccare*; et Psal. CXVIII, 11: *in corde meo abscondi eloquia tua*. Eloquium enim et instruit ignorantem: Psal. eodem, 105: *lucerna pedibus meis verbum tuum*; et inflammat tepescentem: Psal. CIV, 19: *eloquium domini inflammavit eum*.
+
+Tertio in divinorum exercitiis. Hoc autem perfectorum est. Psal. XXXIII, 9: *vacate et videte quoniam suavis est dominus*. Et hoc propter quietem animae. Sicut enim corpus fatigatum quietem desiderat, ita et anima. Locus autem animae Deus est: Psal. XXX, 3: *esto mihi in Deum protectorem, et in locum refugii*. Hebr. IV, 9-10: *itaque relinquitur sabbatismus populo Dei: qui enim ingressus est in requiem eius, etiam ipse requievit ab operibus suis, sicut a suis Deus*. Sap. VIII, 16: *intrans in domum meam, quiescam cum illa*.
+
+Sed antequam ad hanc quietem perveniat anima, oportet tres quietes praecedere. Prima ab inquietudine peccati. Isai. LVII, 20: *cor autem impii quasi mare fervens, quod quiescere non potest*. Secunda a passionibus carnis; quia caro concupiscit adversus spiritum, spiritus autem adversus carnem, ut dicitur Gal. V. Tertia ab occupationibus mundi. Luc. X, 41: *Martha, Martha, sollicita es, et turbaris erga plurima*.
+
+Et tunc post haec anima libere quiescit in Deo. Isai. LVIII, 13-14: *si vocaveris sabbatum delicatum tunc delectaberis super domino*. Propterea sancti omnia dimiserunt; quia haec est pretiosa margarita, quam qui invenit homo abscondit, et prae gaudio illius vadit, et vendit universa quae habet, et emit eam, ut dicitur Matth. XIII. Haec enim requies vita aeterna, et delectatio aeterna est. Psal. CXXXI, 14: *haec requies mea in saeculum saeculi: hic habitabo, quoniam elegi eam*: ad quam nos perducat.
+
+## Articulus 6 {#in-decal.6}
+
+De quarto praecepto
+
+Honora patrem tuum et matrem tuam,
+
+ut sis longaevus super terram quam dominus Deus tuus dabit tibi. Exod. XX, 12.
+
+Perfectio hominis consistit in dilectione Dei et proximi. Et ad dilectionem Dei pertinent tria praecepta quae scripta fuerunt in prima tabula; ad dilectionem vero proximi septem quae sunt in secunda tabula. Sed, sicut dicitur I Ioan. III, non debemus diligere verbo neque lingua, sed opere et veritate. Homo enim sic diligens debet duo facere: scilicet fugere malum, et facere bonum. Unde quaedam sunt in praeceptis inducentia ad bonum, alia autem sunt prohibentia facere malum. Et sciendum, quod cavere a malo faciendo est in potentia nostra; sed facere cuilibet bonum non possumus: et ideo dicit beatus Augustinus, quod nos omnes debemus diligere, sed non omnibus tenemur benefacere. Sed inter omnes debemus benefacere coniunctis nobis: quia, *si quis suorum, et maxime domesticorum, curam non habet, infidelis est*, I ad Tim. V, 8. Inter omnes autem propinquos sunt nobis propinquiores pater et mater; et ideo dicit Ambrosius: *primo debemus diligere Deum; secundo patrem et matrem*; et hoc est quod dicit: *honora patrem tuum et matrem tuam*.
+
+Et huiusmodi rationem reddit philosophus, qui dicit, quod ex magno beneficio recepto ab eis non possumus eis respondere ex aequali: et ideo bene potest pater offensus expellere filium, sed non e converso. Dant autem parentes filio tria. Primo stabilimentum quoad esse. Eccli. VII, 29: *honora patrem tuum, et gemitus matris tuae non obliviscaris. Memento quoniam nisi per illos natus non fuisses*. Secundo nutrimentum sive fulcimentum quoad necessaria vitae. Nudus enim intrat filius in hunc mundum, ut dicitur Ioan. I, sed a parentibus sustentatur. Tertio documentum. Hebr. XII, 9: *patres quidem carnis nostrae eruditores habuimus*. Eccli. VII, 25: *filii tibi sunt? Erudi illos*.
+
+Et debent parentes dare duo documenta filiis, et cito: quia, ut dicitur Prov. XXII, 6, *adolescens iuxta viam suam, etiam cum senuerit, non recedet ab ea*; et Thren. III, 27: *bonum est viro cum portaverit iugum ab adolescentia sua*. Et sunt illa quae docuit Tobias filium suum Tobiae IV, scilicet *timorem domini*, et *abstinere ab omni peccato*. Et hoc est contra illos qui delectantur in malitiis filiorum. Sed, sicut dicitur Sap. IV, 6, *ex iniquis omnes filii qui nascuntur, testes sunt nequitiae adversus parentes*. Unde Deus punit peccatum in filio, ut dicitur Exod. XX. Igitur filii a parentibus habent esse, nutrimentum et disciplinam.
+
+**What children owe parents**
+
+Et quia esse habemus ab eis, debemus magis revereri quam dominos, a quibus solum res, praeterquam Deum, a quo habemus animam. Eccli. III, 8-10: *qui timet dominum, honorat parentes, et quasi dominis serviet his qui se genuerunt, in opere et sermone, et omni patientia. Honora patrem tuum et matrem tuam, ut superveniat tibi benedictio a Deo*. Et in hoc etiam honoras teipsum: quia, sicut dicitur Eccli. III, 13, *gloria hominis ex honore patris sui, et dedecus filii pater sine honore*.
+
+Item quia dant nobis nutrimentum in pueritia, et nos debemus eis dare in senectute. Eccli. III, 14-15: *fili, suscipe senectam patris tui, et non contristes eum in vita illius; et si defecerit sensu, veniam da; et ne spernas eum in tua virtute. Quam malae famae est qui derelinquit patrem. Et est maledictus a Deo qui exasperat matrem*. Ad confusionem illorum qui contra faciunt, ponit Cassiodorus in epistolis, Lib. 2, quod ciconiae cum parentes earum pennas, senio cogente, laxaverunt, nec ad proprios cibos idonei possunt inveniri, plumis suis genitorum membra foventes, escis corpora laxa reficiunt, et pia vicissitudine iuvenes reddunt quod a parentibus parvuli susceperunt.
+
+Item tertio quia docuerunt nos, debemus eis obedire. Coloss. III, 20: *filii obedite parentibus vestris per omnia*, nisi scilicet in his quae sunt contra Deum. Hieronymus, ad Heliodorum: *solum pietatis genus in hac re esse crudelem*. Luc. XIV, 26: *si quis non odit patrem suum et matrem (...) non potest meus esse discipulus*. Deus enim verior pater est. Deut. XXXII, 6: *nunquid non ipse est pater tuus, qui possedit et fecit et creavit te?*
+
+**Rewards for keeping this commandment**
+
+Honora patrem tuum et matrem tuam. Inter omnia praecepta huic tantum adiungitur: *ut sis longaevus super terram*. Et ratio huius est, ne credatur non deberi praemium honorantibus parentes, quia est naturale. Sed sciendum, quod honorantibus parentes quinque desiderabilia promittuntur.
+
+Et primum est gratia in praesenti, et gloria in futuro, quae maxime desiderantur. Eccli. III, 9: *honora patrem tuum, ut superveniat tibi benedictio a Deo, et benedictio illius in novissimo maneat*. Contrarium debetur maledicentibus; et etiam in lege maledicuntur a Deo, ut dicitur Deut. XXVII; et Luc. XVI, 10, dicitur: *qui in modico iniquus est, et in maiori iniquus est*. Sed vita naturalis quasi nihil est in comparatione ad vitam gratiae. Si ergo non recognoscis beneficium vitae naturalis quam habes a parentibus, indignus es vita gratiae quae maior est, et per consequens vita gloriae, quae maxima est.
+
+Secundum desiderabile est vita: unde *ut sis longaevus super terram*. Dicitur Eccli. III, 7: *qui honorat patrem suum, vita vivet longiore*. Et nota, quod vita longa est quando est plena: quae non mensuratur tempore, sed actione, secundum philosophum. Tunc autem plena est vita quando est virtuosa. Et ideo virtuosus et sanctus diu vivit, quamvis cito moriatur corporaliter. Ideo dicitur Sap. IV, 13-14: *consummatus in brevi, explevit tempora multa: placita enim erat Deo anima illius*. Optime autem mercatur ille qui tantum facit una die quantum alius in uno anno. Et nota, quod aliquando accidit quod longior vita causa est mortis corporalis et spiritualis, sicut accidit Iudae. Praemium ergo est vita corporalis. Sed contrarium, scilicet mortem, acquirunt illi qui iniuriantur parentibus. Habemus enim ab eis vitam, sicut milites a rege feudum; et ideo sicut dignum est quod illi amittant pro proditione feudum, ita isti propter iniuriam illatam parentibus vitam. Prov. XXX, 17: *oculum qui subsannat patrem, et qui despicit partum matris suae, suffodiant eum corvi de torrentibus et comedant eum filii aquilae*. Per filios aquilae intelliguntur reges et principes, per corvos officiales; et si aliquando non puniuntur corporaliter, mortem tamen spiritualem effugere non possunt. Propterea pater non debet potestatem multam dare filiis. Eccli. XXXIII, 21: *dum adhuc superes, et aspiras, non immutet te omnis caro*; item, ibid. 20: *filio, mulieri, fratri et amico non des potestatem super te in vita tua, et ne dederis illis possessionem in vita tua ne forte poeniteat te*.
+
+Tertium est habere filios sibi gratos et acceptos. Naturaliter enim pater thesaurizat filiis, sed non e converso. Eccli. III, 6: *qui honorat patrem suum, iucundabitur in filiis*. Matth. VII, 2: *in qua mensura mensi fueritis, remetietur vobis*. Quartum est habere famam laudabilem. Eccli. III, 13: *gloria hominis ex honore patris sui*; et iterum, 18, *quam malae famae est qui derelinquit patrem*. Quintum est habere divitias. Eccli. III, 11: *benedictio patris firmat domos filiorum; maledictio autem matris eradicat fundamenta.*
+
+**Meanings of “father”**
+
+Honora patrem tuum et matrem tuam. Notandum, quod non solum dicitur aliquis pater ratione carnalis generationis; sed quibusdam aliis rationibus aliqui dicuntur patres, et cuilibet eorum debetur aliqua reverentia. Dicuntur enim patres apostoli et alii sancti per doctrinam et exemplum fidei. Apostolus, I Cor. IV, 15: *nam si decem millia paedagogorum habeatis in Christo, sed non multos patres: nam in Christo Iesu per Evangelium ego vos genui*. Et ideo dicitur Eccli. XLIV, 1: *laudemus viros gloriosos et parentes nostros in generatione sua*: laudemus autem non ore, sed imitatione. Et hoc fit, si non invenitur in nobis contrarium eius quod laudamus. Hebr. XIII, 7: *mementote praepositorum vestrorum (...) quorum intuentes exitum conversationis, imitamini fidem*.
+
+Dicuntur etiam praelati patres; et isti venerandi sunt, sunt enim Dei ministri. Luc. X, 16: *qui vos audit, me audit; et qui vos spernit, me spernit*. Et ideo debemus eos honorare obediendo: apostolus, Hebr. XIII, 17: *obedite praepositis vestris, et subiacete eis*; et decimas praebendo: Prov. III, 9: *honora dominum de tua substantia, et de primitiis frugum tuarum da pauperibus*.
+
+Item reges et principes: IV Reg. V, 13: *pater, etsi rem grandem dixisset tibi propheta, certe facere debueras*: qui dicuntur patres, quia debent intendere bonum populi. Et istos honoramus per subiectionem: Rom. XIII, 1: *omnis anima potestatibus sublimioribus subdita sit*. Et hoc non solum timore, sed amore; nec solum propter rationem, sed etiam propter conscientiam. Et ratio huius est, quia, secundum apostolum ibidem, omnis potestas a Deo est; et ideo reddendum est debitum; quia *cui tributum, tributum; cui vectigal, vectigal; cui timorem, timorem; cui honorem, honorem*, Rom. XIII, 7. Prov. XXIV, 21: *time dominum, fili mi, et regem*.
+
+Item benefactores. Eccli. IV, 10: *esto pupillis misericors ut pater*: est enim proprium patris benefacere filiis. Et ideo tenemur reddere vicem in benefaciendo. Eccli. XXIX, 20: *gratiam fideiussoris ne obliviscaris*. Ingratis enim accidit illud Sap. XVI, 29: *ingrati spes tanquam hibernalis glacies tabescet*. Item aetate. Deut. XXXII, 7: *interroga patrem tuum, et annuntiabit tibi; maiores tuos, et dicent tibi*. Lev. XIX, 32: *coram cano capite consurge, et honora personam senis*. Eccli. XXXII, 13: *in medio magnatorum loqui non praesumas, et ubi sunt senes non multum loquaris*. Ibid. 9, *audi tacens; et pro reverentia accedet tibi bona gratia*. Omnes igitur isti venerandi sunt: quia omnes portant quodammodo similitudinem patris qui in caelis est. Et de istis dicitur Luc. X, 16: *qui vos spernit, me spernit*.
+
+## Articulus 7 {#in-decal.7}
+
+De quinto praecepto
+
+Non occides. Exod. XX, 13.
+
+**The sin of killing**
+
+In lege divina, per quam ordinamur ad dilectionem Dei et proximi, praecipitur non solum facere bonum, sed etiam declinare a malo. Inter alia autem maius malum quod possit fieri proximo, est occidere eum; et hoc prohibetur cum dicitur, *non occides*.
+
+Circa quod praeceptum tripliciter est erratum. Quidam enim dixerunt, quod non licet occidere etiam bruta animalia. Sed hoc falsum est, quia non est peccatum uti illis quae sunt subdita hominis potestati. Est etiam naturalis ordo quod plantae sint in nutrimentum animalium, et quaedam animalia in nutrimentum aliorum, et omnia in nutrimentum hominum. Gen. IX, 3: *quasi olera virentia tradidi vobis omnia*. Philosophus etiam dicit in politica, quod venatio est sicut iustum bellum. Apostolus I Cor. X, 25: *omne quod in macello venit, manducate nihil interrogantes propter conscientiam*. Ergo, non occides homines.
+
+Quidam dixerunt hic prohibitum esse homicidium hominis omnino. Unde homicidas dicunt esse iudices saeculares, qui condemnant secundum leges aliquos. Contra quos dicit Augustinus, quod Deus per hoc praeceptum non abstulit sibi potestatem occidendi: unde Deut. XXXII, 39: *ego occidam, et vivere faciam*. Est ergo licitum illis qui mandato Dei occidunt, quia tunc Deus facit. Omnis enim lex mandatum Dei est. Prov. VIII, 15: *per me reges regnant, et legum conditores iusta decernunt*. Et apostolus, Rom. XIII, 4: *si malum feceris, time: non enim sine causa gladium portat, Dei enim minister est*. Moysi quoque dicitur, Exod. XXII, 18: *maleficos non patieris vivere*. Id enim quod licitum est Deo, licitum est et ministris eius, per mandatum ipsius. Constat autem quod Deus non peccat, cum sit auctor legum, infligendo mortem propter peccatum. Rom. VI, 23: *stipendia peccati mors*. Ergo nec minister eius. Est ergo sensus: *non occides *propria auctoritate.
+
+Alii vero dixerunt, quod per hoc quod dicitur, *non occides*, prohibetur non occidere alium; unde dicebant, quod licitum erat occidere seipsum. Sic enim invenitur de Samsone, Iudic. XVI, et de Catone, et de quibusdam virginibus quae se in flammas iniecerunt, sicut recitat Augustinus I de Civit. Dei. Sed ad hoc respondet Augustinus ibidem, dicens: *qui se occidit, hominem utique occidit*. Si ergo hominem non licet occidere, nisi auctoritate Dei: ergo nec seipsum, nisi vel auctoritate Dei, vel instinctu spiritus sancti, sicut dicitur de Samsone. Ergo *non occides*.
+
+Sciendum est etiam, quod hominem occidere contingit multipliciter. Primo manu. Isai. I, 15: *manus vestrae sanguine plenae sunt*: quod quidem est non solum contra caritatem qua praecipitur ut diligas proximum sicut teipsum: I Ioan. III, 15: *omnis homicida non habet vitam aeternam in se manentem*; verum etiam contra naturam: quia, ut dicitur Eccli. XIII, 19, *omne animal diligit sibi simile*. Unde Exod. XXI, 12: *qui percusserit hominem volens occidere, morte moriatur*. Et hic quidem crudelior est lupo, de quo dicitur in 4 animalium, quod si lupo detur caro lupi, non comedit.
+
+Item ore. Et hoc fit dando consilium alicui contra aliquem, provocando, accusando et detrahendo. Psal. LVI, 5: *filii hominum, dentes eorum arma et sagittae, et lingua eorum gladius acutus*.
+
+Tertio adiutorio. Prov. I, 15: *fili mi, ne ambules cum eis (...) pedes enim illorum ad malum currunt, et festinant ut effundant sanguinem*.
+
+Item consensu. Rom. I, 32: *digni sunt morte non solum qui ea faciunt, sed etiam qui consentiunt facientibus*. Consentis autem quodammodo, quando potes impedire: Prov. XXIV, 11: *erue eos qui ducuntur ad mortem*; et iterum si vires suppetunt, sed dimittis negligentia vel avaritia. Ambrosius: *pasce fame morientem: si non paveris, occidisti*.
+
+Et sciendum, quod aliqui occidunt solum corpus, de quo dictum est; alii animam, auferendo vitam gratiae, trahendo scilicet ad peccatum mortale. Ioan. VIII, 44: *ille homicida erat ab initio*, inquantum scilicet traxit ad peccatum. Alii autem utrumque, et hoc dupliciter. Primo in destructione praegnantium: occiduntur enim pueri in corpore et in anima. Secundo interficiendo seipsum.
+
+**The sin of anger**
+
+*Non occides*. Christus dat in Evangelio, Matth. V, quandam doctrinam, quae est, quod iustitia nostra debet esse maior iustitia legis. Unde docet perfectius servari mandata legis a Christianis quam Iudaei servaverunt. Et ratio huius est, quia maiori labore acquiritur maior merces. II Cor. IX, 6: *qui parce seminat, parce et metet*. In lege enim promittebantur temporalia et terrena: Isai. I, 19: *si volueritis et audieritis me, bona terrae comedetis*; sed in lege nostra promittuntur caelestia et aeterna. Ergo iustitia, quae est observantia mandatorum, debet abundare, cum maior expectetur merces.
+
+Inter alia autem praecepta facit mentionem de isto, dicens Matth. V, 21-22: *audistis quod dictum est antiquis, non occides. Ego autem dico vobis, quia omnis qui irascitur fratri suo, reus erit iudicio*, idest poena quam lex adiudicavit. Exod. XXI, 14, ubi dicitur: *si quis per industriam occiderit proximum suum, et per insidias; ab altari meo evelles eum, ut moriatur*.
+
+**Ways of Avoiding Anger**
+
+Debet autem quilibet quinque modis ab ira cavere. Primo ne cito provocetur. Iac. I, 19: *sit omnis homo velox ad audiendum, tardus autem ad loquendum, et tardus ad iram*. Et ratio est, quia ira peccatum est, et punitur a Deo. Sed nunquid omnis ira est contraria virtuti? Circa hoc duplex est opinio. Stoici enim dixerunt, quod nulla passio cadit in sapientem; immo volebant quod vera virtus esset in quiete mentis. Peripatetici autem dixerunt, quod ira cadit in sapientem, sed moderata: et est opinio verior. Et patet primo auctoritate, quia in Evangeliis invenimus istas passiones Christo attributas, in quo fuit fontalis plenitudo sapientiae. Secundo patet ratione: nam si omnes passiones virtuti contrarientur, essent aliquae potentiae animae quae essent frustra, immo quae essent homini in nocumentum, quia non haberent aliquos actus convenientes; et sic irascibilis et concupiscibilis frustra datae essent homini. Et ideo dicendum est, quod aliquando ira est virtus, aliquando non.
+
+**Three Considerations of Anger**
+
+Accipitur enim ira tripliciter. Primo prout est in solo iudicio rationis absque commotione animi; et ista non dicitur proprie ira, sed iudicium. Sic enim dominus puniens malos, iratus dicitur. Mich. VII, 9: *iram domini portabo, quoniam peccavi ei*.
+
+Secundo accipitur prout est passio. Et ista est in appetitu sensitivo. Et est duplex: quia aliquando ordinatur ratione et continetur sub terminis rationis, quando scilicet quis irascitur quando debet et quantum debet et pro quo debet, et huiusmodi: et tunc est actus virtutis, et dicitur ira per zelum. Unde philosophus dicit, quod mansuetudo non est nullo modo irasci. Ista ergo ira non est peccatum.
+
+Est et tertia ira quae refugit iudicium rationis: et ista semper est peccatum; sed aliquando veniale, aliquando est mortale: et hoc distinguitur ex eo quod ad iram incitat, quod aliquando est veniale, aliquando est mortale. Mortale duplex: vel ex genere, vel ex circumstantiis. Homicidium autem videtur esse actus peccati mortalis ex suo genere, quia directe ordinatur contra praeceptum divinum. Et ideo consensus in homicidium est peccatum mortale ex genere: quia si actus est mortalis, et consensus in actus erit mortalis. Aliquando autem peccatum mortale est ex genere, sed tamen motus non est peccatum mortale, quia est sine consensu; sicut si ascendit motus concupiscentiae ad fornicandum, et non consentitur, non est peccatum mortale. Similiter ira: est enim motus ad iniuriam illatam vindicandam: haec enim est proprie ira. Si ergo iste motus est taliter in passione, ita quod ratio deducatur, tunc est peccatum mortale; si autem usque ad consensum non pervertitur ratio, tunc est peccatum veniale. Si autem motus non sit ex genere peccatum mortale, tunc etsi consensus adhibeatur, non est peccatum mortale. Quod ergo dicit, *qui irascitur fratri suo, reus erit iudicio*, intelligendum est de motu tendente in nocumentum, qui motus est peccatum mortale, ita quod sit ibi consensus. Eccli. ult., 14: *cuncta quae fiunt, adducet Deus in iudicium pro omni errato, sive bonum sive malum*.
+
+**Why We Should Not Get Angry Easily**
+
+Secunda ratio quare debemus non provocari cito ad iram, est, quia omnis homo diligit libertatem et odit servitutem. Non est autem iracundus dominus sui ipsius. Prov. XXVII, 4: *impetum concitati spiritus ferre quis poterit? *Et ibidem, 3: *grave saxum et onerosa arena; sed ira stulti utroque gravior*.
+
+Secundo cavere debet ne diu in ira permaneat. Psal. IV, 5: *irascimini, et nolite peccare*; Ephes. IV, 26: *sol non occidat super iracundiam vestram*. Et rationem huius assignat in Evangelio dominus, dicens, Matth. V, 25: *esto consentiens adversario tuo cito dum es in via cum eo, ne forte tradat te ministro, et in carcerem mittaris. Amen dico tibi, non exies inde donec reddas novissimum quadrantem*.
+
+Tertio cavere debet ne in ira procedat. Primo in corde, quod fit quando pervenit ad odium. Est enim differentia inter iram et odium, quia ira subita est, odium vero diuturnum; et ideo est mortale peccatum. I Ioan. III, 15: *qui odit fratrem suum, homicida est*. Et ratio huius est, quia et se interficit spoliando se caritate, et alium. Augustinus, in regula: *lites aut nullas habeatis, aut quam celerrime finiatis, ne ira crescat in odium, et trabem faciat de festuca, et animam faciat homicidam*. Prov. XV, 18: *vir iracundus provocat rixas*. Gen. XLIX, 7: *maledictus furor eorum quia pertinax, et indignatio eorum, quia dura*.
+
+Quarto cavere debet ne procedat in verbo. Prov. XII, 16: *fatuus statim indicat iram suam*. Et potest indicare duobus modis; iniuriando scilicet, et superbe loquendo. Quantum ad primum dicit dominus, Matth. V, 22: *qui dixerit fratri suo, fatue, reus erit Gehennae ignis. Qui autem dixerit, racha, reus erit Concilio*. Prov. XV, 1: *responsio mollis frangit iram, sermo durus suscitat furorem*.
+
+Quinto cavere debet ne procedat in opere. In omni enim opere nostro duo debemus observare, scilicet facere iustitiam et misericordiam. Et ira utrumque impedit: *ira enim viri iustitiam Dei non operatur*, ut dicitur Iac. I, 20: quamvis enim velit, tamen non potest. Unde philosophus quidam dixit cuidam qui eum offenderat: *punirem te, nisi essem iratus*. Prov. XXVII, 4: *ira non habet misericordiam, nec erumpens furor*. Gen. XLIX, 6: *in furore suo occiderunt virum*.
+
+Et propter hoc Christus non solum docuit nos cavere ab homicidio, sed ab ira. Bonus enim medicus non tantum tollit malum quod apparet, sed etiam radicem removet infirmitatis, ne scilicet recidivet: et ideo vult nos abstinere a principiis peccatorum, et ita ab ira, quae est principium homicidii.
+
+## Articulus 8 {#in-decal.8}
+
+De sexto praecepto
+
+Non moechaberis. Exod. XX, 14
+
+Post prohibitionem homicidii prohibetur adulterium; et congrue, quia vir et uxor sunt quasi unum corpus. *Erunt *inquit dominus, Gen. II, 24, *duo in carne una*. Et ideo post iniuriam quae infertur personae, nulla maior est quam illa quae infertur coniunctae.
+
+Prohibetur autem adulterium uxori, et viro. Sed prius dicendum est de uxoris adulterio, quia maius peccatum videtur committere. Committit autem tria peccata gravia uxor moechando, quae insinuantur Eccli. XXIII, 32-34: *mulier omnis relinquens virum suum (...) primo in lege altissimi incredibilis fuit, secundo virum suum dereliquit, tertio adulterio fornicata est, et ex alio viro filios statuit sibi*.
+
+Primo ergo peccat per incredulitatem, quia legi incredibilis fit: dominus enim prohibuit adulterium. Item facit contra Dei ordinationem, Matth. XIX, 6: *quos Deus coniunxit, homo non separet*. Item contra Ecclesiae statuta, vel sacramentum. Fit enim matrimonium in facie Ecclesiae; et ideo adducitur Deus quasi in testem et fideiussorem de servanda fide: Mal. II, 14: *dominus testificatus est inter te et uxorem pubertatis tuae, quam tu despexisti*. Ergo peccatur contra legem, contra statutum et contra sacramentum Dei.
+
+Secundo peccat per proditionem, quia derelinquit virum. Apostolus, I Cor. VII, 4: *mulier sui corporis potestatem non habet, sed vir*: ideo etiam nec castitatem servare potest sine consensu viri. Et ideo si moechatur, proditionem committit, dum seipsam alteri tradit, sicut servus dans se alteri domino. Prov. II, 17: *reliquit ducem pubertatis suae, et pacti Dei sui oblita est*.
+
+Tertio per furti commissionem, quia ex alieno viro constituit sibi filios; et hoc maximum furtum est, quia totam hereditatem dat alienis filiis. Et nota, quod ista deberet studere quod filii intrarent religionem, vel aliquid aliud facerent, ita quod in bonis viri non succederent. Est ergo mulier moechans, sacrilega, proditrix, furatrix.
+
+Viri vero peccant non minus quam uxores, licet sibi quandoque blandiantur. Quod patet ex tribus. Primo ex aequalitate quam habet; nam *vir sui corporis potestatem non habet, sed mulier*, ut dicitur I Cor. VII, 4: et ideo neuter potest aliquid facere sine alterius consensu quantum ad matrimonium. Et ad hoc significandum Deus non de pede vel capite, sed de costa mulierem formavit. Et ideo matrimonium nunquam statum perfectum habuit, nisi in lege Christi: quia Iudaeus unus plures habebat uxores, sed uxor non plures viros; et ideo non erat aequalitas.
+
+Secundo ex viri fortitudine; quia propria passio mulierum est concupiscentia: I Petr. III, 7: *viri similiter cohabitantes secundum scientiam, quasi infirmiori vasculo muliebri impartientes honorem*. Et ideo si petis ab uxore quod tu non vis servare, frangis fidem. Tertio ex eius auctoritate, quia vir est caput mulieris: unde mulieres non debent loqui in Ecclesia, sed domi viros interrogare, ut dicitur I Cor. XIV. Est ergo vir doctor mulieris; et ideo Deus praeceptum dedit viro. Magis autem peccat sacerdos quam laicus, et episcopus quam sacerdos, si non servant quae debent, quia docere alios ad ipsos pertinet. A simili, si vir moechatur, frangit fidem non servando ea quae debet. Sed tamen uxores attendant ad id quod Christus dicit, Matth. XXIII, 3: *omnia quaecumque dixerint vobis, servate et facite; secundum opera vero eorum nolite facere. Non moechaberis*.
+
+**Why adultery and fornication must be avoided**
+
+Sicut dictum est, Deus tam viris quam mulieribus prohibuit adulterium. Sed sciendum, quod licet aliqui credant adulterium esse peccatum, tamen non credunt simplicem fornicationem esse peccatum mortale: contra quos apostolus, Hebr. XIII, 4: *fornicatores enim et adulteros iudicabit Deus*; I Cor. VI, 9: *nolite errare: neque fornicarii (...), neque adulteri, neque molles, neque masculorum concubitores regnum Dei possidebunt*. A regno autem Dei non excluditur aliquis nisi per peccatum mortale. Ergo est peccatum mortale.
+
+Sed forte dices: non est ratio quare sit peccatum mortale; cum non detur corpus uxoris, sicut in adulterio. Dico quod si non detur corpus uxoris, datur tamen corpus Christi, quod sibi datum fuit, et consecratum in Baptismo. Si ergo nullus debet facere iniuriam uxori, multo magis nec Christo. I Cor. VI, 15: *nescitis quoniam corpora vestra membra sunt Christi? Tollens ergo membra Christi, faciam membra meretricis? Absit*. Est ergo haeresis dicere, fornicationem simplicem non esse peccatum mortale.
+
+Et ideo sciendum, quod in isto praecepto, *non moechaberis*, prohibetur non solum adulterium, sed omnis carnalis corruptio, praeter eam quae est matrimonii. Ulterius autem sciendum, quod alii dicunt commixtionem viri et uxoris non esse sine peccato; quod est haereticum. Apostolus, Hebr. XIII, 4: sit *honorabile connubium in omnibus, et torus immaculatus*. Talis autem coniunctio aliquando non solum sine peccato est, sed etiam est ad meritum vitae aeternae habentibus caritatem; aliquando est cum peccato veniali; aliquando cum mortali. Quando enim est cum intentione procreandae prolis, tunc est opus virtutis; quando autem cum intentione reddendi debitum, tunc est etiam opus iustitiae; quando autem est causa exercendae libidinis, tunc est cum veniali, quando scilicet non excedit limites matrimonii. Quando autem excedit, ut scilicet si posset, extenderet se ad aliam, tunc est mortale.
+
+Sciendum autem, quod adulterium et fornicatio prohibentur propter multa. Primo enim perimit animam. Prov. VI, 32: *qui adulter est, propter cordis inopiam perdet animam suam*. Et dicit, *propter cordis inopiam*, quod est quando caro dominatur spiritui. Secundo privat vita: talis enim secundum legem debet mori, ut dicitur Lev. XX, et Deut. XXII. Et quod aliquando non puniatur corporaliter, est in malum suum; quia poena corporalis, quae cum patientia toleratur, est in remissionem peccatorum: punietur tamen postea in vita futura. Tertio consumit substantiam suam: unde Luc. XV, de filio prodigo dicitur, quod dissipavit substantiam suam vivendo luxuriose. Eccli. IX, 6: *ne des fornicariis animam tuam in ullo, ne perdas te et haereditatem tuam*. Quarto vilificat prolem. Sap. III, 16-17: *filii adulterorum in consummatione erunt, et ab iniquo toro semen exterminabitur; et si quidem longae vitae erunt, in nihilum computabuntur, et sine honore*. I Cor. VII, 14: *alioquin filii vestri immundi essent, nunc autem sancti sunt*. Nunquam etiam habent honorem in Ecclesia, si clerici sine dedecore haberi possunt. Quinto privat honore, et specialiter mulieres. Eccli. IX, 10: *omnis mulier quae est fornicaria, quasi stercus in via conculcabitur*; et de viro dicitur Prov. VI, 33: *turpitudinem et ignominiam congregat sibi, et opprobrium illius non delebitur*.
+
+Gregorius etiam dicit, quod peccata carnalia sunt maioris infamiae et minoris culpae quam spiritualia. Et ratio huius est, quia est commune cum bestiis. Psal. XLVIII, 21: *homo, cum in honore esset, non intellexit: comparatus est iumentis insipientibus, et similis factus est illis*.
+
+## Articulus 9 {#in-decal.9}
+
+De septimo praecepto
+
+Non furtum facies. Exod. XX, 15.
+
+Dominus prohibuit principaliter in lege sua iniuriam proximi: et primo iniuriam in propriam personam, ibi, *non occides*; secundo in persona coniuncta, ibi, *non moechaberis*; tertio in rebus, hic, *non furtum facies*. Et sciendum, quod in hoc praecepto prohibetur omne male ablatum.
+
+Committitur enim furtum multis modis. Primo occulte accipiendo. Matth. XXIV, 43: *si sciret paterfamilias qua hora fur venturus esset*: et hoc vituperabile est, quia est proditio quaedam. Eccli. V, 17: *super furem enim est confusio*.
+
+Secundo violenter auferendo: et haec est maior iniuria. Iob XXIV, 9: *vim fecerunt depraedantes pupillos*. Inter istos sunt mali principes et reges. Sophon. III, 3: *principes eius in medio eius quasi leones rugientes; iudices eius lupi vespere, non relinquebant in mane*. Isti enim faciunt contra intentionem domini volentis iustum regnum, et dicentis, Prov. VIII, 15: *per me reges regnant, et legum conditores iusta decernunt*. Et aliquando talia faciunt per modum furti, aliquando per violentiam. Isai. I, 23: *principes tui infideles, socii furum: omnes diligunt munera, sequuntur retributionem*. Aliquando condendo leges, et statuendo ad lucrandum tantum. Isai. X, 1: *vae qui condunt leges iniquas*; et Augustinus dicit, quod omnis mala dominatio furtum est: unde dicit: *quid regna, nisi latrocinia?*
+
+Tertio mercedem non solvendo. Lev. XIX, 13: *non morabitur opus mercenarii tui apud te usque mane*. Et hoc intelligitur quod homo cuilibet dare debet quod suum est, sive principi, sive praelato, sive clerico et cetera. Rom. XIII, 7: *reddite ergo omnibus debita: cui tributum, tributum; cui vectigal, vectigal*. Tenemur enim regibus custodientibus pacem nostram dare mercedem.
+
+Quarto fraudem in mercationibus committendo: unde dicitur Deut. XXV, 13: *non habebis in sacculo diversa pondera*; et Lev. XIX, 35-36: *nolite facere iniquum aliquid in iudicio, in regula, in pondere, in mensura. Statera iusta, et aequa sint pondera, iustus modius, aequusque sextarius*; Prov. XX, 23: *abominatio est apud Deum pondus et pondus: statera dolosa non est bona*. Hoc est etiam contra caupones, qui miscent aquam vino. In hoc etiam prohibetur usura. Psal. XIV, 1: *quis habitavit in tabernaculo tuo, aut quis requiescet in monte sancto tuo? *Et postea, 5: *qui pecuniam suam non dedit ad usuram*. Hoc est etiam contra campsores, qui multas falsitates committunt, et contra venditores pannorum et aliarum rerum.
+
+Sed dices forsitan: quare non possum dare pecuniam sicut equum vel domum? Dicendum, quod in illis est peccatum quae bis venduntur. In domo autem sunt duo: scilicet substantia et usus. Aliud autem est habere domum, et aliud uti domo: unde separatim possum usum vendere sine domus venditione; et ita in omnibus huiusmodi. Unde si aliqua sunt quae consistant in ipso usu tantum, et usus eorum est distractio, non potest fieri id quod de domo. Denariis enim utimur distrahendo, et frumento consumendo: et ideo si usum vendis, bis vendis.
+
+Quinto dignitates emendo, sive temporales, sive spirituales. De primo, Iob XX, 15: *divitias quas devoravit, evomet et de ventre illius extrahet eas Deus*. Omnes enim tyranni, qui vi tenent regna vel provinciam vel feudum, fures sunt, et omnes tenentur ad restitutionem. De secundo Ioan. X, 1: *amen amen dico vobis: qui non intrat per ostium in ovile ovium, sed ascendit aliunde, ille fur est et latro*; et ideo simoniaci fures sunt.
+
+**Why stealing must be avoided**
+
+*Non furtum facies*. Hoc praeceptum, sicut dictum est, prohibet omne male ablatum. Et debent nos inducere multae rationes ad hoc cavendum. Prima sumitur ex gravitate. Assimilatur enim hoc peccatum homicidio. Eccli. XXXIV, 25: *panis egentium, vita pauperis est: qui defraudat illum, vir sanguinis est*; et iterum, ibidem 27: *qui effundit sanguinem, et qui fraudem facit mercenario, fratres sunt*.
+
+Secunda ex periculi qualitate. Nullum enim peccatum est ita periculosum. Nullum enim peccatum remittitur sine satisfactione et poenitentia. De omnibus cito poenitet quis; sicut patet de homicidio, cessante ira; ita et de fornicatione, cessante passione concupiscentiae, et sic de aliis. De hoc autem peccato licet aliquando poeniteat quis, non tamen de facili satisfacit; et maxime cum non solum teneatur ad id quod accepit, sed etiam de damno quod fecit patrono ex hoc; et cum hoc etiam tenetur facere poenitentiam de peccato. Ideo dicitur Habac. II, 6: *vae ei qui multiplicat non sua. Usquequo et aggravat contra se densum lutum? *Densum lutum dicit, quod non de facili homo egreditur.
+
+Tertio ex talium inutilitate. Non enim sunt utilia, neque spiritualiter, Prov. X, 2: *nil proderunt thesauri impietatis*: divitiae enim spiritualiter prosunt ad eleemosynas et sacrificia: Prov. XIII, 8: *redemptio animae viri divitiae suae*; sed de non propriis dicitur, Isai. LXI, 8: *ego dominus diligens iudicium, et odio habens rapinam in holocaustum*; Eccli. XXXIV, 24: *qui offert sacrificium ex substantia pauperum, quasi qui victimat filium in conspectu patris sui*; nec temporaliter, quia parum durant. Habac. II, 9: *vae qui congregat avaritiam in malum domui suae (...) et liberari se putat de manu mali*. Prov. XXVIII, 8: *qui coacervat divitias usuris, et fenore liberali in pauperes congregat eas*. Prov. XIII, 22: *custoditur iusto substantia peccatoris*.
+
+Quarto ex nocumenti singularitate: faciunt enim perdere alia: sunt enim sicut ignis paleis commixtus. Iob XV, 34: *ignis devoravit tabernacula eorum qui munera libenter accipiunt*. Scias insuper, quod talis non solum suam amittit animam, sed etiam filiorum, quia illi tenentur reddere.
+
+## Articulus 10 {#in-decal.10}
+
+De octavo praecepto
+
+Non loqueris contra proximum tuum falsum testimonium. Exod. XX, 16.
+
+Prohibuit iam dominus, quod nullus iniurietur proximo suo opere; nunc autem praecipit quod non iniurietur verbo; et hoc est: *non loquaris contra proximum tuum falsum testimonium*. Hoc autem potest esse dupliciter: vel in iudicio, vel in communi locutione.
+
+In iudicio autem tribus modis, secundum quod tres personae possunt facere contra hoc praeceptum. Prima persona, scilicet accusantis falso. Lev. XIX, 16: *non eris criminator nec susurro in populo*. Et nota, quod sicut non debes dicere falsum, ita non debes tacere verum. Matth. XVIII, 15: *si autem peccaverit in te frater tuus, vade, et corripe eum*. Item persona testificantis mentiendo. Prov. XIX, 5: *testis falsus non erit impunitus*. Hoc enim praeceptum includit omnia praecedentia: quia aliquando talis est homicida, aliquando fur et cetera. Debent autem isti puniri poena, de qua dicitur, Deut. XIX, 18, 19, 21: *cum diligentissime perscrutantes invenerint falsum testem dixisse contra fratrem suum mendacium, reddent ei sicut fratri suo facere cogitavit (...). Non misereberis eius, sed animam *(idest vitam) *pro anima, oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede exiges*; et Prov. XXV, 18: *iaculum et gladius et sagitta acuta homo qui loquitur contra proximum suum falsum testimonium*. Item persona iudicis male sententiando. Lev. XIX, 15: *non iniuste iudicabis. Non consideres personam pauperis, nec honores vultum potentis. Iuste iudica proximo tuo*.
+
+**Ways of violating this commandment**
+
+In communi locutione peccant aliquando contra hoc praeceptum quinque genera hominum. Scilicet detractores. Rom. I, 30: *detractores Deo odibiles*. Dicit enim, *Deo odibiles*, quia nihil est ita carum homini sicut fama. Eccle. VII, 2: *melius est nomen bonum quam unguenta pretiosa*. Prov. XXII, 1: *melius est nomen bonum quam divitiae multae*. Detractores autem auferunt hoc. Eccle. X, 11: *si mordeat serpens in silentio, nihil eo minus habet qui occulte detrahit*. Unde si famam non restituant, salvari non possunt.
+
+Item qui detractores libenter audit. Eccli. XXVIII, 28: *sepi aures tuas spinis, et linguam nequam noli audire, et ori facito ostia, et seras auribus tuis*. Non debet autem homo tales libenter audire: quinimmo debet detrahenti ostendere vultum tristem et torvum. Prov. XXV, 23: *ventus Aquilo dissipat pluvias, et facies tristis linguam detrahentem*.
+
+Item susurratores, qui scilicet recitant quidquid audiunt. Prov. VI, 16: *sex sunt quae odit dominus, et septimum detestatur anima eius: (scilicet) eum qui seminat inter fratres discordias*. Eccli. XXVIII, 15: *susurro et bilinguis maledictus; multos enim turbavit pacem habentes*; et multa quae sequuntur.
+
+Item blanditores, idest adulatores. Psal. X, 3: *laudatur peccator in desideriis animae suae, et iniquus benedicitur*. Isai. III, 12: *popule meus, qui beatum te dicunt, ipsi te decipiunt*. Psal. CXL, 5: *corripiet me iustus in misericordia, et increpabit me; oleum autem peccatoris non impinguet caput meum*.
+
+Item murmuratores; et hoc maxime abundat in subditis. I Cor. X, 10: *neque murmuraveritis*. Sap. I, 11: *custodite vos a murmuratione, quae nihil prodest*. Prov. XXV, 15: *patientia lenietur princeps, et lingua mollis constringet duritiem. Non loquaris contra proximum tuum falsum testimonium*.
+
+**Special effects of telling lies**
+
+In hac prohibitione prohibetur omne mendacium. Eccli. VII, 14: *noli velle mentiri omne mendacium; assiduitas enim illius non est bona*. Et hoc propter quatuor. Primo propter Diaboli assimilationem. Talis enim efficitur Diaboli filius. Nam homo ex verbis suis cognoscitur de qua regione et patria sit: *nam et loquela tua manifestum te facit*, ut dicitur Matth. XXVI, 73. Item homines quidam sunt de genere Diaboli, et dicuntur Diaboli filii, qui scilicet loquuntur mendacium: quia Diabolus mendax est, et pater eius, ut dicitur Ioan. VIII. Ipse enim mentitus est, Gen. III, 4: *nequaquam moriemini*. Quidam vero filii Dei, qui scilicet veritatem loquuntur, quia Deus veritas est.
+
+Secundo propter societatis dissolutionem. Homines enim simul vivunt: quod esse non posset, si simul verum non dicerent. Apostolus, Ephes. IV, 25: *deponentes mendacium, loquimini veritatem unusquisque cum proximo suo, quoniam sumus invicem membra*.
+
+Tertio propter famae amissionem. Qui enim assuescit mendaciis, non creditur sibi, etiam si verum dicat. Eccli. XXXIV, 4: *ab immundo quid mundabitur: et a mendace quid verum dicetur?*
+
+Quarto propter animae perditionem. Occidit enim homo mendax animam suam. Sap. I, 11: *os quod mentitur, occidit animam*. Psal. V, 7: *perdes omnes qui loquuntur mendacium*. Unde patet quod est peccatum mortale. Unde advertas, quia ipsorum mendaciorum quoddam est mortale, quoddam veniale.
+
+Mortale autem est mentiri in his quae sunt fidei; quod pertinet ad praeclaros magistros et praedicatores: et hoc gravius omnibus aliis speciebus mendacii: II Petr. II, 1: *in vobis erunt magistri mendaces, qui introducent sectas perditionis*. Et aliqui aliquando talia dicunt, ut videantur scire: Isai. LVII, 4: *super quem lusistis, super quem dilatastis os, et eiecistis linguam? Nunquid non vos filii scelesti, semen mendax? *Item aliquando mentiuntur aliqui in damnum proximi. Col. III, 9: *nolite mentiri invicem*. Et haec duo mendacia mortalia sunt.
+
+Aliqui autem mentiuntur pro seipsis; et hoc multipliciter. Aliquando ex humilitate. Et hoc in confessione quandoque: de quo ait Augustinus: *sicut cavendum est ne homo taceat quod fecit, ita ne dicat quod non fecit*. Iob XIII, 7: *nunquid Deus indiget vestro mendacio? *Eccli. XIX, 23: *est qui nequiter se humiliat, et interiora eius plena sunt dolo; et est iustus qui se nimium submittit a multa humilitate*.
+
+Aliqui ex verecundiae levitate, cum scilicet quis credit verum dicere, et dicit falsum; et hoc advertens verecundatur retractare. Eccli. IV, 30: *non contradicas verbo veritatis ullo modo, et de mendacio ineruditionis confundere*. Aliqui ex utilitate, quando volunt aliquid adipisci, vel ab aliquo evadere. Isai. XXVIII, 15: *posuimus mendacium spem nostram, et mendacio protecti sumus*. Prov. X, 4: *qui nititur mendaciis, hic pascit ventos*.
+
+Aliqui propter alterius commodum, quando scilicet volunt aliquem a morte vel periculo vel damno aliquo liberare: et hoc cavendum est, sicut dicit Augustinus. Eccli. IV, 26: *non accipias faciem adversus faciem tuam, nec adversus animam tuam mendacium*. Aliqui propter ludum: et hoc cavendum, ne propter consuetudinem ducat ad mortale. Sap. IV, 12: *fascinatio nugacitatis obscurat bona*.
+
+## Articulus 11 {#in-decal.11}
+
+De nono praecepto
+
+Non concupisces rem proximi tui. Exod. XX, 17.
+
+Haec est differentia inter legem divinam et mundanam: quia lex mundana iudicat facta et dicta; divina autem non haec tantum, sed etiam cogitata. Et ratio huius est, quia illa est per homines, qui iudicant ea quae apparent exterius; sed divina est a Deo, qui exterius interiusque conspicit. Psal. LXXII, 26: *Deus cordis mei*. I Reg. XVI, 7: *homo videt quae foris sunt, Deus autem intuetur cor*. Dictum est autem de praeceptis quae pertinent ad dicta et facta; nunc ergo dicendum est de cogitatis. Nam apud Deum voluntas pro facto reputatur: unde *non concupisces*; idest, non solum non auferas facto, sed nec etiam rem proximi tui concupisces. Et hoc propter multa.
+
+Primo propter concupiscentiae infinitatem. Concupiscentia enim quid infinitum est. Quilibet autem sapiens debet intendere finem aliquem, immo nullus debet ire per viam infinitam. Eccle. V, 9: *avarus non implebitur pecunia*. Isai. V, 8: *vae qui coniungitis domum ad domum, et agrum agro copulatis*. Et quod concupiscentia nunquam satietur, ratio est, quia cor hominis factum est ad recipiendum Deum. Unde Augustinus, in I Confess.: *fecisti nos domine ad te, et inquietum est cor nostrum donec requiescat in te*. Id ergo quod minus Deo est, ipsum implere non potest. Psal. CII, 5: *qui replet in bonis desiderium tuum*.
+
+Secundo quia aufert quietem, quae multum est delectabilis. Semper enim cupidi soliciti sunt acquirere non habita, et habita custodire. Eccle. V, 11: *saturitas divitis non sinit eum dormire*. Matth. VI, 21: *ubi est thesaurus tuus, ibi est et cor tuum*. Et ideo Christus, Luc. VIII, divitias spinis assimilavit, ut dicit Gregorius.
+
+Tertio quia causat in divitiis inutilitatem. Facit enim divitias esse non utiles nec sibi nec aliis: non enim utuntur eis nisi conservando. Eccli. XIV, 3: *viro cupido et tenaci sine ratione est substantia*.
+
+Quarto, quia tollit iustitiae aequitatem. Exod. XXIII, 8: *ne accipias munera, quae etiam excaecant prudentes, et subvertunt verba iustorum*. Eccli. XXXI, 5: *qui autem diligit, non iustificabitur*.
+
+Quinto, quia necat caritatem proximi: quia, secundum Augustinum, quanto magis habet quis de caritate, tanto minus de cupiditate; et e converso, Eccli. VII, 20: *neque fratrem carissimum auro spreveris*; et caritatem Dei: quia sicut nemo potest duobus dominis servire, ita neque Deo et mammonae, ut dicitur Matth. VI.
+
+Sexto, quia producit omnem iniquitatem. Est enim radix omnium malorum, secundum apostolum, ut dicitur I Tim. VI. Et ideo si in corde radicata est, et homicidium et furtum et omnia mala operatur. Et ideo dicit apostolus, I Tim. VI, 9-10: *qui volunt divites fieri, incidunt in tentationem et in laqueum Diaboli, et desideria multa inutilia et nociva, quae mergunt homines in interitum et perditionem: radix enim omnium malorum est cupiditas*. Et nota, quod cupiditas tunc est peccatum mortale, quando sine ratione concupiscitur res proximi; sed quando rationabiliter, veniale.
+
+## Articulus 12 {#in-decal.12}
+
+De decimo praecepto
+
+Non desiderabis uxorem proximi tui. Exod. XX, 17.
+
+Beatus Ioannes in I canonica sua, II capite vers. 16, dicit, quod *omne quod est in mundo, concupiscentia carnis est, et concupiscentia oculorum, et superbia vitae*. Unde omne desiderabile in his tribus consistit; sed duo ex istis intelliguntur prohibita per hoc praeceptum: *non concupisces domum proximi tui*. In domo enim intelligitur et altitudo, per quam avaritia designatur: Psal. CXI, 3: *gloria et divitiae in domo eius*. Qui ergo desiderat domum, desiderat dignitates. Et ideo post hoc praeceptum, *non concupisces domum proximi tui*, ponitur aliud, per quod prohibetur carnis concupiscentia. *Non*, inquit, *desiderabis uxorem proximi tui*.
+
+Et est sciendum, quod post peccatum, propter corruptionem nullus evadit concupiscentiam praeter Christum et virginem gloriosam. Et quandocumque concupiscentia adest, adest vel cum veniali, vel cum mortali, quando scilicet dominatur. Apostolus, Rom. VI, 12: *non regnet peccatum in vestro mortali corpore*; et non dicit, non sit, quia, sicut ipse dicit *scio quod non habitat in me, idest in carne mea, bonum*.
+
+Regnat autem peccatum in carne, quando primo in corde regnat concupiscentia, consentiendo: et ideo subdit apostolus: *ut scilicet obediatis concupiscentiis carnis*. Matth. V, 28: *qui viderit mulierem ad concupiscendum eam, iam moechatus est eam in corde suo*. Voluntas enim apud Deum pro facto reputatur.
+
+Secundo quando dominatur in ore, conceptum exprimendo. Matth. XII, 34: *ex abundantia enim cordis os loquitur*. Ephes. IV, 29: *omnis sermo malus ex ore vestro non procedat*. Et ideo non est sine peccato componere cantiones vanas, etiam secundum philosophos; quia et poetae fingentes carmina amatoria debebant expelli ex civitatibus. Tertio quando egreditur in opere, membris concupiscentiae serviendo. Rom. VI, 19: *sicut exhibuistis membra vestra servire iniquitati ad iniquitatem*. Isti ergo sunt gradus concupiscentiae.
+
+**Ways to overcome concupiscence**
+
+Et sciendum quod in fugiendo istud peccatum oportet multum laborare, cum sit intrinsecum: difficilius enim vincitur inimicus familiaris. Vincitur autem quatuor modis.
+
+Primo occasiones exteriores fugiendo, ut puta malam societatem, et omnia inducentia occasionaliter ad hoc peccatum. Eccli. IX, 5-9: *virginem ne conspicias, ne forte scandalizeris in decore illius (...) noli circumspicere in vicis civitatis, nec oberraveris in plateis illius. Averte faciem tuam a muliere compta, et ne circumspicias speciem alienam. Propter speciem mulieris multi perierunt, et ex hoc concupiscentia quasi ignis exardescit*. Prov. VI, 27: *nunquid potest homo abscondere ignem in sinu suo, ut vestimenta illius non ardeant? *Et ideo praeceptum fuit Lot ut fugeret ab omni circa regione, Gen. XIX, 17.
+
+Secundo cogitationibus aditum non praebendo, quia occasio sunt excitandae concupiscentiae. Et hoc faciendum est per carnis afflictionem: I Cor. IX, 27: *castigo corpus meum et in servitutem redigo*.
+
+Tertio orationibus insistendo: quia *nisi dominus custodierit civitatem, frustra vigilat qui custodit eam*, Psal. CXXVI, I. Sap. VIII, 21: *scivi quoniam aliter non possum esse continens, nisi Deus det*. Matth. XVII, 20: *hoc genus Daemoniorum non eiicitur nisi per orationem et ieiunium*. Si enim duo pugnarent, et velles unum iuvare, alterum vero non: oportet primo auxilium dare, secundo vero subtrahere. Inter spiritum autem et carnem est praelium continuum: unde oportet quod si vis quod spiritus vincat, quod des ei auxilium, et hoc fit per orationem; carni vero subtrahas, et hoc fit per ieiunium; nam caro per ieiunium debilitatur.
+
+Quarto licitis occupationibus insistendo. Eccli. XXXIII, 29: *multam malitiam docuit otiositas*. Ezech. XVI, 49: *haec fuit iniquitas Sodomae, superbia, saturitas panis, et abundantia, et otium*. Hieronymus: *semper aliquid boni facito, ut te Diabolus inveniat occupatum*. Inter omnes autem occupationes melior est studium Scripturarum. Hieronymus, ad Paulinum: *ama studia Scripturarum, et carnis vitia non amabis*.
+
+**SUMMARY OF THE TEN COMMANDMENTS**
+
+Haec ergo sunt decem verba, de quibus dicit dominus, Matth. XIX, 17: *si vis ad vitam ingredi, serva mandata*. Duae enim sunt radices principales omnium mandatorum, scilicet dilectio Dei et proximi. Diligenti autem Deum tria necesse est facere: scilicet quod non habeat alium Deum, et quantum ad hoc dicit: *non coles deos alienos*. Secundo quod honoret eum; et quantum ad hoc dicit: *non assumes nomen Dei tui in vanum*. Tertio quod libenter quiescat in eo; et quantum ad hoc dicit: *memento ut diem sabbati sanctifices*.
+
+Diligentem autem proximum oportet quod primo faciat ei honorem debitum: unde dicit: *honora patrem tuum*. Secundo quod abstineat a faciendo ei malum; et hoc vel facto: unde dicit, *non occides*, quod est in persona propria; *non adulterabis*, quod est in persona coniuncta; *non furtum facies*, quod est in rebus exterioribus. Item dicto, ibi, *non falsum testimonium dices*; vel corde: et quantum ad hoc dicit: *non concupisces rem proximi tui, et non desiderabis uxorem proximi tui*.

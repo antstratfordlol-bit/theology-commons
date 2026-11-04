@@ -1,0 +1,35 @@
+---
+title: "John Clynn"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Edward Alfred D'Alton"
+signed: "E. A. D'Alton"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/John_Clynn"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.john-clynn} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Congregation of Cluny"
+next: "Bernabé Cobo"
+entry-type: "article"
+characters: 1647
+words: 287
+links: 0
+images: 0
+---
+
+# John Clynn {#cathen.john-clynn}
+
+(Or CLYN).
+
+Irish Franciscan and annalist, b. about 1300; d., probably, in 1349. His place of birth is unknown, and the date given is only conjecture; but, as he was appointed guardian of the Franciscan convent at Carrick in 1336, it is concluded that he was then at least 30 years of age. He was afterwards in the Franciscan convent at Kilkenny, and there he probably died. He is credited by Ware, in "Writers of Ireland", with having written a work on the kings of England and another on the superiors of his own order; but these works have not been published, and his celebrity rests on his "Annals of Ireland", from the birth of Christ to the year 1349. Latin, the entries are at first meagre and uninteresting; but from 1315 Clynn deals with what he himself saw, and, though such things as the building of a choir and the consecration of an altar would interest only his own order and time, other entries throw much light on the general history of the country. Being Anglo-Irish, he speaks harshly of the native chiefs; but neither does he hesitate to condemn the Anglo-Irish lords, their impatience of restraint, their contempt for the Government at Dublin, their oppression of the poor. His account of the plague in 1348-9 is vivid. Surrounded by dead and dying, he laid down his pen, wondering if any of the sons of Adam would be spared, and the scribe who copied the work adds that at this date it seems the author died. His "Annals" were edited by Richard Butler for the Irish Archæological Society (December, 1849).
+
+WARE-HARRIS, *Writers of Ireland* (Dublin, 1764); WEBB, *Compendium of Irish Biography* (Dublin, 1878).
+
+E. A. D'Alton.

@@ -1,0 +1,33 @@
+---
+title: "Gregor Reisch"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "Klemens Löffler"
+signed: "Klemens Löffler"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Gregor_Reisch"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.gregor-reisch} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Carl von Reisach"
+next: "Relationship"
+entry-type: "article"
+characters: 2115
+words: 336
+links: 0
+images: 0
+---
+
+# Gregor Reisch {#cathen.gregor-reisch}
+
+Born at Balingen in Wurtemberg, about 1467; died at Freiburg, Baden, 9 May, 1525. In 1487 he became a student at the University of Freiburg, Baden, and received the degree of *magister* in 1489. He then entered the Carthusian Order. During the years 1500-1502 he was prior at Klein-Basel; from 1503 to shortly before his death he was prior at Freiburg. He was also visitor for the Rhenish province of his order. As visitor he made very exertion to combat Lutheranism. He was a friend of the most celebrated Humanists of the era, e.g., Erasmus, Wimpfeling, Beatus, Rheananus, Udalricus Zasius, and the celebrated preacher, Geiler of Kaisersberg. John Eck was his pupil. Reisch had a great reputation for adaptability and was regarded as an "oracle". He was one of the most conspicuous, if not the most conspicuous, of the intellectual men at the commencement of the new era who sought to prepare encyclopedia works of knowledge. His chief work is the "Margarita philosophica", which first appeared at Freiburg in 1503 (not as early as 1496). It is an encyclopedia of knowledge intended as a text-book for youthful students, and contains in twelve books Latin grammar, dialectics, rhetoric, arithmetic, music, geometry, astronomy, physics, natural history, physiology, psychology, and ethics. The usefulness of the work was increased by numerous woodcuts and a full index. The form is catechetical: the scholar questions and the teacher answers. The book was very popular on account of its comparative brevity and popular form, and was for a long time a customary textbook of the higher schools. Alexander von Humboldt said of it that it had "for a half-century, aided in a remarkable manner the spread of knowledge". In 1510 Reisch also published the statutes and privileges of the Carthusian Order, and assisted Erasmus of Rotterdam in his edition of Jerome.
+
+PETREIUS, Bibliotheca Carthusiana (Cologne, 1609), 109-112; HURTER, Nomenclator, II (3rd ed. Innsbruck, 1906), 1278-79; HARTFELDER, Gregor Reisch, in Zeitschrift fur die Geschichte des Oberrheins, New Series, V (Freiburg, 1890), 170-200.
+
+Klemens Löffler.

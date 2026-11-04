@@ -1,0 +1,31 @@
+---
+title: "Charles-Claude Fauriel"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Louis Narcisse Delamarre"
+signed: "LOUIS N. DELAMARRE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Charles-Claude_Fauriel"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.charles-claude-fauriel} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Lawrence Arthur Faunt"
+next: "Sts. Faustinus and Jovita"
+entry-type: "article"
+characters: 2849
+words: 467
+links: 0
+images: 0
+---
+
+# Charles-Claude Fauriel {#cathen.charles-claude-fauriel}
+
+A historian, b. at St-Etienne, France, 27 October, 1772; d. at Paris, 15 July, 1844. He studied first at the Oratorian College of Tournon, then at Lyons. He served in the army of the Pyrénées-Orientales. Under the Directory Fouche, an ex-Oratorian, attached him to his cabinet as private secret secretary. Under the Empire, he refused office in order to devote all his time to study. Fauriel adopted the new ideas of the Philosophers and the principles of the Revolution, but repudiated them in part in the later years of his life. He was an intense worker and knew Greek, Latin, Italian, German, English, Sanskrit, and Arabic. It was he who made the merits of Ossian and Shakespeare known to the French public and spread in France the knowledge of German literature, which had been previously looked upon as unimportant. He was one of the first to investigate Romance literature, and the originality of his views in this direction soon popularized this new study. He also gathered the remnants of the ancient Basque and Celtic languages. The first works he published were a translation of "La Parthénéide" (Paris, 1811), an idyllic epic by the Danish poet, Baggesen, and of the tragedy of his friend Manzoni, "ll Conte di Carmagnola" (Paris, 1823). The numerous linguistic and archaeological contributions which he wrote for various magazines won for him a great reputation among scholars; it was said of him that "he was the man of the nineteenth century who put in circulation the most ideas, inaugurated the greatest number of branches of study, and gathered the greatest number of new results in historical science" (Revue des Deux Mondes, 15 Dec., 1853). The publication of the "Chants populaires de la Grece moderne", text and translation (Paris, 1824-25), at a moment when Greece was struggling for her independence, made him known to the general public. In 1880 a chair of foreign literature was created for him at the University of Paris. He studied specially the Southern literatures and Provençal poetry. His lectures were published after his death under the title of "Histoire de la poésie provençale" (3 vols, Paris, 1846). In order to study more deeply the origins of French civilization he wrote "Histoire de la Gaule méridionale sous la domination des conquérants germains" (4 vols., Paris, 1836), only a part of a vaster work conceived by him. The merit of these works caused him to be elected (1836), the Academy of Inscriptions and Belles-Lettres. He contributed also to the "Histoire Littéraire de la France", commenced by the Benedictines and taken after the Revolution by the Institute of France. Having been named assistant curator of the manuscript of Royal Library he published an historical poem in Provençal verse (with a translation and introduction), dealing with the crusade against the Albigenses.
+
+LOUIS N. DELAMARRE

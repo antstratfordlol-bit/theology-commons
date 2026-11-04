@@ -1,0 +1,33 @@
+---
+title: "Pearl Mary Teresa Craigie"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Cornelius Clifford"
+signed: "CORNELIUS CLIFFORD"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pearl_Mary_Teresa_Craigie"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pearl-mary-teresa-craigie} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Cracow"
+next: "Richard Crashaw"
+entry-type: "article"
+characters: 3055
+words: 508
+links: 0
+images: 0
+---
+
+# Pearl Mary Teresa Craigie {#cathen.pearl-mary-teresa-craigie}
+
+Better known, under the pseudonym which first won her fame, as JOHN OLIVER HOBBES.
+
+English novelist, dramatist, and convert; b. 3 November, 1867; d. 13 August, 1906. She was the eldest daughter of John Morgan Richards, a successful man of business in Boston, Massachusetts, U.S.A., and of Laura Hortense Arnold, a lady of distinguished colonial descent. Her father came of an intensely Calvinistic stock long settled in and about New York and New Jersey; and her grandfather, the Rev. James Richards, D.D., was a preacher and theological writer of some distinction in his time. In February, 1887, before she had completed her twentieth year, Miss Richards was married to Mr. Reginald Walpole Craigie, an English gentleman of good connections. The union, however, proved an uncongenial one, and Mrs. Craigie soon sought and obtained a legal separation with the right to the custody of her child. In 1892, as the result, it would seem, of much private and independent reflection, she was received into the Church. She had begun to turn her thoughts seriously to literature some time before this event; for already in 1891 she had ventured before the public under the pseudonym which she insisted on retaining long after her identity was known, and challenged the puzzled critics by a book to which she gave the unconventional title of "Some Emotions and a Moral". Success waited upon her from the start: "The Sinner's Comedy" (1892); "A Study in Temptations" (1893); "A Bundle of Life" (1894); "The Gods, Some Mortals, and Lord Wickenham" (1895); "The Herb Moon" (1896); "The School for Saints" (1897); "Robert Orange" (1900); "A Serious Wooing" (1901); "Love and the Soul Hunters" (1902); "The Vineyard" (1904); "The Flute of Pan" (1905); "The Dream and the Business" (published after her death of 1906); - these with plays like "Journeys End in Lovers Meeting: Proverb," in one act, written for Miss Ellen Terry (1894); "the Ambassador", produced at the St. James's theatre in London (1898); "Osbern and Ursyne", a tragedy in three acts, published in the "Anglo-Saxon Review" (1899); "A Repentance", a drama in one act, produced at the St. James's Theatre and afterwards at Carisbrooke Castle (1899); "The Wisdom of the Wise", produced at the St. James's theatre (1900); and "The Bishop's Move" (1902), of which she was author only in part, represent the sum of her considered work, the output she preferred to be judged by. As she grew older in the wisdom of her art, the religious quality which seems to lie inevitably behind all her theory of life emerged more and more into prominence. It reached its height in "The School for Saints" and its sequel "Robert Orange". Whether in literary form or in artistic intention she never rose beyond the achievement of these two books. They are intensely serious, intensely human, and almost too religious; yet they are modern and alive. Mrs. Craigie was in the full enjoyment of a well deserved fame, yet hardly at the acme of her powers, when death came to her suddenly from heart disease.
+
+CORNELIUS CLIFFORD

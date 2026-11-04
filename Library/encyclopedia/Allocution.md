@@ -1,0 +1,33 @@
+---
+title: "Allocution"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "325"
+author: "William Henry Windsor Fanning"
+signed: "William H. W. Fanning"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Allocution"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.allocution} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "William Allison"
+next: "Allori"
+entry-type: "article"
+characters: 3242
+words: 530
+links: 0
+images: 0
+---
+
+# Allocution {#cathen.allocution}
+
+**Allocution** is a solemn form of address or speech from the throne employed by the Pope on certain occasions. It is delivered only in a secret consistory at which the cardinals alone are present. The term *allocutio* was used by the ancient Romans for the speech made by a commander to his troops, either before a battle or during it, to animate and encourage them. The term when adopted into ecclesiastical usage retained much of its original significance. An allocution of the Pope often takes the place of a manifesto when a struggle between the Holy See and the secular powers has reached an acute stage. It then usually summarizes the points at issue and details the efforts made by the Holy See to preserve peace. It likewise indicates what the Pope has already conceded and the limit which principle obliges him to put to further concessions. A secret consistory of cardinals, as opposed to a public and ceremonious one, is a meeting of those dignitaries in presence of the Pope to discuss matters of great importance concerning the well-being of the Church. At these secret consistories the Sovereign Pontiff not only creates cardinals, bishops, and legates, but he also discusses with the cardinals grave matters of State arising out of those mixed affairs, partly religious, partly civil, in which conflict can easily arise between Church and State. In such secret consistories the cardinals have a consultative vote. When the Pope has reached a conclusion on some important matter, he makes his mind known to the cardinals by means of a direct address, or allocution. Such allocations, though delivered in secret, are usually published for the purpose of making clear the attitude of the Holy See on a given question. They treat generally of matters that affect the whole Church, or of religious troubles in a particular country where ecclesiastical rights are infringed or endangered, or where heretical or immoral doctrines are undermining the faith of the people. Most of the subjects presented to the secret consistory have already been prepared in the consistorial congregation, which is composed of a limited number of cardinals. These conclusions may be accepted or rejected by the Pope as he thinks proper. In matters of statecraft the Pontiff also takes counsel with those most conversant with the subject at issue and with his Secretary of State. His conclusions are embodied in the allocution. Among papal allocutions of later times which attracted widespread attention from the importance or delicacy of the matters with which they dealt, may be mentioned those of Pius VII on the French Concordat (1802) and on the difficulties created by Napoleon for the Holy See (1808); those of Gregory XVI referring to the troubles with Prussia concerning mixed marriages, and with Russia over forcible conversions to the schismatical Greek Church; those of Pius IX concerning the attacks on the Pope's temporal power, and of Pius X on the rupture with France occasioned by the breaking of the Concordat and the consequent separation of Church and State in that country.
+
+De Luca, *Prælect. Jur. Can*. (Rome, 1897), II; Bouix, *De Curia Romana* (Paris, 1880); Binder, *Conversationlex*, (Ratisbon, 1846).
+
+William H. W. Fanning.

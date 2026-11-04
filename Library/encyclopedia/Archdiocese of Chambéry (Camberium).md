@@ -1,0 +1,35 @@
+---
+title: "Archdiocese of Chambéry (Camberium)"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Pierre-Louis-Théophile-Georges Goyau"
+signed: "GEORGES GOYAU"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Archdiocese_of_Chambéry_(Camberium)"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.archdiocese-of-chambery-camberium} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Cham, Chamites"
+next: "Samuel de Champlain"
+entry-type: "article"
+characters: 3135
+words: 511
+links: 0
+images: 0
+---
+
+# Archdiocese of Chambéry (Camberium) {#cathen.archdiocese-of-chambery-camberium}
+
+ARCHDIOCESE OF CHAMBÉRY (CAMBERIENSIS).
+
+The Archdiocese of Chambéry comprises the entire arrondissement of Chambéry in Savoy (with the exception of 8 communes), 10 communes in the arrondissement of Annecy (Haute-Savoie), and 8 communes in the arrondissement of Albertville (Savoie). In 1467, in the ducal chapel built for the Holy Winding-Sheet (*Santo Sudario*) by Amadeus IX, duke of Savoy, and the Duchess Yolande of France, Paul II erected a chapter directly subject to the Holy See, and his successor Sixtus IV, united this chapter with the deanery of Savoy. In 1515 Leo X published a Bull making the deanery an archbishopric, but Francis I objected, and it was only in 1775 that this deanery was separated from the Diocese of Grenoble by Pius VI, who, in 1779, created it a bishopric with the see at Chambéry. The Duchy of Savoy, politically subject to the King of Sardinia, had thenceforth 4 bishoprics: Chambéry, Saint-Jean de Maurienne, Tarentaise, and Geneva (with residence at Annecy). In October, 1792, the commissaries to the Convention formed the constitutional Diocese of Mont-Blanc, with Annecy as the see and Lyons as the metropolitan. The Concordat of 1802 created a Diocese of Chambéry and Geneva, suffragan of Lyons. A Bull dated 17 July, 1817, made Chambéry, once more a city of the Sardinian States, the seat of an archdiocese, with Aosta for suffragan; the Dioceses of Annecy (re-established in 1822), Saint-Jean-Maurienne, and Tarentaise (in 1825), soon also became suffragans of Chambéry. After the annexation of Savoy to France, in 1860, this condition continued, except that the Diocese of Aosta was made a suffragan of Turin.
+
+The Cistercian Abbey of Hautecombe, founded in 1135, is one of the burial places of the House of Savoy. The relic known as the Holy Winding-Sheet of Christ was kept at Chambéry until 1598, in which year the Duke of Savoy had it transported to Turin, where St. Charles Borromeo wished to venerate it. Notre-Dame de Myans (antedating the twelfth century), where St. Francis de Sales officiated, and where diocesan missionaries now reside, and Notre-Dame de l'Aumone at Romilly (thirteenth century), whither Francis I of France went as a pilgrim, are still places of pilgrimage. Before the execution of the law of 1901 there were in the archdiocese Capuchins, Cistercians of the Immaculate Conception, and Trappists; the last are there yet. The Sisters of St. Joseph, an order founded at Chambéry in 1812 and devoted to teaching and charitable work, are now widespread, having 12 establishments in Brazil, 9 in North America, 1 in Iceland, 2 in Sweden, 5 in Russia, 10 in Denmark, and 8 in Norway. In 1900 the archdiocese had the following religious institutions: 1 foundling asylum, 2 maternity hospitals, 1 orphanage for boys, 5 for girls, 1 insane asylum, 1 house of retreat, 3 houses for nursing sisters, 8 hospitals and asylums, and 5 industrial schools. At the close of 1905 (end of the period under the Concordat), statistics showed a population of 164,424, with 18 parishes, 153 succursal parishes (mission churches), and 49 vicariates supported by the State.
+
+GEORGES GOYAU

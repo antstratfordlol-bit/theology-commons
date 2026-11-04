@@ -1,0 +1,40 @@
+---
+title: "Canonical Erection of a Monastery"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: "William Henry Windsor Fanning"
+signed: "WILLIAM H.W. FANNING"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Canonical_Erection_of_a_Monastery"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.canonical-erection-of-a-monastery} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Suppression of Monasteries"
+next: "Monasticism"
+entry-type: "article"
+characters: 2477
+words: 409
+links: 0
+images: 0
+---
+
+# Canonical Erection of a Monastery {#cathen.canonical-erection-of-a-monastery}
+
+A religious house (monastery or convent) is a fixed residence of religious persons. It supposes, therefore, continuous habitation of a community strictly so called, governed by a superior and following the rule prescribed by the respective order. Such a religious house is to be distinguished from a grange or farm, from a villa or place of recreation, and from a hospice or place for the reception of travelling religious. The conditions for the legitimate erection of a monastery are:
+
+- the permission of the Holy See. This is certain for countries subject to the Decree "Romanos Pontifices" (i.e. the United States, England, etc.); it is also required for Italy. Outside of Italy and missionary countries generally, the question is much disputed by canonists;
+
+- the assent of the ordinary. This condition was approved by the Council of Chalcedon in 451, and was in force as late as the twelfth century. In the thirteenth, the privileges of the mendicant orders caused frequent derogations from the law, but the ancient discipline was restored by the Council of Trent (Sess. XXV, de Reg., cap. iii). This permission cannot be given by the vicar-general nor by the vicar-capitular. Before the bishop gives his assent, he should make himself acquainted with the opinions of those to whom such a monastery might prove a detriment, as the superiors of other religious orders already established there, or the people of the place. The parish priest cannot object, unless it is intended to confer parochial rights on the new religious house;
+
+- there must be a proper provision for the sustenance of twelve religious, otherwise they must live under the jurisdiction of the ordinary. This last condition does not, however, apply to countries where the "Romanos Pontifices" is in force.
+
+For the transfer of a monastery from one site to another in the same locality, no permission of the Holy See is required, as this is translation, not erection. There was an ancient law that a new monastery could not be erected within a certain distance from an older one, but it has gone into desuetude. As regards convents of religious women, the assent of the ordinary is required, but not that of the Holy See. The same holds for the erection of houses of pious congregations and institutes.
+BACHOFEN, Compendium Juris Regularium (New York, 1903; TAUNTON, The Law of the Church (St. Louis, 1906), s.v. Monastery; VERMEERSCH, De Religiosis Institutis, I (Bruges, 1902).
+
+WILLIAM H.W. FANNING

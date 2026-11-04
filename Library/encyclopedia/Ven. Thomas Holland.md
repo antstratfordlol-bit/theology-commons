@@ -1,0 +1,33 @@
+---
+title: "Ven. Thomas Holland"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "John Bannerman Wainewright"
+signed: "J. B. Wainewright"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Ven._Thomas_Holland"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.ven-thomas-holland} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Holland"
+next: "Hollanders in the United States"
+entry-type: "article"
+characters: 2067
+words: 354
+links: 0
+images: 0
+---
+
+# Ven. Thomas Holland {#cathen.ven-thomas-holland}
+
+An English martyr, b. 1600 at Sutton, Lancashire; martyred at Tyburn, 12 December, 1642. He was probably son of Richard Holland, gentleman, was educated at St.Omer's and subsequently in August, 1621, went to Valladolid, where he took the missionary oath 29 December, 1633. When the abortive negotiations for the spanish match were taking place in 1623, Holland was sent to Madrid to assure Prince Charles of the loyalty of the seminarists of Valladolid, which he did in a Latin oration. In 1624 he entered the novitiate of the Society of Jesus at Watten in Flanders and not long after was ordained priest at Liège. After serving as minister at Ghent and prefect at St. Omer's he was made a spiritual coadjutor at Ghent (28 May, 1634) and sent on the English mission the following year. He was an adept in disguising himself, and could speak French, Spanish, and Flemish to perfection but was eventually arrested on suspicion in a London street 4 Oct., 1642, and committed to the New Prison. He was afterwards transferred to Newgate, and arraigned at the Old Bailey, 7 December, for being a priest. There was no conclusive evidence as to this; but as he refused to swear he was not, the jury found him guilty, to the indignation of the Lord Mayor, Sir Isaac Pennington, and another member of the bench named Garroway. On Saturday, 10 December, Sergeant Peter Phesant, presumably acting for the recorder, reluctantly passed sentence on him. On his return to prison great multitudes resorted to him, and he heard many confessions. On Sunday and Monday he was able to say Mass in prison, and soon after his last Mass was taken off to execution. There he was allowed to make a considerable speech and to say many prayers, and when the cart was turned away, he was left to hang till he was dead. His brethren called him *bibliotheca pietatis*.
+
+POLLEN, Acts of the English Martyrs (London, 1891), 358-367; CHALLONER, Missionary Priests, II, no. 174; GILLOW, Bibl. Dict. Eng. Cath. (London and New York, 1885-1902), III, 353-6; COOPER in Dict. Nat. Biog.
+
+J. B. Wainewright.

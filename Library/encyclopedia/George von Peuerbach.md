@@ -1,0 +1,37 @@
+---
+title: "George von Peuerbach"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "unknown"
+author: "William Fox (1864- )"
+signed: "WILLIAM FOX"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/George_von_Peuerbach"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.george-von-peuerbach} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Petun Nation"
+next: "Conrad Peutinger"
+entry-type: "article"
+characters: 2875
+words: 451
+links: 0
+images: 0
+---
+
+# George von Peuerbach {#cathen.george-von-peuerbach}
+
+(also Peurbach, Purbach, Purbachius)
+
+Austrian astronomer, b. at Peuerbach near Linz, 30 May, 1423; d. in Vienna, 8 April, 1461. His real family name, as well as his early schooling, is unknown. About the year 1440 he received the degree of master of philosophy and the free arts, *cum insigni laude*, at the University of Vienna. His teacher in mathematics was probably Johann von Gmüden. In 1448 he went on a trip to Italy for the sake of study. There Bianchini of Ferrara and Cardinal Nicholas of Cusa, then in Rome, became interested in the young man an induced him to lecture on astronomy at the University of Ferrara. He refused offers of professorships at Bologna and Padua, and also the appointment as court astronomber to King Ladislaus of Hungary, but went back to Vienna in 1450 to teach. He lectured on philology and classical literature. His scientific teaching was done chiefly in private, his most famous pupil being Johann Müller of Königsberg, later known as Regiomontanus. Peuerbach has been called the father of observational and mathematical astronomy in the West. He began to work up Ptolemy's "Almagest", replacing chords by sines, and calculating tables of sines for every minute of arc for a radius of 600,000 units. This was the first transition from the duodecimal to the decimal system. His observations were made with very simple instruments, an ordinary plumb-line being used for measuring the angles of elevation of the stars. Cardinal Bessarion invited him to Rome to study Ptolemy in the original Greek and not from a faulty Latin translation. He accepted on condition that Müller go with him. On account of the master's death the pupil went alone to complete the work.
+
+Peuerbach is also noted for his great attempt to reconcile the opposing thoeries of the universe, the so-called homocentric speres of Eudoxus and Aristotle, with Ptolemy's epicyclic trains. This work, "Theoricæ, etc.", had an enormous success and remained the basis of academic instruction in astronomy until years after Copernicus had swept away all these hypotheses. Twenty works are known. Among these the following are the most important: "Theoricæ novæ planetarum, id est septem errantium siderum nec non octavi seu firmamenti" (1st ed., Nuremberg, 1460, followed by many others in Milan and Ingolstadt); "Sex primi libri epitomatis Almagesti", completed by Regiomontanus (Venice, 1496; Basle, 1534; Nuremberg, 1550); "Tabulæ eclypsium super meridiano Viennensi" (2nd ed., Vienna, 1514); "Quadratum goemetricum meridiano" (Nuremberg, 1516); "Nova tabula sinus de decem minutis in decem per multas, etc.", completed by Regiomontanus (Nuremberg, 1541).
+
+FIEDLER, *Peuerbach und Regiomontanus* in *Jahresberich des K. Kathol. Gymn. zu Leobschütz*, L (1870); WOLF, *Gesch. d. Astr.* (Munich, 1877); GUNTHER, *Allg. Deutsche Biogr.*, XXV (Leipzig, 1887), 559.
+
+WILLIAM FOX

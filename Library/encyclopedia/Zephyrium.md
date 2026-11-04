@@ -1,0 +1,33 @@
+---
+title: "Zephyrium"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Sophron Pétridès"
+signed: "S. Pétridès"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Zephyrium"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.zephyrium} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Pope St. Zephyrinus"
+next: "Zeugma"
+entry-type: "article"
+characters: 1400
+words: 227
+links: 0
+images: 0
+---
+
+# Zephyrium {#cathen.zephyrium}
+
+A titular see in Cilicia Prima, of Tarsus. Nothing is known of the history of Zephyrium, lying off the coast of Cilicia, between Cilicia Tracheia and Pedias. This city is mentioned, however, by numerous ancient authors — it had many coins; here was prepared the best molybdenum (white lead), drawn from the neighbouring mines of Coreyra. It was situated on the road from Selinus to Rhossus. It is to-day Mersina, chief town of a caza of the vilayet of Adana; having about 14,000 inhabitants, of whom 3,000 are Greeks, 1,000 Armenians, 650 Catholics; the population seems to increase quite rapidly. The sea-port exports agricultural products; it is joined to Tarsus and Adana by a railway line, which will soon be connected with the Constantinople line to Bagdad. Le Quien (Oriens Christ., II, 883) names four bishops of Zephyrium: Aerius, present at the Council of Constantinople, 381; Zenobius, a Nestorian, at the Council of Constantinople, 432-34; Hypatius, present at Chalcedon, 451; Peter, at the Council in Trullo, 692. The Latin parish of Mersina is administered by Capuchins; there are likewise Sisters of St. Joseph of the Apparition; schools for boys and girls, and hospitals.
+
+LEAKE, Asia Minor (London, 1824), 214; SMITH, Dict. Greek and Roman Geog. s. v.; MULLER, Geographi graeci minores, ed. DIDOT, I (Paris, 1882) 481; CUINET, La Turquie d'Asie, II (Paris, 1894), 50-58.
+
+S. Pétridès.

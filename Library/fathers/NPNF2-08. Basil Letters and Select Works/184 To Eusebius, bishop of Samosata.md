@@ -1,0 +1,43 @@
+---
+id: "basil-epistulae.en.136"
+title: "To Eusebius, bishop of Samosata."
+work: "Epistulae"
+author: "Basil the Great"
+volume: "NPNF2-08. Basil: Letters and Select Works"
+volume-id: "npnf208"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf208.xml"
+source-id: "ix.cxxxvii"
+sigla: "basil-epistulae"
+part-of: "basil-epistulae"
+part-ref: "136"
+part-kind: "text"
+part-evidence: "printed:body-line1:Letter CXXXVI."
+title-source: "bkv-clavis"
+clavis: "CPG 2900"
+boundary-decision: "one work; letters CCCLXI-CCCLXV share one file and one ranged anchor"
+anchors: "{#basil-epistulae.136} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 2
+scripture-references: 0
+scripture-refs-sidecar: "_scripture-refs/npnf208.tsv"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# To Eusebius, bishop of Samosata. {#basil-epistulae.136}
+
+Letter CXXXVI.[^2445]
+
+*To Eusebius, bishop of Samosata*.[^2446]
+
+1. In what state the good Isaaces has found me, he himself will best explain to you; though his tongue cannot be tragic enough to describe my sufferings, so great was my illness. However, any one who knows me ever so little, will be able to conjecture what it was. For, if when I am called well, I am weaker even than persons who are given over, you may fancy what I was when thus ill. Yet, since disease is my natural state, it would follow (let a fever have its jest) that in this change of habit, my health became especially flourishing. But it is the scourge of the Lord which goes on increasing my pain according to my deserts; therefore I have received illness upon illness, so that now even a child may see that this shell of mine must for certain fail, unless perchance, God’s mercy vouchsafe to me, in His long suffering, time for repentance, and now, as often before, extricate me from evils beyond human cure. This shall be, as it is pleasing to Him and good for myself.
+
+2. I need hardly tell you how deplorable and hopeless is the condition of the Churches. Now, for the sake of our own safety, we neglect our neighbour’s, and do not even seem able to see that general disaster involves individual ruin. Least of all need I say this to one who, like yourself, foresaw the future from afar, and has foretold and proclaimed it and has been among the first to be roused, and to rouse the rest, writing letters, coming yourself in person, leaving no deed undone, no word unspoken. I remember this in every instance, but yet we are none the better off. Now, indeed, were not my sins in the way, (first of all, my dear brother the reverend deacon Eustathius fell seriously ill and detained me two whole months, looking day by day for his restoration to health; and then all about me fell sick; brother Isaaces will tell you the rest; then last of all I myself was attacked by this complaint) I should long ago have been to see your excellency, not indeed thereby to try to improve the general state of affairs, but to get some good for myself from your society. I had made up my mind to get out of the reach of the ecclesiastical artillery, because I am quite unprepared to meet my enemies’ attacks. May God’s mighty hand preserve you for all of us, as a noble guardian of the faith, and a vigilant champion of the Churches; and grant me, before I die, to meet you for the comfort of my soul.
+
+[^2445]: Placed in 373.
+[^2446]: On his own sickness and the troubles of the Church. On his bad health, *cf. Letters* ix., xxvii., cxcviii., ccii., cciii., and ccxvi. The translation of the first section is Newman’s.

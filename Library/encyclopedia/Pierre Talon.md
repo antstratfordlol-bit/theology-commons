@@ -1,0 +1,33 @@
+---
+title: "Pierre Talon"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "Lionel Lindsay"
+signed: "LIONEL LINDSAY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pierre_Talon"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pierre-talon} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Nicolas Talon"
+next: "Tamanac Indians"
+entry-type: "article"
+characters: 2026
+words: 334
+links: 0
+images: 0
+---
+
+# Pierre Talon {#cathen.pierre-talon}
+
+A French-Canadian explorer, b. at Quebec, 1676, of Lucien and Isabelle Planteau; d. in France in the first half of the eighteenth century. His entire family had just emigrated to France, when they were all engaged to follow, Cavalier de La Salle in his attempt to colonize Louisiana (1684). Shortly after landing there, Pierre Talon was sent to learn the language of the Cenis Indians, and spent six years in their country about one hundred leagues inland at the limit of La Salle's discoveries. After the murder of the latter by one of his party, and the massacre of many of the colonists, in their first settlement by the Clamcoet Indians, the country was occupied by the Spaniards. Talon's father had perished in the woods, but his brothers and sisters had been saved by Indian women. They all followed the invaders to New Spain, first to San Luis Potosi; and then to Mexico City, where they spent ten years. The viceroy took them all into his palace as servants and treated them well. Talon and his brother Jean-Baptiste enlisted as Spanish marines and embarked at Vera Cruz. When their vessel was captured by Captain Desaugurs, they begged to be sent back to Spain, but were enrolled in the Fouguerolles company of French marines. Talon, in his evidence sworn at Brest (1698), gives abundant details regarding the character, customs, and religious rites of the Indian tribes with whom he had lived, as well as of the fauna and flora of the southern portion of the continent. The tribes he mentions are inscribed under the following names: Clamcoets, Temerlouans, Tohos, Cenis, Ayennys, Amalchams, Canotinos, Paouitas, and Chomans. There is a great probability, although Talon cannot affirm it as certain, that one of the rivers seen by him during his intercourse with the Indians was the Mississippi which La Salle's premature death prevented the discoverer from seeing again.
+
+TANGUAY, Dict. genealogique (Montreal, 1881); Archives of the Marine (France, 1698); GARNEAU, Hist. du Canada (Montreal, 1883).
+
+LIONEL LINDSAY

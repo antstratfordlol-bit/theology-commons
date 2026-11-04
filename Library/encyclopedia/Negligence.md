@@ -1,0 +1,39 @@
+---
+title: "Negligence"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: "Joseph Francis Delany"
+signed: "JOSEPH F. DELANY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Negligence"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.negligence} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Nectarius"
+next: "Book of Nehemias"
+entry-type: "article"
+characters: 2779
+words: 475
+links: 0
+images: 0
+---
+
+# Negligence {#cathen.negligence}
+
+(Lat. *nec*, not, and *legere*, to pick out).
+
+The condition of not heeding. More specifically it is here considered as the omission, whether habituaI or not, of the care required for the performance of duties, or at any rate, for their full adequate discharge. In the teaching of St. Thomas, it is rated not only as a characteristic discernible in the commission of all sins, but also as a special sin in itself. Its particular deformity he judges to be the imputable lack of satisfying such solicitude as is here and now demanded for the satisfying of obligations. He therefore assigns prudence as the virtue to which it is directly opposed. What has been said applies also to actions which are not of precept, once it is resolved to undertake them. Negligence, according to St. Thomas, is initially at least a lack of promptness of will, and is quite distinguishable from torpor or slipshodness in execution. It is not commonly esteemed to be more than a venial sin. There are, however, two notable exceptions to this statement:
+
+- if a person is careless to the point of omitting something which is indispensable for salvation (*de necessitate salutaris*) or
+
+- if the remissness of will be so great as totally to extinguish the love of God in the soul, then the sin commited is obviously grievous.
+
+Negligence is a factor to be reckoned with in determining the liability of one who has damaged another in any way. In the court of conscience the perpetrator of damage can only be held responsible and bound to restitution when his action has been attended with moral culpability, i.e. has been done freely and advertently. The civil law exacts the exercise of diligence whose measure is established according to the different subject matter involved. The absence of this degree of care on the part of an agent is assumed by the civil law to be culpable, and is punished with the penalties provided. Thus the common law generally distinguishes three classes of negligence as follows: gross negligence is the failure to employ even the smallest amount of care, such as any person, no matter how heedless, would use for the safeguarding of his own interests; ordinary negligence is the failure to exercise ordinary care, such as a person of ordinary capacity and capable of governing a family would take of his own affairs; slight neglience is the failure to bring to bear a high degree of care, such as very thoughtful persons would maintain in looking after their own interests. The civil law may and does impose the obligation of reparation for harm wrought not only where ordinary and gross negligence are shown, but also at times when only slight negligence holds good likewise in conscience, once the decision of the judge decreeing it has been rendered.
+
+JOSEPH F. DELANY

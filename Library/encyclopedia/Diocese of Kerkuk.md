@@ -1,0 +1,35 @@
+---
+title: "Diocese of Kerkuk"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "Siméon Vailhé"
+signed: "S. VAILHÉ"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Diocese_of_Kerkuk"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.diocese-of-kerkuk} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Miles Gerald Keon"
+next: "Francis Kernan"
+entry-type: "article"
+characters: 1656
+words: 258
+links: 0
+images: 0
+---
+
+# Diocese of Kerkuk {#cathen.diocese-of-kerkuk}
+
+(CHERCHENSIS).
+
+A Chaldean Catholic diocese. The ancient name of the city was Karka of Beit-Slokh in the Beit-Garmai, a province of the Persian Empire. Christianity flourished there very early. In 318 two brothers, Adurpawa and Mihrnarsé, with their sister Mahdoukh, were martyred there. In the fifth century, under King Yezdegert II (438-57), the "History of the city of Beit-Slokh" makes mention of hundreds and thousands of martyrs slain in this city (Moesinger, "Monumenta Syriaca", II). Mention may also be made of a bishop, Mana, in the fourth century, with six nuns: Thekla, Danak, Taton, etc.; the Bishop St. Isaac, in the fifth century; St. Sirina, in 559; etc. The "Synodicon Orientale" (Paris, 1902, 674) mentions nine metropolitans of Beit-Slokh who assisted at various councils between 410 and 612. Lequien (Oriens Christ., II, 1331) speaks of others, many of whom were Catholics. At the beginning of the nineteenth century a number of Nestorians recognized the authority of the pope, who created for them the Diocese of Kerkuk. At present it contains 6000 Catholics, 15 stations, 16 churches and chapels, 22 native priests, and 5 primary schools. The city of Kerkuk itself, which has 30,000 inhabitants and constitutes a sanjak in the vilayet of Mosul, contains only about 300 or 400 Catholics, the remainder of the inhabitants being Mussulmans, Jews, or Nestorians.
+
+CUINET, La Turguie d'Asie, II (Paris), 847-53; Revue de l'Orient Chrétien, I (1896), 444-45; Missiones Catholic (Rome, 1907), 812; DIVAL, La Littérature Syriaque (Paris, 1899), 130-32; 143-45; Labourt, *Le Christianisme dans l'empire perse* (Paris, 1904), passim.
+
+S. VAILHÉ

@@ -1,0 +1,33 @@
+---
+title: "Jemez Pueblo"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "James Mooney"
+signed: "JAMES MOONEY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Jemez_Pueblo"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.jemez-pueblo} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Jehu"
+next: "Ven. Philipp Jeningen"
+entry-type: "article"
+characters: 1950
+words: 314
+links: 0
+images: 0
+---
+
+# Jemez Pueblo {#cathen.jemez-pueblo}
+
+An Indian *pueblo* situated upon the north bank of the river of the same name about twenty miles north-west of Bernalillo, New Mexico. Its inhabitants, of Tanoan Shoshonean stock, are all that remain of an important tribe occupying some ten villages in the same region when first known to the Spaniards in 1541. The name comes from their Keran neighbours. They themselves call their town Walatoa, "Bear Village". The Jemez country was first entered by Coronado in 1541, and was visited later by Espejo (1583) and Oñate (1598). Through the efforts of the Franciscan Father MartÌn de Arvide the tribe was induced, about 1618, to concentrate in two villages, in each of which a mission was established. Somewhat later one of these was abandoned for a new station, San Juan (de los Jemez). Twice the Jemez, in connection with some other Indians, conspired against the Spaniards, but the risings were speedily suppressed, until the outbreak of the general Pueblo rebellion in 1680, when the Jemez rose in both villages, killing one of the missionaries. At last, in 1694, General Vargas stormed their *pueblo*, killing nearly 100 of the inhabitants and carrying off nearly 400 prisoners. The village was also destroyed, reducing the tribe to the single *pueblo* of San Diego. In 1696 they again revolted, killing the resident Franciscan missionary, and fled west to the Navaho. After some years of exile they returned and built the *pueblo* in which they now reside. In 1728 and 1780-1 they suffered heavily from smallpox. They number now about 500, including the remnant of the kindred Pecos tribe. Both a government and a Franciscan day-school are kept among them. In culture and general characteristics the Jemez resemble the other Pueblos.
+
+BANCROFT, *Hist. Arizona and New Mexico*; BANDELIER, *Archeol. Inst. Papers*; HODGE, *Handbook*; WINSHIP, *Coronado Expedition in Fourteenth Rpt. Bur. Am. Ethnol.*, for which see INDIANS, AMERICAN.
+
+JAMES MOONEY

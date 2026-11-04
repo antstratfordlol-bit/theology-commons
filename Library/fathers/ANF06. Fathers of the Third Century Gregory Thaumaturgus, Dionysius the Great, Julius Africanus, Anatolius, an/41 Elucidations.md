@@ -1,0 +1,56 @@
+---
+id: "alexander-alex-elucidations.en"
+title: "Elucidations."
+work: "Elucidations."
+author: "Alexander of Alexandria"
+volume: "ANF06. Fathers of the Third Century: Gregory Thaumaturgus, Dionysius the Great, Julius Africanus, Anatolius, and Minor Writers, Methodius, Arnobius"
+volume-id: "anf06"
+series: "Ante-Nicene Fathers"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/anf06.xml"
+source-id: "x.iv"
+sigla: "alexander-alex-elucidations"
+part-kind: "apparatus"
+title-source: "printed-title-en"
+anchors: "{#alexander-alex-elucidations} on the H1 — one whole-document anchor, the file being the citable unit (how-it-works.md §4)."
+divisions: 0
+footnotes: 7
+scripture-references: 0
+scripture-refs-sidecar: "_scripture-refs/anf06.tsv"
+print-pages: "303-304"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# Elucidations. {#alexander-alex-elucidations}
+
+————————————
+
+I.
+
+(Some points, p. 289.)
+
+That the theology of the great school of Alexandria had a character of its own, is most apparent; I should be the last to deny it. As its succession of teachers was like that of hereditary descent in a family, a family likeness is naturally to be found in this school, from the great Clement to the great Athanasius. It is a school that hands on the traditions in which Apollos had been reared; it not less reflects the Greek influences always dominant in the capital of the Macedonian hero; but it is a school in which the Gospel of Christ as the Light of the world was always made *predominant*: and, while a most liberal view of human *knowledge* was inculcated in it, yet *the faith* was always exalted as the mother and mistress of the true *gnosis* and of all science. The wise men of this world were summoned with an imperial voice, from this eldest seat and centre of Christian learning, to cast their crowns and their treasures at the feet of Jesus. With a generous patronage Clement conceded all he could to the philosophy of the Greeks, and yet sublimely rose above it to a sphere it never discovered, and looked down upon all merely human intellect and its achievements like Uriel in the sun.
+
+It was the special though unconscious mission of this school to prepare the way, and to shape the thought of Christendom, for the great epoch of the (nominal) conversion of the empire, and for the all-important synodical period, its logical consequence. It was in this school that the technical formulas of the Church were naturally wrought out. The process was like that of the artist who has first to make his own tools. He does many things, and resorts to many contrivances, never afterwards necessary when once the tools are complete and his laboratory furnished with all he wants for his work. To my mind, therefore, it is but a pastime of no practical worth to contrast the idiosyncrasies of Clement with those of Origen, and to set up distinctions between the Logos of this doctor and that.[^2480] The differences to be descried belong to the personal peculiarities of great minds not yet guided to unity of diction by a scientific theology. The marvel is their harmony of thought. Their ends and their antagonisms are the same. The outcome of their mental efforts and their pious faith is seen in the result. Alexander was their product, and Athanasius (bringing all their sheaves to the Church’s garner, winnowed and harvested) is the perpetual *gnomon* of the Alexandrian school. Its testimony, its prescription, its harmony and unity, are all summed up in him.
+
+It is extraordinary that many truly evangelical critics seem to see, in the *subordination* taught by Origen,[^2481] something not reconcileable with the Nicene orthodoxy. Even Bishop Bull is a *subordinationist*, and so are all the great orthodox divines. When Origen maintains the μοναρχία (the Father as the root and source of the Godhead, as do all the Greeks[^2482]), and also a subordination of the Son in the divine οὐσία, he is surely consistent with the Athanasian doctrine;[^2483] and, if he is led to affirm a diversity of essence in connection with this subordination, he does it with such limitations as should convince us that he, too, would have subscribed the ὁμοούσιον, in which Alexandrians no whit inferior to him finally formulated the convictions and testimonies of their predecessors.[^2484]
+
+II.
+
+(Since the body of the Catholic Church is one, etc., p. 296.)
+
+As so shortly preceding the meeting of the Great Council, this letter is most important as a clear testimony to the meaning the first council attached to that article of the Creed which affirms “one holy Catholic and Apostolic Church.” We must compare the *Treatises* of Cyprian for the West, with this and the Letter of Firmilian[^2485] for the East, as clearly elucidating the contemporary mind of the Church, and hence the meaning of those words which reflect their mind in the Creed. To make any reflections of my own would be out of place, save only, negatively, as I compare it with the modern creed of the Council of Trent (Pius IV.), which defines the Catholic Church to be the communion which acknowledges the Church of Rome as “the mother and mistress of churches.”
+
+The concluding section of this letter is decisive as to the absolute *autonomy* of the Alexandrian *diœcese*.[^2486] To all the other churches Alexander merely communicates his sentence, which they are all bound to respect. Whether the Christian Church at this period reflected the Apostolic Institutions is not the question, but merely what its theory was in the fourth century, and how far East and West accorded with the theory of Cyprian.
+
+[^2480]: See, against Petavius and others, Dr. Holmes’s learned note, vol. iii. p. 628, Elucidation I.
+[^2481]: Vol. iv. p. 343, this series; also Elucidation II. p. 382.
+[^2482]: On Tertullian’s orthodoxy, see notes, vol. iii. p. 600, etc.
+[^2483]: When we consider his refinements about the words *substance, idea, image*, etc., in the dispute with Celsus, while yet these terms were not reduced to precision, we cannot but detect his effort to convey an orthodox notion. Observe Dr. Spencer’s short but useful note, vol. iv. p. 603, note 3.
+[^2484]: See vol. iv. p. 382, Elucidations I., II., and III.
+[^2485]: Vol. v. p. 390, this series.
+[^2486]: See the force of this spelling, p. 240, *supra*.

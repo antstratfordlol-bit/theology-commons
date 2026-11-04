@@ -1,0 +1,41 @@
+---
+id: "basil-epistulae.en.173"
+title: "To Theodora the Canoness."
+work: "Epistulae"
+author: "Basil the Great"
+volume: "NPNF2-08. Basil: Letters and Select Works"
+volume-id: "npnf208"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf208.xml"
+source-id: "ix.clxxiv"
+sigla: "basil-epistulae"
+part-of: "basil-epistulae"
+part-ref: "173"
+part-kind: "text"
+part-evidence: "printed:body-line1:Letter CLXXIII."
+title-source: "bkv-clavis"
+clavis: "CPG 2900"
+boundary-decision: "one work; letters CCCLXI-CCCLXV share one file and one ranged anchor"
+anchors: "{#basil-epistulae.173} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 2
+scripture-references: 0
+scripture-refs-sidecar: "_scripture-refs/npnf208.tsv"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# To Theodora the Canoness. {#basil-epistulae.173}
+
+Letter CLXXIII.[^2572]
+
+*To Theodora the Canoness*.[^2573]
+
+I should be more diligent in writing to you but for my belief that my letters do not always, my friend, reach your own hands. I am afraid that through the naughtiness of those on whose service I depend, especially at a time like this when the whole world is in a state of confusion, a great many other people get hold of them. So I wait to be found fault with, and to be eagerly asked for my letters, that so I may have this proof of their delivery. Yet, whether I write or not, one thing I do without failing, and that is to keep in my heart the memory of your excellency, and to pray the Lord to grant that you may complete the course of good living which you have chosen. For in truth it is no light thing for one, who makes a profession, to follow up all that the promise entails. Any one may embrace the gospel life, but only a very few of those who have come within my knowledge have completely carried out their duty in its minutest details, and have overlooked nothing that is contained therein. Only a very few have been consistent in keeping the tongue in check and the eye under guidance, as the Gospel would have it; in working with the hands according to the mark of doing what is pleasing to God; in moving the feet, and using every member, as the Creator ordained from the beginning. Propriety in dress, watchfulness in the society of men, moderation in eating and drinking, the avoidance of superfluity in the acquisition of necessities; all these things seem small enough when they are thus merely mentioned, but, as I have found by experience, their consistent observance requires no light struggle. Further, such a perfection of humility as not even to remember nobility of family, nor to be elevated by any natural advantage of body or mind which we may have, nor to allow other people’s opinion of us to be a ground of pride and exaltation, all this belongs to the evangelic life. There is also sustained self-control, industry in prayer, sympathy in brotherly love, generosity to the poor, lowliness of temper, contrition of heart, soundness of faith, calmness in depression, while we never forget the terrible and inevitable tribunal. To that judgment we are all hastening, but those who remember it, and are anxious about what is to follow after it, are very few.
+
+[^2572]: Placed in 374.
+[^2573]: On the Canonicæ, pious women who devoted themselves to education, district visiting, funerals, and various charitable works, and living in a community apart from men, *cf*. Soc. i. 17, “virgins in the register,” and Sozomen viii. 23, on Nicarete. They were distinguished from nuns as not being bound by vows, and from deaconesses as not so distinctly discharging ministerial duties.

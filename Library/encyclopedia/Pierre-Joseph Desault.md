@@ -1,0 +1,33 @@
+---
+title: "Pierre-Joseph Desault"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "James Joseph Walsh"
+signed: "JAMES J. WALSH"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pierre-Joseph_Desault"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pierre-joseph-desault} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Paul-Quentin Desains"
+next: "René Descartes"
+entry-type: "article"
+characters: 2241
+words: 374
+links: 0
+images: 0
+---
+
+# Pierre-Joseph Desault {#cathen.pierre-joseph-desault}
+
+Surgeon and anatomist, b. at Magny-Vernois a small town of Franche-Comté, France, in 1744; d. 1 June, 1795. His parents were poor and he received his education from the Jesuits. He began his studies for the priesthood but gave this up for the study of medicine. His means not permitting him to go to a regular school of medicine he became an assistant to the barber-surgeon of his native village and then took a similar post at the military hospital of Belfort. His favourite studies were anatomy and mathematics and he applied mathematical principles to his anatomical investigations. Borelli had done this with excellent results and Desault translated Borelli's "De Motu Animalium" with notes and illustrations. He was not yet twenty when he went to Paris where, in 1766, after two years, he opened a school of anatomy. So practical and thorough were his methods of teaching that he soon had three hundred students, many of them older than himself. In order to protect himself form professional jealousy, as he had no degree, he opened his school under the name of a man already privileged to teach but whose name is not now known. Teaching brought him reputation but not much profit, and when in 1776 he was admitted to the Academy of Surgeons, he was allowed to pay his fees by instalments. In 1782 he became chief surgeon to the Charity Hospital and not long after surgeon to the Hôtel-Dieu. He was now looked upon as the most prominent surgeon in Paris and founded a school of clinical surgery which attracted students from all sides. In 1793 he was imprisoned by the revolutionary authorities but after three days was liberated through the influence of his patients. He died from pneumonia, the result of exposure while attending the Dauphin in the Temple. He wrote a treatise on surgical operations in three volumes; a treatise on fractures and luxations, edited by Xavier Bichat, was published after his death and was translated into English in 1805 going through three American editions. Desault's contributions to surgery are contained in the "Journal de Chirurgie" published by himself and pupils.
+
+PETIT, *Eloge de Desault* (Lyons, 1795); GUÉRIN, *Discours* in *Bulletin de l'Académie de médicine* (Paris, 1876).
+
+JAMES J. WALSH

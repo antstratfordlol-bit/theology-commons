@@ -1,0 +1,33 @@
+---
+title: "Pierre du Jarric"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "Anthony Huonder"
+signed: "A. HUONDER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pierre_du_Jarric"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pierre-du-jarric} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Diocese of Jaro"
+next: "Jacques Jasmin"
+entry-type: "article"
+characters: 1665
+words: 272
+links: 0
+images: 0
+---
+
+# Pierre du Jarric {#cathen.pierre-du-jarric}
+
+Missionary writer, born at Toulouse in 1566; d. at Saintes, 2 March, 1617. He entered the Society of Jesus, 8 December, 1582. For many years he was professor of philosophy and moral theology at Bordeaux. As his desire to belong to the missionaries of the order was not fulfilled, he wished at least to use his pen for the good of the missions. The result was a very important production for that time, "Histoire des choses plus memorables advenues tant ez Indes orientales, que autres païs de la descouverte des Portugois", etc. The second part appeared about 1610, the third in 1614. The work is still a useful one, gives a comprehensive picture of the missionary enterprises of the Jesuits up to 1610, chiefly within the sphere of Portuguese interests, and contains numerous valuable data on colonial history, geography, and ethnography, gathering from Spanish and Portuguese reports, and from the works of Father Luis de Guzman ("Hist. de las Missiones que han hecho los religiosos de la Compañia de Jesús", Alcalá, 1601, reprinted at Bilboa, 1892), and of Father Ferdinand Guerreiro (Relação Annal das cousas que fizeram os Padres da companhia de Jesus na India e Japão, Brazil, Angola, Cabo Verde, Guiné", Evora, 1603, and Lisbon, 1605-07). By the dedication of the second part to Louis XIII Jarric wished to call royal attention to the colonizing and Apostolic achievements of Spain and Portugal, and thus incite the French king to similar efforts. This work was frequently reprinted and widely circulated, particularly in a Latin translation by Martino Martinez III (Cologne, 1615-16).
+
+Sommervogel, Biblioth. de la C. de J.; Hurter, Nomenclator.
+
+A. HUONDER

@@ -1,0 +1,33 @@
+---
+title: "Walter Colman"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Stephen Donovan"
+signed: "STEPHEN M. DONOVAN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Walter_Colman"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.walter-colman} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Colman"
+next: "Joseph Ludwig Colmar"
+entry-type: "article"
+characters: 1824
+words: 306
+links: 0
+images: 0
+---
+
+# Walter Colman {#cathen.walter-colman}
+
+Walter Colman, Friar Minor and English martyr: date of birth uncertain; died in London, 1645. He came of noble and wealthy parents and when quite young left England to study at the English College at Douai. In 1625 he entered the Franciscan Order at Douai, receiving in religion the name of Christopher of St. Clare, by which he is more generally known. having completed his year of novitiate, he returned to England at the call of the provincial, Father John Jennings, but was immediately imprisoned because he refused to take the Oath of Allegiance. Released through the efforts of his friends, he went to London, where he was employed in the duties of the sacred ministry and where, during his leisure moments, he composed "The Duel of Death" (London, 1632 or 1633), an elegant metrical treatise on death, which be dedicated to Queen Henrietta Maria, consort of Charles I. When the persecution broke out anew in 1641, Colman returned to England from Douai, whither he had gone to regain his health. On 8 Dec. of the same year he was brought to trial, together with six other priests, two of whom were Benedictines and four members of the secular clergy. They were all condemned to be hanged, drawn, and quartered on 13 Dec., but through the interposition of the French ambassador the execution was stayed indefinitely. Colman lingered on in Newgate for several years until he died, exhausted by starvation and the hardships of the dungeon where he was confined.
+
+THADDEUS, *The Franciscans in England* (London, 1898), 62, 72, 106; COOPER in *Dict. Nat. Bioq.,* s. v. *Colman;* HOPE, *Franciscan Martyrs in England* (London, 1878), xi, 123 sqq; MASON, *Certamen Seraphicum* (Quaracchi, 1885), 211, 228; LEO, *Lives of the Saints and Blessed of the Three Orders of St. Francis* (Taunton, 1887), IV, 368.
+
+STEPHEN M. DONOVAN

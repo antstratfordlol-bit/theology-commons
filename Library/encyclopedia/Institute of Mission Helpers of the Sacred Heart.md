@@ -1,0 +1,33 @@
+---
+title: "Institute of Mission Helpers of the Sacred Heart"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: ""
+signed: "SISTER M. DE SALES"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Institute_of_Mission_Helpers_of_the_Sacred_Heart"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.institute-of-mission-helpers-of-the-sacred-heart} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Institute of Mary"
+next: "Irish Institute of the Blessed Virgin Mary"
+entry-type: "article"
+characters: 3069
+words: 497
+links: 0
+images: 0
+---
+
+# Institute of Mission Helpers of the Sacred Heart {#cathen.institute-of-mission-helpers-of-the-sacred-heart}
+
+In the autumn of 1888, there came to Baltimore, Maryland, a convert, Mrs. Hartwell, who previous to her reception into the Church had been interested in works of charity. Under the spiritual direction of Father Slattery, provincial of St. Joseph's Society for the coloured missions she began to catechize the negro children, and was soon joined by some companions. In the autumn of 1890, these ladies wishing to become religious laid the foundations of a community under the name of "Mission Helpers, Daughters of the Holy Ghost". The work was missionary and catechetical, but was exclusively for the coloured race, the sisters binding themselves thereto by a special vow. Very soon an industrial school for girls was opened. In 1895, the name of the institute was changed to "Mission Helpers of the Sacred Heart" and the members were dispensed from the "negro" vow. Thus there was no longer any distinction made as to race in the work of the sisters, which from that time was to embrace all the neglected poor. Hence, the field of missionary and catechetical labour was greatly broadened. A direct result of this change was the opening in 1897 of a school for deaf-mutes, at the request of Cardinal Gibbons. This school, St. Francis Xavier's, was the first Catholic institution for deaf-mutes in the ecclesiastical province of Baltimore. In Porto Rico, also, there was no provision whatsoever for deaf-mutes who were poor, until the Mission Helpers opened a school there, shortly after making their foundation in San Juan in 1902. This was a heavy undertaking, as the demands on the sisters for missionary and catechetical work in Porto Rico were very great, and the need urgent.
+
+At the first general chapter of the institute, which was held on 5 November, 1906, by command of Cardinal Gibbons, a constitution was adopted, and a superior general and her assistants elected according to its prescriptions. At this first election Mother M. Demetrias was chosen as mother general. The community was then officially declared canonically organized. Two important matters were settled about that time by ecclesiastical authority. The sisters were released from the observance of the vow which they had made to offer their prayers and good works for the welfare of the clergy, it having been declared uncanonical. Perpetual adoration was also discontinued because of the bodily hardship it entailed. On account of their missionary labours the sisters were unable to keep up the work of adoration, without grave detriment to their health, consequently it was decided to restrict it to the First Fridays. The active work of the institute as outlined by the constitution embraces the keeping of industrial schools for coloured girls; schools for deaf-mutes; day-nurseries; teaching catechism and giving instruction wherever needed; visiting the poor in their own homes, and in institutions, such as hospitals and alms-houses, and preparing the dying for the last sacraments. There are houses of the institute in New York, Trenton, Porto Rico, and Baltimore.
+
+SISTER M. DE SALES

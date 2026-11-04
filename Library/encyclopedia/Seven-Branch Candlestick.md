@@ -1,0 +1,31 @@
+---
+title: "Seven-Branch Candlestick"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Walter Drum"
+signed: "WALTER DRUM"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Seven-Branch_Candlestick"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.seven-branch-candlestick} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Desiderio da Settignano"
+next: "Seven Deacons"
+entry-type: "article"
+characters: 1025
+words: 183
+links: 0
+images: 0
+---
+
+# Seven-Branch Candlestick {#cathen.seven-branch-candlestick}
+
+One of the three chief furnishings of the Holy of the Tabernacle and the Temple (Exodus 25:31-40; 37:17-24). In reality it was an elaborate lampstand, set on the south side of the Holy Place so as to face the loaves of proposition. It was beaten out of finest gold. A central shaft, together with three pairs of branches curving upward from out of the shaft, all exquisitely ornamented and surmounted with stands, held in a line the seven golden lamps that gave light to the sanctuary. The priests dressed the lamps in the morning and set them on the lampstand in the evening (Exodus 30:7, 8). All night long the seven lamps were kept burning (Exodus 27:20-21; Leviticus 24:3; I Kings 3:3). As for the day, Josephus (Antiq. Jud., III, viii, 3) tells us that three lamps were lighted. Levites of the family of Caath cared for the golden lampstand on the march (Numbers 3:31). It was among the spoils brought by Vespasian and Titus to grace their triumph at Rome, and may be seen sculptured upon the Arch of Titus.
+
+WALTER DRUM

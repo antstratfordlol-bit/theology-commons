@@ -1,0 +1,33 @@
+---
+title: "Stephan Wiest"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Friedrich Lauchert"
+signed: "FRIEDRICH LAUCHERT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Stephan_Wiest"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.stephan-wiest} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Diocese of Wiener-Neustadt"
+next: "Sts. Wigand"
+entry-type: "article"
+characters: 1927
+words: 273
+links: 0
+images: 0
+---
+
+# Stephan Wiest {#cathen.stephan-wiest}
+
+Member of the Order of Cistercians, b. at Teisbach in Lower Bavaria, 7 March, 1748; d. at Aldersbad, 10 April, 1797. He attended the gymnasium at Landshut, and in 1767 entered the Cistercian monastery of Aldersbach in lower Bavaria, where he studied philosophy and theology, took the vows, 28 October, 1768, and was ordained priest, 1772. He continued his studies at the University of Ingolstadt. From 1774-80 he taught philosophy and mathematics, and from 1780-81 theology, at Aldersbach. In 1781 he was made professor of dogmatic theology at Ingolstadt, where he also taught patrology and the history of theological literature. He was rector of the university, 1787-88, resigned his professorship in 1794, and returned to his monastery. Wiest has an honourable place in the history of Catholic theology of the eighteen century as a positive dogmatist, well versed in theological literature. His chief work, "Institutiones theologicae" (6 vols., Eichstätt, 1782-86; Ingolstadt, 1788-89; 2nd ed., Ingolstadt, 1788-1801), is valuable for its abundance of positive and historical materials, though the treatment of the speculative side is scanty. "Institutiones theologiae dogmaticae in usum academicum" (2 vols., Ingolstadt, 1791) is a compendium, of which two posthumous editions appeared at Landshut (1817; 1825). The most important of his other works are: "Introductio in historiam litterariam theologiae revelatae potissimum catholicae" (Ingolstadt, 1794); "Institutiones Patrologiae in usum academicum" (Ingolstadt, 1795); and four dissertations in the university year- book: "De Wolfango Mario Abbate Alderspacensi Ord. Cist." (I-IV, Ingolstadt, 1788-92).
+
+WERNER, Gesch. der katholischen Theologie (Munich, 1866), 243-48; LAUCHERT, Briefe von Stephan Wiest, O. Cist., an Gerhoh Steigenberger in Studien u. Mittheilungen aus dem Benedictiner-und-Cistercienser-Orden, XXI (1900), 127-5, 285-306, 535-53.
+
+FRIEDRICH LAUCHERT

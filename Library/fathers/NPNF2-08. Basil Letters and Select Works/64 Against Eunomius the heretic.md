@@ -1,0 +1,43 @@
+---
+id: "basil-epistulae.en.16"
+title: "Against Eunomius the heretic."
+work: "Epistulae"
+author: "Basil the Great"
+volume: "NPNF2-08. Basil: Letters and Select Works"
+volume-id: "npnf208"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf208.xml"
+source-id: "ix.xvii"
+sigla: "basil-epistulae"
+part-of: "basil-epistulae"
+part-ref: "16"
+part-kind: "text"
+part-evidence: "printed:body-line1:Letter XVI."
+title-source: "bkv-clavis"
+clavis: "CPG 2900"
+boundary-decision: "one work; letters CCCLXI-CCCLXV share one file and one ranged anchor"
+anchors: "{#basil-epistulae.16} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 3
+scripture-references: 3
+scripture-refs-sidecar: "_scripture-refs/npnf208.tsv"
+print-pages: "126-126"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# Against Eunomius the heretic. {#basil-epistulae.16}
+
+Letter XVI.[^1900]
+
+*Against Eunomius the heretic*.[^1901]
+
+He who maintains that it is possible to arrive at the discovery of things actually existing, has no doubt by some orderly method advanced his intelligence by means of the knowledge of actually existing things. It is after first training himself by the apprehension of small and easily comprehensible objects, that he brings his apprehensive faculty to bear on what is beyond all intelligence. He makes his boast that he has really arrived at the comprehension of actual existences; let him then explain to us the nature of the least of visible beings; let him tell us all about the ant. Does its life depend on breath and breathing? Has it a skeleton? Is its body connected by sinews and ligaments? Are its sinews surrounded with muscles and glands? Does its marrow go with dorsal vertebræ from brow to tail? Does it give impulse to its moving members by the enveloping nervous membrane? Has it a liver, with a gall bladder near the liver? Has it kidneys, heart, arteries, veins, membranes, cartilages? Is it hairy or hairless? Has it an uncloven hoof, or are its feet divided? How long does it live? What is its mode of reproduction? What is its period of gestation? How is it that ants neither all walk nor all fly, but some belong to creeping things, and some travel through the air? The man who glories in his knowledge of the really-existing ought to tell us in the meanwhile about the nature of the ant. Next let him give us a similar physiological account of the power that transcends all human intelligence. But if your knowledge has not yet been able to apprehend the nature of the insignificant ant, how can you boast yourself able to form a conception of the power of the incomprehensible God?[^1902]
+
+[^1900]: Placed by the Ben. Ed. in the reign of Julian 361–363.
+[^1901]: Eunomius the Anomœan, bp. of Cyzicus, against whose *Liber Apologeticus* Basil wrote his counter-work. The first appearance of the αἱρετικὸς ἄνθρωπος, the “chooser” of his own way rather than the common sense of the Church, is in Tit. iii. 10. αἱρετίζειν is a common word in the LXX., but does not occur in Is. xlii. 1, though it is introduced into the quotation in Matt. xii. 18. ἅιρεσις is used six times by St. Luke for “sect;” twice by St. Paul and once by St. Peter for “heresy.” Augustine, *C. Manich.* writes:*“Qui in ecclesia Christi morbidum aliquid pravumque quid sapiunt, si, correcti ut sanum rectumque sapiant, resistunt contumaciter suaque pestifera et mortifera dogmata emendare nolunt, sed defensare persistunt hæretici sunt*.”
+[^1902]: As an argument against Eunomius this Letter has no particular force, inasmuch as a man may be a good divine though a very poor entomologist, and might tell us all about the ant without being better able to decide between Basil and Eunomius. It is interesting, however, as shewing how far Basil was abreast of the physiology of his time, and how far that physiology was correct.

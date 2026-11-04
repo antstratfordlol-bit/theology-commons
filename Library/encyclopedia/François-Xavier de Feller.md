@@ -1,0 +1,37 @@
+---
+title: "François-Xavier de Feller"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Patricius Schlager"
+signed: "PATRICIUS SCHLAGER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/François-Xavier_de_Feller"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.francois-xavier-de-feller} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Felix of Valois"
+next: "Johann Michael Nathanael Feneberg"
+entry-type: "article"
+characters: 3671
+words: 575
+links: 0
+images: 0
+---
+
+# François-Xavier de Feller {#cathen.francois-xavier-de-feller}
+
+An author and apologist, b at Brussels 18 August, 1735; d. at Ratisbon 22 May, 1802. He received his primary scientific education in the Jesuit College at Luxemburg, studied philosophy and the exact sciences at Reims, 1752-54, after which he joined the Society of Jesus at Tournai. Appointed professor of humanities soon after, he edited the "Musae Leodienses" (Liège, 1761), a collection of Latin poems in two volumes composed lay his pulpils. Later he taught theology in various institutions of the order in Luxemburg and Tyrnau (Hungary). After the suppression of the order he was active as preacher in Liège and Luxemburg until, at the approach of the French army in 1794, he emigrated to Paderborn and joined the local college of the ex-Jesuits. After staying there two years, he accepted the invitation of the Prince of Hohenlohe to come to Bavaria and join the court of the Prince-Bishop of Freising and Ratisbon, Joseph Konrad von Schroffenburg, with whom he remained, dividing his time between Freising, Ratisbon, and Berchtesgaden.
+
+Feller was very amiable and talented, gifted with a prodigious memory, and combined diligent study with these abilities. His superiors had given him every opportunity during his travels of cultivating all the branches of science then known, and the wealth and diversity of his writings prove that he made good use of his advantages. All his writings attest his allegiance to the Jesuit Order and his untiring zeal for the Catholic religion and the Holy See.
+
+Although he became prominent as a literary man only after the suppression of his order, he had previously contributed articles of note to the periodical "La clef du cabinet des princes de l'Europe, ou recueil historique et politique sur les matières du temps" (Luxemburg, 1760). During the years 1773-1794 he was the sole contributor to this journal, which comprised in all sixty volumes and was, from the first mentioned date (1773), published under the title "Journal historique et litteraire". Because he publicly denounced the illegal and despotic attempts at reform on the part of Joseph II, the journal was suppressed in Austrian territory and was, consequently, transplanted first to Liège and then to Maastricht. Its principal articles were published separately as "Melanges de politique, de morale chrétienne et de littérature" (Louvain, 1822), and as "Cours de morale chrétienne et de littérature religieuse" (Paris, 1826). His next work of importance is entitled "Dictionnaire historique, ou histoire abrégée de tous les hommes qui se sont fait un nom par le genie, les talents, les vertus, les erreurs, etc., depuis le commencement du monde jusqu'a nos jours" (Augsburg, 1781-1784), 6 vols. He shaped this work on the model of a simular one by Chaudon without giving the latter due credit; he also showed a certain amount of prejudice, for the most part lauding the Jesuits as masters of science and underrating others, especially those suspected of Jansenistic tendencies. This work was frequently revised and republished, e.g. by Ecury, Ganith, Henrion, Pérennès, Simonin, Weiss, etc.; from 1837 it appeared under the title of "Biographie universelle". His principal work, which first appreared under the pen-name "Flexier de Reval", is "Catéchisme philosophique ou recueil d'observations propres à défendre la religion chrétienne contre ses ennemis" (Liège, 1772). In his treatise, "Jugement d'un écrivain protestant touchant le livre de Justinus Febronius" (Leipzig, 1770), he attacked the tenets of that anti-papal writer. Many of his works are only of contemporary interest.
+
+Biographie Universelle, XIII. 505; Hunter, Nomenclator.
+
+PATRICIUS SCHLAGER

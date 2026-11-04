@@ -1,0 +1,33 @@
+---
+title: "Alexander Leopold Hohenlohe-Waldenburg-Schillingsfürst"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "Michael Ott"
+signed: "MICHAEL OTT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Alexander_Leopold_Hohenlohe-Waldenburg-Schillingsfürst"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.alexander-leopold-hohenlohe-waldenburg-schillingsfurst} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Hohenburg"
+next: "Hans Holbein"
+entry-type: "article"
+characters: 2678
+words: 453
+links: 0
+images: 0
+---
+
+# Alexander Leopold Hohenlohe-Waldenburg-Schillingsfürst {#cathen.alexander-leopold-hohenlohe-waldenburg-schillingsfurst}
+
+A titular Bishop of Sardica, famous for his many supposedly miraculous cures, born 17 August, 1794, at Kupferzell in Würtemberg; died 14 November, 1849, at Vöslau near Vienna. He studied the humanities at the Theresianum in Vienna, 1804-8, and at Berne, 1808-10; philosophy at Vienna, 1810-12; theology at Tyrnau in Hungary, 1812-14, and at Ellwangen, 1814-15. On 16 September, 1815, he was ordained priest and at once devoted himself to the care of souls first at Stuttgart, then at Munich. In October, 1816, he went to Rome where he had little difficulty in justifying himself against the accusations of having administered the sacraments in the German language and of belonging to the Bible Society. On his return he made a pilgrimage to Loreto, and again arrived at Munich on 23 March, 1817. On 8 June of the same year he was made ecclesiastical councillor, and, in 1821, canon of Bamberg. About this time began the numerous miraculous cures which are alleged to have been effected through the prayers of Hohenlohe. On 1 February, 1821, he was suddenly cured at Hassfurt of a severe pain in the throat in consequence of the prayers of a devout peasant named Martin Michel. His belief in the efficacy of prayer was greatly strengthened by this cure, and on 21 June, 1821, he succeeded in curing the Princess Mathilda von Schwarzenberg, who had been a paralytic for eight years, by his prayers which he joined with those of Martin Michel. Having asked the pope whether he was permitted to attempt similar cures in the future, he was told not to attempt any more public cures, but he continued them in private. He would specify a time during which he would pray for those that applied to him, and in this manner he effected numerous cures not only on the Continent, but also in England, Ireland, and the United States. Worthy of mention is the case of Mrs. Ann Mattingly of Washington, D. C., who was said to have been cured of a tumour through his prayers on 10 March, 1824. Rome did not pass judgment on these supposed miracles and Catholics were divided in their opinion. In 1824 Hohenlohe became canon, in 1829 provost, and later Vicar-General and Administrator of Grosswardein. In 1844 he was made *chorepiscopus* and titular Bishop of Sardica. He is the author of four volumes of sermons and ascetical treatises most of which were collected and published by S. Brunner (Ratisbon, 1851). His method of curing the sick was continued after his death by his friend and disciple Joseph Forster, pastor of Hüttenheim, who died in 1875.
+
+SCHAROLD, *Lebensgeschichte Alexanders von Hohenlohe* (Würzburg, 1822); PACHTLER, *Biog. Notizen über A. von Hohenlohe* (1850).
+
+MICHAEL OTT

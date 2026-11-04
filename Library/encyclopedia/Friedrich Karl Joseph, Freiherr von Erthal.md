@@ -1,0 +1,33 @@
+---
+title: "Friedrich Karl Joseph, Freiherr von Erthal"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "5"
+pages: "unknown"
+author: "Michael Ott"
+signed: "MICHAEL OTT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Friedrich_Karl_Joseph,_Freiherr_von_Erthal"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.friedrich-karl-joseph-freiherr-von-erthal} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Franz Ludwig von Erthal"
+next: "Erwin of Steinbach"
+entry-type: "article"
+characters: 3381
+words: 553
+links: 0
+images: 0
+---
+
+# Friedrich Karl Joseph, Freiherr von Erthal {#cathen.friedrich-karl-joseph-freiherr-von-erthal}
+
+**Erthal**, Friedrich Karl Joseph, Freiherr von, last Elector and Archbishop of Mainz, b. January 3, 1719, at Mainz; d. July 25, 1802, at Aschaffenburg. He was an unworthy brother of Franz Ludwig, the Prince-Bishop of Bamberg and Würzburg, received his education at Reims, held prebends in Bamberg and Mainz at an early age, became canon at the cathedral of Mainz in 1753, rector of the university in 1754, president of the Aulic Council in 1758, and custos of the cathedral in 1768. From 1769-1774 he was plenipotentiary of the Electorate of Mainz at the imperial court of Vienna. On July 18, 1774, he succeeded the deceased von Breidbach-Bürresheim as Elector and Archbishop of Mainz and eight days later as Prince-Bishop of Worms. He was ordained priest on September 11, 1774, and received episcopal consecration the following year on May 14. At the beginning of his reign it appeared as if he would try to stem the tide of rationalism which had swept over the Church of Mainz during the weak rule of von Breidbach-Bürresheim. One of his first acts as bishop was the dismissal of the free-thinking councillors of his predecessor. Soon, however, he became one of the most notable supporters of free-thought in theology and of Febronianism in the government of the Church. George Forster, a Protestant, became his librarian and William Heinse, another Protestant, and author of the the lascivious romance "Ardinghello", was his official reader. Erthal suppressed the Carthusian monastery and two nunneries at Mainz and used their revenues to meet the expenses of the university, in which he appointed numerous Protestants and free-thinkers as professors. Notorious unbelievers such as Anthony Blau and others were invited to the university in 1784 to supplant the Jesuits in the faculty of theology.
+
+As a spiritual ruler, Erthal was guided by the principles of Febronianism. In union with the Archbishops Max Franz of Cologne, Clemens Wenzeslaus of Trier, and Hieronymus Joseph of Salzburg he convoked the Congress of Ems at which twenty-three antipapal articles, known as the "Punctation of Ems", were drawn up and signed by the plenipotentiaries of the four archbishops on August 25, 1786. The purpose of the Punctation was to lower the papal dignity to a merely honorary primacy and to make the pope a primus inter pares, with practically no authority over the territories of the archbishops. In order to increase his political influence he joined (October 25, 1785) the Confederation of Princes which was established by King Frederick the Great. In 1787 he apparently receded from the schismatic position of the Punctation of Ems and applied to Rome for a renewal of his quinquennial faculties and for the approbation of his new coadjutor, Karl Theodor von Dalberg. Somewhat later, however, he resumed his opposition to papal authority and continued to adhere to the Punctation even after the other archbishops had rejected it. His opposition was made futile by the revolutionary wars which raged in his electorate from 1792-1801. By the treaty of Campo-Formio in 1797 Erthal was deprived of his possessions west of the Rhine and by the Concordat of 1801 he lost also spiritual jurisdiction over that part of his diocese. The negotiations concerning the reimbursement of Erthal for the loss of his territory west of the Rhine were not yet completed when he died.
+
+MICHAEL OTT

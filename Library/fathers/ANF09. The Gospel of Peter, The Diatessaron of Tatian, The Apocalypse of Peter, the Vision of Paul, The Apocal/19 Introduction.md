@@ -1,0 +1,46 @@
+---
+id: "introduction-6.en"
+title: "Introduction."
+work: "Introduction."
+author: "various / anonymous"
+volume: "ANF09. The Gospel of Peter, The Diatessaron of Tatian, The Apocalypse of Peter, the Vision of Paul, The Apocalypse of the Virgin and Sedrach, The Testament of Abraham, The Acts of Xanthippe and Polyxena, The Narrative of Zosimus, The Apology of Aristides, The Epistles of Clement (complete text), Origen’s Commentary on John, Books 1–10, and Commentary on Matthew, Books 1, 2, and 10–14."
+volume-id: "anf09"
+series: "Ante-Nicene Fathers"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids,MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/anf09.xml"
+source-id: "ix.ii"
+sigla: "introduction-6"
+part-kind: "apparatus"
+title-source: "printed-title-en"
+anchors: "{#introduction-6} on the H1 — one whole-document anchor, the file being the citable unit (how-it-works.md §4)."
+divisions: 0
+footnotes: 0
+scripture-references: 0
+scripture-refs-sidecar: "_scripture-refs/anf09.tsv"
+print-pages: "183-184"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# Introduction. {#introduction-6}
+
+The Testament of Abraham.
+
+————————————
+
+Introduction.
+
+————————————
+
+The Greek text of both the recensions of this work is published for the first time in “Texts and Studies,” Vol. II., No. 2 (Cambridge, 1892), by Montague Rhodes James, M.A. None of the manuscripts are older than the thirteenth century; of the six which contain the longer version the best is a Paris ms. written 1315, and the principal ms. of the shorter recension (also in Paris) belongs to the fifteenth century. There are also versions in Roumanian, Slavonic, Ethiopic, and Arabic.
+
+The work itself has hitherto been little noticed, and it is doubtful how far it was well known in ancient times. It is perhaps that cited as “Abraham” in early lists of Apocryphal works, and some passages in early Christian writers may indicate their knowledge of such a work. The evidence for this is given in full by the editor of the Greek text in his introduction (pp. 7–29). The conclusions drawn by him from these notices, and from the work itself, are “that it was written in the second century, that it embodies legends earlier than that century, that it received its present form perhaps in the ninth or tenth century.” Certain features in it also “seem to point to Egypt as its birthplace,” such as the conception of Death in the longer recension, which has parallels in the Coptic Apocryphal books, the weighing of souls, and the presence of recording angels at the judgment scene.
+
+Neither of the two versions can be supposed to be true copies of the original work. They differ from each other not only in length, but in arrangement. The shorter recension may preserve more of the original language, but it transposes certain sections, thereby confusing the order of the narrative, and in this the Arabic version generally agrees with it. The most essential discrepancy begins with Chap. X. of the longer recension, where Abraham, after being taken up on the cloud, is first shown the iniquities that take place on earth. The shorter text places this at the end of his journey, quite destroying the original moral of the writer, who wishes to emphasize the mercy of God, and to show how Abraham’s righteous indignation is replaced by feelings of compassion for the sinner. The vision of judgment is then altered in the shorter version, the doubtful soul being there condemned, instead of being saved by the intercession of Abraham. In this point the editor thinks that the shorter recension may have been influenced by the Apocalypse of Paul, as would also seem to be the case with Michael’s reason for leaving Abraham in Chap. IV, which is quite different from the pretext given in the longer text. It is also remarkable that in the shorter form there is no word. of Abraham’s unwillingness to die, which is so prominent a feature of the other, and is no doubt original, as the idea is not otherwise unknown in Apocryphal literature. The conclusion of the shorter version is very much curtailed, compared with the longer one.
+
+On account of these many differences between the recensions of this remarkable work, it has been judged best to give both of them entire, and so arranged that the reader can readily discover in what respects the one differs from the other.
+
+The tone of the work is perhaps rather Jewish than Christian, but as phrases and conceptions of a New Testament character appear in it, especially in the judgment scene, it is most probably to be assigned to a Jewish Christian, who for the substance of it drew partly on older legends, and partly on his own imagination. Some of its features are very striking, and a few of them do not seem to occur elsewhere in literature of this class; it is possible that some of these do not go further back than the medieval editors of the text. Among the most remarkable points may be noticed the age of Abraham, variously given in different mss., his hospitality, and the sending of Michael to announce his death (Chap. I.): Michael’s refusal to mount a horse (Chap. II.): the tree speaking with a human voice (Chap. III.); the tears of Michael turning into precious stones (ibid.); and the devouring spirit sent to consume the food for him (Chap. IV.). In Chap. VI. the narrative of Genesis is recalled by Sarah’s recognizing Michael as one of the three who came to Abraham at the oak of Mamre, with the added circumstance of the calf rising up whole after being eaten. The dream of Isaac in Chap. VII. is perhaps remotely suggested by that of Joseph. The whole vision of judgment, with the presence of Adam and Abel, is very noteworthy, as also the conception of Death, and the explanation of his various forms.

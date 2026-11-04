@@ -1,0 +1,34 @@
+---
+id: alcantara-golden.en.5
+work: alcantara-golden
+title: A Golden Treatise of Mental Prayer
+creator: St. Peter of Alcantara
+language: en
+authority-type: theologian
+translation-of: alcantara-golden.es
+original-language: es
+is-original: no
+status: current
+source-file: alcantara-prayer-clean.md
+source-sha256: d5d1047a61bc344b
+original: 01. Sources/_originals/Library/spirituality/alcantara-prayer-clean.md
+provenance: "contributed by Anthony Stratford through OD-KB commit 3d762798 (20 Sep 2026), a clean Markdown text from his own copy; rebuilt here from that commit and taken again by odtake on 21 Sep 2026, with the chapter anchors the first taking missed"
+anchors: "{#alcantara-golden.CH[.SEC]} — repository-minted"
+converter: intake.py/pandoc 2026-09-21
+conversion: "the work's own title, set again as a heading, put at the title's level (2×); headings re-levelled by 2: the source set its 20 top divisions (17 with a printed chapter label) at level 4, not at `##`"
+part: 5 of 21
+---
+## Part I, Chapter 1. Of the Fruit of Prayer and Meditation {#alcantara-golden.1.1}
+In this Chapter we will briefly set down the fruit of prayer and meditation, that men considering the benefit of them, may be incited with a prompt and more willing mind to frequent these holy exercises.
+
+It is most certain, that the malice of our own hearts, is the principal cause that hindereth us from attaining to our beatitude and everlasting happiness, because it maketh us slow to godly actions, dull to virtuous exercises, and suggesteth a greater difficulty in them than there is, which if it were not, a man might walk without any molestation in the way of virtue, and at length without labor attain to his desired end. Hence, it is, that the Apostle saith:"I am delighted with the law of God according to the inward man: but I see another law in my members fighting against the law of my mind, and captivating me in the law of sin." *(Rom. 7:22-23)* This, therefore, is the prime root of all our miseries, against which there is no remedy more convenient and efficacious than devotion, which, according to St. Thomas, is nothing else, but a certain promptitude and facility of the mind to do well. It doth exclude from our mind this tedious difficulty, and maketh us with alacrity apply ourselves to virtuous acts. Therefore, not without cause we may term it spiritual food, recreative and heavenly dew, a pleasant instinct and supernatural affection of the Holy Ghost, which doth so strengthen and transform the hearts of men, that it doth beget in them a new gust and feeling of spiritual things, and on the contrary, a tedious loathing of worldly vanities.
+
+Daily experience manifesteth this particular unto us. For we see the souls of those who arise from profound and devout prayer, to be strengthened with admirable resolutions, adorned with new graces, and replenished with firm purposes of amendment of life, and frequenting pious exercises, they burn with an ardent desire of serving and loving him with their whole heart, whom in their prayer they found the God of all goodness and benignity, desiring *(Rom. vii. 22.)* to suffer any grievous and burdensome cross whatsoever it be, yea to shed their blood for his sake. To conclude, prayer is a bath, an open place, a bed of pleasure, wherein the soul recreateth and refresheth herself.
+
+By what I ask me what be the readiest means to attain unto this heroical virtue of devotion, I answer with the same Doctor, that it is gotten by serious meditation, and contemplation of heavenly things. For the ruminating of these in the soul, with a more attentive and profound consideration, doth beget in the will that disposition which we call devotion, which effectually rouseth and pricketh a man forward to every good work. For this cause, the exercise of prayer and meditation was frequent and familiar to men of sanctity, as judging it the easiest means to compass devotion, which, although it be but one only simple virtue, yet it disposeth, and maketh us fit for all others, and as it were with spurs pricketh us forward to the performance of every good work.
+
+I call St. Bonaventure to witness what I say: his words are these: The inestimable virtue of prayer is able to obtain all good, and remove all hurtful things. If thou wilt patiently endure adversity, be a man of prayer. If thou wilt overcome tribulation and temptations, be a man of prayer. *(St. Bonaventure in the Meditation of the life of Christ, cap. 73)* If thou wilt trample upon thy perverse inclinations, be a man of prayer. If thou wilt know the deceits of Satan, and avoid them, be a man of prayer. If thou wilt live joyfully in the work of God, and trace the way of labor and affliction, be a man of prayer. If thou wilt exercise thyself in a spiritual course, and not walk according to the desires of the flesh, be a man of prayer. If thou wilt put to flight thy vain and trifling fancies, be a man of prayer. If thou wilt feast thy soul with holy thoughts, good desires, fervor, and devotion, be a man of prayer. If thou wilt establish thy heart with a manly spirit, and constant purpose in the service of God, be a man of prayer. To conclude, if thou wilt root out vice, and be endued with virtues, be a man of prayer. In it is received the unction of the Holy Ghost, which teacheth all things. Also, if thou wilt climb up to the top of contemplation, and enjoy the sweet embracings of thy beloved spouse, be a man of prayer. For by the exercise of prayer, we come to that contemplation and taste of heavenly things. Thou seest of what great power and virtue prayer is. For the confirmation of all which, omitting the testimony of holy Scriptures, let this be an evident proof unto thee, that by daily experience, we hear and see illiterate and simple persons, to have attained the aforesaid, and greater things by the virtue of prayer. Thus St. Bona venture.
+
+I beseech you, can there be found a richer treasure, or a more fertile field desired? Hear another Doctor no less for religion and sanctity, who upon the same matter saith: by prayer the soul is cleansed from sin, replenished with charity, confirmed in faith, strengthened, and refreshed in spirit. Prayer establisheth the inward man, pacifieth the heart, knoweth the truth, conquereth temptations, expelleth sorrow, reneweth the senses, stirreth up languishing virtue, putteth to flight tepidity, and scoureth the rust of vices. In prayer, the quick sparkles of celestial desires are incessantly sent forth, from the burning coals of divine love. The privileges of prayer are rare, the prerogatives admirable. Prayer unlocketh the gates of heaven, manifesteth divine secrets, and always findeth free access to the ears of God. I will add no more, for those things which have already been said, abundantly express the fruits of this holy exercise.
+
+---

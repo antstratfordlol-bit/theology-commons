@@ -1,0 +1,33 @@
+---
+title: "Anselm of Liège"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "unknown"
+author: "Francis William Grey"
+signed: "FRANCIS W. GREY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Anselm_of_Liège"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.anselm-of-liege} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Anselm of Laon"
+next: "St. Anselm of Lucca, the Younger"
+entry-type: "article"
+characters: 1126
+words: 187
+links: 0
+images: 0
+---
+
+# Anselm of Liège {#cathen.anselm-of-liege}
+
+A Belgian chronicler of the eleventh century, b. 1008; d. about 1056. He was educated at the famous episcopal school of Liège, and became canon and dean of the cathedral, where he enjoyed the friendship of the bishop, Wazo. His chronicle, regarded as one of the best of the period, both for literary merit and for historical value, is known as the "Gesta Episcoporum Tungrensium, Trajectensium, et Leodiensium", and is a continuation of the earlier work of Heriger, abbot of Lobbes (d. 1007) which dealt with the first twenty-seven bishops, from St. Maternus (90) to Remaclus (680). Anselms work, written at the request of his godmother, the countess Ida, Abbess of St. Cecilia at Cologne, added the lives of twenty-five more bishops, down to Wazo, of whom he gave a very full and particular account. The latest edition of the "Gesta" is to be found in the "Monumenta Germaniæ Historica: Scriptores, VII, 161-234; also ibid., XIV, 107-120 (1883). Anselms style is clear, and his zeal for church-reform is equalled by his critical intelligence.
+
+SCHERER in *Kirchenlex.,* I, s. v.; WATTENBACH, 5th ed. II, 145.
+
+FRANCIS W. GREY

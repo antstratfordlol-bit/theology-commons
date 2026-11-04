@@ -1,0 +1,31 @@
+---
+title: "Sarepta"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Siméon Vailhé"
+signed: ""
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Sarepta"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.sarepta} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Sardinia"
+next: "Januarius Maria Sarnelli"
+entry-type: "article"
+characters: 2187
+words: 365
+links: 0
+images: 0
+---
+
+# Sarepta {#cathen.sarepta}
+
+A titular see in Phoenicia Prima, suffragan of Tyre. It is mentioned for the first time in the voyage of an Egyptian in the fourteenth century B.C. Chabas, "Voyage d'un Egyptien" (Châlons, 1866), 20, 161, 163. Abdias (i,20), says it was the northern boundary of Chanaan. Sennacherib captured it in 701 B.C. (Schrader, "Die Keilinschriften und das Alte Testament", 1883, 200, and 288). We learn from III Kings, xvii, 8-24, that it was subject to Sidon in the time of Achab and that the Prophet Elias, after having multiplied the meal and oil of a poor woman, raised her son from the dead; the charity of this widow was recalled by Our Saviour (Luke, iv, 26). It was probably near this place that Christ cured the daughter of the Chanaanite or Syro-phoenician woman whose faith He praised (Mark, vii, 24-30). Sarepta is mentioned also by Josephus, "Ant. jud.", VIII, xiii, 2; Pliny, "Hist. natur.", V, 17; the "Itinerarium Burdigalense; the "Onomasticon" of Eusebius and St. Jerome; by Theodosius and Pseudo-Antoninus who, in the sixth century calls it a small town, but very Christian (Geyer, "Intinera hierosolymitana", Vienna, 1898, 18, 147, 150). It contained at that time a church dedicated to St. Elias. The "Notitia episcopatuum" of Antioch in the sixth century, speaks of Sarepta as a suffragan see of Tyre (Echos d'Orient, X, 145); none of its bishops are known. Some Latin bishops, but merely titulars, are mentioned after 1346 (Eubel, "Hierarchia catholica medii aevi", I, 457; II, 253; III, 310; "Revue benedictine", XXI, 281, 345-53, 353-65; XXIV, 72). In 1185, the Green monk Phocas (De locis sanctis, 7) found the town almost in its ancient condition; a century later, according to Burchard, it was in ruins and contained only seven or eight houses (Descriptio Terrae sanctae, II, 9). Today, Sarepta is known as Khirbet Sarfend, between Tyre and Sidon, on the seashore; the ruins show that the town extended 1800 metres north and south, but that it was not very wide.
+
+SMITH, Dict. of Greek and Roman Geog., S.V.; RENAN , Mission de Phénicie (Paris, 1864), 663-66; VIGOUROUX in Dict. de la Bible, S.V.; GUÉRIN, Description de la Palestine. Galilée, II (Paris, 1880), 478-81.

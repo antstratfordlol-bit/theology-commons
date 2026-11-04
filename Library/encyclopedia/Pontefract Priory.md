@@ -1,0 +1,35 @@
+---
+title: "Pontefract Priory"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "Gilbert Roger Hudleston"
+signed: "G. ROGER HUDLESTON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pontefract_Priory"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pontefract-priory} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Archdiocese of Pondicherry"
+next: "Pope St. Pontian"
+entry-type: "article"
+characters: 2731
+words: 459
+links: 0
+images: 0
+---
+
+# Pontefract Priory {#cathen.pontefract-priory}
+
+Located in Yorkshire, England, a Cluniac monastery dedicated to St. John the Evangelist, founded about 1090 by Robert de Lacy, as a dependency of the Abbey of la Charité-sur-Loire, which supplied the first monks. Two charters of the founder are given in Dugdale. In a charter of Henry de Lacy, son of Robert, the church is spoken of as dedicated to St. Mary and St. John. These donations were finally confirmed to the monastery by a Bull of Pope Celestine (whether II or III is uncertain), which also conferred certain ecclesiastical privileges on the priory. In the Visitation Records it had sixteen monks in 1262, and twenty-seven in 1279. At the latter date a prior of exceptional ability was in charge of the house, and he is commended for his zeal during the twelve years of his rule, which had resulted in a reduction of the monastery's debts from 3200 marks to 350. A later, undated, visitation return gives the average number of monks at twenty. Duckett prints a letter from Stephen, Prior of Pontefract in 1323, to Pierre, Abbot of Cluny, explaining that he had been prevented from making a visitation of the English Cluniac houses, owing to the presence of the king and court at Pontefract, which prevented his leaving home. In the previous year (1322) Thomas, Earl of Lancaster had been beheaded at Pontefract, and his body buried in the priory church "on the right hand of the high altar". Rumour declared that miracles had been wrought at the tomb. This attempt to regard the earl as a martyr aroused the anger of Edward II, who impounded the offerings (Rymer, Foedera, II, ii, 726). However, not long after, a chantry dedicated to St. Thomas was built on the site of the execution and, in 1343, license was given to the prior and Convent of Pontefract "to allow Masses and other Divine Services" to be celebrated there.
+
+In the *valor ecclesiasticus* of 26 Henry VIII, the yearly revenue of the priory is entered as £472 16s. 10½d. gross, and £337 14s. 8½d. clear value. The last prior, James Thwayts, with seven brethren and one novice surrendered the monastery to the king, 23 November, 1540, the prior being assigned a pension of fifty pounds per annum. The Church and buildings have been completely destroyed, but the site is still indicated by the name of Monk-hill.
+
+DUGDALE, *Monasticon Anglicanum,* V (London, 1846), 118-31; DUCKETT *Charters and Records . . . of the Abbey of Cluni* (privately printed, 1888), *passim,* esp. II, 150-54; IDEM, *Record Evidences . . . of the Abbey of Cluni* (privately printed, 1886); IDEM, *Visitations of English Cluniac Foundations* (London, 1890); BOOTHROYD, *History of Pontefract* (Pontefract, 1807); FOX, *History of Pontefract* (Pontefract, 1827).
+
+G. ROGER HUDLESTON.

@@ -1,0 +1,35 @@
+---
+title: "Johann and Wendelin von Speyer"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "Heinrich Wilhelm Wallau"
+signed: "Heinrich W. Wallau"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Johann_and_Wendelin_von_Speyer"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.johann-and-wendelin-von-speyer} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Diocese of Speyer"
+next: "Joseph Spillmann"
+entry-type: "article"
+characters: 2745
+words: 445
+links: 0
+images: 0
+---
+
+# Johann and Wendelin von Speyer {#cathen.johann-and-wendelin-von-speyer}
+
+German printers in Venice from 1468 to 1477. They were among the first of those who, after 1462, left Mainz for Italy to introduce there the art of printing books. We have scant knowledge of their lives. They came originally from Speyer (capital of the Bavarian palatinate). Early in 1460-61 Johann appears in Mainz as a "goldsmith" - it was there, no doubt, that he learned the art of printing books. In 1468, with his wife, children, and brother Wendelin, he set out for Venice. The establishment of their printing house, the first in Venice, took place under the most favourable auspices. The Venetian Senate extended a cordial welcome to Johann, and granted him a full monopoly of printing for five years. His first book, Cicero's "Epistolae ad familiares", appeared in 1469. During the printing of Augustine's "De Civitate Dei" (1470) Johann died, and Wendelin completed it. The latter assumed control of the business after the death of Johann and carried it on successfully until 1477. About 1472 he associated with him the German printer, Johann von Köln. Together they issued seven works. Besides their great skill as printers, their extraordinary industry is worthy of note. Before Johann died, four great works had been issued: two editions of Cicero; Pliny; and one volume of Livy. The "De Civitate Dei" had been begun. Within seven months eight hundred volumes were printed.
+
+From 1470 to 1477 Wendelin issued over seventy great works (Italian and Roman classics, Fathers of the Church, jurists, etc.). Johann printed in an antique type modelled after the best Italian manuscript writing, beautiful, and carefully cut. It is decidedly superior to the later antique type, which deteriorated through desire to save space, and it is almost equal to the beautiful type of Jenson. Johann's clear type and his entire technical execution are surprisingly perfect. In addition to this first type, Wendelin used five newly cut types of exquisite workmanship, among them three slender Gothic models, probably reduced to save space. His work showed the same correctness of text, beauty of printing, and evenness that had characterized Johann's. The latter was the first printer to number the leaves with Arabic figures, and was also the first who used the colon and interrogation point. In Wendelin's books appeared for the first time the so called catch-words (*Kustoden*), that is to say he printed on the lower margin of each page the first word of the page following.
+
+DENIS, Suffragium pro J. de Spira (Vienna, 1794); BROWN, Venetian Printing Press (London, 1891); ONGANIA, Art de l'imprimerie a Venise (Venice, 1895-6); HARTWIG AND OTHERS, Festschrift zum 500 jahr. Geburstage von Johann Gutenberg (Mainz, 1900), 342.
+
+Heinrich W. Wallau.

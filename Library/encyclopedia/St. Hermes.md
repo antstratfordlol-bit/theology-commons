@@ -1,0 +1,33 @@
+---
+title: "St. Hermes"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "Charles Francis Wemyss Brown"
+signed: "C. F. Wemyss Brown"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Hermes"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-hermes} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Hermengild"
+next: "George Hermes"
+entry-type: "article"
+characters: 1188
+words: 201
+links: 0
+images: 0
+---
+
+# St. Hermes {#cathen.st-hermes}
+
+Martyr, Bishop of Salano (Spalato) in Dalmatia. Very little is known about him; in Rom., xvi, 14, St. Paul says: "Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren that are with them." This last name is supposed by many to refer to the subject of his article, who is also said to have succeeded Titus as Bishop of Dalmatia, and to have been martyred. A passing mention is made of a Hermas in the Acta SS. Bolland., April 8, under Herodion; and Pape says he was one of the seventy-two disciples of Our Lord. Hermes was a very common name among slaves. Migne (P.G., 4 November) says he was one of the *seventy* disciples, along with Patrobas, Linus, Gaius and Philologus; and Canisius talks of a "Hermæus presbyter" . . . who converted many from idols to Christ, suffered for his faith with Nicander, Bishop of Myra, and was "lacerated and hanged."
+
+De SOYRES in Dict. Christ. Biog., s. v. Hermes (2); Menæa, 4 Nov.; Menologium Basilianum, 4 Nov.; Migne, P.G., CXVII, 143; FARLATI, Illyric. Sacr. (1751), i, 393-404; PAPE, W=94rterbuch der griechischen Eigennamer (1863-70), I, 382-4; CANISIUS, Lectiones Antiquæ (Amsterdam, 1725), III, pt. I, 484.
+
+C. F. Wemyss Brown.

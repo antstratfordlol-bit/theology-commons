@@ -1,0 +1,114 @@
+---
+id: "councils-fourth-ecumenical.en.extracts-from-acts-session-xvi"
+title: "Extracts from the Acts. Session XVI."
+work: "The Fourth Ecumenical Council. The Council of Chalcedon"
+author: "the ecumenical councils (ed. H. R. Percival)"
+volume: "NPNF2-14. The Seven Ecumenical Councils"
+volume-id: "npnf214"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf214.xml"
+source-id: "xi.xix"
+sigla: "councils-fourth-ecumenical"
+part-of: "councils-fourth-ecumenical"
+part-ref: "extracts-from-acts-session-xvi"
+part-kind: "text"
+part-evidence: "whole-document (file is the citable unit)"
+title-source: "printed-title-en"
+boundary-decision: "one work per council, Percival's dossier entire (title page, historical introduction, creed, canons, excursus); it is an editorial compilation and does not fit the author-work form at all"
+anchors: "{#councils-fourth-ecumenical.extracts-from-acts-session-xvi} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 1
+scripture-references: 1
+scripture-refs-sidecar: "_scripture-refs/npnf214.tsv"
+print-pages: "293-295"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# Extracts from the Acts. Session XVI. {#councils-fourth-ecumenical.extracts-from-acts-session-xvi}
+
+Extracts from the Acts.
+
+Session XVI.
+
+(Labbe and Cossart, *Concilia*, Tom. IV., col. 794.)
+
+Paschasinus and Lucentius, the most reverend bishops, holding the place of the Apostolic See, said: If your magnificence so orders, we have something to lay before you.
+
+The most glorious judges, said: Say what you wish. The most holy Paschasinus the bishop, holding the place of Rome, said: The rulers of the world, taking care of the holy Catholic faith, by which their kingdom and glory is increased, have deigned to define this, in order that unity through a holy peace may be preserved through all the churches. But with still greater care their clemency has vouchsafed to provide for the future, so that no contention may spring up again between God’s bishops, nor any schisms, nor any scandal. But yesterday after your excellencies and our humility had left, it is said that certain decrees were made, which we esteem to have been done contrary to the canons, and contrary to ecclesiastical discipline. We request that your magnificence order these things to be read, that all the brethren may know whether the things done are just or unjust.
+
+The most glorious judges said: If anything was done after our leaving let it be read.
+
+And before the reading, Aëtius, the Archdeacon of the Church of Constantinople said: It is certain that the matters touching the faith received a suitable form. But it is customary at synods, after those things which are chiefest of all shall have been defined, that other things also which are necessary should be examined and put into shape. We have, I mean the most holy Church of Constantinople has, manifestly things to be attended to. We asked the lord bishops (κυρίοις τοις ἐπισκοποις) from Rome, to join with us in these matters, but they declined, saying they had received no instructions on the subject. We referred the matter to your magnificence and you bid the holy Synod to consider this very point. And when your magnificence had gone forth, as the affair was one of common interest, the most holy bishops, standing up, prayed that this thing might be done. And they were present here, and this was done in no hidden nor secret fashion, but in due course and in accordance with the canons.
+
+The most glorious judges said: Let the acts be read.
+
+[ *The canon (number* XXVIII*.), was then read, and the signatures, in all* 192*, including the bishops of Antioch, Jerusalem, and Heraclea, but not Thalassius of Cæsarea who afterwards assented. Only a week before* 350*had signed the Definition of faith. When the last name was read a debate arose as follows*. (Col. 810.).]
+
+Lucentius, the most reverend bishop and legate of the Apostolic See, said: In the first place let your excellency notice that it was brought to pass by circumventing the holy bishops so that they were forced to sign the as yet unwritten canons, of which they made mention. [*The Greek reads a little differently* (*I have followed the Latin as it is supposed by the critics to be more pure than the Greek we now have*): Your excellency has perceived how many things were done in the presence of the bishops, in order that no one might be forced to sign the aforementioned canons; defining by necessity.]
+
+The most reverend bishops cried out: No one was forced.
+
+Lucentius the most reverend bishop and legate of the Apostolic See, said: It is manifest that the decrees of the 318 have been put aside, and that mention only has been made of those of the 150, which are not found to have any place in the synodical canons, and which were made as they acknowledge eighty years ago. If therefore they enjoyed this privilege during these years, what do they seek for now? If they never used it, why seek it? [*The Greek reads*: “It is manifest that the present decrees have been added to the decrees of the 318 and to those of the 150 after them, decrees not received into the synodical canons, these things they pretend to be defined. If therefore in these times they used this benefit what now do they seek which according to the canons they had not used?]
+
+Aëtius, the archdeacon of the most holy Church of Constantinople, said: If on this subject they had received any commands, let them be brought forward.
+
+Bonifacius, a presbyter and vicar of the Apostolic See, said: The most blessed and Apostolic Pope, among other things, gave us this commandment. And he read from the chart, “The rulings of the holy fathers shall with no rashness be violated or diminished. Let the dignity of our person in all ways be guarded by you. And if any, influenced by the power of his own city, should undertake to make usurpations, withstand this with suitable firmness.”
+
+The most glorious judges said: Let each party quote the canons.
+
+————————————
+
+Paschasinus, the most reverend bishop and representative, read: Canon Six of the 318 holy fathers, “The Roman Church hath always had the primacy. Let Egypt therefore so hold itself that the bishop of Alexandria have the authority over all, for this is also the custom as regards the bishop of Rome. So too at Antioch and in the other provinces let the churches of the larger cities have the primacy. [*In the Greek* ‘let the primacy be kept to the churches;’ *a sentence which I do not understand, unless it means that for the advantage of the churches the primatial rights of Antioch must be upheld. But such a sentiment one would expect to find rather in the Latin than in the Greek*.] And one thing is abundantly clear, that if any one shall have been ordained bishop contrary to the will of the metropolitan, this great synod has decreed that such an one ought not to be bishop. If however the judgment of all his own [fellows] is reasonable and according to the canons, and if two or three dissent through their own obstinacy, then let the vote of the majority prevail. For a custom has prevailed, and it is an ancient tradition, that the bishop of Jerusalem be honoured, let him have his consequent honour, but the rights of his own metropolis must be preserved.”
+
+Constantine, the secretary, read from a book handed him by Aëtius, the archdeacon; Canon Six of the 318 holy Fathers. “Let the ancient customs prevail, those of Egypt, so that the bishop of Alexandria shall have jurisdiction over all, since this also is the custom at Rome. Likewise at Antioch and in the rest of the provinces, let the rank (πρεσβεῖα) be preserved to the churches. For this is absolutely clear that if anyone contrary to the will of the metropolitan be ordained bishop, such an one the great synod decreed should not be a bishop. If however by the common vote of all, founded upon reason, and according to the canons, two or three moved by their own obstinacy, make opposition, let the vote of the majority stand.”
+
+The same secretary read from the same codex the determination of the Second Synod. “These things the bishops decreed who assembled by the grace of God in Constantinople from far separated provinces,…and bishops are not to go to churches which are outside the bounds of their dioceses, nor to confound the churches, but according to the canons the bishop of Alexandria shall take the charge of the affairs of Egypt only, and the bishops of Orient shall govern the Oriental diocese only, the honours due to the Church of Antioch being guarded according to the Nicene canons, and the Asiatic bishops shall care for the diocese of Asia only, and those of Pontus the affairs of Pontus only, and those of Thrace the affairs of Thrace only. But bishops shall not enter uncalled another diocese for ordination, or any other ecclesiastical function. And the aforesaid canon concerning dioceses being observed, it is evident that the synod of every province will administer the affairs of that particular province as was decreed at Nice. But the churches of God in heathen nations must be governed according to the custom which has prevailed from the times of the Fathers. The bishop of Constantinople however shall have the prerogative of honour next after the bishop of Rome, because Constantinople is new Rome.”
+
+Notes.
+
+An attempt has been made to shew that this statement of the acts is a mere blunder. That no correct copy of the Nicene canons was read, and that the council accepted the version produced by the Roman legate as genuine. The proposition appears to me in itself ridiculous, and taken in connexion with the fact that the acts shew that the true canon of Nice was read immediately afterwards I cannot think the hypothesis really worthy of serious consideration. But it is most ably defended by the Ballerini in their edition of St. Leo’s works (Tom. iii., p. xxxvij. *et seqq*.) and Hefele seems to have accepted their conclusions (Vol. III., p. 435). Bright, however, I think, takes a most just view of the case, whom I therefore quote.
+
+Bright.
+
+If we place ourselves for a moment in the position of the ecclesiastics of Constantinople when they heard Paschasinus read his “version,” which the Ballerini gently describe as “differing a little” from the Greek text, we shall see that it was simply impossible for them not to quote that text as it was preserved in their archives, and had been correctly translated by Philo and Evarestus in their version beginning “Antiqui mores obtineant.” No comment on the difference between it and the Roman “version” is recorded to have been made: and, in truth, none was necessary. Simply to confront the two, and pass on to the next point, was to confute Paschasinus at once most respectfully and most expressively.
+
+It should be added that the Ballerini ground their theory chiefly upon the authority of a Latin ms., the *Codex Julianus*, now called *Parisiensis*, in which this reading of the true text of the canon of Nice is not contained, as Baluzius was the first to point out.
+
+————————————
+
+The most glorious judges said: Let the most holy Asiatic and Pontic bishops who have signed the tome just read say whether they gave their signatures of their own judgment or compelled by any necessity. And when these were come into the midst, the most reverend Diogenes, the bishop of Cyzicum, said: I call God to witness that I signed of my own judgment. [*And so on, one after the other*.]
+
+The rest cried out: We signed willingly.
+
+The most glorious judges said: As it is manifest that the subscription of each one of the bishops was given without any necessity but of his own will, let the most holy bishops who have not signed say something.
+
+Eusebius, the bishop of Ancyra, said: I am about to speak but for myself alone.
+
+[*His speech is a personal explanation of his own action with regard to consecrating a bishop for Gangra*.]
+
+The most glorious judges said: From what has been done and brought forward on each side, we perceive that the primacy of all (πρὸ πάντων τὰ πρωτεῖα) and the chief honour (τὴν ἐξαίρετον τιμὴν) according to the canons, is to be kept for the most God-beloved archbishop of Old Rome, but that the most reverend archbishop of the royal city Constantinople, which is new Rome, is to enjoy the honour of the same primacy, and to have the power to ordain the metropolitans in the Asiatic, Pontic, and Thracian dioceses, in this manner: that there be elected by the clergy, and substantial (κτητόρων) and most distinguished men of each metropolis and moreover by all the most reverend bishops of the province, or a majority of them, and that he be elected whom those afore mentioned shall deem worthy of the metropolitan episcopate and that he should be presented by all those who had elected him to the most holy archbishop of royal Constantinople, that he might be asked whether he [i.e., the Patriarch of Constantinople] willed that he should there be ordained, or by his commission in the province where he received the vote to the episcopate. The most reverend bishops of the ordinary towns should be ordained by all the most reverend bishops of the province or by a majority of them, the metropolitan having his power according to the established canon of the fathers, and making with regard to such ordinations no communications to the most holy archbishop of royal Constantinople. Thus the matter appears to us to stand. Let the holy Synod vouchsafe to teach its view of the case.
+
+The most reverend bishops cried out: This is a just sentence. So we all say. These things please us all. This is a just determination. Establish the proposed form of decree. This is a just vote. All has been decreed as should be. We beg you to let us go. By the safety of the Emperor let us go. We all will remain in this opinion, we all say the same things.
+
+Lucentius, the bishop, said: The Apostolic See gave orders that all things should be done in our presence [*This sentence reads in the Latin*: The Apostolic See ought not to be humiliated in our presence. *I do not know why Canon Bright in his notes on Canon XXVIII. has followed this reading*]; and therefore whatever yesterday was done to the prejudice of the canons during our absence, we beseech your highness to command to be rescinded. But if not, let our opposition be placed in the minutes, and pray let us know clearly [*Lat*. that we may know] what we are to report to that most apostolic bishop who is the ruler of the whole church, so that he may be able to take action with regard to the indignity done to his See and to the setting at naught of the canons.
+
+[John, the most reverend bishop of Sebaste, said: We all will remain of the opinion expressed by your magnificence.[^300]]
+
+The most glorious judges said: The whole synod has approved what we proposed.
+
+Notes.
+
+Hefele.
+
+(*Hist. Counc*., Vol. III., p. 428.)
+
+That is, the prerogative assigned to the Church of Constantinople is, in spite of the opposition of the Roman legate decreed by the Synod. Thus ended the Council of Chalcedon after it had lasted three weeks.
+
+How it is possible after reading the foregoing proceedings to imagine for an instant that the bishops of this Council considered the rights they were discussing to be of Divine origin, and that the occupant of the See of Rome was, *jure divino*, supreme over all pontiffs I cannot understand. It is quite possible, of course, to affirm, as some have done, that the acts, as we have them, have been mutilated, but the contention involves not only many difficulties but also no few absurdities; and yet I cannot but think that even this extreme hypothesis is to be preferred to any attempt to reconcile the acts as we now have them with the acceptance on the part of the members of the council of the doctrine of a *jure divino* Papal Supremacy as it is now held by the Latin Church.
+
+[^300]: These words are found only in the Latin.

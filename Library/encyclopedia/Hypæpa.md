@@ -1,0 +1,33 @@
+---
+title: "Hypæpa"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "Sophron Pétridès"
+signed: "S. PÉTRIDES"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Hypæpa"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.hypaepa} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Hymnody and Hymnology"
+next: "Hypnotism"
+entry-type: "article"
+characters: 1147
+words: 189
+links: 0
+images: 0
+---
+
+# Hypæpa {#cathen.hypaepa}
+
+Titular see of Asia Minor, suffragan of Ephesus; it was a small town on the southern slope of the Tmolus, looking towards the plain of Caystrus. Artemis Persica was worshipped there, and its women were noted for their beauty and their skill in dancing. It coined its own money until the time of Emperor Gordianus. It is now a little village in the vilayet of Smyrna, called by the Turks Tapou, though the Greeks retain the ancient name. It has ruins dating from classical and medieval times. The see survived until the thirteenth century; under Isaac Angelus Comnenus it became a metropolitan see. Lequien (Oriens Christ., I, 695) mentions six bishops: Mithres, present at the Council of Nicaea, 325; Euporus, at Ephesus, 431; Julian, at Ephesus, 449, and at Chalcedon, 451; Anthony, who abjured Monothelism at the Council of Constantinople, 680; Theophylactus, at the Council of Nicaea in 787; Gregory, at Constantinople, 879. To these may be added Michael, who in 1230 signed a document issued by the Patriarch Germanus II (Revue des études grecques, 1894, VII).
+
+Leake, Asia Minor, 256; Texier, Asie Mineure, 248-250. S. Pethrides.
+
+S. PÉTRIDES

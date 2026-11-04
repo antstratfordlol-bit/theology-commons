@@ -1,0 +1,35 @@
+---
+title: "Johann Nepomuk Cosmas Michael Denis"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Arthur Frank Joseph Remy"
+signed: "ARTHUR F.J. REMY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Johann_Nepomuk_Cosmas_Michael_Denis"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.johann-nepomuk-cosmas-michael-denis} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Denis"
+next: "Joseph Denis"
+entry-type: "article"
+characters: 3327
+words: 526
+links: 0
+images: 0
+---
+
+# Johann Nepomuk Cosmas Michael Denis {#cathen.johann-nepomuk-cosmas-michael-denis}
+
+Bibliographer and poet, b. at Schärding, Bavaria, 27 September, 1729; d. at Vienna, 29 Sept., 1800. He received his early training in the gymnasium at Passau, conducted by the Jesuits, and became a member of the Society of Jesus at Vienna in 1747. For some years he taught Latin and rhetoric, first at Graz, then at Klagenfurt. After four more years devoted to the study of theology at Graz he was ordained priest in 1757, and began preaching at Pressburg. In 1759 he was made professor of belles-lettres at the famous Theresian Academy in Vienna where he remained until 1773, when the Society of Jesus was suppressed. Denis now became assistant library at the Garelli Library connected with the Theresianum, and when the academy ceased to exist in 1784, he was appointed assistant librarian of the imperial court library and in 1791 was advanced to be chief librarian, receiving at the same time the title of privy councillor. He is specially known as a poet, as he was one of the chief members of the group of so-called bards whose aim was to revive German patriotism by treating subjects connected with Germanic antiquity. Confusing Germanic and Celtic materials they conceived themselves as bards, in the belief that these were ancient German poets, and adopted fanciful bardic names. Thus Denis called himself "the bard Sined", the anagram of his name. They were all admirers of Klopstock and of Ossian, whose poems had been made known only a few years before by the Scotchsman Macpherson, and which had been translated into German in 1764. Ossian was really the inspiration of the bardic movement. Denis's first poems appeared in 1760 under the title "Poetische bilder der meisten kriegerischen Vorgänge in Europa seit dem Jahre 1756". These are poems celebrating the events of the Seven Year's War, and, as the German poems of a Jesuit, created quite a stir. His German translations of Ossian appeared in three volumes (1768-69). A second collection of poems, "Die Lieder Sineds des Barden", followed in 1772. A new edition, including his version of Ossian, was published at Vienna in five volumes under the title, "Ossian und Sineds Lieder" (Vienna, 1784-85). Besides the purely bardic poems these collections contain many poems composed for special occasions, for Denis was held in high esteem by the Court. A number of religious poems had been published separately as "Geistliche Lieder" in 1774. The quality of these poetical efforts is not high, but Denis certainly deserves praise for his efforts to bring the literature of Austria into contact with that of northern Germany. For both Klopstock and Gellert he felt great enthusiasm, and largely helped to make them known in Austria.
+
+As a bibliographer he compiled a number of important works, notably "Einleitung in der Bucherkunde", part I, bibliography (1777); part II, "Literaturgeschicte", (1778); "Die Murkwürigkeiten der Garellischen Bibliotek" (Vienna, 1780); "Wiens Buchdruckergeschicte bis MDLX" (Vienna, 1782-83). His posthumous works were published by his pupil, J. F. de Retzer, "Nachlese zu Sineds Liedern" (Vienna, 1802).
+
+Hoffman-Wellenhoff, Michael Denis, ein Beitrag zur deutsch-österreichischen Litteraturgeschichte des XVIII. Jahrhunderts (Innsbruck, 1881); Hamel in Kürrsschner, Deutsche National-Litteratur, XLVIII, 149 sqq.
+
+ARTHUR F.J. REMY

@@ -1,0 +1,35 @@
+---
+title: "Vincenzo de Vit"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Paul Lejay"
+signed: "PAUL LEJAY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Vincenzo_de_Vit"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.vincenzo-de-vit} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Visitation Convent, Georgetown"
+next: "Pope St. Vitalian"
+entry-type: "article"
+characters: 2946
+words: 485
+links: 0
+images: 0
+---
+
+# Vincenzo de Vit {#cathen.vincenzo-de-vit}
+
+Latinist, b. at Mestrina, near Padua, 10 July, 1810; d. at Domo d'Ossola, 17 Aug., 1892. He made his studies at Padua, was ordained priest in 1836, in 1844 became librarian of the Academia dei Concordi at Rovigo and canon of the cathedral. He was thus advancing in the path of ecclesiastical honours, but under the influence of Rosmini he entered at Stresa the Institute of Charity. He began his revision of Forcellini's lexicon at Stresa. Compelled to have recourse to libraries, he went first to Florence in 1861, and in 1862 to Rome, where he took up his residence, returning to Northern Italy in the summer. De Vit's idea differed from that of Forcellini and Furlanetto, it being his intention to include in his book all the periods and all the varieties of Latin down to A.D. 568. He likewise gave an exact digest of the authors of the decadence and the Fathers of the Church, and accorded considerable space to inscriptions, which he also treated in special works. His work was a third larger than Furlanetto's edition, which extension compelled him to leave out proper names. The "Lexicon totius latinitatis" was completed in 1879. De Vit undertook the "Onomasticon", which he brought down to the beginning of the letter P. Unfortunately no one has undertaken its completion. One of the great merits of the "Lexicon", apart from its extent, is that it allows the restoration of the exact history of each word according to writers and periods. Very rarely does a text important for meaning escape de Vit's gleaning. His work will always be useful because it gives all essential information in a comparatively brief form.
+
+He also laboured on the history of his native place, and published his researches in eight volumes: "Il lago maggiore Stresa e le isole Borromeo" (Prato, 1875-78); "Memorie storiche di Borgomanero e del suo mandamento" (1859; 2nd ed., 1880); "Adria e le sue antiche epigrafi illustrate" (Prato, 1888); "La provincia romana dell' Ossola ossia delle Alpe Atreziane" (Pratom 1892). All these works were collected in a series of "Opere varie" (11 vols., Prato, 1875-92), which also contains numerous memoirs of antiquity and lexicography, the most celebrated being "Della distinzione tra i Britanni o Brittonnni dell' Isola e i Britanni o Brittonni del continente", (Modena, 1867-72). According to de Vit the name Brittany was given to the Armorican Peninsula because some *Britanni* had established themselves there in the time of Caesar, coming from the right bank of the Rhine. These must have been the Britons, while the inhabitants of the island must have been the Britanni. A confusion of names subsequently arose. This theory has not been admitted by scholars. Another dissertation (1873-74 and 1881), concerning the road of the invasion of the Cimri, and on the site of the battle of Marius, also aroused lively controversies.
+
+FERRERO in Biographisches Jahrbuch fur Altertumskunde (Leipzig, 1899), 26.
+
+PAUL LEJAY

@@ -1,0 +1,31 @@
+---
+title: "Laurenz Forer"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Anthony John Maas"
+signed: "A.J. MAAS"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Laurenz_Forer"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.laurenz-forer} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Andrew Foreman"
+next: "Catholic Orders of Foresters"
+entry-type: "article"
+characters: 2136
+words: 311
+links: 0
+images: 0
+---
+
+# Laurenz Forer {#cathen.laurenz-forer}
+
+Controversialist, b. at Lucerne, 1580; d. at Ratisbon, 7 January, 1659. He entered the Society of Jesus at the age of twenty, in Landshut, and made part of his studies under Fathers Laymann and Tanner. He taught philosophy at Ingolstadt (1615-1619), and theology, moral and controversial, for six years at Dillingen. In the latter institution he held also the office of chancellor for several years. He spent the years 1632-1643 in the Tyrol, whither he had withdrawn with his illustrious penitent Heinrich von Knoringen, Bishop of Augsburg, on account of the inroads of the Swedes. Forer visited Rome (1645-1646) as the representative of the province of Upper Germany in the eighth congregation. He became rector of the college of Lucerne in 1650. Father Sommervogel enumerates sixty-two titles of publications from the pen of Forer; though not all of them are very voluminous, they show at least the writer's versatility and erudition, as well as his zeal for the integrity and the honour of the Catholic Faith. He wrote one or more treatises each against the apostates Reihing and de Dominis, against Melchior Nicolai, Hottinger, Kallisen, Schopp, Molinos, Haberkorn, Voet, Hoe, the Ubiquists, and others. Such works as "Lutherus thaumaturgus" (Dillingen, 1624), "Septem characteres Lutheri" (Dillingen, 1626), "Quaestio ubinam ante Lutherum protestantium ecclesia fuerit" (Pt. I, Amberg, 1653; P. II, Ingolstadt, 1654), "Bellum ubiquisticum vetus et novum inter ipsos Lutheranos bellatum et needum debellatum" (Dillingen, 1627) are directed against all Protestants. Others, as "Anatomia anatomiae Societatis Jesu" (Innsbruck, 1634), "Mantissa Ant-anatomiae Jesuiticae" (Innsbruck, 1635; Cologne, 1635), "Grammaticus Proteus, arcanorum Societatis Jesu Daedalus" (Ingolstadt, 1636), "Appendix ad grammaticum Proteum" (Ingolstadt, 1636), attack the enemies of the Society of Jesus; finally, two of his works, written for Catholics, "Disputirkunst fur die einfaltigen Catholischen" (Ingolstadt, 1656) and "Leben Jesu Christi" (Dillingen, 1650-1658), have been re-edited and republished at Wurzburg (1861) and Ratisbon (1856).
+
+A.J. MAAS

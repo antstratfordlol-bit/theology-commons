@@ -1,0 +1,33 @@
+---
+title: "Trinity College"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: ""
+signed: "SISTER OF NOTRE DAME"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Trinity_College"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.trinity-college} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Blessed Trinity"
+next: "Trinity Sunday"
+entry-type: "article"
+characters: 3726
+words: 582
+links: 0
+images: 0
+---
+
+# Trinity College {#cathen.trinity-college}
+
+An institution for the higher education of Catholic women, located at Washington, D.C., and empowered under the terms of its charter (1897) to confer degrees. The college originated in the desire of the Sisters of Notre Dame de Namur, who had been thirty-five years established in the city of Washington, to open a select day-school in the suburb of Brookland. Before requesting the necessary ecclesiastical sanction, it was proposed to them by the authorities of the Catholic University to make the new school a college equal in efficiency to the women's colleges already established in the United States. Cardinal Gibbons, chancellor of the university, heartily endorse this project, "persuaded", he wrote, "that such and institution, working in union with, though entirely independent of, the Catholic University, will do incalculable good in the cause of higher education" (5 April 1897). Sister Julia, then provincial superior of the Sisters of Notre Dame, secured a tract of thirty-three acres lying between Michigan and Lincoln Avenues, Brookland. The corner-stone was laid on 8 December, 1899; the South Hall of the building was dedicated by Cardinal Gibbons, on 22 November 1900, and the structure was completed in 1910. It contains residence halls for two hundred students, lecture rooms, laboratories, a museum, a library of 12,000 volumes, and a temporary chapel. The O'Connor Art Gallery and Auditorium, a hall provided by the generosity of Judge and Mrs. M.P. O'Connor of San Jose, California, houses a large and valuable collection of paintings, water colours, mosaics, photographs, and statuary, which was opened to visitors on 31 May, 1904, in the presence of the donors. The Holahan Social Hall contains some rare old paintings, a bequest to the college in 1907 by Miss Amanda Holahan of Philadelphia. The administration of the college is in the hands of an advisory board, of which Cardinal Gibbons is president, and the members comprise the rector, and vice-rector of the Catholic University, the provincial superior of the Sisters of Notre Dame, the president of the college, who is also the superior of the community, and the president of the auxiliary board of regents. The auxiliary board of regents and its associate boards draw their members from all parts of the United States, being composed of Catholic ladies who can help the cause of higher education by their influence and example. The college has no endowment. By the liberality of friends, seventeen scholarships have been established. The faculty of Trinity College is composed of six professors from the Catholic University in the departments of philosophy, education, apologetics, economics, and sociology, and seventeen Sisters of Notre Name in the departments of religion, Sacred Scripture, ancient and modern languages, English, history, logic, mathematics, the physical sciences, music, and art. The college opened its courses on 7 November 1900, with twenty-two students in the Freshman class and has grown only by promotion and admission. For 1911-1912, 160 were registered. Admission is by examination according to the requirements of the College Entrance Examination Board; no specialists are received; and there is no preparatory department. The number of degrees conferred (1904-1912) is 160, viz.: master of arts, 8; bachelor of arts, 130; bachelor of letters, 20; bachelor of science, 2.
+
+Annals of Trinity College (Washington, D.C.); SISTER OF NOTRE DAME, The Life of Sister Julia, Provincial Superior of the Sisters of Notre Dame (Washington, D.C., 1911); MCDEVITT, Trinity College and the Higher Education in The Catholic World (June, 1904); HOWE, Trinity College in Donahoe's Magazine (October, 1900).
+
+SISTER OF NOTRE DAME

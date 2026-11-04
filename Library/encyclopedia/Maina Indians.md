@@ -1,0 +1,35 @@
+---
+title: "Maina Indians"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "James Mooney"
+signed: "JAMES MOONEY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Maina_Indians"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.maina-indians} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Teaching of Moses Maimonides"
+next: "Maine"
+entry-type: "article"
+characters: 2322
+words: 374
+links: 0
+images: 0
+---
+
+# Maina Indians {#cathen.maina-indians}
+
+(Also MAYNA)
+
+A group of tribes constituting a distinct linguistic stock, the Mainan, ranging along the north bank of the Marañón. Their earlier habitat is supposed to have been the upper waters of the Morona and the Pastaza, Ecuador. Briton gives them six tribes, or dialects, viz: Cahuapana, Chapa, Chayavita, Coronado, Humurano, Maina, Roamaina. Hervas gives them two languages in six dialects, viz: Maina (Chapo, Coronado, Humurano, Maina, Roamaina dialects) and Chayavita (Cahuapano and Paranapuro dialects). The Maina are notable as having been the first tribes of the upper Amazon region to have been evangelized, so that they gave their name to the whole mission jurisdiction of the region, and to the later province of Mainas, which included the larger part of the present Ecuador and northern Peru, east of the main Cordillera, including the basins of the Huallaga and Ucayali. In this missionary province of Mainas, according to Hervas, their labored from 1638 until the expulsion in 1767, 157 Jesuit missionaries of Quito, who founded 152 missions, and eight of whom won the palm of martyrdom. The work was begun in 1638 by Jesuit Fathers Gaspar de Cuxia and Lucas de la Cueva, from Quito, who, beginning their labors from the new town of San Francisco de Borja (now Borja) on the northern bank of the Marañón below the junction of the Santiago, established by themselves and their successors from the Quito province, a series of missions extending down the river on both sides. In 1682 Rodríguez enumerated three missions of the Maina proper, in proximity to Borja, and one each of the Chayavita Coronados, Paranapura, and Roamaina, besides others in the surrounding tribes. In 1798 Hervas names San Ignacio, San Juan, Conceptión, Presentación, and presumably San Borja, as missions occupied by Maina tribes. All the missions were then far on the decline, which he ascribes chiefly to the inroads of the Brazilian slave hunters (*see* ). The mission population is now either extinct or assimilated with the general civilized population, but a few untamed bands still roam the forests.
+
+RODRÍGUEZ, El Marañón y Amazonas (Madrid, 1864); HERVAS, Catálogo de las Lenguas (Madrid, 1800); BRINTON, The American Race (New York, 1891); HERDON, Exploration of the Valley of the Amazon (Washington, 1853).
+
+JAMES MOONEY

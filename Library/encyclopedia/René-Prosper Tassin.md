@@ -1,0 +1,33 @@
+---
+title: "René-Prosper Tassin"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "Georges Michel Bertrin"
+signed: "GEORGES BERTRIN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/René-Prosper_Tassin"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.rene-prosper-tassin} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Joseph Tassé"
+next: "Torquato Tasso"
+entry-type: "article"
+characters: 1976
+words: 325
+links: 0
+images: 0
+---
+
+# René-Prosper Tassin {#cathen.rene-prosper-tassin}
+
+French historian, belonging to the Benedictine Congregation of Saint-Maur, born at Lonlay, in the Diocese of Le Mans, in 1697; died at Paris, 1777. He was professed at the Abbey of Jumièges in 1718. United in close friendship with his brother-religious, Dom Toustain, he collaborated with him on a new edition of the works of Theodore the Studite, which task led them to visit Rome together. Their work was interrupted by a dispute between the Benedictine Abbey of St. Ouen and the chapter of Rouen which was supported by the erudite Sass. Tassin and his friend wrote against Sass in defence of their brethren. They then resided at the Abbey of Rouen where they remained till 1747, when they were summoned to the convent of Saint-Germain-des-Prés, at Paris, by their general. To defend the authenticity of the deeds of their abbey they were obliged to make a deep study of diplomacy, a science dealing with diplomas, charters, and other official documents, which Mabillon had already set forth in his celebrated Latin work, "De re diplomatica". As a result of their researches they wrote the "Nouveau traité de diplomatique", six quarto volumes, which appeared between the years 1750 and 1765. Toustain having died before the second volume was entirely printed, Tassin completed the great work alone, but he wished the name of his friend to be associated with all the volumes; these, consequently, are known like the first two as the work of "two Benedictines". Later Tassin wrote his "Histoire littéraire de la Congrégation de Saint-Maur" (Paris and Brussels, 1770, in quarto), a model history containing the lives and list of works, printed or in Manuscript, of all the learned authors of the Congregation, from its formation (1618) till the time when Tassin wrote, together with a list of their works, printed or in Manuscript. Several Manuscript works of Tassin are in the National Library at Paris.
+
+HAURÉAU, *Hist. littéraire du Maine* (Paris, 1870-77).
+
+GEORGES BERTRIN

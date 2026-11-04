@@ -1,0 +1,37 @@
+---
+title: "Franz Georg Benkert"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Patricius Schlager"
+signed: "PATRICIUS SCHLAGER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Franz_Georg_Benkert"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.franz-georg-benkert} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Benjamin"
+next: "St. Benno"
+entry-type: "article"
+characters: 2664
+words: 415
+links: 0
+images: 0
+---
+
+# Franz Georg Benkert {#cathen.franz-georg-benkert}
+
+German theologian and historical writer, b. 25 September, 1790, at Nordheim, near the mountain district of Rhon, Germany; d. 20 May, 1859, at Coburg. After finishing his studies at the gymnasium in Münnerstadt he studied theology at Würzburg and was ordained priest in 1816. He was first a curate at Gaurettersheim and in 1821, was made vice-principal of the theological seminary at Würzburg. While holding these positions Benkert continued his studies. In 1823 he received a doctorate, having offered the dissertation: "De Duplici Missâ Catechumenorum et Fidelium". From 1823 to 1838 he had the position of principal and in 1838 he was made a cathedral canon and cathedral dean.
+
+At that time, in common with the ecclesiastics of other diocese, the clergy of the Diocese of Würzburg suffered greatly from the religious disease of the age, "Josephinism", and were inclined to a sickly and enervating rationalism. The destructive effects of these rationalistic tendencies showed themselves everywhere in the life of the Church. Even when acting as vice-principal Benkert showed himself deserving of much praise in that he sought to reawaken in the younger clergy the spirit of the Church and to cultivate in them an interest, and a knowledge of, the old theological schools. In 1822 he founded the periodical: "Der Religionsfreund für Katholiken mit Beiträgen religiös gesinnter Manner". He issued the periodical in the desire to increase the influence of his efforts and also to win over the older ecclesiastics.
+
+The periodical appeared in six volumes, 1822-26. It attracted much attention and was copied in France in the "Ami de la Religion". In connection with G. J. Saffenrevter he issued, 1828-40, a continuation of this, his first, periodical, entitled: "Allgemeiner Religions- und Kirchenfreund und Kirchenkorrespondent, eine theologische und kirchenhistorische Zeitschrift". At the same time he published, 1828-34, a periodical entitled "Athanasia, eine theologische Zeitschrift, besonders für die gesamte Pastoral, für Kirchengeschichte, auch für Pädagogik". This appeared in sixteen volumes. He continued the same publication from 1835 to 1840 in connection with J. M. Düx. As Benkert was more apt to be swayed by his zeal for the right than by prudence, he made many enemies, especially among the older clergy. He therefore severed his connection with his periodicals in 1840, and devoted himself to the study of the history of his native district. His historical writings have only a local interest. A larger and more important work which he undertook on the Rhön was never completed.
+
+Kerz, *Litteraturzeitung* (1824), II, 101 sqq.
+
+PATRICIUS SCHLAGER

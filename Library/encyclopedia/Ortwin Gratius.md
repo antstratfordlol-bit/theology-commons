@@ -1,0 +1,33 @@
+---
+title: "Ortwin Gratius"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Patricius Schlager"
+signed: "PATRICIUS SCHLAGER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Ortwin_Gratius"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.ortwin-gratius} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Gratianopolis"
+next: "Auguste-Joseph-Alphonse Gratry"
+entry-type: "article"
+characters: 2967
+words: 472
+links: 0
+images: 0
+---
+
+# Ortwin Gratius {#cathen.ortwin-gratius}
+
+(VAN GRAES)
+
+Humanist; b. 1475 at Holtwick, near Coesfeld, Westphalia; d. at Cologne, 22 May, 1542. He belonged to an impoverished noble family, and was accordingly received in the house of his uncle Johannes van Graes at Deventer (wherefore he generally called himself Daventriensis), and was educated at the local school, where he received his first scientific instruction from the renowned Alexander Hegius. In 1501 he went to the University of Cologne to pursue his philosophical studies. As a member of the Kuyk Burse he became licentiate in 1505, *magister* in 1506, and *professor artium* in 1507. His salary as professor being insufficient, he accepted the position of skilled adviser and corrector in the world-famous Quentell printing establishment, where many classical authors of the Middle Ages were published under his direction. These, according to usage, he provided with introductions and rhymed dedications. As a disciple of Hegius he was naturally a fanatical humanist and a devoted adherent of Peter of Ravenna; he also enjoyed the friendship of the most prominent scientific minds of his time. But things soon changed. He was attacked bitterly by the younger intellectual element, especially their leader, Hermann von dem Busche, on account of his taking the part of the Cologne University theologians and the Dominicans on the occasion of the Reuchlin controversy, as well as on account of his Latin translations of various writings of the Jewish convert, Pfefferkorn. Gratius had at that time just finished a literary tournament with von dem Busche, and had been made the laughing-stock of the literary world by the venomous "Epistolae obscurorum virorum", his adversaries succeeding in vilifying him from both the moral and scientific standpoints, denouncing him as a drunkard and guilty of other vices, and as an incompetent Latin and Greek scholar. This procedure was the more effective from the fact that he ignored attacks, and did not defend himself from the beginning. He only attacked his defamers when Leo X excommunicated the author, readers, and disseminators of the "Epistolae" (1517). His defence, entitled "Lamentationes obscurorum virorum", was very weak and missed its mark, so that the portrayal of his character remained distorted up to modern times and it is only of late that due credit is given him. In 1520 he was ordained to the priesthood and devoted himself thenceforth entirely to literary work. The *magnum opus* of his literary activity is: "Fasciculus rerum expetendarum ac fugiendarum" (Cologne, 1535), a collection of sixty-six more or less weighty treatises of various authors on ecclesiastical and profane history, dogma and canon law, compiled to expose the noxious elements in the Church's organism, and prepare a way for a future council to remedy them. It has been wrongly claimed that this work, put on the index on account of its anticlerical tendency, was not from the pen of Gratius.
+
+PATRICIUS SCHLAGER

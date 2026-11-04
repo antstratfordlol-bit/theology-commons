@@ -1,0 +1,31 @@
+---
+title: "James Chadwick"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Edwin Hubert Burton"
+signed: "EDWIN BURTON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/James_Chadwick"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.james-chadwick} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Diocese of Chachapoyas"
+next: "Pierre Chaignon"
+entry-type: "article"
+characters: 1740
+words: 291
+links: 0
+images: 0
+---
+
+# James Chadwick {#cathen.james-chadwick}
+
+Second Bishop of Hexham and Newcastle, born at Drogheda, Ireland, 24 April, 1813; died at Newcastle, 14 May, 1882, and buried at Ushaw. He was the third son of a gentleman of an old Catholic Lancashire family, John Chadwick, who had settled in Ireland, and an Irish lady, Frances Dromgoole. He was educated at Ushaw College from May, 1825, until his ordination as priest on 17 December, 1836. He then was general prefect at the college for three years, after which he taught humanities until he was appointed professor of philosophy a post he occupied for five years. In 1849 he became Vice-president of the college and professor of dogmatic theology. After a few months his health broke down, and he found the change he needed among a little body of secular priests who devoted themselves to preaching missions and retreats. In 1856 their house at Wooler was burnt, and Father Chadwick returned once more to Ushaw as professor of philosophy. From 1859 to 1863 he was chaplain to Lord Stourton, but again returned to Ushaw as professor of pastoral theology. He was fulfilling these duties when he was elected bishop of the diocese in 1866; he was consecrated 28 Oct. in the college chapel by Archbishop Manning. For sixteen years he ruled the diocese and for one year during that time (1877) he also held the dignity of president of Ushaw, being the eighth in that office. A man of great personal dignity and charm, he is remembered for his meekness and sweetness of manner. His works include: an edition of Leuthner's "Coelum Christianum" (London, 1871); "St. Teresa's Own Words: Instructions on the Prayer of Recollection" (Newcastle, 1878); "Instructions How to Meditate" (published anonymously), and many pastoral letters.
+
+EDWIN BURTON

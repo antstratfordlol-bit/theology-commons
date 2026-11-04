@@ -1,0 +1,33 @@
+---
+title: "St. Burchard of Würzburg"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Johann Peter Kirsch"
+signed: "J.P. KIRSCH"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Burchard_of_Würzburg"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-burchard-of-wurzburg} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Burchard of Worms"
+next: "Hans Burckmair"
+entry-type: "article"
+characters: 2271
+words: 388
+links: 0
+images: 0
+---
+
+# St. Burchard of Würzburg {#cathen.st-burchard-of-wurzburg}
+
+First bishop of Würzburg, b. in England of Anglo-Saxon parents, date unknown; d. in Germany most probably in 754. After the death of his father and mother he left home to go as a missionary to Germany, being drawn to this life by the great reputation of his countryman, St. Boniface, to whom he offered himself as an assistant. As Boniface was at this time an archbishop it must have been after the year 732 that Burchard began missionary work on German soil. He soon showed himself a competent and zealous messenger of the Faith and was consecrated Bishop of the new See of Würzurg by St. Boniface when the latter erected the ecclesiastical hierarchy in the mission territory of Thuringia. The date is probably 741, for on 22 October, 741, Burchard and Witta of Buraburg took part as bishops in the consecration of St. Willibald as Bishop of Eichstatt. In a letter to St. Boniface, 1 April, 743, Pope Zachary confirmed the founding of the new diocese. But a year before this (April, 742) Burchard had been a member of the first German synod. He now devoted himself to spreading and confirming Christianity in the new bishopric. In the spring of 748 he went to Rome to make a report on the condition of the Church in Franconia and to submit various questions for decision. Burchard was held in high esteem by Pepin the Short. When the latter, in 749, appointed an embassy to lay before Pope Zachary the question who should be King of the Franks, he placed Burchard and Abbot Fulrad of St. Denis at its head. After his return from Rome Burchard was not able to continue his apostolic activity for any great space of time and died before St. Boniface. One of his successors, Hugo (984-990), had Burchard's remains dug up and solemnly buried on 14 October. This day has remained the feast-day of the saint.
+
+*Vita S. Burchardi* in *Mon. Germ. Hist.: Script.*, XV, 47-50 (unreliable account of ninth and tenth centuries); *Vita S. Burchardi*, in *Acta S. S.*, Oct., IV, 575 sqq. (account of twelfth century); NURNBERGER, *Aus der litterar. Hinterlassenschaft des hl. Bonifatius und des hl. Burchardus* (Neisse, 1888); ULRICH, *Der hl. Burchardus, erster Bischof von Würzburg* (Würzburg, 1877); HAUCK, *Kirchengesch.* (2nd ed., Leipzig, 1898-1900), I, II, passim.
+
+J.P. KIRSCH

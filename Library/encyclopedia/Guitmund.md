@@ -1,0 +1,33 @@
+---
+title: "Guitmund"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "Michael Ott"
+signed: "MICHAEL OTT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Guitmund"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.guitmund} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "House of Guise"
+next: "Vicariate Apostolic of Gulf of St. Lawrence"
+entry-type: "article"
+characters: 2898
+words: 470
+links: 0
+images: 0
+---
+
+# Guitmund {#cathen.guitmund}
+
+A Bishop of Aversa, a Benedictine monk, theologian, and opponent of Berengarius; born at an unknown place in Normandy during the first quarter of the eleventh century; died between 1090-95, at Aversa, near Naples. In his youth he entered the Benedictine monastery of La-Croix-St-Leufroy in the Diocese of Evreux, and about 1060 he was studying theology at the monastery of Bec, where he had Lanfranc as teacher and St. Anselm of Canterbury as fellow-student. In 1070 King William the Conqueror called him to England and, as an inducement to remain there, offered him a diocese. The humble monk, however, not only refused the offer, but fearlessly denounced the conquest of England by the Normans as an act of robbery ("Oratio ad Guillelmum I" in P. L., CXLIX, 1509). He then returned to Normandy and became a stanch defender of the Catholic doctrine of Transubstantiation against the heretical Berengarius of Tours. Some time between 1073-77 he wrote, at the instance of one of his fellow-monks by the name of Roger, his famous treatise on the Holy Eucharist, entitled "De corporis et sanguinis Jesu Christi veritate in Eucharistia". It is written in the form of a dialogue between himself and Roger and contains an exposition as well as a refutation of the doctrines of Berengarius concerning the Holy Eucharist. Guitmund ably defends Transubstantiation against Berengarius, but his notion of the manner of the Real Presence is obscure. Moreover, he does not well distinguish between substance and accident, and hence concludes that the corruptibility of the species is merely a deception of our senses. The work has often appeared in print. The first printed edition was brought out by Erasmus (Freiburg, 1530). Shortly after Guitmund had published his treatise against Berengarius, he obtained permission from his abbot, Odilo, to make a pilgrimage to Rome. Because the name Guitmund had become too well known to suit the humble monk, he exchanged it for that of *Christianus* and lived for some time in the obscurity of a Roman monastery. When Urban II, who had previously been a monk at Cluny, became pope, he appointed Guitmund Bishop of Aversa, near Naples, in 1088. A few historians hold that he afterwards became a cardinal, but there seems not to be sufficient evidence for this assumption. Besides the work mentioned above, Guitmund is the author of a short treatise on the Trinity and of an epistle to a certain Erfastus, which deals with the same subject. His works are published in "Bibl. Patr. Lugd.", XVIII, 440 sqq.; in Gallandi, "Bibl. veterum Patr.", XIV, 240 sqq., and Migne, "P. L.", CXLIX, 1427-1513.
+
+*Histoire littéraire de la France,* VIII, 553-573; WERNER, *Gerbert von Aurillac* (Vienna, 1881), 178-182; SCHEEBEN in *Kirchenlex,* s. v.; HURTER, *Nomenclator* (Innsbruck, 1903), I, 1053-4; SCHNITZER, *Berengar von Tours* (Stuttgart, 1892), 350 sqq.; 406 sqq.
+
+MICHAEL OTT

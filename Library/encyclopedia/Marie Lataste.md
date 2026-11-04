@@ -1,0 +1,35 @@
+---
+title: "Marie Lataste"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Alice Power"
+signed: "Alice Power"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Marie_Lataste"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.marie-lataste} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Orlandus de Lassus"
+next: "Flaminius Annibali de Latera"
+entry-type: "article"
+characters: 4793
+words: 823
+links: 0
+images: 0
+---
+
+# Marie Lataste {#cathen.marie-lataste}
+
+**Lataste**, Marie, b. at Mimbaste near Dax, France, 21 February, 1822; d. at Rennes, 10 May, 1847; was the youngest child of simple pious peasants. According to her own narrative, written under obedience, she was poor, lowly, country girl, knowing nothing but what her mother taught her; hence, in the natural order, all her learning consisted in being able to read, write, sew, and spin. Her knowledge in the supernatural order long embraced merely the principal truths of salvation. Little by little the light grew like a vast furnace on which wood is cast, and towards which a mighty wind blows from all sides. The Lord Jesus, the Light of the World, had been the light of her soul. He had brought her up as a mother does her child, with patience and perseverance; if she knew aught she owed it to Him, she had all from Him. A troublesome child, proud, ambitious, and self-contained, she was the constant subject of her mother's anxious prayer, and her first Communion, made in her twelfth year, was the turning point in her life. A strong impression of the Divine presence on the great day, and confirmation received soon after, strengthened her piety and virtue, which thenceforward never faltered. About a year after Marie saw at Mass, during the Elevation, a bright light which seemed to inflame her love for the Eucharistic Lord and to increase as that love increased. Soon, to prepare her for greater favours, she was cast into the crucible of severe interior trials and temptations, whence docility to her director brought her forth victorious. He allowed her to make a yearly vow of virginity, and the Blessed Sacrament became the central thought of her life. According to her own narrative, towards the end of 1839, when she was seventeen, she saw Christ on the altar. On the Epiphany, 1840, this was repeated, and for three whole years every time she assisted at Mass this grace was granted her. Almost daily she received from the lips of Jesus instructions forming a complete spiritual and doctrinal education. He explained in simple language the principal truths of faith; sometimes he showed her symbolical visions, or taught her in parables. He sent His Mother and angels to her; at times He reproached and humbled her. Her progress in virtue was rapid, her defects disappeared, and she exercised a happy influence on those who approached her. She did not suspect at first thar hers was a singular privilege, yet she never mentioned it except to her confessor.
+
+In 1840 M. l'Abbé Pierre Darbins succeeded M. Farbos as curé of Mimbaste. By Divine command Marie revealed her soul to him. Much surprised, he tested his penitent by trying her obedience and humility; he found her wholly submissive. Then he asked the help of the director of the seminary of Dax. They agreed to order her to put in writing everything supernatural she had heard and seen in the past, and all she might hear and see in the future. In due time this was accomplished; but the true text has been so much interpolated by the editor that the "Works of Marie Lataste" are not considered authentic. The Divine Master had made known to her His will, that she should embrace religious life, and in the Society of the Sacred heart, recently founded and wholly unknown to her and her director. After many objections and delays, she obtained permission and left for Paris, 21 April, 1844, alone, under the guidance of Divine Providence. She was received at the Hôtel Biron by Madame de Boisbaudry, who had her examined by an experienced spiritual guide. She was admitted as laysister on 15 May. With great joy she entered upon this new life. Humility, charity, odedience, and fidelity to common life were her chief characteritics. Her sisters' testmony was : Sister Lataste does everything like every one else, yet no one does anything like her." Still a novice she was sent to Rennes, in the hope that change of air would improve her health. An active life succeeded the quiet of the noviceship; she was infirmarian, refectorian, portress, but her humble virtues shown the more brilliantly; children, strangers, as well as her superiors and her sisters, felt her hidden sanctity. Marie's vows had been postponed in the hope of an improvement in her health. But on Sunday, 9 May, she became suddenly so very ill that the end seemed near. She was allowed to pronounce her vows, just before receiving the last sacraments. Then the pent-up ardours of her soul burst forth in ecstatic joy until her death on 10 May, 1847, at the age of twenty-five. Her memory lives in benediction. Her remains have been secured from desecration and now repose at Roehampton near London.
+
+*Vie de Marie Lataste par une religieuse du S. C.* (Paris. 1866); Darbins, *La Vie et les Œuvres de Marie Lataste* (Paris, 1866).
+
+Alice Power.

@@ -1,0 +1,35 @@
+---
+title: "Golden Calf"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "James F. Driscoll"
+signed: "James F. Driscoll"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Golden_Calf"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.golden-calf} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Gog and Magog"
+next: "Golden Rose"
+entry-type: "article"
+characters: 2579
+words: 445
+links: 0
+images: 0
+---
+
+# Golden Calf {#cathen.golden-calf}
+
+An object of worship among the Hebrews, mention of which occurs principally in Ex., xxxii, where the story of the molten calf of Aaron is narrated, and in III Kings, xii (cf. II Par., xi), in connection with the policy of Jeroboam after the schism of the ten tribes. Various reasons make it probable that the rendering "calf" is not to be taken in a strict sense, for the Hebrew term has a wider signification, and it is likely that in the present case it stands for a young bullock just arrived at maturity.
+
+Waiving all critical discussion as to the sources embodied in Ex., xxxii, the main features of the present narrative are as follows: Becoming impatient at Moses' long delay on the mount, the people ask Aaron to make them a god or gods to go before them. He yields to their solicitations, and, making use of the golden earrings of the women and children, he causes a "molten calf" or bull to be fashioned. Shortly after its construction Moses returns, and, moved to wrath and indignation, destroys the idol, reducing it to dust and throwing it into the brook from which the Israelites are made to drink. After the schism of the ten tribes, Jeroboam, fearing that the regular pilgrimages of the people of the northern kingdom to Jerusalem would endanger their political allegiance to himself, resorted to the natural expedient of furnishing them with a substitute for the sanctuary of the Temple (III Kings, xii); and he set up two golden calves, one in Bethel and the other in Dan. As to their construction information is lacking, but it is likely that they were life-sized bull figures constructed after the fashion of the one mentioned above. It seems also probable that they were intended as symbols of Yahweh, for, thus considered, they would be more effective in attracting the pious Israelites who were accustomed to go to Jerusalem.
+
+Most writers have accepted the view of Philo and the early Fathers, who regarded the worship of the golden calves as borrowed from the Egyptians, and in favour of this opinion is the fact that both Aaron and Jeroboam had sojourned in Egypt shortly before constructing their respective idols; this view, however, has its difficulties, among which is the improbability of an Egyptian deity being set up as the god "who brought Israel out of the land of Egypt". Hence, some recent scholars are inclined to seek the origin of the Hebrew bull worship in the conditions and surroundings of the Israelites as an agricultural people, for whom the bull was naturally an appropriate symbol of strength and vital energy.
+
+James F. Driscoll.

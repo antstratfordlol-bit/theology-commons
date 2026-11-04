@@ -1,0 +1,33 @@
+---
+title: "Emmanuel-Henri-Dieudonné Domenech"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "5"
+pages: "unknown"
+author: "James Mooney"
+signed: "JAMES MOONEY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Emmanuel-Henri-Dieudonné_Domenech"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.emmanuel-henri-dieudonne-domenech} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Dome"
+next: "Domenichino"
+entry-type: "article"
+characters: 2334
+words: 368
+links: 0
+images: 0
+---
+
+# Emmanuel-Henri-Dieudonné Domenech {#cathen.emmanuel-henri-dieudonne-domenech}
+
+Abbé, missionary and author, b. at Lyons, France, 4 November, 1826; d. in France, June, 1886. In the spring of 1846, before completing his seminary studies and when not yet twenty years of age, he left France in response to an urgent appeal for missionaries to help develop the Church in the wilds of Texas, then rapidly filling up with American and European immigration. He went first to St. Louis, where he spent two years completing his theological course, studying English and German, and gathering knowledge of missionary requirements. In May, 1848, he was assigned to duty at the new German settlement of Castroville in Texas, from which he was transferred later to Brownsville. The war with Mexico was just concluded; raiding bands of Mexicans and rangers were ravaging on both sides of the Rio Grande, while outlaws from the border States and almost equally lawless discharged soldiers filled the new towns, and hostile Indians hovered constantly in the background. A cholera epidemic added its horrors. Nevertheless the young priest went bravely to work with such energy that he soon became an efficient power for good throughout all Southern Texas. In 1850 he visited Europe and was received by the pope. Returning to Texas, he continued in the mission field two years longer, when he returned to France with health broken and was appointed titulary canon of Montpellier. When the French troops were dispatched to Mexico in 1861 he was selected to accompany the expedition as almoner to the army and chaplain to the Emperor Maximilian. After the return to France he devoted his remaining years to European travel, study, and writing, and the exercise of his ecclesiastical functions. In 1882-3 he again visited America.
+
+Among his numerous works dealing with travel, history, and theology, may be noted: "Journal d'un missionnaire au Texas et au Mexique" (Paris, 1857); "Voyage dans les solitudes américaines" (Paris, 1858); "Histoire du jansénisme"; "Histoire du Mexique" (Paris, 1868); "Souvenirs d'outre-mer" (Paris, 1884). His principal works have appeared also in English translation. In regard to his much-controverted "Manuscrit pictographique americain" (Paris, 1860), an examination of the supposed Indian pictographs leaves no doubt that in this case the unsuspecting missionary was grossly deceived.
+
+JAMES MOONEY

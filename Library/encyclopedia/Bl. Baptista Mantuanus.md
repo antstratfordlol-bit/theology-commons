@@ -1,0 +1,35 @@
+---
+title: "Bl. Baptista Mantuanus"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Benedict Zimmerman"
+signed: "Benedict Zimmerman"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Bl._Baptista_Mantuanus"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.bl-baptista-mantuanus} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Baptismal Vows"
+next: "Baptistery"
+entry-type: "article"
+characters: 2552
+words: 416
+links: 0
+images: 0
+---
+
+# Bl. Baptista Mantuanus {#cathen.bl-baptista-mantuanus}
+
+(Or SPAGNOLI). Carmelite and Renaissance poet, born at Mantua, 17 April, 1447, where he also died, 22 March, 1516. The eldest son of Peter Spagnoli, a Spanish nobleman at the court of Mantua, Baptista studied grammar under Gregorio Tifernate, and philosophy at Pavia under Polo Bagelardi. The bad example of his schoolfellows led him into irregularities. He fell into the hands of usurers and, returning home, was turned out of his father's house owing to some calumny. He went to Venice and later on to Ferrara where he carried out his resolution of entering the Carmelite convent which belonged to the then flourishing Reform of Mantua. In a letter addressed to his father (1 April, 1464), and in his first publication, "De Vitâ beatâ", he gave an account of his previous life and of the motives which led him to the cloister.
+
+Baptista pursued his studies at Ferrara and Bologna where he was ordained priest, received his degrees, and delivered lectures in philosophy and divinity. The Duke of Mantua entrusted him with the education of his children, and the connection with the ducal family resulted in a number of poetical works, the "Trophaeum Gonzagae" and the "Fortuna Gonzagae", on the various misfortunes of the young duke; "Contra amorem" containing good advice to Sigismondo Gonzaga, and other poems celebrating the latter's elevation to dignities, even to the Roman purple. Six times (each for two years with four years interval) Baptista was nominated vicar general of his congregation, and, in 1513, general of the whole order through the exertions of his former disciples, the duke and the cardinal. The chapter, however, resenting the intervention, restricted his powers. He held the office until his death, but, broken in health and energy, he exercised but little influence beyond consolidating the congregation of Albi, a French imitation of the Mantuan Reform. Baptista Mantuanus was beatified in 1890, his feast being assigned to 23 March.
+
+Chiefly known as one of the most prolific Renaissance poets he excelled in almost every form of Latin verse; Virgil, however, was his favourite model. A monument represents the two poets of Mantua with Poetry hesitating to whom she is to offer the crown: "*Cui dabo?*" Baptista exercised too little self restraint, however, to deserve it. He was bitterly attacked concerning the good taste of his earlier works printed without his knowledge, and also, but groundlessly, with reference to the legitimacy of his birth. To the end he made too free use of pagan mythology.
+
+Benedict Zimmerman.

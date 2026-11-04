@@ -1,0 +1,31 @@
+---
+title: "Raphael Badius"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "John Raymund Volz"
+signed: "John R. Volz"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Raphael_Badius"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.raphael-badius} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Stephen Theodore Badin"
+next: "John Jacob Baegert"
+entry-type: "article"
+characters: 858
+words: 134
+links: 0
+images: 0
+---
+
+# Raphael Badius {#cathen.raphael-badius}
+
+A Florentine Dominican of the seventeenth century. He was deeply versed in Tuscan and Florentine antiquities, and his researches made him particularly conversant with quaint and curious matters of history and hagiography. He rendered valuable assistance to the Jesuit Fathers, Henschen and Papebroch, in their labours on the "Acta Santorum", as they themselves acknowledge (T. II, Junii, ad diem X, de Joanne Dominici, p. 395, n. 6). As Chronicler of the Convent of Santa Maria Novella, Florence, he was also known to the historian and bibliographer Cinellus, who makes frequent and grateful mention of the learned Dominican's helpful knowledge of the literature and writers of Florence (Bibb. Volante, Scanzia VI, 88; XII, 106). In 1681, he was Dean of the University of Florence. Quétif-Echard, Scriptores Ord. Proed. (Paris, 1721), II, 741)
+
+John R. Volz.

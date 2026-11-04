@@ -1,0 +1,188 @@
+src_anchor	cycle	slot	label	target_first	target_last	numbering	reason
+misal.hebdomada-i-adventus-sabbato	-	psalm	Ps 147(146-147)	Ps.147	Ps.147	unverified	numbering unverified: the printed psalm is closest to Ps 146 (0.528), next Ps 33 (0.5); Ps 147 scores 0.222
+misal.in-baptismate-domini	A	psalm	Ps 29(28)	Ps.29	Ps.29	unverified	numbering unverified: no responsorial psalm text found under this day in the epub
+misal.hebdomada-i-in-quadragesima-feria-ii	-	psalm	Ps 19(18)	Ps.19	Ps.19	unverified	numbering unverified: the printed psalm is closest to Ps 19 (0.528), next Ps 119 (0.5); Ps 19 scores 0.528
+misal.hebdomada-i-in-quadragesima-feria-v	-	first	Esth 4:17m, 17o-17q, 17x-17z	Esth.4.17	Esth.4.17	unverified	numbering unverified: english: the text does not align with these verses
+misal.hebdomada-iii-in-quadragesima-feria-ii	-	psalm	Ps 42(41)	Ps.42	Ps.42	unverified	numbering unverified: the printed psalm is closest to Ps 51 (0.333), next Ps 44 (0.333); Ps 42 scores 0.242
+misal.dominica-in-palmis-de-passione-domini	A	gospel	Matt 26:14-27:66	Matt.26.14	Matt.27.66	unverified	numbering unverified: english: 16 words before the first aligned verse
+misal.dominica-in-palmis-de-passione-domini	B	gospel	Mark 14:1-15:47	Mark.14.1	Mark.15.47	unverified	numbering unverified: english: 15 words before the first aligned verse
+misal.dominica-in-palmis-de-passione-domini	C	gospel	Luke 22:14-23:56	Luke.22.14	Luke.23.56	unverified	numbering unverified: english: 15 words before the first aligned verse
+misal.feria-v-in-cena-domini-ad-missam-vespertinam	-	gospel	John 13:1-15	John.13.1	John.13.15	unverified	numbering unverified: english: 27 words after the last aligned verse
+misal.dominica-paschae-in-resurrectione-domini-ad-missam-in-die	-	gospel	John 20:1-9	John.20.1	John.20.9	unverified	numbering unverified: no text under the citation
+misal.hebdomada-ii-paschae-feria-ii	-	first	Acts 4:23-31	Acts.4.23	Acts.4.31	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.hebdomada-ii-paschae-feria-iii	-	psalm	Ps 93(92)	Ps.93	Ps.93	unverified	numbering unverified: the printed psalm is closest to Ps 93 (0.37), next Ps 89 (0.259); Ps 93 scores 0.37
+misal.hebdomada-ii-paschae-feria-v	-	first	Acts 5:27-33	Acts.5.27	Acts.5.33	unverified	numbering unverified: english: the text ends in Acts.5.32, not Acts.5.33
+misal.hebdomada-iii-paschae-feria-ii	-	gospel	John 6:22-29	John.6.22	John.6.29	unverified	numbering unverified: english: 9 words before the first aligned verse
+misal.dominica-iv-paschae	C	psalm	Ps 100(99)	Ps.100	Ps.100	unverified	numbering unverified: the printed psalm is closest to Ps 100 (0.407), next Ps 51 (0.407); Ps 100 scores 0.407
+misal.hebdomada-iv-paschae-feria-ii	-	psalm	Ps 42(41)	Ps.42	Ps.42	unverified	numbering unverified: the printed psalm is closest to Ps 51 (0.324), next Ps 44 (0.324); Ps 42 scores 0.235
+misal.hebdomada-v-paschae-feria-vi	-	psalm	Ps 57(56)	Ps.57	Ps.57	unverified	numbering unverified: the printed psalm is closest to Ps 108 (0.704), next Ps 57 (0.667); Ps 57 scores 0.667
+misal.hebdomada-v-paschae-sabbato	-	psalm	Ps 100(99)	Ps.100	Ps.100	unverified	numbering unverified: the printed psalm is closest to Ps 100 (0.423), next Ps 51 (0.423); Ps 100 scores 0.423
+misal.hebdomada-vi-paschae-feria-v	-	psalm	Ps 98(97)	Ps.98	Ps.98	unverified	numbering unverified: no responsorial psalm text found under this day in the epub
+misal.dominica-vii-paschae	B	first	Acts 1:15-17, 20a, 20c-26	Acts.1.15	Acts.1.17	unverified	numbering unverified: english: the segments overlap
+misal.dominica-vii-paschae	B	first	Acts 1:15-17, 20a, 20c-26	Acts.1.20	Acts.1.20	unverified	numbering unverified: english: the segments overlap
+misal.dominica-vii-paschae	B	first	Acts 1:15-17, 20a, 20c-26	Acts.1.20	Acts.1.26	unverified	numbering unverified: english: the segments overlap
+misal.dominica-vii-paschae	C	gospel	John 17:20-26	John.17.20	John.17.26	unverified	numbering unverified: english: 10 words before the first aligned verse
+misal.hebdomada-vii-paschae-feria-v	-	gospel	John 17:20-26	John.17.20	John.17.26	unverified	numbering unverified: english: 10 words before the first aligned verse
+misal.domini-nostri-iesu-christi-summi-et-aeterni-sacerdotis	B	gospel	Mark 14:22-25	Mark.14.22	Mark.14.25	unverified	numbering unverified: english: 9 words before the first aligned verse
+misal.dominica-iii-per-annum	C	psalm	Ps 19(18)	Ps.19	Ps.19	unverified	numbering unverified: the printed psalm is closest to Ps 19 (0.514), next Ps 119 (0.486); Ps 19 scores 0.514
+misal.dominica-vi-per-annum	A	gospel	Matt 5:17-37	Matt.5.17	Matt.5.37	unverified	numbering unverified: the citation is printed nowhere in the epub
+misal.dominica-ix-per-annum	B	second	2Cor 4:6-11	2Cor.4.6	2Cor.4.11	unverified	numbering unverified: english: only 0.38 of the text aligns
+misal.dominica-xi-per-annum	A	psalm	Ps 100(99)	Ps.100	Ps.100	unverified	numbering unverified: the printed psalm is closest to Ps 100 (0.423), next Ps 51 (0.423); Ps 100 scores 0.423
+misal.dominica-xviii-per-annum	C	psalm	Ps 90(89)	Ps.90	Ps.90	unverified	numbering unverified: the printed psalm is closest to Ps 95 (0.571), next Ps 81 (0.333); Ps 90 scores 0.119
+misal.dominica-xxviii-per-annum	A	gospel	Matt 22:1-14	Matt.22.1	Matt.22.14	unverified	numbering unverified: english: 10 words before the first aligned verse
+misal.dominica-xxviii-per-annum	B	second	Heb 4:12-13	Heb.4.12	Heb.4.13	unverified	numbering unverified: english: 8 words after the last aligned verse
+misal.dominica-xxx-per-annum	C	first	Sir 35:15b-17, 20-22b	Sir.35.15	Sir.35.17	unverified	numbering unverified: english: an endpoint is not a verse of the RSV-2CE, or the range runs backwards
+misal.dominica-xxx-per-annum	C	first	Sir 35:15b-17, 20-22b	Sir.35.20	Sir.35.22	unverified	numbering unverified: english: an endpoint is not a verse of the RSV-2CE, or the range runs backwards
+misal.dominica-xxxi-per-annum	A	psalm	Ps 131(130)	Ps.131	Ps.131	unverified	numbering unverified: the printed psalm is closest to Ps 131 (0.407), next Ps 22 (0.333); Ps 131 scores 0.407
+misal.domini-nostri-iesu-christi-universorum-regis	B	psalm	Ps 93(92)	Ps.93	Ps.93	unverified	numbering unverified: the printed psalm is closest to Ps 93 (0.385), next Ps 89 (0.269); Ps 93 scores 0.385
+misal.die-2-ianuarii-ss-basilii-magni-et-gregorii-nazianzeni	-	psalm	Ps 40(39)	Ps.40	Ps.40	unverified	numbering unverified: the printed psalm is closest to Ps 23 (0.569), next Ps 69 (0.259); Ps 40 scores 0.103
+misal.die-17-ianuarii-s-antonii	-	gospel	Matt 19:16-21	Matt.19.16	Matt.19.21	unverified	numbering unverified: english: 51 words after the last aligned verse
+misal.die-24-ianuarii-s-francisci-de-sales	-	psalm	Ps 37(36)	Ps.37	Ps.37	unverified	numbering unverified: the printed psalm is closest to Ps 37 (0.41), next Ps 119 (0.333); Ps 37 scores 0.41
+misal.die-25-ianuarii-in-conversione-s-pauli	-	psalm	Ps 117(116)	Ps.117	Ps.117	unverified	numbering unverified: no responsorial psalm text found under this day in the epub
+misal.die-25-martii-in-annuntiatione-domini	-	first	Isa 7:10-14; 8:10	Isa.7.10	Isa.7.14	unverified	numbering unverified: english: Isa.8.10 barely in the text (0.111)
+misal.die-25-martii-in-annuntiatione-domini	-	first	Isa 7:10-14; 8:10	Isa.8.10	Isa.8.10	unverified	numbering unverified: english: Isa.8.10 barely in the text (0.111)
+misal.die-24-aprilis-s-fidelis-de-sigmaringen	-	gospel	John 17:20-26	John.17.20	John.17.26	unverified	numbering unverified: english: 10 words before the first aligned verse
+misal.die-2-maii-s-athanasii	-	psalm	Ps 37(36)	Ps.37	Ps.37	unverified	numbering unverified: the printed psalm is closest to Ps 37 (0.41), next Ps 119 (0.333); Ps 37 scores 0.41
+misal.die-12-maii-b-alvari-del-portillo-operis-dei	-	acclamation	John 10:14	John.10.14	John.10.14	unverified	numbering unverified: the citation is printed nowhere in the epub
+misal.die-26-maii-s-philippi-neri	-	gospel	John 17:20-26	John.17.20	John.17.26	unverified	numbering unverified: english: 10 words before the first aligned verse
+misal.die-27-maii-s-augustini-cantuariensis	-	first	1Thess 2:1-8	1Thess.2.1	1Thess.2.8	unverified	numbering unverified: english: the text begins in 1Thess.2.2, not 1Thess.2.1
+misal.die-28-iunii-s-irenaei	-	gospel	John 17:20-26	John.17.20	John.17.26	unverified	numbering unverified: english: 10 words before the first aligned verse
+misal.die-28-iunii-s-irenaei	-	psalm	Ps 37(36)	Ps.37	Ps.37	unverified	numbering unverified: the printed psalm is closest to Ps 37 (0.41), next Ps 119 (0.333); Ps 37 scores 0.41
+misal.die-14-augusti-s-maximiliani-mariae-kolbe	-	gospel	John 15:12-16	John.15.12	John.15.16	unverified	numbering unverified: english: 7 words after the last aligned verse
+misal.die-27-augusti-s-monicae	-	psalm	Ps 131(130)	Ps.131	Ps.131	unverified	numbering unverified: the printed psalm is closest to Ps 131 (0.407), next Ps 22 (0.333); Ps 131 scores 0.407
+misal.die-29-augusti-in-passione-s-ioannis-baptistae	-	reading	2Macc 7:1, 20-31	2Macc.7.1	2Macc.7.1	unverified	numbering unverified: english: the text ends in 2Macc.7.29, not 2Macc.7.31
+misal.die-29-augusti-in-passione-s-ioannis-baptistae	-	reading	2Macc 7:1, 20-31	2Macc.7.20	2Macc.7.31	unverified	numbering unverified: english: the text ends in 2Macc.7.29, not 2Macc.7.31
+misal.die-8-septembris-in-nativitate-beatae-mariae-virginis	-	psalm	Ps 13(12)	Ps.13	Ps.13	unverified	numbering unverified: no responsorial psalm text found under this day in the epub
+misal.die-12-septembris-sanctissimi-nominis-mariae	-	reading	Eph 1:3-6, 11-12	Eph.1.3	Eph.1.6	unverified	numbering unverified: english: only 0.41 of the text aligns; Eph.1.6 barely in the text (0.0); Eph.1.11 barely in the text (0.0)
+misal.die-12-septembris-sanctissimi-nominis-mariae	-	reading	Eph 1:3-6, 11-12	Eph.1.11	Eph.1.12	unverified	numbering unverified: english: only 0.41 of the text aligns; Eph.1.6 barely in the text (0.0); Eph.1.11 barely in the text (0.0)
+misal.die-29-septembris-ss-michaelis-gabrielis-et-raphaelis	-	psalm	Ps 138(137)	Ps.138	Ps.138	unverified	numbering unverified: no responsorial psalm text found under this day in the epub
+misal.die-15-octobris-s-teresiae-a-iesu	-	psalm	Ps 19(18)	Ps.19	Ps.19	unverified	numbering unverified: no responsorial psalm text found under this day in the epub
+misal.die-2-novembris-in-commemoratione-omnium-fidelium-defunctorum-1	-	reading	2Macc 12:43-46	2Macc.12.43	2Macc.12.46	unverified	numbering unverified: english: an endpoint is not a verse of the RSV-2CE, or the range runs backwards
+misal.die-2-novembris-in-commemoratione-omnium-fidelium-defunctorum-1	-	psalm	Ps 25(24)	Ps.25	Ps.25	unverified	numbering unverified: the printed psalm is closest to Ps 63 (0.667), next Ps 17 (0.378); Ps 25 scores 0.222
+misal.die-2-novembris-in-commemoratione-omnium-fidelium-defunctorum-2	-	reading	2Macc 12:43-46	2Macc.12.43	2Macc.12.46	unverified	numbering unverified: english: an endpoint is not a verse of the RSV-2CE, or the range runs backwards
+misal.die-2-novembris-in-commemoratione-omnium-fidelium-defunctorum-2	-	psalm	Ps 25(24)	Ps.25	Ps.25	unverified	numbering unverified: the printed psalm is closest to Ps 63 (0.667), next Ps 17 (0.378); Ps 25 scores 0.222
+misal.die-2-novembris-in-commemoratione-omnium-fidelium-defunctorum-3	-	reading	2Macc 12:43-46	2Macc.12.43	2Macc.12.46	unverified	numbering unverified: english: an endpoint is not a verse of the RSV-2CE, or the range runs backwards
+misal.die-2-novembris-in-commemoratione-omnium-fidelium-defunctorum-3	-	psalm	Ps 25(24)	Ps.25	Ps.25	unverified	numbering unverified: the printed psalm is closest to Ps 63 (0.667), next Ps 17 (0.378); Ps 25 scores 0.222
+misal.die-3-novembris-s-martini-de-porres	-	first	Phil 4:4-9	Phil.4.4	Phil.4.9	unverified	numbering unverified: english: the text begins in Phil.4.7, not Phil.4.4; 25 words before the first aligned verse
+misal.die-12-novembris-s-iosaphat	-	gospel	John 17:20-26	John.17.20	John.17.26	unverified	numbering unverified: english: 10 words before the first aligned verse
+misal.die-14-decembris-s-ioannis-a-cruce	-	psalm	Ps 37(36)	Ps.37	Ps.37	unverified	numbering unverified: the printed psalm is closest to Ps 37 (0.41), next Ps 119 (0.333); Ps 37 scores 0.41
+misal.commune-beatae-mariae-virginis-i-1	-	gospel	John 19:25-27	John.19.25	John.19.27	unverified	numbering unverified: english: 8 words after the last aligned verse
+misal.commune-beatae-mariae-virginis-i-2	-	gospel	John 19:25-27	John.19.25	John.19.27	unverified	numbering unverified: english: 8 words after the last aligned verse
+misal.commune-beatae-mariae-virginis-i-3	-	gospel	John 19:25-27	John.19.25	John.19.27	unverified	numbering unverified: english: 8 words after the last aligned verse
+misal.commune-beatae-mariae-virginis-i-4	-	gospel	John 19:25-27	John.19.25	John.19.27	unverified	numbering unverified: english: 8 words after the last aligned verse
+misal.commune-beatae-mariae-virginis-i-5	-	gospel	John 19:25-27	John.19.25	John.19.27	unverified	numbering unverified: english: 8 words after the last aligned verse
+misal.commune-beatae-mariae-virginis-i-6	-	gospel	John 19:25-27	John.19.25	John.19.27	unverified	numbering unverified: english: 8 words after the last aligned verse
+misal.commune-beatae-mariae-virginis-i-7	-	gospel	John 19:25-27	John.19.25	John.19.27	unverified	numbering unverified: english: 8 words after the last aligned verse
+misal.commune-beatae-mariae-virginis-i-8	-	gospel	John 19:25-27	John.19.25	John.19.27	unverified	numbering unverified: english: 8 words after the last aligned verse
+misal.commune-beatae-mariae-virginis-iv	-	gospel	John 19:25-27	John.19.25	John.19.27	unverified	numbering unverified: english: 8 words after the last aligned verse
+misal.commune-martyrum-i-a-1	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-a-1	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-a-1	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-i-a-2	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-a-2	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-a-2	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-i-a-3	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-a-3	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-a-3	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-i-a-4	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-a-4	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-a-4	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-i-a-5	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-a-5	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-a-5	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-i-b-1	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-b-1	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-b-1	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-i-b-2	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-b-2	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-i-b-2	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-ii-a-1	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-ii-a-1	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-ii-a-1	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-ii-a-2	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-ii-a-2	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-ii-a-2	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-ii-b	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-ii-b	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-ii-b	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-iii-b	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-iii-b	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-iii-b	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-iii-a	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-iii-a	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-iii-a	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-iv	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-iv	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-iv	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-martyrum-v	-	second	Jas 1:2-4.12	Jas.1.2	Jas.1.4	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-v	-	second	Jas 1:2-4.12	Jas.1.12	Jas.1.12	unverified	numbering unverified: english: the text begins in Jas.1.12, not Jas.1.2; 36 words before the first aligned verse; only 0.16 of the text aligns; Jas.1.4 barely in the text (0.0)
+misal.commune-martyrum-v	-	gospel	Matt 10:28-33	Matt.10.28	Matt.10.33	unverified	numbering unverified: english: only 0.43 of the text aligns
+misal.commune-pastorum-i-1	-	second	2Cor 5:14-20	2Cor.5.14	2Cor.5.20	unverified	numbering unverified: english: only 0.41 of the text aligns
+misal.commune-pastorum-i-2	-	second	2Cor 5:14-20	2Cor.5.14	2Cor.5.20	unverified	numbering unverified: english: only 0.41 of the text aligns
+misal.commune-pastorum-ii-1	-	second	2Cor 5:14-20	2Cor.5.14	2Cor.5.20	unverified	numbering unverified: english: only 0.41 of the text aligns
+misal.commune-pastorum-ii-2	-	second	2Cor 5:14-20	2Cor.5.14	2Cor.5.20	unverified	numbering unverified: english: only 0.41 of the text aligns
+misal.commune-pastorum-iii-a	-	second	2Cor 5:14-20	2Cor.5.14	2Cor.5.20	unverified	numbering unverified: english: only 0.41 of the text aligns
+misal.commune-pastorum-iii-b-1	-	second	2Cor 5:14-20	2Cor.5.14	2Cor.5.20	unverified	numbering unverified: english: only 0.41 of the text aligns
+misal.commune-pastorum-iii-b-2	-	second	2Cor 5:14-20	2Cor.5.14	2Cor.5.20	unverified	numbering unverified: english: only 0.41 of the text aligns
+misal.commune-pastorum-iv-a	-	second	2Cor 5:14-20	2Cor.5.14	2Cor.5.20	unverified	numbering unverified: english: only 0.41 of the text aligns
+misal.commune-pastorum-v-1	-	second	2Cor 5:14-20	2Cor.5.14	2Cor.5.20	unverified	numbering unverified: english: only 0.41 of the text aligns
+misal.commune-pastorum-v-2	-	second	2Cor 5:14-20	2Cor.5.14	2Cor.5.20	unverified	numbering unverified: english: only 0.41 of the text aligns
+misal.commune-pastorum-v-3	-	second	2Cor 5:14-20	2Cor.5.14	2Cor.5.20	unverified	numbering unverified: english: only 0.41 of the text aligns
+misal.commune-doctorum-ecclesiae-1	-	second	1Cor 2:1-10	1Cor.2.1	1Cor.2.10	unverified	numbering unverified: english: the text begins in 1Cor.2.3, not 1Cor.2.1; 29 words before the first aligned verse; only 0.34 of the text aligns
+misal.commune-doctorum-ecclesiae-1	-	gospel	Matt 23:8-12	Matt.23.8	Matt.23.12	unverified	numbering unverified: english: only 0.49 of the text aligns
+misal.commune-doctorum-ecclesiae-2	-	second	1Cor 2:1-10	1Cor.2.1	1Cor.2.10	unverified	numbering unverified: english: the text begins in 1Cor.2.3, not 1Cor.2.1; 29 words before the first aligned verse; only 0.34 of the text aligns
+misal.commune-doctorum-ecclesiae-2	-	gospel	Matt 23:8-12	Matt.23.8	Matt.23.12	unverified	numbering unverified: english: only 0.49 of the text aligns
+misal.commune-virginum-i	-	first	Hos 2:16.17.21-22	Hos.2.16	Hos.2.16	unverified	numbering unverified: english: the text does not align with these verses | hebrew: the text ends in Hos.2.15, not Hos.2.20; 17 words after the last aligned verse; only 0.36 of the text aligns
+misal.commune-virginum-i	-	first	Hos 2:16.17.21-22	Hos.2.17	Hos.2.17	unverified	numbering unverified: english: the text does not align with these verses | hebrew: the text ends in Hos.2.15, not Hos.2.20; 17 words after the last aligned verse; only 0.36 of the text aligns
+misal.commune-virginum-i	-	first	Hos 2:16.17.21-22	Hos.2.21	Hos.2.22	unverified	numbering unverified: english: the text does not align with these verses | hebrew: the text ends in Hos.2.15, not Hos.2.20; 17 words after the last aligned verse; only 0.36 of the text aligns
+misal.commune-virginum-i	-	second	1Cor 7:25-35	1Cor.7.25	1Cor.7.35	unverified	numbering unverified: english: 14 words after the last aligned verse; only 0.31 of the text aligns
+misal.commune-virginum-i	-	gospel	Matt 19:3-12	Matt.19.3	Matt.19.12	unverified	numbering unverified: english: 10 words before the first aligned verse
+misal.commune-virginum-ii-1	-	first	Hos 2:16.17.21-22	Hos.2.16	Hos.2.16	unverified	numbering unverified: english: the text does not align with these verses | hebrew: the text ends in Hos.2.15, not Hos.2.20; 17 words after the last aligned verse; only 0.36 of the text aligns
+misal.commune-virginum-ii-1	-	first	Hos 2:16.17.21-22	Hos.2.17	Hos.2.17	unverified	numbering unverified: english: the text does not align with these verses | hebrew: the text ends in Hos.2.15, not Hos.2.20; 17 words after the last aligned verse; only 0.36 of the text aligns
+misal.commune-virginum-ii-1	-	first	Hos 2:16.17.21-22	Hos.2.21	Hos.2.22	unverified	numbering unverified: english: the text does not align with these verses | hebrew: the text ends in Hos.2.15, not Hos.2.20; 17 words after the last aligned verse; only 0.36 of the text aligns
+misal.commune-virginum-ii-1	-	second	1Cor 7:25-35	1Cor.7.25	1Cor.7.35	unverified	numbering unverified: english: 14 words after the last aligned verse; only 0.31 of the text aligns
+misal.commune-virginum-ii-1	-	gospel	Matt 19:3-12	Matt.19.3	Matt.19.12	unverified	numbering unverified: english: 10 words before the first aligned verse
+misal.commune-virginum-ii-2	-	first	Hos 2:16.17.21-22	Hos.2.16	Hos.2.16	unverified	numbering unverified: english: the text does not align with these verses | hebrew: the text ends in Hos.2.15, not Hos.2.20; 17 words after the last aligned verse; only 0.36 of the text aligns
+misal.commune-virginum-ii-2	-	first	Hos 2:16.17.21-22	Hos.2.17	Hos.2.17	unverified	numbering unverified: english: the text does not align with these verses | hebrew: the text ends in Hos.2.15, not Hos.2.20; 17 words after the last aligned verse; only 0.36 of the text aligns
+misal.commune-virginum-ii-2	-	first	Hos 2:16.17.21-22	Hos.2.21	Hos.2.22	unverified	numbering unverified: english: the text does not align with these verses | hebrew: the text ends in Hos.2.15, not Hos.2.20; 17 words after the last aligned verse; only 0.36 of the text aligns
+misal.commune-virginum-ii-2	-	second	1Cor 7:25-35	1Cor.7.25	1Cor.7.35	unverified	numbering unverified: english: 14 words after the last aligned verse; only 0.31 of the text aligns
+misal.commune-virginum-ii-2	-	gospel	Matt 19:3-12	Matt.19.3	Matt.19.12	unverified	numbering unverified: english: 10 words before the first aligned verse
+misal.commune-virginum-ii-3	-	first	Hos 2:16.17.21-22	Hos.2.16	Hos.2.16	unverified	numbering unverified: english: the text does not align with these verses | hebrew: the text ends in Hos.2.15, not Hos.2.20; 17 words after the last aligned verse; only 0.36 of the text aligns
+misal.commune-virginum-ii-3	-	first	Hos 2:16.17.21-22	Hos.2.17	Hos.2.17	unverified	numbering unverified: english: the text does not align with these verses | hebrew: the text ends in Hos.2.15, not Hos.2.20; 17 words after the last aligned verse; only 0.36 of the text aligns
+misal.commune-virginum-ii-3	-	first	Hos 2:16.17.21-22	Hos.2.21	Hos.2.22	unverified	numbering unverified: english: the text does not align with these verses | hebrew: the text ends in Hos.2.15, not Hos.2.20; 17 words after the last aligned verse; only 0.36 of the text aligns
+misal.commune-virginum-ii-3	-	second	1Cor 7:25-35	1Cor.7.25	1Cor.7.35	unverified	numbering unverified: english: 14 words after the last aligned verse; only 0.31 of the text aligns
+misal.commune-virginum-ii-3	-	gospel	Matt 19:3-12	Matt.19.3	Matt.19.12	unverified	numbering unverified: english: 10 words before the first aligned verse
+misal.commune-sanctorum-et-sanctarum-i-a-1	-	first	Tob 8:4-8	Tob.8.4	Tob.8.8	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.commune-sanctorum-et-sanctarum-i-a-1	-	second	1Pet 3:1-9	1Pet.3.1	1Pet.3.9	unverified	numbering unverified: english: the text ends in 1Pet.3.6, not 1Pet.3.9; 13 words before the first aligned verse; 66 words after the last aligned verse; only 0.22 of the text aligns
+misal.commune-sanctorum-et-sanctarum-i-a-2	-	first	Tob 8:4-8	Tob.8.4	Tob.8.8	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.commune-sanctorum-et-sanctarum-i-a-2	-	second	1Pet 3:1-9	1Pet.3.1	1Pet.3.9	unverified	numbering unverified: english: the text ends in 1Pet.3.6, not 1Pet.3.9; 13 words before the first aligned verse; 66 words after the last aligned verse; only 0.22 of the text aligns
+misal.commune-sanctorum-et-sanctarum-i-b-1	-	first	Tob 8:4-8	Tob.8.4	Tob.8.8	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.commune-sanctorum-et-sanctarum-i-b-1	-	second	1Pet 3:1-9	1Pet.3.1	1Pet.3.9	unverified	numbering unverified: english: the text ends in 1Pet.3.6, not 1Pet.3.9; 13 words before the first aligned verse; 66 words after the last aligned verse; only 0.22 of the text aligns
+misal.commune-sanctorum-et-sanctarum-ii-d-1	-	first	Tob 8:4-8	Tob.8.4	Tob.8.8	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.commune-sanctorum-et-sanctarum-ii-d-1	-	second	1Pet 3:1-9	1Pet.3.1	1Pet.3.9	unverified	numbering unverified: english: the text ends in 1Pet.3.6, not 1Pet.3.9; 13 words before the first aligned verse; 66 words after the last aligned verse; only 0.22 of the text aligns
+misal.commune-sanctorum-et-sanctarum-ii-d-2	-	first	Tob 8:4-8	Tob.8.4	Tob.8.8	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.commune-sanctorum-et-sanctarum-ii-d-2	-	second	1Pet 3:1-9	1Pet.3.1	1Pet.3.9	unverified	numbering unverified: english: the text ends in 1Pet.3.6, not 1Pet.3.9; 13 words before the first aligned verse; 66 words after the last aligned verse; only 0.22 of the text aligns
+misal.commune-sanctorum-et-sanctarum-ii-a	-	first	Tob 8:4-8	Tob.8.4	Tob.8.8	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.commune-sanctorum-et-sanctarum-ii-a	-	second	1Pet 3:1-9	1Pet.3.1	1Pet.3.9	unverified	numbering unverified: english: the text ends in 1Pet.3.6, not 1Pet.3.9; 13 words before the first aligned verse; 66 words after the last aligned verse; only 0.22 of the text aligns
+misal.commune-sanctorum-et-sanctarum-ii-b	-	first	Tob 8:4-8	Tob.8.4	Tob.8.8	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.commune-sanctorum-et-sanctarum-ii-b	-	second	1Pet 3:1-9	1Pet.3.1	1Pet.3.9	unverified	numbering unverified: english: the text ends in 1Pet.3.6, not 1Pet.3.9; 13 words before the first aligned verse; 66 words after the last aligned verse; only 0.22 of the text aligns
+misal.commune-sanctorum-et-sanctarum-ii-c	-	first	Tob 8:4-8	Tob.8.4	Tob.8.8	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.commune-sanctorum-et-sanctarum-ii-c	-	second	1Pet 3:1-9	1Pet.3.1	1Pet.3.9	unverified	numbering unverified: english: the text ends in 1Pet.3.6, not 1Pet.3.9; 13 words before the first aligned verse; 66 words after the last aligned verse; only 0.22 of the text aligns
+misal.commune-sanctorum-et-sanctarum-iii	-	first	Tob 8:4-8	Tob.8.4	Tob.8.8	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.commune-sanctorum-et-sanctarum-iii	-	second	1Pet 3:1-9	1Pet.3.1	1Pet.3.9	unverified	numbering unverified: english: the text ends in 1Pet.3.6, not 1Pet.3.9; 13 words before the first aligned verse; 66 words after the last aligned verse; only 0.22 of the text aligns
+misal.commune-sanctorum-et-sanctarum-iv	-	first	Tob 8:4-8	Tob.8.4	Tob.8.8	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.commune-sanctorum-et-sanctarum-iv	-	second	1Pet 3:1-9	1Pet.3.1	1Pet.3.9	unverified	numbering unverified: english: the text ends in 1Pet.3.6, not 1Pet.3.9; 13 words before the first aligned verse; 66 words after the last aligned verse; only 0.22 of the text aligns
+misal.commune-sanctorum-et-sanctarum-v-1	-	first	Tob 8:4-8	Tob.8.4	Tob.8.8	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.commune-sanctorum-et-sanctarum-v-1	-	second	1Pet 3:1-9	1Pet.3.1	1Pet.3.9	unverified	numbering unverified: english: the text ends in 1Pet.3.6, not 1Pet.3.9; 13 words before the first aligned verse; 66 words after the last aligned verse; only 0.22 of the text aligns
+misal.commune-sanctorum-et-sanctarum-v-2	-	first	Tob 8:4-8	Tob.8.4	Tob.8.8	unverified	numbering unverified: english: only 0.42 of the text aligns
+misal.commune-sanctorum-et-sanctarum-v-2	-	second	1Pet 3:1-9	1Pet.3.1	1Pet.3.9	unverified	numbering unverified: english: the text ends in 1Pet.3.6, not 1Pet.3.9; 13 words before the first aligned verse; 66 words after the last aligned verse; only 0.22 of the text aligns
+misal.die-14-februarii-beatae-mariae-virginis-matris-pulchrae-dilectionis-operis-dei	-	acclamation	Luke 2:19	Luke.2.19	Luke.2.19	unverified	numbering unverified: the citation is printed nowhere in the epub
+misal.die-26-iunii-s-iosephmariae-escriva-de-balaguer-operis-dei	-	acclamation	Mark 1:17	Mark.1.17	Mark.1.17	unverified	numbering unverified: the citation is printed nowhere in the epub
+misal.missa-pro-variis-necessitatibus-2	-	first	Acts 20:17-18.28-32.36	Acts.20.17	Acts.20.18	unverified	numbering unverified: english: Acts.20.18 barely in the text (0.143)
+misal.missa-pro-variis-necessitatibus-2	-	first	Acts 20:17-18.28-32.36	Acts.20.28	Acts.20.32	unverified	numbering unverified: english: Acts.20.18 barely in the text (0.143)
+misal.missa-pro-variis-necessitatibus-2	-	first	Acts 20:17-18.28-32.36	Acts.20.36	Acts.20.36	unverified	numbering unverified: english: Acts.20.18 barely in the text (0.143)
+misal.missa-pro-variis-necessitatibus-2	-	first	Sir 34:9-20	Sir.34.9	Sir.34.20	unverified	numbering unverified: english: the text ends in Sir.34.17, not Sir.34.20
+misal.missa-pro-variis-necessitatibus-4	-	first	Acts 20:17-18.28-32.36	Acts.20.17	Acts.20.18	unverified	numbering unverified: english: Acts.20.18 barely in the text (0.143)
+misal.missa-pro-variis-necessitatibus-4	-	first	Acts 20:17-18.28-32.36	Acts.20.28	Acts.20.32	unverified	numbering unverified: english: Acts.20.18 barely in the text (0.143)
+misal.missa-pro-variis-necessitatibus-4	-	first	Acts 20:17-18.28-32.36	Acts.20.36	Acts.20.36	unverified	numbering unverified: english: Acts.20.18 barely in the text (0.143)
+misal.missa-pro-variis-necessitatibus-4	-	first	Sir 34:9-20	Sir.34.9	Sir.34.20	unverified	numbering unverified: english: the text ends in Sir.34.17, not Sir.34.20

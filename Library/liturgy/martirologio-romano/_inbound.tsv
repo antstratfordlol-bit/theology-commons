@@ -1,0 +1,6 @@
+source_work	source_file	decode_record	label	label_kind	volume_in_prose	resolution	citing_prose
+Biblioteca	Biblioteca.md		Santoral	none		work-level	, SanJosemaria, DA, Cartas, Obra, FOD, Romana, VyS, Leon14, Fco, B16, JP2, Marianos, StaSede, CEE, CatenaAurea, HomPat, 
+Biblioteca	Biblioteca/0003 León XIV.md		Santoral	none		work-level	I  Juan Pablo II  Magisterio por temas  Santa Sede  Conferencia Episcopal Española  Catena Aurea  Homilías patrísticas  
+Cartas	Cartas.md		Santoral	none		work-level	blia, Padres, Catecismo, Codigo, CDSocial, CV2, DS, Leon14, Fco, B16, JP2, Marianos, StaSede, CEE, CatenaAurea, HomPat, 
+Leon14	Leon14.md		Santoral	none		work-level	nos, Catecismo, B16Libros, StaMarta, CDSocial, StaSede, STh, PCrisostomo, Padres, Codigo, DS, CEE, CatenaAurea, HomPat, 
+Misal	Misal.md		Santoral	none		work-level	lioteca   - Cartas   - Biblia   - Santoral   - HCD   - HomPat ---  # Misal  > **Links to:** Biblioteca, Cartas, Biblia, 

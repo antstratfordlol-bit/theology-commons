@@ -1,0 +1,33 @@
+---
+title: "Richard Sampson"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Edwin Hubert Burton"
+signed: "EDWIN BURTON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Richard_Sampson"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.richard-sampson} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Samosata"
+next: "St. Samson"
+entry-type: "article"
+characters: 2035
+words: 318
+links: 0
+images: 0
+---
+
+# Richard Sampson {#cathen.richard-sampson}
+
+Bishop of Chichester and subsequently of Coventry and Lichfield; d. at Eccleshall, Staffordshire, 25 Sept., 1554. He was educated at Trinity Hall, Cambridge, Paris, and Sens. Having become Doctor of Canon Law, he was appointed by Wolsey chancellor and vicar-general in his Diocese of Tournay, where he lived till 1517. Meanwhile he gained English preferment, becoming Dean of St. Stephen's, Westminster, and of the Chapel Royal (1516), Archdeacon of Cornwall (1517), and prebendary of Newbold (1519). From 1522 to 1525 he was ambassador to Charles V. He was now Dean of Windsor (1523), Vicar of Stepney (1526), and held prebends at St. Paul's and at Lichfield; he was also Archdeacon of Suffolk (1529). Being a man of no principle, and solely bent on a distinguished ecclesiastical career, he became one of Henry VIII's chief agents in the divorce proceedings, being rewarded therefor by the deanery of Lichfield in 1533, the rectory of Hackney (1534), and treasureship of Salisbury (1535). On 11 June, 1536, he was elected schismatical Bishop of Chichester, and as such furthered Henry's political and ecclesiastical policy, though not sufficiently thoroughly to satisfy Cranmer. On 19 Feb., 1543, he was translated to Coventry and Lichfield on the royal authority alone, without papal confirmation. He held his bishopric through the reign of Edward VI, though Dodd says he was deprived for recanting his disloyalty to the pope. Godwin the Anglican writer and the Catholic Pitts both agree that he did so retract, but are silent as to his deprivation. He wrote in defence of the royal prerogative "Oratio" (1533) and an explanation of the Psalms (1539-48) and of Romans (1546).
+
+BREWER, Reign of Henry VIII (London, 1884); Letters and Papers of Henry VIII (London, 1831-52); FRIEDMANN, Anne Boleyn (London, 1884); COOPER, Athenae Cantabrigienses (Cambridge, 1858-61); PITTS, De illustribus Angliae Scriptoribus (Paris, 1619); DODD, Church History, I (Brussels vere Wolverhampton, 1739-42); ARCHBOLD in *Dict. Nat. Biog.*
+
+EDWIN BURTON

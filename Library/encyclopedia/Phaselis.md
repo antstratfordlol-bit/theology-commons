@@ -1,0 +1,33 @@
+---
+title: "Phaselis"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "unknown"
+author: "Sophron Pétridès"
+signed: "S. Pétridès"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Phaselis"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.phaselis} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Pharsalus"
+next: "Phasga"
+entry-type: "article"
+characters: 2038
+words: 347
+links: 0
+images: 0
+---
+
+# Phaselis {#cathen.phaselis}
+
+Titular see in Lycia, suffragan of Myra. The city was a Doric colony on the Pamphylian Gulf. Situated on an isthmus separating two harbours, it owed to this fortunate location the fact that it became an important centre of commerce between Greece, Asia, Egypt, and Phoenicia, although it did not belong to the confederation of Lycian cities. The pirates of Cilicia were allied with it, first though business intercourse, then by treaty. After the capture of Olympus P. Servilius laid siege to it. It was defended by Zenicetus, who, being unable to hold it, set fire to the city and plunged into the flames together with his companions. Phaselis recovered from this disaster. However, as early as the Roman period the little harbour had become a swamp exhaling pestilential vapours, and the situation grew worse until the city was in complete decay. There was a temple of Athene at Phaselis, where the lance of Achilles was exhibited. It was the birthplace of the poet and orator Theodectes. It was also renowned for its roses, from which the essence was extracted. There was invented the bark called *phaselos* which figures on all the coins of the city. There was a Roman colony at Phaselis about 139 B.C., for the Romans wrote to the inhabitants to send help to Simon Machabeus and the Jews (I Mach., xv, 23). Only two of its bishops are known: Fronto at Chalcedon (451); and Aristodemus, who in 458 signed the letter from the bishops of Lycia to the Emperor Leo. At the Council of Nicæa (787), the absent bishop was represented by the deacon John. The see is mentioned in the "Notitiæ episcopatuum" until the thirteenth century. The ruins of Phaselis are at Tekir Ova in the vilayet of Koniah; they belong to the Roman period, the most important being a theatre. There are also numerous sarcophagi.
+
+LE QUIEN, Oriens christianus, I, 985; BEAUFORT, Karamania, 53-65; FELLOWS, Asia Minor, 211 sqq.; LEAKE, Asia Minor, 190; Texier, Asie mineure, 697-99; HILL, Catalogue of Greek Coins in the British Museum: Lycia, p. lxvii.
+
+S. Pétridès.

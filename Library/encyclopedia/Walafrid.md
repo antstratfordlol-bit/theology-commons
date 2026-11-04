@@ -1,0 +1,33 @@
+---
+title: "Walafrid"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Arthur Frank Joseph Remy"
+signed: "ARTHUR F.J. REMY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Walafrid"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.walafrid} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Wakash Indians"
+next: "St. Walburga"
+entry-type: "article"
+characters: 2204
+words: 377
+links: 0
+images: 0
+---
+
+# Walafrid {#cathen.walafrid}
+
+(Walahfrid; surnamed Strabo — "the Squinter").
+
+German poet and theologian of the ninth century, born in Swabia or poor parents; studied at Tatto, Erlebold, and Wettin, and later at Fulda under the famous Rabanus Maurus. In 829 he became precepter of the young Prince Charles (the Bald) at the Court of Louis the Pious. In 838 he succeeded Erlebold as abbot of Reichenau; but , as he sided with Lothair in the war between the sons of Louis, he was driven from Reichenau and fled to Speyer. He was soon reconciled with Louis the German, and reinstated in his dignity, which he held until his death. Walafrid's works, written in a fluent, elegant Latin, consist of poems and of theological treatises in prose. The "Visio Wettini" is his most remarkable poem. It describes a journey through the other world in the form of a vision vouchsafed to the monk Wettin a few days before he died (824), and is the earliest example of that type of literature which culminated in Dante's "Divine Comedy." The "Versus de imagine Tetrici," in the form of a dialogue between the poet and his genius, were inspired by the equestrian statue of Theodoric which Charlemagne had brought from Ravenna and place before the palace at Aachen. While the Gothic king is denounced as a heretic and tyrant, occasion is found for paying homage to Louis the Pious and the Empress Judith. In the "Hortulus" the poet lovingly describes the plants and flowers of his cloister-garden. Walafrid also wrote hymns and epistles in verse, but of these only a portion is preserved. Of his prose-works the most famous is the "Glossa ordinaria," a commentary on the Scriptures, compiled from various sources. The work enjoyed the highest repute throughout the Middle Ages. The "Liber de exordiis et incrementis quarundam in observationibus ecclesiasticis rerum" is valuable as a history of the cult of the Church. Walafrid also wrote in prose the lives of St. Gall and St. Othmar, and in verse the lives of St. Blaitmaicus, abbot of Iona, and of St. Mammas, the martyr. His works are edited in P. L., CXIII, XIV; the poems also separately by Dümmler, "Poetæ latini ævi Carolini," in "Mon. Germ. Hist.," II (Berlin, 1884), 259-473.
+
+ARTHUR F.J. REMY

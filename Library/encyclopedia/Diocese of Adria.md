@@ -1,0 +1,33 @@
+---
+title: "Diocese of Adria"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "155"
+author: "Ernesto Buonaiuti"
+signed: "Ernesto Buonaiuti"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Diocese_of_Adria"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.diocese-of-adria} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Adoro Te Devote"
+next: "Pope Adrian I"
+entry-type: "article"
+characters: 1961
+words: 300
+links: 0
+images: 0
+---
+
+# Diocese of Adria {#cathen.diocese-of-adria}
+
+**Adria,** an Italian bishopric, suffragan to Venice, which comprises 55 towns in the Province of Rovigo, and a part of one town in the Province of Padua. Tradition dates the preaching of the Gospel in Adria from the days of St. Apollinaris, who had been consecrated bishop by St. Peter. The figure of this Bishop of Ravenna has a singular importance in the hagiographical legends of the northeast of Italy. Recent investigation has shown that even if Emilia, Romagna, and the territory around Venice were Christianized and had bishops (the two facts are concomitant) before Piedmont, for example, still their conversion does not go back beyond the end of the second century. (See Zattoni, *Il valore storico della Passio di S. Apollinare e la fondazione dell episcopato a Ravenna e in Romagna*, in the *Rivista storico-critica delle scienze teologiche*, I, 10, and II, 3.) The first bishop of Adria of whose name we are positive is Gallonistus, who was present at a synod in Rome (649) under Martin I (Mansi, XII). Venerable Bede, in his *Martyrology*, mentions a St. Colianus, Bishop of Adria, but we know nothing about him. Amongst the bishops of Adria is the Blessed Aldobrandinus of Este (1248–1352). This diocese contains 80 parishes; 300 churches, chapels, and oratories; 250 secular priests; 72 seminarians; 12 regular priests; 9 lay-brothers; 90 confraternities; 3 boys schools (97 pupils); 6 girls schools (99 pupils). Population, 190,400.
+
+Ughelli, *Italia Sacra* (Venice, 1722), II, 397; Cappelletti, *Le chiese d'Italia* (Venice, 1866), X, 9; Gams, *Series episcoporum Ecclesiæ catholicæ* (Ratisbon, 1873), 768; Speroni, *Adriensium episcoporum series historico-chronologica monumentis illustrata* (Padua, 1788); F. G., *Dissertazione su d'un antico vaso battesimale d'Adria* (Rovigo, 1840); De Vit, *Adria e le sue antiche epigrafi illustrata* (Florence, 1888); De Lardi, *Serie cronologica dei vescovi d'Adria* (Venice, 1851).
+
+Ernesto Buonaiuti.

@@ -1,0 +1,41 @@
+---
+title: "Frances Allen"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "320-321"
+author: "John Joseph A'Becket"
+signed: "John J. a'Becket"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Frances_Allen"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.frances-allen} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Edward Patrick Allen"
+next: "George Allen"
+entry-type: "article"
+characters: 3180
+words: 532
+links: 0
+images: 1
+---
+
+# Frances Allen {#cathen.frances-allen}
+
+**Allen,** Frances, the first woman of New England birth to become a nun, b. 13 Nov., 1784, at Sunderland, Vt.; d. 10 Sept., 1819, at Montreal. Her origin, education, and environment were calculated to make her the least likely woman in the United States to take such a step. Her father was Ethan Allen the patriot, soldier of the Revolution, and pioneer of the State of Vermont, and an atheist. He married as his third wife a widow, Frances Montressor, 16 Feb., 1784, and Frances was born 13 Nov., of the same year. After Ethan Allen's death, 12 Feb., 1789, Mrs. Allen, five years later, married Dr. Jabez Penniman. While not an atheist, like Allen, Dr. Penniman was sufficiently averse to religion to exclude every thought of it, as far as possible, from his stepdaughter's mind. Notwithstanding this, her keen and inquiring intellect led to her acquiring such a knowledge of the Catholic religion that when she was twenty-one she asked leave of her parents to go to Montreal ostensibly to learn French, but in reality to become more familiar in a convent school with the belief and practices of Catholics. They consented, but first required her to be baptized by the Rev. Daniel Barber, a Protestant minister of Claremont, New Hampshire. She became a pupil of the Sisters of the Congregation of Notre Dame, at Montreal, in 1807.
+
+Frances Allen at the age of 15 (From a Painting)
+
+One day, a Sister requested her to place some flowers on the altar, recommending her also to make an act of adoration of the Real Presence of Jesus Christ in the tabernacle. When the young woman attempted to step into the sanctuary she found herself unable to do so. After three futile attempts, she was filled with conviction of the Real Presence, and fell upon her knees in humble adoration.
+
+She was instructed and received baptism, her lack of proper disposition having rendered that conferred by Mr. Barber invalid. At her first Communion she felt within her an unmistakable vocation to the religious life. Her parents promptly withdrew her from the convent and sought by bestowing on the young girl every worldly pleasure and social enjoyment to obliterate the religious sentiments with which she was imbued. The pleasure and excitement of such a life did not distract her from the desire of a religious life, and as soon as the year, which she had consented to pass with her parents before taking any step in the matter, was at an end, she returned to Montreal and entered the Hôtel-Dieu, making her religious profession in 1810. The convent chapel was thronged, many American friends coming to witness the strange spectacle of Ethan Allen's daughter becoming a Catholic nun. After eleven years of zealous life in religion, Frances Allen died at the Hôtel-Dieu, of lung trouble, 10 December, 1819.
+
+De Goesbriand, *Catholic Memoirs of Vermont and New Hampshire* (Burlington. Vt., 1880); Barber, *History of My Own Times* (Washington, D.C., 1827); *Catholic World*, XVI. 507; *Vermont Gazette* (files), I, 567; Shea, *Hist. of Cath. Church in United States* (New York, 1904).
+
+John J. a'Becket.
+
+*[Illustration: Catholic Encyclopedia - Frances Allen.png — on Wikimedia Commons, not fetched]*

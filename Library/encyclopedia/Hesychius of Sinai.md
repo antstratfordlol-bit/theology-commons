@@ -1,0 +1,31 @@
+---
+title: "Hesychius of Sinai"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "Michael Faulhaber"
+signed: "Michael Faulhaber"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Hesychius_of_Sinai"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.hesychius-of-sinai} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Hesychius of Jerusalem"
+next: "Hethites"
+entry-type: "article"
+characters: 2740
+words: 455
+links: 0
+images: 0
+---
+
+# Hesychius of Sinai {#cathen.hesychius-of-sinai}
+
+A priest and monk of the Order of St. Basil in the Thorn-bush (Batos) monastery on Mt. Sinai, and ascetic author of the Byzantine period in literature. Nothing definite is known concerning his career or the exact time at which he lived. Only a few paltry fragments of the literary remains of this almost completely forgotten author have been preserved, and they have still to be collected and separately criticized. In manuscripts, as a rule, he is given the honorary title of "Our Holy Father" (tou hosiou patros hemon Hesychiou presbyterou) and, in cases where the authenticity of this title on a manuscript is certain, it is sufficient to distinguish him from others of the same name, and especially from the celebrated Hesychius of Jerusalem (q.v.). Examination of the Bible text on which the treatises of one or the other Hesychius are based is just as important a test as this external criterion; thus, Hesychius of Sinai in his Bible quotations regularly follows the version of the "Codex Sinaiticus". How much of the literary material in the latest edition of the works of the Fathers (Migne, P.G., XCIII, 787-1560), published without any attempt at critical selection under the title of "Hesychius, Presbyter of Jerusalem", should properly be ascribed to Hesychius of Sinai, can only be determined by monographic investigation. The pivotal point about which such investigation would turn is a collection of 200 ascetic maxims (Peri nepheos kai aretes, De temperantia et virtute) which Migne, loc. cit. 1479-1544, attributes to Hesychius of Jerusalem under a pseudonym, but which should, without doubt, be credited to Hesychius of Sinai. For the author of these maxims acknowledges, by a play on words (ho hesychias pheronymos), that his name is Hesychius and that he is a Basilian monk; furthermore a number of manuscripts support this intrinsic evidence (Bodl. Barocc. 118, saec. XII-XIII; Bodl. Laud. 21, saec. XIV; Bodl. Canon. 16, saec. XV; Mus. Brit. Burn. 113, saec. XV et al.). The text of the Migne edition could be completed and improved to particular advantage from English MSS. (Mus. Brit. Addit. 9347, saec. XII, and Bodl. Cromwell. 6, saec. XV). The fact that the maxims are dedicated to a certain Theodulus has given rise in certain manuscripts to the erroneous statement that Theodulus was their author. It cannot be determined here how many of these maxims were derived from older ascetics or how many were adopted by later ones. It is probable that the ascetic and Biblical-ascetic fragments that I have found in Turin Codices (B V 25, saec. XV, fol. 171-174 and C VI 8, saec. XIV, fol. 39 verso 41) under the name of "Our Holy Father Hesychius" should also be attributed to Hesychius of Sinai.
+
+Michael Faulhaber.

@@ -1,0 +1,35 @@
+---
+title: "A and Ω"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "332"
+author: "Maurice M. Hassett"
+signed: "Maurice M. Hassett"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/A_and_Ω"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.a-and} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Aloysius Gonzaga"
+next: "Alpha and Omega (in Jewish Theology)"
+entry-type: "article"
+characters: 3068
+words: 527
+links: 0
+images: 0
+---
+
+# A and Ω {#cathen.a-and}
+
+**Α and Ω** (Alpha and Omega).—Scriptural.—The first and the last letter of the Greek alphabet, employed from the fourth century as a symbol expressing the confidence of orthodox Christians in the scriptural proofs of Our Lord's divinity. This symbol was suggested by the Apocalypse, where Christ, as well as the Father, is "the First and the Last" (ii, 8); "the Alpha and Omega, the first and the last, the beginning and the end" (cf., xxii, 13; i, 8). Clement of Alexandria speaks of the Word as "the Alpha and the Omega of Whom alone the end becomes beginning, and ends again at the original beginning without any break" (Strom., IV, 25). Tertullian also alludes to Christ as the Alpha and Omega (De Monogamiâ, v), and from Prudentius (Cathemer., ix, 10) we learn that in the fourth century the interpretation of the apocalyptic letters was still the same: "Alpha et Omega cognominatus, ipse fons et clausula, Omnium quæ sunt, fuerunt, quæque post futura sunt." It was, however, in the monuments of early Christianity that the symbolic Alpha and Omega had their greatest vogue. The earliest date at which this symbol occurs is in the year 295, in a dated inscription of Rome. In this example, however, it is to be noted that the Omega takes precedence, and that both letters form part of the inscription, thus: "VIRGO MOR(T)VA ES(T) TVS Ω ET. Α NVLLINO CON(S)"; (… died, a virgin Tuscus and Anullinus being consuls).
+
+The question whether this symbol in its regular form, was in use before the Council of Nicæa (325) has not yet been settled definitely. If so, it was of very rare occurrence. In a fresco which dates from the middle of the fourth century in the "great cave" of the catacomb of Prætextatus, Α and Ω are found in connection with the monogrammatic cross. The oldest inscription in which the letters occur in their traditional form dates from 364. From this time on they were a favorite symbol of the orthodox Christians (the Arians regarded it with disfavour) and they are found on the monuments in all parts of early Christendom. The apocalyptic letters were represented either (1) alone, or (2) in connection with human or other figures, or (3) with other symbols. Examples of the first class, to which belongs the inscription of 364, are rare. The second class also is not very numerously represented; probably the most interesting example of it is a panel of the fifth century door of St. Sabina's where Α and Ω are carved on either side of the risen Christ. Monuments of the third class, representing Α and Ω in connection with another symbol, usually the monogram of Christ, are much more common than those of the two former classes. The minuscular form ω is, in nearly all cases, represented, though some examples of Ω occur in the monuments of Africa and Spain. The words "Alpha and Omega" continued in use in the Mozarabic Liturgy; also in the ancient Irish Liturgy, e.g. in the famous Communion-hymn in the Antiphonary of Bangor.
+
+Kraus, *Real-Encyklopadie*, I, 60–62; Leclercq in *Dict. d'archéol. et de lit.*, I, 1–25.
+
+Maurice M. Hassett.

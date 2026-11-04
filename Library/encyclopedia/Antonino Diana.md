@@ -1,0 +1,31 @@
+---
+title: "Antonino Diana"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Thomas Slater"
+signed: "T. Slater"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Antonino_Diana"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.antonino-diana} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Diocese of Diamantina"
+next: "Diocese of Diano"
+entry-type: "article"
+characters: 1474
+words: 264
+links: 0
+images: 0
+---
+
+# Antonino Diana {#cathen.antonino-diana}
+
+Moral theologian, born of a noble family at Palermo, Sicily, in 1586; died at Rome, 20 July, 1663. He took his vows as a regular clerk of the Theatine Order in 1630. He became celebrated as a casuists while he was yet a young man, and cases of conscience were sent to him for solution from all parts. His "Resolutiones Morales" met with universal esteem and approbation. The brothers Prost, who brought out the eighth edition of the first three parts of his work at Lyons, in 1635, sent it forth, with a play on the author's name, as the Diana of him who might be hunting for truth in the woods of moral theology, and as the Diana of the crossways who would show the right path to anyone in doubt or perplexity. Popes Urban VIII, Innocent X, and Alexander VII, esteemed him for his learning, and he was made a consultor of the Holy Office of the Kingdom of Sicily and an examiner of bishops. Diana himself claimed that as a rule his solutions followed the milder opinion. On the frontspiece of the volume just mentioned round a figure of the Cross runs the legend *Non ferro sed ligno*. According to St. Alphonsus and the common opinion of modern theologians, Diana not infrequently went too far in the direction of laxity. Besides several editions of the unabridged works, epitomes and compendiums of them that began to appear even in the author's lifetime, in spite of his vigorous protests that his real meaning was being distorted by his too ardent admirers.
+
+T. Slater.

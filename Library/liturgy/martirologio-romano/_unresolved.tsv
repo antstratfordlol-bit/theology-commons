@@ -1,0 +1,981 @@
+src_anchor	decode_target_work	label	reason
+martirologio.01-01.1	Santoral	Santa María, Madre de Dios	the label is neither a number nor a Scripture reference
+martirologio.01-01.1	Santoral	Circuncisión	the label is neither a number nor a Scripture reference
+martirologio.01-01.4	Santoral	Almaquio	the label is neither a number nor a Scripture reference
+martirologio.01-01.13	Santoral	José María Tomasi	the label is neither a number nor a Scripture reference
+martirologio.01-01.15	Santoral	Vicente María Strambi	the label is neither a number nor a Scripture reference
+martirologio.01-02.1	Santoral	Basilio Magno	the label is neither a number nor a Scripture reference
+martirologio.01-02.1	Santoral	Gregorio Nazianceno	the label is neither a number nor a Scripture reference
+martirologio.01-03.3	Santoral	Teopempo	the label is neither a number nor a Scripture reference
+martirologio.01-03.8	Santoral	Genoveva	the label is neither a number nor a Scripture reference
+martirologio.01-04.8	Santoral	Ángela	the label is neither a number nor a Scripture reference
+martirologio.01-04.11	Santoral	Isabel Ana Seton	the label is neither a number nor a Scripture reference
+martirologio.01-05.5	Santoral	Eduardo	the label is neither a number nor a Scripture reference
+martirologio.01-06.1	Santoral	Epifanía del Señor	the label is neither a number nor a Scripture reference
+martirologio.01-06.2	Santoral	Julián y Basilisa	the label is neither a number nor a Scripture reference
+martirologio.01-06.4	Santoral	Macario	the label is neither a number nor a Scripture reference
+martirologio.01-06.7	Santoral	Andrés Corsini	the label is neither a number nor a Scripture reference
+martirologio.01-06.8	Santoral	Juan de Ribera	the label is neither a number nor a Scripture reference
+martirologio.01-06.9	Santoral	Carlos de Seze	the label is neither a number nor a Scripture reference
+martirologio.01-06.10	Santoral	Rafaela María del Sagrado Corazón Porras Ayllón	the label is neither a number nor a Scripture reference
+martirologio.01-07.1	Santoral	Raimundo de Penafort	the label is neither a number nor a Scripture reference
+martirologio.01-07.10	Santoral	Canuto	the label is neither a number nor a Scripture reference
+martirologio.01-08.5	Santoral	Severino	the label is neither a number nor a Scripture reference
+martirologio.01-08.10	Santoral	Gúdula	the label is neither a number nor a Scripture reference
+martirologio.01-09.11	Santoral	Eulogio	the label is neither a number nor a Scripture reference
+martirologio.01-10.2	Santoral	Pablo	the label is neither a number nor a Scripture reference
+martirologio.01-10.7	Santoral	Valerio	the label is neither a number nor a Scripture reference
+martirologio.01-10.14	Santoral	Gonzalo	the label is neither a number nor a Scripture reference
+martirologio.01-10.15	Santoral	Gregorio X	the label is neither a number nor a Scripture reference
+martirologio.01-11.7	Santoral	Teodosio	the label is neither a number nor a Scripture reference
+martirologio.01-11.11	Santoral	Tomás de Cori	the label is neither a number nor a Scripture reference
+martirologio.01-12.1	Santoral	Arcadio	the label is neither a number nor a Scripture reference
+martirologio.01-12.5	Santoral	Benito Biscop	the label is neither a number nor a Scripture reference
+martirologio.01-12.12	Santoral	Antonio María Pucci	the label is neither a number nor a Scripture reference
+martirologio.01-13.1	Santoral	Hilario	the label is neither a number nor a Scripture reference
+martirologio.01-13.4	Santoral	Remigio	the label is neither a number nor a Scripture reference
+martirologio.01-14.3	Santoral	Félix	the label is neither a number nor a Scripture reference
+martirologio.01-15.5	Santoral	Mauro	the label is neither a number nor a Scripture reference
+martirologio.01-16.1	Santoral	Marcelo I	the label is neither a number nor a Scripture reference
+martirologio.01-17.1	Santoral	Antonio	the label is neither a number nor a Scripture reference
+martirologio.01-17.8	Santoral	Jenaro Sánchez Delgadillo	the label is neither a number nor a Scripture reference
+martirologio.01-18.4	Santoral	Prisca	the label is neither a number nor a Scripture reference
+martirologio.01-19.3	Santoral	Mario, Marta, Audifax y Abaco	the label is neither a number nor a Scripture reference
+martirologio.01-20.1	Santoral	Fabián	the label is neither a number nor a Scripture reference
+martirologio.01-20.2	Santoral	Sebastián	the label is neither a number nor a Scripture reference
+martirologio.01-21.1	Santoral	Inés	the label is neither a number nor a Scripture reference
+martirologio.01-21.3	Santoral	Fructuoso	the label is neither a number nor a Scripture reference
+martirologio.01-21.11	Santoral	1	no work named in the prose before the label (Santoral)
+martirologio.01-22.1	Santoral	Vicente	the label is neither a number nor a Scripture reference
+martirologio.01-22.12	Santoral	Guillermo José Chaminade	the label is neither a number nor a Scripture reference
+martirologio.01-22.13	Santoral	Laura Vicuna	the label is neither a number nor a Scripture reference
+martirologio.01-23.5	Santoral	Ildefonso	the label is neither a number nor a Scripture reference
+martirologio.01-24.1	Santoral	Francisco de Sales	the label is neither a number nor a Scripture reference
+martirologio.01-24.9	Santoral	2	no work named in the prose before the label (Santoral)
+martirologio.01-25.1	Santoral	Conversión de san Pablo	the label is neither a number nor a Scripture reference
+martirologio.01-25.7	Santoral	Palemón	the label is neither a number nor a Scripture reference
+martirologio.01-26.1	Santoral	Timoteo	the label is neither a number nor a Scripture reference
+martirologio.01-26.1	Santoral	Tito	the label is neither a number nor a Scripture reference
+martirologio.01-26.3	Santoral	Paula	the label is neither a number nor a Scripture reference
+martirologio.01-27.1	Santoral	Ángela Merici	the label is neither a number nor a Scripture reference
+martirologio.01-27.8	Santoral	Gregorio VII	the label is neither a number nor a Scripture reference
+martirologio.01-27.13	Santoral	Enrique de Ossó y Cervelló	the label is neither a number nor a Scripture reference
+martirologio.01-28.1	Santoral	Tomás de Aquino	the label is neither a number nor a Scripture reference
+martirologio.01-28.4	Santoral	Julián	the label is neither a number nor a Scripture reference
+martirologio.01-29.6	Santoral	Afraates	the label is neither a number nor a Scripture reference
+martirologio.01-30.10	Santoral	Jacinta Mariscotti	the label is neither a number nor a Scripture reference
+martirologio.01-30.16	Santoral	Columba (José) Marmión	the label is neither a number nor a Scripture reference
+martirologio.01-31.1	Santoral	Juan Bosco	the label is neither a number nor a Scripture reference
+martirologio.01-31.13	Santoral	Francisco Xavier María Bianchi	the label is neither a number nor a Scripture reference
+martirologio.01-31.14	Santoral	3	no work named in the prose before the label (Santoral)
+martirologio.02-01.4	Santoral	Brígida	the label is neither a number nor a Scripture reference
+martirologio.02-01.8	Santoral	Raimundo	the label is neither a number nor a Scripture reference
+martirologio.02-01.15	Santoral	4	no work named in the prose before the label (Santoral)
+martirologio.02-02.1	Santoral	Presentación del Señor	the label is neither a number nor a Scripture reference
+martirologio.02-02.8	Santoral	Juana de Lestonnac	the label is neither a number nor a Scripture reference
+martirologio.02-03.1	Santoral	Oscar	the label is neither a number nor a Scripture reference
+martirologio.02-03	Santoral	San Blas	the label is neither a number nor a Scripture reference
+martirologio.02-04.10	Santoral	Juana de Valois	the label is neither a number nor a Scripture reference
+martirologio.02-04.13	Santoral	Juan de Brito	the label is neither a number nor a Scripture reference
+martirologio.02-05.1	Santoral	Águeda	the label is neither a number nor a Scripture reference
+martirologio.02-05.9	Santoral	Pablo Miki	the label is neither a number nor a Scripture reference
+martirologio.02-05	Santoral	Felipe de Jesús	the label is neither a number nor a Scripture reference
+martirologio.02-06.1	Santoral	5	no work named in the prose before the label (Santoral)
+martirologio.02-06.14	Santoral	Mateo Correa	the label is neither a number nor a Scripture reference
+martirologio.02-07.16	Santoral	Pío IX	the label is neither a number nor a Scripture reference
+martirologio.02-08.1	Santoral	Josefina Bakhita	the label is neither a number nor a Scripture reference
+martirologio.02-08	Santoral	San Jerónimo Emiliano	the label is neither a number nor a Scripture reference
+martirologio.02-09.1	Santoral	Apolonia	the label is neither a number nor a Scripture reference
+martirologio.02-09.10	Santoral	Miguel (Francisco Luis) Febres Cordero	the label is neither a number nor a Scripture reference
+martirologio.02-10.1	Santoral	Escolástica	the label is neither a number nor a Scripture reference
+martirologio.02-10.11	Santoral	6	no work named in the prose before the label (Santoral)
+martirologio.02-11.1	Santoral	Virgen María de Lourdes	the label is neither a number nor a Scripture reference
+martirologio.02-11.1	Santoral	María Bernarda Soubirous	the label is neither a number nor a Scripture reference
+martirologio.02-11.7	Santoral	Gregorio II	the label is neither a number nor a Scripture reference
+martirologio.02-11.10	Santoral	Pedro Maldonado	the label is neither a number nor a Scripture reference
+martirologio.02-12.1	Santoral	7	no work named in the prose before the label (Santoral)
+martirologio.02-12.8	Santoral	Eulalia	the label is neither a number nor a Scripture reference
+martirologio.02-13.3	Santoral	Benigno	the label is neither a number nor a Scripture reference
+martirologio.02-13.10	Santoral	Jordán de Sajonia	the label is neither a number nor a Scripture reference
+martirologio.02-14.1	Santoral	Cirilo, monje, y Metodio, obispo	the label is neither a number nor a Scripture reference
+martirologio.02-14.2	Santoral	Valentín	the label is neither a number nor a Scripture reference
+martirologio.02-14.10	Santoral	Juan Bautista de la Concepción García	the label is neither a number nor a Scripture reference
+martirologio.02-15.2	Santoral	Faustino	the label is neither a number nor a Scripture reference
+martirologio.02-15.2	Santoral	Jovita	the label is neither a number nor a Scripture reference
+martirologio.02-15.11	Santoral	Claudio La Colombiere	the label is neither a number nor a Scripture reference
+martirologio.02-16.1	Santoral	Juliana	the label is neither a number nor a Scripture reference
+martirologio.02-17.1	Santoral	Bonfilio	the label is neither a number nor a Scripture reference
+martirologio.02-17.1	Santoral	Bartolomé	the label is neither a number nor a Scripture reference
+martirologio.02-17.1	Santoral	Juan	the label is neither a number nor a Scripture reference
+martirologio.02-17.1	Santoral	Benito	the label is neither a number nor a Scripture reference
+martirologio.02-17.1	Santoral	Gerardino	the label is neither a number nor a Scripture reference
+martirologio.02-17.1	Santoral	Ricovero	the label is neither a number nor a Scripture reference
+martirologio.02-17.1	Santoral	Alejo	the label is neither a number nor a Scripture reference
+martirologio.02-18.2	Santoral	Eladio	the label is neither a number nor a Scripture reference
+martirologio.02-19.9	Santoral	Álvaro de Zamora	the label is neither a number nor a Scripture reference
+martirologio.02-20.5	Santoral	Euquerio	the label is neither a number nor a Scripture reference
+martirologio.02-21.1	Santoral	Pedro Damiani	the label is neither a number nor a Scripture reference
+martirologio.02-22.1	Santoral	cátedra de san Pedro	the label is neither a number nor a Scripture reference
+martirologio.02-22.5	Santoral	Pedro Damiani	the label is neither a number nor a Scripture reference
+martirologio.02-22.7	Santoral	Margarita	the label is neither a number nor a Scripture reference
+martirologio.02-23.1	Santoral	Policarpo	the label is neither a number nor a Scripture reference
+martirologio.02-24.3	Santoral	Modesto	the label is neither a number nor a Scripture reference
+martirologio.02-25.8	Santoral	Sebastián Aparicio	the label is neither a number nor a Scripture reference
+martirologio.02-25.12	Santoral	Toribio Romo	the label is neither a number nor a Scripture reference
+martirologio.02-26.1	Santoral	Alejandro	the label is neither a number nor a Scripture reference
+martirologio.02-27.12	Santoral	Gabriel de la Virgen de los Dolores (Francisco) Possenti	the label is neither a number nor a Scripture reference
+martirologio.02-28.2	Santoral	Román	the label is neither a number nor a Scripture reference
+martirologio.02-28.4	Santoral	Hilario	the label is neither a number nor a Scripture reference
+martirologio.02-29.1	Santoral	Hilario	the label is neither a number nor a Scripture reference
+martirologio.02-29.4	Santoral	Agusto Chapdelaine	the label is neither a number nor a Scripture reference
+martirologio.03-01.2	Santoral	Albino	the label is neither a number nor a Scripture reference
+martirologio.03-01.8	Santoral	Rosendo	the label is neither a number nor a Scripture reference
+martirologio.03-02.4	Santoral	Inés	the label is neither a number nor a Scripture reference
+martirologio.03-02.6	Santoral	Ángela de la Cruz	the label is neither a number nor a Scripture reference
+martirologio.03-03.2	Santoral	Emeterio	the label is neither a number nor a Scripture reference
+martirologio.03-03.2	Santoral	Celedonio	the label is neither a number nor a Scripture reference
+martirologio.03-03.8	Santoral	Cunegunda	the label is neither a number nor a Scripture reference
+martirologio.03-03.16	Santoral	Catalina Drexel	the label is neither a number nor a Scripture reference
+martirologio.03-04.1	Santoral	Casimiro	the label is neither a number nor a Scripture reference
+martirologio.03-05.11	Santoral	Juan José de la Cruz (Carlos) Gaetano	the label is neither a number nor a Scripture reference
+martirologio.03-06.5	Santoral	Julián	the label is neither a number nor a Scripture reference
+martirologio.03-06.9	Santoral	Olegario	the label is neither a number nor a Scripture reference
+martirologio.03-06.10	Santoral	Rosa	the label is neither a number nor a Scripture reference
+martirologio.03-06.11	Santoral	Coleta Boylet	the label is neither a number nor a Scripture reference
+martirologio.03-07.1	Santoral	Perpetua	the label is neither a number nor a Scripture reference
+martirologio.03-07.1	Santoral	Felicidad	the label is neither a number nor a Scripture reference
+martirologio.03-08.1	Santoral	Juan de Dios	the label is neither a number nor a Scripture reference
+martirologio.03-09.1	Santoral	Francisca	the label is neither a number nor a Scripture reference
+martirologio.03-09.3	Santoral	Paciano	the label is neither a number nor a Scripture reference
+martirologio.03-09.6	Santoral	Catalina	the label is neither a number nor a Scripture reference
+martirologio.03-09.7	Santoral	Domingo Savio	the label is neither a number nor a Scripture reference
+martirologio.03-10.4	Santoral	Simplicio	the label is neither a number nor a Scripture reference
+martirologio.03-10.7	Santoral	Juan Ogilvie	the label is neither a number nor a Scripture reference
+martirologio.03-11.8	Santoral	Eulogio	the label is neither a number nor a Scripture reference
+martirologio.03-12.4	Santoral	Inocencio I	the label is neither a number nor a Scripture reference
+martirologio.03-14.4	Santoral	Matilde	the label is neither a number nor a Scripture reference
+martirologio.03-14.8	Santoral	Plácido Riccardi	the label is neither a number nor a Scripture reference
+martirologio.03-15.6	Santoral	Luisa de Marillac	the label is neither a number nor a Scripture reference
+martirologio.03-15.7	Santoral	Clemente María Hofbauer	the label is neither a number nor a Scripture reference
+martirologio.03-16.8	Santoral	Juan de Brébeuf	the label is neither a number nor a Scripture reference
+martirologio.03-17.1	Santoral	Patricio	the label is neither a number nor a Scripture reference
+martirologio.03-18.1	Santoral	Cirilo	the label is neither a number nor a Scripture reference
+martirologio.03-18.5	Santoral	Braulio	the label is neither a number nor a Scripture reference
+martirologio.03-19.1	Santoral	José	the label is neither a number nor a Scripture reference
+martirologio.03-20.4	Santoral	Martín	the label is neither a number nor a Scripture reference
+martirologio.03-20.10	Santoral	Juan Nepomuceno	the label is neither a number nor a Scripture reference
+martirologio.03-20.15	Santoral	María Josefa del Corazón de Jesús Sancho de Guerra	the label is neither a number nor a Scripture reference
+martirologio.03-21.5	Santoral	Benito	the label is neither a number nor a Scripture reference
+martirologio.03-21.8	Santoral	Nicolás de Flüe	the label is neither a number nor a Scripture reference
+martirologio.03-23.1	Santoral	Toribio de Mogrovejo	the label is neither a number nor a Scripture reference
+martirologio.03-23.9	Santoral	José Oriol	the label is neither a number nor a Scripture reference
+martirologio.03-24.6	Santoral	Catalina	the label is neither a number nor a Scripture reference
+martirologio.03-24.7	Santoral	Diego José de Cádiz	the label is neither a number nor a Scripture reference
+martirologio.03-25.1	Santoral	Anunciación del Señor	the label is neither a number nor a Scripture reference
+martirologio.03-25.4	Santoral	Quirino	the label is neither a number nor a Scripture reference
+martirologio.03-26.8	Santoral	Ludgero	the label is neither a number nor a Scripture reference
+martirologio.03-27.1	Santoral	Ruperto	the label is neither a number nor a Scripture reference
+martirologio.03-29.1	Santoral	Eustasio	the label is neither a number nor a Scripture reference
+martirologio.03-30.5	Santoral	Juan	the label is neither a number nor a Scripture reference
+martirologio.03-30.5	Santoral	Clímaco	the label is neither a number nor a Scripture reference
+martirologio.03-30.9	Santoral	Pedro de Valladolid Regalado	the label is neither a number nor a Scripture reference
+martirologio.03-30.12	Santoral	Leonardo Murialdo	the label is neither a number nor a Scripture reference
+martirologio.03-31.2	Santoral	Balbina	the label is neither a number nor a Scripture reference
+martirologio.03-31.6	Santoral	beato Amadeo IX, duque de Saboya	the label is neither a number nor a Scripture reference
+martirologio.04-01.3	Santoral	María Egipcíaca	the label is neither a number nor a Scripture reference
+martirologio.04-01.5	Santoral	Celso	the label is neither a number nor a Scripture reference
+martirologio.04-01.6	Santoral	Hugo	the label is neither a number nor a Scripture reference
+martirologio.04-02.1	Santoral	Francisco de Paula	the label is neither a number nor a Scripture reference
+martirologio.04-02.16	Santoral	María de San José (Laura) Alvarado	the label is neither a number nor a Scripture reference
+martirologio.04-03.7	Santoral	Ricardo	the label is neither a number nor a Scripture reference
+martirologio.04-04.1	Santoral	Isidoro	the label is neither a number nor a Scripture reference
+martirologio.04-04.7	Santoral	Benito Massarari	the label is neither a number nor a Scripture reference
+martirologio.04-04.8	Santoral	José Benito Dusmet	the label is neither a number nor a Scripture reference
+martirologio.04-05.1	Santoral	Vicente Ferrer	the label is neither a number nor a Scripture reference
+martirologio.04-05.8	Santoral	Juliana	the label is neither a number nor a Scripture reference
+martirologio.04-05.9	Santoral	Catalina Tomás	the label is neither a number nor a Scripture reference
+martirologio.04-06.5	Santoral	Prudencio	the label is neither a number nor a Scripture reference
+martirologio.04-06.7	Santoral	Notkero Bálbulo	the label is neither a number nor a Scripture reference
+martirologio.04-06.10	Santoral	Pedro de Verona	the label is neither a number nor a Scripture reference
+martirologio.04-07.1	Santoral	Juan Bautista de la Salle	the label is neither a number nor a Scripture reference
+martirologio.04-08.5	Santoral	Dionisio	the label is neither a number nor a Scripture reference
+martirologio.04-08.9	Santoral	Julia Billiart	the label is neither a number nor a Scripture reference
+martirologio.04-09.9	Santoral	Casilda	the label is neither a number nor a Scripture reference
+martirologio.04-10.1	Santoral	Ezequiel	the label is neither a number nor a Scripture reference
+martirologio.04-10.10	Santoral	Miguel de los Santos	the label is neither a number nor a Scripture reference
+martirologio.04-11.1	Santoral	Estanislao	the label is neither a number nor a Scripture reference
+martirologio.04-11.11	Santoral	Gema Galgani	the label is neither a number nor a Scripture reference
+martirologio.04-12.2	Santoral	Julio I	the label is neither a number nor a Scripture reference
+martirologio.04-13.1	Santoral	Martín I	the label is neither a number nor a Scripture reference
+martirologio.04-13.4	Santoral	Hermenegildo	the label is neither a number nor a Scripture reference
+martirologio.04-14.10	Santoral	Pedro González	the label is neither a number nor a Scripture reference
+martirologio.04-14.11	Santoral	Lidvina	the label is neither a number nor a Scripture reference
+martirologio.04-16.2	Santoral	8	no work named in the prose before the label (Santoral)
+martirologio.04-16.3	Santoral	Engracia	the label is neither a number nor a Scripture reference
+martirologio.04-16.6	Santoral	Fructuoso	the label is neither a number nor a Scripture reference
+martirologio.04-16.11	Santoral	Benito José Labre	the label is neither a number nor a Scripture reference
+martirologio.04-16.12	Santoral	9	no work named in the prose before the label (Santoral)
+martirologio.04-16.13	Santoral	María Bernarda Soubirous	the label is neither a number nor a Scripture reference
+martirologio.04-17.13	Santoral	Maríana de Jesús Navarro de Guevara	the label is neither a number nor a Scripture reference
+martirologio.04-17.15	Santoral	Catalina Tekawitha	the label is neither a number nor a Scripture reference
+martirologio.04-18.9	Santoral	Perfecto	the label is neither a number nor a Scripture reference
+martirologio.04-18.14	Santoral	María de la Encarnación (Bárbara) Avrillot	the label is neither a number nor a Scripture reference
+martirologio.04-19.6	Santoral	León IX	the label is neither a number nor a Scripture reference
+martirologio.04-20.1	Santoral	Aniceto	the label is neither a number nor a Scripture reference
+martirologio.04-20.4	Santoral	Eusebio de Vercelli	the label is neither a number nor a Scripture reference
+martirologio.04-20.12	Santoral	Inés	the label is neither a number nor a Scripture reference
+martirologio.04-21.1	Santoral	Anselmo	the label is neither a number nor a Scripture reference
+martirologio.04-21.5	Santoral	Maelrubo	the label is neither a number nor a Scripture reference
+martirologio.04-21.9	Santoral	Román Adame	the label is neither a number nor a Scripture reference
+martirologio.04-22.1	Santoral	Sotero	the label is neither a number nor a Scripture reference
+martirologio.04-22.4	Santoral	Cayo	the label is neither a number nor a Scripture reference
+martirologio.04-23.1	Santoral	Adalberto	the label is neither a number nor a Scripture reference
+martirologio.04-23	Santoral	San Jorge	the label is neither a number nor a Scripture reference
+martirologio.04-24.1	Santoral	Fidel de Sigmaringen	the label is neither a number nor a Scripture reference
+martirologio.04-24.2	Santoral	María Magdalena	the label is neither a number nor a Scripture reference
+martirologio.04-24.8	Santoral	Wilfrido	the label is neither a number nor a Scripture reference
+martirologio.04-24.12	Santoral	Benito (Ángel) Menni	the label is neither a number nor a Scripture reference
+martirologio.04-25.1	Santoral	Marcos	the label is neither a number nor a Scripture reference
+martirologio.04-26.1	Santoral	Cleto	the label is neither a number nor a Scripture reference
+martirologio.04-27.7	Santoral	Zita	the label is neither a number nor a Scripture reference
+martirologio.04-27.8	Santoral	Pedro Ermengol	the label is neither a number nor a Scripture reference
+martirologio.04-28.1	Santoral	Pedro Chanel	the label is neither a number nor a Scripture reference
+martirologio.04-28.2	Santoral	Luis María Grignon de Montfort	the label is neither a number nor a Scripture reference
+martirologio.04-28.5	Santoral	Gervasio, Protasio	the label is neither a number nor a Scripture reference
+martirologio.04-29.1	Santoral	Catalina de Siena	the label is neither a number nor a Scripture reference
+martirologio.04-30.1	Santoral	Pío V	the label is neither a number nor a Scripture reference
+martirologio.04-30.18	Santoral	José Benito Cottolengo	the label is neither a number nor a Scripture reference
+martirologio.05-01.1	Santoral	San José Obrero	the label is neither a number nor a Scripture reference
+martirologio.05-01.2	Santoral	Jeremías	the label is neither a number nor a Scripture reference
+martirologio.05-01.4	Santoral	Torcuato	the label is neither a number nor a Scripture reference
+martirologio.05-01.19	Santoral	Pío V	the label is neither a number nor a Scripture reference
+martirologio.05-02.1	Santoral	Atanasio	the label is neither a number nor a Scripture reference
+martirologio.05-02.8	Santoral	Antonino	the label is neither a number nor a Scripture reference
+martirologio.05-02.11	Santoral	José María Rubio Peralta	the label is neither a number nor a Scripture reference
+martirologio.05-03.1	Santoral	Felipe	the label is neither a number nor a Scripture reference
+martirologio.05-03.1	Santoral	Santiago	the label is neither a number nor a Scripture reference
+martirologio.05-03	Santoral	Invención de la Santa Cruz	the label is neither a number nor a Scripture reference
+martirologio.05-05.5	Santoral	Hilario	the label is neither a number nor a Scripture reference
+martirologio.05-05.10	Santoral	Gotardo	the label is neither a number nor a Scripture reference
+martirologio.05-06.6	Santoral	Pedro Nolasco	the label is neither a number nor a Scripture reference
+martirologio.05-06	Santoral	San Juan ante Portam Latinam	the label is neither a number nor a Scripture reference
+martirologio.05-07.1	Santoral	Domitila	the label is neither a number nor a Scripture reference
+martirologio.05-07.4	Santoral	Juan	the label is neither a number nor a Scripture reference
+martirologio.05-08.4	Santoral	Arsenio	the label is neither a number nor a Scripture reference
+martirologio.05-08.13	Santoral	Luis Rabatá	the label is neither a number nor a Scripture reference
+martirologio.05-09.1	Santoral	Isaías	the label is neither a number nor a Scripture reference
+martirologio.05-09.14	Santoral	Gregorio	the label is neither a number nor a Scripture reference
+martirologio.05-10.1	Santoral	Job	the label is neither a number nor a Scripture reference
+martirologio.05-10.12	Santoral	Juan de Ávila	the label is neither a number nor a Scripture reference
+martirologio.05-11.6	Santoral	Mayolo	the label is neither a number nor a Scripture reference
+martirologio.05-11.10	Santoral	Francisco de Jerónimo	the label is neither a number nor a Scripture reference
+martirologio.05-12.8	Santoral	Germán	the label is neither a number nor a Scripture reference
+martirologio.05-12.9	Santoral	Domingo de la Calzada	the label is neither a number nor a Scripture reference
+martirologio.05-12	Santoral	Santos Nereo y Aquiles	the label is neither a number nor a Scripture reference
+martirologio.05-13.1	Santoral	Virgen María de Fátima	the label is neither a number nor a Scripture reference
+martirologio.05-13.6	Santoral	Magdalena Albrici	the label is neither a number nor a Scripture reference
+martirologio.05-13.7	Santoral	Andrés Huberto Fournet	the label is neither a number nor a Scripture reference
+martirologio.05-13.7	Santoral	Isabel Bichier des Ages	the label is neither a number nor a Scripture reference
+martirologio.05-14.1	Santoral	Matías	the label is neither a number nor a Scripture reference
+martirologio.05-14.6	Santoral	Fortunato	the label is neither a number nor a Scripture reference
+martirologio.05-14.14	Santoral	Miguel Garicoits	the label is neither a number nor a Scripture reference
+martirologio.05-14.15	Santoral	María Dominica Mazzarello	the label is neither a number nor a Scripture reference
+martirologio.05-15.10	Santoral	Isidro	the label is neither a number nor a Scripture reference
+martirologio.05-16.14	Santoral	Simón Stock	the label is neither a number nor a Scripture reference
+martirologio.05-16.15	Santoral	Andrés Bobola	the label is neither a number nor a Scripture reference
+martirologio.05-18.1	Santoral	Juan I	the label is neither a number nor a Scripture reference
+martirologio.05-18.9	Santoral	Félix de Cantalicio	the label is neither a number nor a Scripture reference
+martirologio.05-19.6	Santoral	Pedro Celestino	the label is neither a number nor a Scripture reference
+martirologio.05-19.13	Santoral	Crispín de Viterbo	the label is neither a number nor a Scripture reference
+martirologio.05-20.1	Santoral	Bernardino de Siena	the label is neither a number nor a Scripture reference
+martirologio.05-20.2	Santoral	Lidia de Tiatira	the label is neither a number nor a Scripture reference
+martirologio.05-20.7	Santoral	Hilario	the label is neither a number nor a Scripture reference
+martirologio.05-20	Santoral	Santa Maria de la Caridad del Cobre	the label is neither a number nor a Scripture reference
+martirologio.05-21.1	Santoral	Cristóbal Magallanes	the label is neither a number nor a Scripture reference
+martirologio.05-21.1	Santoral	10	no work named in the prose before the label (Santoral)
+martirologio.05-21.6	Santoral	Hospicio	the label is neither a number nor a Scripture reference
+martirologio.05-22.1	Santoral	Rita	the label is neither a number nor a Scripture reference
+martirologio.05-22.5	Santoral	Quiteria	the label is neither a number nor a Scripture reference
+martirologio.05-22.14	Santoral	Joaquina de Vedruna	the label is neither a number nor a Scripture reference
+martirologio.05-23.12	Santoral	Juan Bautista de Rossi	the label is neither a number nor a Scripture reference
+martirologio.05-24.7	Santoral	Vicente	the label is neither a number nor a Scripture reference
+martirologio.05-24.8	Santoral	Simeón Estilita	the label is neither a number nor a Scripture reference
+martirologio.05-24.11	Santoral	11	no work named in the prose before the label (Santoral)
+martirologio.05-25.1	Santoral	Beda el Venerable	the label is neither a number nor a Scripture reference
+martirologio.05-25.2	Santoral	Gregorio VII	the label is neither a number nor a Scripture reference
+martirologio.05-25.3	Santoral	María Magdalena de Pazzi	the label is neither a number nor a Scripture reference
+martirologio.05-25.14	Santoral	Magdalena Sofía Barat	the label is neither a number nor a Scripture reference
+martirologio.05-26.1	Santoral	Felipe Neri	the label is neither a number nor a Scripture reference
+martirologio.05-26.12	Santoral	Mariana de Jesús de Paredes	the label is neither a number nor a Scripture reference
+martirologio.05-27.1	Santoral	Agustín	the label is neither a number nor a Scripture reference
+martirologio.05-28.4	Santoral	Germán	the label is neither a number nor a Scripture reference
+martirologio.05-28.5	Santoral	Guillermo	the label is neither a number nor a Scripture reference
+martirologio.05-29.2	Santoral	Maximino	the label is neither a number nor a Scripture reference
+martirologio.05-29.8	Santoral	12	no work named in the prose before the label (Santoral)
+martirologio.05-30.6	Santoral	Fernando III	the label is neither a number nor a Scripture reference
+martirologio.05-30.7	Santoral	Juana de Arco	the label is neither a number nor a Scripture reference
+martirologio.05-31.1	Santoral	Visitación de la bienaventurada Virgen María	the label is neither a number nor a Scripture reference
+martirologio.05-31.2	Santoral	Petronila	the label is neither a number nor a Scripture reference
+martirologio.06-01.1	Santoral	Justino	the label is neither a number nor a Scripture reference
+martirologio.06-01.12	Santoral	Enecón	the label is neither a number nor a Scripture reference
+martirologio.06-02.1	Santoral	Marcelino	the label is neither a number nor a Scripture reference
+martirologio.06-02.1	Santoral	Pedro	the label is neither a number nor a Scripture reference
+martirologio.06-02.2	Santoral	Potino	the label is neither a number nor a Scripture reference
+martirologio.06-02.2	Santoral	Blandina	the label is neither a number nor a Scripture reference
+martirologio.06-02.2	Santoral	13	no work named in the prose before the label (Santoral)
+martirologio.06-02.5	Santoral	Nicéforo	the label is neither a number nor a Scripture reference
+martirologio.06-02.11	Santoral	Germán	the label is neither a number nor a Scripture reference
+martirologio.06-02.11	Santoral	Paulino	the label is neither a number nor a Scripture reference
+martirologio.06-02.11	Santoral	Justo	the label is neither a number nor a Scripture reference
+martirologio.06-02.11	Santoral	Sicio	the label is neither a number nor a Scripture reference
+martirologio.06-03.1	Santoral	Carlos Lwanga	the label is neither a number nor a Scripture reference
+martirologio.06-03.1	Santoral	14	no work named in the prose before the label (Santoral)
+martirologio.06-03.4	Santoral	Clotilde	the label is neither a number nor a Scripture reference
+martirologio.06-03.9	Santoral	Isaac	the label is neither a number nor a Scripture reference
+martirologio.06-03.15	Santoral	Juan Grande	the label is neither a number nor a Scripture reference
+martirologio.06-03.19	Santoral	Juan XXIII	the label is neither a number nor a Scripture reference
+martirologio.06-04.8	Santoral	Francisco Caracciolo	the label is neither a number nor a Scripture reference
+martirologio.06-05.1	Santoral	Bonifacio	the label is neither a number nor a Scripture reference
+martirologio.06-05.4	Santoral	Ilidio	the label is neither a number nor a Scripture reference
+martirologio.06-05.6	Santoral	15	no work named in the prose before the label (Santoral)
+martirologio.06-06.1	Santoral	Norberto	the label is neither a number nor a Scripture reference
+martirologio.06-06.16	Santoral	Marcelino Champagnat	the label is neither a number nor a Scripture reference
+martirologio.06-06.18	Santoral	Rafael Guizar Valencia	the label is neither a number nor a Scripture reference
+martirologio.06-07.2	Santoral	Pedro	the label is neither a number nor a Scripture reference
+martirologio.06-07.2	Santoral	Valabonso	the label is neither a number nor a Scripture reference
+martirologio.06-07.2	Santoral	Sabiniano	the label is neither a number nor a Scripture reference
+martirologio.06-07.2	Santoral	Vistremundo	the label is neither a number nor a Scripture reference
+martirologio.06-07.2	Santoral	Abencio	the label is neither a number nor a Scripture reference
+martirologio.06-07.2	Santoral	Jeremías	the label is neither a number nor a Scripture reference
+martirologio.06-07.4	Santoral	Ana de San Bartolomé	the label is neither a number nor a Scripture reference
+martirologio.06-07.6	Santoral	María Teresa de Soubiran La Louviere	the label is neither a number nor a Scripture reference
+martirologio.06-07.6	Santoral	María Auxiliadora	the label is neither a number nor a Scripture reference
+martirologio.06-08.3	Santoral	Medardo	the label is neither a number nor a Scripture reference
+martirologio.06-08.9	Santoral	María del Divino Corazón de Jesús Droste zu Vischering	the label is neither a number nor a Scripture reference
+martirologio.06-09.1	Santoral	Efrén	the label is neither a number nor a Scripture reference
+martirologio.06-09.6	Santoral	Columba	the label is neither a number nor a Scripture reference
+martirologio.06-09.9	Santoral	José de Anchieta	the label is neither a number nor a Scripture reference
+martirologio.06-09.11	Santoral	Ana María Taigi	the label is neither a number nor a Scripture reference
+martirologio.06-10.7	Santoral	Juan Dominici	the label is neither a number nor a Scripture reference
+martirologio.06-11.1	Santoral	Bernabé	the label is neither a number nor a Scripture reference
+martirologio.06-11.9	Santoral	Juan de Sahagún González de Castrillo	the label is neither a number nor a Scripture reference
+martirologio.06-11.11	Santoral	Paula Frassinetti	the label is neither a number nor a Scripture reference
+martirologio.06-12.2	Santoral	Onofre	the label is neither a number nor a Scripture reference
+martirologio.06-13.1	Santoral	Antonio	the label is neither a number nor a Scripture reference
+martirologio.06-13.10	Santoral	Fandila	the label is neither a number nor a Scripture reference
+martirologio.06-14.1	Santoral	Eliseo	the label is neither a number nor a Scripture reference
+martirologio.06-14.7	Santoral	Anastasio	the label is neither a number nor a Scripture reference
+martirologio.06-14.7	Santoral	Félix	the label is neither a number nor a Scripture reference
+martirologio.06-14.7	Santoral	Digna	the label is neither a number nor a Scripture reference
+martirologio.06-15.1	Santoral	Amós	the label is neither a number nor a Scripture reference
+martirologio.06-15.7	Santoral	Benilde	the label is neither a number nor a Scripture reference
+martirologio.06-15.8	Santoral	Bernardo de Menthone	the label is neither a number nor a Scripture reference
+martirologio.06-15.12	Santoral	Germana	the label is neither a number nor a Scripture reference
+martirologio.06-16.1	Santoral	Quirico	the label is neither a number nor a Scripture reference
+martirologio.06-16.1	Santoral	Julita	the label is neither a number nor a Scripture reference
+martirologio.06-17.7	Santoral	Avito	the label is neither a number nor a Scripture reference
+martirologio.06-17.8	Santoral	Rainerio	the label is neither a number nor a Scripture reference
+martirologio.06-17.11	Santoral	Pedro Burali	the label is neither a number nor a Scripture reference
+martirologio.06-18.8	Santoral	Gregorio Barbarigo	the label is neither a number nor a Scripture reference
+martirologio.06-18	Santoral	Santos Marcos y Marcelino mártires	the label is neither a number nor a Scripture reference
+martirologio.06-19.1	Santoral	Romualdo	the label is neither a number nor a Scripture reference
+martirologio.06-19.5	Santoral	Lamberto	the label is neither a number nor a Scripture reference
+martirologio.06-19.7	Santoral	Juliana Falconeri	the label is neither a number nor a Scripture reference
+martirologio.06-20.7	Santoral	16	no work named in the prose before the label (Santoral)
+martirologio.06-20.8	Santoral	mártires	the label is neither a number nor a Scripture reference
+martirologio.06-21.1	Santoral	Luis Gonzaga	the label is neither a number nor a Scripture reference
+martirologio.06-21.5	Santoral	Raimundo	the label is neither a number nor a Scripture reference
+martirologio.06-22.1	Santoral	Paulino	the label is neither a number nor a Scripture reference
+martirologio.06-22.2	Santoral	Juan Fisher	the label is neither a number nor a Scripture reference
+martirologio.06-22.2	Santoral	Tomás Moro	the label is neither a number nor a Scripture reference
+martirologio.06-22.6	Santoral	Eusebio	the label is neither a number nor a Scripture reference
+martirologio.06-23.8	Santoral	Tomás Garnet	the label is neither a number nor a Scripture reference
+martirologio.06-23.9	Santoral	José Cafasso	the label is neither a number nor a Scripture reference
+martirologio.06-24.1	Santoral	Juan Bautista	the label is neither a number nor a Scripture reference
+martirologio.06-25.2	Santoral	Próspero de Aquitania	the label is neither a number nor a Scripture reference
+martirologio.06-25.9	Santoral	Guillermo	the label is neither a number nor a Scripture reference
+martirologio.06-26.1	Santoral	Juan	the label is neither a number nor a Scripture reference
+martirologio.06-26.1	Santoral	Pablo	the label is neither a number nor a Scripture reference
+martirologio.06-26.7	Santoral	Pelayo	the label is neither a number nor a Scripture reference
+martirologio.06-26.16	Santoral	Josemaría Escrivá de Balaguer	the label is neither a number nor a Scripture reference
+martirologio.06-27.1	Santoral	Cirilo	the label is neither a number nor a Scripture reference
+martirologio.06-27.3	Santoral	Zoilo	the label is neither a number nor a Scripture reference
+martirologio.06-27	Santoral	Nuestra Senora del Perpetuo Socorro	the label is neither a number nor a Scripture reference
+martirologio.06-28.1	Santoral	Ireneo	the label is neither a number nor a Scripture reference
+martirologio.06-28.7	Santoral	Vicenta Gerosa	the label is neither a number nor a Scripture reference
+martirologio.06-28.7	Santoral	Bartolomea Captanio	the label is neither a number nor a Scripture reference
+martirologio.06-29.1	Santoral	Pedro	the label is neither a number nor a Scripture reference
+martirologio.06-29.1	Santoral	Pablo	the label is neither a number nor a Scripture reference
+martirologio.06-30.1	Santoral	Protomártires	the label is neither a number nor a Scripture reference
+martirologio.06-30.7	Santoral	Ladislao	the label is neither a number nor a Scripture reference
+martirologio.06-30.8	Santoral	Otón	the label is neither a number nor a Scripture reference
+martirologio.07-01.10	Santoral	Oliverio Plunkett	the label is neither a number nor a Scripture reference
+martirologio.07-01.14	Santoral	Justino Orona y Atilano Cruz	the label is neither a number nor a Scripture reference
+martirologio.07-01	Santoral	La preciosísima sangre de nuestro Señor Jesucristo	the label is neither a number nor a Scripture reference
+martirologio.07-02.1	Santoral	Proceso	the label is neither a number nor a Scripture reference
+martirologio.07-02.1	Santoral	Martiniano	the label is neither a number nor a Scripture reference
+martirologio.07-03.1	Santoral	Tomás	the label is neither a number nor a Scripture reference
+martirologio.07-03.5	Santoral	Heliodoro	the label is neither a number nor a Scripture reference
+martirologio.07-03.8	Santoral	Raimundo Gayrard	the label is neither a number nor a Scripture reference
+martirologio.07-03.9	Santoral	Raimundo Llull	the label is neither a number nor a Scripture reference
+martirologio.07-03.11	Santoral	María Ana Mogás Fontcuberta	the label is neither a number nor a Scripture reference
+martirologio.07-04.1	Santoral	Isabel	the label is neither a number nor a Scripture reference
+martirologio.07-05.1	Santoral	Antonio María Zaccaria	the label is neither a number nor a Scripture reference
+martirologio.07-06.1	Santoral	María Goretti	the label is neither a number nor a Scripture reference
+martirologio.07-06.9	Santoral	Tomás Moro	the label is neither a number nor a Scripture reference
+martirologio.07-06.15	Santoral	Nazaria de Santa Teresa March Mesa	the label is neither a number nor a Scripture reference
+martirologio.07-07.1	Santoral	Panteno de Alejandría	the label is neither a number nor a Scripture reference
+martirologio.07-08.3	Santoral	Procopio	the label is neither a number nor a Scripture reference
+martirologio.07-08.4	Santoral	Pancracio	the label is neither a number nor a Scripture reference
+martirologio.07-08.11	Santoral	Eugenio III	the label is neither a number nor a Scripture reference
+martirologio.07-09.1	Santoral	17	no work named in the prose before the label (Santoral)
+martirologio.07-09.4	Santoral	Nicolás Pieck	the label is neither a number nor a Scripture reference
+martirologio.07-09.4	Santoral	18	no work named in the prose before the label (Santoral)
+martirologio.07-09.5	Santoral	Verónica Giuliani	the label is neither a number nor a Scripture reference
+martirologio.07-09.8	Santoral	19	no work named in the prose before the label (Santoral)
+martirologio.07-09	Santoral	Nuestra Senora del Rosario de Chiquinquirá	the label is neither a number nor a Scripture reference
+martirologio.07-10.6	Santoral	Cristóbal	the label is neither a number nor a Scripture reference
+martirologio.07-10.12	Santoral	Canuto	the label is neither a number nor a Scripture reference
+martirologio.07-10.15	Santoral	20	no work named in the prose before the label (Santoral)
+martirologio.07-11.1	Santoral	Benito	the label is neither a number nor a Scripture reference
+martirologio.07-12.1	Santoral	Proclo e Hilarión	the label is neither a number nor a Scripture reference
+martirologio.07-12.6	Santoral	Juan Gualberto	the label is neither a number nor a Scripture reference
+martirologio.07-12.10	Santoral	21	no work named in the prose before the label (Santoral)
+martirologio.07-13.1	Santoral	Enrique	the label is neither a number nor a Scripture reference
+martirologio.07-13.7	Santoral	Eugenio	the label is neither a number nor a Scripture reference
+martirologio.07-13.12	Santoral	22	no work named in the prose before the label (Santoral)
+martirologio.07-14.1	Santoral	Camilo de Lelis	the label is neither a number nor a Scripture reference
+martirologio.07-14.8	Santoral	Angelina de Marsciano	the label is neither a number nor a Scripture reference
+martirologio.07-14.9	Santoral	Gaspar de Bono	the label is neither a number nor a Scripture reference
+martirologio.07-14.10	Santoral	Francisco Solano	the label is neither a number nor a Scripture reference
+martirologio.07-15.1	Santoral	Buenaventura	the label is neither a number nor a Scripture reference
+martirologio.07-15.17	Santoral	Ignacio de Acebedo	the label is neither a number nor a Scripture reference
+martirologio.07-15.17	Santoral	treinta y ocho compañeros	the label is neither a number nor a Scripture reference
+martirologio.07-15.17	Santoral	23	no work named in the prose before the label (Santoral)
+martirologio.07-15.18	Santoral	Pompilio María Pirrotti	the label is neither a number nor a Scripture reference
+martirologio.07-16.1	Santoral	Virgen María del Monte Carmelo	the label is neither a number nor a Scripture reference
+martirologio.07-16.14	Santoral	24	no work named in the prose before the label (Santoral)
+martirologio.07-17.1	Santoral	mártires escilitanos	the label is neither a number nor a Scripture reference
+martirologio.07-17.3	Santoral	Justina y Rufina	the label is neither a number nor a Scripture reference
+martirologio.07-17.5	Santoral	Alejo	the label is neither a number nor a Scripture reference
+martirologio.07-17.13	Santoral	Eduvigis	the label is neither a number nor a Scripture reference
+martirologio.07-17.14	Santoral	Teresa de San Agustín (María Magdalena Claudina) Lindoine	the label is neither a number nor a Scripture reference
+martirologio.07-17.14	Santoral	25	no work named in the prose before the label (Santoral)
+martirologio.07-17.14	Santoral	vírgenes del Carmelo de Compiegne	the label is neither a number nor a Scripture reference
+martirologio.07-18.1	Santoral	Sinforosa	the label is neither a number nor a Scripture reference
+martirologio.07-18.8	Santoral	Federico	the label is neither a number nor a Scripture reference
+martirologio.07-19.3	Santoral	Macrina	the label is neither a number nor a Scripture reference
+martirologio.07-20.2	Santoral	Elías	the label is neither a number nor a Scripture reference
+martirologio.07-20.6	Santoral	Aurelio	the label is neither a number nor a Scripture reference
+martirologio.07-21.1	Santoral	Lorenzo de Brindis	the label is neither a number nor a Scripture reference
+martirologio.07-21.3	Santoral	Simeón	the label is neither a number nor a Scripture reference
+martirologio.07-21.4	Santoral	Práxedes	the label is neither a number nor a Scripture reference
+martirologio.07-21	Santoral	San Daniel	the label is neither a number nor a Scripture reference
+martirologio.07-22.1	Santoral	María Magdalena	the label is neither a number nor a Scripture reference
+martirologio.07-22.12	Santoral	Felipe Evans	the label is neither a number nor a Scripture reference
+martirologio.07-22.14	Santoral	Ana Wang	the label is neither a number nor a Scripture reference
+martirologio.07-22.14	Santoral	Andrés Wang Tianqing	the label is neither a number nor a Scripture reference
+martirologio.07-23.1	Santoral	Brígida	the label is neither a number nor a Scripture reference
+martirologio.07-23.2	Santoral	Apolinar	the label is neither a number nor a Scripture reference
+martirologio.07-23.7	Santoral	26	no work named in the prose before the label (Santoral)
+martirologio.07-23.8	Santoral	27	no work named in the prose before the label (Santoral)
+martirologio.07-24.2	Santoral	Cristina	the label is neither a number nor a Scripture reference
+martirologio.07-24.5	Santoral	Eufrasia	the label is neither a number nor a Scripture reference
+martirologio.07-24.9	Santoral	Balduíno	the label is neither a number nor a Scripture reference
+martirologio.07-24.14	Santoral	Soreth	the label is neither a number nor a Scripture reference
+martirologio.07-24.16	Santoral	Amadeo	the label is neither a number nor a Scripture reference
+martirologio.07-24.22	Santoral	María Ángeles de San José (Marciana) Valtierra Tordesillas	the label is neither a number nor a Scripture reference
+martirologio.07-25.1	Santoral	Santiago	the label is neither a number nor a Scripture reference
+martirologio.07-25.2	Santoral	Valentina	the label is neither a number nor a Scripture reference
+martirologio.07-25.12	Santoral	Carmen Sallés y Barangueras	the label is neither a number nor a Scripture reference
+martirologio.07-26.1	Santoral	Joaquín	the label is neither a number nor a Scripture reference
+martirologio.07-26.1	Santoral	Ana	the label is neither a number nor a Scripture reference
+martirologio.07-26.14	Santoral	28	no work named in the prose before the label (Santoral)
+martirologio.07-27.2	Santoral	Pantaleón	the label is neither a number nor a Scripture reference
+martirologio.07-27.3	Santoral	Cucufate	the label is neither a number nor a Scripture reference
+martirologio.07-27.11	Santoral	Jorge	the label is neither a number nor a Scripture reference
+martirologio.07-27.11	Santoral	Aurelio	the label is neither a number nor a Scripture reference
+martirologio.07-27.11	Santoral	Sabigotona	the label is neither a number nor a Scripture reference
+martirologio.07-27.11	Santoral	Félix	the label is neither a number nor a Scripture reference
+martirologio.07-27.11	Santoral	Liliosa	the label is neither a number nor a Scripture reference
+martirologio.07-28.5	Santoral	Nazario	the label is neither a number nor a Scripture reference
+martirologio.07-28.5	Santoral	Celso	the label is neither a number nor a Scripture reference
+martirologio.07-28.9	Santoral	Melchor García Sampedro	the label is neither a number nor a Scripture reference
+martirologio.07-28.10	Santoral	Pedro Poveda Castroverde	the label is neither a number nor a Scripture reference
+martirologio.07-29.1	Santoral	Marta	the label is neither a number nor a Scripture reference
+martirologio.07-29.2	Santoral	Lázaro	the label is neither a number nor a Scripture reference
+martirologio.07-29.8	Santoral	Olaf	the label is neither a number nor a Scripture reference
+martirologio.07-29.9	Santoral	Urbano II	the label is neither a number nor a Scripture reference
+martirologio.07-29.15	Santoral	29	no work named in the prose before the label (Santoral)
+martirologio.07-30.1	Santoral	San Pedro	the label is neither a number nor a Scripture reference
+martirologio.07-30.2	Santoral	Abdón	the label is neither a number nor a Scripture reference
+martirologio.07-30.2	Santoral	Senén	the label is neither a number nor a Scripture reference
+martirologio.07-30.7	Santoral	Manes Guzmán	the label is neither a number nor a Scripture reference
+martirologio.07-30.10	Santoral	30	no work named in the prose before the label (Santoral)
+martirologio.07-30.15	Santoral	María de Jesús Sacramentado Venegas de la Torre	the label is neither a number nor a Scripture reference
+martirologio.07-31.1	Santoral	Ignacio de Loyola	the label is neither a number nor a Scripture reference
+martirologio.07-31.4	Santoral	Fabio	the label is neither a number nor a Scripture reference
+martirologio.08-01.1	Santoral	Alfonso María de Ligorio	the label is neither a number nor a Scripture reference
+martirologio.08-01.2	Santoral	siete santos hermanos mártires	the label is neither a number nor a Scripture reference
+martirologio.08-01.5	Santoral	Eusebio	the label is neither a number nor a Scripture reference
+martirologio.08-01.13	Santoral	Pedro Favre	the label is neither a number nor a Scripture reference
+martirologio.08-01.16	Santoral	Pedro Julián Eymard	the label is neither a number nor a Scripture reference
+martirologio.08-01.19	Santoral	31	no work named in the prose before the label (Santoral)
+martirologio.08-01	Santoral	San Pedro ad víncula	the label is neither a number nor a Scripture reference
+martirologio.08-02.9	Santoral	Pedro	the label is neither a number nor a Scripture reference
+martirologio.08-02	Santoral	Santa Maria de los Ángeles o de la Porciúncula	the label is neither a number nor a Scripture reference
+martirologio.08-04.1	Santoral	Juan María Vianney	the label is neither a number nor a Scripture reference
+martirologio.08-04.2	Santoral	Aristarco de Tesalónica	the label is neither a number nor a Scripture reference
+martirologio.08-05.1	Santoral	Santa María	the label is neither a number nor a Scripture reference
+martirologio.08-05.5	Santoral	Nona	the label is neither a number nor a Scripture reference
+martirologio.08-05.9	Santoral	Osvaldo	the label is neither a number nor a Scripture reference
+martirologio.08-06.1	Santoral	Transfiguración de Señor	the label is neither a number nor a Scripture reference
+martirologio.08-06.2	Santoral	Sixto II	the label is neither a number nor a Scripture reference
+martirologio.08-06.3	Santoral	Justo	the label is neither a number nor a Scripture reference
+martirologio.08-06.3	Santoral	Pastor	the label is neither a number nor a Scripture reference
+martirologio.08-07.1	Santoral	Cayetano de Thiene	the label is neither a number nor a Scripture reference
+martirologio.08-07.3	Santoral	Afra	the label is neither a number nor a Scripture reference
+martirologio.08-07.16	Santoral	Miguel de la Mora	the label is neither a number nor a Scripture reference
+martirologio.08-08.1	Santoral	Domingo	the label is neither a number nor a Scripture reference
+martirologio.08-08.11	Santoral	Juan Felton	the label is neither a number nor a Scripture reference
+martirologio.08-08.18	Santoral	32	no work named in the prose before the label (Santoral)
+martirologio.08-09.1	Santoral	Teresa Benedicta de la Cruz (Edith) Stein	the label is neither a number nor a Scripture reference
+martirologio.08-09.13	Santoral	33	no work named in the prose before the label (Santoral)
+martirologio.08-10.1	Santoral	Lorenzo	the label is neither a number nor a Scripture reference
+martirologio.08-11.1	Santoral	Clara	the label is neither a number nor a Scripture reference
+martirologio.08-11.2	Santoral	Alejandro	the label is neither a number nor a Scripture reference
+martirologio.08-12.1	Santoral	Juana Francisca Frémiot de Chantal	the label is neither a number nor a Scripture reference
+martirologio.08-12.14	Santoral	34	no work named in the prose before the label (Santoral)
+martirologio.08-13.1	Santoral	Ponciano	the label is neither a number nor a Scripture reference
+martirologio.08-13.1	Santoral	Hipólito	the label is neither a number nor a Scripture reference
+martirologio.08-13.2	Santoral	Casiano	the label is neither a number nor a Scripture reference
+martirologio.08-13.4	Santoral	Radegunda	the label is neither a number nor a Scripture reference
+martirologio.08-13.10	Santoral	Juan Berchmans	the label is neither a number nor a Scripture reference
+martirologio.08-13.13	Santoral	Benildo (Pedro) Romançon	the label is neither a number nor a Scripture reference
+martirologio.08-13.14	Santoral	35	no work named in the prose before the label (Santoral)
+martirologio.08-14.1	Santoral	Maximiliano María (Raimundo) Kolbe	the label is neither a number nor a Scripture reference
+martirologio.08-15.1	Santoral	Asunción de la bienaventurada Virgen María	the label is neither a number nor a Scripture reference
+martirologio.08-15.2	Santoral	Tarsicio	the label is neither a number nor a Scripture reference
+martirologio.08-15.7	Santoral	Esteban	the label is neither a number nor a Scripture reference
+martirologio.08-15.8	Santoral	Jacinto	the label is neither a number nor a Scripture reference
+martirologio.08-15.11	Santoral	Estanislao de Kostka	the label is neither a number nor a Scripture reference
+martirologio.08-15.13	Santoral	Luis Batis Sáinz	the label is neither a number nor a Scripture reference
+martirologio.08-15.13	Santoral	Manuel Morales	the label is neither a number nor a Scripture reference
+martirologio.08-15.13	Santoral	Salvador Lara Puente	the label is neither a number nor a Scripture reference
+martirologio.08-15.14	Santoral	36	no work named in the prose before the label (Santoral)
+martirologio.08-15	Santoral	Nuestra Senora de los Ojos Grandes	the label is neither a number nor a Scripture reference
+martirologio.08-16.1	Santoral	Esteban	the label is neither a number nor a Scripture reference
+martirologio.08-16.8	Santoral	Roque	the label is neither a number nor a Scripture reference
+martirologio.08-17.10	Santoral	Beatriz da Silva Meneses	the label is neither a number nor a Scripture reference
+martirologio.08-18.4	Santoral	Elena	the label is neither a number nor a Scripture reference
+martirologio.08-18.5	Santoral	Fermín	the label is neither a number nor a Scripture reference
+martirologio.08-19.1	Santoral	Juan Eudes	the label is neither a number nor a Scripture reference
+martirologio.08-19.6	Santoral	Sixto III	the label is neither a number nor a Scripture reference
+martirologio.08-19.13	Santoral	Luis	the label is neither a number nor a Scripture reference
+martirologio.08-19.16	Santoral	37	no work named in the prose before the label (Santoral)
+martirologio.08-19.21	Santoral	38	no work named in the prose before the label (Santoral)
+martirologio.08-20.1	Santoral	Bernardo	the label is neither a number nor a Scripture reference
+martirologio.08-20.2	Santoral	Samuel	the label is neither a number nor a Scripture reference
+martirologio.08-20.9	Santoral	Pío X	the label is neither a number nor a Scripture reference
+martirologio.08-21.1	Santoral	Pío X	the label is neither a number nor a Scripture reference
+martirologio.08-21.10	Santoral	Bernardo	the label is neither a number nor a Scripture reference
+martirologio.08-21.10	Santoral	María	the label is neither a number nor a Scripture reference
+martirologio.08-21.10	Santoral	Gracia	the label is neither a number nor a Scripture reference
+martirologio.08-22.1	Santoral	Virgen María Reina	the label is neither a number nor a Scripture reference
+martirologio.08-22.4	Santoral	Felipe Benizi	the label is neither a number nor a Scripture reference
+martirologio.08-23.1	Santoral	Rosa	the label is neither a number nor a Scripture reference
+martirologio.08-24.1	Santoral	Bartolomé	the label is neither a number nor a Scripture reference
+martirologio.08-24.8	Santoral	Emilia de Vialar	the label is neither a number nor a Scripture reference
+martirologio.08-24.9	Santoral	María Micaela del Santísimo Sacramento Desmaisieres	the label is neither a number nor a Scripture reference
+martirologio.08-24	Santoral	Beato Tomás de Kempis	the label is neither a number nor a Scripture reference
+martirologio.08-25.1	Santoral	José de Calasanz	the label is neither a number nor a Scripture reference
+martirologio.08-25	Santoral	San Luis, rey de Francia	the label is neither a number nor a Scripture reference
+martirologio.08-26.8	Santoral	santa Juana Isabel Bichier des Ages	the label is neither a number nor a Scripture reference
+martirologio.08-26.10	Santoral	Teresa de Jesús Jornet Ibars	the label is neither a number nor a Scripture reference
+martirologio.08-27.1	Santoral	Mónica	the label is neither a number nor a Scripture reference
+martirologio.08-27.14	Santoral	39	no work named in the prose before the label (Santoral)
+martirologio.08-28.1	Santoral	Agustín	the label is neither a number nor a Scripture reference
+martirologio.08-28.10	Santoral	Florentina	the label is neither a number nor a Scripture reference
+martirologio.08-28.11	Santoral	40	no work named in the prose before the label (Santoral)
+martirologio.08-29.1	Santoral	martirio de san Juan Bautista	the label is neither a number nor a Scripture reference
+martirologio.08-30.9	Santoral	Margarita Ward	the label is neither a number nor a Scripture reference
+martirologio.08-31.5	Santoral	Ramón Nonato	the label is neither a number nor a Scripture reference
+martirologio.08-31.8	Santoral	Domingo del Val	the label is neither a number nor a Scripture reference
+martirologio.09-01.1	Santoral	Josué	the label is neither a number nor a Scripture reference
+martirologio.09-01.9	Santoral	Egidio	the label is neither a number nor a Scripture reference
+martirologio.09-01.13	Santoral	41	no work named in the prose before the label (Santoral)
+martirologio.09-02.14	Santoral	Pedro Ludovico de la Rochefoucauld	the label is neither a number nor a Scripture reference
+martirologio.09-02.14	Santoral	42	no work named in the prose before the label (Santoral)
+martirologio.09-02.15	Santoral	43	no work named in the prose before the label (Santoral)
+martirologio.09-03.1	Santoral	Gregorio I Magno	the label is neither a number nor a Scripture reference
+martirologio.09-03.14	Santoral	Bartolomé Gutiérrez	the label is neither a number nor a Scripture reference
+martirologio.09-03.14	Santoral	44	no work named in the prose before the label (Santoral)
+martirologio.09-03.16	Santoral	45	no work named in the prose before the label (Santoral)
+martirologio.09-03.18	Santoral	46	no work named in the prose before the label (Santoral)
+martirologio.09-04.1	Santoral	Moisés	the label is neither a number nor a Scripture reference
+martirologio.09-05.10	Santoral	Teresa (Inés) Gonhxa Bojaxhiu	the label is neither a number nor a Scripture reference
+martirologio.09-06.3	Santoral	Donaciano	the label is neither a number nor a Scripture reference
+martirologio.09-06.4	Santoral	Eleuterio	the label is neither a number nor a Scripture reference
+martirologio.09-06.8	Santoral	Bertrando de Garrigues	the label is neither a number nor a Scripture reference
+martirologio.09-07.1	Santoral	Regina	the label is neither a number nor a Scripture reference
+martirologio.09-07.15	Santoral	Marcos Crisino	the label is neither a number nor a Scripture reference
+martirologio.09-07.15	Santoral	Esteban Pongracz	the label is neither a number nor a Scripture reference
+martirologio.09-07.15	Santoral	Melchor Grodziecki	the label is neither a number nor a Scripture reference
+martirologio.09-08.1	Santoral	Natividad de la bienaventurada Virgen María	the label is neither a number nor a Scripture reference
+martirologio.09-08.9	Santoral	Tomás de Villanueva	the label is neither a number nor a Scripture reference
+martirologio.09-08.11	Santoral	Pedro Claver	the label is neither a number nor a Scripture reference
+martirologio.09-08.12	Santoral	47	no work named in the prose before the label (Santoral)
+martirologio.09-08	Santoral	Nuestra Senora de Covadonga	the label is neither a number nor a Scripture reference
+martirologio.09-09.1	Santoral	Pedro Claver	the label is neither a number nor a Scripture reference
+martirologio.09-09	Santoral	Nuestra Senora de Aránzazu	the label is neither a number nor a Scripture reference
+martirologio.09-10.1	Santoral	Nemesio	the label is neither a number nor a Scripture reference
+martirologio.09-10.9	Santoral	Nicolás	the label is neither a number nor a Scripture reference
+martirologio.09-10.10	Santoral	48	no work named in the prose before the label (Santoral)
+martirologio.09-10	Santoral	San Pedro de Mezonzo	the label is neither a number nor a Scripture reference
+martirologio.09-11.3	Santoral	Pafnucio	the label is neither a number nor a Scripture reference
+martirologio.09-11.14	Santoral	Juan Gabriel Perboyre	the label is neither a number nor a Scripture reference
+martirologio.09-12.1	Santoral	Dulcísimo Nombre	the label is neither a number nor a Scripture reference
+martirologio.09-12.5	Santoral	Guido	the label is neither a number nor a Scripture reference
+martirologio.09-12.6	Santoral	49	no work named in the prose before the label (Santoral)
+martirologio.09-13.1	Santoral	Juan	the label is neither a number nor a Scripture reference
+martirologio.09-13.8	Santoral	Amado	the label is neither a number nor a Scripture reference
+martirologio.09-14.1	Santoral	Exaltación de la Santa Cruz	the label is neither a number nor a Scripture reference
+martirologio.09-14.6	Santoral	Pedro	the label is neither a number nor a Scripture reference
+martirologio.09-15.1	Santoral	Nuestra Senora de los Dolores	the label is neither a number nor a Scripture reference
+martirologio.09-15	Santoral	Nuestra Senora de las Angustias	the label is neither a number nor a Scripture reference
+martirologio.09-16.1	Santoral	Cornelio	the label is neither a number nor a Scripture reference
+martirologio.09-16.1	Santoral	Cipriano	the label is neither a number nor a Scripture reference
+martirologio.09-16.15	Santoral	Juan Macías	the label is neither a number nor a Scripture reference
+martirologio.09-16.16	Santoral	Andrés Kim Taegon	the label is neither a number nor a Scripture reference
+martirologio.09-17.1	Santoral	Roberto Belarmino	the label is neither a number nor a Scripture reference
+martirologio.09-17.9	Santoral	Pedro Arbués	the label is neither a number nor a Scripture reference
+martirologio.09-18.9	Santoral	José de Cupertino	the label is neither a number nor a Scripture reference
+martirologio.09-19.1	Santoral	Jenaro	the label is neither a number nor a Scripture reference
+martirologio.09-19.14	Santoral	Alonso de Orozco	the label is neither a number nor a Scripture reference
+martirologio.09-19.16	Santoral	María Guillerma Emilia de Rodat	the label is neither a number nor a Scripture reference
+martirologio.09-20.1	Santoral	50	no work named in the prose before the label (Santoral)
+martirologio.09-20.1	Santoral	mártires en Corea	the label is neither a number nor a Scripture reference
+martirologio.09-20.3	Santoral	Eustaquio	the label is neither a number nor a Scripture reference
+martirologio.09-20.7	Santoral	Francisco de Posadas	the label is neither a number nor a Scripture reference
+martirologio.09-20.9	Santoral	51	no work named in the prose before the label (Santoral)
+martirologio.09-20.10	Santoral	José María de Yermo y Parres	the label is neither a number nor a Scripture reference
+martirologio.09-21.1	Santoral	Mateo	the label is neither a number nor a Scripture reference
+martirologio.09-21.2	Santoral	Jonás	the label is neither a number nor a Scripture reference
+martirologio.09-21.14	Santoral	Lorenzo Imbert	the label is neither a number nor a Scripture reference
+martirologio.09-22.2	Santoral	Mauricio	the label is neither a number nor a Scripture reference
+martirologio.09-22.12	Santoral	Pablo Chong Ha-sang	the label is neither a number nor a Scripture reference
+martirologio.09-23.1	Santoral	Pío de Pietralcina (Francisco) Forgione	the label is neither a number nor a Scripture reference
+martirologio.09-23.2	Santoral	Zacarías	the label is neither a number nor a Scripture reference
+martirologio.09-23.2	Santoral	Isabel	the label is neither a number nor a Scripture reference
+martirologio.09-23.10	Santoral	Cristóbal	the label is neither a number nor a Scripture reference
+martirologio.09-23.17	Santoral	Tecla	the label is neither a number nor a Scripture reference
+martirologio.09-24	Santoral	Nuestra Senora de la Merced	the label is neither a number nor a Scripture reference
+martirologio.09-25.1	Santoral	Cleofás	the label is neither a number nor a Scripture reference
+martirologio.09-25.2	Santoral	Fermín	the label is neither a number nor a Scripture reference
+martirologio.09-25.12	Santoral	Cristóbal	the label is neither a number nor a Scripture reference
+martirologio.09-26.1	Santoral	Cosme	the label is neither a number nor a Scripture reference
+martirologio.09-26.1	Santoral	Damián	the label is neither a number nor a Scripture reference
+martirologio.09-26.2	Santoral	Gedeón	the label is neither a number nor a Scripture reference
+martirologio.09-26.6	Santoral	Nilo el Joven	the label is neither a number nor a Scripture reference
+martirologio.09-26.8	Santoral	52	no work named in the prose before the label (Santoral)
+martirologio.09-26.9	Santoral	Juan Francisco de Regis	the label is neither a number nor a Scripture reference
+martirologio.09-27.1	Santoral	Vicente Paúl	the label is neither a number nor a Scripture reference
+martirologio.09-27.7	Santoral	Elzearo de Sabran	the label is neither a number nor a Scripture reference
+martirologio.09-27.7	Santoral	Delfina	the label is neither a number nor a Scripture reference
+martirologio.09-28.1	Santoral	Lorenzo de Manila Ruiz	the label is neither a number nor a Scripture reference
+martirologio.09-28.1	Santoral	53	no work named in the prose before the label (Santoral)
+martirologio.09-28.14	Santoral	Simón de Rojas	the label is neither a number nor a Scripture reference
+martirologio.09-28	Santoral	San Wenceslao	the label is neither a number nor a Scripture reference
+martirologio.09-29.1	Santoral	santos arcángeles	the label is neither a number nor a Scripture reference
+martirologio.09-29.1	Santoral	Miguel	the label is neither a number nor a Scripture reference
+martirologio.09-29.1	Santoral	Gabriel	the label is neither a number nor a Scripture reference
+martirologio.09-29.1	Santoral	Rafael	the label is neither a number nor a Scripture reference
+martirologio.09-30.1	Santoral	Jerónimo	the label is neither a number nor a Scripture reference
+martirologio.10-01.1	Santoral	Teresa del Nino Jesús	the label is neither a number nor a Scripture reference
+martirologio.10-02.1	Santoral	Ángeles Custodios	the label is neither a number nor a Scripture reference
+martirologio.10-03.11	Santoral	54	no work named in the prose before the label (Santoral)
+martirologio.10-04.1	Santoral	Francisco	the label is neither a number nor a Scripture reference
+martirologio.10-05.4	Santoral	Avito	the label is neither a number nor a Scripture reference
+martirologio.10-05.8	Santoral	Froilán	the label is neither a number nor a Scripture reference
+martirologio.10-05.9	Santoral	Atilano	the label is neither a number nor a Scripture reference
+martirologio.10-05.17	Santoral	Bartolomé Longo	the label is neither a number nor a Scripture reference
+martirologio.10-05.18	Santoral	Tranquilino Ubiarco	the label is neither a number nor a Scripture reference
+martirologio.10-05.19	Santoral	Faustina (Elena) Kowalska	the label is neither a number nor a Scripture reference
+martirologio.10-06.1	Santoral	Bruno	the label is neither a number nor a Scripture reference
+martirologio.10-06.3	Santoral	Fe	the label is neither a number nor a Scripture reference
+martirologio.10-07.1	Santoral	Virgen María del Rosario	the label is neither a number nor a Scripture reference
+martirologio.10-08.1	Santoral	Pelagia	the label is neither a number nor a Scripture reference
+martirologio.10-09.1	Santoral	Juan Leonardi	the label is neither a number nor a Scripture reference
+martirologio.10-09.14	Santoral	mártires	the label is neither a number nor a Scripture reference
+martirologio.10-09.14	Santoral	Inocencio de la Inmaculada (Manuel) Canoura Arnau	the label is neither a number nor a Scripture reference
+martirologio.10-09.14	Santoral	55	no work named in the prose before the label (Santoral)
+martirologio.10-10.13	Santoral	Daniel Comboni	the label is neither a number nor a Scripture reference
+martirologio.10-11.16	Santoral	María Soledad (Manuela) Torres Acosta	the label is neither a number nor a Scripture reference
+martirologio.10-11	Santoral	La Madre de Dios de Begona	the label is neither a number nor a Scripture reference
+martirologio.10-12.8	Santoral	Serafín de Monte Granario (Félix) de Nicola	the label is neither a number nor a Scripture reference
+martirologio.10-12	Santoral	Nuestra Senora del Pilar	the label is neither a number nor a Scripture reference
+martirologio.10-13.1	Santoral	Teófilo	the label is neither a number nor a Scripture reference
+martirologio.10-13.10	Santoral	Geraldo	the label is neither a number nor a Scripture reference
+martirologio.10-14.1	Santoral	Calixto I	the label is neither a number nor a Scripture reference
+martirologio.10-15.1	Santoral	Teresa de Jesús	the label is neither a number nor a Scripture reference
+martirologio.10-16.1	Santoral	Santa Margarita María Alacoque	the label is neither a number nor a Scripture reference
+martirologio.10-16.3	Santoral	Longinos	the label is neither a number nor a Scripture reference
+martirologio.10-16.16	Santoral	Gerardo Maiella	the label is neither a number nor a Scripture reference
+martirologio.10-17.1	Santoral	Ignacio	the label is neither a number nor a Scripture reference
+martirologio.10-17.10	Santoral	Ricardo Gwyn	the label is neither a number nor a Scripture reference
+martirologio.10-17.12	Santoral	Margarita María Alacoque	the label is neither a number nor a Scripture reference
+martirologio.10-17.14	Santoral	56	no work named in the prose before the label (Santoral)
+martirologio.10-17.16	Santoral	Contardo Ferrini	the label is neither a number nor a Scripture reference
+martirologio.10-18.1	Santoral	Lucas	the label is neither a number nor a Scripture reference
+martirologio.10-18.6	Santoral	Pedro de Alcántara	the label is neither a number nor a Scripture reference
+martirologio.10-18.7	Santoral	Isaac Jogues	the label is neither a number nor a Scripture reference
+martirologio.10-18.8	Santoral	Pablo de la Cruz	the label is neither a number nor a Scripture reference
+martirologio.10-19.1	Santoral	Juan de Brébeuf e Isaac Jogues	the label is neither a number nor a Scripture reference
+martirologio.10-19.2	Santoral	San Pablo de la Cruz	the label is neither a number nor a Scripture reference
+martirologio.10-19.14	Santoral	Felipe Howard	the label is neither a number nor a Scripture reference
+martirologio.10-21.3	Santoral	Hilarión	the label is neither a number nor a Scripture reference
+martirologio.10-21.6	Santoral	Remigio de Reims	the label is neither a number nor a Scripture reference
+martirologio.10-22.2	Santoral	Abercio	the label is neither a number nor a Scripture reference
+martirologio.10-22.10	Santoral	Nunila	the label is neither a number nor a Scripture reference
+martirologio.10-22.10	Santoral	Alodia	the label is neither a number nor a Scripture reference
+martirologio.10-23.1	Santoral	Juan de Capistrano	the label is neither a number nor a Scripture reference
+martirologio.10-23.15	Santoral	57	no work named in the prose before the label (Santoral)
+martirologio.10-24.1	Santoral	Antonio María Claret	the label is neither a number nor a Scripture reference
+martirologio.10-25.1	Santoral	Crisanto	the label is neither a number nor a Scripture reference
+martirologio.10-25.1	Santoral	Daria	the label is neither a number nor a Scripture reference
+martirologio.10-25.2	Santoral	Crispín	the label is neither a number nor a Scripture reference
+martirologio.10-25.2	Santoral	Crispiniano	the label is neither a number nor a Scripture reference
+martirologio.10-25.8	Santoral	Frutos	the label is neither a number nor a Scripture reference
+martirologio.10-25.10	Santoral	Bernardo Calbó	the label is neither a number nor a Scripture reference
+martirologio.10-26.1	Santoral	Evaristo	the label is neither a number nor a Scripture reference
+martirologio.10-28.1	Santoral	Simón	the label is neither a number nor a Scripture reference
+martirologio.10-28.1	Santoral	Judas	the label is neither a number nor a Scripture reference
+martirologio.10-28.4	Santoral	Vicente	the label is neither a number nor a Scripture reference
+martirologio.10-28.4	Santoral	Sabina	the label is neither a number nor a Scripture reference
+martirologio.10-28.4	Santoral	Cristeta	the label is neither a number nor a Scripture reference
+martirologio.10-28.5	Santoral	Ginés	the label is neither a number nor a Scripture reference
+martirologio.10-28.11	Santoral	Rodrigo Aguilar	the label is neither a number nor a Scripture reference
+martirologio.10-29.2	Santoral	Narciso	the label is neither a number nor a Scripture reference
+martirologio.10-29.5	Santoral	Abrahán	the label is neither a number nor a Scripture reference
+martirologio.10-30.4	Santoral	Marcelo	the label is neither a number nor a Scripture reference
+martirologio.10-31.2	Santoral	Quintín	the label is neither a number nor a Scripture reference
+martirologio.10-31.9	Santoral	Alfonso Rodríguez	the label is neither a number nor a Scripture reference
+martirologio.11-01.1	Santoral	Todos los Santos	the label is neither a number nor a Scripture reference
+martirologio.11-01.13	Santoral	Eustasio	the label is neither a number nor a Scripture reference
+martirologio.11-01.17	Santoral	Jerónimo Hermosilla	the label is neither a number nor a Scripture reference
+martirologio.11-01.17	Santoral	Valentían Barrio Ochoa	the label is neither a number nor a Scripture reference
+martirologio.11-01.17	Santoral	Pedro Almató Ribeira	the label is neither a number nor a Scripture reference
+martirologio.11-02.1	Santoral	Todos los fieles difuntos	the label is neither a number nor a Scripture reference
+martirologio.11-02.4	Santoral	Carterio	the label is neither a number nor a Scripture reference
+martirologio.11-02.4	Santoral	Estiriaco	the label is neither a number nor a Scripture reference
+martirologio.11-02.4	Santoral	Tobías	the label is neither a number nor a Scripture reference
+martirologio.11-02.4	Santoral	Eudoxio	the label is neither a number nor a Scripture reference
+martirologio.11-02.4	Santoral	Agapio	the label is neither a number nor a Scripture reference
+martirologio.11-02.10	Santoral	Malaquías	the label is neither a number nor a Scripture reference
+martirologio.11-03.1	Santoral	Martín de Porres	the label is neither a number nor a Scripture reference
+martirologio.11-03.14	Santoral	Alpaide	the label is neither a number nor a Scripture reference
+martirologio.11-03.17	Santoral	Carlos Borromeo	the label is neither a number nor a Scripture reference
+martirologio.11-04.1	Santoral	Carlos Borromeo	the label is neither a number nor a Scripture reference
+martirologio.11-06.7	Santoral	Severo	the label is neither a number nor a Scripture reference
+martirologio.11-07.9	Santoral	Wilibordo	the label is neither a number nor a Scripture reference
+martirologio.11-08.1	Santoral	Simproniano, Claudio, Nicóstrato, Cástor y Simplicio	the label is neither a number nor a Scripture reference
+martirologio.11-08.5	Santoral	Godofredo	the label is neither a number nor a Scripture reference
+martirologio.11-08.6	Santoral	Juan Duns Escoto	the label is neither a number nor a Scripture reference
+martirologio.11-08.7	Santoral	María Crucificada (Isabel María) Satellico	the label is neither a number nor a Scripture reference
+martirologio.11-09.1	Santoral	dedicación de la basílica de Letrán en honor de Cristo Salvador	the label is neither a number nor a Scripture reference
+martirologio.11-09.12	Santoral	Isabel de la Santísima Trinidad Catez	the label is neither a number nor a Scripture reference
+martirologio.11-09	Santoral	Nuestra Senora de la Almudena	the label is neither a number nor a Scripture reference
+martirologio.11-10.1	Santoral	León I	the label is neither a number nor a Scripture reference
+martirologio.11-10.8	Santoral	Andrés Avelino	the label is neither a number nor a Scripture reference
+martirologio.11-11.1	Santoral	Martín	the label is neither a number nor a Scripture reference
+martirologio.11-12.1	Santoral	Josafat (Juan) Kuncewicz	the label is neither a number nor a Scripture reference
+martirologio.11-12.5	Santoral	Emiliano	the label is neither a number nor a Scripture reference
+martirologio.11-12.10	Santoral	Diego	the label is neither a number nor a Scripture reference
+martirologio.11-12.11	Santoral	Margarito Flores	the label is neither a number nor a Scripture reference
+martirologio.11-13.10	Santoral	Eugenio	the label is neither a number nor a Scripture reference
+martirologio.11-14.1	Santoral	Teodoto	the label is neither a number nor a Scripture reference
+martirologio.11-14.6	Santoral	Lorenzo O´Toole	the label is neither a number nor a Scripture reference
+martirologio.11-15.1	Santoral	Alberto	the label is neither a number nor a Scripture reference
+martirologio.11-15.15	Santoral	Roque González	the label is neither a number nor a Scripture reference
+martirologio.11-15.16	Santoral	José Pignatelli	the label is neither a number nor a Scripture reference
+martirologio.11-15.18	Santoral	María de la Pasión (Helena) de Chappotin de Neuville	the label is neither a number nor a Scripture reference
+martirologio.11-16.1	Santoral	Margarita	the label is neither a number nor a Scripture reference
+martirologio.11-16.2	Santoral	Gertrudis	the label is neither a number nor a Scripture reference
+martirologio.11-16.9	Santoral	Inés	the label is neither a number nor a Scripture reference
+martirologio.11-17.1	Santoral	Isabel de Hungría	the label is neither a number nor a Scripture reference
+martirologio.11-17.14	Santoral	Gertrudis	the label is neither a number nor a Scripture reference
+martirologio.11-17.15	Santoral	Roque González	the label is neither a number nor a Scripture reference
+martirologio.11-18.1	Santoral	Dedicación de las basílicas de los santos Pedro y Pablo	the label is neither a number nor a Scripture reference
+martirologio.11-18.7	Santoral	Odón	the label is neither a number nor a Scripture reference
+martirologio.11-18.12	Santoral	58	no work named in the prose before the label (Santoral)
+martirologio.11-19.1	Santoral	Abdías	the label is neither a number nor a Scripture reference
+martirologio.11-19.8	Santoral	Matilde	the label is neither a number nor a Scripture reference
+martirologio.11-20.8	Santoral	Edmundo	the label is neither a number nor a Scripture reference
+martirologio.11-20.14	Santoral	59	no work named in the prose before the label (Santoral)
+martirologio.11-21.1	Santoral	Presentación de santa María Virgen	the label is neither a number nor a Scripture reference
+martirologio.11-22.1	Santoral	Cecilia	the label is neither a number nor a Scripture reference
+martirologio.11-22.6	Santoral	Salvador Lillo	the label is neither a number nor a Scripture reference
+martirologio.11-22.6	Santoral	60	no work named in the prose before the label (Santoral)
+martirologio.11-22.8	Santoral	Pedro Esqueda Ramírez	the label is neither a number nor a Scripture reference
+martirologio.11-23.1	Santoral	Columbano	the label is neither a number nor a Scripture reference
+martirologio.11-23.7	Santoral	Lucrecia	the label is neither a number nor a Scripture reference
+martirologio.11-23	Santoral	San Clemente	the label is neither a number nor a Scripture reference
+martirologio.11-24.1	Santoral	61	no work named in the prose before the label (Santoral)
+martirologio.11-24.8	Santoral	Flora y María	the label is neither a number nor a Scripture reference
+martirologio.11-24.13	Santoral	62	no work named in the prose before the label (Santoral)
+martirologio.11-25.1	Santoral	Catalina	the label is neither a number nor a Scripture reference
+martirologio.11-25.11	Santoral	García	the label is neither a number nor a Scripture reference
+martirologio.11-26.10	Santoral	Humilde (Lucas Antonio) Pirozzo	the label is neither a number nor a Scripture reference
+martirologio.11-26.11	Santoral	Leonardo de Porto Maurizio	the label is neither a number nor a Scripture reference
+martirologio.11-27.14	Santoral	63	no work named in the prose before the label (Santoral)
+martirologio.11-27	Santoral	Inmaculada Virgen María de la Medalla Milagrosa	the label is neither a number nor a Scripture reference
+martirologio.11-28.5	Santoral	Jacobo Piceno o de la Marca	the label is neither a number nor a Scripture reference
+martirologio.11-28.8	Santoral	64	no work named in the prose before the label (Santoral)
+martirologio.11-29.1	Santoral	Saturnino de Cartago	the label is neither a number nor a Scripture reference
+martirologio.11-29.2	Santoral	Saturnino	the label is neither a number nor a Scripture reference
+martirologio.11-29.10	Santoral	Francisco Antonio Fasani	the label is neither a number nor a Scripture reference
+martirologio.11-30.1	Santoral	Andrés	the label is neither a number nor a Scripture reference
+martirologio.11-30.7	Santoral	Cutberto Mayne	the label is neither a number nor a Scripture reference
+martirologio.11-30.11	Santoral	65	no work named in the prose before the label (Santoral)
+martirologio.12-01.7	Santoral	Eloy	the label is neither a number nor a Scripture reference
+martirologio.12-01.10	Santoral	Edmundo Campion	the label is neither a number nor a Scripture reference
+martirologio.12-01.10	Santoral	mártires durante el reinado de Isabel I	the label is neither a number nor a Scripture reference
+martirologio.12-01.14	Santoral	Clementina Nengapeta Anuarite	the label is neither a number nor a Scripture reference
+martirologio.12-02.2	Santoral	Bibiana	the label is neither a number nor a Scripture reference
+martirologio.12-02.5	Santoral	Silverio	the label is neither a number nor a Scripture reference
+martirologio.12-02	Santoral	San Carlos de Foucauld	the label is neither a number nor a Scripture reference
+martirologio.12-03.1	Santoral	Francisco Javier	the label is neither a number nor a Scripture reference
+martirologio.12-04.1	Santoral	Juan Damasceno	the label is neither a number nor a Scripture reference
+martirologio.12-04.2	Santoral	Bárbara	the label is neither a number nor a Scripture reference
+martirologio.12-05.2	Santoral	Sabas	the label is neither a number nor a Scripture reference
+martirologio.12-05.6	Santoral	Juan Almond	the label is neither a number nor a Scripture reference
+martirologio.12-06.1	Santoral	Nicolás	the label is neither a number nor a Scripture reference
+martirologio.12-06.3	Santoral	mártires bajo la persecución vandálica	the label is neither a number nor a Scripture reference
+martirologio.12-06.3	Santoral	66	no work named in the prose before the label (Santoral)
+martirologio.12-06.3	Santoral	Dionisia	the label is neither a number nor a Scripture reference
+martirologio.12-07.1	Santoral	Ambrosio	the label is neither a number nor a Scripture reference
+martirologio.12-07.8	Santoral	Carlos Garnier	the label is neither a number nor a Scripture reference
+martirologio.12-08.1	Santoral	Concepción Inmaculada de la bienaventurada Virgen María	the label is neither a number nor a Scripture reference
+martirologio.12-09.1	Santoral	Juan Diego Cuauhtlatoatzain	the label is neither a number nor a Scripture reference
+martirologio.12-09.2	Santoral	Leocadia	the label is neither a number nor a Scripture reference
+martirologio.12-09.7	Santoral	Pedro Fourier	the label is neither a number nor a Scripture reference
+martirologio.12-10.1	Santoral	Eulalia	the label is neither a number nor a Scripture reference
+martirologio.12-10	Santoral	Nuestra Senora de Loreto	the label is neither a number nor a Scripture reference
+martirologio.12-11.1	Santoral	Dámaso I	the label is neither a number nor a Scripture reference
+martirologio.12-11.4	Santoral	Daniel	the label is neither a number nor a Scripture reference
+martirologio.12-11.12	Santoral	María Maravillas de Jesús Pidal y Chico de Guzmán	the label is neither a number nor a Scripture reference
+martirologio.12-12.1	Santoral	Virgen María de Guadalupe	the label is neither a number nor a Scripture reference
+martirologio.12-13.1	Santoral	Lucía	the label is neither a number nor a Scripture reference
+martirologio.12-13.7	Santoral	Otilia	the label is neither a number nor a Scripture reference
+martirologio.12-13.9	Santoral	Juana Francisca Frémiot de Chantal	the label is neither a number nor a Scripture reference
+martirologio.12-13.11	Santoral	67	no work named in the prose before the label (Santoral)
+martirologio.12-14.1	Santoral	Juan de la Cruz	the label is neither a number nor a Scripture reference
+martirologio.12-15.8	Santoral	Úrbez	the label is neither a number nor a Scripture reference
+martirologio.12-16.6	Santoral	Adelaida	the label is neither a number nor a Scripture reference
+martirologio.12-17.2	Santoral	68	no work named in the prose before the label (Santoral)
+martirologio.12-17.8	Santoral	Juan de Mata	the label is neither a number nor a Scripture reference
+martirologio.12-18.1	Santoral	Malaquías	the label is neither a number nor a Scripture reference
+martirologio.12-18.5	Santoral	Vinebaldo	the label is neither a number nor a Scripture reference
+martirologio.12-18	Santoral	Expectación	the label is neither a number nor a Scripture reference
+martirologio.12-19.4	Santoral	Urbano V	the label is neither a number nor a Scripture reference
+martirologio.12-20.4	Santoral	Ursicino	the label is neither a number nor a Scripture reference
+martirologio.12-20.5	Santoral	Domingo	the label is neither a number nor a Scripture reference
+martirologio.12-21.1	Santoral	Pedro Canisio	the label is neither a number nor a Scripture reference
+martirologio.12-21.3	Santoral	Temístocles	the label is neither a number nor a Scripture reference
+martirologio.12-22.7	Santoral	Francisca Javiera Cabrini	the label is neither a number nor a Scripture reference
+martirologio.12-23.1	Santoral	Juan de Kety	the label is neither a number nor a Scripture reference
+martirologio.12-23.4	Santoral	Ivón	the label is neither a number nor a Scripture reference
+martirologio.12-23.8	Santoral	Nicolás	the label is neither a number nor a Scripture reference
+martirologio.12-24.5	Santoral	Juan de Kety	the label is neither a number nor a Scripture reference
+martirologio.12-24.8	Santoral	Charbel (José) Makhluf	the label is neither a number nor a Scripture reference
+martirologio.12-24	Santoral	Vigilia de Navidad	the label is neither a number nor a Scripture reference
+martirologio.12-25.1	Santoral	Natividad de nuestro Señor Jesucristo	the label is neither a number nor a Scripture reference
+martirologio.12-26.1	Santoral	Esteban	the label is neither a number nor a Scripture reference
+martirologio.12-26.6	Santoral	Vicenta María López Vicuna	the label is neither a number nor a Scripture reference
+martirologio.12-27.1	Santoral	Juan	the label is neither a number nor a Scripture reference
+martirologio.12-28.1	Santoral	santos Inocentes	the label is neither a number nor a Scripture reference
+martirologio.12-29.1	Santoral	Tomas Becket	the label is neither a number nor a Scripture reference
+martirologio.12-29.2	Santoral	David	the label is neither a number nor a Scripture reference
+martirologio.12-29.10	Santoral	69	no work named in the prose before the label (Santoral)
+martirologio.12-29.11	Santoral	José Aparicio Sanz	the label is neither a number nor a Scripture reference
+martirologio.12-30	Santoral	Traslación del cuerpo de Santiago	the label is neither a number nor a Scripture reference
+martirologio.12-31.1	Santoral	Silvestre I	the label is neither a number nor a Scripture reference
+martirologio.12-31.5	Santoral	Melania la Joven	the label is neither a number nor a Scripture reference
+martirologio.12-31.10	Santoral	Catalina Labouré	the label is neither a number nor a Scripture reference
+martirologio.notas	Santoral	1	the citing passage was not found in the corpus
+martirologio.notas	Santoral	2	the citing passage was not found in the corpus
+martirologio.notas	Santoral	3	the citing passage was not found in the corpus
+martirologio.notas	Santoral	4	the citing passage was not found in the corpus
+martirologio.notas	Santoral	5	the citing passage was not found in the corpus
+martirologio.notas	Santoral	6	the citing passage was not found in the corpus
+martirologio.notas	Santoral	7	the citing passage was not found in the corpus
+martirologio.notas	Santoral	8	the citing passage was not found in the corpus
+martirologio.notas	Santoral	9	the citing passage was not found in the corpus
+martirologio.notas	Santoral	10	the citing passage was not found in the corpus
+martirologio.notas	Santoral	Julio Álvarez	the label is neither a number nor a Scripture reference
+martirologio.notas	Santoral	José Isabel Flores	the label is neither a number nor a Scripture reference
+martirologio.notas	Santoral	Justino Orona	the label is neither a number nor a Scripture reference
+martirologio.notas	Santoral	Sabas Reyes	the label is neither a number nor a Scripture reference
+martirologio.notas	Santoral	David Uribe	the label is neither a number nor a Scripture reference
+martirologio.notas	Santoral	11	the citing passage was not found in the corpus
+martirologio.notas	Santoral	12	the citing passage was not found in the corpus
+martirologio.notas	Santoral	13	the citing passage was not found in the corpus
+martirologio.notas	Santoral	14	the citing passage was not found in the corpus
+martirologio.notas	Santoral	15	the citing passage was not found in the corpus
+martirologio.notas	Santoral	16	the citing passage was not found in the corpus
+martirologio.notas	Santoral	17	the citing passage was not found in the corpus
+martirologio.notas	Santoral	18	the citing passage was not found in the corpus
+martirologio.notas	Santoral	19	the citing passage was not found in the corpus
+martirologio.notas	Santoral	20	the citing passage was not found in the corpus
+martirologio.notas	Santoral	Nicolás Alberga, Ascanio Nicanor	the label is neither a number nor a Scripture reference
+martirologio.notas	Santoral	21	the citing passage was not found in the corpus
+martirologio.notas	Santoral	22	the citing passage was not found in the corpus
+martirologio.notas	Santoral	23	the citing passage was not found in the corpus
+martirologio.notas	Santoral	24	the citing passage was not found in the corpus
+martirologio.notas	Santoral	25	the citing passage was not found in the corpus
+martirologio.notas	Santoral	26	the citing passage was not found in the corpus
+martirologio.notas	Santoral	27	the citing passage was not found in the corpus
+martirologio.notas	Santoral	28	the citing passage was not found in the corpus
+martirologio.notas	Santoral	29	the citing passage was not found in the corpus
+martirologio.notas	Santoral	30	the citing passage was not found in the corpus
+martirologio.notas	Santoral	31	the citing passage was not found in the corpus
+martirologio.notas	Santoral	32	the citing passage was not found in the corpus
+martirologio.notas	Santoral	33	the citing passage was not found in the corpus
+martirologio.notas	Santoral	34	the citing passage was not found in the corpus
+martirologio.notas	Santoral	35	the citing passage was not found in the corpus
+martirologio.notas	Santoral	36	the citing passage was not found in the corpus
+martirologio.notas	Santoral	37	the citing passage was not found in the corpus
+martirologio.notas	Santoral	38	the citing passage was not found in the corpus
+martirologio.notas	Santoral	39	the citing passage was not found in the corpus
+martirologio.notas	Santoral	40	the citing passage was not found in the corpus
+martirologio.notas	Santoral	41	the citing passage was not found in the corpus
+martirologio.notas	Santoral	42	the citing passage was not found in the corpus
+martirologio.notas	Santoral	43	the citing passage was not found in the corpus
+martirologio.notas	Santoral	44	the citing passage was not found in the corpus
+martirologio.notas	Santoral	45	the citing passage was not found in the corpus
+martirologio.notas	Santoral	46	the citing passage was not found in the corpus
+martirologio.notas	Santoral	47	the citing passage was not found in the corpus
+martirologio.notas	Santoral	48	the citing passage was not found in the corpus
+martirologio.notas	Santoral	49	the citing passage was not found in the corpus
+martirologio.notas	Santoral	50	the citing passage was not found in the corpus
+martirologio.notas	Santoral	51	the citing passage was not found in the corpus
+martirologio.notas	Santoral	52	the citing passage was not found in the corpus
+martirologio.notas	Santoral	53	the citing passage was not found in the corpus
+martirologio.notas	Santoral	54	the citing passage was not found in the corpus
+martirologio.notas	Santoral	55	the citing passage was not found in the corpus
+martirologio.notas	Santoral	56	the citing passage was not found in the corpus
+martirologio.notas	Santoral	57	the citing passage was not found in the corpus
+martirologio.notas	Santoral	58	the citing passage was not found in the corpus
+martirologio.notas	Santoral	59	the citing passage was not found in the corpus
+martirologio.notas	Santoral	60	the citing passage was not found in the corpus
+martirologio.notas	Santoral	61	the citing passage was not found in the corpus
+martirologio.notas	Santoral	62	the citing passage was not found in the corpus
+martirologio.notas	Santoral	63	the citing passage was not found in the corpus
+martirologio.notas	Santoral	64	the citing passage was not found in the corpus
+martirologio.notas	Santoral	65	the citing passage was not found in the corpus
+martirologio.notas	Santoral	66	the citing passage was not found in the corpus
+martirologio.notas	Santoral	67	the citing passage was not found in the corpus
+martirologio.notas	Santoral	68	the citing passage was not found in the corpus
+martirologio.notas	Santoral	69	the citing passage was not found in the corpus
+santoral.08-22.realeza-de-maria	CV2	36	no work named in the prose before the label (CV2)
+santoral.09-29.san-gabriel-arcangel	STh	30	sth.30 is not an anchor in any database

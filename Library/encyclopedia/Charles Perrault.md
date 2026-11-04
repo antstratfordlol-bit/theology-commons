@@ -1,0 +1,33 @@
+---
+title: "Charles Perrault"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "unknown"
+author: "Louis Narcisse Delamarre"
+signed: "LOUIS N. DELAMARRE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Charles_Perrault"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.charles-perrault} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Adolphe Perraud"
+next: "Claude Perrault"
+entry-type: "article"
+characters: 1958
+words: 327
+links: 0
+images: 0
+---
+
+# Charles Perrault {#cathen.charles-perrault}
+
+Writer, b. in Paris, 12 Jan., 1628; d. 16 May, 1703. His first literary attempts were a parody of the sixth book of Virgil's Aeneid, and a short poem, "Les Ruines de Troie ou l'Origine du Burlesque." After being a lawyer for some time, he was appointed chief clerk in the king's building, superintendent's office (1664). He suggested to his brother Claude, an architect, to build the Louvre's colonnade, and induced Colbert to establish a fund called *Liste des Bienfaits du Roi*, to give pensions to writers and savants not only in France but in Europe. He took part in the creation of the Academy of Sciences as well as the restoration of the Academy of Painting. When the Academy of Inscriptions and Belles-Lettres was founded by Colbert (1663), he was made secretary for life. Having written but a few poems, he was elected to the French Academy in 1671, and on the day of his inauguration he caused the public to be admitted to the meeting, a privilege that has ever since been continued. As a poet, he attempted to revive the old epic, adapting it to a Christian subject, in "Saint-Paulin" (1686). His preface to "Le siècle de Louis le Grand", soon followed by "Parallèle des Anciens et des Modernes", started the famous literary quarrel of Ancients and Moderns, which led to endless controversy with Boileau; he stood for the Moderns, while Bossuet, Fénelon, and Boileau fought for the Ancients. All his literary productions were surpassed by a little masterpiece that gave him a lasting popularity: "Contes de ma Mère l'Oye, ou Histoires du temps passé" (1697), a collection of fairy tales which, while displaying no special originality, were treated in a very skilful manner. His complete works were published in Paris, 1697-98, in one volume.
+
+Memoires (Paris, 1759); GIRAUD, Lettre critique (Paris, 1864); BARINE in Revue des Deux Mondes (Dec., 1890); BRUNETIERE, Manuel de l'histoire de la litterature francaise (Paris, 1899).
+
+LOUIS N. DELAMARRE

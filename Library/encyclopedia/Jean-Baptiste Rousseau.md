@@ -1,0 +1,33 @@
+---
+title: "Jean-Baptiste Rousseau"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Louis Narcisse Delamarre"
+signed: "LOUIS N. DELAMARRE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Jean-Baptiste_Rousseau"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.jean-baptiste-rousseau} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Adrien Rouquette"
+next: "Benedetto da Rovezzano"
+entry-type: "article"
+characters: 1962
+words: 333
+links: 0
+images: 0
+---
+
+# Jean-Baptiste Rousseau {#cathen.jean-baptiste-rousseau}
+
+French poet, b. in Paris, 16 April 1670; d. at La Genette, near Brussels, 17 May, 1741. Although he was the son of a shoemaker, he was educated with the greatest care and made his studies a the Jesuit College of Louis le Grand, Paris. On account of his wit, he was admitted to the most exclusive *salons*. After a short sojourn in London, as private secretary to the French ambassador, Tallard, he frequented the irreligious society which gathered at the Temple, the evil influence of which caused his misfortunes. His first dramatic attempts were failures, but his epigrams gained him a great reputation. He was elected to the Academy of Inscriptions and Belles-Lettres in 1700. "Couplets infâmes", a libel of a most licentious character. Having retorted that they had been written by Saurin, he was sentenced by the Parliament to pay four thousand *livres* damages to Saurin, and soon after sent to exile. He went first to Switzerland, where he was sheltered by the French ambassador, Count de Luc, then to Vienna, to Prince Eugène's Court, and finally to Brussels. He tried several times to have the court's decision annulled, but failed because of the hostility of Voltaire and a few others. His works consist of: (1) a comedy in prose, "Le café" (1694), two operas, "Jason" (1696) and "Vénus et Adonis" (1697), and five comedies in verse, only two of which were produced on the stage, "Le flatteur" (1696) and "Le capricieux" (1700); (2) four books of odes, the first being an adaptation of the Psalms, two books of allegories and a score of cantatas; (3) his epigrams, the best part of his work, which will secure his fame; (4) his letters. His works were repeatedly reprinted from 1710 to 1820. His lyrics are not esteemed now, but he is still regarded as the greatest epigrammatist of the eighteenth century.
+
+BRUNETIÈRE, *Manuel del l'hist. de la litt. Française* (Paris, 1899); FAGUET, *Revue des cours et confé* (Paris, 1899-1900).
+
+LOUIS N. DELAMARRE

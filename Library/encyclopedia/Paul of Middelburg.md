@@ -1,0 +1,33 @@
+---
+title: "Paul of Middelburg"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "unknown"
+author: "Johann Georg Hagen"
+signed: "J. G. Hagen"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Paul_of_Middelburg"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.paul-of-middelburg} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Paul of Burgos"
+next: "Paul of Samosata"
+entry-type: "article"
+characters: 2456
+words: 397
+links: 0
+images: 0
+---
+
+# Paul of Middelburg {#cathen.paul-of-middelburg}
+
+A scientist and bishop, born in 1446 at Middelburg, the ancient capital of the province of Zealand, belonging then to the German Empire, now to Holland; died in Rome, 13 December, 1534. After finishing his studies in Louvain he received a canonry in his native town, of which he was afterwards deprived. The circumstances of this fact are not known, but in his apologetic letter on the celebration of Easter he calls it a usurpation, and shows great bitterness against his country, calling it "barbara Zelandiæ insula", "vervecum patria", "cerdonum regio", etc. He then taught for a while in Louvain, was invited by the Signoria of Venice to take a chair for sciences in Padua (1480), travelled through Italy, became physician to Francesco Maria della Rovere, Duke of Urbino, and friend to Maximilian, Archduke of Austria, afterwards emperor. By the former he was endowed with the Benedictine Abbey St. Christophorus in Castel Durante (1488), and by the latter he was recommended to Alexander VI for the Bishopric of Fossombrone (Moroni, LXXXV, 314). Being nominated to that see, in 1494, he destroyed some of his former publications; first "Giudizio dell' anno 1480", in which he had censured a number of mathematicians; then a "Practica de pravis Constellationibus", and a defence of that work against the nephew of Paul II (1484); and finally an "Invectiva in superstitiosum Vatem". He chose for himself an astronomical coat of arms, and, in 497, enlarged and embellished the episcopal palace. Besides some smaller treatises against usurers and against the superstitious fear of a flood in 1524 (Fossombrone, 1523), he wrote important works on the reform of the Calendar, which procured for him invitations by Julius II and Leo X to the Fifth Lateran Council (1512-1518). His "Epistola ad Universitatem Lovaniensem de Paschate recte observando" (1487) was followed by an "Epistola apologetica" (1488), and finally by his principal work "Paulina, de recta Pasch celebratione" (Fossombrone, 1513). The contents and result of the work are described under the article LILIUS. He died while assisting at the Divine Office in Rome, and was buried in S. Maria dell' Anima. His family name is unknown, but in one place he is called Paolo di Adriano (Moroni, XLIV, 120). Scaliger, who calls him "Omnium sui sæculi mathematicorum . . . facile princeps", was his godson.
+
+SCHMIDLIN, *Gesch. der deutschen Nationalkirche in Rom* (Freiburg, 1906), 349.
+
+J. G. Hagen.

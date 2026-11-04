@@ -1,0 +1,33 @@
+---
+title: "Christóbal Morales"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "16"
+pages: "unknown"
+author: "Joseph Otten"
+signed: "JOSEPH OTTEN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Christóbal_Morales"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.christobal-morales} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Mino di Giovanni"
+next: "John O'Kane Murray"
+entry-type: "article"
+characters: 1431
+words: 233
+links: 0
+images: 0
+---
+
+# Christóbal Morales {#cathen.christobal-morales}
+
+A composer, born at Seville, 2 Jan., 1512; died at Málaga, 14 June, 1553. From 1 Sept., 1535, to 4 April, 1540, he was a member of the papal choir. Formed in the Netherland School, he belonged to that group of distinguished Spaniards -- da Vittoria, de Baema, del Encina, Ribera, Peñalosa, and others -- whose musical achievements in the sixteenth century won for their country a renown which has since declined. His style is original in a marked degree. Many contrapuntal devices invented by him came into general use after his time. Among his compositions are numerous masses for four, five, and six voices, settings of the "Lamentations" for four and six voices, a large number of motets for from three to six voices, and settings of the "Magnificat" according to the Gregorian modes for four and six voices. The latter are considered by Ambros to be Morales' most finished works. Besides the papal archives, where five masses, his "Lamentations", "Magnificats", and a number of other works are preserved, Proske's "Musica divina" and Eslava's "Lira sacra" contain works of the master. In Wooldridge's "Oxford History of Music" (Vol. II) is reproduced a three-part motet which offers a striking example of the style of this composer.
+
+WOOLDRIDGE, *Oxford History of Music* (Oxford, 1905); AMBROS, *Gesch. der Musik*, II, III, IV, V (Leipzig, 1881); HABERL, *Bausteine für Musikgeschichte*, II, III (Leipzig, 1888).
+
+JOSEPH OTTEN

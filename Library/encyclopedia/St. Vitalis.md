@@ -1,0 +1,33 @@
+---
+title: "St. Vitalis"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Douglas Raymund Webster"
+signed: "Raymund Webster"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Vitalis"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-vitalis} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Bonifazio Vitalini"
+next: "Sts. Vitalis and Agricola"
+entry-type: "article"
+characters: 1503
+words: 249
+links: 0
+images: 0
+---
+
+# St. Vitalis {#cathen.st-vitalis}
+
+Martyr. His legend, which is of little historical value, relates that he was martyred by order of a judge named Paulinus for having encouraged St. Ursicinus, who was wavering at the prospect of death, and for having given burial to his remains. St. Vitalis was racked and then buried alive. He was the husband of St. Valeria who was martyred at Milan, and father of the more famous Sts. Gervasius and Protasius. The feast of St. Vitalis occurs on 28 April, but the date of his martyrdom is uncertain. The legend makes him a victim of the Neronian persecutions, but Baronius gives year 171 during the persecution of Marcus Aurelius. The question is discussed by Papebroch in the Bollandist "Acta" and by Tillemont in his "Memoires pour servir à l'histoire ecclésiastique". Papebroch cites churches dedicated in honour of St. Vitalis at Rome, Faenza, Rimini, Como, Ferrara, Venice, Verona, and at Jadera in Dalmatia, but the most famous church bearing his name is the octagonal San Vitale at Ravenna, the place of his martyrdom, built in the years 541-46 and dedicated as an inscription attests in 547. This church, which was originally constructed by Julius Argentarius and restored by Ricci in 1898-1900, is one of the most magnificent works of Byzantine architecture and mosaic.
+
+Acta SS. April, III, 562; Dict. Christ. Biog., IV, 463; SURIUS, Vitae SS., IV, 334; GUERIN, Petits Bollandistes, V, 62; SERRATRICE, Brevi Cenni sulla vita e sul culto di S. Vitale Martire (Mondovi, 1899).
+
+Raymund Webster.

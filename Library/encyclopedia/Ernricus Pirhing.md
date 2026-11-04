@@ -1,0 +1,33 @@
+---
+title: "Ernricus Pirhing"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "Alphonse Van Hove"
+signed: "A. VAN HOVE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Ernricus_Pirhing"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.ernricus-pirhing} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Giambattista Piranesi"
+next: "Pirkheimer"
+entry-type: "article"
+characters: 1236
+words: 197
+links: 0
+images: 0
+---
+
+# Ernricus Pirhing {#cathen.ernricus-pirhing}
+
+Born at Sigarthin, near Passau, 1606; died between 1678 and 1681. At the age of twenty-two he entered the Society of Jesus, where he gave instruction in the Sacred Sciences. He taught canon law and Scripture for twelve years at Dillingen, where he was still living in 1675. His "Jus canonicum in V libros Decretalium distributum" (5 vols., Dillingen, 1674-77; 4 vols., Dillingen, 1722; 5 vols., Venice, 1759) marks a progress in canonical science in Germany, for although he maintains the classical divisions of the "Corpus Juris", he gives a complete and synthetic explanation of the canonical legislation of the matters which he treats. He published also, under the form of theses, seven pamphlets on the titles of the first book of the Decretals, which were resumed in his "Jus Canonicum"; and an "Apologia" against two sermons of the Protestant Balduinus (Ingolstadt, 1652; Munich, 1653). After his death one of his colleagues published a "Synopsis Pirhingana", or résumé of his "Jus Canonicum" (Dillingen, 1695; Venice, 1711).
+
+DE BACKER-SOMMERVOGEL, *Bibliothèque des écrivains de la C. de J.* (Liège, 1872), II, 1999; SCHULTE, *Die Gesch. der Quellen u. Literatur des kanonischen Rechts* (Stuttgart, 1880), III, 143.
+
+A. VAN HOVE

@@ -1,0 +1,35 @@
+---
+title: "St. John's University"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Michael Ott"
+signed: "MICHAEL OTT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._John's_University"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-johns-university} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Niagara University"
+next: "Unleavened Bread"
+entry-type: "article"
+characters: 2476
+words: 388
+links: 0
+images: 0
+---
+
+# St. John's University {#cathen.st-johns-university}
+
+The legal title of a Catholic boarding-school at Collegeville, Minnesota, conducted by the Benedictine Fathers of St. John's Abbey, which is situated at the same place. It is the oldest Catholic college in the North-West, having been founded in 1857 by the late Archabbot Boniface Wimmer, then Abbot of St. Vincent's Abbey at Beatty, Pennsylvania. Early in 1856 Abbot Wimmer sent Demetrius de Marogna, a capitular of St. Vincent's Abbey, to Minnesota to establish a monastery and an educational institution in what was then the Diocese of St. Paul, whither the Benedictines had been invited by Bishop Cretin, at the instance of the Indian missionary Father Piera. De Marogna was accompanied by two Benedictine clerics, Cornelius Wittmann and Bruno Riss, and two lay brothers. The institution was originally called St. John's Seminary, which name was changed to St. John's University by an Act of the State Legislature, 17 Feb., 1863. In March, 1869, the school was empowered by the State to confer all college and university degrees, and on 16 June, 1878, Leo XIII authorized Abbot Alexius Edelbrock, then president of the University, to confer the degree of doctor in philosophy, theology, and canon law. The institution comprises a theological seminary, a school of arts and science, a high-school, a school of commerce and a preparatory school.
+
+Among its presidents deserving of mention are: Rupert Seidenbusch (1867-1875), who in 1875 was appointed vicar Apostolic of the newly-created Vicariate of Northern Minnesota, and titular Bishop of Halia (d. 3 June, 1895); Alexius Edelbrock (1875-89), who erected the main university building and the beautiful church (d. 18 May, 1908, as rector of St. Anselm's Church, New York City), Bernard Locnikar (1890-94), who made the theological course a model of its kind (d. 7 Nov., 1894). Since 1894, under the presidency of Peter Engel, the university has grown rapidly. The buildings include the main university building, the science hall, the library, the observatory, the gymnasium, and the infirmary. The faculty is composed of 42 professors and instructors, all of whom, except the physical instructor, are Beneictines and members of St. John's Abbey. The number of students during the year 1911-12 in all departments was 441.
+
+HOFFMANN, St. John's University: a sketch of its history (Collegeville, Minnesota, 1907); IDEM, St. John's Seminary in American Ecclesiastical Review, XVII (Philadelphia, 1897), 283-97.
+
+MICHAEL OTT

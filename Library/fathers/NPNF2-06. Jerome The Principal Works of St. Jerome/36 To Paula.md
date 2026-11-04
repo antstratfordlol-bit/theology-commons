@@ -1,0 +1,42 @@
+---
+id: "jerome-epistulae.en.30"
+title: "To Paula."
+work: "Epistulae"
+author: "Jerome"
+volume: "NPNF2-06. Jerome: The Principal Works of St. Jerome"
+volume-id: "npnf206"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf206.xml"
+source-id: "v.XXX"
+sigla: "jerome-epistulae"
+part-of: "jerome-epistulae"
+part-ref: "30"
+part-kind: "text"
+part-evidence: "printed:body-line1:Letter XXX. To Paula."
+title-source: "bkv-clavis"
+clavis: "CPL 620"
+translation-of: "jerome-epistulae.la"
+work-note: "NPNF did not translate letters 19, 21, 26, 29, 96, 103, 111 and 149"
+anchors: "{#jerome-epistulae.30} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 4
+scripture-references: 4
+scripture-refs-sidecar: "_scripture-refs/npnf206.tsv"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# To Paula. {#jerome-epistulae.30}
+
+Letter XXX. To Paula.
+
+Some account of the so-called alphabetical psalms (XXXVII., CXI., CXII., CXIX., CXLV.). After explaining the mystical meaning of the alphabet, Jerome goes on thus: “What honey is sweeter than to know the wisdom of God? others, if they will, may possess riches, drink from a jewelled cup, shine in silks, and try in vain to exhaust their wealth in the most varied pleasures. Our riches are to meditate in the law of the Lord day and night,[^724] to knock at the closed door,[^725] to receive the ‘three loaves’ of the Trinity,[^726] and, when the Lord goes before us, to walk upon the water of the world.”[^727] Written at Rome a.d. 384.
+
+[^724]: Ps. i. 2.
+[^725]: Matt. vii. 7.
+[^726]: Luke xi. 5–8.
+[^727]: Matt. xiv. 25–33.

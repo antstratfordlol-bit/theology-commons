@@ -1,0 +1,37 @@
+---
+title: "Pelagia"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "unknown"
+author: "Johann Peter Kirsch"
+signed: "J.P. KIRSCH"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pelagia"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pelagia} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Pedro de Cordova"
+next: "Pope Pelagius I"
+entry-type: "article"
+characters: 3269
+words: 572
+links: 0
+images: 0
+---
+
+# Pelagia {#cathen.pelagia}
+
+The name of several saints. The old Syrian martyrology gives the feast of a St. Pelagia of Antioch (in Antiochia Pelagiæ) under the date of 8 October. Further information concerning this martyr, undoubtedly an historical person, is given in a homily of St. John Chrysostom [P. G., L, 479 sqq.; Ruinart, "Acta mart. sincera" (ed. Ratisbon), 540 sqq.]. Pelagia was a Christian virgin fifteen years of age. Soldiers came in search of her, evidently during the Diocletian persecution, in order to force her to offer publicly a heathen sacrifice. She was alone in the house, no one being there to aid her. She came out to the soldiers sent after her and when she learned the order they had to execute, she requested permission to go again into the house in order to put on other clothing. This was granted to her. The virgin who probably knew what was before her was not willing to expose herself to the danger of being dishonoured. She therefore went up to the roof of the house and threw herself into the sea. Thus she died, as St. Chrysostom says, as virgin and martyr, and was honoured as such by the Antiochene Church. St. Ambrose also mentions this Pelagia of Antioch ("De virginibus", III, vii; Epist. XXVII, "Ad Simplicianum", xxxviii).
+
+There is a later legend of a Pelagia who is said to have led the life of a prostitute at Antioch and to have been converted by a bishop named Nonnus. According to the story she went to Jerusalem where disguised as a man and under the name of Pelagius she led a life of self-mortification in a grotto on the Mount of Olives. The author of this legend who calls himself the Deacon Jacob has drawn the essential part of his narrative from the forty-eighth homily of St. Chrysostom on the Gospel of St. Matthew. In this homily the preacher relates the conversion of a celebrated actress of Antioch whose name he does not give. As no old authority makes any mention of a Pelagia in Jerusalem, no doubt the alleged converted woman is a purely legendary recasting of the historical Pelagia. In the East the feast of this second Pelagia is observed on the same day (8 October); in the present Roman martyrology the feast of the martyr is observed on 9 June, that of the penitent on 8 October.
+
+On the latter date the Greek Church also celebrates as virgin and martyr still another Pelagia of Tarsus. The Roman martyrology places the feast of this Pelagia on 4 May. There is a legend of later date concerning her. As Tarsus was near Antioch St. Pelagia of Tarsus should probably be identified with the Antiochene martyr, whose feast was also observed in Tarsus and who was afterwards turned into a martyr of Tarsus. Usener's opinion that all these different saints are only a Christian reconstitution of Aphrodite has been completely disproved by Delehaye.
+
+In addition to St. Pelagia of Antioch, taken from the Syrian martyrology, the "Martyrologium Hieronymianum" also mentions on 11 July a martyr Pelagia, the companion in martyrdom of a Januarius, naming Nicopolis in Armenia as the place of martyrdom, and giving a brief account of this saint. She is plainly a different person from the martyr of Antioch. Her name was included by Bede in his martyrology and was adopted from this into the present Roman list of saints.
+
+J.P. KIRSCH

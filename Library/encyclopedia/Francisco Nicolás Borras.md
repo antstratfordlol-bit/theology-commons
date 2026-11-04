@@ -1,0 +1,33 @@
+---
+title: "Francisco Nicolás Borras"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Augustus Van Cleef"
+signed: "AUGUSTUS VAN CLEEF"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Francisco_Nicolás_Borras"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.francisco-nicolas-borras} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Prefectures Apostolic of Borneo"
+next: "Andrea Borromeo"
+entry-type: "article"
+characters: 2291
+words: 398
+links: 0
+images: 0
+---
+
+# Francisco Nicolás Borras {#cathen.francisco-nicolas-borras}
+
+A distinguished Spanish painter, born at Cocentaina, 1530; died at Gandia, 1610. Going to Valencia at an early age to study under Vicente Joanes, he became that master's most noteworthy pupil. His works in general resemble those of Joanes and some of them are good enough to have been taken for the master's. Entering the priesthood, he was assigned to his native place, where he devoted all his spare moments to painting and acquired such skill that the authorities of the monastery, St. Jerome, at Gandia, employed him to paint the picture for the high altar of their church. He enjoyed his stay at the monastery so much, that taking a great liking to the brothers and their life he determined to ask for no other payment for his work than membership in the order. He received the habit in 1575, and took the final vows the following year. Three years thereafter, Fra Nicolás, in search, perhaps, of an even more austere life, spent some little time with the Capuchins at the Franciscan monastery of San Juan de la Riviera near Valencia. He was soon back, however, at Gandia where he passed the rest of his life painting in every part of the monastery, in the chuch, chief chapel, chapter house, oratories, refectories, and cloisters, leaving twelve altar pieces in the church alone. He also spent his own money in the employment of sculptors and builders for the embellishment of his beloved monastery.
+
+Besides his great labours at Gandia Borras also did much work for churches and religious houses in Valencia, at the capital, and elsewhere. His paintings appeared at the cathedral at Valencia and at the Hieronymite monastery in the city of San Miguel de los Reyes where there was a "Christ at the Column", and a picture of the painter in adoration of "The Holy Virgin". Others were at his native place in the church of St. Stephen, in the Escorial at Aldaya, and at Ontiniente. In the Museum at Valencia there are some fifty paintings by Borras chiefly from Gandia and San Miguel. Among them are "The Last Supper", "Christ Bearing His Cross", "The Dead Saviour in the Arms of the Eternal Father", and "The Archangel Michael Driving Souls into Purgatory and Hell". In the last Borras is supposed to have pictured himself as a white robed monk kneeling on the brink.
+
+AUGUSTUS VAN CLEEF

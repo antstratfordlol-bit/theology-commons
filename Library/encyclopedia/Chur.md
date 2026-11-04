@@ -1,0 +1,41 @@
+---
+title: "Chur"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Otto Jéron"
+signed: "Otto Jéron"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Chur"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.chur} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Chrysopolis"
+next: "Church"
+entry-type: "article"
+characters: 6447
+words: 1016
+links: 0
+images: 0
+---
+
+# Chur {#cathen.chur}
+
+(Anciently Curia Rhætorum, in Ital. Coira, Fr. Coïre, in the local Romance language Cuera), Diocese of (Curiensis)
+
+Comprises at present the Swiss Cantons of Graubünden (Grisons), Glarus, Zürich, Unterwalden, and Uri, as well as the little Principality of Lichtenstein. The city of Chur, the residence of the bishop and capital of the Canton of Graubünden, is very ancient, having once been a Roman fortified camp. Its present population is about 10,000, of which number one-third are Catholics.
+
+The first mention of a Bishop of Chur (St. Asimo) is at the Synod of Milan, as early as 451 (Mansi, IV, 141). The Rt. Rev. John Fidelis Battaglia, consecrated 1 March, 1889, is the ninety-sixth Bishop of Chur. The see was at first suffragan to that of Milan, but after the treaty of Verdun (843) it became suffragan to Mainz. In consequence of political changes it became, in 1803, immediately subject to the Holy See. According to local traditions, the first Bishop of Chur was St. Lucius, a reputed King of Britain, who is said to have died a martyr at Chur about the year 176, and whose relics are preserved in the cathedral. St. Lucius is venerated as the principal patron of the diocese. (See G. Mayer, "St. Luzi bei Chur", Lindau, 1876.) The country had to pass through very severe struggles for the true faith. Theodoric, King of the Ostrogoths, and the Lombards after him, attempted to introduce Arianism in the sixth and seventh centuries. During the dispute between Barbarossa and Pope Alexander III, Bishop Egino of Chur sided with the emperor and was rewarded with the dignity of Prince of the Empire (1170). In later times the bishops were also temporal lords of the city, and several of them were better warriors than pastors. The struggles of Switzerland for liberty in the fourteenth and fifteenth centuries, and, later, the secret preaching of Zwingli and Calvin, did great harm to the diocese, especially as the Catholic clergy neglected the instruction of the people. The Reformation was publicly proclaimed at Chur in 1524, and the two Catholic churches of St. Martin and St. Regula were given over to the Protestants, who retain possession of them to this day. The bishop fled, and his administrator, Abbot Theodore Schlegel, was publicly beheaded (1 January, 1529). Bishop Thomas Planta, a friend of St. Charles Borromeo, tried, but without success, to suppress Protestantism. He died, probably poisoned, 5 May, 1565. (See Camenisch, "Carlo Borromeo und die Gegenreform im Veltlin", 1901.) Twenty years later St. Charles sent the Capuchins into the endangered region, but Bishop Peter II (de Rascher) refused to admit them. His successor, Bishop John V (Flugi d'Aspermont, 1601-27), a saintly and courageous man, endeavoured to restore the Catholic religion, but was compelled to flee three times (1607, 1612, and 1617), and for several years a bloody war was waged between the Catholics and the Protestants. Finally, the newly erected Congregation of Propaganda commissioned the Capuchins to save the Catholic faith among the people (1621). The first Capuchin superior of the mission was St. Fidelis of Sigmaringen, who, on his way from Sewis to Grüsch, a little north of Chur, was slain (24 April, 1622) by peasants whom the sermons of the Protestant preachers had wrought up to a fury. Some relics of this martyr are preserved in the cathedral at Chur. A second mission, that of Misocco and Calanca, in the southern part of the diocese, was entrusted to the Capuchins in 1635. These two missions (Rhætiæ and Mesauci) are at present prefectures Apostolic under the care of Italian Capuchins and the prefects reside at the two cities of Obervatz and Cama, both in the Canton of Grisons.
+
+Several holy and extraordinary men have contributed to the splendour of the Diocese of Chur. Four of its bishops-St. Asimo (c. 450), St. Valentinian (530-48), St. Ursicinus (d. 760), and St. Adalbert (1151-60)-are honoured as saints; St. Sigisbert flourished about the year 600, St. Pirminus a century later; St. Florian, whom the diocese has chosen as its second patron, lived in the ninth century, the hermit St. Gerold in the tenth. The Capuchin Theodosius Florentini, vicar-general from 1860 till his death (15 February, 1865), was a very distinguished missionary; in 1852 he erected the Hospital of the Cross at Chur; before this he had already laid the foundations of two female religious congregations, one for the instruction of children, the other for the care of the sick. Chur is the birthplace of the painter Angelica Kauffman.
+
+The cathedral of Chur, which was begun by Bishop Tello (758-73), has a highly interesting crypt; it is built in Romanesque style, and contains remarkable paintings by Dürer and Holbein. According to the "Kirchliches Handlexicon" (Munich, 1906) the diocese has a Catholic population of about 248,887 (non-Catholics, 431,367). There are 358 secular and 226 religious priests in charge of about 201 parishes, besides many chaplaincies and mission- stations. The largest Catholic community is at Zürich (43,655). The 35 Capuchins of the prefectures Apostolic had charge of 79 chapels in 1906. Three Benedictine abbeys-Einsiedeln, Engelberg, and Disentis-are within the diocese and, with the church of St. Nicolaus von der Flue at Sachseln, are places of pilgrimage. There is an ecclesiastical seminary at Chur, besides colleges at Schwyz, Disentis, Einsiedeln, Engelberg, Sarnen, and Stans. There are in the diocese nine orders of men, ten orders of women (Franciscans, Augustinians, Dominicans, Benedictines, and others), and eleven congregations.
+
+Eichhorn, *Episcopatus Curiensis* (St. Blasien, 1797); Mohr, *Codex diplomaticus zur Gesch. Cur.-Rhætiens.* (1846-61); Mont and Plattner, *Das Hochstift und der Staat Chur* (Chur, 1860); Fetz, *Das Bistum Chur, histor.-statistisch beschrieben* (Chur, 1863-69); Werner, *Kath. Kirchenatlas* (Freiburg, 1888); Mülinen, *Helvetia Sacra* (Bern, 1888), I; D. F., *Leben und Wirken des P. Theodos. Florentini* (Ingenbohl, 1878); Lütolf, *Glaubensboten der Schweiz vor dem hl. Gallus* (Lecerne, 1871); *Acta Canonizationis S. Fidelis a Sigmaringen* (Rome, 1749); Alexius Spirensis, *Historialis relatio eorum quæ in Missione Rhæticâ acciderunt,* MS. in Capuchin Archives at Rome, printed in *Analecta Capucc.* (1898), 265 sqq.; *Analecta Capucc.,* passim; Mayer, *Vaticano-Curiensia* (1888); Büchi, *Die katholische Kirche in der Schweiz* (1902).
+
+Otto Jéron.

@@ -1,0 +1,33 @@
+---
+title: "Confession"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "F. M. Rudge"
+signed: "F.M. RUDGE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Confession"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.confession} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Ecclesiastical Conferences"
+next: "Confessor"
+entry-type: "article"
+characters: 2509
+words: 428
+links: 0
+images: 0
+---
+
+# Confession {#cathen.confession}
+
+(Lat. *confessio*).
+
+Originally used to designate the burial-place of a confessor or martyr (known also as a *memoria* or *martyrion*), this term gradually came to have a variety of applications: the altar erected over the grave; the underground *cubiculum* which contained the tomb; the high altar of the basilica erected over the confession; later on in the Middle Ages the basilica itself (Joan. Bar., De invent. s. Sabini); and finally the new resting-place to which the remains of a martyr had been transferred (Ruinart, II, 35). In case of translation the relics of a martyr were deposited in a crypt below the high altar, or in a hollow space beneath the altar, behind a *transenna* or pierced marble screen such as were used in the catacombs. Thus the tomb was left accessible to the faithful who wished to touch the shrine with cloths *brandea*) to be venerated in their turn as "relics". In the Roman church of St. Clemente the urn containing the remains of St. Clement and St. Ignatius of Antioch is visible behind such a *transenna*. Later still the term *confession* was adopted for the hollow reliquary in an altar (Ordo Rom. de dedic. altaris). The oil from the numerous lamps kept lighted in a confession was considered as a relic. Among the most famous subterranean confessions of Rome are those in the churches of S. Martino al Monti; S. Lorenzo fuori le Mure, containing the bodies of St. Laurence and St. Stephen; S. Prassede containing the bodies of the two sisters Sts. Praxedes and Pudentiana. The most celebrated confession is that of St. Peter. Over the tomb of the Apostle Pope St. Anacletus built a *memoria*, which Constantine when building his basilica replaced with the Confession of St. Peter. Behind the brass statues of Sts. Peter and Paul is the niche over the grated floor which covers the tomb. In this niche is the gold coffer, the work of Benvenuto Cellini which contains the palliums to be sent to archbishops *de corpore b. Petri* according to the Constitution "Rerum ecclesiasticarum" of Benedict XIV (12 Aug., 1748). All through the Middle Ages the palliums after being blessed were let down through the grating on to the tomb of the Apostle, where they remained for a whole night (Phillips, Kirchenrecht, V, 624, n. 61). During the restoration of the present basilica in 1594 the floor gave way, revealing the tomb of St. Peter and on it the golden cross weighing 150 pounds placed there by Constantine, and inscribed with his own and his mother's names.
+
+F.M. RUDGE

@@ -1,0 +1,126 @@
+---
+id: sintesis.13.es
+work: sintesis-de-la-fe-catolica
+title: "Tema 13. Pasión, muerte y resurrección de Jesucristo"
+work-title: "Síntesis de la fe católica"
+tema: 13
+creator: "unsigned"
+creator-role: ninguno
+creator-source: "read from the source, not from a list: this ePub carries no `<p class=\"aut\">` and no `aut` class of any kind — the markup by which the *Resúmenes de fe cristiana* signs each of its temas — and no tema names an author. The Presentación says only «textos preparados por teólogos y canonistas, muchos de ellos profesores de la Pontificia Universidad de la Santa Cruz (Roma)», and is itself signed by the two editors"
+editor: "Javier Yániz Fernández, Gerard Jiménez Clopés"
+publisher: "Fundación Studium (given away on opusdei.org)"
+isbn: "978-84-09-45728-1"
+edition: "the ePub the publisher gives away — the OPF dates it 2022-10-04 and records a modification of 2023-01-12; the title page reads «Síntesis de la fe católica», though the opusdei.org page that serves it is still headed «Resúmenes sobre la fe católica»"
+language: es
+original-language: yes
+authority-type: institutional
+status: current
+source_url: https://multimedia.opusdei.org/doc/epub/Libro%20sintesis%20de%20la%20fe%20catolica20230113103048048647.epub
+also-published-as: "https://multimedia.opusdei.org/doc/pdf/Libo%20Sintesis%20de%20la%20fe%20catolica%20-%20Javier%20Yaniz%20Fernandez%20-%20Gerard20230113170827444899.pdf (PDF, 2.5 MB), from the same host"
+fetch_date: 2026-08-31
+fetch-method: "plain HTTPS with the library's identifying user agent, 8 s apart. opusdei.org's HTML is Cloudflare-challenged and 403s every plain client; multimedia.opusdei.org is not, and serves the ePub straight"
+source-epub: "01. Sources/_originals/Library/theology/sintesis-fe-catolica.es.epub"
+derived-from: "the publisher's own ePub, converted by 99. Tools/collationes/convert_sintesis.py"
+curation-note: "this work stands in the browsing tree where *Resúmenes de fe cristiana* (ed. José Manuel Martín, 2012, 41 signed temas, sigla `resumenes`) stood between 13:56 and the evening of 2026-08-31. Alex ruled that day, choosing between the two explicitly — «let's not keep i already have the newer one from the opus dei website» — that the library holds this one instead. **It does not supersede the *Resúmenes*: they are different works** (33 % of 8-word shingles in common, 36 temas against 41, different editors, different publisher), and neither stands in for the other. The 2012 collection is no longer in the tree in any form; the iSilo decode of it is retained, out of the tree, at `01. Sources/_originals/Biblioteca/_markdown/Resumenes/` (44 records), which is now the library's only witness to that edition"
+same-text-also-held-as: "the library already held this text once, from the other side of a login: `01. Sources/Opus Dei/formation/programa-de-formacion-inicial/apartado-4/` — *Clases de doctrina católica*, anchors `pfi.4.1`–`pfi.4.36`, fetched 2026-08-25 from recursosformacion.org and carrying `restricted: true`. Same 36 temas, same order, same titles. Measured 2026-08-31 with `99. Tools/collationes/compare.py`: 89.1 % of this ePub's 8-word shingles are in apartado-4 and 92.0 % of apartado-4's are here. **This copy is the published book and is not restricted**, so it is the one to quote outward; apartado-4 is the course's own copy and the one its class numbering cites"
+anchors: "{#sintesis.13} — the tema number the book itself prints. The numbered sections inside a tema are headings only: the book is cited by tema, and anchoring its 36 temas at section level would multiply them into some 210 ids that nothing cites"
+footnotes: 0
+extracted: 2026-08-31
+---
+# Tema 13. Pasión, muerte y resurrección de Jesucristo {#sintesis.13}
+
+*Jesús aceptó libremente los sufrimientos físicos y morales impuestos por la injusticia de los pecadores. La cruz de Cristo es, sobre todo, la manifestación de amor generoso de la Trinidad hacia los hombres, de un amor que nos salva. El misterio de la Cruz, presente en los sacramentos, nos va conduciendo hacia una vida nueva. Por la resurrección de Jesús, Dios inauguró la vida nueva, la vida del mundo futuro, y la puso a disposición de los hombres.*
+
+Todos los misterios de Jesús son causa de nuestra salvación. Con *su vida santa y filial* en la tierra *Jesús reconduce al amor del Padre la realidad* humana que había quedado deformada por el pecado original y por los sucesivos pecados personales de todos los hombres. La rehabilita y la rescata del poder del diablo.
+
+Sin embargo, solo *con su misterio Pascual* (su pasión y su muerte, su resurrección y ascensión al cielo junto al Padre) esa realidad de la redención se *instaura definitivamente*. Por eso, el misterio de nuestra salvación se atribuye con frecuencia a la pasión, muerte y resurrección de Cristo, a su misterio pascual. Pero no olvidemos que es la vida entera de Cristo, en su fase terrena y en su fase gloriosa, lo que —hablando con rigor— nos salva.
+
+## La Pasión y muerte de Cristo
+
+*El sentido de la Cruz*. Desde el punto de vista histórico nuestro Señor murió porque fue condenado a muerte por las autoridades del pueblo judío, que lo entregaron al poder romano pidiendo que fuera ajusticiado. La causa de su condena a muerte fue su declaración ante el supremo concilio de los judíos (el Sanedrín) de que él era el Mesías hijo de Dios, aquel a quién Dios había dado el poder de juzgar a todos los hombres. Esta declaración fue considerada una blasfemia y así el Sanedrín pasó a decretar su muerte.
+
+Hay que notar que esta condena de Jesús se sitúa en continuidad con la precedente historia de la salvación del pueblo judío. En muchas ocasiones Dios habló al pueblo de Israel por medio de profetas (*cf*. *Heb* 1,1). Sin embargo, no siempre Israel recibió bien la palabra de Dios. La historia de Israel es una historia de grandes gestas heroicas, pero también de grandes rebeliones. En muchas ocasiones el pueblo abandonó a Dios y olvidó las leyes santas que había recibido de Él. Por eso, con frecuencia los profetas tuvieron que sufrir injusticias para realizar la misión que Dios les encomendaba.
+
+La historia de Jesús es la historia que culmina la historia de Israel, una historia con vocación universal. Al llegar la plenitud de los tiempos, Dios envió a su Hijo para que, cumpliendo sus promesas a Israel, llevase a cabo la instauración de su Reino en el mundo. Pero sólo algunos aceptaron a Cristo y lo siguieron; los jefes del pueblo, en cambio, lo rechazaron y lo condenaron a muerte. Nunca los hombres habían rechazado tan directamente a Dios, hasta poder maltratarlo en todos los modos posibles. Sin embargo —y aquí está el aspecto más misterioso de la Cruz— Dios no quiso proteger a su Hijo de la maldad humana, sino que lo entregó en manos de los pecadores: «Permitió los actos nacidos de su ceguera para realizar su designio de salvación» (*Catecismo*, n. 600). Y Jesús, siguiendo la voluntad del Padre «aceptó libremente su pasión y su muerte por amor a su Padre y a los hombres» (*Catecismo*, n. 609). Se entregó a sí mismo a esa pasión y muerte injustas. Confesó valientemente su identidad y su relación con el Padre, aunque sabía que no iba a ser aceptada por sus enemigos. Fue condenado a una muerte humillante y violenta y, de ese modo, experimentó en su carne y en su alma la injusticia de aquellos que lo condenaron. Y no sólo: en esa injusticia que sufrió y que aceptó por nosotros, estaban contenidas también todas las injusticias y pecados de la humanidad, pues cada pecado no es otra cosa que el rechazo del proyecto de Dios en Jesucristo, que alcanzó su mayor expresión en la condena de Jesús a una muerte tan cruel. Como afirma el *Compendio del Catecismo*: «Todo pecador, o sea todo hombre, es realmente causa e instrumento de los sufrimientos del Redentor» (n. 117).
+
+Por tanto, Jesús aceptó libremente los sufrimientos físicos y morales impuestos por la injusticia de los pecadores, y, en ellos, de todos los pecados de los hombres, de toda ofensa a Dios. Se puede decir, metafóricamente, que “cargó” nuestros pecados sobre sus hombros. Pero ¿por qué lo hizo? La respuesta que ha dado la Iglesia, sirviéndose de lenguajes distintos, pero con un fondo común, es ésta: lo hizo para anular o cancelar nuestros pecados en la justicia de su corazón.
+
+¿Cómo canceló Jesús nuestros pecados? Los eliminó sobrellevando esos sufrimientos, que eran fruto de los pecados de los hombres, en unión obediente y amorosa con su Padre Dios, con un corazón lleno de justicia, y con la caridad de quien ama al pecador, aunque éste no lo merezca, de quien busca perdonar las ofensas por amor (*cf*. *Lc* 22,42; 23,34). Tal vez un ejemplo ayude a entender esto mejor. A veces en la vida se presentan situaciones en las que una persona recibe ofensas de otra a la que ama. En el entorno familiar puede ocurrir, por ejemplo, que una persona anciana e impedida esté de mal humor y haga sufrir a quienes la atienden. Cuando hay verdadero amor esos sufrimientos se aceptan con caridad y se sigue procurando el bien de esa persona que ofende. Los agravios mueren porque no encuentran cabida en un corazón justo y lleno de amor. Algo semejante hizo Jesús, aunque en verdad Él fue mucho más allá, porque quizá el anciano del ejemplo merece el cariño de quienes lo atienden por las cosas buenas que hizo cuando era más joven. Pero Jesús nos amó sin que nosotros lo mereciéramos, y no se sacrificó por alguien al que amaba por algún motivo particular, sino por cada una de las personas, por todas y cada una: «Me amó y se entregó por mí», dice san Pablo, que había perseguido con saña a los cristianos. Jesús quiso ofrecer al Padre esos sufrimientos, junto con su muerte, en favor nuestro, para que, con base en su amor, nosotros pudiéramos alcanzar siempre el perdón de nuestras ofensas a Dios: «En sus llagas hemos sido curados» (*Is* 53,5). Y Dios Padre, que sostuvo con la fuerza del Espíritu Santo el sacrificio de Jesús, se deleitó ante el amor que había en el corazón de su Hijo. «Donde abundó el pecado sobreabundó la gracia» (*Rom* 5,20).
+
+Así, en el acontecimiento histórico de la cruz lo fundamental no fue el acto injusto de quienes lo acusaron y condenaron, sino la respuesta de Jesús, llena de rectitud y de misericordia ante esa situación. Que fue, a su vez, un acto de la Trinidad: «Ante todo es un don del mismo Dios Padre: es el Padre quien entrega al Hijo para reconciliarnos consigo. Al mismo tiempo es ofrenda del Hijo de Dios hecho hombre que, libremente y por amor, ofrece su vida a su Padre por medio del Espíritu Santo, para reparar nuestra desobediencia» (*Catecismo*, n. 614).
+
+La cruz de Cristo es, sobre todo, la manifestación de amor generoso de la Trinidad hacia los hombres, de un amor que nos salva. En esto consiste esencialmente su misterio.
+
+*El fruto de la Cruz*. Es, principalmente, la eliminación del pecado. Pero eso no significa que no podamos pecar o que cada pecado se nos perdone automáticamente sin que pongamos nada de nuestra parte. Quizá lo mejor sea explicar esto con una metáfora. Si, en una excursión o dando un paseo por el campo, nos muerde una serpiente venenosa, en seguida trataremos de buscar un antídoto para el veneno. El veneno, como el pecado, tiene un efecto destructivo para su sujeto. La función del antídoto es librarnos de esa destrucción que se está produciendo en nuestro organismo, y eso lo puede hacer porque contiene en sí mismo algo que neutraliza el veneno. Pues bien: la cruz es el “antídoto” del pecado. Hay en ella un amor que está presente precisamente como reacción a las injusticias, a las ofensas, y ese amor sacrificado que brota en el corazón de Cristo, en la desolación de la Cruz, es el elemento capaz de superar el pecado, de vencerlo y de eliminarlo.
+
+Somos pecadores, pero podemos librarnos del pecado y de sus efectos deletéreos participando en el misterio de la Cruz, deseando tomar ese “antídoto” que Cristo fabricó en sí mismo precisamente al sostener la experiencia del daño que hace el pecado, y que se nos aplica a través de los sacramentos. El bautismo nos incorpora a Cristo y, al hacerlo, borra nuestros pecados, la confesión sacramental nos limpia y obtiene el perdón de Dios, la Eucaristía nos purifica y fortalece… Así, el misterio de la Cruz, presente en los sacramentos, nos va conduciendo hacia esa vida nueva, sin fin, en el que todo mal y todo pecado no existirán, porque fueron cancelados por la cruz de Cristo.
+
+Hay también otros frutos de la Cruz. Ante un crucifijo nos damos cuenta de que la cruz no es solo antídoto del pecado, si no que revela también la potencia del amor. Jesús en la cruz nos enseña hasta donde se puede llegar por amor a Dios y a los hombres y así nos indica el camino hacia la plenitud humana, pues el sentido del hombre está en amar verdaderamente a Dios y a los demás. Claro que llegar a esa plenitud humana sólo es posible porque Jesús nos hace participar de su resurrección y nos da el Espíritu santo. Pero de esto se habla más adelante.
+
+## Expresiones bíblicas y litúrgicas
+
+Acabamos de explicitar el sentido teológico de la pasión y muerte de Jesús. Esto naturalmente también lo hicieron los primeros cristianos, los cuales usaron las categorías y conceptos que tenían a disposición en la cultura religiosa de su tiempo, y que son las que encontramos en el Nuevo Testamento. Ahí, la pasión y muerte de Cristo se entienden como: A) sacrificio de alianza; B) sacrificio de expiación, de propiciación y de reparación por los pecados; C) acto de redención y liberación de los hombres; D) acto que nos justifica y nos reconcilia con Dios.
+
+Veamos estos distintos modos de presentar el sentido de la Pasión y muerte de Cristo, que encontramos con frecuencia al leer la Escritura o al participar en la Liturgia:
+
+A) Jesús, ofreciendo su vida a Dios en la Cruz, *instituyó la Nueva Alianza*, es decir, la nueva y definitiva forma de unión de Dios con los hombres, que había sido profetizada por Isaías (*Is* 42,6), Jeremías (*Ger* 31,31–33) y Ezequiel (*Ez* 37,26). Es la Nueva Alianza de Cristo con la Iglesia de la que formamos parte por el Bautismo.
+
+B) El sacrificio de Cristo en la Cruz tiene un valor de *expiación*, es decir, de limpieza y purificación del pecado (*Rom* 3,25; *Heb* 1,3; *1Jn* 2,2; 4,10). Tiene también un valor de *propiciación y de reparación por el pecado* (*Rom* 3,25; *Heb* 1,3; *1Jn* 2,2; 4,10), porque Jesús manifestó al Padre con su obediencia el amor y la sujeción que los hombres le habíamos negado con nuestras ofensas. Y, en ese sentido, se ganó el corazón del Padre y reparó esas ofensas.
+
+C) La Cruz de Cristo es *acto de redención y de liberación del hombre*. Jesús pagó nuestra libertad con el precio de su sangre, es decir, de sus sufrimientos y de su muerte y así nos rescató del pecado (*1Pt* 1,18) y nos libró del poder del diablo. Todo el que comete pecado se hace, de algún modo, siervo del diablo.
+
+D) Especialmente en las cartas de San Pablo leemos que la sangre de Cristo nos *justifica*, es decir nos devuelve la justicia que perdimos al ofender a Dios y así nos *reconcilia* con Él. La Cruz, junto con la Resurrección de Cristo, es causa de nuestra justificación. Dios vuelve a estar presente en nuestra alma, porque el Espíritu Santo viene a morar de nuevo en nuestros corazones.
+
+## La resurrección del Señor
+
+*«Descendió a los infiernos»*. Tras padecer y morir, el cuerpo de Cristo fue sepultado en un sepulcro nuevo, no lejos del lugar donde le habían crucificado. Su alma, en cambio, «descendió a los infiernos», es decir, compartió el estado en el que se encontraban las personas justas que habían muerto antes que Él. Ellas aún no habían entrado en la gloria del cielo, pues estaban a la espera de la llegada del Mesías Rey, que iba a conseguir la salvación definitiva.
+
+La sepultura de Jesús manifiesta que murió verdaderamente. Su descenso a los infiernos tuvo también un efecto salvador: abrió a esos justos que esperaban a Cristo las puertas del cielo, de modo que pudieran participar de la felicidad eterna en Dios.
+
+*«Resucitó de entre los muertos». «*Al tercer día» (de su muerte), Jesús resucitó a una vida nueva. Su alma y su cuerpo, plenamente transfigurados con la gloria de su Persona divina, volvieron a unirse. El alma asumió de nuevo el cuerpo y la gloria del alma se comunicó en totalidad al cuerpo. Por este motivo, «la Resurrección de Cristo no es un retorno a la vida terrena. Su cuerpo resucitado es el mismo que fue crucificado, y lleva las huellas de su Pasión, pero ahora participa ya de la vida divina, con las propiedades de un cuerpo glorioso» (*Compendio*, n. 129).
+
+*El acontecimiento de la Resurrección de Cristo.* Jesús resucitó verdaderamente. Los Apóstoles no pudieron engañarse o inventar la resurrección. En primer lugar, si el sepulcro de Cristo no hubiera estado vacío no habrían podido hablar de la resurrección de Jesús; además si el Señor no se les hubiera aparecido en varias ocasiones y a numerosos grupos de personas, hombres y mujeres, muchos discípulos de Cristo no habrían podido aceptar su resurrección, como ocurrió inicialmente con el apóstol Tomás. Mucho menos habrían podido ellos dar su vida por una mentira. Como dice San Pablo, si Cristo no resucitó, entonces él, Pablo estaría dando un falso testimonio sobre Dios: «Que Dios resucitó a Cristo, a quien no resucitó» (*1Co* 15,14.15). Pero san Pablo no tenía intención de hacer algo así. Estaba plenamente convencido de la resurrección de Jesús porque lo había visto resucitado. De modo análogo, san Pedro responde con valentía a los jefes de Israel: «Hay que obedecer a Dios antes que a los hombres. El Dios de nuestros padres resucitó a Jesús a quien vosotros disteis muerte colgándole de un madero. [...] Nosotros somos testigos de estas cosas» (*Hch* 5,29–30.32).
+
+*El sentido teológico de la Resurrección*. La resurrección de Cristo forma una unidad con su muerte en la Cruz. Como por la pasión y muerte de Jesús Dios eliminó el pecado y reconcilió consigo el mundo, de modo semejante, por la resurrección de Jesús, Dios inauguró la vida nueva, la vida del mundo futuro, y la puso a disposición de los hombres.
+
+Todo el sufrimiento físico y espiritual que tuvo Jesús en la Cruz se transforma con su resurrección en felicidad y perfección tanto en su cuerpo como en su alma. Todo en Él está lleno de la vida de Dios, de su amor, de su felicidad, y eso es algo que durará para siempre.
+
+Pero no es algo sólo para él, sino también para nosotros. Por el don del Espíritu Santo, el Señor nos hace participar de esa vida nueva de su resurrección. Aquí en la tierra ya nos llena de su gracia, la gracia de Cristo que nos hace hijos y amigos de Dios, y si somos fieles, al final de nuestra vida nos comunicará también su gloria, y alcanzaremos también nosotros la gloria de la resurrección.
+
+En este sentido, los bautizados «hemos pasado de la muerte a la vida», de la lejanía de Dios a la gracia de la justificación y de la filiación divina. Somos hijos de Dios muy amados por la fuerza del misterio Pascual de Cristo, de su muerte y de su resurrección. En el desarrollo de esa vida de hijos de Dios se encuentra la plenitud de nuestra humanidad.
+
+*La ascensión de Cristo a los cielos.* Con la Ascensión a los cielos termina la misión de Cristo, su envío entre nosotros en carne mortal para obrar la salvación. Era necesario que, tras su Resurrección, Cristo prolongara de vez en cuando su presencia entre los discípulos, para manifestar su vida nueva y completar la formación de ellos. Esta presencia termina el día de la Ascensión. Sin embargo, aunque Jesús vuelve al cielo con el Padre, se queda también entre nosotros de varios modos, y principalmente en modo sacramental, por la Sagrada Eucaristía.
+
+Sentado a la derecha del Padre, Jesús continúa su ministerio de Mediador universal de la salvación. «El Señor reina con su humanidad en la gloria eterna de Hijo de Dios, intercede incesantemente ante el Padre en favor nuestro, nos envía su Espíritu y nos da la esperanza de llegar un día junto a Él, al lugar que nos tiene preparado» (*Compendio*, n. 132).
+
+Tengamos además en cuenta que la glorificación de Cristo:
+
+A) Nos alienta a vivir con la mirada puesta en la gloria del Cielo: «Buscando las cosas de allá arriba» (*Col* 3,1); nos recuerda que no tenemos aquí ciudad permanente (*Hb* 13,14), y fomenta en nosotros el deseo de santificar las realidades humanas.
+
+B) Nos impulsa a vivir de fe, pues nos sabemos acompañados por Jesucristo, que nos conoce y ama desde el cielo, y que nos da sin cesar la gracia de su Espíritu. Con la fuerza de Dios podemos realizar la tarea de evangelización que nos ha encomendado: llevarle a todas las almas (cfr. *Mt* 28,19) y ponerle en la cumbre de todas las actividades humanas (*cf*. *Jn* 12,32), para que su Reino sea una realidad (*cf*. *1Co* 15,25). Además, Él nos acompaña siempre desde el Sagrario.
+
+## La actualidad del misterio pascual en la vida del cristiano
+
+Como hemos dicho, la resurrección de Jesús no es un simple retorno a la vida precedente, como lo fue para Lázaro, sino que es algo completamente nuevo y distinto. La resurrección de Cristo es el paso hacia una vida que ya no está sometida a la caducidad del tiempo, una vida inmersa en la eternidad de Dios. Y no es algo que Jesús obtuvo para él sólo, sino para nosotros, por quienes murió y resucitó.
+
+El misterio pascual tiene resonancia en nuestra vida cotidiana. En la carta a los Colosenses, San Pablo dice: «Si habéis resucitado con Cristo, buscad los bienes de allá arriba, donde Cristo está sentado a la derecha de Dios; aspirad a los bienes de arriba, no a los de la tierra» (*Col* 3,1–2). A propósito de estas palabras de san Pablo, es interesante el siguiente comentario: «A primera vista, podría parecer que el Apóstol quiere favorecer el desprecio de la realidad terrena, es decir, invitando a olvidarse de este mundo de sufrimiento, de injusticias, de pecados, para vivir anticipadamente en un paraíso celestial. En este caso, el pensamiento del “cielo” sería una especie de alienación. Pero, para captar el sentido verdadero de estas afirmaciones paulinas, basta no separarlas de su contexto. El Apóstol precisa muy bien lo que entiende por “los bienes de allá arriba”, que el cristiano debe buscar, y “los bienes de la tierra”, de los cuales debe cuidarse. Los “bienes de la tierra” que es necesario evitar son, ante todo: “la fornicación, la impureza, la pasión, la codicia y la avaricia, que es una idolatría” (3,5–6). Dar muerte en nosotros al deseo insaciable de bienes materiales, al egoísmo, raíz de todo pecado» (Benedicto XVI, Audiencia General, 27–IV–2011).
+
+Se trata por tanto de hacer morir al «hombre viejo» para revestirse de Cristo y de los bienes que Él nos ha conseguido. El mismo san Pablo explica cuáles son esos bienes: «Como elegidos de Dios, santos y amados, revestíos de compasión entrañable, bondad, humildad, mansedumbre, paciencia. Sobrellevaos mutuamente y perdonaos cuando alguno tenga quejas contra otro [...]. Y por encima de todo esto, el amor, que es el vínculo de la unidad perfecta» (*Col* 3,12–14). Se ve que la búsqueda de los bienes del cielo no es evasión de un presente que sería sólo un obstáculo para alcanzar la vida eterna; se trata más bien de caminar con garbo en el presente hacia la vida eterna.
+
+Eso sólo es posible si actualizamos con frecuencia la vocación bautismal que recibimos de Cristo, que nos hace participar de su vida y de su gracia. Necesitamos vivir de fe, con confianza en Dios y su providencia, esperando de Él que nuestras obras den frutos buenos, fomentando la caridad con todos. Hemos de orar y de acudir con frecuencia a las fuentes de gracia que son los sacramentos. De esa forma lo que quizá antes fue una vida esclava del pecado, cautiva quizá de mil pequeños egoísmos, pasa a ser una vida santa, agradable a Dios. Nos vamos transformando por la gracia que nos hace santos y, a la vez, aportamos también nuestro granito de arena a esa transformación del mundo según Dios que tendrá su cumplimiento al final de los tiempos. Pero ya aquí, con nuestro ejemplo y acción de cristianos damos a la ciudad terrena un rostro nuevo que favorezca la verdadera humanidad: la solidaridad, la dignidad de las personas, la paz y la armonía familiar, la justicia y la promoción social, el cuidado del entorno en el que vivimos.
+
+«Los cristianos, creyendo firmemente que la resurrección de Cristo ha renovado al hombre sin sacarlo del mundo donde construye su historia, debemos ser los testigos luminosos de esta vida nueva que la Pascua ha traído […], La luz de la Pascua de Cristo debe penetrar nuestro mundo, debe llegar como mensaje de verdad y de vida a todos los hombres a través de nuestro testimonio cotidiano» (Benedicto XVI, *Audiencia General*, 27–IV–2011).
+
+Antonio Ducay
+
+**Bibliografía básica**
+
+*— Catecismo de la Iglesia Católica,* nn. 595–667.
+
+— San Juan Pablo II*, Creo en Jesucristo. Catequesis sobre el Credo (II),* Palabra, Madrid 1996.
+
+**Bibliografía complementaria**
+
+— Antonio Ducay, *Jesús, el Hijo Salvador*, Rialp, Madrid 2015, (en particular los capítulos V–VI).
+
+— Vicente Ferrer Barrientos*, Jesucristo nuestro Salvador*, Rialp, Madrid 2015.

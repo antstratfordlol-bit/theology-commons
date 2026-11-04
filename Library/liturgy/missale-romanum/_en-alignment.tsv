@@ -1,0 +1,608 @@
+block	file	misal_anchor	evidence	readings_links	title
+Advent1_Sun	Season_Advent.html	misal.dominica-i-adventus	id+antiphon	Readings_Advent.html#Advent1_Sun	Sunday in the First Week of Advent
+Advent1_Mon	Season_Advent.html	misal.hebdomada-i-adventus-feria-ii	id+antiphon	Readings_Advent.html#Advent1_Mon	Monday in the First Week of Advent
+Advent1_Tue	Season_Advent.html	misal.hebdomada-i-adventus-feria-iii	id+antiphon	Readings_Advent.html#Advent1_Tue	Tuesday in the First Week of Advent
+Advent1_Wed	Season_Advent.html	misal.hebdomada-i-adventus-feria-iv	id+antiphon	Readings_Advent.html#Advent1_Wed	Wednesday in the First Week of Advent
+Advent1_Thu	Season_Advent.html	misal.hebdomada-i-adventus-feria-v	id+antiphon	Readings_Advent.html#Advent1_Thu	Thursday in the First Week of Advent
+Advent1_Fri	Season_Advent.html	misal.hebdomada-i-adventus-feria-vi	id+antiphon	Readings_Advent.html#Advent1_Fri	Friday in the First Week of Advent
+Advent1_Sat	Season_Advent.html	misal.hebdomada-i-adventus-sabbato	id+antiphon	Readings_Advent.html#Advent1_Sat	Saturday in the First Week of Advent
+Advent2_Sun	Season_Advent.html	misal.dominica-ii-adventus	id+antiphon	Readings_Advent.html#Advent2_Sun	Sunday in the Second Week of Advent
+Advent2_Mon	Season_Advent.html	misal.hebdomada-ii-adventus-feria-ii	id+antiphon	Readings_Advent.html#Advent2_Mon	Monday in the Second Week of Advent
+Advent2_Tue	Season_Advent.html	misal.hebdomada-ii-adventus-feria-iii	id+antiphon	Readings_Advent.html#Advent2_Tue	Tuesday in the Second Week of Advent
+Advent2_Wed	Season_Advent.html	misal.hebdomada-ii-adventus-feria-iv	id+antiphon	Readings_Advent.html#Advent2_Wed	Wednesday in the Second Week of Advent
+Advent2_Thu	Season_Advent.html	misal.hebdomada-ii-adventus-feria-v	id+antiphon	Readings_Advent.html#Advent2_Thu	Thursday in the Second Week of Advent
+Advent2_Fri	Season_Advent.html	misal.hebdomada-ii-adventus-feria-vi	id+antiphon	Readings_Advent.html#Advent2_Fri	Friday in the Second Week of Advent
+Advent2_Sat	Season_Advent.html	misal.hebdomada-ii-adventus-sabbato	id+antiphon	Readings_Advent.html#Advent2_Sat	Saturday in the Second Week of Advent
+Advent3_Sun	Season_Advent.html	misal.dominica-iii-adventus	id+antiphon	Readings_Advent.html#Advent3_Sun	Sunday in the Third Week of Advent
+Advent3_Mon	Season_Advent.html	misal.hebdomada-iii-adventus-feria-ii	id+antiphon	Readings_Advent.html#Advent3_Mon	Monday in the Third Week of Advent
+Advent3_Tue	Season_Advent.html	misal.hebdomada-iii-adventus-feria-iii	id+antiphon	Readings_Advent.html#Advent3_Tue	Tuesday in the Third Week of Advent
+Advent3_Wed	Season_Advent.html	misal.hebdomada-iii-adventus-feria-iv	id+antiphon	Readings_Advent.html#Advent3_Wed	Wednesday in the Third Week of Advent
+Advent3_Thu	Season_Advent.html	misal.hebdomada-iii-adventus-feria-v	id+antiphon	Readings_Advent.html#Advent3_Thu	Thursday in the Third Week of Advent
+Advent3_Fri	Season_Advent.html	misal.hebdomada-iii-adventus-feria-vi	id+antiphon	Readings_Advent.html#Advent3_Fri	Friday in the Third Week of Advent
+Advent4_Sun	Season_Advent.html	misal.dominica-iv-adventus	id+antiphon	Readings_Advent.html#Advent4_Sun	Fourth Sunday of Advent
+Advent_Dec17	Season_Advent.html	misal.die-17-decembris	id+antiphon	Readings_Advent.html#Readings_Dec17	December 17
+Advent_Dec18	Season_Advent.html	misal.die-18-decembris	id+antiphon	Readings_Advent.html#Readings_Dec18	December 18
+Advent_Dec19	Season_Advent.html	misal.die-19-decembris	id+antiphon	Readings_Advent.html#Readings_Dec19	December 19
+Advent_Dec20	Season_Advent.html	misal.die-20-decembris	id+antiphon	Readings_Advent.html#Readings_Dec20	December 20
+Advent_Dec21	Season_Advent.html	misal.die-21-decembris	id+antiphon	Readings_Advent.html#Readings_Dec21	December 21
+Advent_Dec22	Season_Advent.html	misal.die-22-decembris	id+antiphon	Readings_Advent.html#Readings_Dec22	December 22
+Advent_Dec23	Season_Advent.html	misal.die-23-decembris	id+antiphon	Readings_Advent.html#Readings_Dec23	December 23
+Advent_Dec24	Season_Advent.html	misal.die-24-decembris-ad-missam-matutinam	id+antiphon	Readings_Advent.html#Readings_Dec24	December 24
+Dec25_Vigil	Season_Advent.html	misal.in-nativitate-domini-ad-missam-in-vigilia	id+antiphon	Readings_Christmas.html#Readings_Dec25a	DECEMBER 25 — NATIVITY OF OUR LORD — VIGIL MASS
+Dec25_Midnight	Season_Advent.html	misal.in-nativitate-domini-ad-missam-in-nocte	id+antiphon	Readings_Christmas.html#Readings_Dec25b	DECEMBER 25 — NATIVITY OF OUR LORD — MIDNIGHT MASS
+Dec25_Dawn	Season_Advent.html	misal.in-nativitate-domini-ad-missam-in-aurora	id+antiphon	Readings_Christmas.html#Readings_Dec25c	DECEMBER 25 — NATIVITY OF OUR LORD — MASS AT DAWN
+Dec25_Day	Season_Advent.html	misal.in-nativitate-domini-ad-missam-in-die	id+antiphon	Readings_Christmas.html#Readings_Dec25d	DECEMBER 25 — NATIVITY OF OUR LORD — MASS DURING THE DAY
+Octave_5	Season_Advent.html	misal.die-29-decembris	id+antiphon	Readings_Christmas.html#Octave_5	DECEMBER 29 — FIFTH DAY OF THE OCTAVE
+Octave_6	Season_Advent.html	misal.die-30-decembris	id+antiphon	Readings_Christmas.html#Octave_6	DECEMBER 30 — SIXTH DAY OF THE OCTAVE
+Octave_7	Season_Advent.html	misal.die-31-decembris	id+antiphon	Readings_Christmas.html#Octave_7	DECEMBER 31 — SEVENTH DAY OF THE OCTAVE
+Holy_Family	Season_Advent.html	misal.s-familiae-iesu-mariae-et-ioseph	id+antiphon	Readings_Christmas.html#Holy_Family	THE HOLY FAMILY OF JESUS, MARY AND JOSEPH [Feast]
+Jan_01	Season_Advent.html	misal.sollemnitas-sanctae-dei-genetricis-mariae	id+antiphon	Readings_Christmas.html#Jan_01	JANUARY 1 — SOLEMNITY OF MARY, MOTHER OF GOD
+Christmas_Sun2	Season_Advent.html	misal.dominica-ii-post-nativitatem	id+antiphon	Readings_Christmas.html#Christmas_Sun2	SECOND SUNDAY AFTER CHRISTMAS
+Epiphany_before_Mon	Season_Advent.html	misal.in-feriis-temporis-nativitatis-feria-ii	id+antiphon	Readings_Christmas.html#Epiphany_before Readings_Christmas.html#Epiphany_after	WEEKDAYS OF THE CHRISTMAS SEASON — MONDAY
+Epiphany_before_Tue	Season_Advent.html	misal.in-feriis-temporis-nativitatis-feria-iii	id+antiphon	Readings_Christmas.html#Epiphany_before Readings_Christmas.html#Epiphany_after	WEEKDAYS OF THE CHRISTMAS SEASON — TUESDAY
+Epiphany_before_Wed	Season_Advent.html	misal.in-feriis-temporis-nativitatis-feria-iv	id+antiphon	Readings_Christmas.html#Epiphany_before Readings_Christmas.html#Epiphany_after	WEEKDAYS OF THE CHRISTMAS SEASON — WEDNESDAY
+Epiphany_before_Thu	Season_Advent.html	misal.in-feriis-temporis-nativitatis-feria-v	id+antiphon	Readings_Christmas.html#Epiphany_before Readings_Christmas.html#Epiphany_after	WEEKDAYS OF THE CHRISTMAS SEASON — THURSDAY
+Epiphany_before_Fri	Season_Advent.html	misal.in-feriis-temporis-nativitatis-feria-vi	id+antiphon	Readings_Christmas.html#Epiphany_before Readings_Christmas.html#Epiphany_after	WEEKDAYS OF THE CHRISTMAS SEASON — FRIDAY
+Epiphany_before_Sat	Season_Advent.html	misal.in-feriis-temporis-nativitatis-sabbato	id+antiphon	Readings_Christmas.html#Epiphany_before Readings_Christmas.html#Epiphany_after	WEEKDAYS OF THE CHRISTMAS SEASON — SATURDAY
+Epiphany	Season_Advent.html	misal.in-epiphania-domini-ad-missam-in-die	id+antiphon	Readings_Christmas.html#Epiphany	THE EPIPHANY OF THE LORD [Solemnity]
+Baptism	Season_Advent.html	misal.in-baptismate-domini	id+antiphon	Readings_Christmas.html#Baptism	THE BAPTISM OF THE LORD [Feast] — First Sunday in Ordinary Time
+Ash_Wed	Season_Advent.html	misal.feria-quarta-cinerum	id+antiphon	Readings_Lent_split_000.html#Ash_Wed	ASH WEDNESDAY
+Ash_Wed-Thu	Season_Advent.html	misal.feria-quinta-post-cineres	id+antiphon	Readings_Lent_split_000.html#Ash_Wed-Thu	THURSDAY AFTER ASH WEDNESDAY
+Ash_Wed-Fri	Season_Advent.html	misal.feria-sexta-post-cineres	id+antiphon	Readings_Lent_split_000.html#Ash_Wed-Fri	FRIDAY AFTER ASH WEDNESDAY
+Ash_Wed-Sat	Season_Advent.html	misal.sabbato-post-cineres	id+antiphon	Readings_Lent_split_000.html#Ash_Wed-Sat	SATURDAY AFTER ASH WEDNESDAY
+Lent1_Sun	Season_Advent.html	misal.dominica-i-in-quadragesima	id+antiphon	Readings_Lent_split_000.html#Lent1_Sun	First Sunday of Lent
+Lent1_Mon	Season_Advent.html	misal.hebdomada-i-in-quadragesima-feria-ii	id+antiphon	Readings_Lent_split_000.html#Lent1_Mon	Monday in the First Week of Lent
+Lent1_Tue	Season_Advent.html	misal.hebdomada-i-in-quadragesima-feria-iii	id+antiphon	Readings_Lent_split_000.html#Lent1_Tue	Tuesday in the First Week of Lent
+Lent1_Wed	Season_Advent.html	misal.hebdomada-i-in-quadragesima-feria-iv	id+antiphon	Readings_Lent_split_000.html#Lent1_Wed	Wednesday in the First Week of Lent
+Lent1_Thu	Season_Advent.html	misal.hebdomada-i-in-quadragesima-feria-v	id+antiphon	Readings_Lent_split_000.html#Lent1_Thu	Thursday in the First Week of Lent
+Lent1_Fri	Season_Advent.html	misal.hebdomada-i-in-quadragesima-feria-vi	id+antiphon	Readings_Lent_split_000.html#Lent1_Fri	Friday in the First Week of Lent
+Lent1_Sat	Season_Advent.html	misal.hebdomada-i-in-quadragesima-sabbato	id+antiphon	Readings_Lent_split_000.html#Lent1_Sat	Saturday in the First Week of Lent
+Lent2_Sun	Season_Advent.html	misal.dominica-ii-in-quadragesima	id+antiphon	Readings_Lent_split_000.html#Lent2_Sun	Second Sunday of Lent
+Lent2_Mon	Season_Advent.html	misal.hebdomada-ii-in-quadragesima-feria-ii	id+antiphon	Readings_Lent_split_000.html#Lent2_Mon	Monday in the Second Week of Lent
+Lent2_Tue	Season_Advent.html	misal.hebdomada-ii-in-quadragesima-feria-iii	id+antiphon	Readings_Lent_split_000.html#Lent2_Tue	Tuesday in the Second Week of Lent
+Lent2_Wed	Season_Advent.html	misal.hebdomada-ii-in-quadragesima-feria-iv	id+antiphon	Readings_Lent_split_000.html#Lent2_Wed	Wednesday in the Second Week of Lent
+Lent2_Thu	Season_Advent.html	misal.hebdomada-ii-in-quadragesima-feria-v	id+antiphon	Readings_Lent_split_001.html#Lent2_Thu	Thursday in the Second Week of Lent
+Lent2_Fri	Season_Advent.html	misal.hebdomada-ii-in-quadragesima-feria-vi	id+antiphon	Readings_Lent_split_001.html#Lent2_Fri	Friday in the Second Week of Lent
+Lent2_Sat	Season_Advent.html	misal.hebdomada-ii-in-quadragesima-sabbato	id+antiphon	Readings_Lent_split_001.html#Lent2_Sat	Saturday in the Second Week of Lent
+Lent3_Sun	Season_Advent.html	misal.dominica-iii-in-quadragesima	id+antiphon	Readings_Lent_split_001.html#Lent3_Sun	Third Sunday of Lent
+Lent3_Mon	Season_Advent.html	misal.hebdomada-iii-in-quadragesima-feria-ii	id+antiphon	Readings_Lent_split_001.html#Lent3_Mon	Monday in the Third Week of Lent
+Lent3_Tue	Season_Advent.html	misal.hebdomada-iii-in-quadragesima-feria-iii	id+antiphon	Readings_Lent_split_001.html#Lent3_Tue Readings_Lent_split_000.html#Lent3_Tue_b	Tuesday in the Third Week of Lent
+Lent3_Wed	Season_Advent.html	misal.hebdomada-iii-in-quadragesima-feria-iv	id+antiphon	Readings_Lent_split_001.html#Lent3_Wed	Wednesday in the Third Week of Lent
+Lent3_Thu	Season_Advent.html	misal.hebdomada-iii-in-quadragesima-feria-v	id+antiphon	Readings_Lent_split_001.html#Lent3_Thu	Thursday in the Third Week of Lent
+Lent3_Fri	Season_Advent.html	misal.hebdomada-iii-in-quadragesima-feria-vi	id+antiphon	Readings_Lent_split_001.html#Lent3_Fri	Friday in the Third Week of Lent
+Lent3_Sat	Season_Advent.html	misal.hebdomada-iii-in-quadragesima-sabbato	id+antiphon	Readings_Lent_split_001.html#Lent3_Sat	Saturday in the Third Week of Lent
+Lent4_Sun	Season_Advent.html	misal.dominica-iv-in-quadragesima	id+antiphon	Readings_Lent_split_001.html#Lent4_Sun	Fourth Sunday of Lent
+Lent4_Mon	Season_Advent.html	misal.hebdomada-iv-in-quadragesima-feria-ii	id+antiphon	Readings_Lent_split_001.html#Lent4_Mon Readings_Lent_split_001.html#Lent4_Mon_b	Monday in the Fourth Week of Lent
+Lent4_Tue	Season_Advent.html	misal.hebdomada-iv-in-quadragesima-feria-iii	id+antiphon	Readings_Lent_split_001.html#Lent4_Tue	Tuesday in the Fourth Week of Lent
+Lent4_Wed	Season_Advent.html	misal.hebdomada-iv-in-quadragesima-feria-iv	id+antiphon	Readings_Lent_split_002.html#Lent4_Wed	Wednesday in the Fourth Week of Lent
+Lent4_Thu	Season_Advent.html	misal.hebdomada-iv-in-quadragesima-feria-v	id+antiphon	Readings_Lent_split_002.html#Lent4_Thu	Thursday in the Fourth Week of Lent
+Lent4_Fri	Season_Advent.html	misal.hebdomada-iv-in-quadragesima-feria-vi	id+antiphon	Readings_Lent_split_002.html#Lent4_Fri	Friday in the Fourth Week of Lent
+Lent4_Sat	Season_Advent.html	misal.hebdomada-iv-in-quadragesima-sabbato	id+antiphon	Readings_Lent_split_002.html#Lent4_Sat	Saturday in the Fourth Week of Lent
+Lent5_Sun	Season_Advent.html	misal.dominica-v-in-quadragesima	id+antiphon	Readings_Lent_split_002.html#Lent5_Sun	Fifth Sunday of Lent
+Lent5_Mon	Season_Advent.html	misal.hebdomada-v-in-quadragesima-feria-ii	id+antiphon	Readings_Lent_split_002.html#Lent5_Mon	Monday in the Fifth Week of Lent
+Lent5_Tue	Season_Advent.html	misal.hebdomada-v-in-quadragesima-feria-iii	id+antiphon	Readings_Lent_split_002.html#Lent5_Tue Readings_Lent_split_002.html#Tue_W5b	Tuesday in the Fifth Week of Lent
+Lent5_Wed	Season_Advent.html	misal.hebdomada-v-in-quadragesima-feria-iv	id+antiphon	Readings_Lent_split_002.html#Lent5_Wed	Wednesday in the Fifth Week of Lent
+Lent5_Thu	Season_Advent.html	misal.hebdomada-v-in-quadragesima-feria-v	id+antiphon	Readings_Lent_split_002.html#Lent5_Thu	Thursday in the Fifth Week of Lent
+Lent5_Fri	Season_Advent.html	misal.hebdomada-v-in-quadragesima-feria-vi	id+antiphon	Readings_Lent_split_002.html#Lent5_Fri	Friday in the Fifth Week of Lent
+Lent5_Sat	Season_Advent.html	misal.hebdomada-v-in-quadragesima-sabbato	id+antiphon	Readings_Lent_split_002.html#Lent5_Sat	Saturday in the Fifth Week of Lent
+LentHW_PalmSun	Season_Advent.html	misal.dominica-in-palmis-de-passione-domini	id+antiphon	Readings_Lent_split_002.html#Readings_PalmSun_proc Readings_Lent_split_002.html#Readings_PalmSun_proc Readings_Lent_split_002.html#Readings_PalmSun_mass	PALM SUNDAY — Commemoration of the Lord's Entrance into Jerusalem
+LentHW_Mon	Season_Advent.html	misal.feria-ii-hebdomadae-sanctae	id+antiphon	Readings_Lent_split_003.html#LentHW_Mon	Monday of Holy Week
+LentHW_Tue	Season_Advent.html	misal.feria-iii-hebdomadae-sanctae	id+antiphon	Readings_Lent_split_003.html#LentHW_Tue	Tuesday of Holy Week
+LentHW_Wed	Season_Advent.html	misal.feria-iv-hebdomadae-sanctae	id+antiphon	Readings_Lent_split_003.html#LentHW_Wed	Wednesday of Holy Week
+LentHW_Thu-a	Season_Advent.html	misal.feria-v-hebdomadae-sanctae-ad-missam-chrismatis	id	Readings_Lent_split_003.html#LentHW_Thu-a	HOLY THURSDAY — CHRISM MASS
+LentHW_Thu-b	Season_Advent.html	misal.feria-v-in-cena-domini-ad-missam-vespertinam	id+antiphon	Readings_Lent_split_003.html#LentHW_Thu-b	HOLY THURSDAY — EVENING MASS OF THE LORD'S SUPPER
+LentHW_Fri	Season_Advent.html	misal.feria-vi-in-passione-domini	id	Readings_Lent_split_003.html#LentHW_Fri	GOOD FRIDAY — Celebration of the Lord's Passion
+Easter_Vigil	Season_Advent.html	misal.vigilia-paschalis-in-nocte-sancta	id+antiphon	Readings_Easter_split_000.html#Easter_Vigil Readings_Easter_split_000.html#Vigil_Mass	HOLY SATURDAY — Easter Vigil
+Easter_Sun	Season_Advent.html	misal.dominica-paschae-in-resurrectione-domini-ad-missam-in-die	id+antiphon	Readings_Easter_split_000.html#Easter_Sun	EASTER SUNDAY — Mass During the Day
+Easter_Oct-Mon	Season_Advent.html	misal.feria-ii-infra-octavam-paschae	id+antiphon	Readings_Easter_split_001.html#Easter_Oct-Mon	EASTER MONDAY
+Easter_Oct-Tue	Season_Advent.html	misal.feria-iii-infra-octavam-paschae	id+antiphon	Readings_Easter_split_001.html#Easter_Oct-Tue	EASTER TUESDAY
+Easter_Oct-Wed	Season_Advent.html	misal.feria-iv-infra-octavam-paschae	id+antiphon	Readings_Easter_split_001.html#Easter_Oct-Wed	EASTER WEDNESDAY
+Easter_Oct-Thu	Season_Advent.html	misal.feria-v-infra-octavam-paschae	id+antiphon	Readings_Easter_split_001.html#Easter_Oct-Thu	EASTER THURSDAY
+Easter_Oct-Fri	Season_Advent.html	misal.feria-vi-infra-octavam-paschae	id+antiphon	Readings_Easter_split_001.html#Easter_Oct-Fri	EASTER FRIDAY
+Easter_Oct-Sat	Season_Advent.html	misal.sabbato-infra-octavam-paschae	id+antiphon	Readings_Easter_split_001.html#Easter_Oct-Sat	EASTER SATURDAY
+Easter2_Sun	Season_Advent.html	misal.dominica-ii-paschae	id+antiphon	Readings_Easter_split_001.html#Easter2_Sun	Sunday in the Second Week of Easter — Sunday of Divine Mercy
+Easter2_Mon	Season_Advent.html	misal.hebdomada-ii-paschae-feria-ii	id+antiphon	Readings_Easter_split_001.html#Easter2_Mon	Monday in the Second Week of Easter
+Easter2_Tue	Season_Advent.html	misal.hebdomada-ii-paschae-feria-iii	id+antiphon	Readings_Easter_split_001.html#Easter2_Tue	Tuesday in the Second Week of Easter
+Easter2_Wed	Season_Advent.html	misal.hebdomada-ii-paschae-feria-iv	id+antiphon	Readings_Easter_split_001.html#Easter2_Wed	Wednesday in the Second Week of Easter
+Easter2_Thu	Season_Advent.html	misal.hebdomada-ii-paschae-feria-v	id+antiphon	Readings_Easter_split_001.html#Easter2_Thu	Thursday in the Second Week of Easter
+Easter2_Fri	Season_Advent.html	misal.hebdomada-ii-paschae-feria-vi	id+antiphon	Readings_Easter_split_001.html#Easter2_Fri	Friday in the Second Week of Easter
+Easter2_Sat	Season_Advent.html	misal.hebdomada-ii-paschae-sabbato	id+antiphon	Readings_Easter_split_001.html#Easter2_Sat	Saturday in the Second Week of Easter
+Easter3_Sun	Season_Advent.html	misal.dominica-iii-paschae	id+antiphon	Readings_Easter_split_001.html#Easter3_Sun	Sunday in the Third Week of Easter
+Easter3_Mon	Season_Advent.html	misal.hebdomada-iii-paschae-feria-ii	id+antiphon	Readings_Easter_split_001.html#Easter3_Mon	Monday in the Third Week of Easter
+Easter3_Tue	Season_Advent.html	misal.hebdomada-iii-paschae-feria-iii	id+antiphon	Readings_Easter_split_001.html#Easter3_Tue	Tuesday in the Third Week of Easter
+Easter3_Wed	Season_Advent.html	misal.hebdomada-iii-paschae-feria-iv	id+antiphon	Readings_Easter_split_001.html#Easter3_Wed	Wednesday in the Third Week of Easter
+Easter3_Thu	Season_Advent.html	misal.hebdomada-iii-paschae-feria-v	id+antiphon	Readings_Easter_split_001.html#Easter3_Thu	Thursday in the Third Week of Easter
+Easter3_Fri	Season_Advent.html	misal.hebdomada-iii-paschae-feria-vi	id+antiphon	Readings_Easter_split_001.html#Easter3_Fri	Friday in the Third Week of Easter
+Easter3_Sat	Season_Advent.html	misal.hebdomada-iii-paschae-sabbato	id+antiphon	Readings_Easter_split_001.html#Easter3_Sat	Saturday in the Third Week of Easter
+Easter4_Sun	Season_Advent.html	misal.dominica-iv-paschae	id+antiphon	Readings_Easter_split_001.html#Easter4_Sun	Sunday in the Fourth Week of Easter
+Easter4_Mon	Season_Advent.html	misal.hebdomada-iv-paschae-feria-ii	id+antiphon	Readings_Easter_split_002.html#Easter4_Mon	Monday in the Fourth Week of Easter
+Easter4_Tue	Season_Advent.html	misal.hebdomada-iv-paschae-feria-iii	id+antiphon	Readings_Easter_split_002.html#Easter4_Tue	Tuesday in the Fourth Week of Easter
+Easter4_Wed	Season_Advent.html	misal.hebdomada-iv-paschae-feria-iv	id+antiphon	Readings_Easter_split_002.html#Easter4_Wed	Wednesday in the Fourth Week of Easter
+Easter4_Thu	Season_Advent.html	misal.hebdomada-iv-paschae-feria-v	id+antiphon	Readings_Easter_split_002.html#Easter4_Thu	Thursday in the Fourth Week of Easter
+Easter4_Fri	Season_Advent.html	misal.hebdomada-iv-paschae-feria-vi	id+antiphon	Readings_Easter_split_002.html#Easter4_Fri	Friday in the Fourth Week of Easter
+Easter4_Sat	Season_Advent.html	misal.hebdomada-iv-paschae-sabbato	id+antiphon	Readings_Easter_split_002.html#Easter4_Sat	Saturday in the Fourth Week of Easter
+Easter5_Sun	Season_Advent.html	misal.dominica-v-paschae	id+antiphon	Readings_Easter_split_002.html#Easter5_Sun	Sunday in the Fifth Week of Easter
+Easter5_Mon	Season_Advent.html	misal.hebdomada-v-paschae-feria-ii	id+antiphon	Readings_Easter_split_002.html#Easter5_Mon	Monday in the Fifth Week of Easter
+Easter5_Tue	Season_Advent.html	misal.hebdomada-v-paschae-feria-iii	id+antiphon	Readings_Easter_split_002.html#Easter5_Tue	Tuesday in the Fifth Week of Easter
+Easter5_Wed	Season_Advent.html	misal.hebdomada-v-paschae-feria-iv	id+antiphon	Readings_Easter_split_002.html#Easter5_Wed	Wednesday in the Fifth Week of Easter
+Easter5_Thu	Season_Advent.html	misal.hebdomada-v-paschae-feria-v	id+antiphon	Readings_Easter_split_002.html#Easter5_Thu	Thursday in the Fifth Week of Easter
+Easter5_Fri	Season_Advent.html	misal.hebdomada-v-paschae-feria-vi	id+antiphon	Readings_Easter_split_002.html#Easter5_Fri	Friday in the Fifth Week of Easter
+Easter5_Sat	Season_Advent.html	misal.hebdomada-v-paschae-sabbato	id+antiphon	Readings_Easter_split_002.html#Easter5_Sat	Saturday in the Fifth Week of Easter
+Easter6_Sun	Season_Advent.html	misal.dominica-vi-paschae	id+antiphon	Readings_Easter_split_002.html#Easter6_Sun	Sunday in the Sixth Week of Easter
+Easter6_Mon	Season_Advent.html	misal.hebdomada-vi-paschae-feria-ii	id+antiphon	Readings_Easter_split_002.html#Easter6_Mon	Monday in the Sixth Week of Easter
+Easter6_Tue	Season_Advent.html	misal.hebdomada-vi-paschae-feria-iii	id+antiphon	Readings_Easter_split_002.html#Easter6_Tue	Tuesday in the Sixth Week of Easter
+Easter6_Wed	Season_Advent.html	misal.hebdomada-vi-paschae-feria-iv-ad-missam-matutinam	id+antiphon	Readings_Easter_split_002.html#Easter6_Wed	Wednesday in the Sixth Week of Easter
+Easter6_Thu	Season_Advent.html	misal.hebdomada-vi-paschae-feria-v	id+antiphon	Readings_Easter_split_002.html#Easter6_Thu	Thursday in the Sixth Week of Easter
+Easter6_Fri	Season_Advent.html	misal.hebdomada-vi-paschae-feria-vi	id+antiphon	Readings_Easter_split_002.html#Easter6_Fri	Friday in the Sixth Week of Easter
+Easter6_Sat	Season_Advent.html	misal.hebdomada-vi-paschae-sabbato	id+antiphon	Readings_Easter_split_002.html#Easter6_Sat	Saturday in the Sixth Week of Easter
+Ascension_vigil	Season_Advent.html	misal.in-ascensione-domini-ad-missam-in-vigilia	id+antiphon	Readings_Easter_split_002.html#Ascension	SOLEMNITY OF OUR LORD'S ASCENSION — VIGIL MASS
+Ascension_day	Season_Advent.html	misal.in-ascensione-domini-ad-missam-in-die	id+antiphon	Readings_Easter_split_002.html#Ascension	OUR LORD’S ASCENSION [Mass during the Day]
+Easter7_Sun	Season_Advent.html	misal.dominica-vii-paschae	id+antiphon	Readings_Easter_split_002.html#Easter7_Sun	Sunday in the Seventh Week of Easter
+Easter7_Mon	Season_Advent.html	misal.hebdomada-vii-paschae-feria-ii	id+antiphon	Readings_Easter_split_002.html#Easter7_Mon	Monday in the Seventh Week of Easter
+Easter7_Tue	Season_Advent.html	misal.hebdomada-vii-paschae-feria-iii	id+antiphon	Readings_Easter_split_002.html#Easter7_Tue	Tuesday in the Seventh Week of Easter
+Easter7_Wed	Season_Advent.html	misal.hebdomada-vii-paschae-feria-iv	id+antiphon	Readings_Easter_split_002.html#Easter7_Wed	Wednesday in the Seventh Week of Easter
+Easter7_Thu	Season_Advent.html	misal.hebdomada-vii-paschae-feria-v	id+antiphon	Readings_Easter_split_002.html#Easter7_Thu	Thursday in the Seventh Week of Easter
+Easter7_Fri	Season_Advent.html	misal.hebdomada-vii-paschae-feria-vi	id+antiphon	Readings_Easter_split_002.html#Easter7_Fri	Friday in the Seventh Week of Easter
+Easter7_Sat	Season_Advent.html	misal.hebdomada-vii-paschae-sabbato-ad-missam-matutinam	id+antiphon	Readings_Easter_split_002.html#Easter7_Sat	Saturday in the Seventh Week of Easter
+Pentecost_VigilMass	Season_Advent.html	misal.dominica-pentecostes-ad-missam-in-vigilia	id+antiphon	Readings_Easter_split_003.html#Pentecost_VigilMass	PENTECOST SUNDAY — VIGIL MASS
+Pentecost_MassDay	Season_Advent.html	misal.dominica-pentecostes-ad-missam-in-die	id+antiphon	Readings_Easter_split_003.html#Pentecost_MassDay	PENTECOST SUNDAY — MASS DURING THE DAY
+jesus_high_priest	Season_Advent.html	misal.domini-nostri-iesu-christi-summi-et-aeterni-sacerdotis	particular	readings-various.html#jesus_high_priest	JESUS CHRIST, THE ETERNAL HIGH PRIEST [National calendar, Feast]
+Trinity	Season_Advent.html	misal.sanctissimae-trinitatis	id+antiphon	Readings_OT_Feasts.html#Trinity	THE MOST HOLY TRINITY [Solemnity]
+Corpus_Christi	Season_Advent.html	misal.sanctissimi-corporis-et-sanguinis-christi	id+antiphon	Readings_OT_Feasts.html#Corpus_Christi	THE BODY AND BLOOD OF CHRIST [Solemnity]
+Sacred_heart	Season_Advent.html	misal.sacratissimi-cordis-iesu	id+antiphon	Readings_OT_Feasts.html#Sacred_heart	THE SACRED HEART OF JESUS [Solemnity]
+Immaculate_heart	Season_Advent.html	misal.immaculati-cordis-beatae-mariae-virginis	id+antiphon	Readings_OT_Feasts.html#Immaculate_heart	THE IMMACULATE HEART OF MARY
+OT_Week01	Season_Advent.html	misal.hebdomada-i-per-annum	id+antiphon	Readings_OT_01-06_split_000.html#OT_Week01	FIRST WEEK IN ORDINARY TIME
+OT_Week02	Season_Advent.html	misal.dominica-ii-per-annum	id+antiphon	Readings_OT_01-06_split_000.html#OT_Week02	SECOND WEEK IN ORDINARY TIME
+OT_Week03	Season_Advent.html	misal.dominica-iii-per-annum	id+antiphon	Readings_OT_01-06_split_000.html#OT_Week03	THIRD WEEK IN ORDINARY TIME
+OT_Week04	Season_Advent.html	misal.dominica-iv-per-annum	id+antiphon	Readings_OT_01-06_split_000.html#OT_Week04	FOURTH WEEK IN ORDINARY TIME
+OT_Week05	Season_Advent.html	misal.dominica-v-per-annum	id+antiphon	Readings_OT_01-06_split_001.html#OT_Week05	FIFTH WEEK IN ORDINARY TIME
+OT_Week06	Season_Advent.html	misal.dominica-vi-per-annum	id+antiphon	Readings_OT_01-06_split_001.html#OT_Week06	SIXTH WEEK IN ORDINARY TIME
+OT_Week07	Season_Advent.html	misal.dominica-vii-per-annum	id+antiphon	Readings_OT_07-12_split_000.html#OT_Week07	SEVENTH WEEK IN ORDINARY TIME
+OT_Week08	Season_Advent.html	misal.dominica-viii-per-annum	id+antiphon	Readings_OT_07-12_split_000.html#OT_Week08	EIGHTH WEEK IN ORDINARY TIME
+OT_Week09	Season_Advent.html	misal.dominica-ix-per-annum	id+antiphon	Readings_OT_07-12_split_000.html#OT_Week09	NINTH WEEK IN ORDINARY TIME
+OT_Week10	Season_Advent.html	misal.dominica-x-per-annum	id+antiphon	Readings_OT_07-12_split_000.html#OT_Week10	TENTH WEEK IN ORDINARY TIME
+OT_Week11	Season_Advent.html	misal.dominica-xi-per-annum	id+antiphon	Readings_OT_07-12_split_001.html#OT_Week11	ELEVENTH WEEK IN ORDINARY TIME
+OT_Week12	Season_Advent.html	misal.dominica-xii-per-annum	id+antiphon	Readings_OT_07-12_split_001.html#OT_Week12	TWELFTH WEEK IN ORDINARY TIME
+OT_Week13	Season_Advent.html	misal.dominica-xiii-per-annum	id+antiphon	Readings_OT_13-18_split_000.html#OT_Week13	THIRTEENTH WEEK IN ORDINARY TIME
+OT_Week14	Season_Advent.html	misal.dominica-xiv-per-annum	id+antiphon	Readings_OT_13-18_split_000.html#OT_Week14	FOURTEENTH WEEK IN ORDINARY TIME
+OT_Week15	Season_Advent.html	misal.dominica-xv-per-annum	id+antiphon	Readings_OT_13-18_split_000.html#OT_Week15	FIFTEENTH WEEK IN ORDINARY TIME
+OT_Week16	Season_Advent.html	misal.dominica-xvi-per-annum	id+antiphon	Readings_OT_13-18_split_001.html#OT_Week16	SIXTEENTH WEEK IN ORDINARY TIME
+OT_Week17	Season_Advent.html	misal.dominica-xvii-per-annum	id+antiphon	Readings_OT_13-18_split_001.html#OT_Week17	SEVENTEENTH WEEK IN ORDINARY TIME
+OT_Week18	Season_Advent.html	misal.dominica-xviii-per-annum	id+antiphon	Readings_OT_13-18_split_001.html#OT_Week18	EIGHTEENTH WEEK IN ORDINARY TIME
+OT_Week19	Season_Advent.html	misal.dominica-xix-per-annum	id+antiphon	Readings_OT_19-24_split_000.html#OT_Week19	NINETEENTH WEEK IN ORDINARY TIME
+OT_Week20	Season_Advent.html	misal.dominica-xx-per-annum	id+antiphon	Readings_OT_19-24_split_000.html#OT_Week20	TWENTIETH WEEK IN ORDINARY TIME
+OT_Week21	Season_Advent.html	misal.dominica-xxi-per-annum	id+antiphon	Readings_OT_19-24_split_000.html#OT_Week21	TWENTY-FIRST WEEK IN ORDINARY TIME
+OT_Week22	Season_Advent.html	misal.dominica-xxii-per-annum	id+antiphon	Readings_OT_19-24_split_001.html#OT_Week22	TWENTY-SECOND WEEK IN ORDINARY TIME
+OT_Week23	Season_Advent.html	misal.dominica-xxiii-per-annum	id+antiphon	Readings_OT_19-24_split_001.html#OT_Week23	TWENTY-THIRD WEEK IN ORDINARY TIME
+OT_Week24	Season_Advent.html	misal.dominica-xxiv-per-annum	id+antiphon	Readings_OT_19-24_split_001.html#OT_Week24	TWENTY-FOURTH WEEK IN ORDINARY TIME
+OT_Week25	Season_Advent.html	misal.dominica-xxv-per-annum	id+antiphon	Readings_OT_25-29_split_000.html#OT_Week25	TWENTY-FIFTH WEEK IN ORDINARY TIME
+OT_Week26	Season_Advent.html	misal.dominica-xxvi-per-annum	id+antiphon	Readings_OT_25-29_split_000.html#OT_Week26	TWENTY-SIXTH WEEK IN ORDINARY TIME
+OT_Week27	Season_Advent.html	misal.dominica-xxvii-per-annum	id+antiphon	Readings_OT_25-29_split_000.html#OT_Week27	TWENTY-SEVENTH WEEK IN ORDINARY TIME
+OT_Week28	Season_Advent.html	misal.dominica-xxviii-per-annum	id+antiphon	Readings_OT_25-29_split_001.html#OT_Week28	TWENTY-EIGHTH WEEK IN ORDINARY TIME
+OT_Week29	Season_Advent.html	misal.dominica-xxix-per-annum	id+antiphon	Readings_OT_25-29_split_001.html#OT_Week29	TWENTY-NINTH WEEK IN ORDINARY TIME
+OT_Week30	Season_Advent.html	misal.dominica-xxx-per-annum	id+antiphon	Readings_OT_30-34_split_000.html#OT_Week30	THIRTIETH WEEK IN ORDINARY TIME
+OT_Week31	Season_Advent.html	misal.dominica-xxxi-per-annum	id+antiphon	Readings_OT_30-34_split_000.html#OT_Week31	THIRTY-FIRST WEEK IN ORDINARY TIME
+OT_Week32	Season_Advent.html	misal.dominica-xxxii-per-annum	id+antiphon	Readings_OT_30-34_split_000.html#OT_Week32	THIRTY-SECOND WEEK IN ORDINARY TIME
+OT_Week33	Season_Advent.html	misal.dominica-xxxiii-per-annum	id+antiphon	Readings_OT_30-34_split_001.html#OT_Week33	THIRTY-THIRD WEEK IN ORDINARY TIME
+OT_Week34	Season_Advent.html	misal.hebdomada-xxxiv-per-annum	id+antiphon	Readings_OT_30-34_split_001.html#OT_Week34	THIRTY-FOURTH WEEK IN ORDINARY TIME
+Last_Sun_CTK	Season_Advent.html	misal.domini-nostri-iesu-christi-universorum-regis	id+antiphon	Readings_OT_Feasts.html#Last_Sun_CTK	LAST SUNDAY IN ORDINARY TIME — OUR LORD JESUS CHRIST THE KING [Solemnity]
+Mass_Jan02	Proper_of_Saints.html	misal.die-2-ianuarii-ss-basilii-magni-et-gregorii-nazianzeni	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_Jan02	January 2 — Saints Basil the Great and Gregory Nazianzen, bishops and doctors of the Church [Memorial]
+Mass_Jan03	Proper_of_Saints.html	misal.die-3-ianuarii-sanctissimi-nominis-iesu	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_Jan03	January 3 — Holy Name of Jesus [Optional Memorial]
+Mass_Jan07	Proper_of_Saints.html	misal.die-7-ianuarii-s-raimundi-de-penyafort	date+name		January 7 — Saint Raymond of Peñafort, priest [Optional Memorial]
+Mass_Jan12	Proper_of_Saints.html	misal.die-12-ianuarii-s-aelredi-rievallensis-angliae	particular		January 12 — Saint Aelred of Rievaulx, Abbot [English Calendar]
+Mass_Jan13	Proper_of_Saints.html	misal.die-13-ianuarii-s-hilarii	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Jan13	January 13 — Saint Hilary, bishop, doctor of the Church [Optional Memorial]
+Mass_Jan17	Proper_of_Saints.html	misal.die-17-ianuarii-s-antonii	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_Jan17	January 17 — Saint Anthony, abbot [Memorial]
+Mass_Jan19	Proper_of_Saints.html	misal.die-19-ianuarii-s-wulstani-angliae	particular		January 19 — Saint Wulstan, bishop, [English Calendar]
+Mass_Jan20#0	Proper_of_Saints.html	misal.die-20-ianuarii-s-fabiani	date+name		January 20 — Saint Fabian
+Mass_Jan20#1	Proper_of_Saints.html	misal.die-20-ianuarii-s-sebastiani	date+name		Saint Sebastian
+Mass_Jan21	Proper_of_Saints.html	misal.die-21-ianuarii-s-agnetis	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Jan21	January 21 — Saint Agnes, virgin and martyr [Memorial]
+Mass_Jan22	Proper_of_Saints.html	misal.die-22-ianuarii-s-vincentii	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Jan22	January 22 — Saint Vincent, deacon and martyr [Optional Memorial]
+Mass_Jan24	Proper_of_Saints.html	misal.die-24-ianuarii-s-francisci-de-sales	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Jan24	January 24 — Saint Francis de Sales, bishop and doctor of the Church [Memorial]
+Mass_Jan25	Proper_of_Saints.html	misal.die-25-ianuarii-in-conversione-s-pauli	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_Jan25	January 25 — Conversion of Saint Paul, apostle [Feast]
+Mass_Jan26	Proper_of_Saints.html	misal.die-26-ianuarii-ss-timothei-et-titi	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_Jan26	January 26 — Saints Timothy and Titus, bishops [Memorial]
+Mass_Jan27	Proper_of_Saints.html	misal.die-27-ianuarii-s-angelae-merici	date+name		January 27 — Saint Angela Merici, virgin, founder [Optional Memorial]
+Mass_Jan28	Proper_of_Saints.html	misal.die-28-ianuarii-s-thomae-de-aquino	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Jan28	January 28 — Saint Thomas Aquinas, priest, religious, doctor of the Church [Memorial]
+Mass_Jan31	Proper_of_Saints.html	misal.die-31-ianuarii-s-ioannis-bosco	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Jan31	January 31 — Saint John Bosco, priest and founder [Memorial]
+Mass_Feb02	Proper_of_Saints.html	misal.die-2-februarii-in-praesentatione-domini	antiphon	Readings_Proper_of_Saints_split_000.html#Readings_Feb02	February 2 — The Presentation of the Lord [Feast]
+Mass_Feb03#0	Proper_of_Saints.html	misal.die-3-februarii-s-blasii	date+name		February 3 — Saint Blaise
+Mass_Feb03#1	Proper_of_Saints.html	misal.die-3-februarii-s-ansgarii	date+name		Saint Ansgar
+Mass_Feb05	Proper_of_Saints.html	misal.die-5-februarii-s-agathae	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Feb05	February 5 — Saint Agatha, virgin and martyr [Memorial]
+Mass_Feb06	Proper_of_Saints.html	misal.die-6-februarii-ss-pauli-miki-et-sociorum	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Feb06	February 6 — Saint Paul Miki, martyr, and his companions, martyrs [Memorial]
+Mass_Feb08#0	Proper_of_Saints.html	misal.die-8-februarii-s-hieronymi-emiliani	date+name	Readings_Proper_of_Saints_split_000.html#St._Jerome_Emiliani_	February 8 — Saint Jerome Emiliani
+Mass_Feb08#1	Proper_of_Saints.html	misal.die-8-februarii-s-iosephinae-bakhita	date+name	Readings_Proper_of_Saints_split_000.html#St._Josephine_Bakhita,_virgin	Saint Josephine Bakhita
+Mass_Feb10	Proper_of_Saints.html	misal.die-10-februarii-s-scholasticae	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Feb10	February 10 — Saint Scholastica, virgin [Memorial]
+Mass_Feb11	Proper_of_Saints.html	misal.die-11-februarii-beatae-mariae-virginis-de-lourdes	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Feb11	February 11 — Our Lady of Lourdes [Optional Memorial]
+Mass_Feb14	Proper_of_Saints.html	misal.die-14-februarii-ss-cyrilli-et-methodii	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_Feb14	February 14 — Saint Cyril, monk, and Saint Methodius, bishop [Memorial or Feast in Europe]
+Mass_Feb17	Proper_of_Saints.html	misal.die-17-februarii-ss-septem-fundatorum-ordinis-servorum-b-m-v	date+name		February 17 — Seven Founders of the Servite Order [Memorial]
+Mass_Feb21	Proper_of_Saints.html	misal.die-21-februarii-s-petri-damiani	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Feb21	February 21 — Saint Peter Damian, bishop and doctor [Memorial]
+Mass_Feb22	Proper_of_Saints.html	misal.die-22-februarii-cathedrae-s-petri	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_Feb22	February 22 — Chair of Saint Peter, Apostle [Feast]
+Mass_Feb23	Proper_of_Saints.html	misal.die-23-februarii-s-polycarpi	date+name		February 23 — Saint Polycarp, bishop and martyr [Memorial]
+February_27	Proper_of_Saints.html	misal.die-27-februarii-s-gregorii-narecensis	particular	Readings_Proper_of_Saints_split_000.html#February_27_	February 27 — Saint Gregory of Narek, abbot and doctor of the Church [Optional memorial]
+Mass_Mar01	Proper_of_Saints.html	misal.die-1-martii-s-davidis-angliae	particular	Readings_Proper_of_Saints_split_000.html#Readings_Mar01	March 1 — Saint David, Bishop, Patron of Wales [English Calendar, Feast]
+Mass_Mar04	Proper_of_Saints.html	misal.die-4-martii-s-casimiri	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Mar04	March 4 — Saint Casimir [Optional Memorial]
+Mass_Mar07	Proper_of_Saints.html	misal.die-7-martii-ss-perpetuae-et-felicitatis	id+antiphon		March 7 — Saints Felicity and Perpetua, martyrs [Memorial]
+Mass_Mar08	Proper_of_Saints.html	misal.die-8-martii-s-ioannis-a-deo	date+name		March 8 — Saint John of God, religious [Optional Memorial]
+Mass_Mar09	Proper_of_Saints.html	misal.die-9-martii-s-franciscae-romanae	date+name		March 9 — Saint Frances of Rome, religious [Optional Memorial]
+Mass_Mar17	Proper_of_Saints.html	misal.die-17-martii-s-patricii	date+name		March 17 — Saint Patrick, bishop, Patron of Ireland [Feast in England]
+Mass_Mar_17b	Proper_of_Saints.html			Readings_Proper_of_Saints_split_000.html#Readings_Mar17	March 17 — Saint Patrick, bishop, Patron of Ireland [Feast in England] — Proper Mass
+Mass_Mar18	Proper_of_Saints.html	misal.die-18-martii-s-cyrilli-hierosolymitani	date+name		March 18 — Saint Cyril of Jerusalem, bishop and doctor of the Church [Optional Memorial]
+Mass_Mar19	Proper_of_Saints.html	misal.die-19-martii-s-ioseph-sponsi-beatae-mariae-virginis	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_Mar19	March 19 — St Joseph, Husband of Mary [Solemnity]
+Mass_Mar23	Proper_of_Saints.html	misal.die-23-martii-s-turibii-de-mogrovejo	date+name		March 23 — Saint Turibius of Mogrovejo, bishop
+Mass_Mar25	Proper_of_Saints.html	misal.die-25-martii-in-annuntiatione-domini	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_Mar25	March 25 — Annunciation of the Lord [Solemnity]
+Mass_Apr02	Proper_of_Saints.html	misal.die-2-aprilis-s-francisci-de-paola	date+name		April 2 — Saint Francis of Paola, hermit [Optional Memorial]
+Mass_Apr04	Proper_of_Saints.html	misal.die-4-aprilis-s-isidori	date+name		April 4 — Saint Isidore of Seville, bishop and doctor of the church [Optional Memorial]
+Mass_Apr05	Proper_of_Saints.html	misal.die-5-aprilis-s-vincentii-ferrer	date+name		April 5 — Saint Vincent Ferrer, priest [Optional Memorial]
+Mass_Apr07	Proper_of_Saints.html	misal.die-7-aprilis-s-ioannis-baptistae-de-la-salle	date+name		April 7 — Saint John Baptist de la Salle, priest [Memorial]
+Mass_Apr11	Proper_of_Saints.html	misal.die-11-aprilis-s-stanislai	date+name		April 11 — Saint Stanislaus, bishop [Memorial]
+Mass_Apr13	Proper_of_Saints.html	misal.die-13-aprilis-s-martini-i	date+name		April 13 — Saint Martin I, pope and martyr [Optional Memorial]
+Mass_Apr21	Proper_of_Saints.html	misal.die-21-aprilis-s-anselmi	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Apr21	April 21 — Saint Anselm, bishop and doctor of the church [Optional Memorial]
+Mass_Apr23	Proper_of_Saints.html	misal.die-23-aprilis-s-georgii	date+name		April 23 — Saint George, martyr, Patron of England [Optional Memorial or Solemnity in England]
+Mass_St_George	Proper_of_Saints.html			Readings_Proper_of_Saints_split_000.html#Readings_Apr23	Saint George
+Mass_Apr24#0	Proper_of_Saints.html	misal.die-23-aprilis-s-adalberti	collect-read	Readings_Proper_of_Saints_split_000.html#April_24__	April 24 — Saint Adalbert
+Mass_Apr24#1	Proper_of_Saints.html	misal.die-24-aprilis-s-fidelis-de-sigmaringen	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Apr24	Saint Fidelis of Sigmaringen
+Mass_Apr25	Proper_of_Saints.html	misal.die-25-aprilis-s-marci	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_Apr25	April 25 — Saint Mark, evangelist [Feast]
+Mass_Apr28#0	Proper_of_Saints.html	misal.die-28-aprilis-s-petri-chanel	date+name		April 28 — Saint Peter Chanel
+Mass_Apr28#1	Proper_of_Saints.html	misal.die-28-aprilis-s-ludovici-mariae-grignion-de-montfort	date+name		Saint Louis Mary de Montfort
+Mass_Apr29	Proper_of_Saints.html	misal.die-29-aprilis-s-catharinae-senensis	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_Apr29	April 29 — Saint Catherine of Siena, Virgin and Doctor of the Church [Feast in Europe]
+Mass_Apr30	Proper_of_Saints.html	misal.die-30-aprilis-s-pii-v	date+name	Readings_Proper_of_Saints_split_000.html#Readings_Apr30	April 30 — Saint Pius V, pope [Optional Memorial]
+Mass_May01	Proper_of_Saints.html	misal.die-1-maii-s-ioseph-opificis	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_May01	May 1 — Saint Joseph the Worker [Memorial]
+Mass_May02	Proper_of_Saints.html	misal.die-2-maii-s-athanasii	id+antiphon	Readings_Proper_of_Saints_split_000.html#Readings_May02	May 2 — Saint Athanasius, bishop and doctor [Memorial]
+Mass_May03	Proper_of_Saints.html	misal.die-3-maii-ss-philippi-et-iacobi	id+antiphon	Readings_Proper_of_Saints_split_001.html#Readings_May03	May 3 — Saints Philip and James, Apostles [Feast]
+Mass_May04	Proper_of_Saints.html	misal.die-4-maii-ss-martyrum-anglorum-angliae	particular	Readings_Proper_of_Saints_split_001.html#Readings_May04	May 4 — The English Martyrs [English Calendar, Feast]
+May_10	Proper_of_Saints.html	misal.die-10-maii-s-ioannis-de-avila	particular	Readings_Proper_of_Saints_split_001.html#May_10_St_John_of_Avila	May 10 — Saint John of Avila, priest and doctor of the Church [Optional Memorial]
+Mass_May12b#0	Proper_of_Saints.html	misal.die-12-maii-ss-nerei-et-achillei	date+name	Readings_Proper_of_Saints_split_001.html#May_12_St_Nereus_and_Achilleus	Saints Nereus and Achilleus
+Mass_May12b#1	Proper_of_Saints.html	misal.die-12-maii-s-pancratii	date+name	Readings_Proper_of_Saints_split_001.html#May_12_St_Pancras	Saint Pancras
+Mass_May12b#1@Blessed Alvaro del Portillo	Proper_of_Saints.html	misal.die-12-maii-b-alvari-del-portillo-operis-dei	particular	Readings_Proper_of_Saints_split_001.html#Readings_May12	May 12 — Blessed Alvaro del Portillo
+Mass_May13	Proper_of_Saints.html	misal.die-13-maii-beatae-mariae-virginis-de-fatima	date+name	Readings_Proper_of_Saints_split_001.html#Readings_May13	May 13 — Our Lady of Fatima [Optional Memorial]
+Mass_May14	Proper_of_Saints.html	misal.die-14-maii-s-matthiae	id+antiphon	Readings_Proper_of_Saints_split_001.html#Readings_May14	May 14 — Saint Matthias, Apostle [Feast]
+Mass_May18	Proper_of_Saints.html	misal.die-18-maii-s-ioannis-i	collect-read		May 18 — Saint John I, pope and martyr [Optional Memorial]
+Mass_May18@Blessed Guadalupe Ortiz	Proper_of_Saints.html	misal.die-18-maii-b-guadalupae-ortiz-de-landazuri-operis-dei	particular		May 18 — Blessed Guadalupe Ortiz
+Mass_May19	Proper_of_Saints.html	misal.die-19-maii-s-dunstani-angliae	particular	Readings_Proper_of_Saints_split_001.html#May_19_St_Dunstan	May 19 — Saint Dunstan, bishop [English Calendar]
+Mass_May20	Proper_of_Saints.html	misal.die-20-maii-s-bernardini-senensis	date+name	Readings_Proper_of_Saints_split_001.html#Readings_May20	May 20 — Saint Bernardine of Siena, priest [Optional Memorial]
+Mass_May21	Proper_of_Saints.html	misal.die-21-maii-ss-christophori-magallanes-et-sociorum	date+name	Readings_Proper_of_Saints_split_001.html#Readings_May21	May 21 — Saint Christopher Magallanes, priest and martyr, and his companions, martyrs [Optional Memorial]
+Mass_May22	Proper_of_Saints.html	misal.die-22-maii-s-ritae-de-cascia	date+name	Readings_Proper_of_Saints_split_001.html#Readings_May22	May 22 — Saint Rita of Cascia, religious [Optional Memorial]
+Mass_May25#0	Proper_of_Saints.html	misal.die-25-maii-s-bedae-venerabilis	date+name	Readings_Proper_of_Saints_split_001.html#Readings_May25	May 25 — Saint Bede the Venerable
+Mass_May25#1	Proper_of_Saints.html	misal.die-25-maii-s-gregorii-vii	date+name		Saint Gregory VII
+Mass_May25#2	Proper_of_Saints.html	misal.die-25-maii-s-mariae-magdalenae-de-pazzi	date+name		Saint Mary Magdalene of Pazzi
+Mass_May26	Proper_of_Saints.html	misal.die-26-maii-s-philippi-neri	id+antiphon	Readings_Proper_of_Saints_split_001.html#Readings_May26	May 26 — Saint Philip Neri, priest [Memorial]
+Mass_May27b	Proper_of_Saints.html	misal.die-27-maii-s-augustini-cantuariensis	date+collect	Readings_Proper_of_Saints_split_001.html#Readings_May27	May 27 — Saint Augustine of Canterbury, bishop [Optional Memorial or Feast in England]
+Mass_May29	Proper_of_Saints.html	misal.die-29-maii-s-pauli-vi	particular		May 29 — Saint Paul VI, pope [Optional Memorial]
+Mass_May31	Proper_of_Saints.html	misal.die-31-maii-in-visitatione-beatae-mariae-virginis	id+antiphon	Readings_Proper_of_Saints_split_001.html#Readings_May31	May 31 — The Visitation of the Blessed Virgin Mary [Feast]
+Mass_Jun01	Proper_of_Saints.html	misal.die-1-iunii-s-iustini	id+antiphon		June 1 — Saint Justin, martyr [Memorial]
+Mass_Jun02	Proper_of_Saints.html	misal.die-2-iunii-ss-marcellini-et-petri	date+name	Readings_Proper_of_Saints_split_001.html#Readings_Jun02	June 2 — Saints Marcellinus and Peter, martyrs [Optional Memorial]
+Mass_Jun03	Proper_of_Saints.html	misal.die-3-iunii-ss-caroli-lwanga-et-sociorum	id+antiphon		June 3 — Saints Charles Lwanga and companions, martyrs [Memorial]
+Mass_Jun06	Proper_of_Saints.html	misal.die-6-iunii-s-norberti	date+name		June 6 — Saint Norbert, bishop [Optional Memorial]
+Mass_Jun09	Proper_of_Saints.html	misal.die-9-iunii-s-columbae-angliae	particular		June 9 — Saint Columba, Abbot [English Calendar]
+Mass_Jun09@Saint Ephrem of Syria	Proper_of_Saints.html	misal.die-9-iunii-s-ephraem	collect-read		June 9 — Saint Ephrem of Syria
+Mass_Jun11	Proper_of_Saints.html	misal.die-11-iunii-s-barnabae	id+antiphon	Readings_Proper_of_Saints_split_001.html#Readings_Jun11	June 11 — Saint Barnabas, Apostle [Memorial]
+Mass_Jun13	Proper_of_Saints.html	misal.die-13-iunii-s-antonii-de-padova	date+name	Readings_Proper_of_Saints_split_001.html#Readings_Jun13	June 13 — Saint Anthony of Padua, priest and doctor of the Church [Memorial]
+Mass_Jun16	Proper_of_Saints.html	misal.die-16-iunii-s-richardi-cicestrensis-angliae	particular	Readings_Proper_of_Saints_split_001.html#June_16_	June 16 — Saint Richard of Chichester, Bishop [English Calendar]
+Mass_Jun19	Proper_of_Saints.html	misal.die-19-iunii-s-romualdi	date+name		June 19 — Saint Romuald, abbot [Optional Memorial]
+Mass_Jun20	Proper_of_Saints.html	misal.die-20-iunii-s-albani-angliae	particular	Readings_Proper_of_Saints_split_001.html#Readings_Jun20	June 20 — Saint Alban, Protomartyr of Britain [English Calendar]
+Mass_Jun21	Proper_of_Saints.html	misal.die-21-iunii-s-aloisii-gonzaga	id+antiphon	Readings_Proper_of_Saints_split_001.html#Readings_Jun21	June 21 — Saint Aloysius Gonzaga, religious [Memorial]
+Mass_Jun22#0	Proper_of_Saints.html	misal.die-22-iunii-ss-ioannis-fisher-et-thomae-more	date+name		June 22 — Saints John Fisher and Thomas More
+Mass_Jun22#1	Proper_of_Saints.html	misal.die-22-iunii-s-paulini-nolani	date+name		Saint Paulinus of Nola
+Mass_Fisher_More	Proper_of_Saints.html			Readings_Proper_of_Saints_split_001.html#Readings_Jun22	Proper Mass Ss John Fisher and Thomas More
+Mass_Jun23	Proper_of_Saints.html	misal.die-23-iunii-s-etheldredae-angliae	particular	Readings_Proper_of_Saints_split_001.html#June_23_	June 23 — Saint Etheldreda (Audrey), Virgin [English Calendar]
+Mass_Jun24-Vigil	Proper_of_Saints.html	misal.die-24-iunii-in-nativitate-s-ioannis-baptistae-ad-missam-in-vigilia	id+antiphon	Readings_Proper_of_Saints_split_001.html#Readings_Jun24-Vigil	June 24 — Nativity of Saint John the Baptist [Solemnity] — VIGIL MASS
+Mass_Jun24-Day	Proper_of_Saints.html	misal.die-24-iunii-in-nativitate-s-ioannis-baptistae-ad-missam-in-die	antiphon	Readings_Proper_of_Saints_split_001.html#Readings_Jun24-Day	June 24 — Nativity of Saint John the Baptist [Solemnity] — MASS DURING THE DAY
+Mass_Jun27	Proper_of_Saints.html	misal.die-27-iunii-s-cyrilli-alexandrini	date+name		June 27 — Saint Cyril of Alexandria, bishop and doctor of the Church [Optional Memorial]
+Mass_Jun28	Proper_of_Saints.html	misal.die-28-iunii-s-irenaei	id+antiphon	Readings_Proper_of_Saints_split_001.html#Readings_Jun28	June 28 — Saint Irenæus, bishop and martyr [Memorial]
+Mass_Jun29-Vigil	Proper_of_Saints.html	misal.die-29-iunii-ss-petri-et-pauli-ad-missam-in-vigilia	id+antiphon	Readings_Proper_of_Saints_split_001.html#Readings_Jun29-Vigil	June 29 — Saints Peter and Paul, apostles [Solemnity] — VIGIL MASS
+Mass_Jun29-Day	Proper_of_Saints.html	misal.die-29-iunii-ss-petri-et-pauli-ad-missam-in-die	antiphon	Readings_Proper_of_Saints_split_001.html#Readings_Jun29-Day	June 29 — Saints Peter and Paul, apostles [Solemnity] — MASS DURING THE DAY
+Mass_Jun30	Proper_of_Saints.html	misal.die-30-iunii-ss-protomartyrum-sanctae-romanae-ecclesiae	date+name	Readings_Proper_of_Saints_split_001.html#Readings_Jun30	June 30 — The First Holy Martyrs of the Holy Roman Church [Optional Memorial]
+Mass_Jul01	Proper_of_Saints.html	misal.die-1-iulii-s-oliverii-plunkett-angliae	particular	Readings_Proper_of_Saints_split_001.html#July_1_	July 1 — Saint Oliver Plunkett, bishop and martyr [English Calendar]
+Mass_Jul03	Proper_of_Saints.html	misal.die-3-iulii-s-thomae	id+antiphon	Readings_Proper_of_Saints_split_001.html#Readings_Jul03	July 3 — Saints Thomas, apostle [Feast]
+Mass_Jul04	Proper_of_Saints.html	misal.die-4-iulii-s-elisabeth-lusitaniae	date+name		July 4 — Saint Elizabeth of Portugal [Optional Memorial]
+Mass_Jul05	Proper_of_Saints.html	misal.die-5-iulii-s-antonii-mariae-zaccaria	date+name		July 5 — Saint Anthony Maria Zaccaria, priest [Optional Memorial]
+Mass_Jul06	Proper_of_Saints.html	misal.die-6-iulii-s-mariae-goretti	date+name		July 6 — Saint Maria Goretti, virgin and martyr [Optional Memorial]
+Mass_Jul09	Proper_of_Saints.html	misal.die-9-iulii-ss-augustini-zhao-rong-et-sociorum	date+name		July 9 — Saint Augustine Zhao Rong, priest, & companions, martyrs [Optional Memorial]
+Mass_Jul11	Proper_of_Saints.html	misal.die-11-iulii-s-benedicti	id+antiphon	Readings_Proper_of_Saints_split_001.html#Readings_Jul11	July 11 — Saint Benedict, abbot [Memorial or Feast in Europe]
+Mass_Jul13	Proper_of_Saints.html	misal.die-13-iulii-s-henrici	date+name		July 13 — Saint Henry, king [Optional Memorial]
+Mass_Jul14	Proper_of_Saints.html	misal.die-14-iulii-s-camilli-de-lellis	date+name		July 14 — Saint Camillus de Lellis, priest [Optional Memorial]
+Mass_Jul15	Proper_of_Saints.html	misal.die-15-iulii-s-bonaventurae	date+name	Readings_Proper_of_Saints_split_001.html#Readings_Jul15	July 15 — Saint Bonaventure, bishop and doctor [Memorial]
+Mass_Jul16	Proper_of_Saints.html	misal.die-16-iulii-beatae-mariae-virginis-de-monte-carmelo	date+name	Readings_Proper_of_Saints_split_001.html#Readings_Jul16	July 16 — Our Lady of Mount Carmel [Optional Memorial]
+Mass_Jul20	Proper_of_Saints.html	misal.die-20-iulii-s-apollinaris	date+name		July 20 — Saint Apollinaris, bishop and martyr [Optional Memorial]
+Mass_Jul21	Proper_of_Saints.html	misal.die-21-iulii-s-laurentii-de-brindisi	date+name		July 21 — Saint Lawrence of Brindisi, priest and doctor of the Church [Optional Memorial]
+Mass_Jul22	Proper_of_Saints.html	misal.die-22-iulii-s-mariae-magdalenae	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Jul22	July 22 — Saint Mary Magdalene [Feast]
+Mass_Jul23	Proper_of_Saints.html	misal.die-23-iulii-s-birgittae	date+name	Readings_Proper_of_Saints_split_002.html#Readings_Jul23	July 23 — Saint Bridget of Sweden, religious [Feast in Europe]
+Mass_Jul24	Proper_of_Saints.html	misal.die-24-iulii-s-sarbelii-makhlu-f	date+name		July 24 — Saint Sharbel Makluf, priest [Optional Memorial]
+Mass_Jul25	Proper_of_Saints.html	misal.die-25-iulii-s-iacobi	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Jul25	July 25 — Saint James, apostle [Feast]
+Mass_Jul26	Proper_of_Saints.html	misal.die-26-iulii-ss-ioachim-et-annae	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Jul26	July 26 — Saints Joachim and Anne, parents of the Blessed Virgin Mary [Memorial]
+Mass_Jul29	Proper_of_Saints.html	misal.die-29-iulii-s-marthae	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Jul29	July 29 — Saints Martha, Mary and Lazarus [Memorial]
+Mass_Jul30	Proper_of_Saints.html	misal.die-30-iulii-s-petri-chrysologi	date+name		July 30 — Saint Peter Chrysologus, bishop and doctor of the Church [Optional Memorial]
+Mass_Jul31	Proper_of_Saints.html	misal.die-31-iulii-s-ignatii-de-loyola	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Jul31	July 31 — Saint Ignatius of Loyola, priest [Memorial]
+Mass_Aug01	Proper_of_Saints.html	misal.die-1-augusti-s-alfonsi-mariae-de-liguori	date+name	Readings_Proper_of_Saints_split_002.html#Readings_Aug01	August 1 — Saint Alphonsus Liguori, bishop and doctor of the Church [Memorial]
+Mass_Aug02#0	Proper_of_Saints.html	misal.die-2-augusti-s-eusebii-vercellensis	date+name		August 2 — Saint Eusebius of Vercelli
+Mass_Aug02#1	Proper_of_Saints.html	misal.die-2-augusti-s-petri-iuliani-eymard	date+name		Saint Peter Julian Eymard, priest
+Mass_Aug04	Proper_of_Saints.html	misal.die-4-augusti-s-ioannis-mariae-vianney	date+name	Readings_Proper_of_Saints_split_002.html#Readings_Aug04	August 4 — Saint John Vianney, priest [Memorial]
+Mass_Aug05	Proper_of_Saints.html	misal.die-5-augusti-in-dedicatione-basilicae-s-mariae	date+name	Readings_Proper_of_Saints_split_002.html#Readings_Aug05	August 5 — Dedication of the Basilica of Saint Mary Major [Optional Memorial]
+Mass_Aug06	Proper_of_Saints.html	misal.die-6-augusti-in-transfiguratione-domini	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Aug06	August 6 — The Transfiguration of the Lord [Feast]
+Mass_Aug07#0	Proper_of_Saints.html	misal.die-7-augusti-ss-xysti-ii-et-sociorum	collect-read		August 7 — Saints Sixtus II
+Mass_Aug07#1	Proper_of_Saints.html	misal.die-7-augusti-s-caietani	date+name		Saint Cajetan, priest
+Mass_Aug08	Proper_of_Saints.html	misal.die-8-augusti-s-dominici	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Aug08	August 8 — Saint Dominic, priest [Memorial]
+Mass_Aug09	Proper_of_Saints.html	misal.die-9-augusti-s-teresiae-benedictae-a-cruce	date+name	Readings_Proper_of_Saints_split_002.html#Readings_Aug09	August 9 — Saint Teresa Benedicta of the Cross, virgin and martyr [Optional Memorial or Feast in Europe]
+Mass_Aug10	Proper_of_Saints.html	misal.die-10-augusti-s-laurentii	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Aug10	August 10 — Saint Lawrence, deacon and martyr [Feast]
+Mass_Aug11	Proper_of_Saints.html	misal.die-11-augusti-s-clarae	date+name	Readings_Proper_of_Saints_split_002.html#Readings_Aug11	August 11 [Memorial] — Saint Clare, virgin
+Mass_Aug12	Proper_of_Saints.html	misal.die-12-augusti-s-ioannae-franciscae-de-chantal	date+name		August 12 — Saint Jane Frances de Chantal, religious [Optional Memorial]
+Mass_Aug13	Proper_of_Saints.html	misal.die-13-augusti-ss-pontiani-et-hippolyti	date+name		August 13 — Saint Pontian, pope and martyr, and Saint Hippolytus, priest and martyr [Optional Memorial]
+Mass_Aug14	Proper_of_Saints.html	misal.die-14-augusti-s-maximiliani-mariae-kolbe	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Aug14	August 14 — Saint Maximillian Kolbe, priest and martyr [Memorial]
+Mass_Aug15a	Proper_of_Saints.html	misal.die-15-augusti-in-assumptione-beatae-mariae-virginis-ad-missam-in-vigilia	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Aug15a	August 15 — The Assumption of the Blessed Virgin Mary [Solemnity] — VIGIL MASS
+Mass_Aug15b	Proper_of_Saints.html	misal.die-15-augusti-in-assumptione-beatae-mariae-virginis-ad-missam-in-die	antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Aug15b	August 15 — The Assumption of the Blessed Virgin Mary [Solemnity] — MASS DURING THE DAY
+Mass_Aug16	Proper_of_Saints.html	misal.die-16-augusti-s-stephani-hungariae	date+name		August 16 — Saint Stephen of Hungary [Optional Memorial]
+Mass_Aug19	Proper_of_Saints.html	misal.die-19-augusti-s-ioannis-eudes	date+name		August 19 — Saint John Eudes, priest [Optional Memorial]
+Mass_Aug20	Proper_of_Saints.html	misal.die-20-augusti-s-bernardi	id+antiphon	Readings_Proper_of_Saints_split_002.html#August_20_	August 20 — Saint Bernard, abbot and doctor of the Church [Memorial]
+Mass_Aug21	Proper_of_Saints.html	misal.die-21-augusti-s-pii-x	date+name	Readings_Proper_of_Saints_split_002.html#Readings_Aug21	August 21 — Saint Pius X, pope [Memorial]
+Mass_Aug22	Proper_of_Saints.html	misal.die-22-augusti-beatae-mariae-virginis-reginae	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Aug22	August 22 — Queenship of the Blessed Virgin Mary [Memorial]
+Mass_Aug23	Proper_of_Saints.html	misal.die-23-augusti-s-rosae-de-lima	date+name		August 23 — Saint Rose of Lima, virgin [Optional Memorial]
+Mass_Aug24	Proper_of_Saints.html	misal.die-24-augusti-s-bartholomaei	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Aug24	August 24 — Saint Bartholomew, apostle [Feast]
+Mass_Aug25#0	Proper_of_Saints.html	misal.die-25-augusti-s-ludovici	date+name		August 25 — Saint Louis of France
+Mass_Aug25#1	Proper_of_Saints.html	misal.die-25-augusti-s-iosephi-de-calasanz	date+name		Saint Joseph of Calasanz
+Mass_Aug26	Proper_of_Saints.html	misal.die-26-augusti-b-dominici-barberi-angliae	particular	Readings_Proper_of_Saints_split_002.html#August_26_	August 26 — Blessed Dominic of the Mother of God Barberi, priest [English Calendar]
+Mass_Aug27	Proper_of_Saints.html	misal.die-27-augusti-s-monicae	date+name	Readings_Proper_of_Saints_split_002.html#Readings_Aug27	August 27 — Saint Monica [Memorial]
+Mass_Aug28	Proper_of_Saints.html	misal.die-28-augusti-s-augustini	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Aug28	August 28 — Saint Augustine, bishop and doctor of the Church [Memorial]
+Mass_Aug29	Proper_of_Saints.html	misal.die-29-augusti-in-passione-s-ioannis-baptistae	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Aug29	August 29 — The Passion of Saint John the Baptist [Memorial]
+Mass_Aug30	Proper_of_Saints.html	misal.die-30-augusti-ss-margaritae-clitherow-annae-line-et-margaritae-ward-angliae	particular	Readings_Proper_of_Saints_split_002.html#August_30_	August 30 — SS Margaret Clitherow, Anne Line & Margaret Ward, Virgin, Martyrs [English Calendar]
+Mass_Aug31	Proper_of_Saints.html	misal.die-31-augusti-s-aidani-et-ss-lindisfarnensium-angliae	particular	Readings_Proper_of_Saints_split_002.html#August_31	August 31 — Saint Aidan, Bishop and the Saints of Lindisfarne [English Calendar]
+Mass_Sep03	Proper_of_Saints.html	misal.die-3-septembris-s-gregorii-magni	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Sep03	September 3 — Saint Gregory the Great, Pope and doctor of the Church [Memorial or Feast in England]
+Mass_Sep4	Proper_of_Saints.html	misal.die-4-septembris-s-cuthberti-angliae	particular		September 4 — Saint Cuthbert, Bishop [English calendar]
+Mass_Sep5	Proper_of_Saints.html	misal.die-5-septembris-s-teresiae-de-calcutta-angliae	particular		September 5 — Saint Teresa of Calcutta [In particular places]
+Mass_Sep08	Proper_of_Saints.html	misal.die-8-septembris-in-nativitate-beatae-mariae-virginis	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Sep08	September 8 — Nativity of the Blessed Virgin Mary [Feast]
+Mass_Sep09	Proper_of_Saints.html	misal.die-9-septembris-s-petri-claver	date+name		September 9 — Saint Peter Claver, Priest [Optional Memorial]
+Mass_Sep12	Proper_of_Saints.html	misal.die-12-septembris-sanctissimi-nominis-mariae	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Sep12	September 12 — Holy Name of Mary [Optional Memorial]
+Mass_Sep13	Proper_of_Saints.html	misal.die-13-septembris-s-ioannis-chrysostomi	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Sep13	September 13 — Saint John Chrysostom, Bishop and doctor of the Church [Memorial]
+Mass_Sep14	Proper_of_Saints.html	misal.die-14-septembris-in-exaltatione-sanctae-crucis	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Sep14	September 14 — Exaltation of the Holy Cross [Feast]
+Mass_Sep15	Proper_of_Saints.html	misal.die-15-septembris-beatae-mariae-virginis-perdolentis	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Sep15	September 15 — Our Lady of Sorrows [Memorial]
+Mass_Sep16	Proper_of_Saints.html	misal.die-16-septembris-ss-cornelii-et-cypriani	date+name		September 16 — Saints Cornelius, pope, and Cyprian, bishop, martyrs [Memorial]
+Mass_Sep17	Proper_of_Saints.html	misal.die-17-septembris-s-roberti-bellarmino	date+collect		September 17 — Saint Robert Bellarmine, bishop and doctor of the Church [Optional Memorial]
+Mass_Sep17@St Hildegard of Bingen	Proper_of_Saints.html	misal.die-17-septembris-s-hildegardis-bingensis	particular		September 17 — St Hildegard of Bingen
+Mass_Sep19	Proper_of_Saints.html	misal.die-19-septembris-s-ianuarii	date+collect		September 19 — St Januarius, bishop and martyr [Optional Memorial]
+Mass_Sep19@St Theodore of Canterbury	Proper_of_Saints.html	misal.die-19-septembris-s-theodori-cantuariensis-angliae	particular		September 19 — St Theodore of Canterbury
+Mass_Sep20	Proper_of_Saints.html	misal.die-20-septembris-ss-andreae-kim-tae-go-n-et-pauli-cho-ng-ha-sang-et-sociorum	id+antiphon		September 20 — Saint Andrew Kim Tae-gon, priest and martyr, and Saint Paul Chong Ha-sang and their companions, martyrs [Memorial]
+Mass_Sep21	Proper_of_Saints.html	misal.die-21-septembris-s-matthaei	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Sep21	September 21 — Saint Matthew, apostle and evangelist [Feast]
+Mass_Sep23	Proper_of_Saints.html	misal.die-23-septembris-s-pii-de-pietrelcina	particular	Readings_Proper_of_Saints_split_002.html#Readings_Sep23	September 23 — Saint Pius of Pietrelcina, priest [Memorial]
+Mass_Sep24	Proper_of_Saints.html	misal.die-24-septembris-beatae-mariae-virginis-de-walsingham-angliae	particular	Readings_Proper_of_Saints_split_002.html#Readings_Sep24	September 24 — Our Lady of Walsingham [English Calendar, Memorial] — or Our Lady of Ransom
+Mass_Sep26	Proper_of_Saints.html	misal.die-26-septembris-ss-cosmae-et-damiani	date+name		September 26 — Saints Cosmas and Damian, martyrs [Optional Memorial]
+Mass_Sep27	Proper_of_Saints.html	misal.die-27-septembris-s-vincentii-de-paul	id+antiphon		September 27 — St Vincent de Paul, priest [Memorial]
+Mass_Sep28	Proper_of_Saints.html	misal.die-28-septembris-s-venceslai	collect-read		September 28 — St Wenceslaus, martyr [Optional Memorial]
+Mass_Sep28@St Lawrence Ruiz and companions	Proper_of_Saints.html	misal.die-28-septembris-ss-laurentii-ruiz-et-sociorum	collect-read		September 28 — St Lawrence Ruiz and companions
+Mass_Sep29	Proper_of_Saints.html	misal.die-29-septembris-ss-michaelis-gabrielis-et-raphaelis	id+antiphon	Readings_Proper_of_Saints_split_002.html#Readings_Sep29	September 29 — Saints Michael, Gabriel, and Raphael, archangels [Feast]
+Mass_Sep30	Proper_of_Saints.html	misal.die-30-septembris-s-hieronymi	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Sep30	September 30 — St Jerome, priest and doctor of the Church [Memorial]
+Mass_Oct01	Proper_of_Saints.html	misal.die-1-octobris-s-teresiae-a-iesu-infante	id+antiphon		October 1 — Saint Thérèse of the Child Jesus, virgin and doctor of the Church [Memorial]
+Mass_Oct02	Proper_of_Saints.html	misal.die-2-octobris-ss-angelorum-custodum	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Oct02	October 2 — The Guardian Angels [Memorial]
+Mass_Oct04	Proper_of_Saints.html	misal.die-4-octobris-s-francisci-assisiensis	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Oct04	October 4 — Saint Francis of Assisi, religious [Memorial]
+Mass_Oct5	Proper_of_Saints.html	misal.die-5-octobris-s-faustinae-kowalska	particular		October 5 — Saint Faustina Kowalska, virgin [Optional Memorial]
+Mass_Oct06	Proper_of_Saints.html	misal.die-6-octobris-s-brunonis	date+name		October 6 — Saint Bruno, priest [Optional Memorial]
+Mass_Oct07	Proper_of_Saints.html	misal.die-7-octobris-beatae-mariae-virginis-a-rosario	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Oct07	October 7 — Our Lady of the Rosary [Memorial]
+Mass_Oct09#0	Proper_of_Saints.html	misal.die-9-octobris-ss-dionysii-et-sociorum	date+name		October 9 — Saint Denis
+Mass_Oct09#1	Proper_of_Saints.html	misal.die-9-octobris-s-ioannis-leonardi	date+name		Saint John Leonardi
+Mass_Oct9JHN	Proper_of_Saints.html	misal.die-9-octobris-s-ioannis-henrici-newman-angliae	particular	Readings_Proper_of_Saints_split_003.html#Readings_Oct09	Saint John Henry Newman
+Mass_Oct10	Proper_of_Saints.html	misal.die-10-octobris-s-paulini-eboracensis-angliae	particular		October 10 — St. Paulinus of York, Bishop [English Calendar]
+Mass_Oct11	Proper_of_Saints.html	misal.die-11-octobris-s-ioannis-xxiii	particular		October 11 — Saint John XXIII, pope [In particular places]
+Mass_Oct12	Proper_of_Saints.html	misal.die-12-octobris-s-wilfridi-angliae	particular	Readings_Proper_of_Saints_split_003.html#October_12_	October 12 — St. Wilfrid, Bishop [English Calendar]
+Mass_Oct13	Proper_of_Saints.html	misal.die-13-octobris-s-eduardi-confessoris-angliae	particular	Readings_Proper_of_Saints_split_003.html#Readings_Oct13	October 13 — St. Edward the Confessor, King [English Calendar]
+Mass_Oct14	Proper_of_Saints.html	misal.die-14-octobris-s-callisti-i	date+name		October 14 — St. Callistus I, pope and martyr [Optional Memorial]
+Mass_Oct15	Proper_of_Saints.html	misal.die-15-octobris-s-teresiae-a-iesu	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Oct15	October 15 — Saint Teresa of Jesus, virgin and doctor of the Church [Memorial]
+Mass_Oct16#0	Proper_of_Saints.html	misal.die-16-octobris-s-hedvigis	date+name		October 16 — Saint Hedwig
+Mass_Oct16#1	Proper_of_Saints.html	misal.die-16-octobris-s-margaritae-mariae-alacoque	date+name		Saint Margaret Mary Alacoque
+Mass_Oct17	Proper_of_Saints.html	misal.die-17-octobris-s-ignatii-antiocheni	id+antiphon		October 17 — Saint Ignatius of Antioch, bishop and martyr [Memorial]
+Mass_Oct18	Proper_of_Saints.html	misal.die-18-octobris-s-lucae	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Oct18	October 18 — Saint Luke, evangelist [Feast]
+Mass_Oct19	Proper_of_Saints.html	misal.die-19-octobris-ss-ioannis-de-brebeuf-et-isaac-jogues-et-sociorum	date+name		October 19 — Saint John de Brébeuf and Saint Isaac Jogues, priests and martyrs [Optional Memorial]
+Mass_St_PaulCross	Proper_of_Saints.html	misal.die-19-octobris-s-pauli-a-cruce	collect-read		Saint Paul of the Cross
+Mass_Oct22	Proper_of_Saints.html	misal.die-22-octobris-s-ioannis-pauli-ii	particular	Readings_Proper_of_Saints_split_003.html#Readings_Oct22	October 22 — Saint John Paul II, pope [English calendar]
+Mass_Oct23	Proper_of_Saints.html	misal.die-23-octobris-s-ioannis-de-capestrano	date+name		October 23 — St. John Capistrano, priest [Optional Memorial]
+Mass_Oct24	Proper_of_Saints.html	misal.die-24-octobris-s-antonii-mariae-claret	date+name		October 24 — St. Anthony Claret, bishop [Optional Memorial]
+Mass_Oct26	Proper_of_Saints.html	misal.die-26-octobris-ss-ceaddae-et-ceddi-angliae	particular		October 26 — Saint Chad and Saint Cedd, bishops [English Calendar]
+Mass_Oct28	Proper_of_Saints.html	misal.die-28-octobris-ss-simonis-et-iudae	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Oct28	October 28 — Saints Simon and Jude, Apostles [Feast]
+Mass_Nov01	Proper_of_Saints.html	misal.die-1-novembris-omnium-sanctorum	antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Nov01	November 1 — All Saint's Day [Solemnity]
+Mass_Nov02_1	Proper_of_Saints.html	misal.die-2-novembris-in-commemoratione-omnium-fidelium-defunctorum-1	antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Nov02	November 2 — Commemoration of All the Faithful Departed — FIRST MASS
+Mass_Nov02_2	Proper_of_Saints.html	misal.die-2-novembris-in-commemoratione-omnium-fidelium-defunctorum-2	antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Nov02	November 2 — Commemoration of All the Faithful Departed — SECOND MASS
+Mass_Nov02_3	Proper_of_Saints.html	misal.die-2-novembris-in-commemoratione-omnium-fidelium-defunctorum-3	antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Nov02	November 2 — Commemoration of All the Faithful Departed — THIRD MASS
+Mass_Nov03#0	Proper_of_Saints.html	misal.die-3-novembris-s-martini-de-porres	date+name	Readings_Proper_of_Saints_split_003.html#Readings_Nov03	November 3 — Saint Martin de Porres
+Mass_Nov03#1	Proper_of_Saints.html	misal.die-3-novembris-s-winefridae-angliae	particular		Saint Winifrede
+Mass_Nov04	Proper_of_Saints.html	misal.die-4-novembris-s-caroli-borromeo	date+name	Readings_Proper_of_Saints_split_003.html#Readings_Nov04	November 4 — Saint Charles Borromeo, bishop [Memorial]
+Mass_Nov07	Proper_of_Saints.html	misal.die-7-novembris-s-willibrordi-angliae	particular		November 7 — Saint Willibrord, bishop [English Calendar]
+Mass_Nov09	Proper_of_Saints.html	misal.die-9-novembris-in-dedicatione-basilicae-lateranensis	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Nov09	November 9 — The Dedication of the Lateran Basilica [Feast]
+Mass_Nov10	Proper_of_Saints.html	misal.die-10-novembris-s-leonis-magni	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Nov10	November 10 — Saint Leo the Great, pope and doctor of the Church [Memorial]
+Mass_Nov11	Proper_of_Saints.html	misal.die-11-novembris-s-martini-turonensis	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Nov11	November 11 — Saint Martin of Tours, bishop [Memorial]
+Mass_Nov12	Proper_of_Saints.html	misal.die-12-novembris-s-iosaphat	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Nov12	November 12 — Saint Josaphat, bishop and martyr [Memorial]
+Mass_Nov15	Proper_of_Saints.html	misal.die-15-novembris-s-alberti-magni	date+name		November 15 — Saint Albert the Great, bishop and doctor of the Church [Optional Memorial]
+Mass_Nov16#0	Proper_of_Saints.html	misal.die-16-novembris-s-margaritae-scotiae	date+name		November 16 — Saint Margaret of Scotland
+Mass_Nov16#1	Proper_of_Saints.html	misal.die-16-novembris-s-gertrudis	date+name		Saint Gertrude
+Mass_Nov16#2	Proper_of_Saints.html	misal.die-16-novembris-s-edmundi-de-abingdon-angliae	particular		Saint Edmund of Abingdon
+Mass_Nov17#0	Proper_of_Saints.html	misal.die-17-novembris-s-elisabeth-hungariae	date+name		November 17 — Saint Elizabeth of Hungary
+Mass_Nov17#1	Proper_of_Saints.html	misal.die-17-novembris-s-hildae-angliae	particular		Saint Hilda
+Mass_Nov17#2	Proper_of_Saints.html	misal.die-17-novembris-s-hugonis-lincolniensis-angliae	particular		Saint Hugh of Lincoln
+Mass_Nov18	Proper_of_Saints.html	misal.die-18-novembris-in-dedicatione-basilicarum-ss-petri-et-pauli	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Nov18	November 18 — Dedication of the Basilicas of Saints Peter and Paul [Optional memorial]
+Mass_Nov21	Proper_of_Saints.html	misal.die-21-novembris-in-praesentatione-beatae-mariae-virginis	date+name	Readings_Proper_of_Saints_split_003.html#Readings_Nov21	November 21 — The Presentation of the Blessed Virgin Mary [Memorial]
+Mass_Nov22	Proper_of_Saints.html	misal.die-22-novembris-s-caeciliae	date+name	Readings_Proper_of_Saints_split_003.html#Readings_Nov22	November 22 — Saint Cecilia, virgin and martyr [Memorial]
+Mass_Nov23#0	Proper_of_Saints.html	misal.die-23-novembris-s-clementis-i	date+name		November 23 — Saint Clement I
+Mass_Nov23#1	Proper_of_Saints.html	misal.die-23-novembris-s-columbani	date+name		Saint Columban
+Mass_Nov24	Proper_of_Saints.html	misal.die-24-novembris-ss-andreae-dung-la-c-et-sociorum	id+antiphon		November 24 — Saint Andrew Dung-Lac, priest and martyr, and his companions, martyrs [Memorial]
+Mass_Nov25	Proper_of_Saints.html	misal.die-25-novembris-s-catharinae-alexandrinae	date+name		November 25 — Saint Catherine of Alexandria, virgin and martyr [Optional Memorial]
+Mass_Nov30	Proper_of_Saints.html	misal.die-30-novembris-s-andreae	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Nov30	November 30 — Saint Andrew, apostle [Feast]
+Mass_Dec03	Proper_of_Saints.html	misal.die-3-decembris-s-francisci-xavier	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Dec03	December 3 — Saint Francis Xavier, priest [Memorial]
+Mass_Dec04	Proper_of_Saints.html	misal.die-4-decembris-s-ioannis-damasceni	date+name		December 4 — Saint John Damascene, priest and doctor of the Church [Optional memorial]
+Mass_Dec06	Proper_of_Saints.html	misal.die-6-decembris-s-nicolai	date+name	Readings_Proper_of_Saints_split_003.html#Readings_Dec06	December 6 — Saint Nicholas, bishop [Memorial]
+Mass_Dec07	Proper_of_Saints.html	misal.die-7-decembris-s-ambrosii	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Dec07	December 7 — Saint Ambrose, bishop and doctor of the Church [Memorial]
+Mass_Dec08	Proper_of_Saints.html	misal.die-8-decembris-in-conceptione-immaculata-beatae-mariae-virginis	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Dec08	December 8 — The Immaculate Conception of the Blessed Virgin Mary [Solemnity]
+Mass_Dec09	Proper_of_Saints.html	misal.die-9-decembris-s-ioannis-didaci-cuauhtlatoatzin	particular		December 9 — Saint John Diego Cuauhtlatoatzin, hermit [Optional memorial]
+Mass_Dec10	Proper_of_Saints.html	misal.die-10-decembris-beatae-mariae-virginis-de-loreto	particular		December 10 — Our Lady of Loreto [Optional memorial]
+Mass_Dec11	Proper_of_Saints.html	misal.die-11-decembris-s-damasi-i	date+name	Readings_Proper_of_Saints_split_003.html#December_11__	December 11 — Saint Damasus I, pope [Optional memorial]
+Mass_Dec12	Proper_of_Saints.html	misal.die-12-decembris-beatae-mariae-virginis-de-guadalupe	particular	Readings_Proper_of_Saints_split_003.html#Readings_Dec12c	December 12 — Our Lady of Guadalupe
+Mass_Dec13	Proper_of_Saints.html	misal.die-13-decembris-s-luciae	date+name	Readings_Proper_of_Saints_split_003.html#Readings_Dec13	December 13 — Saint Lucy, virgin and martyr [Memorial]
+Mass_Dec14	Proper_of_Saints.html	misal.die-14-decembris-s-ioannis-a-cruce	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Dec14	December 14 — Saint John of the Cross, priest and doctor of the Church [Memorial]
+Mass_Dec21	Proper_of_Saints.html	misal.die-21-decembris-s-petri-canisii	date+name		December 21 — Saint Peter Canisius, priest and doctor of the Church
+Mass_Dec23	Proper_of_Saints.html	misal.die-23-decembris-s-ioannis-de-keo-ty	date+name		December 23 — Saint John of Kanty, priest
+Mass_Dec26	Proper_of_Saints.html	misal.die-26-decembris-s-stephani	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Dec26	December 26 — Saint Stephen, protomartyr [Feast]
+Mass_Dec27	Proper_of_Saints.html	misal.die-27-decembris-s-ioannis	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Dec27	December 27 — Saint John, apostle and evangelist [Feast]
+Mass_Dec28	Proper_of_Saints.html	misal.die-28-decembris-ss-innocentium	id+antiphon	Readings_Proper_of_Saints_split_003.html#Readings_Dec28	December 28 — The Holy Innocents, martyrs [Feast]
+Mass_Dec29	Proper_of_Saints.html	misal.die-29-decembris-s-thomae-becket	date+name	Readings_Proper_of_Saints_split_003.html#Readings_Dec29	December 29 — Saint Thomas Becket, bishop and martyr [English Calendar, Feast]
+Mass_Dec31	Proper_of_Saints.html	misal.die-31-decembris-s-silvestri-i	date+name	Readings_Christmas.html#Octave_7	December 31 — Saint Sylvester I, pope
+DedicationChurch1	Masses_Common.html	misal.commune-dedicationis-ecclesiae-i	antiphon	readings-various.html#dedic_church	COMMON OF THE DEDICATION OF A CHURCH — On the Anniversary of the Dedication [In the Dedicated Church]
+DedicationChurch2	Masses_Common.html	misal.commune-dedicationis-ecclesiae-ii	antiphon	readings-various.html#dedic_church	COMMON OF THE DEDICATION OF A CHURCH — On the Anniversary of the Dedication [Outside the Dedicated Church]
+BVM1	Masses_Common.html	misal.commune-beatae-mariae-virginis-i-1	antiphon	readings-various.html#bvm	COMMON OF THE BLESSED VIRGIN MARY — Ordinary Time [Option 1]
+BVM2	Masses_Common.html	misal.commune-beatae-mariae-virginis-i-2	antiphon	readings-various.html#bvm	COMMON OF THE BLESSED VIRGIN MARY — Ordinary Time [Option 2]
+BVM3	Masses_Common.html	misal.commune-beatae-mariae-virginis-i-3	antiphon	readings-various.html#bvm	COMMON OF THE BLESSED VIRGIN MARY — Ordinary Time [Option 3]
+BVM7	Masses_Common.html	misal.commune-beatae-mariae-virginis-i-4	antiphon	readings-various.html#bvm	COMMON OF THE BLESSED VIRGIN MARY — Ordinary Time [Option 4]
+BVM8	Masses_Common.html	misal.commune-beatae-mariae-virginis-i-5	antiphon	readings-various.html#bvm	COMMON OF THE BLESSED VIRGIN MARY — Ordinary Time [Option 5]
+BVM9	Masses_Common.html	misal.commune-beatae-mariae-virginis-i-6	antiphon	readings-various.html#bvm	COMMON OF THE BLESSED VIRGIN MARY — Ordinary Time [Option 6]
+BVM10	Masses_Common.html	misal.commune-beatae-mariae-virginis-i-7	antiphon	readings-various.html#bvm	COMMON OF THE BLESSED VIRGIN MARY — Ordinary Time [Option 7]
+BVM11	Masses_Common.html	misal.commune-beatae-mariae-virginis-i-8	antiphon	readings-various.html#bvm	COMMON OF THE BLESSED VIRGIN MARY — Ordinary Time [Option 8]
+BVM4	Masses_Common.html	misal.commune-beatae-mariae-virginis-ii	antiphon		COMMON OF THE BLESSED VIRGIN MARY — Advent Season
+BVM5	Masses_Common.html	misal.commune-beatae-mariae-virginis-iii	antiphon		COMMON OF THE BLESSED VIRGIN MARY — Christmas Season
+BVM6	Masses_Common.html	misal.commune-beatae-mariae-virginis-iv	antiphon	readings-various.html#bvm	COMMON OF THE BLESSED VIRGIN MARY — Easter Season
+Martyrs1	Masses_Common.html	misal.commune-martyrum-i-a-1	antiphon	readings-various.html#martyrs	COMMON OF MARTYRS — For Several Martyrs, outside the Easter Season
+Martyrs2	Masses_Common.html	misal.commune-martyrum-i-a-2	collect-read	readings-various.html#martyrs	COMMON OF MARTYRS — For Several Martyrs, outside the Easter Season [Option 2]
+Martyrs3	Masses_Common.html	misal.commune-martyrum-i-a-3	antiphon	readings-various.html#martyrs	COMMON OF MARTYRS — For Several Martyrs, outside the Easter Season [Option 3]
+Martyrs4	Masses_Common.html	misal.commune-martyrum-i-a-4	antiphon	readings-various.html#martyrs	For Several Martyrs, outside the Easter Season [Option 4]
+Martyrs5	Masses_Common.html	misal.commune-martyrum-i-a-5	antiphon	readings-various.html#martyrs	For Several Martyrs, outside the Easter Season [Option 5]
+Martyrs6	Masses_Common.html	misal.commune-martyrum-i-b-1	antiphon	readings-various.html#martyrs	COMMON OF MARTYRS — For One Martyr, outside the Easter Season
+Martyrs7	Masses_Common.html	misal.commune-martyrum-i-b-2	antiphon	readings-various.html#martyrs	COMMON OF MARTYRS — For One Martyr, outside the Easter Season [Option 2]
+Martyrs8	Masses_Common.html	misal.commune-martyrum-ii-a-1	antiphon	readings-various.html#martyrs	COMMON OF MARTYRS — For Several Martyrs, in the Easter Season
+Martyrs11	Masses_Common.html	misal.commune-martyrum-ii-a-2	antiphon	readings-various.html#martyrs	COMMON OF MARTYRS — For Several Martyrs, in the Easter Season [Option 2]
+Martyrs10	Masses_Common.html	misal.commune-martyrum-ii-b	antiphon	readings-various.html#martyrs	COMMON OF MARTYRS — For One Martyr, in the Easter Season
+Martyrs9	Masses_Common.html	misal.commune-martyrum-iii-b	antiphon	readings-various.html#martyrs	COMMON OF MARTYRS — For One Missionary Martyr
+Martyrs_missionaries	Masses_Common.html	misal.commune-martyrum-iii-a	antiphon	readings-various.html#martyrs	COMMON OF MARTYRS — For Several Missionary Martyrs
+Martyrs_Virgin	Masses_Common.html	misal.commune-martyrum-iv	antiphon	readings-various.html#martyrs	COMMON OF MARTYRS — For a Virgin Martyr
+Martyrs_HolyWoman	Masses_Common.html	misal.commune-martyrum-v	antiphon	readings-various.html#martyrs	COMMON OF MARTYRS — For a Holy Woman Martyr
+Pastors1	Masses_Common.html	misal.commune-pastorum-i-1	antiphon	readings-various.html#pastors	COMMON OF PASTORS — For Popes and Bishops
+Pastors2	Masses_Common.html	misal.commune-pastorum-i-2	antiphon	readings-various.html#pastors	COMMON OF PASTORS — For Popes and Bishops [Option 2]
+Pastors3	Masses_Common.html	misal.commune-pastorum-ii-1	antiphon	readings-various.html#pastors	COMMON OF PASTORS — For Bishops
+Pastors4	Masses_Common.html	misal.commune-pastorum-ii-2	antiphon	readings-various.html#pastors	COMMON OF PASTORS — For Bishops [Option 2]
+Pastors_several	Masses_Common.html	misal.commune-pastorum-iii-a	antiphon	readings-various.html#pastors	COMMON OF PASTORS — For Several Pastors
+Pastors5	Masses_Common.html	misal.commune-pastorum-iii-b-1	antiphon	readings-various.html#pastors	COMMON OF PASTORS — For One Pastor
+Pastors6	Masses_Common.html	misal.commune-pastorum-iii-b-2	antiphon	readings-various.html#pastors	For One Pastor [Option 2]
+Pastors8	Masses_Common.html	misal.commune-pastorum-iv-a	antiphon	readings-various.html#pastors	COMMON OF PASTORS — For Founders of Churches [For one founder]
+Pastors10	Masses_Common.html	misal.commune-pastorum-v-1	antiphon	readings-various.html#pastors	COMMON OF PASTORS — For Missionaries
+Pastors11	Masses_Common.html	misal.commune-pastorum-v-2	antiphon	readings-various.html#pastors	COMMON OF PASTORS — For Missionaries [Option 2]
+Pastors12	Masses_Common.html	misal.commune-pastorum-v-3	antiphon	readings-various.html#pastors	COMMON OF PASTORS — For Missionaries [Option 3]
+Doctors1	Masses_Common.html	misal.commune-doctorum-ecclesiae-1	antiphon	readings-various.html#doctors	COMMON OF DOCTORS OF THE CHURCH — Doctors of the Church
+Doctors2	Masses_Common.html	misal.commune-doctorum-ecclesiae-2	antiphon	readings-various.html#doctors	COMMON OF DOCTORS OF THE CHURCH — Doctors of the Church [Option 2]
+Virgins1	Masses_Common.html	misal.commune-virginum-i	antiphon	readings-various.html#virgins	COMMON OF VIRGINS — For Several Virgins
+Virgins2	Masses_Common.html	misal.commune-virginum-ii-1	antiphon	readings-various.html#virgins	COMMON OF VIRGINS — For One Virgin
+Virgins3	Masses_Common.html	misal.commune-virginum-ii-2	antiphon	readings-various.html#virgins	COMMON OF VIRGINS — For One Virgin [Option 2]
+Virgins4	Masses_Common.html	misal.commune-virginum-ii-3	antiphon	readings-various.html#virgins	COMMON OF VIRGINS — For One Virgin [Option 3]
+HolyMenWomen1	Masses_Common.html	misal.commune-sanctorum-et-sanctarum-i-a-1	antiphon	readings-various.html#holy_men_women	COMMON OF SAINTS — For several Saints
+HolyMenWomen2	Masses_Common.html	misal.commune-sanctorum-et-sanctarum-i-a-2	antiphon	readings-various.html#holy_men_women	COMMON OF SAINTS — For several Saints [Option 2]
+HolyMenWomen3	Masses_Common.html	misal.commune-sanctorum-et-sanctarum-i-b-1	antiphon	readings-various.html#holy_men_women	For One Saint
+HolyMenWomen7	Masses_Common.html	misal.commune-sanctorum-et-sanctarum-ii-d-1	antiphon	readings-various.html#holy_men_women	COMMON OF SAINTS — For Religious
+HolyMenWomen8	Masses_Common.html	misal.commune-sanctorum-et-sanctarum-ii-d-2	antiphon	readings-various.html#holy_men_women	COMMON OF SAINTS — For Religious [Option 2]
+HolyMenWomen6	Masses_Common.html	misal.commune-sanctorum-et-sanctarum-ii-a	antiphon	readings-various.html#holy_men_women	COMMON OF SAINTS — For an Abbot
+HolyMenWomen4	Masses_Common.html	misal.commune-sanctorum-et-sanctarum-ii-b	antiphon	readings-various.html#holy_men_women	COMMON OF SAINTS — For a Monk
+HolyMenWomen5	Masses_Common.html	misal.commune-sanctorum-et-sanctarum-ii-c	antiphon	readings-various.html#holy_men_women	COMMON OF SAINTS — For a Nun
+HolyMenWomen9	Masses_Common.html	misal.commune-sanctorum-et-sanctarum-iii	antiphon	readings-various.html#holy_men_women	COMMON OF SAINTS — For Those Who Practiced Works of Mercy
+HolyMenWomen10	Masses_Common.html	misal.commune-sanctorum-et-sanctarum-iv	antiphon	readings-various.html#holy_men_women	COMMON OF SAINTS — For Educators
+HolyMenWomen11	Masses_Common.html	misal.commune-sanctorum-et-sanctarum-v-1	antiphon	readings-various.html#holy_men_women	COMMON OF SAINTS — For Holy Women
+HolyMenWomen12	Masses_Common.html	misal.commune-sanctorum-et-sanctarum-v-2	antiphon	readings-various.html#holy_men_women	COMMON OF SAINTS — For Holy Women [Option 2]
+Bl_Trinity	Masses_Votive.html	misal.missa-votiva-1	antiphon		VOTIVE MASS OF THE BLESSED TRINITY
+Mercy_God	Masses_Votive.html	misal.missa-votiva-2	antiphon		VOTIVE MASS OF THE MERCY OF GOD
+Eternal_Priest	Masses_Votive.html	misal.missa-votiva-3	antiphon	readings-various.html#high_priest	VOTIVE MASS OF JESUS CHRIST, ETERNAL HIGH PRIEST
+Holy_Cross	Masses_Votive.html	misal.missa-votiva-4	antiphon		VOTIVE MASS OF THE HOLY CROSS
+Holy_Eucharist	Masses_Votive.html	misal.missa-votiva-5	antiphon		VOTIVE MASS OF THE HOLY EUCHARIST
+Holy_Name	Masses_Votive.html	misal.missa-votiva-6	antiphon	Readings_Proper_of_Saints_split_000.html#Holy_name	VOTIVE MASS OF THE HOLY NAME OF JESUS
+Precious_Blood	Masses_Votive.html	misal.missa-votiva-7	antiphon		VOTIVE MASS OF THE PRECIOUS BLOOD
+Sacred_Heart	Masses_Votive.html	misal.missa-votiva-8	antiphon		VOTIVE MASS OF THE SACRED HEART
+Holy_Spirit1	Masses_Votive.html	misal.missa-votiva-9-a	antiphon		VOTIVE MASS OF THE HOLY SPIRIT I
+Holy_Spirit2	Masses_Votive.html	misal.missa-votiva-9-b	antiphon		VOTIVE MASS OF THE HOLY SPIRIT II
+Holy_Spirit3	Masses_Votive.html	misal.missa-votiva-9-c	antiphon		VOTIVE MASS OF THE HOLY SPIRIT III
+Mary_Mother_Church	Masses_Votive.html	misal.missa-votiva-10-b-de-beata-maria-ecclesiae-matre	collect-read	readings-various.html#mother_church	VOTIVE MASS OF MARY, MOTHER OF THE CHURCH
+Name_Mary	Masses_Votive.html	misal.missa-votiva-10-c-de-sanctissimo-nomine-mariae	antiphon		VOTIVE MASS OF THE MOST HOLY NAME OF MARY
+Queen_Apostles	Masses_Votive.html	misal.missa-votiva-10-d-de-sancta-maria-regina-apostolorum	antiphon		OUR LADY QUEEN OF APOSTLES
+Fairest_love	Masses_Votive.html	misal.die-14-februarii-beatae-mariae-virginis-matris-pulchrae-dilectionis-operis-dei	particular	readings-various.html#Fair_love	MARY, MOTHER OF FAIREST LOVE
+Holy_angels	Masses_Votive.html	misal.missa-votiva-11	antiphon		VOTIVE MASS OF THE HOLY ANGELS
+St_Joseph	Masses_Votive.html	misal.missa-votiva-13	antiphon		VOTIVE MASS OF SAINT JOSEPH
+St_Peter	Masses_Votive.html	misal.missa-votiva-16	antiphon		VOTIVE MASS OF SAINT PETER
+St_Paul	Masses_Votive.html	misal.missa-votiva-17	antiphon		VOTIVE MASS OF SAINT PAUL
+Holy_apostles	Masses_Votive.html	misal.missa-votiva-14	antiphon		VOTIVE MASS OF ALL THE HOLY APOSTLES
+All_saints	Masses_Votive.html	misal.missa-votiva-19	antiphon		VOTIVE MASS OF ALL SAINTS
+St_Josemaria	Masses_Votive.html	misal.die-26-iunii-s-iosephmariae-escriva-de-balaguer-operis-dei	particular	Readings_Proper_of_Saints_split_001.html#Readings_Jun26	VOTIVE MASS OF SAINT JOSEMARIA ESCRIVA
+For_the_Church	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-1-a	antiphon		FOR THE UNIVERSAL CHURCH (Option A)
+For_Church_B	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-1-b	antiphon		For the Universal Church (Option B)
+For_Church_C	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-1-c	antiphon		For the Universal Church (Option C)
+For_Church_D	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-1-d	antiphon		For the Universal Church (Option D)
+For_Church_E	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-1-e-pro-ecclesia-particulari	antiphon		For the Particular Church (Option E)
+For_the_pope	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-2	antiphon	readings-various.html#pope	FOR THE POPE
+For_a_bishop	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-3	antiphon	readings-various.html#bishop	FOR A BISHOP
+For_priests	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-6	antiphon		FOR PRIESTS
+Election_pope_bishop	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-4	antiphon	readings-various.html#pope	ELECTION OF POPE OR BISHOP
+Christian_unity	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-17-a	antiphon		FOR THE UNITY OF CHRISTIANS [Option A]
+Christian_Unity2	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-17-b	antiphon		FOR THE UNITY OF CHRISTIANS [Option B]
+Christian_Unity3	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-17-c	antiphon		FOR THE UNITY OF CHRISTIANS [Option C]
+Persecuted_chris	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-19	antiphon		FOR PERSECUTED CHRISTIANS
+Spread_Gospel	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-18-a	antiphon		FOR THE EVANGELISATION OF PEOPLES (Option A)
+Evangelisation_B	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-18-b	antiphon		FOR THE EVANGELISATION OF PEOPLES (Option B)
+New_evangelisation	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-pro-nova-evangelizatione	particular	readings-various.html#new_evangelisation	FOR THE NEW EVANGELISATION
+Nation_State_City	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-21	collect-read		FOR THE NATION, STATE, OR CITY
+Peace_and_justice	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-30-a	antiphon		FOR PEACE AND JUSTICE
+Peace_and_justice0	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-31	antiphon		IN TIME OF WAR OR CIVIL DISTURBANCE
+Peace_and_justice1	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-32	antiphon		FOR REFUGEES AND EXILES
+Peace_and_justice2	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-33-a	antiphon		IN TIME OF FAMINE AND THOSE SUFFERING HUNGER
+Thanksgiving	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-49-a	antiphon	readings-various.html#thanks	IN THANKSGIVING
+Mans_labour	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-26-a	antiphon		FOR THE SANCTIFICATION OF HUMAN LABOUR
+For_the_family	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-12	antiphon		FOR THE FAMILY
+For_the_sick	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-45	antiphon		FOR THE SICK
+For_the_dying	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-46	antiphon		FOR THE DYING
+Forgiveness_of_sins	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-38-a	antiphon		FOR FORGIVENESS OF SINS (Option A)
+ForgivenessB	Masses_Various_needs.html	misal.missa-pro-variis-necessitatibus-38-b	collect-read		Other Prayers for Forgiveness (Option B)
+Funeral_mass	Masses_Dead.html	misal.missa-defunctorum-i-a	antiphon		FUNERAL MASS (Outside Easter)
+Anniversary_mass_Out_Easter	Masses_Dead.html	misal.missa-defunctorum-ii-a	antiphon		ANNIVERSARY MASS (Outside Easter)
+Anniversary_mass_Easter	Masses_Dead.html	misal.missa-defunctorum-ii-c	antiphon		ANNIVERSARY MASS (In the Easter Season)
+For_one_person_a	Masses_Dead.html	misal.missa-defunctorum-iii-a-1	antiphon		For One Person (option a)
+For_one_person_b	Masses_Dead.html	misal.missa-defunctorum-iii-a-2	antiphon		For One Person (option b)
+For_several_persons_c	Masses_Dead.html	misal.missa-defunctorum-iii-b-1	antiphon		For Several Persons, or for All the Dead (option 1)
+For_several_persons_d	Masses_Dead.html	misal.missa-defunctorum-iii-b-2	antiphon		For Several Persons, or for All the Dead (option 2)
+For_several_persons_e	Masses_Dead.html	misal.missa-defunctorum-iii-b-3	antiphon		For Several Persons, or for All the Dead (option 3)
+For_several_persons_4	Masses_Dead.html	misal.missa-defunctorum-iii-b-4	antiphon		For Several Persons, or for All the Dead (option 4)
+For_several_persons_5	Masses_Dead.html	misal.missa-defunctorum-iii-b-5	title		For Several Persons, or for All the Dead (option 5)
+For_several persons_6	Masses_Dead.html	misal.missa-defunctorum-iii-b-6	antiphon		For Several Persons, or for All the Dead (option 6)
+Various_prayers_Pope	Masses_Dead.html	misal.missa-defunctorum-iv-1-a	title		For a Pope (Option A)
+Pope_B	Masses_Dead.html	misal.missa-defunctorum-iv-1-b	title		For a Pope (Option B)
+Pope_C	Masses_Dead.html	misal.missa-defunctorum-iv-1-c	title		For a Pope (Option C)
+Various_prayers_Bishop	Masses_Dead.html	misal.missa-defunctorum-iv-2-a	title		For a Diocesan Bishop
+Bishop_other	Masses_Dead.html	misal.missa-defunctorum-iv-2-b	title		For another Bishop
+Various_prayers_Priest	Masses_Dead.html	misal.missa-defunctorum-iv-3-a	collect-read		For a Priest
+Various_prayers_Parents	Masses_Dead.html	misal.missa-defunctorum-iv-11	title		For Parents
+Various_friends	Masses_Dead.html	misal.missa-defunctorum-iv-12	title		For relatives, friends and benefactors
+Various_friends2	Masses_Dead.html				For relatives, friends and benefactors
+Various_friends3	Masses_Dead.html				For relatives, friends and benefactors
+O_La_peace	Feasts Prelature.htm	misal.die-24-ianuarii-beatae-mariae-virginis-de-pace-operis-dei	particular	Readings_Proper_of_Saints_split_000.html#Readings_OLa_Peace	Our Lady of Peace
+Euch_prayer_II	Prefaces.html	misal.ordo-missae.99	ep-content		EUCHARISTIC PRAYER II (Prefaces) — «Vere dignum et iustum est, aequum et salutare, nos tibi, sancte Pater», also ['misal.ordo-missae.77']; the title decides
+EUCHARISTIC_PRAYER_I@To you, therefore, most merciful Father	Order_of_the_Mass.html	misal.ordo-missae.84	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Te igitur, clementissime Pater» = «To you, therefore, most merciful Father»
+EUCHARISTIC_PRAYER_I@Remember, Lord, your servants	Order_of_the_Mass.html	misal.ordo-missae.85	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Memento, Domine, famulorum famularumque tuarum» = «Remember, Lord, your servants»
+EUCHARISTIC_PRAYER_I@In communion with those whose memory we venerate	Order_of_the_Mass.html	misal.ordo-missae.86	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Communicantes, et memoriam venerantes» = «In communion with those whose memory we venerate»
+EUCHARISTIC_PRAYER_I@Therefore, Lord, we pray: graciously accept this oblation	Order_of_the_Mass.html	misal.ordo-missae.87	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Hanc igitur oblationem servitutis nostrae» = «Therefore, Lord, we pray: graciously accept this oblation»
+EUCHARISTIC_PRAYER_I@Be pleased, O God, we pray, to bless	Order_of_the_Mass.html	misal.ordo-missae.88	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Quam oblationem tu, Deus» = «Be pleased, O God, we pray, to bless»
+EUCHARISTIC_PRAYER_I@On the day before he was to suffer	Order_of_the_Mass.html	misal.ordo-missae.89	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Qui, pridie quam pateretur» = «On the day before he was to suffer»
+EUCHARISTIC_PRAYER_I@In a similar way, when supper was ended	Order_of_the_Mass.html	misal.ordo-missae.90	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Simili modo, postquam cenatum est» = «In a similar way, when supper was ended»
+EUCHARISTIC_PRAYER_I@The mystery of faith	Order_of_the_Mass.html	misal.ordo-missae.91	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Mysterium fidei» = «The mystery of faith»
+EUCHARISTIC_PRAYER_I@Therefore, O Lord, as we celebrate the memorial of the blessed Passion	Order_of_the_Mass.html	misal.ordo-missae.92	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Unde et memores, Domine, nos servi tui» = «Therefore, O Lord, as we celebrate the memorial of the blessed Passion»
+EUCHARISTIC_PRAYER_I@Be pleased to look upon these offerings	Order_of_the_Mass.html	misal.ordo-missae.93	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Supra quae propitio ac sereno vultu» = «Be pleased to look upon these offerings»
+EUCHARISTIC_PRAYER_I@In humble prayer we ask you, almighty God	Order_of_the_Mass.html	misal.ordo-missae.94	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Supplices te rogamus, omnipotens Deus» = «In humble prayer we ask you, almighty God»
+EUCHARISTIC_PRAYER_I@Remember also, Lord, your servants	Order_of_the_Mass.html	misal.ordo-missae.95	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Memento etiam, Domine, famulorum» = «Remember also, Lord, your servants»
+EUCHARISTIC_PRAYER_I@To us, also, your servants, who, though sinners	Order_of_the_Mass.html	misal.ordo-missae.96	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Nobis quoque peccatoribus famulis tuis» = «To us, also, your servants, who, though sinners»
+EUCHARISTIC_PRAYER_I@Through whom you continue to make all these good things	Order_of_the_Mass.html	misal.ordo-missae.97	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Per quem haec omnia, Domine» = «Through whom you continue to make all these good things»
+EUCHARISTIC_PRAYER_I@Through him, and with him, and in him	Order_of_the_Mass.html	misal.ordo-missae.98	ep-content		EUCHARISTIC PRAYER I [ROMAN CANON] — «Per ipsum, et cum ipso, et in ipso» = «Through him, and with him, and in him»
+EUCHARISTIC_PRAYER_II@You are indeed Holy, O Lord, the fount of all holiness	Order_of_the_Mass.html	misal.ordo-missae.100	ep-content		EUCHARISTIC PRAYER II — «Vere Sanctus es, Domine, fons omnis sanctitatis» = «You are indeed Holy, O Lord, the fount of all holiness»
+EUCHARISTIC_PRAYER_II@At the time he was betrayed and entered willingly into his Passion	Order_of_the_Mass.html	misal.ordo-missae.102	ep-content		EUCHARISTIC PRAYER II — «Qui cum Passioni voluntarie traderetur» = «At the time he was betrayed and entered willingly into his Passion»
+EUCHARISTIC_PRAYER_II@In a similar way, when supper was ended, he took the chalice	Order_of_the_Mass.html	misal.ordo-missae.103	ep-content		EUCHARISTIC PRAYER II — «accipiens et calicem, iterum tibi gratias agens» = «In a similar way, when supper was ended, he took the chalice»
+EUCHARISTIC_PRAYER_II@The mystery of faith	Order_of_the_Mass.html	misal.ordo-missae.104	ep-content		EUCHARISTIC PRAYER II — «Mysterium fidei» = «The mystery of faith»
+EUCHARISTIC_PRAYER_II@Therefore, as we celebrate the memorial of his Death and Resurrection	Order_of_the_Mass.html	misal.ordo-missae.105	ep-content		EUCHARISTIC PRAYER II — «Memores igitur mortis et resurrectionis eius» = «Therefore, as we celebrate the memorial of his Death and Resurrection»
+EUCHARISTIC_PRAYER_II@Through him, and with him, and in him	Order_of_the_Mass.html	misal.ordo-missae.106	ep-content		EUCHARISTIC PRAYER II — «Per ipsum, et cum ipso, et in ipso» = «Through him, and with him, and in him»
+EUCHARISTIC_PRAYER_II@Make holy, therefore, these gifts, we pray, by sending down your Spirit upon them like the dewfall	Order_of_the_Mass.html				EUCHARISTIC PRAYER II — misal.ordo-missae.101 inside misal.ordo-missae.100: «Haec ergo dona, quaesumus, Spiritus tui rore sanctifica» = «Make holy, therefore, t
+EUCHARISTIC_PRAYER_III@You are indeed Holy, O Lord, and all you have created	Order_of_the_Mass.html	misal.ordo-missae.108	ep-content		EUCHARISTIC PRAYER III — «Vere Sanctus es, Domine, et merito te laudat» = «You are indeed Holy, O Lord, and all you have created»
+EUCHARISTIC_PRAYER_III@Therefore, O Lord, we humbly implore you	Order_of_the_Mass.html	misal.ordo-missae.109	ep-content		EUCHARISTIC PRAYER III — «Supplices ergo te, Domine, deprecamur» = «Therefore, O Lord, we humbly implore you»
+EUCHARISTIC_PRAYER_III@For on the night he was betrayed	Order_of_the_Mass.html	misal.ordo-missae.110	ep-content		EUCHARISTIC PRAYER III — «Ipse enim in qua nocte tradebatur» = «For on the night he was betrayed»
+EUCHARISTIC_PRAYER_III@In a similar way, when supper was ended	Order_of_the_Mass.html	misal.ordo-missae.111	ep-content		EUCHARISTIC PRAYER III — «Simili modo, postquam cenatum est» = «In a similar way, when supper was ended»
+EUCHARISTIC_PRAYER_III@The mystery of faith	Order_of_the_Mass.html	misal.ordo-missae.112	ep-content		EUCHARISTIC PRAYER III — «Mysterium fidei» = «The mystery of faith»
+EUCHARISTIC_PRAYER_III@Therefore, O Lord, as we celebrate the memorial of the saving Passion	Order_of_the_Mass.html	misal.ordo-missae.113	ep-content		EUCHARISTIC PRAYER III — «Memores igitur, Domine, eiusdem Filii tui» = «Therefore, O Lord, as we celebrate the memorial of the saving Passion»
+EUCHARISTIC_PRAYER_III@When this eucharistic prayer is used in Masses for the dead	Order_of_the_Mass.html	misal.ordo-missae.115	ep-content		EUCHARISTIC PRAYER III — «Quando haec Prex eucharistica in Missis pro defunctis adhibetur» = «When this eucharistic prayer is used in Masses for the dead»
+EUCHARISTIC_PRAYER_III@Through him, and with him, and in him	Order_of_the_Mass.html	misal.ordo-missae.114	ep-content		EUCHARISTIC PRAYER III — «Per ipsum, et cum ipso, et in ipso» = «Through him, and with him, and in him»
+EUCHARISTIC_PRAYER_IV@The Lord be with you	Order_of_the_Mass.html	misal.ordo-missae.116	ep-content		EUCHARISTIC PRAYER IV — «Vere dignum est tibi gratias agere, vere iustum est te glorificare» = «The Lord be with you»
+EUCHARISTIC_PRAYER_IV@We give you praise, Father most holy	Order_of_the_Mass.html	misal.ordo-missae.117	ep-content		EUCHARISTIC PRAYER IV — «Confitemur tibi, Pater sancte» = «We give you praise, Father most holy»
+EUCHARISTIC_PRAYER_IV@Therefore, O Lord, we pray: may this same Holy Spirit	Order_of_the_Mass.html	misal.ordo-missae.118	ep-content		EUCHARISTIC PRAYER IV — «Quaesumus igitur, Domine, ut idem Spiritus Sanctus» = «Therefore, O Lord, we pray: may this same Holy Spirit»
+EUCHARISTIC_PRAYER_IV@For when the hour had come	Order_of_the_Mass.html	misal.ordo-missae.119	ep-content		EUCHARISTIC PRAYER IV — «Ipse enim, cum hora venisset» = «For when the hour had come»
+EUCHARISTIC_PRAYER_IV@In a similar way, taking the chalice filled with the fruit of the vine	Order_of_the_Mass.html	misal.ordo-missae.120	ep-content		EUCHARISTIC PRAYER IV — «accipiens calicem, ex genimine vitis repletum» = «In a similar way, taking the chalice filled with the fruit of the vine»
+EUCHARISTIC_PRAYER_IV@The mystery of faith	Order_of_the_Mass.html	misal.ordo-missae.121	ep-content		EUCHARISTIC PRAYER IV — «Mysterium fidei» = «The mystery of faith»
+EUCHARISTIC_PRAYER_IV@Therefore, O Lord, as we now celebrate the memorial of our redemption	Order_of_the_Mass.html	misal.ordo-missae.122	ep-content		EUCHARISTIC PRAYER IV — «Unde et nos, Domine, redemptionis nostrae memoriale» = «Therefore, O Lord, as we now celebrate the memorial of our redemption»
+EUCHARISTIC_PRAYER_IV@Through him, and with him, and in him	Order_of_the_Mass.html	misal.ordo-missae.123	ep-content		EUCHARISTIC PRAYER IV — «Per ipsum, et cum ipso, et in ipso» = «Through him, and with him, and in him»

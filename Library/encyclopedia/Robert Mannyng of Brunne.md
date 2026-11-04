@@ -1,0 +1,33 @@
+---
+title: "Robert Mannyng of Brunne"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Francis Fortescue Urquhart"
+signed: "F. Urquhart"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Robert_Mannyng_of_Brunne"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.robert-mannyng-of-brunne} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Henry Edward Manning"
+next: "Mansard"
+entry-type: "article"
+characters: 2032
+words: 350
+links: 0
+images: 0
+---
+
+# Robert Mannyng of Brunne {#cathen.robert-mannyng-of-brunne}
+
+Poet. He came from Bourne in Lincolnshire, England. From his own account he entered the house of the Gilbertine Canons at Sempringham in 1288 and at some period in his life he was with Robert Bruce at Cambridge. In 1338 he was living in another priory of his order, but still in Lincolnshire. The date of his death is unknown. He was the author of two poems, both free translations from the French: (1) "Handlyng Synne", a very free rendering of the "Manuel des Peschiez" which had been written in poor French verse by an Englishrnan, William of Waddington, in the reign of Edward I. It consists chiefly of a series of stories illustrating the commandments, the seven deadly sins, the sin of sacrilege and the Sacraments. Mannyng is much more of a story-teller than a poet, he interpolates tales of his own and illustrates those of his original from the English life of his day. He is severe on all classes of society, but is yet sympathetic towards the poor. (2) A "Chronicle of England", the first part of which is a translation, with some additions, of Wace's version of Geoffrey of Monmouth, and the second is based on Peter de Langtoft's Anglo-Norman poem. When Mannyng comes to the reign of Edward I he inserts a good deal of matter which has some independent historical value. These poems are important because they illustrate a growing interest in "ignorant men who delight in listening to tales" but who cannot read French, because they foreshadow the love of storytelling which is to produce the "Canterbury Tales" at the end of the century and because they helped to make East-Midland English the literary dialect of English. F. J. Furnivall has edited the "Handlyng Synne" and the "Chronicle" with prefaces. The authorship of "Meditacyuns of the Soper of our Lord Jhesus" (edited for the Early English Text Society in 1875), has also been ascribed to Mannyng, but this is by no means ascertained beyond doubt.
+
+Cf. Cambridge History of English Literature, vol. I, pp. 344-52; Dict. of Nat. Biography, s. v.
+
+F. Urquhart.

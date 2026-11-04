@@ -1,0 +1,33 @@
+---
+title: "Pierre-Charles L'Enfant"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Thomas Francis Meehan"
+signed: "Thomas F. Meehan"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pierre-Charles_L'Enfant"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pierre-charles-lenfant} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Simon Le Moyne"
+next: "Adam Franz Lennig"
+entry-type: "article"
+characters: 2436
+words: 409
+links: 0
+images: 0
+---
+
+# Pierre-Charles L'Enfant {#cathen.pierre-charles-lenfant}
+
+**L'Enfant**, Pierre-Charles, engineer, b. in France, August, 1755; d. near Bladensburg, Maryland, U.S.A., 4 June, 1833. He was educated as an engineer and joined Lafayette as a volunteer to help the revolted American colonists in 1777. Appointed a captain of engineers on 18 Feb., 1778, and brevet major on 2 May, 1783, in Washington's army, he did valiant service during the Revolutionary War. At its close he remodelled the old City Hall in New York for the meeting of the First Congress, and later arranged the Federal Hall in Philadelphia. When the site for the Federal city was finally adopted, he spent much of his time during the year 1791 considering a plan for the new city, which he finally drew up with the title: "Plan of the City, intended for the Permanent Seat of the Government of the United States. Projected agreeable to the direction of the President of the United States in pursuance of an act of Congress passed the sixteenth day of July, MDCCXC, establishing the Permanent Seat on the bank of the Potomac". L'Enfant had a quick temper and an overbearing disposition, and, as he quarrelled with his superiors before his plans could be carried out, President Washington dismissed him from the service on 1 March, 1792. He refused an appropriation offered him for his work on the plan for the Capitol, and also the appointment of professor of engineering at the Military Academy, West Point. During the War of 1812 with England he set to work constructing fortifications near Washington, but again quarrelled with his superior officers, and through pique left the service. He haunted the doors of Congress for years with applications for recompense for his work that were never heeded. Poor and forgotten he spent the rest of his days at the home of his friend, William Dudley Digges, near Bladensburg, Maryland, and his body was buried there. In April, 1909, in accordance with an Act of Congress, the remains of Major L'Enfant were removed from his grace in Maryland, and, after lying in state for a short time in the Capitol at Washington, were reinterred in the National Cemetery at Arlington with the ceremonies of the Church and the military honours due to his rank in the Continental Army.
+
+Varnum, *The Seat of Government of the U.S.* (Washington, 1854); *American Cath. Hist. Researches* (Philadelphia, January 1907); Meehan in *America* (New York, 1 May, 1909); *Encycl. Am. Biog.*, s.v.
+
+Thomas F. Meehan.

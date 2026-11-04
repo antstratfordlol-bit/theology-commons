@@ -1,0 +1,33 @@
+---
+title: "Thaddeus Amat"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "380-381"
+author: "Thomas Francis Meehan"
+signed: "Thomas F. Meehan"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Thaddeus_Amat"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.thaddeus-amat} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Amastris"
+next: "Amathus"
+entry-type: "article"
+characters: 2006
+words: 340
+links: 0
+images: 0
+---
+
+# Thaddeus Amat {#cathen.thaddeus-amat}
+
+**Amat,** Thaddeus, second Bishop of Monterey and Los Angeles, California, U.S., b. 31 December, 1810, at Barcelona, Spain; d. at Los Angeles. California, 12 May, 1878. He joined the Lazarists in early manhood and was ordained a priest at the house of that Congregation in Paris, in 1838. He came to the United States in 1838 and worked in the missions in Louisiana. He was master of novices in the houses of the Lazarists in Missouri and Philadelphia in 1841–47, and on the promotion of Bishop Alemany of Monterey to be Archbishop of San Francisco, Father Amat was named to succeed him. He was consecrated Bishop of the diocese in Rome, 12 March, 1854. There were seventeen priests in the diocese then to care for the spiritual needs of a very mixed population largely of Spanish origin. The opening of the mining era of the early fifties brought a large accession of other settlers, and Bishop Amat, visiting Europe to obtain additional aid for his diocese, brought back Lazarist priests and Sisters of Charity with him. He was given permission by the Holy See, in 1859, to call himself Bishop of Los Angeles, and changed his residence to that city. There, under his inspiration, the Lazarists opened St. Vincents College and the Franciscan Brothers took charge of the parochial schools. The Sisters of the Immaculate Heart of Mary were also introduced. A serious spinal affection forced Bishop Amat to ask for a coadjutor and his vicar-general, the Rev. Francis Mora, was so consecrated 3 July, 1873. He had begun a new cathedral and lived to see it dedicated 9 April, 1876. When he died, at the age of sixty-seven, the progress of the diocese under his jurisdiction was indicated in the increase to 51 priests, 32 churches, 15 chapels, and 32 stations, 6 academies and substantial parochial schools, asylums, and other charitable institutions.
+
+Shea, *Hist. of Cath. Church in U. S.* (New York, 1904); Reuss, *Biog. Cyclo. of the Cath. Hierarchy of the U.S.* (Milwaukee, Wis., 1898).
+
+Thomas F. Meehan.

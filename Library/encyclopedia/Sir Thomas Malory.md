@@ -1,0 +1,35 @@
+---
+title: "Sir Thomas Malory"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Jarvis Keiley"
+signed: "Jarvis Keiley"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Sir_Thomas_Malory"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.sir-thomas-malory} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "William Malone"
+next: "Marcello Malpighi"
+entry-type: "article"
+characters: 2576
+words: 411
+links: 0
+images: 0
+---
+
+# Sir Thomas Malory {#cathen.sir-thomas-malory}
+
+Of Malory no single biographical statement is beyond conjecture save that he was a knight, that his "booke was ended in the 9th yeer of the reygne of King Edward the Fourth", and that it was not printed until 1485 when Caxton, the first of English printers, published it with an illuminating preface from his own hand. Upon an unsound derivation of Bale's, Malory was long considered a Welshman: a belief largely sustained through the gratification of identifying the birthplace of the romancer with the scenes of the Arthurian epic. It has remained for modern scholarship to advance the more probable conjecture that Malory was a gentleman of an ancient house of Warwickshire and that, as a young man, he served in France in the retinue of that estimable "Father of Courtesy", Richard Beauchamp, Earl of Warwick (See "Who Was Sir Thomas Malory?" by G.S. Kittredge, in "Studies and Notes in Philology and Literature", V, Boston, 1897). The obscurity of the author is in somewhat dramatic contrast to the unfailing clarity of appreciation which his "Morte Arthure" has aroused for the past four centuries. While the "Morte" is a compilation, or mosaic, of the French romances of Merlin, Lancelot and Tristan, and the English version of the "Morte Arthure" from Geoffrey of Monmouth, Malory succeeded in changing the episodical character of his material and its intuitions of varying racial points of view into unvarying ideals of conduct in epic conflict of fate, ideals that were to affect profoundly artistic conceptions, the poetry of Spenser, Milton, Tennyson, Arnold, Morris, and Swinburne, the painting of Rossetti, Watts, and Burne-Jones, and the Iyric drama of Wagner.
+
+In addition to being a permanent contribution to the content of artistic expression, the "Morte Arthure" lays claim to being the earliest production of English prose, the matter of Pecock and Fortescue having given as yet no hint that the prose of the vernacular expression. "Malory's prose is conscious without the jarring egoism of the younger prose; it adopts new words without the risk of pedantry and harshness, and it expresses the varying importance of the passages of the story in corresponding fluctuation in the intensity of its language."
+
+For complete bibliography of editions and critical estimate, consult the Cambridge History of English Literature, vol. II; see also M0RLEY, English Writers, vol. VI; KER, Essay in Medieval Literature (London, 1905); SMITH,The Transition Period (New York, 1900); SAINTBURY, Flourishing of Romance and Rise of Allegory (London, 1897).
+
+Jarvis Keiley.

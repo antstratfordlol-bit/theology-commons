@@ -1,0 +1,33 @@
+---
+title: "Johann Heinrich Achterfeldt"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "104"
+author: "Edward Aloysius Pace"
+signed: "E. A. Pace"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Johann_Heinrich_Achterfeldt"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.johann-heinrich-achterfeldt} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Achrida"
+next: "Theodore William Achtermann"
+entry-type: "article"
+characters: 1269
+words: 194
+links: 0
+images: 0
+---
+
+# Johann Heinrich Achterfeldt {#cathen.johann-heinrich-achterfeldt}
+
+**Achterfeldt,** Johann Heinrich, theologian, b. at Wesel, 17 June, 1788; d. at Bonn, 11 May, 1877. He was appointed professor of theology at Bonn in 1826 and in 1832 he founded with his colleague, J.W.J. Braun (d. 1863), the "Zeitschrift für Philosophie und Katholische Theologie" (1832–52), the chief purpose of which was to defend the teachings of Hermes. (q. v.). He also published under the title "Christkatholische Dogmatik" (Münster, 1834–36) the theological writings which Hermes (d. 1831) had left in MSS. This publication was followed by sharp controversy, and eventually by the condemnation of the works of Hermes, which Pope Gregory XVI placed upon the Index, 26 September, 1835. In 1843, Achterfeldt incurred suspension from his professorial chair rather than sign the declaration of faith required by the Coadjutor Archbishop von Geissel of Cologne. Though Hermesianism lost ground and finally disappeared during the revolution of 1848, Achterfeldt clung to his views. In 1862, however, he was reinstated as professor, and in 1873, having made his submission to ecclesiastical authority, he was freed from suspension.
+
+Müller, in *Dict. de théol. catholique,* s. v.; Hergenröther, *Handbuch d. allg. Kirchengesch.* (Freiburg, 1886), III, 969.
+
+E. A. Pace.

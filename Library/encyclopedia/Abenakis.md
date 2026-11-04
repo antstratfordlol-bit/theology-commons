@@ -1,0 +1,36 @@
+---
+title: "Abenakis"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "39"
+author: "Thomas Joseph Campbell (1848-1925)"
+signed: "T. J. Campbell"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Abenakis"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.abenakis} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Louis Abelly"
+next: "Abraham-ben-Méir Aben-Ezra"
+entry-type: "article"
+characters: 2902
+words: 454
+links: 0
+images: 1
+---
+
+# Abenakis {#cathen.abenakis}
+
+**Abenakis.**—A confederation of Algonquin tribes, comprising the Penobscots, Passamaquoddies, Norridgewocks, and others, formerly occupying what is now Maine, and southern New Brunswick. Their territory joined that of the Micmacs on the northeast, and that of the Penobscots on the southwest. Their speech is a dialect of the Micmac language of the North American Indians. They took sides with the French and maintained an increasing hostility against encroachments of the English. When their principal town, Norridgewock, was taken, and their missionary, Rasle, was killed (1724), the greater part of them removed to St. Francis, in the province of Quebec, Canada, whither other refugees from the New England tribes had preceded them. They are now represented by the Amalecites on the St. John River, New Brunswick, and Quebec (820); the Passamaquoddies, on the Bay of that name, in Maine (300); the Penobscots, at Oldtown, Maine (400), and the Abnakis at St. Francis and Becancourt, Quebec (430). There are a dozen variations of the name Abenakis, such as Abenaquiois, Abakivis, Quabenakionek, Wabenakies, etc. They are described in the "Jesuit Relations" as not cannibals, and as docile, ingenious, temperate in the use of liquor, and not profane. Their language has been preserved in the monumental dictionary of Sebastian Rasle. After the unsuccessful attempt of de la Saussaye, in 1613, to plant a colony as Mount Desert, where the Jesuit Fathers Biard, Masse, and Quentin proposed to evangelize the Indians, the Capuchins and the Recollects, aided by secular priests from the seminary of Quebec, undertook the work, but met with indifferent success.
+Abenakis Mission Chapel, Point Pleasant, Maine, U.S.A.The Jesuit Druillettes was sent to them in 1646, but remained only a short time. Subsequently other missionaries like Bigot, Thury, and de la Chasse laboured among them, but three years after the murder of Father Rasle, that is to say in 1727, when Fathers Syvesme and Lauverjat withdrew, there was no resident pastor in Maine, though the Indians were visited by priests from time to time. They remained unalterably attached to the Faith, and during the Revolution, when Washington sent to ask them to join with the colonies against England, they assented on condition that a Catholic priest should be sent to them. Some of the chaplains of the French fleet communicated with them, promising to comply with their request, but beyond that nothing was done. At the present time there are Indian missions for the remnants of the tribe at Calais, Eastport, and Old Town.
+
+*Jesuit Relations, passim;* Shea, *Catholic Church in Colonial Days, 1521–1763* (New York, 1886); Maurault, *Hist. des Abénakis depuis 1605 à nos jours* (Quebec, 1866).
+
+T. J. Campbell.
+
+*[Illustration: Catholic Encyclopedia - Abenakis Mission Chapel, Point Pleasant, Maine, U.S.A.jpg — on Wikimedia Commons, not fetched]*

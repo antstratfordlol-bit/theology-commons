@@ -1,0 +1,33 @@
+---
+title: "St. Berach"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "William Henry Grattan Flood"
+signed: "W. H. Grattan-Flood"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Berach"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-berach} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Girolamo Benzoni"
+next: "St. Berard of Carbio"
+entry-type: "article"
+characters: 2163
+words: 357
+links: 0
+images: 0
+---
+
+# St. Berach {#cathen.st-berach}
+
+Of Termonbarry, d. 595; a disciple of St. Kevin and a celebrated Irish saint, whose memory is still fresh in County Roscommon. He was of the tribe of Cinel Dobtha, or O'Hanley of Doohey Hanley, to which also belong the MacCoilidh family. Most of his long life was spent in the Diocese of Elphin and he built his church at Cluain Coirpthe since known as Termonbarry or Kilbarry. His sister, St. Midabaria, was abbess of a nunnery at Bumlin (Strokestown), of which she is venerated as patroness on 22 February. Her ancient conventual church and graveyard are still to be seen. Under the title of "Berach of Cluain Coirpthe" St. Berach is honored in several martyrologies, and his holy life attracted pilgrims to Kilbarry from all parts of Ireland. The MacCoilidh family, whose name was anglicized to Cox in the early years of the seventeenth century, were hereditary custodians of St. Berach's crosier, and were *coarbs*, or lay abbots, of Kilbarry. The crosier is now in the Dublin Museum. In 1890, Dr. M. F. Cox, of Dublin, the lineal representative of the MacCoilidhs, unearthed St. Berach's boat, and had it placed beside the present Catholic church of Whitehall, near Kilbarry. St. Berach's oratory at Cluain Coirpthe was replaced by a fine *damhliag* (stone church), built by MacCoilidh and O'Hanley in 916, and acquired the name of Termon Barry, or Kilbarry, that is the church of St. Berach. Some authorities give his feast as 11 February, but most martyrologists assign him 15 February. Kilbarrack Chureh, County Dublin, was also called after this saint, as in his early days he spent some time there and performed many miracles, duly recorded in his life. His bell was long preserved at the Abbey of Glendalough, but has disappeared since the sixteenth century.
+
+O'DONOVAN, Acta Sanctorum; Annals of the Four Masters; Annals of Ulster (Rolls Series); O'HANLON, Lives of the Irish Saints (15 February), II; STOKES, Early Christian Art in Ireland (1887); COLGAN, Acta Sanct. Hib. (15 February); HEALY, Ireland's Ancient Schools and Scholars (4th ed., 1902); Cox, MS. Meccoilidhana; KELLY, Patron Saints of the Diocese of Elphin (1904).
+
+W. H. Grattan-Flood.

@@ -1,0 +1,33 @@
+---
+title: "George Parsons Lathrop"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "16"
+pages: "unknown"
+author: "Thomas Francis Meehan"
+signed: "THOMAS F. MEEHAN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/George_Parsons_Lathrop"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.george-parsons-lathrop} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "John Lanigan"
+next: "Leopoldine Society"
+entry-type: "article"
+characters: 1693
+words: 276
+links: 0
+images: 0
+---
+
+# George Parsons Lathrop {#cathen.george-parsons-lathrop}
+
+Poet, novelist, b. at Honolulu, Hawaii, 25 August, 1851; d. at New York, 19 April, 1898. He was educated at New York and Dresden, Germany, whence he returned to New York, and decided on a literary career. Going to England on a visit he was married in London, 11 September, 1871, to Rose, daughter of Nathaniel Hawthorne. In 1875 he became associate editor of the "Atlantic Monthly", and remained in that position two years, leaving it for newspaper work in Boston and New York. His contributions to the periodical and daily Press were varied and voluminous. In 1883 he founded the American Copyright League, which finally secured the international copyright law. He was also one of the founders of the Catholic Summer School of America. In March, 1891, he and his wife became Catholics, and were received into the Church at New York. After his death his widow, as Mother M. Alphonsa, organized a community of Dominican tertiaries, The Servants of Relief for Incurable Cancer Patients, who took charge of two cancer hospitals at New York. Among his published works are: "Rose and Rose-tree" (1875), poems; "A Study of Hawthorne" (1876); "Afterglow" (1876), a novel; "Spanish Vistas" (1883), a work on travel; "Newport" (1884), a novel; "Dreams and Days" (1892), poems; "A Story of Courage" (1894), centenary history of the Visitation Convent, Georgetown, D.C. He edited (1883) a complete, and the standard, edition of Hawthorne's works, and adapted "The Scarlet Letter" for Walter Damrosch's opera of that title, which was produced at New York in 1896.
+
+The Catholic Reading Circle Review (April, 1898); The Catholic News; The Freeman's Journal (New York), contemporary files.
+
+THOMAS F. MEEHAN

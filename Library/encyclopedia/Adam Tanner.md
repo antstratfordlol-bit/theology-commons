@@ -1,0 +1,35 @@
+---
+title: "Adam Tanner"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "Anthony Charles Cotter"
+signed: "A. C. Cotter"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Adam_Tanner"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.adam-tanner} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Tanis"
+next: "Conrad Tanner"
+entry-type: "article"
+characters: 2530
+words: 395
+links: 0
+images: 0
+---
+
+# Adam Tanner {#cathen.adam-tanner}
+
+Controversialist, born at Innsbruck in 1571; died at Unken, 25 May, 1632. He entered the Society of Jesus in 1589, and taught at first Hebrew, apologetics, and moral theology. When in 1601 the religious debate between Catholics and Lutherans was arranged at Ratisbon, Tanner aided his fellow Jesuit Gretser in proving that the dead word of the Bible could not be the supreme arbiter in matters of faith. He himself published an account of the proceedings (Mainz, 1602) and in subsequent apologies hurled back the charges brought against the Catholics by the Reformers. In 1603, the Bavarian duke invited him to occupy the chair of Scholastic theology in the University of Ingolstadt. A stranger in no field of science and gifted with a keen intellect, Tanner now developed an increasing activity both in teaching and writing on theological subjects. In his "Anatomiæ confessionis augustanæ" (Ingolstadt, 1613), he points out the fallacies of the Augsburg Confession, both from Luther's own assertions and from the qualities essential to the true Church. Against the so-called Utraquists, he wrote several works, both in Latin and in German, defending the Church's practice of giving Communion under one species only, and the sacrifice of the Mass. Other pamphlets were issued by him to clear his order from the false accusations of its enemies. When the conflict between the Venetians and Pope Paul V (q. v.) broke out, an able defence from his pen, "Defensionis ecclesiæ libertatis libri duo" (Ingolstadt, 1607), vindicated the Church's freedom against the tyrannical aggressions of the State.
+
+After fifteen years spent at Ingolstadt, he was called by the Emperor Matthias to the University of Vienna. While there he published his greatest work, the "Universa theologia scholastica" (Ingolstadt, 1626-27), which resembles the "Summa" of St.Thomas not only in its arrangement, but also in its solidity of doctrine and conciseness of diction. Ferdinand II, Matthias's successor on the throne of the Habsburgs, appointed him chancellor of the University of Prague. Fleeing from the Swedes, Tanner died at Unken, an insignificant village near Salzburg. There he still rests amid unlettered peasants in an unknown grave. But, as Cordara says, "his virtues, coupled with his eminent erudition, will ever be his most splendid epitaph and mausoleum."
+
+CORDARA, *Hist. Soc. Iesu,* VI, 583; GUILHERMY, *Ménologe,* I, 470; THÖLEN, *Menologium,* 325; HURTER, *Nomenclator,* I, 254; SOMMERVOGEL, *Bibliothéque* VII, 1843, sqq.
+
+A. C. Cotter.

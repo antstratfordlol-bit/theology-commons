@@ -1,0 +1,33 @@
+---
+title: "St. Justus"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "Edwin Hubert Burton"
+signed: "EDWIN BURTON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Justus"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-justus} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Justin Martyr"
+next: "C. Vettius Aquilinus Juvencus"
+entry-type: "article"
+characters: 2628
+words: 431
+links: 0
+images: 0
+---
+
+# St. Justus {#cathen.st-justus}
+
+Fourth Archbishop of Canterbury; died 627 (?). For the particulars of his life we are almost entirely dependent on Venerable Bede's "Historia Ecclesiastica", the additions of medieval writers, such as William of Malmesbury or Elmham, possessing no authority. Justus was one of the second band of missionaries sent by St. Gregory the Great, the company which arrived in 601 to reinforce St. Augustine and which conveyed the relics, books, sacred vessels, and other gifts sent by the pope. It is not certain whether he was a secular priest or a monk. St. Bede is silent on the point and only later monastic writers from Canterbury claim him as one of their own order. In 604 he was consecrated by St. Augustine as first Bishop of Rochester, on which occasion King Ethelbert bestowed on the new see, by charter, a territory called Priestfield and other lands. Other charters in which his name occurs are of dubious authenticity. After the death of Augustine, Justus joined with the new Archbishop, St. Laurence, and with Mellitus of London in addressing letters to the recalcitrant British bishops, but without effect. During the heathen reaction which followed the death of Ethelbert, Justus was expelled from his see and took refuge in Gaul for a year, after which he was recalled by Eadbald who had been converted by St. Laurence. On the death of St. Mellitus (24 April, 624) who had succeeded St. Laurence as archbishop, St. Justus was elected to the vacant primacy. The letter which Pope Boniface addressed to him when sending him the pallium is preserved by Venerable Bede (H. F., II, 8). He was already an old man, and little is recorded of his pontificate except that he consecrated Romanus as Bishop of Rochester and St. Paulinus as Bishop for the North. His anniversary was kept at Canterbury on 10 November, but there is uncertainty as to the year of his death, though 627, the commonly received date, would appear to be correct, especially as it fits in with the period of three years usually assigned by the chroniclers to his archiepiscopate. He was buried with his predecessors at St. Augustine's Abbey, Canterbury, and is commemorated in the English supplement to the Missal and Breviary on 10 November.
+
+BEDE, *Hist. Ecc. Gentis Anglorum*, I, 29; II, 3-16; CHALLONER, *Britannia Sancta*, II (London, 1745), 263; HOOK, *Lives of the Archbishops of Canterbury*, I (London, 1860); HADDON AND STUBBS, *Ecclesiastical Documents*, III (London, 1878), 72-81; STUBBS, in *Dict. Christ. Biog.*, S.V.; HUNT, in *Dict. Nat. Biog.*, S.V.; BOLLANDISTS, *Bibliotheca Hagiographica Latina*, I (Brussels, 1898-1899).
+
+EDWIN BURTON

@@ -1,0 +1,731 @@
+block	section	misal_anchor	evidence	refs	title
+0005:I Semana	T ordinario	misal.hebdomada-i-per-annum	title+ref	2	I Semana
+0005:II Domingo	T ordinario	misal.dominica-ii-per-annum	title+ref	3	II Domingo
+0005:III Domingo	T ordinario	misal.dominica-iii-per-annum	title+ref	3	III Domingo
+0005:IV Domingo	T ordinario	misal.dominica-iv-per-annum	title+ref	3	IV Domingo
+0005:V Domingo	T ordinario	misal.dominica-v-per-annum	title+ref	3	V Domingo
+0005:VI Domingo	T ordinario	misal.dominica-vi-per-annum	title+ref	1	VI Domingo
+0005:VII Domingo	T ordinario	misal.dominica-vii-per-annum	title+ref	3	VII Domingo
+0005:VIII Domingo	T ordinario	misal.dominica-viii-per-annum	title+ref	3	VIII Domingo
+0005:IX Domingo	T ordinario	misal.dominica-ix-per-annum	title+ref	3	IX Domingo
+0005:X Domingo	T ordinario	misal.dominica-x-per-annum	title+ref	3	X Domingo
+0005:XI Domingo	T ordinario	misal.dominica-xi-per-annum	title+ref	3	XI Domingo
+0005:XII Domingo	T ordinario	misal.dominica-xii-per-annum	title+ref	3	XII Domingo
+0005:XIII Domingo	T ordinario	misal.dominica-xiii-per-annum	title+ref	3	XIII Domingo
+0005:XIV Domingo	T ordinario	misal.dominica-xiv-per-annum	title+ref	3	XIV Domingo
+0005:XV Domingo	T ordinario	misal.dominica-xv-per-annum	title+ref	3	XV Domingo
+0005:XVI Domingo	T ordinario	misal.dominica-xvi-per-annum	title+ref	3	XVI Domingo
+0005:XVII Domingo	T ordinario	misal.dominica-xvii-per-annum	title+ref	3	XVII Domingo
+0005:XVIII Domingo	T ordinario	misal.dominica-xviii-per-annum	title+ref	3	XVIII Domingo
+0005:XIX Domingo	T ordinario	misal.dominica-xix-per-annum	title+ref	3	XIX Domingo
+0005:XX Domingo	T ordinario	misal.dominica-xx-per-annum	title+ref	3	XX Domingo
+0005:XXI Domingo	T ordinario	misal.dominica-xxi-per-annum	title+ref	3	XXI Domingo
+0005:XXII Domingo	T ordinario	misal.dominica-xxii-per-annum	title+ref	3	XXII Domingo
+0005:XXIII Domingo	T ordinario	misal.dominica-xxiii-per-annum	title+ref	3	XXIII Domingo
+0005:XXIV Domingo	T ordinario	misal.dominica-xxiv-per-annum	title+ref	3	XXIV Domingo
+0005:XXV Domingo	T ordinario	misal.dominica-xxv-per-annum	title+ref	2	XXV Domingo
+0005:XXVI Domingo	T ordinario	misal.dominica-xxvi-per-annum	title+ref	2	XXVI Domingo
+0005:XXVII Domingo	T ordinario	misal.dominica-xxvii-per-annum	title+ref	3	XXVII Domingo
+0005:XXVIII Domingo	T ordinario	misal.dominica-xxviii-per-annum	title+ref	3	XXVIII Domingo
+0005:XXIX Domingo	T ordinario	misal.dominica-xxix-per-annum	title+ref	3	XXIX Domingo
+0005:XXX Domingo	T ordinario	misal.dominica-xxx-per-annum	title+ref	3	XXX Domingo
+0005:XXXI Domingo	T ordinario	misal.dominica-xxxi-per-annum	title+ref	3	XXXI Domingo
+0005:XXXII Domingo	T ordinario	misal.dominica-xxxii-per-annum	title+ref	3	XXXII Domingo
+0005:XXXIII Domingo	T ordinario	misal.dominica-xxxiii-per-annum	title+ref	3	XXXIII Domingo
+0005:XXXIV Semana	T ordinario	misal.hebdomada-xxxiv-per-annum	title+ref	3	XXXIV Semana
+0005:Nuestro Señor Jesucristo, sumo y eterno Sacerdote	T ordinario	misal.domini-nostri-iesu-christi-summi-et-aeterni-sacerdotis	particular	2	Nuestro Señor Jesucristo, sumo y eterno Sacerdote
+0005:Santísima Trinidad	T ordinario	misal.sanctissimae-trinitatis	title+ref	1	Santísima Trinidad
+0005:Santísimo Cuerpo y Sangre de N. S. Jesucristo	T ordinario	misal.sanctissimi-corporis-et-sanguinis-christi	title+ref	2	Santísimo Cuerpo y Sangre de N. S. Jesucristo
+0005:Sagrado Corazón de Jesús	T ordinario	misal.sacratissimi-cordis-iesu	title+ref	3	Sagrado Corazón de Jesús
+0005:Nuestro Señor Jesucristo Rey del Universo	T ordinario	misal.domini-nostri-iesu-christi-universorum-regis	title+ref	2	Nuestro Señor Jesucristo Rey del Universo
+0009:Domingo I Adviento	Adviento	misal.dominica-i-adventus	title+ref	2	Domingo I Adviento
+0009:Lunes 1ª Adviento	Adviento	misal.hebdomada-i-adventus-feria-ii	title+ref	2	Lunes 1ª Adviento
+0009:Martes 1ª Adviento	Adviento	misal.hebdomada-i-adventus-feria-iii	title+ref	2	Martes 1ª Adviento
+0009:Miércoles 1ª Adviento	Adviento	misal.hebdomada-i-adventus-feria-iv	title+ref	2	Miércoles 1ª Adviento
+0009:Jueves 1ª Adviento	Adviento	misal.hebdomada-i-adventus-feria-v	title+ref	2	Jueves 1ª Adviento
+0009:Viernes 1ª Adviento	Adviento	misal.hebdomada-i-adventus-feria-vi	title+ref	1	Viernes 1ª Adviento
+0009:Sábado 1ª Adviento	Adviento	misal.hebdomada-i-adventus-sabbato	title+ref	2	Sábado 1ª Adviento
+0009:Domingo II Adviento	Adviento	misal.dominica-ii-adventus	title+ref	2	Domingo II Adviento
+0009:Lunes 2ª Adviento	Adviento	misal.hebdomada-ii-adventus-feria-ii	title+ref	2	Lunes 2ª Adviento
+0009:Martes 2ª Adviento	Adviento	misal.hebdomada-ii-adventus-feria-iii	title+ref	2	Martes 2ª Adviento
+0009:Miércoles 2ª Adviento	Adviento	misal.hebdomada-ii-adventus-feria-iv	title+ref	2	Miércoles 2ª Adviento
+0009:Jueves 2ª Adviento	Adviento	misal.hebdomada-ii-adventus-feria-v	title+ref	2	Jueves 2ª Adviento
+0009:Viernes 2ª Adviento	Adviento	misal.hebdomada-ii-adventus-feria-vi	title+ref	1	Viernes 2ª Adviento
+0009:Sábado 2ª Adviento	Adviento	misal.hebdomada-ii-adventus-sabbato	title+ref	2	Sábado 2ª Adviento
+0009:Domingo III Adviento	Adviento	misal.dominica-iii-adventus	title+ref	2	Domingo III Adviento
+0009:Lunes 3ª Adviento	Adviento	misal.hebdomada-iii-adventus-feria-ii	title+ref	2	Lunes 3ª Adviento
+0009:Martes 3ª Adviento	Adviento	misal.hebdomada-iii-adventus-feria-iii	title+ref	2	Martes 3ª Adviento
+0009:Miércoles 3ª Adviento	Adviento	misal.hebdomada-iii-adventus-feria-iv	title+ref	2	Miércoles 3ª Adviento
+0009:Jueves 3ª Adviento	Adviento	misal.hebdomada-iii-adventus-feria-v	title+ref	2	Jueves 3ª Adviento
+0009:Viernes 3ª Adviento	Adviento	misal.hebdomada-iii-adventus-feria-vi	title+ref	1	Viernes 3ª Adviento
+0009:Domingo IV Adviento	Adviento	misal.dominica-iv-adventus	title+ref	2	Domingo IV Adviento
+0009:17.XII	Adviento	misal.die-17-decembris	date+name+ref	2	17.XII
+0009:18.XII	Adviento	misal.die-18-decembris	date+name+ref	1	18.XII
+0009:19.XII	Adviento	misal.die-19-decembris	date+name+ref	2	19.XII
+0009:20.XII	Adviento	misal.die-20-decembris	date+name+ref	2	20.XII
+0009:21.XII	Adviento	misal.die-21-decembris	date+name+ref	2	21.XII
+0009:22.XII	Adviento	misal.die-22-decembris	date+name+ref	2	22.XII
+0009:23.XII	Adviento	misal.die-23-decembris	date+name+ref	2	23.XII
+0009:24.XII matutina	Adviento	misal.die-24-decembris-ad-missam-matutinam	date+name+ref	2	24.XII matutina
+0009:25 de diciembre. La Natividad del Señor. Misa Vespertina de 	Navidad	misal.in-nativitate-domini-ad-missam-in-vigilia	title+ref	2	25 de diciembre. La Natividad del Señor. Misa Vespertina de la vigilia
+0009:25 de diciembre. Misa de la noche	Navidad	misal.in-nativitate-domini-ad-missam-in-nocte	title+ref	2	25 de diciembre. Misa de la noche
+0010:25 de diciembre. Misa de la aurora	Navidad	misal.in-nativitate-domini-ad-missam-in-aurora	title+ref	2	25 de diciembre. Misa de la aurora
+0010:25 de diciembre. Misa del día	Navidad	misal.in-nativitate-domini-ad-missam-in-die	title+ref	2	25 de diciembre. Misa del día
+0010:La Sagrada Familia	Navidad	misal.s-familiae-iesu-mariae-et-ioseph	title+ref	2	La Sagrada Familia
+0010:29 de diciembre. Quinto día dentro de la octava de Navidad	Navidad	misal.die-29-decembris	title+ref	2	29 de diciembre. Quinto día dentro de la octava de Navidad
+0010:30 de diciembre. Sexto día dentro de la octava de Navidad	Navidad	misal.die-30-decembris	title+ref	2	30 de diciembre. Sexto día dentro de la octava de Navidad
+0010:31 de diciembre. Séptimo día dentro de la octava de Navidad	Navidad	misal.die-31-decembris	title+ref	2	31 de diciembre. Séptimo día dentro de la octava de Navidad
+0010:1 de enero. Octava de Navidad. Santa María, madre de Dios	Navidad	misal.sollemnitas-sanctae-dei-genetricis-mariae	title+ref	2	1 de enero. Octava de Navidad. Santa María, madre de Dios
+0010:II Domingo después de Navidad	Navidad	misal.dominica-ii-post-nativitatem	title+ref	2	II Domingo después de Navidad
+0010:6 de enero. La Epifanía del Señor. Misa de la vigilia	Navidad	misal.in-epiphania-domini-ad-missam-in-vigilia	title+ref	2	6 de enero. La Epifanía del Señor. Misa de la vigilia
+0010:6 de enero. La Epifanía del Señor. Misa del día	Navidad	misal.in-epiphania-domini-ad-missam-in-die	title+ref	2	6 de enero. La Epifanía del Señor. Misa del día
+0010:Lunes	Navidad	misal.in-feriis-temporis-nativitatis-feria-ii	title+ref	1	Ferias — Lunes
+0010:Martes	Navidad	misal.in-feriis-temporis-nativitatis-feria-iii	title+ref	2	Ferias — Martes
+0010:Miércoles	Navidad	misal.in-feriis-temporis-nativitatis-feria-iv	title+ref	1	Ferias — Miércoles
+0010:Jueves	Navidad	misal.in-feriis-temporis-nativitatis-feria-v	title+ref	2	Ferias — Jueves
+0010:Viernes	Navidad	misal.in-feriis-temporis-nativitatis-feria-vi	title+ref	2	Ferias — Viernes
+0010:Sábado	Navidad	misal.in-feriis-temporis-nativitatis-sabbato	title+ref	2	Ferias — Sábado
+0010:Domingo después del 6 de enero. El Bautismo del Señor	Navidad	misal.in-baptismate-domini	title+ref	2	Domingo después del 6 de enero. El Bautismo del Señor
+0011:Miércoles de Ceniza	Cuaresma	misal.feria-quarta-cinerum	title+ref	2	Miércoles de Ceniza
+0011:Jueves de Ceniza	Cuaresma	misal.feria-quinta-post-cineres	title+ref	2	Jueves de Ceniza
+0011:Viernes de Ceniza	Cuaresma	misal.feria-sexta-post-cineres	title+ref	2	Viernes de Ceniza
+0011:Sábado de Ceniza	Cuaresma	misal.sabbato-post-cineres	title+ref	2	Sábado de Ceniza
+0011:Domingo I Cuaresma	Cuaresma	misal.dominica-i-in-quadragesima	title+ref	3	Domingo I Cuaresma
+0011:Lunes 1ª Cuaresma	Cuaresma	misal.hebdomada-i-in-quadragesima-feria-ii	title+ref	2	Lunes 1ª Cuaresma
+0011:Martes 1ª Cuaresma	Cuaresma	misal.hebdomada-i-in-quadragesima-feria-iii	title+ref	2	Martes 1ª Cuaresma
+0011:Miércoles 1ª Cuaresma	Cuaresma	misal.hebdomada-i-in-quadragesima-feria-iv	title+ref	2	Miércoles 1ª Cuaresma
+0011:Jueves 1ª Cuaresma	Cuaresma	misal.hebdomada-i-in-quadragesima-feria-v	title+ref	2	Jueves 1ª Cuaresma
+0011:Viernes 1ª Cuaresma	Cuaresma	misal.hebdomada-i-in-quadragesima-feria-vi	title+ref	2	Viernes 1ª Cuaresma
+0011:Sábado 1ª Cuaresma	Cuaresma	misal.hebdomada-i-in-quadragesima-sabbato	title+ref	2	Sábado 1ª Cuaresma
+0011:Domingo II Cuaresma	Cuaresma	misal.dominica-ii-in-quadragesima	title+ref	3	Domingo II Cuaresma
+0011:Lunes 2ª Cuaresma	Cuaresma	misal.hebdomada-ii-in-quadragesima-feria-ii	title+ref	2	Lunes 2ª Cuaresma
+0011:Martes 2ª Cuaresma	Cuaresma	misal.hebdomada-ii-in-quadragesima-feria-iii	title+ref	2	Martes 2ª Cuaresma
+0011:Miércoles 2ª Cuaresma	Cuaresma	misal.hebdomada-ii-in-quadragesima-feria-iv	title+ref	2	Miércoles 2ª Cuaresma
+0011:Jueves 2ª Cuaresma	Cuaresma	misal.hebdomada-ii-in-quadragesima-feria-v	title+ref	2	Jueves 2ª Cuaresma
+0011:Viernes 2ª Cuaresma	Cuaresma	misal.hebdomada-ii-in-quadragesima-feria-vi	title+ref	2	Viernes 2ª Cuaresma
+0011:Sábado 2ª Cuaresma	Cuaresma	misal.hebdomada-ii-in-quadragesima-sabbato	title+ref	2	Sábado 2ª Cuaresma
+0011:Domingo III Cuaresma	Cuaresma	misal.dominica-iii-in-quadragesima	title+ref	4	Domingo III Cuaresma
+0011:Lunes 3ª Cuaresma	Cuaresma	misal.hebdomada-iii-in-quadragesima-feria-ii	title+ref	2	Lunes 3ª Cuaresma
+0011:Martes 3ª Cuaresma	Cuaresma	misal.hebdomada-iii-in-quadragesima-feria-iii	title+ref	2	Martes 3ª Cuaresma
+0011:Miércoles 3ª Cuaresma	Cuaresma	misal.hebdomada-iii-in-quadragesima-feria-iv	title+ref	2	Miércoles 3ª Cuaresma
+0011:Jueves 3ª Cuaresma	Cuaresma	misal.hebdomada-iii-in-quadragesima-feria-v	title+ref	1	Jueves 3ª Cuaresma
+0011:Viernes 3ª Cuaresma	Cuaresma	misal.hebdomada-iii-in-quadragesima-feria-vi	title+ref	2	Viernes 3ª Cuaresma
+0011:Sábado 3ª Cuaresma	Cuaresma	misal.hebdomada-iii-in-quadragesima-sabbato	title+ref	2	Sábado 3ª Cuaresma
+0011:Domingo IV Cuaresma	Cuaresma	misal.dominica-iv-in-quadragesima	title+ref	4	Domingo IV Cuaresma
+0011:Lunes 4ª Cuaresma	Cuaresma	misal.hebdomada-iv-in-quadragesima-feria-ii	title+ref	2	Lunes 4ª Cuaresma
+0011:Martes 4ª Cuaresma	Cuaresma	misal.hebdomada-iv-in-quadragesima-feria-iii	title+ref	2	Martes 4ª Cuaresma
+0012:Miércoles 4ª Cuaresma	Cuaresma	misal.hebdomada-iv-in-quadragesima-feria-iv	title+ref	2	Miércoles 4ª Cuaresma
+0012:Jueves 4ª Cuaresma	Cuaresma	misal.hebdomada-iv-in-quadragesima-feria-v	title+ref	2	Jueves 4ª Cuaresma
+0012:Viernes 4ª Cuaresma	Cuaresma	misal.hebdomada-iv-in-quadragesima-feria-vi	title+ref	2	Viernes 4ª Cuaresma
+0012:Sábado 4ª Cuaresma	Cuaresma	misal.hebdomada-iv-in-quadragesima-sabbato	title+ref	2	Sábado 4ª Cuaresma
+0012:Domingo V Cuaresma	Cuaresma	misal.dominica-v-in-quadragesima	title+ref	4	Domingo V Cuaresma
+0012:Lunes 5ª. Cuaresma	Cuaresma	misal.hebdomada-v-in-quadragesima-feria-ii	title+ref	3	Lunes 5ª. Cuaresma
+0012:Martes 5ª Cuaresma	Cuaresma	misal.hebdomada-v-in-quadragesima-feria-iii	title+ref	2	Martes 5ª Cuaresma
+0012:Miércoles 5ª Cuaresma	Cuaresma	misal.hebdomada-v-in-quadragesima-feria-iv	title+ref	2	Miércoles 5ª Cuaresma
+0012:Jueves 5ª Cuaresma	Cuaresma	misal.hebdomada-v-in-quadragesima-feria-v	title+ref	2	Jueves 5ª Cuaresma
+0012:Viernes 5ª Cuaresma	Cuaresma	misal.hebdomada-v-in-quadragesima-feria-vi	title+ref	2	Viernes 5ª Cuaresma
+0012:Sábado 5ª Cuaresma	Cuaresma	misal.hebdomada-v-in-quadragesima-sabbato	title+ref	2	Sábado 5ª Cuaresma
+0013:Domingo de Ramos	S Sta.	misal.dominica-in-palmis-de-passione-domini	title+ref	1	Domingo de Ramos
+0013:Lunes Santo	S Sta.	misal.feria-ii-hebdomadae-sanctae	title	0	Lunes Santo
+0013:Martes Santo	S Sta.	misal.feria-iii-hebdomadae-sanctae	title	0	Martes Santo
+0013:Miércoles Santo	S Sta.	misal.feria-iv-hebdomadae-sanctae	title	0	Miércoles Santo
+0013:Jueves Santo (Misa crismal)	S Sta.	misal.feria-v-hebdomadae-sanctae-ad-missam-chrismatis	title	0	Jueves Santo (Misa crismal)
+0013:Jueves Santo	S Sta.	misal.feria-v-in-cena-domini-ad-missam-vespertinam	title+ref	1	Jueves Santo
+0013:Viernes Santo	S Sta.	misal.feria-vi-in-passione-domini	title	0	Viernes Santo
+0013:Sábado Santo	S Sta.	misal.vigilia-paschalis-in-nocte-sancta	title+ref	1	Sábado Santo
+0014:Domingo de Pascua Resurrección. Misa del día	Pascua	misal.dominica-paschae-in-resurrectione-domini-ad-missam-in-die	title+ref	3	Domingo de Pascua Resurrección. Misa del día
+0014:Lunes de la octava de Pascua	Pascua	misal.feria-ii-infra-octavam-paschae	title+ref	2	Lunes de la octava de Pascua
+0014:Martes de la octava de Pascua	Pascua	misal.feria-iii-infra-octavam-paschae	title+ref	2	Martes de la octava de Pascua
+0014:Miércoles de la octava de Pascua	Pascua	misal.feria-iv-infra-octavam-paschae	title+ref	2	Miércoles de la octava de Pascua
+0014:Jueves de la octava de Pascua	Pascua	misal.feria-v-infra-octavam-paschae	title+ref	2	Jueves de la octava de Pascua
+0014:Viernes de la octava de Pascua	Pascua	misal.feria-vi-infra-octavam-paschae	title+ref	2	Viernes de la octava de Pascua
+0014:Sábado de la octava de Pascua	Pascua	misal.sabbato-infra-octavam-paschae	title+ref	2	Sábado de la octava de Pascua
+0014:II Domingo de Pascua	Pascua	misal.dominica-ii-paschae	title+ref	2	II Domingo de Pascua
+0014:Lunes	Pascua	misal.hebdomada-ii-paschae-feria-ii	title+ref	2	Semana II — Lunes
+0014:Martes	Pascua	misal.hebdomada-ii-paschae-feria-iii	title+ref	2	Semana II — Martes
+0014:Miércoles	Pascua	misal.hebdomada-ii-paschae-feria-iv	title+ref	2	Semana II — Miércoles
+0014:Jueves	Pascua	misal.hebdomada-ii-paschae-feria-v	title+ref	2	Semana II — Jueves
+0014:Viernes	Pascua	misal.hebdomada-ii-paschae-feria-vi	title+ref	2	Semana II — Viernes
+0014:Sábado	Pascua	misal.hebdomada-ii-paschae-sabbato	title+ref	2	Semana II — Sábado
+0014:III Domingo de Pascua	Pascua	misal.dominica-iii-paschae	title+ref	1	III Domingo de Pascua
+0014:Lunes	Pascua	misal.hebdomada-iii-paschae-feria-ii	title+ref	1	Semana III — Lunes
+0014:Martes	Pascua	misal.hebdomada-iii-paschae-feria-iii	title+ref	2	Semana III — Martes
+0014:Miércoles	Pascua	misal.hebdomada-iii-paschae-feria-iv	title+ref	1	Semana III — Miércoles
+0014:Jueves	Pascua	misal.hebdomada-iii-paschae-feria-v	title+ref	2	Semana III — Jueves
+0014:Viernes	Pascua	misal.hebdomada-iii-paschae-feria-vi	title+ref	1	Semana III — Viernes
+0014:Sábado	Pascua	misal.hebdomada-iii-paschae-sabbato	title+ref	2	Semana III — Sábado
+0014:IV Domingo de Pascua	Pascua	misal.dominica-iv-paschae	title+ref	1	IV Domingo de Pascua
+0014:Lunes	Pascua	misal.hebdomada-iv-paschae-feria-ii	title+ref	2	Semana IV — Lunes
+0014:Martes	Pascua	misal.hebdomada-iv-paschae-feria-iii	title+ref	2	Semana IV — Martes
+0014:Miércoles	Pascua	misal.hebdomada-iv-paschae-feria-iv	title+ref	2	Semana IV — Miércoles
+0014:Jueves	Pascua	misal.hebdomada-iv-paschae-feria-v	title+ref	2	Semana IV — Jueves
+0014:Viernes	Pascua	misal.hebdomada-iv-paschae-feria-vi	title+ref	2	Semana IV — Viernes
+0014:Sábado	Pascua	misal.hebdomada-iv-paschae-sabbato	title+ref	2	Semana IV — Sábado
+0015:V Domingo de Pascua	Pascua	misal.dominica-v-paschae	title+ref	2	V Domingo de Pascua
+0015:Lunes	Pascua	misal.hebdomada-v-paschae-feria-ii	title+ref	1	Semana V — Lunes
+0015:Martes	Pascua	misal.hebdomada-v-paschae-feria-iii	title+ref	2	Semana V — Martes
+0015:Miércoles	Pascua	misal.hebdomada-v-paschae-feria-iv	title+ref	1	Semana V — Miércoles
+0015:Jueves	Pascua	misal.hebdomada-v-paschae-feria-v	title+ref	2	Semana V — Jueves
+0015:Viernes	Pascua	misal.hebdomada-v-paschae-feria-vi	title+ref	1	Semana V — Viernes
+0015:Sábado	Pascua	misal.hebdomada-v-paschae-sabbato	title+ref	2	Semana V — Sábado
+0015:VI Domingo de Pascua	Pascua	misal.dominica-vi-paschae	title+ref	2	VI Domingo de Pascua
+0015:Lunes	Pascua	misal.hebdomada-vi-paschae-feria-ii	title+ref	2	Semana VI — Lunes
+0015:Martes	Pascua	misal.hebdomada-vi-paschae-feria-iii	title+ref	2	Semana VI — Martes
+0015:Miércoles	Pascua	misal.hebdomada-vi-paschae-feria-iv-ad-missam-matutinam	title+ref	2	Semana VI — Miércoles
+0015:Jueves	Pascua	misal.hebdomada-vi-paschae-feria-v	title+ref	2	Semana VI — Jueves
+0015:Viernes	Pascua	misal.hebdomada-vi-paschae-feria-vi	title+ref	2	Semana VI — Viernes
+0015:Sábado	Pascua	misal.hebdomada-vi-paschae-sabbato	title+ref	2	Semana VI — Sábado
+0015:Ascensión del Señor. Misa de la vigilia	Pascua	misal.in-ascensione-domini-ad-missam-in-vigilia	title+ref	2	Ascensión del Señor. Misa de la vigilia
+0015:Ascensión del Señor	Pascua	misal.in-ascensione-domini-ad-missam-in-die	title+ref	2	Ascensión del Señor
+0015:VII Domingo de Pascua	Pascua	misal.dominica-vii-paschae	title+ref	2	VII Domingo de Pascua
+0015:Lunes	Pascua	misal.hebdomada-vii-paschae-feria-ii	title+ref	2	Semana VII — Lunes
+0015:Martes	Pascua	misal.hebdomada-vii-paschae-feria-iii	title+ref	2	Semana VII — Martes
+0015:Miércoles	Pascua	misal.hebdomada-vii-paschae-feria-iv	title+ref	2	Semana VII — Miércoles
+0015:Jueves	Pascua	misal.hebdomada-vii-paschae-feria-v	title+ref	2	Semana VII — Jueves
+0015:Viernes	Pascua	misal.hebdomada-vii-paschae-feria-vi	title+ref	2	Semana VII — Viernes
+0015:Sábado	Pascua	misal.hebdomada-vii-paschae-sabbato-ad-missam-matutinam	title+ref	1	Semana VII — Sábado
+0015:Domingo de Pentecostés, misa vespertina de la vigilia.	Pascua	misal.dominica-pentecostes-ad-missam-in-vigilia	title+ref	2	Domingo de Pentecostés, misa vespertina de la vigilia.
+0015:Domingo de Pentecostés	Pascua	misal.dominica-pentecostes-ad-missam-in-die	title+ref	2	Domingo de Pentecostés
+0016:2.I San Basilio Magno y san Gregorio Nacianceno, obispos y d	Santos	misal.die-2-ianuarii-ss-basilii-magni-et-gregorii-nazianzeni	date+name+ref	2	2.I San Basilio Magno y san Gregorio Nacianceno, obispos y doctores de la Iglesia
+0016:3.I Santísimo Nombre de Jesús	Santos	misal.die-3-ianuarii-sanctissimi-nominis-iesu	date+name+ref	2	3.I Santísimo Nombre de Jesús
+0016:7.I San Raimundo de Peñafort, presbítero	Santos	misal.die-7-ianuarii-s-raimundi-de-penyafort	date+name	0	7.I San Raimundo de Peñafort, presbítero
+0016:9.I San Eulogio de Córdoba, presbítero y mártir	Santos	misal.die-9-ianuarii-s-eulogii-cordubensis-hispaniae	particular	0	9.I San Eulogio de Córdoba, presbítero y mártir
+0016:10.I Beata Ana de los Ángeles Monteagudo, virgen	Santos	misal.die-10-ianuarii-b-annae-ab-angelis-monteagudo-hispaniae	particular	0	10.I Beata Ana de los Ángeles Monteagudo, virgen
+0016:13.I San Hilario, obispo y doctor de la Iglesia	Santos	misal.die-13-ianuarii-s-hilarii	date+name	0	13.I San Hilario, obispo y doctor de la Iglesia
+0016:17.I San Antonio, abad	Santos	misal.die-17-ianuarii-s-antonii	date+name+ref	2	17.I San Antonio, abad
+0016:20.I San Fabián, papa y mártir	Santos	misal.die-20-ianuarii-s-fabiani	date+name	0	20.I San Fabián, papa y mártir
+0016:20.I San Sebastián, mártir	Santos	misal.die-20-ianuarii-s-sebastiani	date+name	0	20.I San Sebastián, mártir
+0016:21.I Santa Inés, virgen y mártir	Santos	misal.die-21-ianuarii-s-agnetis	date+name	0	21.I Santa Inés, virgen y mártir
+0016:22.I San Vicente, diácono y mártir	Santos	misal.die-22-ianuarii-s-vincentii	date+name	0	22.I San Vicente, diácono y mártir
+0016:23.I San Ildefonso, obispo	Santos	misal.die-23-ianuarii-s-ildephonsi-hispaniae	particular	0	23.I San Ildefonso, obispo
+0016:24.I San Francisco de Sales, obispo y doctor de la Iglesia	Santos	misal.die-24-ianuarii-s-francisci-de-sales	date+name	0	24.I San Francisco de Sales, obispo y doctor de la Iglesia
+0016:24.I Santa María de la Paz	Santos	misal.die-24-ianuarii-beatae-mariae-virginis-de-pace-operis-dei	particular	0	24.I Santa María de la Paz
+0016:25.I La conversión de san Pablo	Santos	misal.die-25-ianuarii-in-conversione-s-pauli	date+name+ref	2	25.I La conversión de san Pablo
+0016:26.I Santos Timoteo y Tito, obispos	Santos	misal.die-26-ianuarii-ss-timothei-et-titi	date+name+ref	2	26.I Santos Timoteo y Tito, obispos
+0016:27.I Santa Ángela de Mérici, virgen	Santos	misal.die-27-ianuarii-s-angelae-merici	date+name	0	27.I Santa Ángela de Mérici, virgen
+0016:28.I Santo Tomás de Aquino, presbítero y doctor de la Iglesi	Santos	misal.die-28-ianuarii-s-thomae-de-aquino	date+name	0	28.I Santo Tomás de Aquino, presbítero y doctor de la Iglesia
+0016:31.I San Juan Bosco, presbítero	Santos	misal.die-31-ianuarii-s-ioannis-bosco	date+name	0	31.I San Juan Bosco, presbítero
+0016:2.II La Presentación del Señor	Santos	misal.die-2-februarii-in-praesentatione-domini	date+name+ref	2	2.II La Presentación del Señor
+0016:3.II San Blas, obispo y mártir	Santos	misal.die-3-februarii-s-blasii	date+name	0	3.II San Blas, obispo y mártir
+0016:3.II San Óscar, obispo	Santos	misal.die-3-februarii-s-ansgarii	date+name	0	3.II San Óscar, obispo
+0016:5.II Santa Águeda, virgen y mártir	Santos	misal.die-5-februarii-s-agathae	date+name	0	5.II Santa Águeda, virgen y mártir
+0016:6.II San Pablo Miki y compañeros, mártires	Santos	misal.die-6-februarii-ss-pauli-miki-et-sociorum	date+name	0	6.II San Pablo Miki y compañeros, mártires
+0016:8.II San Jerónimo Emiliani, educador	Santos	misal.die-8-februarii-s-hieronymi-emiliani	date+name	0	8.II San Jerónimo Emiliani, educador
+0016:8.II Santa Josefina Bakhita, Virgen	Santos	misal.die-8-februarii-s-iosephinae-bakhita	date+name	0	8.II Santa Josefina Bakhita, Virgen
+0016:10.II Santa Escolástica, virgen	Santos	misal.die-10-februarii-s-scholasticae	date+name	0	10.II Santa Escolástica, virgen
+0016:11.II Bienaventurada Virgen María de Lourdes	Santos	misal.die-11-februarii-beatae-mariae-virginis-de-lourdes	date+name	0	11.II Bienaventurada Virgen María de Lourdes
+0016:14.II San Cirilo, monje, y san Metodio, obispo. Patronos de 	Santos	misal.die-14-februarii-ss-cyrilli-et-methodii	date+name+ref	1	14.II San Cirilo, monje, y san Metodio, obispo. Patronos de Europa
+0016:14.II Santa María, Madre del Amor Hermoso	Santos	misal.die-14-februarii-beatae-mariae-virginis-matris-pulchrae-dilectionis-operis-dei	particular	0	14.II Santa María, Madre del Amor Hermoso
+0016:15.II San Juan Bautista de la Concepción	Santos	misal.die-15-februarii-s-ioannis-baptistae-a-conceptione-hispaniae	particular	0	15.II San Juan Bautista de la Concepción
+0016:17.II Los siete fundadores de la Orden de los Siervos de la 	Santos	misal.die-17-februarii-ss-septem-fundatorum-ordinis-servorum-b-m-v	date+name	0	17.II Los siete fundadores de la Orden de los Siervos de la Virgen María
+0016:21.II San Pedro Damián, obispo y doctor de la Iglesia	Santos	misal.die-21-februarii-s-petri-damiani	date+name	0	21.II San Pedro Damián, obispo y doctor de la Iglesia
+0016:22.II La Cátedra del apóstol san Pedro	Santos	misal.die-22-februarii-cathedrae-s-petri	date+name+ref	2	22.II La Cátedra del apóstol san Pedro
+0016:23.II San Policarpo, obispo y mártir	Santos	misal.die-23-februarii-s-polycarpi	date+name	0	23.II San Policarpo, obispo y mártir
+0016:4.III San Casimiro	Santos	misal.die-4-martii-s-casimiri	date+name	0	4.III San Casimiro
+0016:7.III Santas Perpetua y Felicidad, mártires	Santos	misal.die-7-martii-ss-perpetuae-et-felicitatis	date+name+ref	1	7.III Santas Perpetua y Felicidad, mártires
+0016:8.III San Juan de Dios, religioso	Santos	misal.die-8-martii-s-ioannis-a-deo	date+name	0	8.III San Juan de Dios, religioso
+0016:9.III Santa Francisca Romana, religiosa	Santos	misal.die-9-martii-s-franciscae-romanae	date+name	0	9.III Santa Francisca Romana, religiosa
+0016:17.III San Patricio, obispo	Santos	misal.die-17-martii-s-patricii	date+name	0	17.III San Patricio, obispo
+0016:18.III San Cirilo de Jerusalén, obispo y doctor de la Iglesi	Santos	misal.die-18-martii-s-cyrilli-hierosolymitani	date+name	0	18.III San Cirilo de Jerusalén, obispo y doctor de la Iglesia
+0016:19.III San José, esposo de la Bienaventurada Virgen María	Santos	misal.die-19-martii-s-ioseph-sponsi-beatae-mariae-virginis	date+name+ref	2	19.III San José, esposo de la Bienaventurada Virgen María
+0016:23.III Santo Toribio de Mogrovejo, obispo	Santos	misal.die-23-martii-s-turibii-de-mogrovejo	date+name	0	23.III Santo Toribio de Mogrovejo, obispo
+0016:25.III Anunciación del Señor	Santos	misal.die-25-martii-in-annuntiatione-domini	date+name+ref	1	25.III Anunciación del Señor
+0016:2.IV San Francisco de Paula, ermitaño	Santos	misal.die-2-aprilis-s-francisci-de-paola	date+name	0	2.IV San Francisco de Paula, ermitaño
+0016:5.IV San Vicente Ferrer, presbítero	Santos	misal.die-5-aprilis-s-vincentii-ferrer	date+name	0	5.IV San Vicente Ferrer, presbítero
+0016:7.IV San Juan Bautista de la Salle, presbítero	Santos	misal.die-7-aprilis-s-ioannis-baptistae-de-la-salle	date+name	0	7.IV San Juan Bautista de la Salle, presbítero
+0016:11.IV San Estanislao, obispo y mártir	Santos	misal.die-11-aprilis-s-stanislai	date+name	0	11.IV San Estanislao, obispo y mártir
+0016:13.IV San Martín, Papa y mártir	Santos	misal.die-13-aprilis-s-martini-i	date+name	0	13.IV San Martín, Papa y mártir
+0016:13.IV San Hermenegildo, mártir	Santos	misal.die-13-aprilis-s-hermenegildi-hispaniae	particular	0	13.IV San Hermenegildo, mártir
+0016:21.IV San Anselmo, obispo y Doctor de la Iglesia	Santos	misal.die-21-aprilis-s-anselmi	date+name	0	21.IV San Anselmo, obispo y Doctor de la Iglesia
+0016:23.IV San Jorge, mártir	Santos	misal.die-23-aprilis-s-georgii	date+name	0	23.IV San Jorge, mártir
+0016:23.IV San Adalberto, obispo y mártir	Santos	misal.die-23-aprilis-s-adalberti	date+name	0	23.IV San Adalberto, obispo y mártir
+0016:24.IV San Fidel de Sigmaringa, presbítero y mártir	Santos	misal.die-24-aprilis-s-fidelis-de-sigmaringen	date+name	0	24.IV San Fidel de Sigmaringa, presbítero y mártir
+0016:25.IV San Marcos, evangelista	Santos	misal.die-25-aprilis-s-marci	date+name+ref	2	25.IV San Marcos, evangelista
+0016:26.IV San Isidoro, obispo y doctor de la Iglesia	Santos			2	26.IV San Isidoro, obispo y doctor de la Iglesia
+0016:28.IV San Pedro Chanel, presbítero y mártir	Santos	misal.die-28-aprilis-s-petri-chanel	date+name	0	28.IV San Pedro Chanel, presbítero y mártir
+0016:28.IV San Luis María Grignon de Monfort	Santos	misal.die-28-aprilis-s-ludovici-mariae-grignion-de-montfort	date+name	0	28.IV San Luis María Grignon de Monfort
+0016:29.IV Santa Catalina de Siena, virgen y doctora de la Iglesi	Santos	misal.die-29-aprilis-s-catharinae-senensis	date+name+ref	1	29.IV Santa Catalina de Siena, virgen y doctora de la Iglesia. Patrona de Europa
+0016:30.IV San Pío V, papa	Santos	misal.die-30-aprilis-s-pii-v	date+name	0	30.IV San Pío V, papa
+0016:1.V San José Obrero	Santos	misal.die-1-maii-s-ioseph-opificis	date+name+ref	2	1.V San José Obrero
+0016:2.V San Atanasio, obispo y doctor de la Iglesia	Santos	misal.die-2-maii-s-athanasii	date+name+ref	2	2.V San Atanasio, obispo y doctor de la Iglesia
+0016:3.V San Felipe y Santiago, apóstoles	Santos	misal.die-3-maii-ss-philippi-et-iacobi	date+name+ref	1	3.V San Felipe y Santiago, apóstoles
+0016:10.V San Juan de Ávila, presbítero	Santos	misal.die-10-maii-s-ioannis-de-avila	particular	2	10.V San Juan de Ávila, presbítero
+0016:12.V Santos Nereo y Aquiles, mártires	Santos	misal.die-12-maii-ss-nerei-et-achillei	date+name	0	12.V Santos Nereo y Aquiles, mártires
+0016:12.V Beato Álvaro del Portillo, obispo	Santos	misal.die-12-maii-b-alvari-del-portillo-operis-dei	particular	0	12.V Beato Álvaro del Portillo, obispo
+0016:12.V San Pancracio, mártir	Santos	misal.die-12-maii-s-pancratii	date+name	0	12.V San Pancracio, mártir
+0016:13.V Bienaventurada Virgen María de Fátima	Santos	misal.die-13-maii-beatae-mariae-virginis-de-fatima	date+name	0	13.V Bienaventurada Virgen María de Fátima
+0016:14.V San Matías, apóstol	Santos	misal.die-14-maii-s-matthiae	date+name+ref	2	14.V San Matías, apóstol
+0016:15.V San Isidro, labrador	Santos	misal.die-15-maii-s-isidori-agricolae-hispaniae	particular	3	15.V San Isidro, labrador
+0016:17.V San Pascual Bailón, religioso	Santos	misal.die-17-maii-s-paschalis-baylon-hispaniae	particular	0	17.V San Pascual Bailón, religioso
+0016:18.V San Juan I, papa y mártir	Santos	misal.die-18-maii-s-ioannis-i	date+name	0	18.V San Juan I, papa y mártir
+0016:18.V Beata Guadalupe Ortiz de Landázuri	Santos	misal.die-18-maii-b-guadalupae-ortiz-de-landazuri-operis-dei	particular	0	18.V Beata Guadalupe Ortiz de Landázuri
+0016:20.V San Bernardino de Siena, presbítero	Santos	misal.die-20-maii-s-bernardini-senensis	date+name	0	20.V San Bernardino de Siena, presbítero
+0016:21.V San Cristóbal Magallanes, presbítero, y compañeros, már	Santos	misal.die-21-maii-ss-christophori-magallanes-et-sociorum	date+name	0	21.V San Cristóbal Magallanes, presbítero, y compañeros, mártires
+0016:22.V Santa Rita de Casia, religiosa	Santos	misal.die-22-maii-s-ritae-de-cascia	date+name	0	22.V Santa Rita de Casia, religiosa
+0016:22.V Santa Joaquina Vedruna, religiosa	Santos	misal.die-22-maii-s-ioachimae-de-vedruna-hispaniae	particular	0	22.V Santa Joaquina Vedruna, religiosa
+0016:24.V Santa María, auxilio de los cristianos	Santos	misal.die-24-maii-beatae-mariae-virginis-auxilii-christianorum-hispaniae	particular	0	24.V Santa María, auxilio de los cristianos
+0016:25.V San Beda el Venerable, presbítero y doctor de la Iglesi	Santos	misal.die-25-maii-s-bedae-venerabilis	date+name	0	25.V San Beda el Venerable, presbítero y doctor de la Iglesia
+0016:25.V San Gregorio VII, papa	Santos	misal.die-25-maii-s-gregorii-vii	date+name	0	25.V San Gregorio VII, papa
+0016:25.V Santa María Magdalena de Pazzi, virgen	Santos	misal.die-25-maii-s-mariae-magdalenae-de-pazzi	date+name	0	25.V Santa María Magdalena de Pazzi, virgen
+0016:26.V San Felipe Neri, presbítero	Santos	misal.die-26-maii-s-philippi-neri	date+name+ref	2	26.V San Felipe Neri, presbítero
+0016:27.V San Agustín de Canterbury, obispo	Santos	misal.die-27-maii-s-augustini-cantuariensis	date+name	0	27.V San Agustín de Canterbury, obispo
+0016:29.V San Pablo VI, papa	Santos	misal.die-29-maii-s-pauli-vi	particular	0	29.V San Pablo VI, papa
+0016:30.V San Fernando	Santos	misal.die-30-maii-s-ferdinandi-hispaniae	particular	0	30.V San Fernando
+0016:31.V La Visitación de la Virgen María	Santos	misal.die-31-maii-in-visitatione-beatae-mariae-virginis	date+name+ref	2	31.V La Visitación de la Virgen María
+0016:Sábado tras el 2º domingo Pentecostés: Inmaculado Corazón de	Santos	misal.immaculati-cordis-beatae-mariae-virginis	ref	2	Sábado tras el 2º domingo Pentecostés: Inmaculado Corazón de la Virgen María
+0016:1.VI San Justino, mártir	Santos	misal.die-1-iunii-s-iustini	date+name+ref	2	1.VI San Justino, mártir
+0016:2.VI Santos Marcelino y Pedro, mártires	Santos	misal.die-2-iunii-ss-marcellini-et-petri	date+name	0	2.VI Santos Marcelino y Pedro, mártires
+0016:3.VI San Carlos Luanga y compañeros, mártires	Santos	misal.die-3-iunii-ss-caroli-lwanga-et-sociorum	date+name+ref	2	3.VI San Carlos Luanga y compañeros, mártires
+0016:5.VI San Bonifacio, obispo y mártir	Santos	misal.die-5-iunii-s-bonifatii	date+name	0	5.VI San Bonifacio, obispo y mártir
+0016:6.VI San Norberto, obispo	Santos	misal.die-6-iunii-s-norberti	date+name	0	6.VI San Norberto, obispo
+0016:9.VI San Efrén, diácono y doctor de la Iglesia	Santos	misal.die-9-iunii-s-ephraem	date+name	0	9.VI San Efrén, diácono y doctor de la Iglesia
+0016:11.VI San Bernabé, apóstol	Santos	misal.die-11-iunii-s-barnabae	date+name+ref	2	11.VI San Bernabé, apóstol
+0016:13.VI San Antonio de Padua, presbítero y doctor de la Iglesi	Santos	misal.die-13-iunii-s-antonii-de-padova	date+name	0	13.VI San Antonio de Padua, presbítero y doctor de la Iglesia
+0016:15.VI Santa María Micaela del Santísimo Sacramento, virgen.	Santos	misal.die-15-iunii-s-mariae-michaelae-a-sanctissimo-sacramento-hispaniae	particular	0	15.VI Santa María Micaela del Santísimo Sacramento, virgen.
+0016:19.VI San Romualdo, abad	Santos	misal.die-19-iunii-s-romualdi	date+name	0	19.VI San Romualdo, abad
+0016:21.VI San Luis Gonzaga, religioso	Santos	misal.die-21-iunii-s-aloisii-gonzaga	date+name+ref	2	21.VI San Luis Gonzaga, religioso
+0016:22.VI San Paulino de Nola, obispo	Santos	misal.die-22-iunii-s-paulini-nolani	date+name	0	22.VI San Paulino de Nola, obispo
+0016:22.VI San Juan Fisher, obispo, y santo Tomás Moro, mártires	Santos	misal.die-22-iunii-ss-ioannis-fisher-et-thomae-more	date+name	0	22.VI San Juan Fisher, obispo, y santo Tomás Moro, mártires
+0016:24.VI Natividad de san Juan Bautista. Misa vespertina de la 	Santos	misal.die-24-iunii-in-nativitate-s-ioannis-baptistae-ad-missam-in-vigilia	date+name+ref	2	24.VI Natividad de san Juan Bautista. Misa vespertina de la vigilia.
+0016:24.VI Natividad de san Juan Bautista. Misa del día.	Santos	misal.die-24-iunii-in-nativitate-s-ioannis-baptistae-ad-missam-in-die	date+name+ref	2	24.VI Natividad de san Juan Bautista. Misa del día.
+0016:26.VI San Josemaría Escrivá de Balaguer, presbítero	Santos	misal.die-26-iunii-s-iosephmariae-escriva-de-balaguer-operis-dei	particular	2	26.VI San Josemaría Escrivá de Balaguer, presbítero
+0016:27.VI San Cirilo de Alejandría, obispo y doctor de la Iglesi	Santos	misal.die-27-iunii-s-cyrilli-alexandrini	date+name	0	27.VI San Cirilo de Alejandría, obispo y doctor de la Iglesia
+0016:28.VI San Ireneo, obispo y mártir	Santos	misal.die-28-iunii-s-irenaei	date+name+ref	2	28.VI San Ireneo, obispo y mártir
+0016:29.VI San Pedro y San Pablo, apóstoles. Misa de la vigilia	Santos	misal.die-29-iunii-ss-petri-et-pauli-ad-missam-in-vigilia	date+name+ref	1	29.VI San Pedro y San Pablo, apóstoles. Misa de la vigilia
+0016:29.VI San Pedro y San Pablo, apóstoles. Misa del día	Santos	misal.die-29-iunii-ss-petri-et-pauli-ad-missam-in-die	date+name+ref	1	29.VI San Pedro y San Pablo, apóstoles. Misa del día
+0016:30.VI Santos Protomártires de la santa Iglesia Romana	Santos	misal.die-30-iunii-ss-protomartyrum-sanctae-romanae-ecclesiae	date+name	0	30.VI Santos Protomártires de la santa Iglesia Romana
+0016:3.VII Santo Tomás, Apóstol	Santos	misal.die-3-iulii-s-thomae	date+name+ref	2	3.VII Santo Tomás, Apóstol
+0016:4.VII Santa Isabel de Portugal	Santos	misal.die-4-iulii-s-elisabeth-lusitaniae	date+name	0	4.VII Santa Isabel de Portugal
+0016:5.VII San Antonio María Zaccaría, presbítero	Santos	misal.die-5-iulii-s-antonii-mariae-zaccaria	date+name	0	5.VII San Antonio María Zaccaría, presbítero
+0016:6.VII Santa María Goretti, virgen y mártir	Santos	misal.die-6-iulii-s-mariae-goretti	date+name	0	6.VII Santa María Goretti, virgen y mártir
+0016:9.VII San Agustín Zhao Rong, presbítero, y compañeros, márti	Santos	misal.die-9-iulii-ss-augustini-zhao-rong-et-sociorum	date+name	0	9.VII San Agustín Zhao Rong, presbítero, y compañeros, mártires
+0016:11.VII San Benito, abad, patrono de Europa	Santos	misal.die-11-iulii-s-benedicti	date+name+ref	1	11.VII San Benito, abad, patrono de Europa
+0016:13.VII San Enrique	Santos	misal.die-13-iulii-s-henrici	date+name	0	13.VII San Enrique
+0016:14.VII San Camilo de Lelis, presbítero	Santos	misal.die-14-iulii-s-camilli-de-lellis	date+name	0	14.VII San Camilo de Lelis, presbítero
+0016:15.VII San Buenaventura, obispo y doctor de la Iglesia	Santos	misal.die-15-iulii-s-bonaventurae	date+name	0	15.VII San Buenaventura, obispo y doctor de la Iglesia
+0016:16.VII Bienaventurada Virgen María del Monte Carmelo	Santos	misal.die-16-iulii-beatae-mariae-virginis-de-monte-carmelo	date+name	0	16.VII Bienaventurada Virgen María del Monte Carmelo
+0016:20.VII San Apolinar, obispo y mártir	Santos	misal.die-20-iulii-s-apollinaris	date+name	0	20.VII San Apolinar, obispo y mártir
+0016:21.VII San Lorenzo de Brindis, presbítero y doctor de la Igl	Santos	misal.die-21-iulii-s-laurentii-de-brindisi	date+name	0	21.VII San Lorenzo de Brindis, presbítero y doctor de la Iglesia
+0016:22.VII Santa María Magdalena	Santos	misal.die-22-iulii-s-mariae-magdalenae	date+name+ref	2	22.VII Santa María Magdalena
+0016:23.VII Santa Brígida, religiosa. Patrona de Europa	Santos	misal.die-23-iulii-s-birgittae	date+name	1	23.VII Santa Brígida, religiosa. Patrona de Europa
+0016:24.VII San Sarbelio Makhlúf, presbítero	Santos	misal.die-24-iulii-s-sarbelii-makhlu-f	date+name	0	24.VII San Sarbelio Makhlúf, presbítero
+0016:25.VII Santiago, apóstol. Patrono de España	Santos	misal.die-25-iulii-s-iacobi	date+name+ref	1	25.VII Santiago, apóstol. Patrono de España
+0016:26.VII San Joaquín y santa Ana, padres de la Bienaventurada 	Santos	misal.die-26-iulii-ss-ioachim-et-annae	date+name+ref	1	26.VII San Joaquín y santa Ana, padres de la Bienaventurada Virgen María
+0016:29.VII Santos Marta, María y Lázaro	Santos	misal.die-29-iulii-s-marthae	date+name+ref	2	29.VII Santos Marta, María y Lázaro
+0016:30.VII San Pedro Crisólogo, obispo y doctor de la Iglesia	Santos	misal.die-30-iulii-s-petri-chrysologi	date+name	0	30.VII San Pedro Crisólogo, obispo y doctor de la Iglesia
+0016:31.VII San Ignacio de Loyola, presbítero	Santos	misal.die-31-iulii-s-ignatii-de-loyola	date+name+ref	2	31.VII San Ignacio de Loyola, presbítero
+0016:1.VIII San Alfonso María de Ligorio, obispo y doctor de la I	Santos	misal.die-1-augusti-s-alfonsi-mariae-de-liguori	date+name	0	1.VIII San Alfonso María de Ligorio, obispo y doctor de la Iglesia
+0016:2.VIII San Eusebio de Vercelli, obispo	Santos	misal.die-2-augusti-s-eusebii-vercellensis	date+name	0	2.VIII San Eusebio de Vercelli, obispo
+0016:2.VIII San Pedro Julián Eymard, presbítero	Santos	misal.die-2-augusti-s-petri-iuliani-eymard	date+name	0	2.VIII San Pedro Julián Eymard, presbítero
+0017:4.VIII San Juan María Vianney, presbítero	Santos	misal.die-4-augusti-s-ioannis-mariae-vianney	date+name	0	4.VIII San Juan María Vianney, presbítero
+0017:5.VIII La Dedicación de la basílica de Santa María	Santos	misal.die-5-augusti-in-dedicatione-basilicae-s-mariae	date+name	0	5.VIII La Dedicación de la basílica de Santa María
+0017:6.VIII La Transfiguración del Señor	Santos	misal.die-6-augusti-in-transfiguratione-domini	date+name+ref	2	6.VIII La Transfiguración del Señor
+0017:7.VIII San Sixto II, papa, y compañeros, mártires	Santos	misal.die-7-augusti-ss-xysti-ii-et-sociorum	date+name	0	7.VIII San Sixto II, papa, y compañeros, mártires
+0017:7.VIII San Cayetano, presbítero	Santos	misal.die-7-augusti-s-caietani	date+name	0	7.VIII San Cayetano, presbítero
+0017:8.VIII Santo Domingo de Guzmán, presbítero	Santos	misal.die-8-augusti-s-dominici	date+name+ref	2	8.VIII Santo Domingo de Guzmán, presbítero
+0017:9.VIII Santa Teresa Benedicta de la Cruz (Edith Stein), márt	Santos	misal.die-9-augusti-s-teresiae-benedictae-a-cruce	date+name	2	9.VIII Santa Teresa Benedicta de la Cruz (Edith Stein), mártir y religiosa. Patrona de Europa
+0017:10.VIII San Lorenzo, diácono y mártir	Santos	misal.die-10-augusti-s-laurentii	date+name+ref	1	10.VIII San Lorenzo, diácono y mártir
+0017:11.VIII Santa Clara, virgen	Santos	misal.die-11-augusti-s-clarae	date+name	0	11.VIII Santa Clara, virgen
+0017:12.VIII Santa Juana Francisca de Chantal, religiosa	Santos	misal.die-12-augusti-s-ioannae-franciscae-de-chantal	date+name	0	12.VIII Santa Juana Francisca de Chantal, religiosa
+0017:13.VIII San Ponciano, papa, y san Hipólito, presbítero, márt	Santos	misal.die-13-augusti-ss-pontiani-et-hippolyti	date+name	0	13.VIII San Ponciano, papa, y san Hipólito, presbítero, mártires
+0017:14.VIII San Maximiliano María Kolbe, presbítero y mártir	Santos	misal.die-14-augusti-s-maximiliani-mariae-kolbe	date+name+ref	2	14.VIII San Maximiliano María Kolbe, presbítero y mártir
+0017:15.VIII La Asunción de la Bienaventurada Virgen María. Misa 	Santos	misal.die-15-augusti-in-assumptione-beatae-mariae-virginis-ad-missam-in-vigilia	date+name+ref	1	15.VIII La Asunción de la Bienaventurada Virgen María. Misa vespertina de la vigilia.
+0017:15.VIII La Asunción de la Virgen María. Misa del día	Santos	misal.die-15-augusti-in-assumptione-beatae-mariae-virginis-ad-missam-in-die	date+name+ref	2	15.VIII La Asunción de la Virgen María. Misa del día
+0017:16.VIII Esteban de Hungría	Santos	misal.die-16-augusti-s-stephani-hungariae	date+name	0	16.VIII Esteban de Hungría
+0017:19.VIII San Juan Eudes, presbítero	Santos	misal.die-19-augusti-s-ioannis-eudes	date+name	0	19.VIII San Juan Eudes, presbítero
+0017:19.VIII San Ezequiel Moreno Díaz, obispo	Santos	misal.die-19-augusti-s-ezechielis-moreno-hispaniae	particular	2	19.VIII San Ezequiel Moreno Díaz, obispo
+0017:20.VIII San Bernardo, abad y doctor de la Iglesia	Santos	misal.die-20-augusti-s-bernardi	date+name+ref	1	20.VIII San Bernardo, abad y doctor de la Iglesia
+0017:21.VIII San Pío X, papa	Santos	misal.die-21-augusti-s-pii-x	date+name	0	21.VIII San Pío X, papa
+0017:22.VIII Bienaventurada Virgen María, Reina	Santos	misal.die-22-augusti-beatae-mariae-virginis-reginae	date+name+ref	2	22.VIII Bienaventurada Virgen María, Reina
+0017:23.VIII Santa Rosa de Lima, virgen	Santos	misal.die-23-augusti-s-rosae-de-lima	date+name	0	23.VIII Santa Rosa de Lima, virgen
+0017:24.VIII San Bartolomé, apóstol	Santos	misal.die-24-augusti-s-bartholomaei	date+name+ref	2	24.VIII San Bartolomé, apóstol
+0017:25.VIII San Luis de Francia	Santos	misal.die-25-augusti-s-ludovici	date+name	0	25.VIII San Luis de Francia
+0017:25.VIII San José Calasanz, presbítero	Santos	misal.die-25-augusti-s-iosephi-de-calasanz	date+name	0	25.VIII San José Calasanz, presbítero
+0017:26.VIII Santa Teresa de Jesús Jornet e Ibars, virgen, patron	Santos	misal.die-26-augusti-s-teresiae-a-iesu-jornet-hispaniae	particular	1	26.VIII Santa Teresa de Jesús Jornet e Ibars, virgen, patrona de la ancianidad
+0017:27.VIII Santa Mónica	Santos	misal.die-27-augusti-s-monicae	date+name	0	27.VIII Santa Mónica
+0017:28.VIII San Agustín, obispo y doctor de la Iglesia	Santos	misal.die-28-augusti-s-augustini	date+name+ref	2	28.VIII San Agustín, obispo y doctor de la Iglesia
+0017:29.VIII Martirio de san Juan Bautista	Santos	misal.die-29-augusti-in-passione-s-ioannis-baptistae	date+name+ref	2	29.VIII Martirio de san Juan Bautista
+0017:3.IX San Gregorio Magno, papa y doctor de la Iglesia	Santos	misal.die-3-septembris-s-gregorii-magni	date+name+ref	1	3.IX San Gregorio Magno, papa y doctor de la Iglesia
+0017:8.IX La Natividad de la Virgen María	Santos	misal.die-8-septembris-in-nativitate-beatae-mariae-virginis	date+name+ref	1	8.IX La Natividad de la Virgen María
+0017:9.IX San Pedro Claver, presbítero	Santos	misal.die-9-septembris-s-petri-claver	date+name	0	9.IX San Pedro Claver, presbítero
+0017:12.IX Dulce Nombre de María	Santos	misal.die-12-septembris-sanctissimi-nominis-mariae	date+name+ref	2	12.IX Dulce Nombre de María
+0017:13.IX San Juan Crisóstomo, obispo y doctor de la Iglesia	Santos	misal.die-13-septembris-s-ioannis-chrysostomi	date+name+ref	2	13.IX San Juan Crisóstomo, obispo y doctor de la Iglesia
+0017:14.IX La Exaltación de la Santa Cruz	Santos	misal.die-14-septembris-in-exaltatione-sanctae-crucis	date+name+ref	2	14.IX La Exaltación de la Santa Cruz
+0017:15.IX Bienaventurada Virgen María de los Dolores	Santos	misal.die-15-septembris-beatae-mariae-virginis-perdolentis	date+name+ref	2	15.IX Bienaventurada Virgen María de los Dolores
+0017:16.IX San Cornelio y san Cipriano, obispos y mártires	Santos	misal.die-16-septembris-ss-cornelii-et-cypriani	date+name	0	16.IX San Cornelio y san Cipriano, obispos y mártires
+0017:17.IX San Roberto Belarmino, obispo y doctor de la Iglesia	Santos	misal.die-17-septembris-s-roberti-bellarmino	date+name	0	17.IX San Roberto Belarmino, obispo y doctor de la Iglesia
+0017:19.IX San Jenaro, obispo y mártir	Santos	misal.die-19-septembris-s-ianuarii	date+name	0	19.IX San Jenaro, obispo y mártir
+0017:20.IX San Andrés Kim Taegon, presbítero y san Pablo Chong Ha	Santos	misal.die-20-septembris-ss-andreae-kim-tae-go-n-et-pauli-cho-ng-ha-sang-et-sociorum	date+name+ref	1	20.IX San Andrés Kim Taegon, presbítero y san Pablo Chong Hasang y compañeros, mártires coreanos
+0017:21.IX San Mateo, Apóstol y evangelista	Santos	misal.die-21-septembris-s-matthaei	date+name+ref	2	21.IX San Mateo, Apóstol y evangelista
+0017:23.IX San Pío de Pietrelcina, presbítero	Santos	misal.die-23-septembris-s-pii-de-pietrelcina	particular	0	23.IX San Pío de Pietrelcina, presbítero
+0017:24.IX Bienaventurada Virgen María de la Merced	Santos	misal.die-24-septembris-beatae-mariae-virginis-de-mercede-hispaniae	particular	0	24.IX Bienaventurada Virgen María de la Merced
+0017:26.IX Santos Cosme y Damián, mártires	Santos	misal.die-26-septembris-ss-cosmae-et-damiani	date+name	0	26.IX Santos Cosme y Damián, mártires
+0017:27.IX San Vicente de Paúl, presbítero	Santos	misal.die-27-septembris-s-vincentii-de-paul	date+name+ref	2	27.IX San Vicente de Paúl, presbítero
+0017:28.IX San Wenceslao, mártir	Santos	misal.die-28-septembris-s-venceslai	date+name	0	28.IX San Wenceslao, mártir
+0017:28.IX San Lorenzo Ruiz y compañeros, mártires	Santos	misal.die-28-septembris-ss-laurentii-ruiz-et-sociorum	date+name	0	28.IX San Lorenzo Ruiz y compañeros, mártires
+0017:29.IX Santos Arcángeles Miguel, Gabriel y Rafael	Santos	misal.die-29-septembris-ss-michaelis-gabrielis-et-raphaelis	date+name+ref	2	29.IX Santos Arcángeles Miguel, Gabriel y Rafael
+0017:30.IX San Jerónimo, presbítero y doctor de la Iglesia	Santos	misal.die-30-septembris-s-hieronymi	date+name+ref	2	30.IX San Jerónimo, presbítero y doctor de la Iglesia
+0017:1.X Santa Teresa del Niño Jesús, virgen y doctora de la Igle	Santos	misal.die-1-octobris-s-teresiae-a-iesu-infante	date+name+ref	2	1.X Santa Teresa del Niño Jesús, virgen y doctora de la Iglesia
+0017:2.X Santos Ángeles Custodios	Santos	misal.die-2-octobris-ss-angelorum-custodum	date+name+ref	2	2.X Santos Ángeles Custodios
+0017:3.X San Francisco de Borja, presbítero	Santos	misal.die-3-octobris-s-francisci-borgia-hispaniae	particular	0	3.X San Francisco de Borja, presbítero
+0017:4.X San Francisco de Asís	Santos	misal.die-4-octobris-s-francisci-assisiensis	date+name+ref	1	4.X San Francisco de Asís
+0017:5.X Témporas de acción de gracias y de petición	Santos	misal.die-5-octobris-quattuor-temporum-gratiarum-actionis-et-petitionis-hispaniae	particular	2	5.X Témporas de acción de gracias y de petición
+0017:6.X San Bruno, presbítero	Santos	misal.die-6-octobris-s-brunonis	date+name	0	6.X San Bruno, presbítero
+0017:7.X Bienaventurada Virgen María del Rosario	Santos	misal.die-7-octobris-beatae-mariae-virginis-a-rosario	date+name+ref	2	7.X Bienaventurada Virgen María del Rosario
+0017:9.X San Dionisio, obispo, y compañeros mártires	Santos	misal.die-9-octobris-ss-dionysii-et-sociorum	date+name	0	9.X San Dionisio, obispo, y compañeros mártires
+0017:9.X San Juan Leonardi, presbítero	Santos	misal.die-9-octobris-s-ioannis-leonardi	date+name	0	9.X San Juan Leonardi, presbítero
+0017:10.X Santo Tomás de Villanueva, obispo	Santos	misal.die-10-octobris-s-thomae-de-villanova-hispaniae	particular	0	10.X Santo Tomás de Villanueva, obispo
+0017:11.X Santa Soledad Torres Acosta, virgen	Santos	misal.die-11-octobris-s-mariae-soledad-torres-acosta-hispaniae	particular	0	11.X Santa Soledad Torres Acosta, virgen
+0017:11.X San Juan XXIII, papa	Santos	misal.die-11-octobris-s-ioannis-xxiii	particular	0	11.X San Juan XXIII, papa
+0017:12.X Bienaventurada Virgen María del Pilar	Santos	misal.die-12-octobris-beatae-mariae-virginis-de-pilari-hispaniae	particular	2	12.X Bienaventurada Virgen María del Pilar
+0017:14.X San Calixto I, papa y mártir	Santos	misal.die-14-octobris-s-callisti-i	date+name	0	14.X San Calixto I, papa y mártir
+0017:15.X Santa Teresa de Jesús, virgen y doctora de la Iglesia	Santos	misal.die-15-octobris-s-teresiae-a-iesu	date+name+ref	2	15.X Santa Teresa de Jesús, virgen y doctora de la Iglesia
+0017:16.X Santa Eduvigis, religiosa	Santos	misal.die-16-octobris-s-hedvigis	date+name	0	16.X Santa Eduvigis, religiosa
+0017:16.X Santa Margarita María de Alacoque, virgen	Santos	misal.die-16-octobris-s-margaritae-mariae-alacoque	date+name	0	16.X Santa Margarita María de Alacoque, virgen
+0017:17.X San Ignacio de Antioquía, obispo y mártir	Santos	misal.die-17-octobris-s-ignatii-antiocheni	date+name+ref	1	17.X San Ignacio de Antioquía, obispo y mártir
+0017:18.X San Lucas, evangelista	Santos	misal.die-18-octobris-s-lucae	date+name+ref	2	18.X San Lucas, evangelista
+0017:19.X Santos Juan de Brebeuf e Isaac Jogues, presbíteros, y c	Santos	misal.die-19-octobris-ss-ioannis-de-brebeuf-et-isaac-jogues-et-sociorum	date+name	0	19.X Santos Juan de Brebeuf e Isaac Jogues, presbíteros, y compañeros, mártires
+0017:19.X San Pablo de la Cruz, presbítero	Santos	misal.die-19-octobris-s-pauli-a-cruce	date+name+ref	2	19.X San Pablo de la Cruz, presbítero
+0017:19.X San Pedro de Alcántara, presbítero	Santos	misal.die-19-octobris-s-petri-de-alcantara-hispaniae	particular	0	19.X San Pedro de Alcántara, presbítero
+0017:22.X Juan Pablo II, Papa	Santos	misal.die-22-octobris-s-ioannis-pauli-ii	particular	0	22.X Juan Pablo II, Papa
+0017:23.X San Juan de Capistrano, presbítero	Santos	misal.die-23-octobris-s-ioannis-de-capestrano	date+name	0	23.X San Juan de Capistrano, presbítero
+0017:24.X San Antonio María Claret, obispo	Santos	misal.die-24-octobris-s-antonii-mariae-claret	date+name	0	24.X San Antonio María Claret, obispo
+0017:28.X San Simón y San Judas, apóstoles	Santos	misal.die-28-octobris-ss-simonis-et-iudae	date+name+ref	1	28.X San Simón y San Judas, apóstoles
+0017:1.XI Todos los Santos	Santos	misal.die-1-novembris-omnium-sanctorum	date+name+ref	1	1.XI Todos los Santos
+0017:2.XI Conmemoración de todos los fieles difuntos	Santos	misal.die-2-novembris-in-commemoratione-omnium-fidelium-defunctorum-1	date+name+ref	2	2.XI Conmemoración de todos los fieles difuntos
+0017:2.XI (2ª)	Santos	misal.die-2-novembris-in-commemoratione-omnium-fidelium-defunctorum-2	date+name+ref	2	2.XI (2ª)
+0017:2.XI (3ª)	Santos	misal.die-2-novembris-in-commemoratione-omnium-fidelium-defunctorum-3	date+name+ref	2	2.XI (3ª)
+0017:3.XI San Martín de Porres, religioso	Santos	misal.die-3-novembris-s-martini-de-porres	date+name	0	3.XI San Martín de Porres, religioso
+0017:4.XI San Carlos Borromeo, obispo	Santos	misal.die-4-novembris-s-caroli-borromeo	date+name	0	4.XI San Carlos Borromeo, obispo
+0017:5.XI Santa Ángela de la Cruz Guerrero González, virgen	Santos	misal.die-5-novembris-s-angelae-a-cruce-hispaniae	particular	0	5.XI Santa Ángela de la Cruz Guerrero González, virgen
+0017:6.XI Santos Pedro Poveda Castroverde e Inocencio de la Inmac	Santos	misal.die-6-novembris-ss-petri-poveda-et-innocentii-ab-immaculata-et-sociorum-hispaniae	particular	0	6.XI Santos Pedro Poveda Castroverde e Inocencio de la Inmaculada Canoura Arnau, presbíteros y compañeros mártires
+0017:9.XI La Dedicación de la Basílica de Letrán	Santos	misal.die-9-novembris-in-dedicatione-basilicae-lateranensis	date+name+ref	2	9.XI La Dedicación de la Basílica de Letrán
+0017:De la dedicación de una iglesia	Santos			1	De la dedicación de una iglesia
+0017:10.XI San León Magno, papa y doctor de la Iglesia	Santos	misal.die-10-novembris-s-leonis-magni	date+name+ref	2	10.XI San León Magno, papa y doctor de la Iglesia
+0017:11.XI San Martín de Tours, obispo	Santos	misal.die-11-novembris-s-martini-turonensis	date+name+ref	2	11.XI San Martín de Tours, obispo
+0017:12.XI San Josafat, obispo y mártir	Santos	misal.die-12-novembris-s-iosaphat	date+name+ref	1	12.XI San Josafat, obispo y mártir
+0017:13.XI San Leandro, obispo	Santos	misal.die-13-novembris-s-leandri-hispaniae	particular	0	13.XI San Leandro, obispo
+0017:15.XI San Alberto Magno, obispo y doctor de la Iglesia	Santos	misal.die-15-novembris-s-alberti-magni	date+name	0	15.XI San Alberto Magno, obispo y doctor de la Iglesia
+0017:16.XI Santa Margarita de Escocia	Santos	misal.die-16-novembris-s-margaritae-scotiae	date+name	0	16.XI Santa Margarita de Escocia
+0017:16.XI Santa Gertrudis, virgen	Santos	misal.die-16-novembris-s-gertrudis	date+name	0	16.XI Santa Gertrudis, virgen
+0017:17.XI Santa Isabel de Hungría, religiosa	Santos	misal.die-17-novembris-s-elisabeth-hungariae	date+name	0	17.XI Santa Isabel de Hungría, religiosa
+0017:18.XI La Dedicación de la basílica de los apóstoles San Pedr	Santos	misal.die-18-novembris-in-dedicatione-basilicarum-ss-petri-et-pauli	date+name+ref	2	18.XI La Dedicación de la basílica de los apóstoles San Pedro y San Pablo
+0017:21.XI La Presentación de la Santísima Virgen	Santos	misal.die-21-novembris-in-praesentatione-beatae-mariae-virginis	date+name	0	21.XI La Presentación de la Santísima Virgen
+0017:22.XI Santa Cecilia, virgen y mártir	Santos	misal.die-22-novembris-s-caeciliae	date+name	0	22.XI Santa Cecilia, virgen y mártir
+0017:23.XI San Clemente I, papa y mártir	Santos	misal.die-23-novembris-s-clementis-i	date+name	0	23.XI San Clemente I, papa y mártir
+0017:23.XI San Columbano, abad	Santos	misal.die-23-novembris-s-columbani	date+name	0	23.XI San Columbano, abad
+0017:24.XI San Andrés Dung-Lac, presbítero y compañeros mártires	Santos	misal.die-24-novembris-ss-andreae-dung-la-c-et-sociorum	date+name+ref	2	24.XI San Andrés Dung-Lac, presbítero y compañeros mártires
+0017:25.XI Santa Catalina de Alejandría, virgen y mártir	Santos	misal.die-25-novembris-s-catharinae-alexandrinae	date+name	0	25.XI Santa Catalina de Alejandría, virgen y mártir
+0017:30.XI San Andrés, apóstol	Santos	misal.die-30-novembris-s-andreae	date+name+ref	2	30.XI San Andrés, apóstol
+0017:3.XII San Francisco Javier, presbítero	Santos	misal.die-3-decembris-s-francisci-xavier	date+name+ref	2	3.XII San Francisco Javier, presbítero
+0017:4.XII San Juan Damasceno, presbítero y doctor de la Iglesia	Santos	misal.die-4-decembris-s-ioannis-damasceni	date+name	0	4.XII San Juan Damasceno, presbítero y doctor de la Iglesia
+0017:6.XII San Nicolás, obispo	Santos	misal.die-6-decembris-s-nicolai	date+name	0	6.XII San Nicolás, obispo
+0017:7.XII San Ambrosio, obispo y doctor de la Iglesia	Santos	misal.die-7-decembris-s-ambrosii	date+name+ref	2	7.XII San Ambrosio, obispo y doctor de la Iglesia
+0017:8.XII La Inmaculada Concepción de la Bienaventurada Virgen M	Santos	misal.die-8-decembris-in-conceptione-immaculata-beatae-mariae-virginis	collect-read	1	8.XII La Inmaculada Concepción de la Bienaventurada Virgen María, Patrona de España
+0017:9.XII San Juan Diego Cuauhtlatoatzin	Santos	misal.die-9-decembris-s-ioannis-didaci-cuauhtlatoatzin	particular	0	9.XII San Juan Diego Cuauhtlatoatzin
+0017:10.XII Santa Eulalia de Mérida, virgen y mártir	Santos	misal.die-10-decembris-s-eulaliae-emeritensis-hispaniae	particular	0	10.XII Santa Eulalia de Mérida, virgen y mártir
+0017:11.XII San Dámaso I, Papa	Santos	misal.die-11-decembris-s-damasi-i	date+name	0	11.XII San Dámaso I, Papa
+0017:12.XII Bienaventurada Virgen María de Guadalupe	Santos	misal.die-12-decembris-beatae-mariae-virginis-de-guadalupe	particular	0	12.XII Bienaventurada Virgen María de Guadalupe
+0017:13.XII Santa Lucía, virgen y mártir	Santos	misal.die-13-decembris-s-luciae	date+name	0	13.XII Santa Lucía, virgen y mártir
+0017:14.XII San Juan de la Cruz, presbítero y doctor de la Iglesi	Santos	misal.die-14-decembris-s-ioannis-a-cruce	date+name+ref	2	14.XII San Juan de la Cruz, presbítero y doctor de la Iglesia
+0017:21.XII San Pedro Canisio, presbítero y doctor de la Iglesia	Santos	misal.die-21-decembris-s-petri-canisii	date+name	0	21.XII San Pedro Canisio, presbítero y doctor de la Iglesia
+0017:23.XII San Juan de Kety, presbítero	Santos	misal.die-23-decembris-s-ioannis-de-keo-ty	date+name	0	23.XII San Juan de Kety, presbítero
+0017:26.XII San Esteban, protomártir	Santos	misal.die-26-decembris-s-stephani	date+name+ref	1	26.XII San Esteban, protomártir
+0017:27.XII San Juan, apóstol y evangelista	Santos	misal.die-27-decembris-s-ioannis	date+name+ref	2	27.XII San Juan, apóstol y evangelista
+0017:28.XII Santos Inocentes, mártires	Santos	misal.die-28-decembris-ss-innocentium	date+name+ref	1	28.XII Santos Inocentes, mártires
+0017:29.XII Santo Tomás Becket, obispo y mártir	Santos	misal.die-29-decembris-s-thomae-becket	date+name	0	29.XII Santo Tomás Becket, obispo y mártir
+0017:31.XII San Silvestre I, Papa	Santos	misal.die-31-decembris-s-silvestri-i	date+name	0	31.XII San Silvestre I, Papa
+0040:1. La Santísima Trinidad	Votivas	misal.missa-votiva-1	title+ref	1	1. La Santísima Trinidad
+0040:2. De la misericordia de Dios	Votivas	misal.missa-votiva-2	title+ref	4	2. De la misericordia de Dios
+0040:3. De nuestro Señor Jesucristo, sumo y eterno Sacerdote	Votivas	misal.missa-votiva-3	title+ref	1	3. De nuestro Señor Jesucristo, sumo y eterno Sacerdote
+0040:4. Del misterio de la santa Cruz	Votivas	misal.missa-votiva-4	title+ref	1	4. Del misterio de la santa Cruz
+0040:5. De la Santísima Eucaristía	Votivas	misal.missa-votiva-5	title+ref	2	5. De la Santísima Eucaristía
+0040:6. Del santísimo nombre de Jesús	Votivas	misal.missa-votiva-6	title+ref	2	6. Del santísimo nombre de Jesús
+0040:7. De la preciosísima Sangre de nuestro Señor Jesucristo	Votivas	misal.missa-votiva-7	title+ref	1	7. De la preciosísima Sangre de nuestro Señor Jesucristo
+0040:8. Del sagrado corazón de Jesús	Votivas	misal.missa-votiva-8	title+ref	3	8. Del sagrado corazón de Jesús
+0040:9.A Del Espíritu Santo	Votivas	misal.missa-votiva-9-a	title+ref	2	9.A Del Espíritu Santo
+0040:9.B Del Espíritu Santo	Votivas	misal.missa-votiva-9-b	title+ref	1	9.B Del Espíritu Santo
+0040:9.C Del Espíritu Santo	Votivas	misal.missa-votiva-9-c	title+ref	2	9.C Del Espíritu Santo
+0040:10.B De la bienaventurada Virgen María, Madre de la Iglesia	Votivas	misal.missa-votiva-10-b-de-beata-maria-ecclesiae-matre	collect-read	1	10.B De la bienaventurada Virgen María, Madre de la Iglesia
+0040:10.C Del Dulce Nombre de María	Votivas	misal.missa-votiva-10-c-de-sanctissimo-nomine-mariae	title+ref	2	10.C Del Dulce Nombre de María
+0040:10.D Santa María, Reina de los Apóstoles	Votivas	misal.missa-votiva-10-d-de-sancta-maria-regina-apostolorum	title+ref	2	10.D Santa María, Reina de los Apóstoles
+0040:11. De los santos ángeles	Votivas	misal.missa-votiva-11	title+ref	2	11. De los santos ángeles
+0040:13. De San José	Votivas	misal.missa-votiva-13	title+ref	2	13. De San José
+0040:14. De todos los santos Apóstoles	Votivas	misal.missa-votiva-14	title+ref	2	14. De todos los santos Apóstoles
+0040:15. De los santos apóstoles Pedro y Pablo	Votivas	misal.missa-votiva-15	title+ref	1	15. De los santos apóstoles Pedro y Pablo
+0040:16. De san Pedro, apóstol	Votivas	misal.missa-votiva-16	title+ref	2	16. De san Pedro, apóstol
+0040:17. De san Pablo, apóstol	Votivas	misal.missa-votiva-17	title+ref	2	17. De san Pablo, apóstol
+0040:18. De un santo Apóstol	Votivas	misal.missa-votiva-18	title+ref	2	18. De un santo Apóstol
+0040:19. De todos los santos	Votivas	misal.missa-votiva-19	title+ref	1	19. De todos los santos
+0043:Dedicación de una iglesia I. En la misma iglesia	Comunes	misal.commune-dedicationis-ecclesiae-i	title+ref	2	Dedicación de una iglesia I. En la misma iglesia
+0043:Dedicación de una iglesia II. En otra iglesia	Comunes	misal.commune-dedicationis-ecclesiae-ii	title+ref	4	Dedicación de una iglesia II. En otra iglesia
+0043:I Tiempo Ordinario 1	Comunes	misal.commune-beatae-mariae-virginis-i-1	title	0	I Tiempo Ordinario 1
+0043:Santa Maria Virgen. I Tiempo Ordinario 2	Comunes	misal.commune-beatae-mariae-virginis-i-2	title+ref	1	Santa Maria Virgen. I Tiempo Ordinario 2
+0043:Santa Maria Virgen. I Tiempo Ordinario 3	Comunes	misal.commune-beatae-mariae-virginis-i-3	title+ref	2	Santa Maria Virgen. I Tiempo Ordinario 3
+0043:Santa Maria Virgen. I Tiempo Ordinario 4	Comunes	misal.commune-beatae-mariae-virginis-i-4	title+ref	1	Santa Maria Virgen. I Tiempo Ordinario 4
+0043:Santa Maria Virgen. I Tiempo Ordinario 5	Comunes	misal.commune-beatae-mariae-virginis-i-5	title+ref	2	Santa Maria Virgen. I Tiempo Ordinario 5
+0043:Santa Maria Virgen. I Tiempo Ordinario 6	Comunes	misal.commune-beatae-mariae-virginis-i-6	title+ref	1	Santa Maria Virgen. I Tiempo Ordinario 6
+0043:Santa Maria Virgen. I Tiempo Ordinario 7	Comunes	misal.commune-beatae-mariae-virginis-i-7	title+ref	2	Santa Maria Virgen. I Tiempo Ordinario 7
+0043:Santa Maria Virgen. I Tiempo Ordinario 8	Comunes	misal.commune-beatae-mariae-virginis-i-8	title+ref	1	Santa Maria Virgen. I Tiempo Ordinario 8
+0043:Santa Maria Virgen. II Adviento	Comunes	misal.commune-beatae-mariae-virginis-ii	title+ref	3	Santa Maria Virgen. II Adviento
+0043:Santa Maria Virgen. III Navidad	Comunes	misal.commune-beatae-mariae-virginis-iii	title+ref	1	Santa Maria Virgen. III Navidad
+0043:Santa Maria Virgen. IV Pascua	Comunes	misal.commune-beatae-mariae-virginis-iv	title+ref	1	Santa Maria Virgen. IV Pascua
+0043:Doctores de la Iglesia 1	Comunes	misal.commune-doctorum-ecclesiae-1	title+ref	4	Doctores de la Iglesia 1
+0043:Doctores de la Iglesia 2	Comunes	misal.commune-doctorum-ecclesiae-2	title+ref	3	Doctores de la Iglesia 2
+0043:I. Para toda categoría de santos. A. Para varios santos 1	Comunes	misal.commune-sanctorum-et-sanctarum-i-a-1	title+ref	4	I. Para toda categoría de santos. A. Para varios santos 1
+0043:I. Para toda categoría de santos. A. Para varios santos 2	Comunes	misal.commune-sanctorum-et-sanctarum-i-a-2	title+ref	2	I. Para toda categoría de santos. A. Para varios santos 2
+0043:I. Para toda categoría de santos. A. Para varios santos 3	Comunes	misal.commune-sanctorum-et-sanctarum-i-a-3	title+ref	2	I. Para toda categoría de santos. A. Para varios santos 3
+0043:I. Para toda categoría de santos. A. Para varios santos 4	Comunes	misal.commune-sanctorum-et-sanctarum-i-a-4	title+ref	2	I. Para toda categoría de santos. A. Para varios santos 4
+0043:I. Para toda categoría de santos. B. Para un santo 1	Comunes	misal.commune-sanctorum-et-sanctarum-i-b-1	title+ref	2	I. Para toda categoría de santos. B. Para un santo 1
+0043:I. Para toda categoría de santos. B. Para un santo 2	Comunes			2	I. Para toda categoría de santos. B. Para un santo 2
+0043:II. Para monjes y religiosos. A. Para un abad	Comunes	misal.commune-sanctorum-et-sanctarum-ii-a	title+ref	4	II. Para monjes y religiosos. A. Para un abad
+0043:II. Para monjes y religiosos. B. Para un monje	Comunes	misal.commune-sanctorum-et-sanctarum-ii-b	title+ref	3	II. Para monjes y religiosos. B. Para un monje
+0043:II. Para monjes y religiosos. C. Para una monja	Comunes	misal.commune-sanctorum-et-sanctarum-ii-c	title+ref	3	II. Para monjes y religiosos. C. Para una monja
+0043:II. Para monjes y religiosos. D. Para religiosos 1	Comunes	misal.commune-sanctorum-et-sanctarum-ii-d-1	title+ref	2	II. Para monjes y religiosos. D. Para religiosos 1
+0043:II. Para monjes y religiosos. D. Para religiosos 2	Comunes	misal.commune-sanctorum-et-sanctarum-ii-d-2	title+ref	4	II. Para monjes y religiosos. D. Para religiosos 2
+0043:III. Para santos que practicaron obras de misericordia	Comunes	misal.commune-sanctorum-et-sanctarum-iii	title+ref	3	III. Para santos que practicaron obras de misericordia
+0043:IV. Para educadores	Comunes	misal.commune-sanctorum-et-sanctarum-iv	title+ref	4	IV. Para educadores
+0043:V. Para santas mujeres 1	Comunes	misal.commune-sanctorum-et-sanctarum-v-1	title+ref	3	V. Para santas mujeres 1
+0043:V. Para santas mujeres 2	Comunes	misal.commune-sanctorum-et-sanctarum-v-2	title+ref	2	V. Para santas mujeres 2
+0043:I. Fuera del tiempo pascual A. Para varios mártires 1	Comunes	misal.commune-martyrum-i-a-1	title+ref	1	I. Fuera del tiempo pascual A. Para varios mártires 1
+0043:I. Fuera del tiempo pascual A. Para varios mártires 2	Comunes	misal.commune-martyrum-i-a-2	title+ref	4	I. Fuera del tiempo pascual A. Para varios mártires 2
+0043:I. Fuera del tiempo pascual A. Para varios mártires 3	Comunes	misal.commune-martyrum-i-a-3	title+ref	4	I. Fuera del tiempo pascual A. Para varios mártires 3
+0043:I. Fuera del tiempo pascual A. Para varios mártires 4	Comunes	misal.commune-martyrum-i-a-4	title+ref	3	I. Fuera del tiempo pascual A. Para varios mártires 4
+0043:I. Fuera del tiempo pascual A. Para varios mártires 5	Comunes	misal.commune-martyrum-i-a-5	title+ref	3	I. Fuera del tiempo pascual A. Para varios mártires 5
+0043:I. Fuera del tiempo pascual B. Para un mártir 1	Comunes	misal.commune-martyrum-i-b-1	title+ref	3	I. Fuera del tiempo pascual B. Para un mártir 1
+0043:I. Fuera del tiempo pascual B. Para un mártir 2	Comunes	misal.commune-martyrum-i-b-2	collect-read	3	I. Fuera del tiempo pascual B. Para un mártir 2
+0043:II. Tiempo pascual A. Para varios mártires 1	Comunes	misal.commune-martyrum-ii-a-1	title+ref	4	II. Tiempo pascual A. Para varios mártires 1
+0043:II. Tiempo pascual A. Para varios mártires 2	Comunes	misal.commune-martyrum-ii-a-2	title+ref	6	II. Tiempo pascual A. Para varios mártires 2
+0043:III. Para mártires misioneros. A. Para varios	Comunes	misal.commune-martyrum-iii-a	title+ref	3	III. Para mártires misioneros. A. Para varios
+0043:III. Para mártires misioneros. B. Para un mártir misionero	Comunes	misal.commune-martyrum-iii-b	title+ref	2	III. Para mártires misioneros. B. Para un mártir misionero
+0043:IV. Para una virgen mártir.	Comunes	misal.commune-martyrum-iv	title+ref	1	IV. Para una virgen mártir.
+0043:V. Para una santa mujer mártir	Comunes	misal.commune-martyrum-v	title+ref	1	V. Para una santa mujer mártir
+0043:I. Para un Papa o para un obispo 1	Comunes	misal.commune-pastorum-i-1	title+ref	2	I. Para un Papa o para un obispo 1
+0043:I. Para un Papa o para un obispo 2	Comunes	misal.commune-pastorum-i-2	title+ref	2	I. Para un Papa o para un obispo 2
+0043:II. Para un obispo 1	Comunes	misal.commune-pastorum-ii-1	title+ref	4	II. Para un obispo 1
+0043:II. Para un obispo 2	Comunes	misal.commune-pastorum-ii-2	title+ref	4	II. Para un obispo 2
+0043:III. Pastores. A. Para varios pastores	Comunes	misal.commune-pastorum-iii-a	title+ref	3	III. Pastores. A. Para varios pastores
+0043:III. Pastores. B. Para un pastor 1	Comunes	misal.commune-pastorum-iii-b-1	title+ref	3	III. Pastores. B. Para un pastor 1
+0043:III. Pastores. B. Para un pastor 2	Comunes	misal.commune-pastorum-iii-b-2	title	0	III. Pastores. B. Para un pastor 2
+0043:IV. Fundadores de Iglesias A. Para un fundador	Comunes	misal.commune-pastorum-iv-a	title+ref	3	IV. Fundadores de Iglesias A. Para un fundador
+0043:IV. Fundadores de Iglesias B. Para varios fundadores	Comunes	misal.commune-pastorum-iv-b	title+ref	2	IV. Fundadores de Iglesias B. Para varios fundadores
+0043:V. Para misioneros 1	Comunes	misal.commune-pastorum-v-1	title+ref	3	V. Para misioneros 1
+0043:V. Para misioneros 2	Comunes	misal.commune-pastorum-v-2	title+ref	3	V. Para misioneros 2
+0043:V. Para misioneros 3	Comunes	misal.commune-pastorum-v-3	title+ref	3	V. Para misioneros 3
+0043:I. Para varias vírgenes	Comunes	misal.commune-virginum-i	title+ref	4	I. Para varias vírgenes
+0043:II. Para una virgen 1	Comunes	misal.commune-virginum-ii-1	title+ref	2	II. Para una virgen 1
+0043:II. Para una virgen 2	Comunes	misal.commune-virginum-ii-2	title+ref	1	II. Para una virgen 2
+0043:II. Para una virgen 3	Comunes	misal.commune-virginum-ii-3	title+ref	2	II. Para una virgen 3
+0045:1. Por la Iglesia. A	Diversas	misal.missa-pro-variis-necessitatibus-1-a	title+ref	1	1. Por la Iglesia. A
+0045:1. Por la Iglesia. B	Diversas	misal.missa-pro-variis-necessitatibus-1-b	title+ref	3	1. Por la Iglesia. B
+0045:1. Por la Iglesia. C	Diversas	misal.missa-pro-variis-necessitatibus-1-c	title+ref	2	1. Por la Iglesia. C
+0045:1. Por la Iglesia. D	Diversas	misal.missa-pro-variis-necessitatibus-1-d	title+ref	1	1. Por la Iglesia. D
+0045:1. Por la Iglesia. E. Por la Iglesia local	Diversas	misal.missa-pro-variis-necessitatibus-1-e-pro-ecclesia-particulari	title+ref	1	1. Por la Iglesia. E. Por la Iglesia local
+0045:2. Por el Papa	Diversas	misal.missa-pro-variis-necessitatibus-2	title+ref	2	2. Por el Papa
+0045:3. Por el obispo	Diversas	misal.missa-pro-variis-necessitatibus-3	title+ref	2	3. Por el obispo
+0045:4. Para elegir un papa o un obispo	Diversas	misal.missa-pro-variis-necessitatibus-4	title+ref	2	4. Para elegir un papa o un obispo
+0045:5. Por el concilio o el sínodo	Diversas	misal.missa-pro-variis-necessitatibus-5	title+ref	1	5. Por el concilio o el sínodo
+0045:6. Por los sacerdotes	Diversas	misal.missa-pro-variis-necessitatibus-6	title+ref	2	6. Por los sacerdotes
+0045:7. Por el propio sacerdote. A	Diversas	misal.missa-pro-variis-necessitatibus-7-a	title+ref	1	7. Por el propio sacerdote. A
+0045:7. Por el propio sacerdote. B	Diversas	misal.missa-pro-variis-necessitatibus-7-b	title+ref	1	7. Por el propio sacerdote. B
+0045:7. Por el propio sacerdote. C	Diversas	misal.missa-pro-variis-necessitatibus-7-c-in-anniversario-propriae-ordinationis	title+ref	1	7. Por el propio sacerdote. C
+0045:8. Por los ministros de la Iglesia	Diversas	misal.missa-pro-variis-necessitatibus-8	title+ref	2	8. Por los ministros de la Iglesia
+0045:9. Por las vocaciones a las sagradas Órdenes	Diversas	misal.missa-pro-variis-necessitatibus-9	title+ref	2	9. Por las vocaciones a las sagradas Órdenes
+0045:10. Por los laicos	Diversas	misal.missa-pro-variis-necessitatibus-10	title+ref	3	10. Por los laicos
+0045:11.A En el aniversario del matrimonio	Diversas	misal.missa-pro-variis-necessitatibus-11-a-in-anniversario	title	0	11.A En el aniversario del matrimonio
+0045:11.B En el XXV aniversario del matrimonio (bodas de plata)	Diversas	misal.missa-pro-variis-necessitatibus-11-b-in-xxv-anniversario	title	0	11.B En el XXV aniversario del matrimonio (bodas de plata)
+0045:11.C En el L aniversario del matrimonio (bodas de oro)	Diversas	misal.missa-pro-variis-necessitatibus-11-c-in-l-anniversario	title	0	11.C En el L aniversario del matrimonio (bodas de oro)
+0045:12. Por la familia	Diversas	misal.missa-pro-variis-necessitatibus-12	title+ref	2	12. Por la familia
+0045:13. Por los religiosos	Diversas	misal.missa-pro-variis-necessitatibus-13-a	title+ref	2	13. Por los religiosos
+0045:14. Por las vocaciones a la vida religiosa	Diversas	misal.missa-pro-variis-necessitatibus-14	title+ref	1	14. Por las vocaciones a la vida religiosa
+0045:15. Para fomentar la concordia	Diversas	misal.missa-pro-variis-necessitatibus-15	title+ref	2	15. Para fomentar la concordia
+0045:16. Para la reconciliación	Diversas	misal.missa-pro-variis-necessitatibus-16	title+ref	2	16. Para la reconciliación
+0045:17.A Por la unidad de los cristianos	Diversas	misal.missa-pro-variis-necessitatibus-17-a	title+ref	1	17.A Por la unidad de los cristianos
+0045:17.B Por la unidad de los cristianos	Diversas	misal.missa-pro-variis-necessitatibus-17-b	title+ref	2	17.B Por la unidad de los cristianos
+0045:17.C Por la unidad de los cristianos	Diversas	misal.missa-pro-variis-necessitatibus-17-c	title+ref	2	17.C Por la unidad de los cristianos
+0045:18.A Para la evangelización de los pueblos	Diversas	misal.missa-pro-variis-necessitatibus-18-a	title+ref	2	18.A Para la evangelización de los pueblos
+0045:18.B Por la evangelización de los pueblos	Diversas	misal.missa-pro-variis-necessitatibus-18-b	title+ref	3	18.B Por la evangelización de los pueblos
+0045:Por la nueva evangelización	Diversas	misal.missa-pro-variis-necessitatibus-pro-nova-evangelizatione	particular	2	Por la nueva evangelización
+0045:19. Por los cristianos perseguidos	Diversas	misal.missa-pro-variis-necessitatibus-19	title+ref	3	19. Por los cristianos perseguidos
+0045:20. En una reunión espiritual o pastoral	Diversas	misal.missa-pro-variis-necessitatibus-20	title+ref	2	20. En una reunión espiritual o pastoral
+0045:21. Por la patria o por la ciudad	Diversas	misal.missa-pro-variis-necessitatibus-21	title	0	21. Por la patria o por la ciudad
+0045:22. Por los gobernantes	Diversas	misal.missa-pro-variis-necessitatibus-22	title	0	22. Por los gobernantes
+0045:23. Por las asambleas de los gobernantes de las naciones	Diversas	misal.missa-pro-variis-necessitatibus-23	title	0	23. Por las asambleas de los gobernantes de las naciones
+0045:24. Por la máxima autoridad de la nación o el rey	Diversas	misal.missa-pro-variis-necessitatibus-24	title	0	24. Por la máxima autoridad de la nación o el rey
+0045:25. Al comienzo del año civil	Diversas	misal.missa-pro-variis-necessitatibus-25	title+ref	3	25. Al comienzo del año civil
+0045:26.A Por la santificación del trabajo humano	Diversas	misal.missa-pro-variis-necessitatibus-26-a	title+ref	3	26.A Por la santificación del trabajo humano
+0045:26.B Por la santificación del trabajo	Diversas	misal.missa-pro-variis-necessitatibus-26-b	title	3	26.B Por la santificación del trabajo
+0045:27.A En tiempo de siembra	Diversas	misal.missa-pro-variis-necessitatibus-27-a	title+ref	2	27.A En tiempo de siembra
+0045:27.B En el tiempo de la siembra	Diversas	misal.missa-pro-variis-necessitatibus-27-b	title	2	27.B En el tiempo de la siembra
+0045:28. Para después de la cosecha	Diversas	misal.missa-pro-variis-necessitatibus-28	title+ref	2	28. Para después de la cosecha
+0045:29. Por el progreso de los pueblos	Diversas	misal.missa-pro-variis-necessitatibus-29	title+ref	2	29. Por el progreso de los pueblos
+0045:30.A Por la paz y la justicia	Diversas	misal.missa-pro-variis-necessitatibus-30-a	title+ref	2	30.A Por la paz y la justicia
+0045:30.B Por la paz y la justicia	Diversas	misal.missa-pro-variis-necessitatibus-30-b-aliae-orationes-pro-pace	title	2	30.B Por la paz y la justicia
+0045:31. En tiempo de guerra o desorden	Diversas	misal.missa-pro-variis-necessitatibus-31	title+ref	3	31. En tiempo de guerra o desorden
+0045:32. Por los prófugos y los exiliados	Diversas	misal.missa-pro-variis-necessitatibus-32	title+ref	3	32. Por los prófugos y los exiliados
+0045:33.A En tiempo de hambre o por los que padecen hambre	Diversas	misal.missa-pro-variis-necessitatibus-33-a	title+ref	2	33.A En tiempo de hambre o por los que padecen hambre
+0045:33.B En tiempo de hambre	Diversas	misal.missa-pro-variis-necessitatibus-33-b-aliae-orationes-ab-ipsis-esurientibus-dicendae	title	2	33.B En tiempo de hambre
+0045:34. En tiempo de terremoto	Diversas	misal.missa-pro-variis-necessitatibus-34	title	0	34. En tiempo de terremoto
+0045:35. Para pedir la lluvia	Diversas	misal.missa-pro-variis-necessitatibus-35	title	0	35. Para pedir la lluvia
+0045:36. Para pedir el buen tiempo	Diversas	misal.missa-pro-variis-necessitatibus-36	title	0	36. Para pedir el buen tiempo
+0045:37. Para alejar las tempestades	Diversas	misal.missa-pro-variis-necessitatibus-37	title	0	37. Para alejar las tempestades
+0045:38.A Por el perdón de los pecados	Diversas	misal.missa-pro-variis-necessitatibus-38-a	title+ref	1	38.A Por el perdón de los pecados
+0045:38.B Por el perdón de los pecados	Diversas	misal.missa-pro-variis-necessitatibus-38-b	title	0	38.B Por el perdón de los pecados
+0045:39. Para pedir la continencia	Diversas	misal.missa-pro-variis-necessitatibus-39	title	0	39. Para pedir la continencia
+0045:40. Para pedir la caridad	Diversas	misal.missa-pro-variis-necessitatibus-40	title+ref	2	40. Para pedir la caridad
+0045:41. Por los familiares y amigos	Diversas	misal.missa-pro-variis-necessitatibus-41	title+ref	1	41. Por los familiares y amigos
+0045:42. Por los que nos afligen	Diversas	misal.missa-pro-variis-necessitatibus-42	title+ref	2	42. Por los que nos afligen
+0045:43. Por los cautivos	Diversas	misal.missa-pro-variis-necessitatibus-43	title+ref	2	43. Por los cautivos
+0045:44. Por los encarcelados	Diversas	misal.missa-pro-variis-necessitatibus-44	title	0	44. Por los encarcelados
+0045:45. Por los enfermos	Diversas	misal.missa-pro-variis-necessitatibus-45	title+ref	3	45. Por los enfermos
+0045:46. Por los moribundos	Diversas	misal.missa-pro-variis-necessitatibus-46	title+ref	4	46. Por los moribundos
+0045:47. Para pedir la gracia de una buena muerte	Diversas	misal.missa-pro-variis-necessitatibus-47	title+ref	3	47. Para pedir la gracia de una buena muerte
+0045:48.A En cualquier necesidad	Diversas	misal.missa-pro-variis-necessitatibus-48-a	title+ref	1	48.A En cualquier necesidad
+0045:48.B En cualquier necesidad	Diversas	misal.missa-pro-variis-necessitatibus-48-b	title+ref	2	48.B En cualquier necesidad
+0045:48.C En cualquier necesidad	Diversas	misal.missa-pro-variis-necessitatibus-48-c	title	0	48.C En cualquier necesidad
+0045:49.A Para dar gracias a Dios	Diversas	misal.missa-pro-variis-necessitatibus-49-a	title+ref	3	49.A Para dar gracias a Dios
+0045:49.B Para dar gracias a Dios	Diversas	misal.missa-pro-variis-necessitatibus-49-b	title	3	49.B Para dar gracias a Dios
+0045:50. En tiempo de pandemia	Diversas	misal.missa-pro-variis-necessitatibus-in-tempore-pandemiae	particular	2	50. En tiempo de pandemia
+0046:A) Fuera del tiempo pascual	Difuntos	misal.missa-defunctorum-i-a	title+ref	1	En las exequias — A) Fuera del tiempo pascual
+0046:B) Fuera del tiempo pascual	Difuntos	misal.missa-defunctorum-i-b	title+ref	1	En las exequias — B) Fuera del tiempo pascual
+0046:C) En tiempo pascual	Difuntos	misal.missa-defunctorum-i-c	title+ref	2	En las exequias — C) En tiempo pascual
+0046:D) Otras oraciones para la misa exequial	Difuntos	misal.missa-defunctorum-i-d	title	0	D) Otras oraciones para la misa exequial
+0046:A) De un niño bautizado	Difuntos	misal.missa-defunctorum-i-e-1	title+ref	2	A) De un niño bautizado
+0046:B) De un niño aún no bautizado	Difuntos	misal.missa-defunctorum-i-f	title+ref	2	B) De un niño aún no bautizado
+0046:A) Fuera del tiempo pascual	Difuntos	misal.missa-defunctorum-ii-a	title+ref	2	En el aniversario — A) Fuera del tiempo pascual
+0046:B) Fuera del tiempo pascual	Difuntos	misal.missa-defunctorum-ii-b	title	0	En el aniversario — B) Fuera del tiempo pascual
+0046:C) En tiempo pascual	Difuntos	misal.missa-defunctorum-ii-c	title+ref	2	En el aniversario — C) En tiempo pascual
+0046:D) Otras oraciones en el aniversario	Difuntos	misal.missa-defunctorum-ii-d	title	0	D) Otras oraciones en el aniversario
+0046:E) Otras oraciones en el aniversario	Difuntos	misal.missa-defunctorum-ii-e	title	0	E) Otras oraciones en el aniversario
+0046:A) Por un difunto	Difuntos	misal.missa-defunctorum-iii-a-1	title+ref	1	A) Por un difunto
+0046:B) Por un difunto	Difuntos	misal.missa-defunctorum-iii-a-2	title+ref	2	B) Por un difunto
+0046:A. Por un difunto 3. Otras oraciones	Difuntos	misal.missa-defunctorum-iii-a-3	title	0	A. Por un difunto 3. Otras oraciones
+0046:A. Por un difunto 4. Otras oraciones	Difuntos	misal.missa-defunctorum-iii-a-4	title	0	A. Por un difunto 4. Otras oraciones
+0046:A. Por un difunto 5. Otras oraciones	Difuntos	misal.missa-defunctorum-iii-a-5	title	0	A. Por un difunto 5. Otras oraciones
+0046:C) Por varios o por todos los difuntos	Difuntos	misal.missa-defunctorum-iii-b-1	title+ref	1	C) Por varios o por todos los difuntos
+0046:D) Por varios o por todos los difuntos	Difuntos	misal.missa-defunctorum-iii-b-2	title+ref	2	D) Por varios o por todos los difuntos
+0046:E) Por varios o por todos los difuntos	Difuntos	misal.missa-defunctorum-iii-b-3	title+ref	1	E) Por varios o por todos los difuntos
+0046:B. Por varios o por todos los difuntos 4	Difuntos	misal.missa-defunctorum-iii-b-4	title+ref	2	B. Por varios o por todos los difuntos 4
+0046:B. Por varios o por todos los difuntos 5	Difuntos	misal.missa-defunctorum-iii-b-5	title+ref	2	B. Por varios o por todos los difuntos 5
+0046:B. Por varios o por todos los difuntos 6	Difuntos	misal.missa-defunctorum-iii-b-6	title+ref	2	B. Por varios o por todos los difuntos 6
+0046:B. Por varios o por todos los difuntos 7	Difuntos	misal.missa-defunctorum-iii-b-7	title	0	B. Por varios o por todos los difuntos 7
+0046:B. Por varios o por todos los difuntos 8	Difuntos	misal.missa-defunctorum-iii-b-8	title	0	B. Por varios o por todos los difuntos 8
+0046:B. Por varios o por todos los difuntos 9	Difuntos	misal.missa-defunctorum-iii-b-9	title	0	B. Por varios o por todos los difuntos 9
+0046:Por el Papa A	Difuntos	misal.missa-defunctorum-iv-1-a	title	0	Por el Papa A
+0046:Por el Papa B	Difuntos	misal.missa-defunctorum-iv-1-b	title	0	Por el Papa B
+0046:Por el Papa C	Difuntos	misal.missa-defunctorum-iv-1-c	title	0	Por el Papa C
+0046:Por un obispo (el de la diócesis)	Difuntos	misal.missa-defunctorum-iv-2-a	title	0	Por un obispo (el de la diócesis)
+0046:Por un obispo	Difuntos	misal.missa-defunctorum-iv-2-b	title	0	Por un obispo
+0046:Por un sacerdote A	Difuntos	misal.missa-defunctorum-iv-3-a	title	0	Por un sacerdote A
+0046:Por un sacerdote B	Difuntos	misal.missa-defunctorum-iv-3-b	title	0	Por un sacerdote B
+0046:Por un diácono	Difuntos	misal.missa-defunctorum-iv-4	title	0	Por un diácono
+0046:Por los padres	Difuntos	misal.missa-defunctorum-iv-11	title	0	Por los padres
+0046:Por los hermanos, parientes y bienhechores difuntos	Difuntos	misal.missa-defunctorum-iv-12	title	0	Por los hermanos, parientes y bienhechores difuntos
+0071:Día de acción de gracias	Santos			2	Día de acción de gracias
+0071:Otra misa para el día de acción de gracias	Santos			2	Otra misa para el día de acción de gracias
+0071:Día penitencial	Santos			2	Día penitencial
+0071:Día de petición por la actividad humana	Santos			2	Día de petición por la actividad humana
+0071:Otra misa para el día de petición	Santos			2	Otra misa para el día de petición
+0082:Por el Papa	Diversas			0	Por el Papa
+0082:Por el Obispo	Diversas			0	Por el Obispo
+0082:Por el concilio o el sínodo	Diversas			0	Por el concilio o el sínodo
+0082:Por los sacerdotes	Diversas			0	Por los sacerdotes
+0082:Por los sacerdotes#2	Diversas			0	Por los sacerdotes
+0082:En los aniversarios del matrimonio	Diversas			0	En los aniversarios del matrimonio
+0082:Por las vocaciones a la vida religiosa	Diversas			0	Por las vocaciones a la vida religiosa
+0082:Para fomentar la concordia	Diversas			0	Para fomentar la concordia
+0082:Para la reconciliación	Diversas			0	Para la reconciliación
+0082:Por la unidad de los cristianos	Diversas			0	Por la unidad de los cristianos
+0082:Por la evangelización de los pueblos	Diversas			0	Por la evangelización de los pueblos
+0082:En una reunión espiritual o pastoral	Diversas			0	En una reunión espiritual o pastoral
+0082:Al comienzo del año civil	Diversas			0	Al comienzo del año civil
+0082:Por la santificación del trabajo humano	Diversas			0	Por la santificación del trabajo humano
+0082:Para después de la cosecha	Diversas			0	Para después de la cosecha
+0082:Por la paz y la justicia	Diversas			0	Por la paz y la justicia
+0082:En tiempo de guerra o desorden	Diversas			0	En tiempo de guerra o desorden
+0082:Por el perdón de los pecados	Diversas			0	Por el perdón de los pecados
+0082:Por los enfermos	Diversas			0	Por los enfermos
+0082:Por los moribundos	Diversas			0	Por los moribundos
+0082:En cualquier necesidad	Diversas			0	En cualquier necesidad
+0074:Padre misericordioso, te pedimos humildemente	Plegarias eucarísticas	misal.ordo-missae.84	ep-content	0	Plegaria eucarística I — «Te igitur, clementissime Pater» = «Padre misericordioso, te pedimos humildemente»
+0074:Acuérdate, Señor, de tus hijos	Plegarias eucarísticas	misal.ordo-missae.85	ep-content	0	Plegaria eucarística I — «Memento, Domine, famulorum famularumque tuarum» = «Acuérdate, Señor, de tus hijos»
+0074:Reunidos en comunión con toda la Iglesia	Plegarias eucarísticas	misal.ordo-missae.86	ep-content	0	Plegaria eucarística I — «Communicantes, et memoriam venerantes» = «Reunidos en comunión con toda la Iglesia»
+0074:Acepta, Señor, en tu bondad	Plegarias eucarísticas	misal.ordo-missae.87	ep-content	0	Plegaria eucarística I — «Hanc igitur oblationem servitutis nostrae» = «Acepta, Señor, en tu bondad»
+0074:Bendice y santifica esta ofrenda	Plegarias eucarísticas	misal.ordo-missae.88	ep-content	0	Plegaria eucarística I — «Quam oblationem tu, Deus» = «Bendice y santifica esta ofrenda»
+0074:El cual, la víspera de su Pasión	Plegarias eucarísticas	misal.ordo-missae.89	ep-content	0	Plegaria eucarística I — «Qui, pridie quam pateretur» = «El cual, la víspera de su Pasión»
+0074:Del mismo modo, acabada la cena	Plegarias eucarísticas	misal.ordo-missae.90	ep-content	0	Plegaria eucarística I — «Simili modo, postquam cenatum est» = «Del mismo modo, acabada la cena»
+0074:Este es el Misterio de la fe	Plegarias eucarísticas	misal.ordo-missae.91	ep-content	0	Plegaria eucarística I — «Mysterium fidei» = «Este es el Misterio de la fe»
+0074:Por eso, Padre, nosotros, tus siervos	Plegarias eucarísticas	misal.ordo-missae.92	ep-content	0	Plegaria eucarística I — «Unde et memores, Domine, nos servi tui» = «Por eso, Padre, nosotros, tus siervos»
+0074:Mira con ojos de bondad esta ofrenda	Plegarias eucarísticas	misal.ordo-missae.93	ep-content	0	Plegaria eucarística I — «Supra quae propitio ac sereno vultu» = «Mira con ojos de bondad esta ofrenda»
+0074:Te pedimos humildemente, Dios todopoderoso	Plegarias eucarísticas	misal.ordo-missae.94	ep-content	0	Plegaria eucarística I — «Supplices te rogamus, omnipotens Deus» = «Te pedimos humildemente, Dios todopoderoso»
+0074:Acuérdate también, Señor, de tus hijos	Plegarias eucarísticas	misal.ordo-missae.95	ep-content	0	Plegaria eucarística I — «Memento etiam, Domine, famulorum» = «Acuérdate también, Señor, de tus hijos»
+0074:Y a nosotros, pecadores, siervos tuyos	Plegarias eucarísticas	misal.ordo-missae.96	ep-content	0	Plegaria eucarística I — «Nobis quoque peccatoribus famulis tuis» = «Y a nosotros, pecadores, siervos tuyos»
+0074:Por quien sigues creando todos los bienes	Plegarias eucarísticas	misal.ordo-missae.97	ep-content	0	Plegaria eucarística I — «Per quem haec omnia, Domine» = «Por quien sigues creando todos los bienes»
+0074:En verdad es justo y necesario, es nuestro deber y salvación	Plegarias eucarísticas	misal.ordo-missae.99	ep-content	0	Plegaria eucarística II — «Vere dignum et iustum est, aequum et salutare, nos tibi, sancte Pater» = «En verdad es justo y necesario, es nuestro deber y salvació
+0074:Santo eres en verdad, Señor, fuente de toda santidad	Plegarias eucarísticas	misal.ordo-missae.100	ep-content	0	Plegaria eucarística II — «Vere Sanctus es, Domine, fons omnis sanctitatis» = «Santo eres en verdad, Señor, fuente de toda santidad»
+0074:El cual, cuando iba a ser entregado a su Pasión	Plegarias eucarísticas	misal.ordo-missae.102	ep-content	0	Plegaria eucarística II — «Qui cum Passioni voluntarie traderetur» = «El cual, cuando iba a ser entregado a su Pasión»
+0074:Del mismo modo, acabada la cena, tomó el cáliz	Plegarias eucarísticas	misal.ordo-missae.103	ep-content	0	Plegaria eucarística II — «accipiens et calicem, iterum tibi gratias agens» = «Del mismo modo, acabada la cena, tomó el cáliz»
+0074:Este es el Misterio de la fe	Plegarias eucarísticas	misal.ordo-missae.104	ep-content	0	Plegaria eucarística II — «Mysterium fidei» = «Este es el Misterio de la fe»
+0074:Así, pues, Padre, al celebrar ahora el memorial de la muerte	Plegarias eucarísticas	misal.ordo-missae.105	ep-content	0	Plegaria eucarística II — «Memores igitur mortis et resurrectionis eius» = «Así, pues, Padre, al celebrar ahora el memorial de la muerte y resurrección de tu Hi
+0074:por eso te pedimos que santifiques estos dones con la efusió	Plegarias eucarísticas			0	Plegaria eucarística II — misal.ordo-missae.101 inside misal.ordo-missae.100: «Haec ergo dona, quaesumus, Spiritus tui rore sanctifica» = «por eso te pedimos qu
+0074:Santo eres en verdad, Padre, y con razón te alaban	Plegarias eucarísticas	misal.ordo-missae.108	ep-content	0	Plegaria eucarística III — «Vere Sanctus es, Domine, et merito te laudat» = «Santo eres en verdad, Padre, y con razón te alaban»
+0074:Por eso, Padre, te suplicamos	Plegarias eucarísticas	misal.ordo-missae.109	ep-content	0	Plegaria eucarística III — «Supplices ergo te, Domine, deprecamur» = «Por eso, Padre, te suplicamos»
+0074:Porque él mismo, la noche en que iba a ser entregado	Plegarias eucarísticas	misal.ordo-missae.110	ep-content	0	Plegaria eucarística III — «Ipse enim in qua nocte tradebatur» = «Porque él mismo, la noche en que iba a ser entregado»
+0074:Del mismo modo, acabada la cena	Plegarias eucarísticas	misal.ordo-missae.111	ep-content	0	Plegaria eucarística III — «Simili modo, postquam cenatum est» = «Del mismo modo, acabada la cena»
+0074:Este es el Misterio de la fe	Plegarias eucarísticas	misal.ordo-missae.112	ep-content	0	Plegaria eucarística III — «Mysterium fidei» = «Este es el Misterio de la fe»
+0074:Así, pues, Padre, al celebrar ahora el memorial de la pasión	Plegarias eucarísticas	misal.ordo-missae.113	ep-content	0	Plegaria eucarística III — «Memores igitur, Domine, eiusdem Filii tui» = «Así, pues, Padre, al celebrar ahora el memorial de la pasión salvadora»
+0074:En verdad es justo darte gracias	Plegarias eucarísticas	misal.ordo-missae.116	ep-content	0	Plegaria eucarística IV — «Vere dignum est tibi gratias agere, vere iustum est te glorificare» = «En verdad es justo darte gracias»
+0074:Te alabamos, Padre santo	Plegarias eucarísticas	misal.ordo-missae.117	ep-content	0	Plegaria eucarística IV — «Confitemur tibi, Pater sancte» = «Te alabamos, Padre santo»
+0074:Por eso, Padre, te rogamos que este mismo Espíritu	Plegarias eucarísticas	misal.ordo-missae.118	ep-content	0	Plegaria eucarística IV — «Quaesumus igitur, Domine, ut idem Spiritus Sanctus» = «Por eso, Padre, te rogamos que este mismo Espíritu»
+0074:Porque él mismo, llegada la hora	Plegarias eucarísticas	misal.ordo-missae.119	ep-content	0	Plegaria eucarística IV — «Ipse enim, cum hora venisset» = «Porque él mismo, llegada la hora»
+0074:Del mismo modo, tomó el cáliz lleno del fruto de la vid	Plegarias eucarísticas	misal.ordo-missae.120	ep-content	0	Plegaria eucarística IV — «accipiens calicem, ex genimine vitis repletum» = «Del mismo modo, tomó el cáliz lleno del fruto de la vid»
+0074:Este es el Misterio de la fe	Plegarias eucarísticas	misal.ordo-missae.121	ep-content	0	Plegaria eucarística IV — «Mysterium fidei» = «Este es el Misterio de la fe»
+0074:Por eso, Padre, al celebrar ahora el memorial de nuestra red	Plegarias eucarísticas	misal.ordo-missae.122	ep-content	0	Plegaria eucarística IV — «Unde et nos, Domine, redemptionis nostrae memoriale» = «Por eso, Padre, al celebrar ahora el memorial de nuestra redención»
+0074:I. La Iglesia en camino hacia la unidad	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-i	ep-content	0	«Ecclesia in viam unitatis progrediens» = «I. La Iglesia en camino hacia la unidad»
+0074:La siguiente forma de esta Plegaria eucarística puede usarse	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-i.1	ep-content	0	I. La Iglesia en camino hacia la unidad — «Sequens forma huius Precis eucharisticae convenienter adhibetur» = «La siguiente forma de esta Plegaria eucarística p
+0074:Santo eres en verdad y digno de gloria	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-i.2	ep-content	0	I. La Iglesia en camino hacia la unidad — «Vere Sanctus es et glorificandus» = «Santo eres en verdad y digno de gloria»
+0074:Por eso te rogamos, Padre misericordioso	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-i.3	ep-content	0	I. La Iglesia en camino hacia la unidad — «Rogamus ergo te, Pater clementissime» = «Por eso te rogamos, Padre misericordioso»
+0074:Él mismo, la víspera de su Pasión, en la noche de la Última 	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-i.4	ep-content	0	I. La Iglesia en camino hacia la unidad — «Qui pridie quam pateretur, in supremae nocte Cenae» = «Él mismo, la víspera de su Pasión, en la noche de la Última Ce
+0074:Del mismo modo, acabada la cena	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-i.5	ep-content	0	I. La Iglesia en camino hacia la unidad — «Simili modo, postquam cenatum est» = «Del mismo modo, acabada la cena»
+0074:Este es el Misterio de la fe	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-i.6	ep-content	0	I. La Iglesia en camino hacia la unidad — «Mysterium fidei» = «Este es el Misterio de la fe»
+0074:Por eso, Padre Santo, al celebrar el memorial de Cristo	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-i.7	ep-content	0	I. La Iglesia en camino hacia la unidad — «Unde et nos, Pater sancte, memores Christi Filii tui» = «Por eso, Padre Santo, al celebrar el memorial de Cristo»
+0074:II. Dios guía a su Iglesia por el camino de salvación	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-ii	ep-content	0	«Deus Ecclesiam suam in viam salutis conducens» = «II. Dios guía a su Iglesia por el camino de salvación»
+0074:La siguiente forma de esta Plegaria eucarística puede usarse	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-ii.1	ep-content	0	II. Dios guía a su Iglesia por el camino de salvación — «Sequens forma huius Precis eucharisticae convenienter adhibetur» = «La siguiente forma de esta Plegaria
+0074:Santo eres en verdad y digno de gloria	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-ii.2	ep-content	0	II. Dios guía a su Iglesia por el camino de salvación — «Vere Sanctus es et glorificandus» = «Santo eres en verdad y digno de gloria»
+0074:Por eso te rogamos, Padre misericordioso	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-ii.3	ep-content	0	II. Dios guía a su Iglesia por el camino de salvación — «Rogamus ergo te, Pater clementissime» = «Por eso te rogamos, Padre misericordioso»
+0074:Él mismo, la víspera de su Pasión, en la noche de la Última 	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-ii.4	ep-content	0	II. Dios guía a su Iglesia por el camino de salvación — «Qui pridie quam pateretur, in supremae nocte Cenae» = «Él mismo, la víspera de su Pasión, en la noche d
+0074:Del mismo modo, acabada la cena	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-ii.5	ep-content	0	II. Dios guía a su Iglesia por el camino de salvación — «Simili modo, postquam cenatum est» = «Del mismo modo, acabada la cena»
+0074:Este es el Misterio de la fe	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-ii.6	ep-content	0	II. Dios guía a su Iglesia por el camino de salvación — «Mysterium fidei» = «Este es el Misterio de la fe»
+0074:Por eso, Padre Santo, al celebrar el memorial de Cristo	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-ii.7	ep-content	0	II. Dios guía a su Iglesia por el camino de salvación — «Unde et nos, Pater sancte, memores Christi Filii tui» = «Por eso, Padre Santo, al celebrar el memorial 
+0074:III. Jesús, camino hacia el Padre	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iii	ep-content	0	«Iesus via ad Patrem» = «III. Jesús, camino hacia el Padre»
+0074:La siguiente forma de esta Plegaria eucarística puede usarse	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iii.1	ep-content	0	III. Jesús, camino hacia el Padre — «Sequens forma huius Precis eucharisticae convenienter adhibetur» = «La siguiente forma de esta Plegaria eucarística puede u
+0074:Santo eres en verdad y digno de gloria	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iii.2	ep-content	0	III. Jesús, camino hacia el Padre — «Vere Sanctus es et glorificandus» = «Santo eres en verdad y digno de gloria»
+0074:Por eso te rogamos, Padre misericordioso	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iii.3	ep-content	0	III. Jesús, camino hacia el Padre — «Rogamus ergo te, Pater clementissime» = «Por eso te rogamos, Padre misericordioso»
+0074:Él mismo, la víspera de su pasión, en la noche de la Última 	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iii.4	ep-content	0	III. Jesús, camino hacia el Padre — «Qui pridie quam pateretur, in supremae nocte Cenae» = «Él mismo, la víspera de su pasión, en la noche de la Última Cena»
+0074:Del mismo modo, acabada la cena	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iii.5	ep-content	0	III. Jesús, camino hacia el Padre — «Simili modo, postquam cenatum est» = «Del mismo modo, acabada la cena»
+0074:Este es el Misterio de la fe	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iii.6	ep-content	0	III. Jesús, camino hacia el Padre — «Mysterium fidei» = «Este es el Misterio de la fe»
+0074:Por eso, Padre Santo, al celebrar el memorial de Cristo	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iii.7	ep-content	0	III. Jesús, camino hacia el Padre — «Unde et nos, Pater sancte, memores Christi Filii tui» = «Por eso, Padre Santo, al celebrar el memorial de Cristo»
+0074:IV. Jesús, que pasó haciendo el bien	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iv	ep-content	0	«Iesus pertransiens benefaciendo» = «IV. Jesús, que pasó haciendo el bien»
+0074:La siguiente forma de esta Plegaria eucarística puede usarse	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iv.1	ep-content	0	IV. Jesús, que pasó haciendo el bien — «Sequens forma huius Precis eucharisticae convenienter adhibetur» = «La siguiente forma de esta Plegaria eucarística pued
+0074:Santo eres en verdad y digno de gloria	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iv.2	ep-content	0	IV. Jesús, que pasó haciendo el bien — «Vere Sanctus es et glorificandus» = «Santo eres en verdad y digno de gloria»
+0074:Por eso te rogamos, Padre misericordioso	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iv.3	ep-content	0	IV. Jesús, que pasó haciendo el bien — «Rogamus ergo te, Pater clementissime» = «Por eso te rogamos, Padre misericordioso»
+0074:Él mismo, la víspera de su Pasión, en la noche de la Última 	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iv.4	ep-content	0	IV. Jesús, que pasó haciendo el bien — «Qui pridie quam pateretur, in supremae nocte Cenae» = «Él mismo, la víspera de su Pasión, en la noche de la Última Cena»
+0074:Del mismo modo, acabada la cena	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iv.5	ep-content	0	IV. Jesús, que pasó haciendo el bien — «Simili modo, postquam cenatum est» = «Del mismo modo, acabada la cena»
+0074:Este es el Misterio de la fe	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iv.6	ep-content	0	IV. Jesús, que pasó haciendo el bien — «Mysterium fidei» = «Este es el Misterio de la fe»
+0074:Por eso, Padre Santo, al celebrar el memorial de Cristo	Plegarias eucarísticas	misal.prex-eucharistica-quae-in-missis-pro-variis-necessitatibus-adhiberi-potest-iv.7	ep-content	0	IV. Jesús, que pasó haciendo el bien — «Unde et nos, Pater sancte, memores Christi Filii tui» = «Por eso, Padre Santo, al celebrar el memorial de Cristo»
+0074:Plegaria eucarística «De la reconciliación» I	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-i	ep-content	0	«PRECES EUCHARISTICAE DE RECONCILIATIONE I» = «Plegaria eucarística «De la reconciliación» I»
+0074:En verdad es justo y necesario darte gracias siempre	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-i.1	ep-content	0	Plegaria eucarística «De la reconciliación» I — «Vere dignum et iustum est nos tibi semper gratias agere» = «En verdad es justo y necesario darte gracias siempr
+0074:Santo eres en verdad, Señor, que desde el principio del mund	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-i.2	ep-content	0	Plegaria eucarística «De la reconciliación» I — «Vere Sanctus es, Domine, qui ab origine mundi» = «Santo eres en verdad, Señor, que desde el principio del mundo
+0074:Te pedimos que mires los dones de tu pueblo	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-i.3	ep-content	0	Plegaria eucarística «De la reconciliación» I — «Respice, quaesumus, munera populi tui» = «Te pedimos que mires los dones de tu pueblo»
+0074:Mientras comía con ellos, tomó pan	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-i.4	ep-content	0	Plegaria eucarística «De la reconciliación» I — «Convescens autem» = «Mientras comía con ellos, tomó pan»
+0074:Del mismo modo, acabada la cena, sabiendo que iba a reconcil	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-i.5	ep-content	0	Plegaria eucarística «De la reconciliación» I — «Similiter, postquam cenatum est, sciens se omnia in seipso reconciliaturum» = «Del mismo modo, acabada la cena,
+0074:Este es el Misterio de la fe	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-i.6	ep-content	0	Plegaria eucarística «De la reconciliación» I — «Mysterium fidei» = «Este es el Misterio de la fe»
+0074:Así, al celebrar el memorial de tu Hijo Jesucristo	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-i.7	ep-content	0	Plegaria eucarística «De la reconciliación» I — «Memores igitur Filii tui Iesu Christi, qui Pascha nostrum est» = «Así, al celebrar el memorial de tu Hijo Jesuc
+0074:Plegaria eucarística «De la reconciliación» II	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-ii	ep-content	0	«PREX EUCHARISTICA DE RECONCILIATIONE II» = «Plegaria eucarística «De la reconciliación» II»
+0074:En verdad es justo y necesario darte gracias y alabarte	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-ii.1	ep-content	0	Plegaria eucarística «De la reconciliación» II — «Vere dignum et iustum est nos tibi gratias agere atque laudes persolvere» = «En verdad es justo y necesario da
+0074:A ti, Padre omnipotente, te bendecimos	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-ii.2	ep-content	0	Plegaria eucarística «De la reconciliación» II — «Te igitur, Pater omnipotens, benedicimus» = «A ti, Padre omnipotente, te bendecimos»
+0074:Y ahora, celebrando la reconciliación	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-ii.3	ep-content	0	Plegaria eucarística «De la reconciliación» II — «Et nunc reconciliationem a Christo nobis allatam celebrantes» = «Y ahora, celebrando la reconciliación»
+0074:Porque él mismo, cuando iba a entregar su vida	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-ii.4	ep-content	0	Plegaria eucarística «De la reconciliación» II — «Ipse enim, vitam cum esset daturus» = «Porque él mismo, cuando iba a entregar su vida»
+0074:Del mismo modo, aquella noche	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-ii.5	ep-content	0	Plegaria eucarística «De la reconciliación» II — «Simili modo vespere illo» = «Del mismo modo, aquella noche»
+0074:Este es el Misterio de la fe	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-ii.6	ep-content	0	Plegaria eucarística «De la reconciliación» II — «Mysterium fidei» = «Este es el Misterio de la fe»
+0074:Así, al celebrar el memorial de la muerte y resurrección de 	Plegarias eucarísticas	misal.prex-eucharistica-de-reconciliatione-ii.7	ep-content	0	Plegaria eucarística «De la reconciliación» II — «Memoriam igitur agentes Filii tui mortis et resurrectionis» = «Así, al celebrar el memorial de la muerte y res

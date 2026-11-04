@@ -1,0 +1,45 @@
+---
+title: "St. Sabbas"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Michael Ott"
+signed: "MICHAEL OTT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Sabbas"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-sabbas} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Sabaoth"
+next: "Sabbatarians, Sabbatarianism"
+entry-type: "article"
+characters: 2038
+words: 346
+links: 0
+images: 0
+---
+
+# St. Sabbas {#cathen.st-sabbas}
+
+(*Also spelled* Sabas).
+
+Hermit, born at Mutalaska near Caesarea in Cappadocia, 439; died in his laura 5 December, 532. He entered a Basilian monastery aat the age of eight, came to Jerusalem in 456, lived five years in a cavern as a disciple of St. Euthymius, and, after spending some time in various monasteries, founded (483) the Laura Mar Sabe (restored in 1840) in the gorges of the Cedron, southeast of Jerusalem. Because some of his monks opposed his rule and demanded a priest as their abbot, Patriarch Salustius of Jerusalem ordained him in 491 and appointed archimandrite of all the monasteries in Palestine in 494. The opposition continued and he withdrew to the new laura which he had built near Thekoa. A strenuous opponent of the Monophysites and the Origenists he tried to influence the emperors against them by calling personally on Emperor Anastasius at Constantinople in 511 and on Justinian in 531. His authorship of "Typicon S. Sabæ" (Venice, 1545), a regulation for Divine worship throughout the year as well as his authorship of a monastic rule bearing the same title (Kurtz in "Byzant, Zeitschrift", III, Leipzig, 1894, 167-70), is doubtful. After him was named the Basilica of St. Sabas with its former monastery on the Aventine at Rome. His feast is on 5 December. Other saints of this name are:
+
+- St. Sabbas, a Goth, martyred 12 April, 372, by being drowned in the Musæus, a tributary of the Danube;
+
+- St. Sabbas, also a Goth, martyred with about seventy others at Rome, under Aurelian;
+
+- St. Julianus Sabbas, a hermit near Edessa, d. about 380;
+
+- St. Sabbas the Younger, a Basilian abbot, 6 February, 990 or 991, at the monastery of St. Caesarius in Rome;
+
+- St. Sabbas, Archbishop of Serbia, d. at Trnawa, 14 January, 1237.
+
+A Life in Greek by Cyril of Scythopolis was edited by Cotelier in *Eccl. Graecae Monum.*, III (Paris, 1686) 220-376, and by Ponjalovskij together with an Old-Slavonian version (St. Petersburg, 1890); another old Life in Greek was edited by Koiklydes (Jerusalem, 1905).
+
+MICHAEL OTT

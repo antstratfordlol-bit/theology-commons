@@ -1,0 +1,35 @@
+---
+title: "Diocese of San Severino"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Umberto Benigni"
+signed: "U. BENIGNI"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Diocese_of_San_Severino"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.diocese-of-san-severino} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Piero da San Sepolcro"
+next: "Gaetano Sanseverino"
+entry-type: "article"
+characters: 3063
+words: 512
+links: 0
+images: 0
+---
+
+# Diocese of San Severino {#cathen.diocese-of-san-severino}
+
+(SANCTI SEVERINI)
+
+San Severino is a small town and seat of a bishopric in the Province of Macerata in the Marshes, Central Italy. It has two cathedrals, the ancient one near the old castle, which contains precious quattrocento paintings and inlaid stalls in the choir. The new cathedral, dating from 1821, is the old Augustinian church and contains paintings from Pinturicchio (Madonna), Antonio and Gian Gentile da S. Severino, Pomarancio, and others. The Churches of S. Domenico and S. Francesco are also adorned with fine pictures; the Church of S. Maria in Doliolo, formerly a Benedictine monastery, has a crypt believed to be the ancient temple of Feronia converted later into a church. The two sanctuaries of S. M. del Glorioso and S. Maria dei Lumi are worthy of note. The most important civic building is the communal palace, which contains some halls richly decorated and a collection of ancient inscriptions. S. Severino stands on the site of the ancient Septempeda, a city of Picenum, later a Roman colony. In the eighth century it was a fortress of the Duchy of Spoleto. The Church of San Severino gave its name later to a new town that grew up around it. In the twelfth and thirteenth centuries it was at constant war with the neighbouring cities, especially with Camerino, and always supported the cause of the emperors, particularly of Frederick II. Louis the Bavarian named as vicar of San Severino Smeduccio della Scala, who, passing into the service of the Holy See, gave great help to the expedition of Cardinal Albornoz and became feudal lord of San Severino, a post held later by his son Onofrio. His nephew Antonio paid with his life for attempting to resist the arms of Pietro Colonna, the representative of Martin V; his sons tried in vain to recapture the city (1434), which remained immediately subject to the Holy See. Among its illustrious sons were: the lacquer-workers Indovino and Giovanni di Pier Giacomo, the poet Panfilo, the physician Eustacchi, the *condottiere* Francuccio da S. Severino, and the Franciscan, Saint Pacifico. A local legend attributes the preaching of the Gospel to a holy priest, Maro. Under the high altar of the cathedral are the relics of Sts. Hippolytus and Justinus. The saint from whom the city takes its name is commonly believed to have been Bishop of Septempeda, but his date is unknown. In the Middle Ages S. Severino was suffragan of Camerino; the old cathedral was then a collegiate church. In 1566 it had a seminary. In 1586 Sixtus V made it an episcopal see, the first bishop being Orazio Marzari. Among his successors were: Angelo Maldacchini, O. P. (1646); Alessandro Calai Organi (1702), the restorer of the seminary; Angelo Antonio Anselmi (1792), exiled in 1809. The diocese is a suffragan of Fermo, and has 29 parishes with 18,000 inhabitants, 3 houses of nuns, and 5 of religious men.
+
+GENTILI, De ecclesia septempedina (Macerata, 1830), 8. IDEM., Sopra gli Smeducci vicari per Santa Chiesa in S. Severino (Macerata, 1841); CAPPELLETTI, Le chiese d'Italia, III Venice, 1854).
+
+U. BENIGNI

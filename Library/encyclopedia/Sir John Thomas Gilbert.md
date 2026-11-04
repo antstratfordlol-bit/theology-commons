@@ -1,0 +1,33 @@
+---
+title: "Sir John Thomas Gilbert"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Andrew Alphonsus MacErlean"
+signed: "A. A. MacErlean"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Sir_John_Thomas_Gilbert"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.sir-john-thomas-gilbert} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Nicolas-Joseph-Laurent Gilbert"
+next: "Gilbert de la Porrée"
+entry-type: "article"
+characters: 2785
+words: 450
+links: 0
+images: 0
+---
+
+# Sir John Thomas Gilbert {#cathen.sir-john-thomas-gilbert}
+
+Irish archivist and historian, b. in Dublin, 23 January, 1829; d. there, 23 May, 1898. He was the son of John Gilbert, an English Protestant, Portuguese consul, at Dublin, and Marianne, an Irish Catholic, daughter of Henry Costello. From her the future historian inherited his ardent patriotism, which was surpassed only by a deep spirit of religion which characterized him through life. His early days were spent at Branackstown, Meath. He was educated at Dublin, and at Prior Park, near Bath, England. He received no university training, as his mother preferred to sacrifice that rather than allow his faith to be imperilled in the Protestant University of Dublin. In 1846 his family moved to Blackrock, a suburb of the Irish metropolis, where he resided till his death, fifty-two years later.
+
+From his boyhood, he manifested a decided taste for history and archaeology. When only nineteen, he was elected to the Council of the Celtic Society, and thus became associated with some of the famous writers and orators of the age, Butt, Duffy, Ferguson, Mitchell, O'Hagan, and Smith O'Brien. In 1851 appeared his essay, "Historical Literature of Ireland". Four years later he became a Member of the Royal Irish Academy, and secretary of the Irish Archaeological Society, among whose members were O'Curry, O'Donovan, Graves, Todd, and Wilde. In 1854-9 he published his "History of the City of Dublin" in 3 vols., a work of remarkable erudition, which placed him among the greatest historians of the country. In 1863 his "History and Treatment of the Public Records of Ireland" caused considerable sensation by demonstrating to the government the futility of entrusting the publication of Irish State documents to men unskilled in the language and history of the nation. From this time till his death his pen was never idle, and he filled the most important posts in all the historical and antiquarian societies. He was librarian of the Royal Irish Academy for thirty-four years. In 1891 he married the brilliant Irish novelist, Rosa Mulholland. He received the honorary degree of LL.D. from the Royal University in 1892, and five years later was knighted for his services to archaeology and history. In addition to the works already mentioned his most important writings are the "History of the Viceroys of Ireland" (1865), "Calendar of the Ancient Records of Dublin" (7 vols., 1889-98); "History of the Irish Confederation and the War in Ireland, 1641-9" (7 vols., 1882-91); "Jacobite Narrative of the War in Ireland, 1688-91" (1892). Celtic scholars are indebted to him for the photographic reproductions of the celebrated ancient Irish MSS., for the establishment of the Todd lectureship in Celtic, and also for editions of "Leabhar na h-Uidhre" and "Leabhar Breac."
+
+A. A. MacErlean.

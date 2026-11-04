@@ -1,0 +1,37 @@
+---
+title: "Prüm"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "Klemens Löffler"
+signed: "Klemens Löffler"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Prüm"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.prum} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Prudentius"
+next: "Prusias ad Hypium"
+entry-type: "article"
+characters: 4162
+words: 685
+links: 0
+images: 0
+---
+
+# Prüm {#cathen.prum}
+
+A former Benedictine abbey in Lorraine, now in the Diocese of Trier, founded by a Frankish widow Bertrada, and her son Charibert, 23 June, 720. The first head of the abbey was Angloardus. Bertrada's grand-daughter was Bertha, wife of King Pepin (751-68), and Prüm became the favourite monastery of the Carlovingians and received large endowments and privileges. Pepin rebuilt the monastery and bestowed great estates upon it, 13 August, 762. The king brought monks from Meaux under Abbot Assuerus to the monastery. The church, dedicated to the Saviour (Salvator), was not completed until the reign of Charlemagne, and was consecrated, 26 July, 799, by Pope Leo III. Charlemagne and succeeding emperors were liberal patrons of the abbey. Several of the Carlovingians entered the religious life at Prüm; among these was Lothair I, who became a monk in 855. His grave was rediscovered in 1860; in 1874 the Emperor William I erected a monument over it. In 882 and 892 the monastery was plundered and devastated by the Normans, but it soon recovered. The landed possessions were so large that the abbey developed into a principality.
+
+At times during the eleventh and twelfth centuries the monastery contained over three hundred monks. The period of its internal prosperity extends to the thirteenth century. The monks were energetic cultivators of the land. About 836 Abbot Marquard founded a new monastery, Münstereifel; in 1017 Abbot Urald founded at Prüm a collegiate foundation for twelve priests; in 1190 Abbot Gerhard founded a house for ladies of noble birth at Niederprüm. The monastery cared for the poor and sick. Learning was also cultivated. Among those who taught in the school of the monastery were Ado, later Archbishop of Vienne (860-75). Another head of the school, Wandelbert (813-70), was a distinguished poet. Abbot Regino (893-99) made a name for himself as historian and codifier of canon law. Cæsarius of Heisterbach is only brought into the list of authors of this monastery by being confounded with Abbot Cæsarius of Prüm (1212-16). In the thirteenth and fourteenth centuries the monastery declined, partly from the oppression of its secular administrators, but more from internal decay. It reached such a pass that the monks divided the revenues among themselves and lived apart from one another. Consequently the archbishops of Trier sought to incorporate the abbey in the archdiocese. In 1376 Charles IV gave his consent to this, as did Boniface IX in 1379, but the pope's consent was recalled in 1398; Sixtus IV about 1473 also gave his approval to the incorporation. But the abbots refused to submit and even in 1511 carried on war against the archbishop. Finally, when the abbey was near ruin, Gregory XIII issued the decree of incorporation 24 Aug., 1574, which was carried into effect in 1576 after the death of Abbot Christopher von Manderscheid. After this the archbishops of Trier were "perpetual administrators" of the abbey. The abbey was now brought into order within and without, and once more flourished to such a degree that the two archæologists Martène and Durand, who visited the monastery in 1718, state in their "Voyage littéraire" that of all the monasteries in Germany Prüm showed the best spirit, and study was zealously pursued. The monks made efforts even in the eighteenth century to shake off the supremacy of Trier.
+
+In 1801 Prüm fell to France, was secularized, and its estates sold. Napoleon gave its buildings to the city. Since 1815 Prüm has belonged to Prussia. The church, built in 1721 by the Elector Louis, is now a parish church. The monastic buildings are now used for the district court and the high-school. The sandals of Christ are considered to be the most notable of the many relics of the church; they are mentioned by Pepin in the deed of 762. He is said to have received them from Rome as a gift of Pope Zacharias or Pope Stephen.
+
+MARX, *Gesch, des Erzstifts Trier,* II (Trier, 1860), i, 271-322; WILLEMS, *Prüm u. seine Heiligthümer* (Trier, 1896); FRENZ, *Die letze Chronik v. Prüm* in *Stud. u. Mitteil. aus dem Benediktinerund Zistercienserorden,* XXVIII (1907), 609-42.
+
+Klemens Löffler.

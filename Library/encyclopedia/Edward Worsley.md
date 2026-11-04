@@ -1,0 +1,33 @@
+---
+title: "Edward Worsley"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Edwin Hubert Burton"
+signed: "Edwin Burton"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Edward_Worsley"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.edward-worsley} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Christian Worship"
+next: "Thomas Worthington"
+entry-type: "article"
+characters: 1201
+words: 190
+links: 0
+images: 0
+---
+
+# Edward Worsley {#cathen.edward-worsley}
+
+Born in Lancashire, England, 1605; died at Antwerp, 2 Sept., 1676. He is said to have been educated at Oxford, but his name does not occur in the University Registers, and it is equally uncertain that he took Anglican orders. Having become a Jesuit on 7 Sept., 1626, he studied at Liège, where he subsequently became a professor of philosophy, logic, and Scripture, winning a great reputation for talent and erudition. He was made a professed father 20 Sept., 1641. Having laboured for a time in London, he became rector of the college at Liège from 1658 till 1662, where he was made procurator at the professed house at Antwerp. His chief works, mostly written against Stillingfleet, are: "Truth will out" (1665); "Protestancy without Principles" (1668); "Reason and Religion" (1672); "The Infallibility of the Roman Catholic Church" (1674); "A Discourse of Miracles" (1676); and "Anti-Goliath" (1678), published after his death.
+
+DODD, Church History (Brussles) vere Wolverhampton, 1737-42); FOLEY, Records Eng. Prov. S.J., IV and VII (London, 1883); OLIVER, Jesuit Collections (Exeter, 1838); COOPER in Dict. Nat. Biog., s.v.; DE BACKER, Bibl. des ecrivains de la Compagnie de Jesus.
+
+Edwin Burton.

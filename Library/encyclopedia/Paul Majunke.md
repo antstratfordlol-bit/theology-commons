@@ -1,0 +1,33 @@
+---
+title: "Paul Majunke"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Thomas Kennedy"
+signed: "THOMAS KENNEDY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Paul_Majunke"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.paul-majunke} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Majority"
+next: "Malabar"
+entry-type: "article"
+characters: 1860
+words: 295
+links: 0
+images: 0
+---
+
+# Paul Majunke {#cathen.paul-majunke}
+
+Catholic journalist, born at Gross-Schmograu in Silesia, 14 July, 1842; died at Hochkirch near Glogau, 21 May, 1899. He entered the University of Breslau in 1861, and devoted four years to the study of civil and canon law and Catholic theology. In 1867 he was ordained priest, and from 1869 to 1870 was editor of the "Kölnische Zeitung". From 1871 to 1878 he was editor-in-chief of the "Germania"; in 1874 he was elected member of the Reichstag, and in 1878 also of the Prussian House of Deputies, attaching himself to the Centre party. He encouraged Catholic journalism and, during the *Kulturkampf*, was a most zealous and fearless champion of the Catholic cause, at the cost of great personal sacrifices. Unfortunately, his uncompromising zeal frequently incited him to give expression to ill-timed utterances in both the public press and Parliament, and these led to an estrangement between him and the leading Catholics of the day. In 1874 he was condemned to one year's imprisonment for violation of the press laws. Even a motion in his favour carried by the Reichstag failed to secure the remission of his sentence. From 1878 to 1884 he was editor of the "Korrespondenz der Zentrumsblätter". After his appointment as parish priest of Hochkirch in 1884, he withdrew from but still continued his activity in journalism. His principal works are: "Geschichte des Kulturkampfs" (1886; 3rd ed., 1902); "Geschichtslügen" (1884; 17th ed., 1902), in collaboration with Galland and other friends. Some of his works - e. g., "Louise Lateau" (2nd ed., 1875) - awakened surprise by their pronounced mystical and prophetic strain. In "Luther's Selbstmord" (1892) he attempted to establish the untenable theory of Luther's suicide (concerning this question see Paulus, "Luther's Lebensende", 1898).
+
+BETTELHEIM, *Biograph. Jahrbuch,* IV (1900), 258 sq.
+
+THOMAS KENNEDY

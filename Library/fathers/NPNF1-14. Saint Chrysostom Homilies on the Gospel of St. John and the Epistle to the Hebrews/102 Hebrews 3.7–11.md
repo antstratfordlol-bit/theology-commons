@@ -1,0 +1,131 @@
+---
+id: "chrysostom-in-epistulam-ad-hebraeos.en.6"
+title: "Hebrews 3.7–11"
+work: "In epistulam ad Hebraeos homiliae 1-34"
+author: "John Chrysostom"
+volume: "NPNF1-14. Saint Chrysostom: Homilies on the Gospel of St. John and the Epistle to the Hebrews"
+volume-id: "npnf114"
+series: "Nicene and Post-Nicene Fathers, Series 1"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf114.xml"
+source-id: "v.x"
+sigla: "chrysostom-in-epistulam-ad-hebraeos"
+part-of: "chrysostom-in-epistulam-ad-hebraeos"
+part-ref: "6"
+part-kind: "text"
+part-evidence: "printed:body-line1:Homily VI."
+title-source: "bkv-clavis"
+clavis: "CPG 4440"
+anchors: "{#chrysostom-in-epistulam-ad-hebraeos.6} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 18
+scripture-references: 42
+scripture-refs-sidecar: "_scripture-refs/npnf114.tsv"
+print-pages: "394-397"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# Hebrews 3.7–11 {#chrysostom-in-epistulam-ad-hebraeos.6}
+
+Homily VI.
+
+Hebrews iii. 7–11
+
+*“Wherefore, as the Holy Ghost saith, To-day if ye will hear His voice, harden not your hearts, as in the provocation in the day of temptation in the wilderness, when your fathers tempted Me, proved Me, and saw My works forty years. Wherefore I was grieved with that generation, and said, They do alway err in their heart, and they have not known My ways. So*[^2811] *I sware in My wrath they shall not enter into My rest.”*
+
+[1.] Paul, having treated of hope, and having said that “We are His house, if we hold fast the confidence and the rejoicing of the hope firm unto the end” ( c. iii. ver. 6 ); next shows that we ought to look forward with firmness, and he proves this from the Scriptures. But be attentive, because he has expressed this in a manner somewhat difficult and not readily to be comprehended. And therefore we must first make our own statements, and after we have briefly explained the whole argument, then make clear the words of the Epistle. For you will no longer need us, if you have understood the scope of the Apostle.
+
+His discourse was concerning Hope, and that it behooves us to hope for the things to come, and that for those who have toiled here there will assuredly be some reward and fruit and refreshment. This then he shows from the prophet; and what says he? “Wherefore as the Holy Ghost saith, To-day if ye will hear His voice, harden not your hearts, as in the provocation, in the day of temptation in the wilderness: when your fathers tempted Me, proved Me, and saw My works forty years. Wherefore I was grieved with that generation, and said, they do alway err in their heart, and they have not known My ways. So[^2812] I sware in My wrath, they shall not enter into My rest.”
+
+He says that there are “three” rests: one, that of the Sabbath, in which God rested from His works; the second, that of Palestine, into which when the Jews had entered they would be at rest from their hardships and labors; the third, that which is Rest indeed, the kingdom of Heaven; which those who obtain, do indeed rest from their labors and troubles. Of these three then he makes mention here.
+
+And why did he mention the three, when he is treating of the one only? That he might show that the prophet is speaking concerning this one. For he did not speak (he says) concerning the first. For how could he, when that had taken place long before? Nor yet again concerning the second, that in Palestine. For how could he? For he says, “They shall not enter into My rest.” It remains therefore that it is this third.
+
+[2.] But it is necessary also to unfold the history, to make the argument more clear. For when they had come forth out of Egypt, and had accomplished a long journey, and had received innumerable proofs of the power of God, both in Egypt, and in the Red Sea (cf. Acts vii. 36 ), and in the wilderness, they determined to send spies to search out the nature of the land; and these went and returned, admiring indeed the country, and saying that it abounded in noble fruits, nevertheless it was a country of strong and invincible men: and the ungrateful and senseless Jews, when they ought to have called to mind the former blessings of God, and how when they were hemmed in the midst of the armies of so many Egyptians, He rescued them from their perils, and made them masters of their enemies’ spoils; and again, in the wilderness He clave the rock, and bestowed on them abundance of waters, and gave them the manna, and the other wonderful things which He wrought; [when they ought, I say, to have remembered this,] and to have trusted in God, they considered none of these things, but being struck with terror, just as if nothing had been done, they said, we wish to go back again into Egypt, “for God hath brought us out thither” (it is said) “to slay us, with our children and wives.” (Cf. Num. xiv. 3.) God therefore being angry that they had so quickly cast off the memory of what had been done, sware that generation, which had said these things, should not enter into the Rest; and they all perished in the wilderness. When David then, he says, speaking at a later period, and after these events, after that generation of men, said, “To-day, if ye will hear His voice, harden not your hearts,” that ye may not suffer the same things which your forefathers did, and be deprived of the Rest; he evidently [said this] as of some [future] rest. For if they had received their Rest (he says) why does He again say to them, “To-day if ye will hear His voice harden not your hearts,” as your fathers did? What other rest then is there, except the kingdom of Heaven, of which the Sabbath was an image and type?
+
+[3.] Next having set down the whole testimony (and this is, “To-day if ye will hear His voice, harden not your hearts, as in the provocation in the day of temptation in the wilderness, when your fathers tempted Me, proved Me, and saw My works forty years. Wherefore I was grieved with that generation, and said, They do alway err in their heart, and they have not known My ways. So I sware in My wrath, they shall not enter into My rest”), he then adds:
+
+Ver. 12. “Take heed, brethren, lest there be in any of you an evil heart of unbelief in departing from the living God.” For from hardness unbelief ariseth: and as in bodies, the parts that have become callous and hard do not yield to the hands of the physicians, so also souls that are hardened yield not to the word of God. For it is probable besides that some even disbelieved as though the things which had been done were not true.
+
+Therefore he says, “Take heed lest there be in any of you an evil heart of unbelief in departing from the living God.” For since the argument from the future is not so persuasive as from the past, he reminds them of the history, in which they had wanted faith. For if your fathers (he says) because they did not hope as they ought to have hoped, suffered these things, much more will you. Since to them also is this word addressed: for, “To-day” (he says) is “ever,” so long as the world lasts.
+
+[4.] Ver. 13. Wherefore “exhort ye one another daily, while it is called to-day.” That is, edify one another, raise yourselves up: lest the same things should befall you. “Lest any one of you be hardened by the deceitfulness of sin.” Seest thou that sin produces unbelief? For as unbelief brings forth an evil life, so also a soul, “when it is come into a depth of evils, becometh contemptuous” [^2813] ( Prov. xviii. 3 ), and having become contemptuous it endures not even to believe, in order thereby to free itself from fear. For “they said” (one says), “The Lord shall not see, neither shall the God of Jacob regard.” ( Ps. xciv. 7.) And again, “Our lips are our own: who is Lord over us?” ( Ps. xii. 4 ); and again “Wherefore hath the wicked man provoked God to wrath?” ( Ps. x. 13 ); and again, “The fool hath said in his heart, there is no God; they are corrupt and become abominable in their doings.” ( Ps. xiv. 1.) “There is no fear of God before his eyes, for he was deceitful before Him, to find out[^2814] his iniquity and to hate.” ( Ps. xxxvi. 1, 2.) Yea and Christ also says this same thing, “Every one that doeth evil, hateth the light and cometh not to the light.” ( John iii. 20.)
+
+Then he adds ( ver. 14 ), “For we have been made partakers of Christ.” What is this, “We have been made partakers of Christ”? We partake of Him (he means); we were made One, we and He—since He is the Head and we the body, “fellow-heirs and of the same body; we are one body, of His flesh and of His bones.” ( Eph. iii. 6; Rom. xii. 5; Eph. v. 30.)
+
+“If we hold fast the beginning of our confidence [or, the principle of our subsistence[^2815]] steadfast unto the end.” What is “the principle of our subsistence”? The faith by which we stand, and have been brought into being and were made to exist, as one may say.
+
+[5.] Then he adds ( ver. 15 ), “When it is said,[^2816] To-day if ye hear His voice, harden not your hearts, as in the provocation.” This is a transposition,[^2817] “when it is said, To-day if ye hear His voice, harden not your hearts.” [It must be read thus:]
+
+( Ch. iv. 1, 2.) “Let us fear lest a promise being left us of entering into His rest, any of you should seem to come short of it; for to us was the Gospel preached[^2818] as well as unto them when it is said, To-day if ye hear His voice” (for “To-day” is “at every time”[^2819]).
+
+Then [he adds] “but the word of hearing did not profit them, as they were not mixed[^2820] by faith with them that heard.” How did it not profit? Then wishing to alarm them, he shows the same thing by what he says:
+
+( Ch. iii. 16–19.) “For some when they had heard did provoke, howbeit not all that came out of Egypt by Moses: And with whom was He grieved forty years? Was it not with them that had sinned, whose carcasses fell in the wilderness? And to whom swear He that they should not enter into His rest, but to them that believed not? So[^2821] we see, that they could not enter in because of unbelief.” After again repeating the testimony, he adds also the question, which makes the argument clear. For he said (he repeats), “To-day if ye hear His voice, harden not your hearts, as in the provocation.” Of whom does he speak (he says) [as] having been hardened? Of whom [as] not believing? Is it not of the Jews?
+
+Now what he says is to this effect. They also heard, as we hear: but no profit came to them. Do not suppose then that by “hearing” what is proclaimed ye will be profited; seeing that they also heard, but derived no benefit because they did not believe.
+
+Caleb then and Joshua, because they agreed not with those who did not believe, escaped the vengeance that was sent forth against them. And see how admirably he said, not, They did not agree, but, “they were not mixed”—that is, they stood apart, but not factiously when all the others had one and the same mind. Here it seems to me that a faction too is hinted at.[^2822]
+
+[6.] ( Ch. iv. 3.) For “we who have believed,” he says, “do enter into rest.” From what this is evident, he adds: “as He said, as I have sworn in My wrath, if they shall enter into My rest: although the works were finished from the foundation of the world.” This indeed, is not evidence that we shall enter in, but that they did not enter in. What then? Thus far he aims to show that as that rest does not hinder the speaking of another rest, so neither does this [exclude] that of Heaven. Up to this point then, he wishes to show that they [the Israelites] did not attain to the rest. For because he means this, he says ( ver. 4, 5 ), “For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all His works. And in this place again, If they shall enter into My rest.” Thou seest how that doth not hinder this from being a rest?
+
+Ver. 6, 7. “Seeing therefore it remaineth” (he says) “that some must enter therein, and they to whom it was first preached entered not in because of unbelief: again he limiteth a certain day, saying in David, To-day, after so long a time; as it has been said before.”[^2823] But what is it that he means? “Seeing then” (he means) that “some must” certainly “enter in,” and “they did not enter in.” And that an entrance is proclaimed, and that “some must enter in,” let us hear from what this is clear. Because after so many years (he says) David again says: “To-day if ye will hear His voice, harden not your hearts” ( ver. 8 ), “For if Joshua had given them rest he would not afterward have spoken of another day.” It is evident, that he says these things, as of persons who are to attain some recompense.
+
+[7.] Ver. 9. “There remaineth therefore a rest[^2824] for the people of God.” Whence [does this appear]? From the exhortation, “Harden not your hearts”: for if there were no rest, these exhortations would not have been given. Neither would they have been exhorted not to do the same things [with the Jews] lest they should suffer the same things, unless they were about to suffer the same. But how were they who were in possession of Palestine about to suffer the same things [i.e. exclusion from the rest] unless there were some other rest?
+
+And well did he conclude the argument. For he said not rest but “Sabbath-keeping”; calling the kingdom “Sabbath-keeping,” by the appropriate name, and that which they rejoiced in and were attracted by. For as, on the Sabbath He commands to abstain from all evil things; and that those things only which relate to the Service of God should be done, which things the Priests were wont to accomplish, and whatsoever profits the soul, and nothing else; so also [will it be] then. However it is not he who spoke thus, but what? ( Ver. 10 ), “For he that is entered into his rest, he also hath ceased from his own works, as God [did] from His.” As God ceased from His works, he says, so he that hath entered into His rest [hath ceased]. For since his discourse to them was concerning rest, and they were desirous to hear when this would be, he concluded the argument with this.
+
+[8.] And [he said] “To-day,”[^2825] that they might never be without hope. “Exhort one another daily,” he says, [“while it is called today,”] that is, even if a man have sinned, as long as it is “To-day,” he has hope: let no man then despair so long as he lives. Above all things indeed, he says, “let there not be an evil heart of unbelief.” ( c. iii. 12.) But even suppose there should be, let no man despair, but let him recover himself; for as long as we are in this world, the “To-day” is in season. But here he means not unbelief only, but also murmurings: “whose carcasses,” he says, “fell’ in the wilderness.”[^2826]
+
+Then, lest any think that they will simply be deprived of rest only, he adds also the punishment, saying ( c. iv. 12 ), “For the Word of God is quick, and powerful; and sharper than any two-edged sword, and pierceth even to the dividing asunder of soul and spirit, and of the joints and marrow: and is a discerner of the thoughts and intents of the heart.” Here he is speaking of Hell and of punishment. “It pierceth” (he says) into the secrets of our heart, and cutteth asunder the soul. Here it is not the falling of carcasses nor, as there, the being deprived of a country, but of a heavenly kingdom; and being delivered to an everlasting hell, and to undying punishment and vengeance.
+
+( Ch. iii. 13.) “But exhort[^2827] one another.” Observe the gentleness and mildness [of the expression]: he said not “Rebuke,” but “Exhort.” Thus we are required to bear ourselves towards those who are straightened by affliction. This he says also in writing to the Thessalonians, “Warn them that are unruly” ( 1 Thess. v. 14 ), but in speaking of the feeble-minded, not so, but what? “Comfort the feeble-minded, support the weak, be patient toward all men”; that is, do not cease to hope; do not despair. For he that does not encourage one who is straightened by affliction, makes him more hardened.
+
+[9.] “Lest any of you,” he says, “be hardened by the deceitfulness of sin.” He means either the deceit of the devil (for it is indeed a deceit, not to look for the things to come, to think that we are without responsibility, and that we shall not pay the penalty for our deeds here, neither will there be a resurrection); or in another sense insensibility [or] despairing is deceit. For to say, ‘What is there left? I have sinned once for all, I have no hope of recovering myself,’ is deceit.
+
+Then he suggests hopes to them, saying ( ver. 14 ), “We are made partakers of Christ”; All but saying, He that so loved us, He that counted us worthy of so great things, as to make us His Body, will not suffer us to perish. Let us consider (he says) of what we have been thought worthy: we and Christ are One: let us not then distrust Him. And again, he hints at that which had been said in another place, that “If we suffer, we shall also reign with Him.” ( 2 Tim. ii. 12.) For this is [implied in] “We are made partakers,” we partake of the same things whereof Christ also partakes.
+
+He urges them on from the good things; “for we are,” he says, “partakers of Christ.” Then, again, from gloomy ones ( c. iv. 1 ), “Let us fear, lest at any time a promise being left us of entering into His rest, any of you should seem to come short of it.” For that is manifest and confessed.
+
+( Ch. iii. 9.) “They proved Me,” He says, “and saw My works forty years.” Seest thou that it is not right to call God to account, but whether He defend [our cause] or not, to trust Him? For against those [of old] he now brings this charge, that “they tempted God.” For he that will have proof either of His power, or of His providence, or of His tender care, does not yet believe, either that He is powerful or kind to man. This he hints also in writing to these [Hebrews] who probably already wished, in their trials, to obtain experience and positive evidence of His power and His providential care for them. Thou seest that in all cases the provocation and the angering arises from unbelief.
+
+What then does he say? ( c. iv. 9.) “There remaineth therefore a rest for the people of God.” And see how he has summed up the whole argument. “He sware,” saith he, to those former ones, “that they should not enter into” the “rest,” and they did not enter in. Then long after their time discoursing to the Jews, he says, “Harden not your hearts,” as your fathers, showing that there is another rest. For of Palestine we have not to speak: for they were already in possession of it. Nor can he be speaking of the seventh [day]; for surely he was not discoursing about that which had taken place long before. It follows therefore that he hints at some other, that which is rest indeed.
+
+[10.] For that is indeed rest, where “pain, sorrow and sighing are fled away” ( Isa. xxxv. 10 ): where there are neither cares, nor labors, nor struggle, nor fear stunning and shaking the soul; but only that fear of God which is full of delight. There is not, “In the sweat of thy face thou shalt eat thy bread,” nor “thorns and thistles” ( Gen. iii. 19, 18 ); no longer, “In sorrow thou shalt bring forth children, and to thy husband shall be thy desire and he shall rule over thee.” ( Gen. iii. 16.) All is peace, joy, gladness, pleasure, goodness, gentleness. There is no jealousy, nor envy, no sickness, no death whether of the body, or that of the soul. There is no darkness nor night; all [is] day, all light, all things are bright. It is not possible to be weary, it is not possible to be satiated: we shall always persevere in the desire of good things.[^2828]
+
+Would you that I should also give you some image of the condition there? It is impossible. But yet, so far as it is possible, I will try to give you some image. Let us look up into the heaven when without any intervening cloud it shows forth its crown [of stars]. Then when we have dwelt long on the beauty of its appearance, let us think that we too shall have a pavement, not indeed such [as this], but as much more beautiful as the gold is than the clay, and [let us think] on the higher roof which is again beyond; then on the Angels, the Archangels, the infinite multitude of unbodied powers, the very palace of God itself, the Throne of the Father.
+
+But language is too weak (as I said) to set forth the whole. Experience is necessary, and the knowledge which [cometh] by experience. Tell me, how was it (think you) with Adam in Paradise? This course of life is far better than that, as much as heaven [is better] than earth.
+
+[11.] But however let us search after another image still. If it happened that he who now reigns was master of the whole world, and then was troubled neither by wars nor by cares, but was honored only and lived delicately; and had large tributes, and on every side gold flowed in to him, and he was looked up to, what feelings do you think he would have, if he saw that all the wars in all parts of the world had ceased? Something such as this will it be. But rather I have not even yet arrived at that image [which I seek]; therefore I must search after another too.
+
+Consider then, I pray you: for as some royal child, so long as he is in the womb, has no sense of anything, but should it happen that he suddenly came forth from thence, and ascended the royal throne, not gradually, but all at once received possession of all things; so is it as regards this [present] and that [future] state. Or, if some captive, having suffered innumerable evils, should be caught up at once to the royal throne.
+
+But not even thus have I attained to the image exactly. For here indeed whatever good things a person may obtain, even shouldst thou say the kingdom itself, during the first day indeed his desires are in full vigor, and for the second too, and the third, but as time goes on, he continues indeed to have pleasure, but not so great. For whatever it be, it always ceases from familiarity with it. But yonder it not only does not diminish, but even increases. For consider how great a thing it is, that a soul after departing thither, should no longer look for an end of those good things, nor yet change, but increase, and life that has no end, and life set free from all danger, and from all despondency and care, full of cheerfulness and blessings innumerable.
+
+For if when we go out into a plain, and there see the soldiers’ tents fixed with curtains, and the spears, and helmets, and bosses of the bucklers glittering, we are lifted up with wonder; but if we also chance to see the king himself running in the midst or even riding with golden armor, we think we have everything; what thinkest thou [it will be] when thou seest the everlasting tabernacles of the saints pitched in heaven? (For it is said, “They shall receive you into their everlasting tabernacles”— Luke xvi. 9 ) when thou seest each one of them beaming with light above the rays of the sun, not from brass and steel, but from that glory whose gleamings the eye of man cannot look upon? And this indeed with respect to the men. But what, if one were to speak of the thousands of Angels, of Archangels, of Cherubim, of Seraphim, of thrones, of dominions, of principalities, of powers, whose beauty is inimitable, passing all understanding?
+
+But how far shall I go in pursuing what cannot be overtaken? “For eye hath not seen,” it is said, “nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love Him.” ( 1 Cor. ii. 9.) Therefore nothing is more pitiable than those who miss, nor anything more blessed than those who attain. Let us then be of the blessed, that we may attain to the everlasting good things that are in Christ Jesus our Lord, with whom to the Father together with the Holy Ghost be glory, might, honor, now and for ever and world without end. Amen.
+
+[^2811]: as.
+[^2812]: as.
+[^2813]: καταφρονεῖ
+[^2814]: τοῦ εδρεῖν
+[^2815]: ἀ ρχὴν τῆς ὑποστάσεως. St. Chrys. understands ὑ πόστασις in its prior sense, as “subsistence,” “subsisting,” “being brought into real existence.”
+[^2816]: ἐ ν τῷ λέγεσθαι, “in its being said.”
+[^2817]: καθ̓ ὑπέρβατον
+[^2818]: That is, these words are addressed to us as well as to them.
+[^2819]: ἀ εὶ
+[^2820]: συγκεκραμένους. Sav. and Ben. have συγκεκραμένης (i.e. ἀ κοῆς). The received text of the New Testament has συγκεκραμένος, “the word not being mixed.” [This is also given in the margin of W. H. and of the Revisers.] Lachmann [and Tisch., W. H., and the Revisers] read συγκεκερασμένους, which is the reading of some mss. of St. Chrys.
+[^2821]: And.
+[^2822]: αἰνίττεσθαι. That is, is indirectly condemned, by the contrast of the conduct of Caleb and Joshua. St. Chrys. reverses the expression of the Epistle, and says, “Caleb and Joshua were not mixed with the unbelievers,” when the Apostle had said, “the unbelievers were not mixed with them.”
+[^2823]: προείρηται. This is the correct reading of the sacred text Heb. iv. 7 : for which the common editions [i.e. the *Textus Receptus*. All critical editors have προείρ.—F.G.] have εἴρηται , “it is said.”
+[^2824]: σαββατισμὸς
+[^2825]: St. Chrys. returns here to c. iii. 13 , connecting the “To-day if ye hear His voice, harden not your heart,” with “Exhort one another daily while it is called To-day” : as he had said, “to-day is at every time.”
+[^2826]: The words of the Apostle, c. iii. 17 , are those of Num. xiv. 29 , &c., where murmuring is the sin specified.
+[^2827]: παρακαλεῖτε. The word includes the idea of comforting and encouraging as well as of exhorting.
+[^2828]: [The insatiate yet satisfied; The full yet craving still. *Rhythm of Bernard de Morlaix*, translated by Dr. Neale, p. 15.]

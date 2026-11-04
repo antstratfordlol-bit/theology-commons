@@ -1,0 +1,33 @@
+---
+title: "Ven. William Davies"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Bede Camm"
+signed: "Bede Camm"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Ven._William_Davies"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.ven-william-davies} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "David Scotus"
+next: "Dávila Padilla"
+entry-type: "article"
+characters: 3442
+words: 605
+links: 0
+images: 0
+---
+
+# Ven. William Davies {#cathen.ven-william-davies}
+
+Martyr, one of the most illustrious of the priests who suffered under Queen Elizabeth, b. in North Wales, probably and Crois in Yris, Denbighshire, date uncertain; d. At Beaumaris, 27 July, 1593. He studied at Reims, where he arrived 6 April 1582 just in time to assist a the first Mass of the venerable martyr Nicholas Garlick. He received tonsure and minor orders 23 Sept., 1583, together with seventy-three other English students. Ordained priest in April, 1585, he laboured with wonderful zeal and success in Wales till March, 1591-2, when he was arrested at Holyhead with four students whom he was sending via Ireland to the English College at Valladolid. He was thrown into a loathsome dungeon in Beaumaris Castle and separated from his companions, having frankly confessed that he was a priest. After a month his sanctity and patience gained him some relaxation of his close confinement and he was able to join the students for and hour in the day, and even to celebrate Mass. By degrees the jailor became so indulgent that they might have escaped had they so willed. The fame of the priest's sanctity and wisdom brought Catholics from all parts to consult him and Protestant ministers came to dispute with him. At the assizes he and his companions were condemned to death, on which the martyr intoned the "Te Deum", which the others took up. The injustice of the sentence was so apparent that to still the people's murmurs the judge reprieved the condemned till the queen's pleasure be known. Sent to Ludlow, to be examined by the Council of the Marches, Father Davies had to submit to fresh assaults by the ministers. Here too he foiled the artifices of his enemies who took him to the church under pretext of a disputation, and then began the Protestant service. He at once began to recite the Latin Vespers in a louder voice than the ministers', and afterwards publicly exposed the trick of which he had been a victim. From Ludlow he was sent to Bewdley, where he had to share a foul dungeon with felons, and from thence to other prisons until at last he was sent back to Beaumaris, where, to their mutual consolation, he rejoined his young companions. For some six moths he lived with them the life of a religious community, dividing the time between prayer and study, "with so much comfort to themselves that they seemed to be rather in heaven than in prison". At the summer assizes it was decided that the priest must die as a traitor, though he was offered his life if he would go but once to church. In spite of the then open opposition of the people, who honoured him as a saint, the cruel sentence was carried out and he was hanged, drawn, and quartered at Beaumaris. As he put the rope round his neck, the martyr said: " Thy yoke, O Lord is sweet and Thy burden is light." His cassock stained with his blood was brought by his companions and preserved as a relic. They, though condemned to imprisonment for life, managed in time to escape, and the youngest found his way at last to Valladolid, where he recounted the whole story to Bishop Yepes, who wrote it in his "Historia particular de la Persecucion en Inglaterra". There is now a chapel in Anglesey built as a memorial to the martyr.
+
+Challoner, *Missionary Priests* (London, 1741); Gillow, *Bibl. Dict. Eng. Cath*., II, s v.; *Douay Diaries* (London, 1878); Yepes, *Hist. de la Persecucion en Inglaterra;* Camm, *In the Brave Days of Old* (London, 1899).
+
+Bede Camm.

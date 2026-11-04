@@ -1,0 +1,33 @@
+---
+title: "Tacana Indians"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "James Mooney"
+signed: "JAMES MOONEY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Tacana_Indians"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.tacana-indians} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Tabernacle Society"
+next: "Tacapæ"
+entry-type: "article"
+characters: 2175
+words: 351
+links: 0
+images: 0
+---
+
+# Tacana Indians {#cathen.tacana-indians}
+
+The collective designation for a group of tribes constituting the Tacanan linguistic stock in different dialects, occupying the upper valleys of the Beni and Madre de Dios Rivers, on the eastern slope of the Andes, Department of Beni, north-western Bolivia. The group includes: the Tacana proper, the Isiamo, the Cavina, and the Aten or Leco, all missionized by the Franciscan Fathers of the College of Ocopa, Peru, about the end of the eighteenth century; the still uncivilized Toromona and Araume and several others; and the more remote Sapibocona of the Moxos mission farther to the south. In 1832 the five Tacana missions contained 5304 Christian Indians, while the wild Toromona were estimated at 1000 more. In 1852 the traveller Weddell spent some time at the mission of Guanay and has given us a good description of the Indians as he found them. In 1883 Heath reports them as greatly reduced, the 1000 Cavina of 1832 having dwindled to 70 souls. Like their neighbours, the Mozetena and Yurucare, the Tacana are noted for their light complexion, fine features, and tall stature, averaging over five and a half feet. Of their language, which is extremely guttural and jerky in pronunciation, we have vocabularies by Heath and Weddell, besides a small devotional publication. In their primitive condition they subsisted, and still do, by agriculture, hunting, and fishing, went naked except for feather decorations on dance occasions, and lived in small communities subject to petty chiefs. Some of their tribes were reputed cannibals. The civilized Tacana wear as their principal garment a sleeveless shirt or chemise, keeping the head and feet bare. They are expert at weaving and the making of straw hats, but are not industrious beyond their immediate needs.
+
+ARMENTIA, *Diario del Viaje al Madre de Dios* (La Paz, 1890); BRINTON, *American Race* (New York, 1891); HEATH in *Kansas City Review of Science*, VI (Kansas City, 1883); MARKHAM, *Tribes in the Valley of the Amazon* in *Jour. Anthrop. Institute*, XXIV (London, 1895); D'ORBIGNY, *L'Home Américain* (2 vols., Paris, 1839); WEDDELL, *Voyage dans le Nord de la Bolivie* (Paris and London, 1853).
+
+JAMES MOONEY

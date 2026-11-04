@@ -1,0 +1,35 @@
+---
+title: "Cities of Refuge"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "James F. Driscoll"
+signed: "James F. Driscoll"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Cities_of_Refuge"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.cities-of-refuge} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Reform of a Religious Order"
+next: "Sisters of Our Lady of Charity of the Refuge"
+entry-type: "article"
+characters: 2928
+words: 521
+links: 0
+images: 0
+---
+
+# Cities of Refuge {#cathen.cities-of-refuge}
+
+Towns which according to the Jewish law enjoyed the right of asylum and to which anyone who had unintentionally slain another might flee and be protected from the "avenger of blood". The barbarous custom of blood-revenge still exists among the Arab tribes. In virtue of it the kinsman of anyone put to death considers it a duty to avenge him by killing the intentional or even unintentional slayer. The Biblical cities of refuge were six in number, viz., to the west, Cedes in Galilee, Sichem in Mount Ephraim, and Hebron in the south; to the east, beyond the Jordan, Bosor, which is in the plain of the tribe of Ruben, Ramoth in Galaad of the tribe of Gad, and Gaulon in Basan of the tribe of Manasses (Josue xx, 7-8). It appears from Deut., xix, 2, 7, and from other considerations that three cities were originally intended-those to the west-which were probably established in the time of Josias, when the boundaries and population of the Jewish state were comparatively small. When in post-Exilic times the Jews covered a wider area, the other three were doubtless added, as we find the number stated as six in Numbers (xxxv, 6) and Josue (xx, 7-8).
+
+The right of asylum was recognized in the Old Testament, but under conditions that are carefully laid down in the Jewish law. One who had treacherously and intentionally sullied his hands with blood was allowed to find no refuge at the altar of God. Indeed he might be taken away from it to death (Ex., xxi, 14). He might even be struck down at the altar, as in the case of Joab (III Kings, ii, 30, 31, 34). Protection was granted to those who had unintentionally taken the life of another (Deut., xix, 2-7). In order to justify his claim to immunity the fugitive had to prove to the authorities of the sanctuary or town that his deed was unpremeditated. After submitting his evidence he was allowed to remain within the prescribed precincts. He could not return to his old home, nor could he appease the avenger by money. Thus some expiation for his imprudence was exacted, and he became virtually a prisoner within the boundaries of the city to which he had fled. He could leave it only at the risk of his life at the hands of the avenger of blood. We are not informed by what means he was supported in the city of refuge, but probably he was obliged to work for his subsistence. Whether his family could join him in his exile is also a matter of mere conjecture. It is generally maintained that originally every altar or sanctuary in the land could extend its protection to anyone who had unintentionally taken the life of another. But with the suppression of the provincial high places and altars by Josiah (B.C. 621) the right of asylum naturally fell with them, and provision was made for a continuance of the ancient usage on a modified basis by the selection of certain cities of refuge.
+
+GIGOT, Outlines of Jewish History (New York, 1903), 143.
+
+James F. Driscoll.

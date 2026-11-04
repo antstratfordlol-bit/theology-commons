@@ -1,0 +1,35 @@
+---
+title: "John Bridgewater"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Thomas Joseph Shahan"
+signed: "THOMAS J. SHAHAN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/John_Bridgewater"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.john-bridgewater} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Thomas Edward Bridgett"
+next: "Bridgewater Treatises"
+entry-type: "article"
+characters: 2669
+words: 428
+links: 0
+images: 0
+---
+
+# John Bridgewater {#cathen.john-bridgewater}
+
+Known also as AQUAPONTANUS, historian of the Catholic Confessors under Queen Elizabeth, b. in Yorkshire about 1532; d. probably at Trier, about 1596. He proceeded M. A at Oxford in 1556, was ordained priest, and in 1563 became Rector of Lincoln College in that university. He also held several other important preferments all of which he resigned in 1574, when with several of his students he crossed over to Douai, preferring "the old form of religion" to the novelties of those whom he styled "Calvinopapists and Puritans". He probably never returned to England but lived at various places on the Continent (Reims, Paris, Rome, Trier); in 1588 and 1594 he resided at Trier. Ribadaneira, followed by Father Southwell and Brother Foley, accounts him a member of the Society of Jesus, though there is no proof of the fact (Records of English Catholics, I, 408). He refuted (Trier 1589) a Protestant work on the pope as Antichrist and wrote also an "Account of the Six Articles usually Proposed to the Missioners that Suffered in England", and against which he voted in 1562
+
+Bridgewater is best known as the earliest martyrologist of Catholic England. His work, conceived in the spirit of Eusebius as a triumphant apology for Catholicism, is entitled "Concertatio Ecclesliae Catholicae in Angliâ adversus Calvinopapistas et Puritanos sub Elizabethâ Reginâ quorundam hominum doctrina et sanctitate illustrium renovata et recognita, etc.," i.e. The Battle of the Catholic Faith in England under Queen Elizabeth, renewed in the lives of certain men illustrious for learning and sanctity, among them more than one hundred martyrs, and a very great number of others distinguished for their (religious) deeds and sufferings; confirmed also by the retractations of apostates, by new edicts of the persecutors, and by the writings of very learned Catholics against the Anglican, or rather female, pontificate, and in defense of the authority of the Roman pontiff over Christian princes (Trier, 1588, about 850 pp. in 8vo). Another edition was brought out (ibid.) by Cardinal Allen in 1594; it served thenceforth as an original record of English Catholic sufferings for the Faith and Dodd, Challoner, and Lingard used extensively its reliable biographical and historical data. Its rather miscellaneous contents are described in the Chetham Society's Remains (XLVIII, 47-50).
+
+GILLOW, Bibl. Dict. of Eng. Cath., I, 294-295; COOPER in Dict. of Nat. Biogr., s.v.; Douay Diaries, 99, 119, and passim; Life and Letters of Cardinal Allen, 77; DODD, Ch. Hist. of Eng., I, 510; II, 60; WOOD, Athenae Oxon., ed. BLISS, I, 625; FOLEY, Records, IV, 481-482, 485; VII, 299.
+
+THOMAS J. SHAHAN

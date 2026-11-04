@@ -1,0 +1,33 @@
+---
+title: "Durandus of Saint-Pourçain"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "5"
+pages: "unknown"
+author: "Thomas Schwertner"
+signed: "THOS. M. SCHWERTNER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Durandus_of_Saint-Pourçain"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.durandus-of-saint-pourcain} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "William Durandus, the Younger"
+next: "Durandus of Troarn"
+entry-type: "article"
+characters: 2670
+words: 431
+links: 0
+images: 0
+---
+
+# Durandus of Saint-Pourçain {#cathen.durandus-of-saint-pourcain}
+
+Philosopher and theologian, b. at Saint-Pourçain, Auvergne France; d. 13 September, 1332, at Meaux. He entered the Dominican Order at Clermont and obtained the doctor's degree at Paris in 1313. John XXII called him to Avignon as Master of the Sacred Palace, where he expounded the Scriptures. In 1318 he was consecrated Bishop of Le Puy-en-Velay and was transferred to Meaux in 1326. He is known as *Doctor Resolutissimus* owing to his strenuous advocacy of certain opinions novel to the Schoolmen of his day. His writings include commentaries on the "Sentences" (Paris, 1508); "De origine jurisdictionum" (Paris, 1506); and a treatise on the condition of holy souls after their separation from the body. His nominalism was so much opposed to the contemporary philosophic realism that the third period of Scholasticism is made to begin with him. He rejects both the sensible and the intelligible species, introduced, he says, to explain sense-perception, as also the active intellect. He denies the principle of individuation as distinct from the specific nature of the individual. In theology he argues for a separation of natural knowledge from that obtained through faith and revelation. Certain dogmas, as that of the Trinity, cannot be shown not to contain impossibilities, but to believe them, withal increases the merit of faith. Because the miracles of Christ do not prove His Divinity, His acceptance by the faithful enhances the merit of believing. After all, he says, theology is not strictly a science, since it rests on faith, not on the first principles of knowledge. In theology it is sufficient to know the idea of him who, being inspired, cannot err. He teaches, besides, that all actions proceed from God Who gives the power to act, but this is no immediate influx of the Creator upon the actions of the creature. The sacraments are only causes without which grace is not conferred. Marriage is not strictly a sacrament. He also insinuates that Christ could be present in the Eucharist with the substances of bread and wine remaining. Throughout, Durandus shows admirable submission to the corrective prerogative of the Church, the exercise of which was not unnecessary. By order of John XXII the treatise "De statu animarum" was examined and was found to contain eleven errors.
+
+QUÉTIF-ECHARD, *Scriptores O. P.,* I, 586; STÖCKL, *Geschichte der Philosophie im M. A.,* II, 976; HAURÉAU, *De la philosophie scolastique,* Pt. II (Paris, 1880), II 3446; MORTIER, *Histoire de mâitres géneraux de l'Ordre da Frères Prêcheurs* (Paris, 1907) III, 69-86; *La faculté de théologie de Paris et ses docteurs la plus célèbres,* III, 401-408.
+
+THOS. M. SCHWERTNER

@@ -1,0 +1,45 @@
+---
+title: "Jean-Baptiste Cotelier"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Nicholas Aloysius Weber"
+signed: "N. A. WEBER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Jean-Baptiste_Cotelier"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.jean-baptiste-cotelier} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Maria Cosway"
+next: "Cotenna"
+entry-type: "article"
+characters: 3220
+words: 509
+links: 0
+images: 0
+---
+
+# Jean-Baptiste Cotelier {#cathen.jean-baptiste-cotelier}
+
+(COTELERIUS)
+
+Patristic scholar and theologian, born December, 1629, at Nîmes; died 19 August, 1686, at Paris; The early education of this very gifted man was under the personal direction of his father, at one time a minister of the Reformed Church, but later a convert to Catholicity. So rapid was his progress in learning that he could fluently interpret the Bible in the original Hebrew and Greek before the General Assembly of the French clergy at Mantes (1641). On the same occasion he showed his proficiency in mathematics, and made such a favourable impression on the clergy that they increased his father's pension from 600 to 1000 livres. To this sum 300 livres were added for the purchase of books; During the period of his theological studies at Paris (1641-47), Cotelier's brilliant intellectual qualities procured for him an introduction to the king (1644); He graduated as bachelor in theology in 1647 at the Sorbonne, of which he became a member in 1648, though he never received priestly ordination; In 1654, he accompanied Archbishop d'Aubusson de la Feuillade of Embrun to his diocese and became his counsellor. He returned, in 1659, to Paris and again devoted himself to study. With the philologist Du Cange he was commissioned in 1667 by Minister Colbert to investigate and catalogue the Greek manuscripts of the Royal Library. In 1676 he was appointed professor of the Greek language in the Collège Royal at Paris.
+
+The editions of ancient writings prepared by Cotelier were, in chronological order:
+
+- (1) "Homiliæ quatuor in Psalmos et interpretatio prophetiæ Danielis, græce et latine" (Paris, 1661). He attributed these unpublished homilies to St. John Chrysostom; other critics, owing to the diversity of style, hold a different opinion.
+
+- (2) "SS. Patrum qui temporibus apostolicis floruerunt, Barnabæ, Clementis, Hermæ, Ignatii, Polycarpi opera edita et non edita, vera et supposita, græce et latine, cum notis" (Paris, 1672). This excellent edition is Cotelier's principal work. From its title was derived the designation of Apostolic Fathers for the earliest non-inspired Christian writers. Most of the copies of the work were consumed by a conflagration in the Collège Montaigu at Paris. Two revised editions were published by Leclerc (Clericus), one at Antwerp (1698), the other at Amsterdam (1724). Reprints of this last edition are found in Migne, P. G., I, II, V.
+
+- (3) "Ecclesiæ Græcæ Monumenta, græce et latine" (Paris, 1677, 1681, 1686). The third volume of this series was published two days before the author's death.
+
+He had collected materials for a fourth volume which was edited (1688) by the Maurists, Pouget, Montfaucon, and Lopin, and is sometimes known as "Analecta Græca". Cotelier also left several volumes of manuscripts, which bear chiefly on Christian antiquity and are still preserved in the Bibliothèque Nationale at Paris. He was an extremely accurate scholar, of a modest and retiring nature and kindly disposition.
+
+BALUZE, *Letter to Bigot,* in COTELIER-LECLERC, *Patres Apostolici* (Amsterdam, 1724). I, after the preface; NICÉRON. *Mèmoires,* IV, 243-49; VON HEFELE in *Kirchenlex.,* s. v.; HURTER, *Nomenclator* (Innsbruck, 1893), II, 471-74.
+
+N. A. WEBER.

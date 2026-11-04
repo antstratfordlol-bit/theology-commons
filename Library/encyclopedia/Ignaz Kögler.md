@@ -1,0 +1,35 @@
+---
+title: "Ignaz Kögler"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "Anthony Huonder"
+signed: "A. HUONDER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Ignaz_Kögler"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.ignaz-kogler} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Vespasian Kochowski"
+next: "Anthony Kohlmann"
+entry-type: "article"
+characters: 2790
+words: 440
+links: 0
+images: 0
+---
+
+# Ignaz Kögler {#cathen.ignaz-kogler}
+
+(Called LAI in Chinese).
+
+Along with Father Adam Schall (q.v.) the most important of the fifty German Jesuits who between 1650 and 1750 worked in the old Chinese missions. Born 11 May, 1680, at Landsberg in Bavaria; died at Peking, 30 March, 1746. He entered the Society of Jesus on 4 Oct., 1696, and taught mathematics and Hebrew from 1712 to 1714 in the University of Ingolstadt [cf. Mederer, "Annal. acad. Ingolstadt.", III, 130 sq. ; Romstöck, "Die Jesuitennullen Prantl's" (Eichstätt, 1898), 178-84], and went to China in 1715. On account of his extraordinary and wide learning he enjoyed great consideration at the imperial court, and held the office of president of the mathematical astronomical tribunal for thirty years. He was a mandarin of the second class, and was even from 1731 a member of the supreme court of equity (*Li-pu*), a position which had never before been held by a foreigner ("Welt-Bott", No. 676). In accepting these positions, however, he refused the stipends attached to them. Father August von Hallerstein, his co-operator and successor, considers him "one of the most cultivated minds that ever came into these countries" (ibid., No. 587). Kögler carried on a brisk scientific correspondence with a number of European scholars, such as Eusebius Amort and T. S. Bayer, the Orientalist, sending to the lastnamed many valuable contributions for his "Museum Sinicum" (St. Petersburg, 1730) (cf. "Miscellanea Berolinensia", 1737, pp. 185, 189 sqq.; Gottfr. von Murr, "Journal", VII, 240 sqq.; IX, 81 sq.; "Neues Journal", I, 147 sqq.; II, 303, sqq.). He was twice visitor of the mission, and provincial of the Chinese and Japanese province, and, during the persecution which began under Emperor Yung Cheng, he was the main support of the suffering mission, which, through his influence at court, he so cleverly and bravely protected, and which so deeply deplored his death.
+
+Manuscript Letters in the Vienna State Archives, Geistl. Angelegenheiten No. 419 IV; Correspondence with Amort and numerous other letters, part in Munich State Library, MSS lat., t. I, p. 1 no. 1396-1407; part in Reichs-Archiv, Jesuitica in genere, NN. 278-81. Printed letters in We1t-Bott, nn. 157, 162, 190, 196, 198, 202, 228, 575, 578, 669; LIPOWSKY, Geschichte der Jesuiten in Bayern (Munich, 1816), App. nn. 3 and 4; VON LAIMBECKHOVEN, Reise-Beschreibung (Vienna, 1740), 47. The catalogue of Kögler's astronomical, mathematical, and historical writings is given in SOMMERVOGEL, Bibl. des crivains de 1a c. de J. For biographical information consult PLATZWEG, Lebensbilder der deutschen Jesuiten (Paderborn, 1882), 272; VON RICHTHOFEN, China, I (Berlin, 1877), 688; Welt-Bott passim; HUONDER Deutsche Jesuitenmission re des 17. u. 18. Jahrh. (Freiburg im Br., 1899), 189.
+
+A. HUONDER

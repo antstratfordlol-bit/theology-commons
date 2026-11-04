@@ -1,0 +1,31 @@
+---
+title: "Gerasa"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Siméon Vailhé"
+signed: "S. VAILHÉ"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Gerasa"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.gerasa} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Gerardus Odonis"
+next: "Gabriel Gerberon"
+entry-type: "article"
+characters: 2594
+words: 442
+links: 0
+images: 0
+---
+
+# Gerasa {#cathen.gerasa}
+
+A titular see in the province of Arabia and the Patriarchate of Antioch. According to Josephus, it was a city of Decapolis in which a number of Jews resided. Alexander Jannaeus took possession of it, although it was surrounded by a triple wall (Bell. Jud., I, 4, 8). In 68 A.D. Vespasian ravaged the country and sacked the city because the Jews were all-powerful there (op. cit., IV, 9, 1). Simon, the son of Gioras, one of the principal leaders of the rebellious Jews, was born at Gerasa. The city is mentioned as forming a part, sometimes of Arabia, sometimes of Syria, by Ptolemy, Pliny, and Stephen of Byzantium, who also speak of several notable persons of the place. Coins and a number of inscriptions prove that it was sometimes called Antioch on the Chrysorrhoas, the little river by which it is watered. In the Gospel (Matt., viii, 28; Mark, v, i; Luke, viii, 26, 37) there is question of the country of the Gerasans, but if this name is to be read instead of Gadarenians or Gergesians, the reference is to another locality, near the Lake of Tiberias. The prosperity of Gerasa, once considerable, dates from the first centuries of our era, its buildings date from the emperors of the second and third centuries. Its destruction was brought about by earthquakes and the Arab invasions. We know three Greek Bishops of Gerasa: Exairesius, fourth century; Plancus, 451; Aeneas, who built the church of St. Theodore in the sixth century. In 1121 Baldwin II attempted in vain to conquer it, and at the beginning of the thirteenth century the geographer Yakut informs us that it was no longer inhabited. In modern times, several thousand Tcherkesses have established themselves amid its ruins and have unfortunately destroyed most of the Graeco-Roman monuments which time had spared. Until recently Djerasch was the best preserved city of Roman antiquity and the one which afforded us the most exact idea of Roman civilization. Its ramparts, in a state of partial preservation, are still to be seen; also a magnificent triumphal arch, with three openings about 82 feet wide by 29 high; a "naumachia", or circus for naval combats; two theatres; the forum with fifty-five columns still standing; the great colonnade which crosses the city from north to south, and which still retains from 100 to 150 of its columns; several aqueducts; some propylaea; a temple of the Sun, the columns of which are about 40 feet high, and several other temples, baths, etc. Greek and Latin inscriptions are very numerous among the ruins. The ramparts of the city cover a distance of about three miles.
+
+S. VAILHÉ

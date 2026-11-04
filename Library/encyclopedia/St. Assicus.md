@@ -1,0 +1,41 @@
+---
+title: "St. Assicus"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "unknown"
+author: "William Henry Grattan Flood"
+signed: "W. H. Grattan-Flood"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Assicus"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-assicus} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Assessors"
+next: "Assideans"
+entry-type: "article"
+characters: 1685
+words: 307
+links: 0
+images: 0
+---
+
+# St. Assicus {#cathen.st-assicus}
+
+Bishop and Patron of Elphin, in Ireland, one of St. Patrick's converts, and his worker in iron.
+
+In the "Tripartite Life of St Patrick" (ed. Whitley Stokes) we read:
+
+> Bishop St Assic was Patrick's coppersmith, and made altars and square bookcases. Besides, he made our saint's patens in honour of Bishop Patrick, and of them I have seen three square patens, that is, a paten in the Church of Patrick in Armagh, and another in the Church of Elphin, and a third in the great-church of Donough-patrick (at Carns near Tulsk).
+
+St. Assicus was a most expert metal worker, and was also renowned as a bellfounder. Of his last days the following graphic description is given by Archbishop Healy:
+
+> Assicus himself in shame because of a lie told either by him, or, as others say, of him, fled into Donegal, and for seven years abode in the island of Rathlin O'Birne. Then his monks sought him out, and after much labour found him in the mountain glens, and tried to bring him home to his own monastery at Elphin. But he fell sick by the way and died with them in the wilderness. So they buried the venerable old man in the churchyard of Rath Cunga, now Racoon, in the Barony of Tirhugh, County Donegal. The old churchyard is there still, though now disused, on the summit of a round hillock close to the left of the road from Ballyshannon to Donegal, about a mile to the south of the village of Ballintra. We sought in vain for any trace of an inscribed stone in the old churchyard. He fled from men during life, and, like Moses, his grave is hidden from them in death.
+
+His feast is celebrated 27 April, as is recorded in the "Martyrology of Tallaght" under that date.
+
+W. H. Grattan-Flood.

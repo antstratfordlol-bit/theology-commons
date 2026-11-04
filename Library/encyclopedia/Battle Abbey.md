@@ -1,0 +1,33 @@
+---
+title: "Battle Abbey"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Edwin Hubert Burton"
+signed: "EDWIN BURTON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Battle_Abbey"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.battle-abbey} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Giovanni Giuda Giona Battista"
+next: "Wilhelm Bauberger"
+entry-type: "article"
+characters: 2960
+words: 505
+links: 0
+images: 0
+---
+
+# Battle Abbey {#cathen.battle-abbey}
+
+Founded by William the Conqueror on the site of the Battle of Senlae or Hastings (1066), nearly seven miles from the town of Hastings, in the County of Sussex, England. The building was begun in the following year, but was erected on such a great scale that it was not finished till the reign of William Rufus. It was designed for one hundred and forty monks, though there were never more than sixty in residence at one time. The first monks were from the Benedictine Abbey of Marmoutier in Normandy; the new foundation was dedicated to the Holy Trinity, St. Mary, and St. Martin, and was consecrated on 11 February, 1094. The king offered there his father's sword and coronation robes, and the abbey was enriched by many privileges, including the right of sanctuary, of treasure trove, of free warren, and of inquest, and the inmates and tenants were exempt from all episcopal and secular jurisdiction. It was ruled by a mitred abbot who afterwards had a seat in Parliament and who had the curious privilege of pardoning any criminal he might meet being led to execution. The monastic buildings were about a mile in circuit and formed a large quadrangle, the high altar of the church being on the spot where Harold fell. At the Abbey was kept the famous "Roll of Battle Abbey" which was a list of all those who accompanied William from Normandy. As time went on and the honour of descent from one of these Norman families was more highly thought of, unauthentic additions seem to have been made, and the present state of the text of the Roll is unsatisfactory from a critical point of view. At the time of the suppression of the Abbey (May, 1538), there were seventeen monks in residence and the income was returned as £987 which would be more than £10,000 in present value. Abbot Hammond, the last of the line of thirty-two abbots, was pensioned off and the buildings were given to Sir Antony Browne, a royal favourite, who pulled down the abbey, and built a mansion on its site. The entrance gate and considerable ruins now alone remain of the original buildings. In 1719, Lord Montague sold Battle Abbey to Sir Thomas Webster whose descendants held it until 1858, when it was bought by Lord Harry Vane, afterwards Duke of Cleveland. On the death of Duchess of Cleveland in 1901 it was purchased by Sir Augustus Webster, a descendant of its former owners. Through the eighteenth century a small Catholic congregation continued to exist at Battle, and now there is a Catholic church and a resident priest in the town.
+
+*The Chronicle of Battle Abbey, 1066-1176*, ed. Lower (London, 1851); *Chronicon Monast. De Bello* in *Anglia Christiana* (London, 1846); Dugdale, *Monasticon* (London, 1821), III, 233-259; *Custumals of Battle Abbey 1283-1312* (Camden Society, 1887), New Series, XLI; Duchess of Cleveland, *The Battle Abbey Roll* (London, 1889), 3 vols.; Clarke, *Catalogue of Muniments of Battle Abbey* (London, 1835), in 97 folio volumes.
+
+EDWIN BURTON

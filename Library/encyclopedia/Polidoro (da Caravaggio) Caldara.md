@@ -1,0 +1,35 @@
+---
+title: "Polidoro (da Caravaggio) Caldara"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Leigh Harrison Hunt"
+signed: "LEIGH HUNT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Polidoro_(da_Caravaggio)_Caldara"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.polidoro-da-caravaggio-caldara} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Archdiocese of Calcutta"
+next: "Domingos Caldas-Barbosa"
+entry-type: "article"
+characters: 2103
+words: 339
+links: 0
+images: 0
+---
+
+# Polidoro (da Caravaggio) Caldara {#cathen.polidoro-da-caravaggio-caldara}
+
+An Italian painter, born at Caravaggio, 1492 (or 1495); died at Messina, 1543. He passed his boyhood in poverty and misery, leaving Caravaggio when he was eighteen years old to seek work. Going to Rome, he was employed to carry mortar for the artists in the Vatican who were painting frescoes for Leo X. He watched them copying Raphael's designs, and soon emulated them so successfully that he attracted Raphael's attention and became his pupil. Maturino and Udine, for whom he prepared plaster, were his first instructors. He studied the antique, and the friezes and other ornaments he made for Raphael's pictures are noted for their appropriateness and Athenian purity. Caldara was the first of the Roman masters to employ chiaroscuro, probably from his profound study of the antique; and colour was a secondary consideration with him. He decorated the exterior of many Roman palaces in sgraffito, a form of painting where, over a dark background, often stucco, a lighter-coloured layer was painted, and designs, scratched through the light layer, only showed dark on light (*en camaïeu*).
+
+These designs are known today only from reproductive etchings and engravings from the hands of Alberti and Goltzius. When Rome was sacked in 1527, Caldara went to Naples, where he was helped by Andrea de Salerna. He started a school and received many commissions for frescoes. He left Naples for Sicily and in Messina attained great success. He painted the triumphal arches erected on the return of Charles V from Tunis, and in 1534 produced his masterpiece, "Christ Bearing the Cross". This oil is grand in conception and composition, and is treated in a far more naturalistic style than any of his other paintings. Some of his noteworthy works are: friezes in the Vatican; "Psyche received into Olympus", in the Louvre, Paris; "Passage of the Red Sea", in the Brera, Milan.
+
+LIPPMAN, Engraving and Etching, tr. HARDIE (New York, 1906); LöBKE, Geschichte der italienischen Malerei (Stuttgart, 1878); MUTHER, History of Painting, tr. KRIEHN; WORNUM, Epochs of Painting Characterized (London, 1847).
+
+LEIGH HUNT

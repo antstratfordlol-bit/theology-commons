@@ -1,0 +1,37 @@
+---
+title: "Simone Martini"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "George Charles Williamson"
+signed: "GEORGE CHARLES WILLIAMSON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Simone_Martini"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.simone-martini} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Martino Martini"
+next: "Diocese of Martinique"
+entry-type: "article"
+characters: 3035
+words: 543
+links: 0
+images: 0
+---
+
+# Simone Martini {#cathen.simone-martini}
+
+(Also known as SIMONE DI MARTINO, and as SIMONE MEMMI).
+
+Sienese painter, born in Siena, 1283; died either in the same place or at Avignon in 1344 or 1349. This artist is now declared to have been a direct pupil of Duccio, whom he surpassed in the decorative quality of his work Vasari states that he was a pupil of Giotto, but this statement is refuted by an examination of Simone's works, and also by all the evidence that has been gathered regarding the Sienese school. The earliest of Simone's authentic works is his great fresco in Siena of the enthroned Virgin and Child, painted originally in 1315, and restored by the master himself in 1321, after it had suffered damage from damp. In 1320 he painted an altar-piece for the church of St. Catherine at Pisa, which has now been taken to pieces, and although the greater part is in the Academy at Pisa, two other portions are in other buildings in the same city. In the following year he was at Orvieto, painting an altar-piece for the church of San Dominico which is now preserved in a museum of that city, and then he returned to Siena, where he was busily engaged in 1328 on his splendid portrait of Fogliano, painted in honour of that general's capture of Montemassi. A little later on we hear of him at Assisi, where he painted a wonderful series of works relating to the life of St. Martin, adorning the chapel of St. Martin in the church of San Francesco. The latter part of his life was passed at Avignon in the service of the papal court then resident in that place, and there he decorated various portions of the cathedral and several chapels and rooms in the papal palace. It was in Avignon that he met Petrarch, and there painted the portrait, so famous in later years, of Madonna Laura.
+
+He is said to have painted a portrait at Avignon of Petrarch himself, commissioned by Pandolfo Malatesta, but if he did this, it was during an earlier visit to Avignon, and respecting it we have not much information. We are only certain concerning his second visit to the place after having been called by Pope Clement VI. The exact date of his funeral is proved by certain Sienese records as 4 August, 1344, but the record is not sufficiently clear as to whether his body was transported from Avignon to Siena for burial, or whether he actually died in Siena. There are several of his works in the city of his birth, one at the Louvre, one in Berlin, an exceedingly fine one at Antwerp, and a remarkable signed and dated picture at Liverpool. In the museum at Altenburg there is one of his works, and there are at least three in private collections in America. The portrait of Petrarch attributed to him was sold in 1867 at the Poniatowski sale, and at the same sale there was sold a portrait of Laura, which was undoubtedly his work.
+
+See special manuscript material gathered up in Siena by Lucy Ollcott; VASARI, *Le Vite dei Pittori,* Milanesi edition (Florence, 1878, 1885); VALLE, *Lettres Senesi* (Rome, 1782), and other works by the same author.
+
+GEORGE CHARLES WILLIAMSON

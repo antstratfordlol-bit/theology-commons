@@ -1,0 +1,44 @@
+---
+id: "basil-epistulae.en.227"
+title: "Consolatory, to the clergy of Colonia."
+work: "Epistulae"
+author: "Basil the Great"
+volume: "NPNF2-08. Basil: Letters and Select Works"
+volume-id: "npnf208"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf208.xml"
+source-id: "ix.ccxxviii"
+sigla: "basil-epistulae"
+part-of: "basil-epistulae"
+part-ref: "227"
+part-kind: "text"
+part-evidence: "printed:body-line1:Letter CCXXVII."
+title-source: "bkv-clavis"
+clavis: "CPG 2900"
+boundary-decision: "one work; letters CCCLXI-CCCLXV share one file and one ranged anchor"
+anchors: "{#basil-epistulae.227} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 4
+scripture-references: 2
+scripture-refs-sidecar: "_scripture-refs/npnf208.tsv"
+print-pages: "270-270"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# Consolatory, to the clergy of Colonia. {#basil-epistulae.227}
+
+Letter CCXXVII.[^2929]
+
+*Consolatory, to the clergy of Colonia*.[^2930]
+
+What is so goodly and honourable before God and men as perfect love, which, as we are told by the wise teacher, is the fulfilling of the law?[^2931] I therefore approve of your warm affection for your bishop, for, as to an affectionate son the loss of a good father is unendurable, so Christ’s Church cannot bear the departure of a pastor and teacher. Thus, in your exceeding affection for your bishop, you are giving proof of a good and noble disposition. But this your good will towards your spiritual father is to be approved so long as it is shewn in reason and moderation; once let it begin to overstep this line, and it is no longer descrying of the same commendation. In the case of your very God-beloved brother, our fellow-minister Euphronius, good government has been shewn by those to whom has been committed the administration of the Church; they have acted as the occasion compelled them, to the gain alike of the Church to which he has been removed and of yourselves from whom he has been taken. Do not look at this as merely of man’s ordaining, nor as having been originated by the calculations of men who regard earthly things. Believe that those to whom the anxious care of the Churches belongs have acted, as they have, with the aid of the Holy Spirit; impress this inception of the proceedings on your hearts and do your best to perfect it. Accept quietly and thankfully what has happened, with the conviction that all, who refuse to accept what is ordered in God’s Churches by the Churches, are resisting the ordinance of God.[^2932] Do not enter into a dispute with your Mother Church at Nicopolis. Do not exasperate yourselves against those who have taken the anxious responsibility of your souls. In the firm establishment of things at Nicopolis your part in them may also be preserved; but if some disturbance affects them, though you have protectors beyond number, with the head the heart will be destroyed. It is like men who live on the riverside; when they see some one far up the stream making a strong dam against the current, they know that, in stopping the inrush of the current, he is providing for their safety. Just so those who have now undertaken the weight of the care of the Churches, by protecting the rest, are proving for your own security. You will be sheltered from every storm, while others have to bear the brunt of the attack. But you ought also to consider this; he has not cast you off; he has taken others into his charge. I am not so invidious as to compel the man, who is able to give a share of his good gifts to others, also to confine his favour to you, and to limit it to your own city. A man who puts a fence round a spring, and spoils the outpour of the waters, is not free from the disease of envy, and it is just the same with him who tries to prevent the further flow of abundant teaching. Let him have some care for Nicopolis too, and let your interests be added to his anxieties there. He has received an addition of labour, but there is no diminution in his diligence on your behalf. I am really distressed at one thing that you have said, which seems to me quite extravagant, namely, that if you cannot obtain your object, you will betake yourselves to the tribunals, and put the matter into the hands of men, the great object of whose prayers is the overthrow of the Churches. Take heed lest men, carried away by unwise passions, persuade you, to your hurt, to put in any plea before the courts, and so some catastrophe may ensue, and the weight of the result fall upon the heads of those who have occasioned it. Take my advice. It is offered you in a fatherly spirit. Consent to the arrangement with the very God-beloved bishops, which has been made in accordance with God’s will. Wait for my arrival. When I am with you, with God’s help, I will give you in person all the exhortations which it has been impossible for me to express in my letter, and will do my utmost to give you all possible consolation, not by word but in deed.
+
+[^2929]: Placed in 375.
+[^2930]: *i.e.*in Armenia. *cf. Letter* cxcv. p. 234. The removal of Euphronius to Nicopolis was occasioned by the death of Theodotus and the consecration of Fronto by the Eustathians, to whom the orthodox Colonians would not submit.
+[^2931]: Rom. xiii. 10.
+[^2932]: *cf*. Rom. xiii. 2.

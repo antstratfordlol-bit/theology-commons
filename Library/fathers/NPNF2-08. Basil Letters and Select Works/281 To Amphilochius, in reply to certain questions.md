@@ -1,0 +1,46 @@
+---
+id: "basil-epistulae.en.233"
+title: "To Amphilochius, in reply to certain questions."
+work: "Epistulae"
+author: "Basil the Great"
+volume: "NPNF2-08. Basil: Letters and Select Works"
+volume-id: "npnf208"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf208.xml"
+source-id: "ix.ccxxxiv"
+sigla: "basil-epistulae"
+part-of: "basil-epistulae"
+part-ref: "233"
+part-kind: "text"
+part-evidence: "printed:body-line1:Letter CCXXXIII."
+title-source: "bkv-clavis"
+clavis: "CPG 2900"
+boundary-decision: "one work; letters CCCLXI-CCCLXV share one file and one ranged anchor"
+anchors: "{#basil-epistulae.233} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 5
+scripture-references: 2
+scripture-refs-sidecar: "_scripture-refs/npnf208.tsv"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# To Amphilochius, in reply to certain questions. {#basil-epistulae.233}
+
+Letter CCXXXIII.[^2950]
+
+To Amphilochius, in reply to certain questions.
+
+I. I know that I have myself heard of this, and I am aware of the constitution of mankind. What shall I say? The mind is a wonderful thing, and therein we possess that which is after the image of the Creator. And the operation of the mind is wonderful; in that, in its perpetual motion, it frequently forms imaginations about things non-existent as though they were existent, and is frequently carried straight to the truth. But there are in it two faculties; in accordance with the view of us who believe in God, the one evil, that of the dæmons which draws us on to their own apostasy; and the divine and the good, which brings us to the likeness of God. When, therefore, the mind remains alone and unaided, it contemplates small things, commensurate with itself. When it yields to those who deceive it, it nullifies its proper judgment, and is concerned with monstrous fancies. Then it considers wood to be no longer wood, but a god; then it looks on gold no longer as money, but as an object of worship.[^2951] If on the other hand it assents to its diviner part, and accepts the boons of the Spirit, then, so far as its nature admits, it becomes perceptive of the divine. There are, as it were, three conditions of life, and three operations of the mind. Our ways may be wicked, and the movements of our mind wicked; such as adulteries, thefts, idolatries, slanders, strife, passion, sedition, vain-glory, and all that the apostle Paul enumerates among the works of the flesh.[^2952] Or the soul’s operation is, as it were, in a mean, and has nothing about it either damnable or laudable, as the perception of such mechanical crafts as we commonly speak of as indifferent, and, of their own character, inclining neither towards virtue nor towards vice. For what vice is there in the craft of the helmsman or the physician? Neither are these operations in themselves virtues, but they incline in one direction or the other in accordance with the will of those who use them. But the mind which is impregnated with the Godhead of the Spirit is at once capable of viewing great objects; it beholds the divine beauty, though only so far as grace imparts and its nature receives.
+
+2. Let them dismiss, therefore, these questions of dialectics and examine the truth, not with mischievous exactness but with reverence. The judgment of our mind is given us for the understanding of the truth. Now our God is the very truth.[^2953] So the primary function of our mind is to know one God, but to know Him so far as the infinitely great can be known by the very small. When our eyes are first brought to the perception of visible objects, all visible objects are not at once brought into sight. The hemisphere of heaven is not beheld with one glance, but we are surrounded by a certain appearance, though in reality many things, not to say all things, in it are unperceived;—the nature of the stars, their greatness, their distances, their movements, their conjunctions, their intervals, their other conditions, the actual essence of the firmament, the distance of depth from the concave circumference to the convex surface. Nevertheless, no one would allege the heaven to be invisible because of what is unknown; it would be said to be visible on account of our limited perception of it. It is just the same in the case of God. If the mind has been injured by devils it will be guilty of idolatry, or will be perverted to some other form of impiety. But if it has yielded to the aid of the Spirit, it will have understanding of the truth, and will know God. But it will know Him, as the Apostle says, in part; and in the life to come more perfectly. For “when that which is perfect is come, then that which is in part shall be done away.”[^2954] The judgment of the mind is, therefore, good and given us for a good end—the perception of God; but it operates only so far as it can.
+
+[^2950]: Placed in 376.
+[^2951]: St. Basil’s word may point either at the worshippers of a golden image in a shrine in the ordinary sense, or at the state of things where, as A. H. Clough has it, “no golden images may be worshipped except the currency.”
+[^2952]: *cf*. Gal. v. 19, 20, 21.
+[^2953]: ἡ αὐτοαλήθεια.
+[^2954]: 1 Cor. xiii. 10.

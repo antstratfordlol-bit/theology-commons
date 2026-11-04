@@ -1,0 +1,33 @@
+---
+title: "Diocese of Riobamba"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Andrew Alphonsus MacErlean"
+signed: "A. A. MacErlean"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Diocese_of_Riobamba"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.diocese-of-riobamba} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Alexis-François Rio"
+next: "Prefecture Apostolic of Rio Negro"
+entry-type: "article"
+characters: 1438
+words: 236
+links: 0
+images: 0
+---
+
+# Diocese of Riobamba {#cathen.diocese-of-riobamba}
+
+Diocese of (Bolivarensis), suffragan of Quito, Ecuador, erected by Pius IX, 5 January, 1863. The city, which has a population of 18,000, is situated 9039 feet above sea-level, 85 miles E.N.E. of Guayaquil. Its streets are wide and its adobe houses generally but one story high on account of the frequent earthquakes. Formerly the city was situated about 18 miles further west near the village of Cajabamba and contained 40,000 inhabitants. but it was completely destroyed on 4 February, 1797, by an earthquake. Old Riobamba was the capital of the Kingdom of Puruha before the conquest of the Incas; it was destroyed by Ruminiahui during his retreat in 1533 after his defeat by Benalcázar. The cathedral and the Redemptorist church in the new city are very beautiful. Velasco the historian and the poets Larrea and Orozco were natives of Riobamba. It was here too that the first national Ecuadorian convention was held in 1830. The diocese, comprising the civil Provinces of Chimborazo and Bolivar (having an area of 4250 square miles), has 63 priests, 48 churches and chapels, and about 200,000 inhabitants. The present bishop, Mgr Andres Machado, S.J., was born at Cuenca, Ecuador, 16 October, 1850, and appointed, 12 November, 1907, in succession to Mgr Arsenio Andrade (b. at Uyumbicho, in the Archdiocese of Quito, 8 September, 1825, appointed on 13 November, 1884, d. 1907).
+
+Mera, Geog. de la republica del Ecuador.
+
+A. A. MacErlean

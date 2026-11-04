@@ -1,0 +1,31 @@
+---
+title: "Elisha John Durbin"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "5"
+pages: "unknown"
+author: ""
+signed: "LOUIS G. DEPPEN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Elisha_John_Durbin"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.elisha-john-durbin} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Archdiocese of Durazzo"
+next: "Albrecht Dürer"
+entry-type: "article"
+characters: 2066
+words: 330
+links: 0
+images: 0
+---
+
+# Elisha John Durbin {#cathen.elisha-john-durbin}
+
+The "Patriarch-priest of Kentucky", born 1 February, 1800, in Madison County, in that State, of John D. Durbin, son of Christopher Durbin, pioneer, and Patience, Logsdon; died in 1887 at Shelbyville, Kentucky. In 1816 he was sent to the preparatory seminary of St. Thomas, in Nelson County, where he spent about four years of manual labour and study under such distinguished missionaries as David Flaget, Felix de Andreis, and Joseph Rosati; thence he went to the near-by Seminary of St. Joseph, at Bardstown, where, in 1821-1822, he had as an instructor Francis Patrick Kenrick, later Bishop of Philadelphia and Archbishop of Baltimore. He was ordained priest in Bardstown, by Bishop David, 21 September, 1822. Early in 1824 Bishop Flaget entrusted him the pastoral care of western and southwestern Kentucky, about thirty counties, with an area of over 11,000 square miles, nearly one-third of the State. Then began a missionary career of over sixty years hardly paralleled in the United States, and that subsequently won for him the names of "Apostle of Western Kentucky" and "Patriarch-Priest of Kentucky". Union County was the centre of his mission. From it he journeyed on horseback over his vast territory, erected churches, established stations, formed congregations, and visited isolated families. In the beginning duty called him beyond his mission proper into Indiana, and once a year to Nashville, Tennessee. He traversed his extensive and sparsely settled mission incessantly for over sixty years, his churches, stations, and the rude homes of his poor flock his only abiding places. Occasionally a communication from him would appear in the press, and then only in defence of truth or outraged justice. When he did write, he wrote cogently and elegantly. Enfeebled by age, his sturdy constitution gave way in 1884, when his bishop, yielding to his entreaties, assigned him the small mission at Princeton, Kentucky. After a stroke of paralysis he was given, in 1885, the chaplaincy of an academy, at Shelbyville, Kentucky, where he died.
+
+LOUIS G. DEPPEN

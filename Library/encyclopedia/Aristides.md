@@ -1,0 +1,33 @@
+---
+title: "Aristides"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "unknown"
+author: "Edward Aloysius Pace"
+signed: "EDWARD A. PACE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Aristides"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.aristides} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Aristeas"
+next: "Aristotle"
+entry-type: "article"
+characters: 2883
+words: 476
+links: 0
+images: 0
+---
+
+# Aristides {#cathen.aristides}
+
+A Christian apologist living at Athens in the second century. According to Eusebius, the Emperor Hadrian, during his stay in Greece (123-127), caused himself to be initiated into the Eleusinian Mysteries. A persecution of the local Christians followed, due probably, to an outburst of pagan zeal, aroused by the Emperor's act. Two apologies for Christianity were composed on the occasion, that of Quadratus and that of Aristides which the author presented to Hadrian, at Athens, in 126 (Eus., H.E., IV, iii, 3, and Chron. II, 166). St. Jerome, in his work *De vir. ill.*, xx, calls him *philosophus eloquentissimus*, and, in his letter to Magnus (no. LXX), says of the "Apologeticum" that it was *contextum philosophorum sententiis*, and was later imitated by St. Justin Martyr. He says, further (De vir ill., loc. cit.), that the "Apology" was extant in his time, and highly thought of. Eusebius (loc. cit.), in the fourth century, states that it had a wide circulation among Christians. It is referred to, in the ninth century, by Ado, Archbishop of Vienne, and Usuard, monk of St. Germain. It was then lost sight of for a thousand years, until in 1878, the Mechitarite monks of San Lazzaro, at Venice, published a Latin translation of an Armenian fragment of the "Apology" and an Armenian homily, under the title: "S. Aristidis philosophi Atheniensis sermones duo." In 1889, Professor J. R. Harris of Cambridge discovered a Syriac version of the whole "Apology" in the Convent of St. Catherine on Mt. Sinai, and translated it into English (Texts and Studies, Cambridge, 1891, I, i). Professor J. A. Robinson found that the "Apology" is contained in the "Life of Barlaam and Josaphat", ascribed to St. John Damascene. Attempts have also been made to restore the actual words of Aristides.
+
+As to the date and occasion of the "Apology" there are opinion of opinion. While some critics hold, with Eusebius, that it was presented to Hadrian, others maintain that it was written during the reign of Antoninus Pius (138-161). The aim of the "Apology" is to show that Christians only have the true conception of God. Having affirmed that God is "the selfsame being who first established and now controls the universe", Aristides points out the errors of the Chaldeans, Greeks, Egyptians, and Jews concerning the Deity, gives a brief summary of Christian belief, and emphasizes the righteousness of Christian life in contrast with the corrupt practices of paganism. The tone throughout is elevated and calm, and the reasonableness of Christianity is shown rather by an appeal to facts than by subtle argumentation. It is interesting to note that during the Middle Ages the "Life of Barlaam and Josaphat" had been translated into some twenty languages, English included, so that what was in reality the story of Buddha became the vehicle of Christian truth in many nations.
+
+EDWARD A. PACE

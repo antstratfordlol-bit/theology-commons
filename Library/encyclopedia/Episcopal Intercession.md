@@ -1,0 +1,33 @@
+---
+title: "Episcopal Intercession"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "Michael Ott"
+signed: "MICHAEL OTT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Episcopal_Intercession"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.episcopal-intercession} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Intercession (Mediation)"
+next: "Interdict"
+entry-type: "article"
+characters: 3325
+words: 535
+links: 0
+images: 0
+---
+
+# Episcopal Intercession {#cathen.episcopal-intercession}
+
+The right to intercede for criminals, which was granted by the secular power to the bishops of the Early Church. This right originated rather in the great respect in which the episcopal dignity was held in the early centuries of Christianity, than in any definite enactment. Reference to its existence is made in the seventh canon of the Council of Sardica about 344 (Mansi, "Collectio Amplissima Conciliorum", III. It is also mentioned by St. Augustine (Epp. cxxxiii and cxxxix, in Migne, P.L., XXXIII, 509, 535), St. Jerome (Ep. lii, in Migne, P.L., XXII, 527-40), and by Socrates in his "Church History" (V, xiv; VII, xvii). St. Augustine repeatedly interceded for criminals with Macedonius, who was then governor of Africa (Epp. clii-cliii, in Migne, P.L., XXXIII, 652). Martin of Tours interceded with Emperor Maximus for the imprisoned Priscillianists in 384-5: and Bishop Flavian of Antioch interceded with Emperor Theodosius I in 387 on behalf of the inhabitants of Antioch, who had wantonly destroyed the imperial statues in that city. St. Ambrose induced Emperor Theodosius I to enact a law which forbade the execution of the death penalty and the confiscation of property until thirty days after sentence had been passed. It was the purpose of this law to leave room for clemency and to prevent the punishing of the innocent [see Bossuet, "Gallia Orthodoxa" pars I, lib. II, cap. v, in "Œuvres Complètes", XII (Bar-le-Duc, 1870), 98]. To enable them to exercise their right of intercession, the bishops had free access to the prisons (Codex Theodosii, app., cap. xiii). They were even exhorted to visit the prisoners every Wednesday and Saturday in order to investigate the cause of their imprisonment, and to admonish the supervisors of the prisons to treat those committed to their charge with Christian charity. In case the prison-keepers were found to be inhuman or remiss in their duty towards their prisoners, the bishops were to report these abuses to the emperor. The rights of the bishops, which were almost unlimited in this respect, were somewhat regulated for the bishops of the Eastern Empire in "Codex Justiniani", lib. I, tit. 4: "De episcopali audientia"; for the bishops of the Western Empire in the "Edicta Theoderici", cap. xiv (Mon. Germ. Leg., V). Closely allied with the right of episcopal intercession was the right of asylum or sanctuary (see RIGHT OF ASYLUM), and the right and duty of the bishops to protect orphans, widows, and other unfortunates. Thus Theodoret, Bishop of Cyrus, interceded with Empress Pulcheria in behalf of the poor of his diocese, who were overladen with taxes; the Third Council of Carthage, held in 399, requested the emperor to accede to the wishes of the bishops by appointing advocates to plead the causes of the poor before the courts, while the Council of Mâcon, held in 585, forbade all civil authorities to begin judicial proceedings against widows and orphans without previously notifying the bishop of the diocese to which the accused belonged.
+
+KRAUS, *Realencyklopädie der christlichen Altertümer*, I (Freiburg im Br., 1882), 166-7; RATZINGER, *Gesch. der kirchlichen Armenpflege* (Freiburg im Br., 1884), 133-9; EALES in *Dictionary of Christian Antiquities* (London, 1876-80), s. v.; LALEMAND, *Histoire de la Charité*, I (Paris, 1907-).
+
+MICHAEL OTT

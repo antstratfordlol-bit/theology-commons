@@ -1,0 +1,43 @@
+---
+title: "Mount Thabor"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "551-552"
+author: "Barnabas Meistermann"
+signed: "Barnabas Meistermann"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Mount_Thabor"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.mount-thabor} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "State of Texas"
+next: "Thabraca"
+entry-type: "article"
+characters: 5670
+words: 953
+links: 0
+images: 1
+---
+
+# Mount Thabor {#cathen.mount-thabor}
+
+**Thabor,** Mount.—The name of Mount Thabor, הר תבור, is rendered in the Septuagint as ὄρος Θαβώρ, and in Jeremias and Osee as Ιταβύριον. It is under this last form (Itabyrion or Atabyrion) that the mount figures in the historical works of the ancients. The Arabs call it Jebel et Tur (mountain of mountains), a name which they give likewise to Mounts Garizim, Sinai, and Olivet. Mount Thabor is distinguished among the mountains of Palestine for its picturesque site, its graceful outline, the remarkable vegetation which covers its sides of calcareous rock, and the splendour of the view from its summit. Nearly isolated on all sides and almost hemisphercal in shape it rises in a peak 1650 feet above the Plain of Esdraclon, which it bounds on the north and east, about five miles south-east of Nazareth. It attains a height of 1843 feet above the level of the Mediterranean and of 2540 feet above that of the Lake of Tiberias. Josephus (Bell. Jud., IV, i, 8) gives it a height of thirty stadia, or 18,201 feet, but he doubtless made use of the figure Δ (four stadia or 2427 feet), which the copyist must have replaced by Λ (thirty). The summit forms an oblong plateau about 3000 feet long, from north-west to south-east, by 1000 wide. The eye is immediately attracted to the north-east by the gigantic masses of Great Hermon, then to the Valley of the Jordan, the Lake of Tiberias and the mountain chains of Hauran, Basan, and Galaad. To the south are Naim and Endor at the foot of Jebel Dahy or Mount Morch (Judges, vii, 1), wrongly identified by Eusebius and St. Jerome with Little Hermon (Ps. xli, 7); somewhat farther off is seen Mount Gelboc. Westward the rich plain of Esdrelon stretches as far as Mount Carmel and innumerable Biblical and historical localities stir thoughts of the past.
+
+Mount Thabor is the object of poetical comparisons on the part of the Psalmist (Ps. lxxxviii, 13), the Prophet Jeremias (xlvi, 18), and the Prophet Osee (v, 1). The beautiful mountain also played an important part in history. There the Prophetess Debbora secretly assembled 10,000 Israelites under the command of Barac, who subsequently swept down upon the army of Sisara and put it to flight at the torrent of Cison (Judges, iv, v). Later the Madianites and Amalecites slew there the brothers of Gedeon and other Israelites who had sought refuge there from the enemy (Judges, vi, 2-viii, 18–19). At the division of the Promised Land, Thabor formed the boundary between Issachar and Zabulon (Jos., xix, 22). Within the tribe of Zabulon, but near Dabereth, a city of Issachar, the Book of Josue (xix, 12) mentions the city of Ceseleththabor, in Hebrew Chisloth-Thabor, which means "slope or side of Thabor". I Par. (vi, 77) also speaks of a city of Zabulon called simply Thabor and assigned to the Levites descended from Merari. This is an abbreviated form of the name of the same city, and is probably the same as that which as Dabour figures among the Galilean cities conquered by Rameses II, according to "Papyrus Anastasii" (I, xxii, 2). Polybius (Hist., V, lxx, 6) relates that in 218 B.C. Antiochus the Great captured by stratagem the city of Atabyrion in Galilee. History makes no further mention of this city, not even in connexion with the bloody battles fought at the foot of Mount Thabor in 53 B.C. between Alexander, the son of Aristobulus, and Gabinius, the lieutenant of Pompey ("Ant. Jud.", XIV, vi, 3; "Bell. Jud.", I, viii, 7). Eusebius alone again refers to it in the words "Dabira … a village of the Jews on Mount Thabor" ("Onom.", ed. Klostermann, 78). Dabereth (Jos., xix, 12; xxi, 28) is indisputably the modern village of Dabûriyéh, at the foot of Mount Thabor towards the west.
+
+Mount Thabor
+
+From a Photograph
+
+A ten minutes' ascent northward from Nazareth brings one to the ruins of a Hebrew place called by the natives Khirbet Daboura (ruins of Daboura) and also Abu Amoûd (father of columns). This is the site of the Biblical Ciseleth Thabor, of the Daboura of the Egyptians, and the Atabyrion of the Greeks. It commanded the road of caravans and armies. During the revolt of the Jews against the Romans, Josephus surrounded "the plateau of Thabor" with a wall of circumvallation twenty-six stadia or about two miles in circumference, which task was accomplished in forty days. This formed a kind of entrenched camp where the rebels, pursued from all directions, sought refuge in order to organize their last stand. Vespasian's lieutenant, Placidus, marched against them with a force of 600 horsemen, enticed them into the plain by stratagem, and completely defeated them ("Vita", 37; "Bell. Jud.", II, iv, xx, 6; i, 8). In the fourth century of our era Mount Thabor, which was acknowledged as the scene of Christ's Transfiguration, became a place of pilgrimage and was surmounted by a basilica and several churches and chapels. In 1101 the Benedictine monks rebuilt the sacred edifices and erected a fortified abbey, where they withstood several attacks by the Saracens, but after the battle of Hattin (1187) they had to abandon the mountain. Melek el Adel built there (1210–12) a large and solid fortress which the Crusaders attacked in vain in 1217; in the following year Melek el Adel caused it to be dismantled. The plateau of Mount Thabor is now occupied by Franciscans and Schismatic Greek monks.
+
+Robinson, *Biblical Researches in Palestine*, III (Boston, 1841); *Survey of W. Pal. Memoirs*, I (London, 1991); Guérin, *Description de la Palestine: Galilée* (Paris, 1880); Meistermann, *Le mont Thabor* (Paris, 1900).
+
+Barnabas Meistermann.
+
+*[Illustration: Catholic Encyclopedia - Mount Thabor.jpg — on Wikimedia Commons, not fetched]*

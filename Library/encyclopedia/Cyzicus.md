@@ -1,0 +1,33 @@
+---
+title: "Cyzicus"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Siméon Vailhé"
+signed: "S. VAILHÉ"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Cyzicus"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.cyzicus} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Cyrus of Alexandria"
+next: "Czech Literature"
+entry-type: "article"
+characters: 2981
+words: 492
+links: 0
+images: 0
+---
+
+# Cyzicus {#cathen.cyzicus}
+
+A titular see of Asia Minor, metropolitan of the ancient ecclesiastical province of Hellespontus. The city was probably founded by Pelasgians from Thessaly; later it received many colonies from Miletus, but its importance began only after the Peloponnesian war, when the decay of Athens and Miletus set in. Alcibiades defeated the Lacedaemonians there (410 B.C.). Alexander captured it from the Persians in 334 B.C.; and Mithridates besieged it with 300,000 men in 74 B.C., but it withstood him stoutly, and the year following was delivered by Lucullus. The Romans favoured it and recognized its municipal independence. Cyzicus was the leading city of Northern Mysia as far as Troas. Under Tiberius it was incorporated with the empire, but remained the capital of Mysia, afterwards of Hellespontus, and became one of the greatest cities in the world. The era of its Olympiads was reckoned from A.D. 135 or 139. Its peculiar coin, the Cyzicenus, was worth 28 drachmae, i.e. nearly five dollars and a half in American money. Cyzicus was captured by the Arabs in 675, and ruined by earthquakes in 443 and 1043; it began to be deserted as early as the eleventh century. Its site is today marked by a huge heap of ruins amid the marshes of Balkiz Serai, in the *caza* of Erdek, vilayet of Brusa. The walls, dating from the fourth century, are partly preserved; there are also the ruins of a Roman aqueduct and a theatre. The ampitheatre, built in the third century B.C., was one of the largest in the world; its diameter was nearly 500 feet. Colossal foundations of a temple dedicated to Hadrian are still visible: the columns were 21.35 metres high (about 70 feet), while the highest known elsewhere, those at Baalbek in Syria, are only 19.35 metres (about 63 feet). The monuments of Cyzicus were used by Justinian as a quarry for the building of Saint Sophia, and are still exploited by the natives.
+
+As ecclesiastical metropolis of Hellespontus, Cyzicus had a catalogue of bishops beginning with the first century; Lequien (I, 747) mentions fifty-nine. A more complete list is found in Nicodemos, in the Greek "Office of St. Emilian" (Constantinople, 1876), 34-36, which has eighty-five names. We may mention the famous Arian Eunomius; St. Dalmatius; St. Proclus and St. Germanus, who became Patriarchs of Constantinople; and St. Emilian, a martyr in the eighth century. Gelasius, an historian of Arianism, who wrote about 475, was born at Cyzicus. Lequien (III, 941) mentions a Latin bishop in 1477. Cyzicus is still a metropolitan title for the Greeks, the metropolitan residing at Artake (Erdek), a little port on the western shore of the peninsula. Opposite to Artake is another port, Peramos (Perama), where an Assumptionist Father has founded a Greek parish. At Panormos (Panderma), another more important port nine miles south-east of the ruins of Cyzicus (10,000 inhabitants), there is a Catholic Armenian parish. At the Dardanelles, also, there is a Latin parish.
+
+S. VAILHÉ

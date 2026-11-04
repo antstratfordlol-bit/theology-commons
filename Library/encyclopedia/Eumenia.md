@@ -1,0 +1,31 @@
+---
+title: "Eumenia"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "5"
+pages: "unknown"
+author: "Sophron Pétridès"
+signed: "S. Pétridès"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Eumenia"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.eumenia} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Eulogius of Cordova"
+next: "Eunomianism"
+entry-type: "article"
+characters: 1235
+words: 204
+links: 0
+images: 0
+---
+
+# Eumenia {#cathen.eumenia}
+
+**Eumenia**, a titular see of Phrygia Pacatiana in Asia Minor, and suffragan to Hierapolis. It was founded by Attalus II Philadelphus (159-138 B.C.) at the sources of the Cludrus and near the Glaucus, on the site of the modern Ishekli, the center of a nahic in the vilayet of Brusa (1000 inhabitants). The new city was named by its founder after his brother Eumenes. Numerous inscriptions and many coins remain to show that Eumenia was an important and prosperous city under Roman rule. On its coins it boasts of its Achnean origin. The spread of Christianity is, however, the most interesting fact in its history. As early as the third century its population was in great part Christian, and it seems to have suffered much during the persecution of Diocletian. Its bishop and martyr, St. Thraseas (Euseb., H. E., V, xxiv), must belong to this period. Another bishop, Metrodorus, known by an inscription, lived probably soon after Emperor Constantine. Four other bishops are known by their subscriptions to proceedings of councils—Theodore in 361, Leo in 787, Paul and Epiphanius in 879 (Lequien, Oriens christ., I, 807). The see is mentioned in the "Notitiae episcopatuum" as late as the twelfth or thirteenth centuries.
+
+S. Pétridès.

@@ -1,0 +1,35 @@
+---
+title: "Gratian"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Thomas Bartholomew Scannell"
+signed: "T. B. Scannell"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Gratian"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.gratian} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Paris de Grassis"
+next: "Jerome Gratian"
+entry-type: "article"
+characters: 2678
+words: 452
+links: 1
+images: 0
+links_to:
+  - "Louis-Sébastien Le Nain de Tillemont"
+---
+
+# Gratian {#cathen.gratian}
+
+Roman Emperor; son of Valentinian I; born at Sirmium, 359; died at Lyons, 383. Before he had attained his ninth year he received the purple robe and diadem, with the title of Augustus; and on the death of his father (375) he became Emperor of the West. His half-brother, Valentinian II, an infant, was associated with him in the title. He fixed his residence at Trier, and devoted himself to opposing the advance of the Alamanni, whom he routed in the great battle of Colmar (378). His colleague in the east, Valens, was, however, defeated and slain by the Goths in the same year at the battle of Adrianople. Gratian, feeling himself unequal to the task of governing the whole empire alone, assigned the eastern portion to Theodosius I. Up to this time he had shown himself to be a wise ruler and a brave and skilful general, but now he began to neglect his duties and to devote himself to hunting and other sports. A rebellion which arose in Britain under Maximus, one of his generals, spread into Gaul. Gratian, who was residing at Paris, fled to Lyons, and was there treacherously slain (25 Aug., 383). Gratian's reign marks a distinct epoch in the transition of the empire from paganism to Christianity. At the time of his accession (375) he refused the insignia of pontifex maximus, which even Constantine and the other Christian emperors had always accepted. At the instance of St. Ambrose, who became his chief adviser, he caused the statue of Victory to be removed from the senate house at Rome (382). In this same year he abolished all the privileges of the pagan pontiffs and the grants for the support of pagan worship. Deprived of the assistance of the State, paganism rapidly lost influence. Gratian did not go so far as to confer upon the Church the privileges and emoluments which he took from the pagans, but he gave proof of his zeal by undoing the effects of Valens's persecution, and by taking measures for the suppression of various forms of heresy. Though in general his policy was one of toleration, he made apostasy a crime punishable by the State (383). It was for Gratian that St. Ambrose wrote his great treatise "De Fide".
+
+ALLARD, Le Christianisme et l'Empire Romain (Paris, 1898); DE BROGLIE, Saint Ambroise (Paris, 1899); GIBBON, Decline and Fall of the Roman Empire (London, 1815), xxv-xxvii; RICHTER, Das weströmische Reich, besonders unter den Kaisern Gratian, Valentinian II. und Maximus (Berlin, 1865); [[Louis-Sébastien Le Nain de Tillemont|TILLEMONT]], Hist. des Empereurs (Paris, 1701), V, 136-88, 705-26; BEUGNOT, Hist. de la destruction du paganisme en Occident (Paris, 1835); BOISSIER, La fin du paganisme (Paris, 1891).
+
+T. B. Scannell.

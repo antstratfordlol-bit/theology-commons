@@ -1,0 +1,35 @@
+---
+title: "Council of Sardica"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Patrick Joseph Healy"
+signed: "PATRICK J. HEALY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Council_of_Sardica"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.council-of-sardica} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Sardica"
+next: "Sardinia"
+entry-type: "article"
+characters: 3745
+words: 600
+links: 0
+images: 0
+---
+
+# Council of Sardica {#cathen.council-of-sardica}
+
+One of the series of councils called to adjust the doctrinal and other difficulties caused by the Arian heresy, held most probably in 343. (For date see Hefele, French Tr., "Histoire des conciles", II, pt. II, 737-42, and Duchesne, "Hist. ancienne de l'Eglise", II, 215.) It was convoked by the Emperors Constans and Constantius at the urgent entreaty of Pope Julius. Hosius of Cordova and other Western bishops, desirous of peace and hoping to secure a final judgment in the case of St. Athanasius and other bishops alternately condemned and vindicated by councils in the East and the West; desirous, also, of settling definitively the confusion arising from the many doctrinal formulae in circulation, suggested that all such matters should be referred to a general council. In order to make the council thoroughly representative, Sardica in Dacia (now Sofia, in Bulgaria), was chosen as the meeting place. Athanasius, driven from Alexandria by the Prefect Philadrius in 339, was summoned by the Emperor Constans from Rome, where he had taken the latter place he met Hosius, who was commissioned by the pope and the emperor to preside over the council, and whom he accompanied to Sardica. Pope Julius was represented by the priests Archidamus and Philoxenus, and the deacon Leo. Ninety-six Western bishops presented themselves at Sardica: those from the East were not so numerous.
+
+Being in the minority, the Eastern bishops decided to act as a body, and, fearing defections, they all lodged in the same place. On the ground of being unwilling to recognize Athanasius, Marcellus of Ancyra, and Asclepas, who had been excommunicated in Eastern synods, they refused to sit in council with the Western bishops. Hosius of Cordova attempted to effect a compromise by inviting them to present privately to him their complaints against Athanasius, and by promising, in case Athanasius should be acquitted, to take him to Spain. These overtures failed. The Eastern bishops—although the council had been called expressly for the purpose of reopening the case in regard to those who had been excommunicated—defended their conduct on the fictitious plea that one council could not revise the decisions of another. They withdrew from Sardica and met at Philippopolis, where they composed an encyclical and a new creed, which they falsely dated from Sardica. The Western bishops, thus abandoned, examined the cases of Athanasius, Marcellus, and Asclepas. No fresh investigation of charges against Athanasius was considered necessary, as these had already been rejected, and he and the other two bishops, who were permitted to present exculpatory documents, were declared innocent. In addition to this, censure was passed on the Easterns for having abandoned the council, and several of them were deposed and excommunicated.
+
+The question of a new creed containing some additions of that of Nicaea was discussed, but although the forumlae had been drawn up, the bishops wisely decided to add nothing to the accepted symbol, and thus gave the Arians no pretext for saying that hitherto they had not been explicitly condemned. Though the form of the proposed creed was presented to the council, it was bit inserted in the encyclical addressed by the council to "all the bishops of the Catholic Church". Before separating, the bishops enacted several important canons, especially concerning the transfer and trial of bishops and appeals. These canons, with the other documents of the council, were sent to Pope Julius with a letter signed by the majority of the attending bishops. The council failed entirely to accomplish its purpose. The pacification of the Church was not secured, and the Eastern bishops grew bolder and more contumacious.
+
+PATRICK J. HEALY

@@ -1,0 +1,33 @@
+---
+title: "Samosata"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Siméon Vailhé"
+signed: "S. Vailhé"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Samosata"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.samosata} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Samos"
+next: "Richard Sampson"
+entry-type: "article"
+characters: 3375
+words: 548
+links: 0
+images: 0
+---
+
+# Samosata {#cathen.samosata}
+
+**Samosata**, a titular see in Augusta Euphratensis, suffragan of Hierapolis, capital of Commagenum, whose kings were relatives of the Seleucides. The first was Mithridates I Callinicus (d. 96 B.C.); his son and successor, Antiochus I, died before 31 B.C., when the country was governed by Mithridates, an ally of Anthony at Actium; then followed his other son, Antiochus II, whom Octavius summoned to Rome and condemned in 29 B.C. In 20 B.C. Mithridates III became king, then Antiochus III, who died in 17 B.C., in which year Tiberius united Commagenum to the province of Syria. In 38 Caligula gave the province to King Antiochus IV Epiphanes Magnus, afterwards deposed, later restored by Claudius in 41, and deposed again in 72 by CÊsennius PÊtus, Governor of Syria. The sons of Antiochus withdrew to Rome and Commagenum passed under Roman administration. A civil metropolis from the days of Emperor Hadrian, Samosata was the home of the sixteenth *Legio Flavia Firma* and the terminus of several military roads. The native city of Lucian, the philosopher and satirist, and of Paul, Bishop of Antioch in the third century, it had seven martyrs: Hipparchus, Philotheus, etc., who suffered under Maximinus Thrax, and whose "Passion" was edited by Assemani ("Acta SS. martyrum orient. et occident.", II, 124-47; see also Schultess in "Zeitschr. der deutschen morgenl"ndischen Gesellschaft", LI (1897), 379. St. Daniel the Stylite was born in a village near Samosata; St. Rabulas, venerated on 19 February, who lived in the sixth century at Constantinople, was also a native of Samosata. A "Notitia episcopatuum" of Antioch in the sixth century mentions Samosata as an autocephalous metropolis ("Echos d'Orient", X, 144); at the Photian Council of 879, the See of Samosata had already been united to that of Amida or Diarbekir (Mansi, "Conciliorum collectio", XVII-XVIII, 445). As in 586 the titular of Amida bears only this title (Le Quien, "Oriens christianus", II, 994), it must be concluded that the union took place between the seventh and the ninth centuries. Among the earlier bishops may be mentioned Peperius at NicÊa (325); St. Eusebius, a great opponent of the Arians, killed by an Arian woman, honoured on 22 June; Andrew, a vigorous opponent of St. Cyril of Alexandria and of the Council of Ephesus (Le Quien, "Oriens christianus", II, 933-6). Chabot gives a list of twenty-eight Jacobite bishops ("Revue de l'Orient chrétien", VI, 203). In February, 1098, the emir Baldoukh, attacked by Baudouin of Antioch, cut his army to pieces there. In 1114 it was one of the chief quarters of the Mussulmans hostile to the Count of Edessa, to whom it succumbed, but was recaptured by the Mussulmans about 1149. At present the ruins of Samosata may be seen at Samsat on the right bank of the Euphrates, in the caza of Husni Mansour and the vilayet of Mamouret-el-Aziz; there are remains of a wall towards the south, traces of the ancient wall dating probably from the first century, and finally the artificial hill on which the fortress was erected.
+
+SMITH, *Dict. of Greek and Roman Geog*., s. v.; HUMANN AND PUCHSTEIN, *Reisen in Kleintsien u. Nord Syrien* (1890), 191; MARQUARDT, *Manuel des antiquités romaines*, II (Paris, 1892), 340-3; CHAPOT in *Bulletin de correspondance hellénique*, XXVI, 203-5; IDEM, *La frontiËre de l'Euphrate* (Paris, 1907), 269-71.
+
+S. Vailhé.

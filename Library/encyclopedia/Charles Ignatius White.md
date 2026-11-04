@@ -1,0 +1,33 @@
+---
+title: "Charles Ignatius White"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Thomas Francis Meehan"
+signed: "THOMAS F. MEEHAN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Charles_Ignatius_White"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.charles-ignatius-white} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Andrew White"
+next: "Ven. Eustace White"
+entry-type: "article"
+characters: 1635
+words: 254
+links: 0
+images: 0
+---
+
+# Charles Ignatius White {#cathen.charles-ignatius-white}
+
+Editor, historian, born at Baltimore, Maryland, U.S.A., 1 February, 1807; died at Washington, D.C., 1 April, 1878. He was one of the leading publicists in the United States during the second half of the nineteenth century. His Classical studies were made at Mt. St. Mary's Emmittsburg, and at St. Mary's College, Baltimore, and his theological course at St. Sulpice, Paris, where he was ordained priest on 5 June, 1830. Returning to Baltimore soon after his ordination, he was engaged in parish work there and at Pikesville, until 1857, when he was made rector of St. Matthew's, Washington, remaining in this charge until his death. In addition to his parochial labours he edited the "annual Catholic Almanac and Directory" (1834-1857); founded the "Religious Cabinet", a monthly magazine in Baltimore (1842) which was called the following year the "U. S. Catholic Magazine" (1843-1847), and revived as the "Metropolitan Magazine" in 1853. He was also editor of the weekly paper, the "Catholic Mirror" (1850-1855). These publications in the formative period before the civil war were, under his direction, very influential factors in the great progress made in the United States by the Church spiritually and materially. He also translated and published: Balme's "Protestantism and Catholicity Compared in their Effects on the Civilization of Europe" (Baltimore, 1856); and compiled the "Life of Mrs. Eliza A. Seton" (New York, 1853), founder of the American branch of the Sisters of Charity.
+
+Cathedral Records (Baltimore, 1906), 60; Freeman's Journal (New York), contemporary files; ALLIBONE, Dict. of Authors, s.v.
+
+THOMAS F. MEEHAN

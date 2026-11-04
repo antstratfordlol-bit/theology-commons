@@ -1,0 +1,35 @@
+---
+title: "Archdiocese of Fermo"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Umberto Benigni"
+signed: "U. BENIGNI"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Archdiocese_of_Fermo"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.archdiocese-of-fermo} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Jean-Baptiste-Antoine Ferland"
+next: "Antonio Fernández"
+entry-type: "article"
+characters: 2152
+words: 346
+links: 0
+images: 0
+---
+
+# Archdiocese of Fermo {#cathen.archdiocese-of-fermo}
+
+(FIRMANA).
+
+In the province of Ascoli Piceno (Central Italy). The great antiquity of the episcopal city is attested by the remains of its cyclopean walls. It was the site of a Roman colony, established in 264 B.C., consisting of 6000 men. With the Pentapolis it passed in the eighth century under the authority of the Holy See and underwent thenceforth the vicissitudes of the March of Ancona. Under the predecessors of Honorius III the bishops of city became the counts, and later princes, of Fermo. In the contest between the Hohenstaufen and the papacy, Fermo was several times besieged and captured; in 1176 by Archbishop Christian of Mainz, in 1192 by Henry Vl, in 1208 by Marcuald, Duke of Ravenna, in 1241 by Frederick 11, in 1245 by Manfred. After this it was governed by different lords, who ruled as more or less legitimate vassals of the Holy See, e.g. the Monteverdi, Giovanni Visconti, and Francesco Storza (banished 1446), Oliverotto Uffreducci (murdered in 1503 by Caesar Borgia), who was succeeded by his son Ludovico, killed at the battle of Monto Giorgio in 1520, when Fermo became again directly subjected to the Holy See. Boniface VIII (1204-1303) established a university there. Fermo is the birth place of the celebrated poet, Annibale Caro.
+
+Local legend attributes the first preaching of the Gospel at Fermo to Sts. Apollinarius and Maro. The martyrdom of the bishop, St. Alexander, with seventy companions, is placed in the persecution of Decius (250), and the martyrdom of St. Philip under Aurelian (270-75). Among the noteworthy bishops are: Passinus, the recipient of four letters from Gregory III; Cardinal Domenico Caspranica (1426): Sigismondo Zanettini (1584), under whom Fermo was made the seat of an archdiocese; Giambattista Rinuccini, nuncio in Ireland; and Alessandro Borgia. The suffragans of Fermo are Macerata-Tolentino, Montalto, Ripatransone, and San Severino. The archdiocese has (1908) a population of 18,000; 117 parishes; 368 secular priests and 86 regular; 2 male and 5 female educational institutions; 6 religious houses of men and 50 of women; and a Catholic weekly, the "Voce delle Marche".
+
+U. BENIGNI

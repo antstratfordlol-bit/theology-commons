@@ -1,0 +1,33 @@
+---
+title: "Thermopylæ"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "Siméon Vailhé"
+signed: "S. VAILHÉ"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Thermopylæ"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.thermopylae} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Thermæ Basilicæ"
+next: "Epistles to the Thessalonians"
+entry-type: "article"
+characters: 1741
+words: 299
+links: 0
+images: 0
+---
+
+# Thermopylæ {#cathen.thermopylae}
+
+A titular see and suffragan of Athens in Achaia Prima. It is the name of a defile about 4 miles long, whose principal passage was barred by a wall, which the Phocidians erected against the Thessalians in the sixth century B.C. It receives its name from two hot springs called today Loutra (the baths). There in the month of July, 480 B.C., Leonidas, King of Sparta, with 1300 Spartan soldiers and allies fell with his men while bravely opposing the enormous army of Xerxes. In 279 B.C. Brennus with 170,000 Gauls penetrated into Greece by this pass; it was there also that Antiochus III, King of Syria, was defeated by the Romans in 191 B.C., and where in A.D. 395 Alaric, King of the Goths, passed on his way to devastate Greece. In the sixth century Justinian restored the fortifications (Procopius, "De aedificiis", IV, 2). After the Latins in 1204 had overthrown the Byzantine Empire, Thermopylae was made a Latin diocese. Many letters from Innocent III, written in 1208 and 1210 to Bishop Arnulfus, are extant. The other bishops from the thirteenth to the sixteenth century are mentioned by LeQuien ("Oriens christianus", III, 847-850; Gams, "Series episcoporum", 431; Eubel, "Hierarchia catholica medii aevi", I, 509; II, 275; III, 332); but many of them were only titulars. The see is referred to shortly after in "Liber censuum" of the Roman Church (ed. Fabre), II, 8; it was never a Greek diocese. Today it is known as Lycostomos on the bank of the Maliac Gulf in the district of Phoiotis. The passage is less difficult than formerly because the alluvium deposited by the Sperchios has caused the sea to recede and has facilitated a road between the waters and the mountain.
+
+SMITH, *Dict. of Greek and Roman Geog.,* s.v.
+
+S. VAILHÉ

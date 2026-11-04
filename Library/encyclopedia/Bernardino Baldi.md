@@ -1,0 +1,35 @@
+---
+title: "Bernardino Baldi"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Edoardo San Giovanni"
+signed: "EDOARDO SAN GIOVANNI"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Bernardino_Baldi"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.bernardino-baldi} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Balderic"
+next: "Bl. Anthony Baldinucci"
+entry-type: "article"
+characters: 2275
+words: 345
+links: 0
+images: 0
+---
+
+# Bernardino Baldi {#cathen.bernardino-baldi}
+
+An Italian poet and savant, b. at Urbino, 5 June, 1553; d. at the same place, 10 October, 1617. After being initiated into higher mathematics by his fellow-townsman Commandino, he went to Padua (1573) and Rome (1576), where he managed to acquire a wide erudition, scientific, classical, and Oriental; Chaldaic, Arabic, and Persian were among the languages he learned. Having subsequently taken orders, he was made Abbot of Guastalla (Manua) by Prince Ferrante Gonzaga. In spite of many wanderings, entailing long-protracted absences, he retained the abbacy until 1609, when his native city claimed him for the rest of his life. Cardinal Cinzio Aldobrandini, the nephew of Clement VIII, and Francesco Maria della Rovere, Duke of Urbino, were proud of his friendship. The latter entrusted him with an embassy to Venice in 1612.
+
+Baldi's poetic laurels were mainly earned by "La Nautica", a didactic poem closely following the "Georgics" in finely polished blank verse (1576). To this were added nineteen "Egloghe miste" (1583) "L'invenzione del bossolo de navigare", miscellaneous short poems (1590), and the "Epigrammi" (1614). An attempt at introducing fourteen and eighteen syllable lines in "Lauro" (1600) and "Il Diluvio Universale" (1604), met with utter failure. In addition to his Latin poems and several polyglot compilations, we have: "Cento Apologhi" (1583), some dialogues, a well-known "Descrizione del palazzo ducale d'Urbino" (1587), the biographies of Federico, second Duke, and Guidobaldo I, of Urbino, a curious biographical work on Italian and foreign mathematicians (Urbino, 1707), two Latin treatises on Vitruvius, numerous letters and translations from the Targum Onkelos, the Arabic Psalms, Aratus, Musaeus, Hero of Alexandria, Aristotle, etc. The unconstrained elegance of his diction gives him a foremost rank as a prose-writer. A standard edition of his best writings is that of Ugolini and Polidori (Florence, 1859).
+
+P. Ireneo Affo, *Vita di Bernardino Baldi* (Parma, 1783); Zaccagnini, *La Vita e le opere edite ed inedite di Bernardino Baldi* (Parma, 1903). As to the sources of *La Nautica*, see Zaccagnini, *Giornale storico della letteratura Italiana* (1902), XL, 366-396; as to the *Egloghe,* Ruberto, *Propugnatore*, XX.
+
+EDOARDO SAN GIOVANNI

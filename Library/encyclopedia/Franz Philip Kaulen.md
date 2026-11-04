@@ -1,0 +1,37 @@
+---
+title: "Franz Philip Kaulen"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "Francis J. Schaefer"
+signed: "FRANCIS J. SCHAEFER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Franz_Philip_Kaulen"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.franz-philip-kaulen} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Kaufmann"
+next: "Wenzel Anton Kaunitz"
+entry-type: "article"
+characters: 4316
+words: 717
+links: 0
+images: 0
+---
+
+# Franz Philip Kaulen {#cathen.franz-philip-kaulen}
+
+Scriptural scholar, born 20 March, 1827, at Düsseldorf; died at Bonn, 11 July, 1907. He attended the gymnasium in his native city, studied theology at the University of Bonn from 1846 to 1849, and was ordained priest at Cologne on 3 September, 1850. For several years he was engaged on the mission in various stations of the Diocese of Cologne, until in 1859 he was appointed lecturer at the *Konvikt* or theological school at Bonn. In 1862 he received the degree of Doctor of Divinity from the University of Würzburg in virtue of a commentary on the Book of Jonas; in 1863 he obtained a chair of Old Testament exegesis at the University of Bonn; in 1880 and 1882 he was appointed extraordinary and ordinary professor of theology at the same university; in 1890 he was raised to the dignity of a domestic prelate by Leo XIII; in 1900 he received the grand cross of the Order of the Knights of the Holy Sepulchre, and in 1903 he was made a member of the Biblical Commission. During the same year (1903) he was compelled to give up teaching owing to an apoplectic stroke.
+
+The study of the Bible was Kaulen's aim from the beginning. He kept it before his mind even when engaged in the ministry or in the conferences at the theological school of Bonn; and nearly all his works refer to it or kindred subjects. His principal works are: (1) "Lingu Mandschuric Institutiones", a grammar of the Manchu language (Ratisbon, 1875); (2) "Die Sprachverwirrung zu Babel", or the confusion of languages at Babel (Mainz, 1861); (3) "Librum Jonae exposuit Fr. Kaulen", or a commentary on the Book of Jonas (Mainz, 1862); (4) "Geschichte der Vulgata", or a history of the Vulgate (Mainz, 1861); (5) "Sprachliches Handbuch zur biblischen Vulgata", or a linguistic manual to the Latin Vulgate (Mainz, 1870); (6) "Einleitung in die Heilige Schrift Alten und Neuen Testamentes", or Introduction to the Sacred Scripture of the Old and New Testament (Freiburg, 1876-86); (7) "Assyrien und Babylonien" (1876); (8) "Der biblische Schöpfungsbericht", or the Biblical account of the creation (Freiburg, 1902); (9) "Thomas von Villanova, ein Büchlein von der göttlichen Liebe", or a book on Divine love (Freiburg, 1872); (10) three books of devotion, "Alleluja", "Brot der Engel" or Bread of the Angels, and "Die ewige Anbetung" or the perpetual adoration. The books of Kaulen were much in demand; some — e. g. the grammar to the Vulgate, the "Introduction" and "Assyria and Babylon" — passed through several editions.
+
+A lasting monument of his theological learning is found in the second edition of the "Kirchenlexikon". The first edition of his work which comprised 11 volumes, a supplement, and a general index, was issued by the publishing firm of Benjamin Herder (q. v.). A second edition soon appeared necessary: in 1877 the editorship was entrusted to Dr. Joseph Hergenröther, then professor in Würzburg, but, at the elevation of the latter to the cardinalate in 1879, was finally given to Dr. Kaulen, who presided over the work until it was completed. The new or second edition comprises twelve volumes and a general index; the first volume appeared in 1886, the last in 1901, and the index, prepared by the Rev. Hermann Joseph Kamp, with an introduction on the divisions of theology by Dr. Melchior Abfalter, in 1903. Kaulen was helped in this gigantic enterprise by the Rev. Dr. Hermann Streber, by the Rev. A. M. Weiss, O.P., who prepared the catalogue of subjects, and by a large number of learned contributors, the list of whom is given at the end of the last volume. The part taken by Kaulen consisted in editing the articles contributed, in revising several articles taken over from the first edition, and in contributing many articles of his own; the enumeration of his personal contributions fills almost five columns in the general list of contributors. The selection of Kaulen for this great theological work was most fortunate. In the preface to the first volume, written in 1882, he declared that the articles should combine depth of learning with ecclesiastical correctness and a clear, intelligible presentation of the subject, which programme was carried out through the entire work.
+
+*Mitteilungen der Herderschen Verlagshandlung* (Freiburg, September, 1908); *Der Katholik*, no. vi (Mainz, 1907).
+
+FRANCIS J. SCHAEFER

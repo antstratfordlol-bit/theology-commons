@@ -1,0 +1,33 @@
+---
+title: "Paul Gabriel Antoine"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "unknown"
+author: "George F. Johnson"
+signed: "GEORGE F. JOHNSON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Paul_Gabriel_Antoine"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.paul-gabriel-antoine} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Vicariate Apostolic of Antofogaste"
+next: "Anton Ulrich"
+entry-type: "article"
+characters: 2166
+words: 344
+links: 0
+images: 0
+---
+
+# Paul Gabriel Antoine {#cathen.paul-gabriel-antoine}
+
+A French theologian, born at Lunéville, 10 January, 1678; died at Pont-à-Mousson, 22 January, 1743. At the age of fifteen he applied for admission into the Society of Jesus, and was received 9 October, 1693. On the completion of his studies, he taught "humanities" for several years, first a Pont-à-Mousson, and then at Colmar. Returning to the former city, he occupied the chair of philosophy, and later that of theology with considerable success, the first edition of his "Dogmatic Theology" appearing in 1723, and three years later is "Moral Theology" in three volumes. He was afterwards rector of the College of Pont-à-Mousson, where he died in his sixty-fifth year. His "Theologia universa, speculativa et dogmatica", embracing the whole field of scholastic inquiry met with an enthusiastic reception, and at once stamped the author as one of the first theologians of the age. It went through nine editions during his lifetime, and ten after his death. It is remarkable for its clearness and solidity. Still more flattering was the reception accorded his "Theologia moralis universa", first published in Nancy in 1726, in duodecima. It has since gone through sixty editions in different countries. The Roman edition of 1747, published by Philip Carbognano, O.M., contained several additions to the original, among them chapters on Condemned Propositions, Reserved Cases, decrees of Benedict XIV, etc. Antoine's "Moral Theology" was so highly esteemed by Benedict XIV that he prescribed its use by the students of the College of Propaganda, and it was likewise received by many of the bishops throughout France and Italy. Yet despite the fact that it is remarkable for three qualities seldom found united, viz, brevity, clearness, and completeness, it is no long a text-book at the present day. For, in the opinion of the learned Gury, Antoine inclines too much toward the side of severity, a judgment fully confirmed by St. Alphonsus Ligouri (Homo Ap., xvi, 108). Besides his theological works, Antoine published also several ascetical and devotional treatises.
+
+Sommervogel, Bibliotheque de la c. de J., s. v.; Hurter, Nomenclator, II, 1289.
+
+GEORGE F. JOHNSON

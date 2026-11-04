@@ -1,0 +1,31 @@
+---
+title: "Francesco Zantedeschi"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Brother Potamian"
+signed: "Brother Potamian"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Francesco_Zantedeschi"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.francesco-zantedeschi} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Diocese of Zante"
+next: "Zanzibar"
+entry-type: "article"
+characters: 1914
+words: 306
+links: 0
+images: 0
+---
+
+# Francesco Zantedeschi {#cathen.francesco-zantedeschi}
+
+Priest and physicist, born 1797; died at Padua, 29 March, 1873. For some time Abate Zantedeschi was professor of physics and philosophy in the Liceo of Venice; later he accepted the chair of physics in the University of Padua, which he held in 1853 being then obliged to resign on account of failing sight. He was an ardent worker and prolific writer, 325 memoirs and communications appearing under his name in the Biblioteca Italiana and the Bibliotheque Universelle de Geneve. In 1829 and again in 1830 Zantedeschi published papers on the production of electric currents in closed circuits by the approach and withdrawal of a magnet, thereby anticipating Faraday's classical experiments of 1831. While carrying out researches the solar spectrum, Zantedeschi was among the first to recognize the marked absorption by the atmosphere of the red, yellow, and green rays; he also thought that he had detected in 1838 a magnetic action on steel needles of ultra-violet light. Though this effect was not confirmed, it is interesting to note that a connection between light and magnetism was suspected so many years before the announcement in 1867 by Clerk-Maxwell of the electro-magnetic theory of light. In a tract of 16 pages, published in 1859, Zantedeschi defended the claims of Romagnosi, a physician of Trent, to the discovery in 1802 f the magnetic effect of the electric current, a discovery which is usually accredited to Oersted of Copenhagen in 1820. Zantedeschi's experiments and papers on the repulsion of flames by a strong magnetic field (discovered by Padre Bancalari of the Pious Schools in 1847) attracted general attention at the time. In his later years Zantedeschi dictated an autobiography which is kept in the archives of the Academy of Verona. His principal works are: "Ricerche sul termo-elettricismo dinamico" (1838) and "Trattato del Magnetismo e della Elettricita" (1843).
+
+Brother Potamian.

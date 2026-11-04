@@ -1,0 +1,35 @@
+---
+title: "Dávila Padilla"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Adolph Francis Alphonse Bandelier"
+signed: "AD. F. BANDELIER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Dávila_Padilla"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.davila-padilla} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Ven. William Davies"
+next: "Æneas McDonnell Dawson"
+entry-type: "article"
+characters: 1405
+words: 220
+links: 0
+images: 0
+---
+
+# Dávila Padilla {#cathen.davila-padilla}
+
+(AGUSTÍN)
+
+A native of the City of Mexico, b. 1562; d. 1604. At the age of sixteen he graduated at the University of Mexico as master of arts and soon after entered the Dominican Order. He held the chairs of philosophy and theology at Puebla and Mexico. He was successively definitor and procurator of the Mexican province of his order and was sent to Rome and Madrid as its representative. In 1601 he was made Bishop of Santo Domingo, where he died. Dávila Padilla was not a prolific writer. He left, however, one very important, though unfortunately rare, work, the "Historia de la Fundacion y Discurso de la Provincia de Santiago de México" (Madrid, 1596; Brussels, 1625). Beristain mentions a third edition of 1634. While not free from mistakes, it still stands as the foremost chronicle of the Dominican Order and its missions in America up to the end of the sixteenth century.
+
+NICOLÁS ANTONIO, *Bibliotheca hispana nova* (2d ed., Madrid, 1733-1738); LEÓN Y PINELO, *Epitome de la Biblioteca oriental y occidental* (2d ed., Madrid, 1737); EGUIARA, *Biblioteca mexicana* (Mexico, 1755); BERISTAIN DE SOUZA, *Biblioteca hispano-americana* (2d ed., Mexico, 1883); YCAZBALCETA, *Bibliografia mexicana* (Mexico, 1886); *Diccionario universal de Historia y Geografía* (Mexico); GIL GONZALES DÁVILA, *Teatro eclesiástico de la primitiva Iglesia de las Indias occidentales* (Madrid, 1654).
+
+AD. F. BANDELIER

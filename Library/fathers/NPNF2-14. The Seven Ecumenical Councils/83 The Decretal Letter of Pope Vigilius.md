@@ -1,0 +1,72 @@
+---
+id: "councils-fifth-ecumenical.en.decretal-letter-pope-vigilius"
+title: "The Decretal Letter of Pope Vigilius."
+work: "The Fifth Ecumenical Council. The Second Council of Constantinople"
+author: "the ecumenical councils (ed. H. R. Percival)"
+volume: "NPNF2-14. The Seven Ecumenical Councils"
+volume-id: "npnf214"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf214.xml"
+source-id: "xii.xii"
+sigla: "councils-fifth-ecumenical"
+part-of: "councils-fifth-ecumenical"
+part-ref: "decretal-letter-pope-vigilius"
+part-kind: "text"
+part-evidence: "whole-document (file is the citable unit)"
+title-source: "printed-title-en"
+boundary-decision: "one work per council, Percival's dossier entire (title page, historical introduction, creed, canons, excursus); it is an editorial compilation and does not fit the author-work form at all"
+anchors: "{#councils-fifth-ecumenical.decretal-letter-pope-vigilius} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 3
+scripture-references: 0
+scripture-refs-sidecar: "_scripture-refs/npnf214.tsv"
+print-pages: "322-323"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# The Decretal Letter of Pope Vigilius. {#councils-fifth-ecumenical.decretal-letter-pope-vigilius}
+
+(The manuscript from which this letter was printed was found in the Royal Library of Paris by Peter de Marca and by him first published, with a Latin translation and with a dissertation. Both of these with the Greek text are found in Labbe and Cossart’s *Concilia*, Tom. V., col. 596 *et seqq*.; also in Migne’s *Patr. Lat*., Tom. LXIX., col. 121 *et seqq*. Some doubts have been expressed about its genuineness and Harduin is of opinion that the learned Jesuit, Garnerius, in his notes on the Deacon Leberatus’s *Breviary*, has proved its supposititious character. But the learned have not generally been of this mind but have accepted the letter as genuine.)
+
+Vigilius to his beloved brother Eutychius.
+
+No one is ignorant of the scandals which the enemy of the human race has stirred up in all the world: so that he made each one with a wicked object in view, striving in some way to fulfil his wish to destroy the Church of God spread over the whole world, not only in his own name but even in ours and in those of others to compose diverse things as well in words as in writing; in so much that he attempted to divide us who, together with our brethren and fellow bishops, are stopping in this royal city, and who defend with equal reverence the four synods, and sincerely persist in the one and the same faith of those four synods, by his sophistries and machinations he tried to part from them; so that we ourselves who were and are of the same opinion as they touching the faith, went apart into discord, brotherly love being despised.[^321]
+
+But since Christ our God, who is the true light, whom the darkness comprehendeth not, hath removed all confusion from our minds, and hath so recalled peace to the whole world and to the Church, so that what things should be defined by us have been healthfully fulfilled through the revelation of the Lord and through the investigation of the truth.
+
+Therefore, my dear brothers, I do you to wit, that in common with all of you, our brethren, we receive in all respects the four synods, that is to say the Nicene, the Constantinopolitan, the first Ephesian, and the Chalcedonian; and we venerate them with devout mind, and watch over them with all our mind. And should there be any who do not follow these holy synods in all things which they have defined concerning the faith, we judge them to be aliens to the communion of the holy and Catholic Church.
+
+Wherefore on account of our desire that you, my brothers, should know what we have done in this matter, we make it known to you by this letter. For no one can doubt how many were the discussions raised on account of the Three Chapters, that is, concerning Theodore, sometime bishop of Mopsuestia, and his writings, as well as concerning the writings of Theodoret, and concerning that letter which is said to have been written by Ibas to Maris the Persian: and how diverse were the things spoken and written concerning these Three Chapters. Now if in every business sound wisdom demands that there should be a retractation of what was propounded after examination, there ought to be no shame when what was at first omitted is made public after it is discovered by a further study of the truth. [And if this is the case in ordinary affairs] how much more in ecclesiastical strifes should the same dictate of sound reason be observed? Especially since it is manifest that our Fathers, and especially the blessed Augustine, who was in very sooth illustrious in the Divine Scriptures, and a master in Roman eloquence, retracted some of his own writings, and corrected some of his own sayings, and added what he had omitted and afterward found out. We, led by their example never gave over the study of the questions raised by the controversy with regard to the before-mentioned Three Chapters, nor our search for passages in the writings of our Fathers which were applicable to the matter.
+
+As a result of this investigation it became evident that in the sayings of Theodore of Mopsuestia (which are spoken against on all hands) there are contained very many things contrary to the right faith and to the teachings of the holy Fathers; and for this very reason these same holy Fathers have left for the instruction of the Church treatises which they had written against him.
+
+For among other blasphemies of his we find that he openly said that God the Word was one [Person] and Christ another [Person], vexed with the passions of the soul and with the desires of the flesh, and that he little by little advanced from a lower to a higher stage of excellence by the improvement (προκοπῇ, *per profectum operum*) of his works, and became irreprehensible in his manner of life.[^322] And further he taught that it was a mere man who was baptized in the Name of the Father and of the Son and of the Holy Ghost, and that he received through his baptism the grace of the Holy Spirit, and merited his adoption; and therefore that Christ could be venerated in the same way that the image of the Emperor is venerated as being the persona (εἰς πρόσωπον) of God the Word. And he also taught that [only] after his resurrection he became immutable in his thoughts and altogether impeccable.
+
+Moreover he said that the union of the Word of God was made with Christ as the Apostle says the union is made between a man and his wife: They twain shall be one flesh; and that after his resurrection, when the Lord breathed upon his disciples and said, Receive the Holy Ghost, he did not give to them the Holy Spirit. In like strain of profanity he dared to say that the confession which Thomas made, when he touched the hands and side of the Lord after his resurrection, saying, My Lord and my God, did not apply to Christ (for Theodore did not acknowledge Christ to be God); but that Thomas gave glory to God being filled with wonder at the miracle of the resurrection, and so said these words.
+
+But what is still worse is this, that in interpreting the Acts of the Apostles, Theodore makes Christ like to Plato, and Manichæus, and Epicurus, and Marcian, saying: Just as each of these were the authors of their own peculiar teachings, and called their disciples after their own names, Platonists, and Manichæans, and Epicureans, and Marcionites, just so Christ invented dogmas and called his followers Christians after himself.
+
+Let therefore the whole Catholic Church know that justly and irreproachably we have arrived at the conclusions contained in this our constitution. Wherefore we condemn and anathematize Theodore, formerly bishop of Mopsuestia, and his impious writings, together with all other heretics, who (as is manifest) have been condemned and anathematized by the four holy Synods aforesaid, and by the Catholic Church: also the writings of Theodoret which are opposed to the right faith, and are against the Twelve Chapters of St. Cyril, and against the first Council of Ephesus, which were written by him in defence of Theodore and Nestorius.
+
+Moreover we anathematize and condemn the letter to the Persian heretic Maris, which is said to have been written by Ibas, which denies that Christ the Word was incarnate of the holy Mother of God and ever-virgin Mary, and was made man, but declares that a mere man was born of her, and this man it styles a temple, so from this we are given to understand that God the Word is one [Person] and Christ another [Person]. Moreover it calumniates Saint Cyril, the master and herald of the orthodox faith, calling him a heretic, and charging him with writing things similar to Apollinaris; and it reviles the first Synod of Ephesus, as having condemned Nestorius without deliberation or investigation; it likewise declares the twelve chapters of St. Cyril to be impious and contrary to the right faith; and further still it defends Theodore and Nestorius, and their impious teachings and writings.
+
+Therefore we anathematize and condemn the aforesaid impious Three Chapters, to-wit, the impious Theodore of Mopsuestia and his impious writings; And all that Theodoret impiously wrote, as well as the letter said to have been written by Ibas, in which are contained the above mentioned profane blasphemies. We likewise subject to anathema whoever shall at any time believe that these chapters should be received or defended; or shall attempt to subvert this present condemnation.
+
+And further we define that they are our brethren and fellow-priests who ever keep the right faith set forth by those afore-mentioned synods, and shall have condemned the above-named Three Chapters, or even do now condemn them.
+
+And further we annul and evacuate by this present written definition of ours whatever has been said by me (*a me*) or by others in defence of the aforesaid Three Chapters.
+
+Far be it from the Catholic Church that anyone should say that all the blasphemies above related or they who held and followed such things, were received by the before-mentioned four synods or by any one of them. For it is most clear, that no one was admitted by the before-mentioned holy Fathers and especially by the Council of Chalcedon, about whom there was any suspicion, unless he had first repelled the above-named blasphemies and all like to them, or else had denied and condemned the heresy or blasphemies of which he was suspected.
+
+Subscription.
+
+May God preserve thee in health, most honourable brother. Dated VI. Id. Dec. in the xxijd year of our lord the Emperor Justinian, eternal Augustus, the xijth year after the consulate of the illustrious Basil.[^323]
+
+[^321]: In this sentence I have followed De Marca’s Latin version, but I must confess that I am not at all satisfied with the construing of the long phrase beginning Οὕτως ὠς.
+[^322]: The reader will notice that this is hardly distinguishable from the “moral growth” and “ethical development” which the modern “kenotists” attribute to the Incarnate Son of God.
+[^323]: i.e. a.d. 553.

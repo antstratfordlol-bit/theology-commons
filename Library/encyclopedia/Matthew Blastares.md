@@ -1,0 +1,35 @@
+---
+title: "Matthew Blastares"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Andrew B. Meehan"
+signed: "A.B. MEEHAN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Matthew_Blastares"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.matthew-blastares} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Blasphemy"
+next: "St. Blathmac"
+entry-type: "article"
+characters: 2517
+words: 395
+links: 0
+images: 0
+---
+
+# Matthew Blastares {#cathen.matthew-blastares}
+
+A monk of the Order of St. Basil, living in the fourteenth century, who applied himself to the study of theology and canon law. Through the labours of John the Scholastic, Photius, Zonaras, Balsamon, and others the Greek Church possessed some collections of laws and commentaries. There was, however, need of a more comprehensive work, and one better adapted to the needs of the time. It appeared about 1335, in the "Syntagma" of Blastares, a collection of ecclesiastical constitutions in alphabetical order, written in Greek. The full title might be translated into Latin thus: "Syntagma alphabeticum rerum omium, quae in sacris divinisque canonibus comprehenduntur, elaboratum partier et compositum per minimum ex hieromonachis Matthaeum Blastarem". The collection, which contains a long preface, is arranged alphabetically by means of the initial letters of the words which indicate the subject-matter of each chapter; several chapters are thus found under one letter. For example under the Greek *Lambda*: Thoughts concerning the degrees of relationship in reference to matrimony, concerning marriages permitted and prohibited. Under *Delta*: Thoughts on last testaments, deacons, justice, ecclesiastical trials, etc.
+
+In each chapter the author first gives the law of the Church on the subject and then, if there be any, the civil law also, setting forth the sense rather than the exact wording of either, and contenting himself with noting where the constitutions referred to may be found. The "Syntagma", commonly called "Nomocanon" or, by metaphor, (*pedalion*) (rudder), soon became extensively employed, and is still used in the Greek Church, as is evidenced by the fact that an edition of the work in six volumes was published in Athens from 1852 to 1860, under the auspices of the Holy Synod. This edition bears the title: (*Syntagma ton Theion kai hieron kanonon*). This work is also found in the Synodicon of Beveridge (P.G., CXLIV, CXLV) published at Oxford in 1672. There are also attributed to Blastares a tract on matrimonial cases, and two poems published by Goar in Greek and Latin, one on the offices of the Church of Constantinople, the other on the court. His "Syntagma", like other medieval law-books of the Greeks, breathes a spirit inimical to the Roman Church.
+
+MOHLER in Kirchenlex.; VERING, Lehrbuch des Kirchenr., 17; WALTER, Lehrbuch des Kirchenr., xiv. 79, 80; BEVERIDGE, Prolegom. In Pandecta Canonum, I, 21 sqq.; KRUMBACHER, Gesch. der bysant. Litt. (Munich, 1897), 607.
+
+A.B. MEEHAN

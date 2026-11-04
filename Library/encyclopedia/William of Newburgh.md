@@ -1,0 +1,35 @@
+---
+title: "William of Newburgh"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Francis Fortescue Urquhart"
+signed: "F. F. Urquhart"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/William_of_Newburgh"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.william-of-newburgh} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "William of Nangis"
+next: "St. William of Norwich"
+entry-type: "article"
+characters: 2288
+words: 383
+links: 0
+images: 0
+---
+
+# William of Newburgh {#cathen.william-of-newburgh}
+
+Historian, b. at Bridlington, Yorkshire, 1136; d. at Newburgh, Yorkshire, 1198, where he went as a boy to the small and recently-founded Augustinian priory. There he remained to the end as an Augustinian canon. There is no evidence that he travelled, and hardly anything is known of what was probably a very uneventful life. It would appear that he wrote his history within a short period of his death; if this was the case he must have long been preparing his materials. His "Historia rerum anglicarum" opens with a short introductory sketch of the reigns of the Conqueror and his sons, followed by a fuller account of that of Stephen. The main purpose of the writer was to produce a philosophical commentary on the history of his own times, and books II-V cover the period 1154-98. They are more than a mere chronicle; they form a real history in which the connection of events is traced, a proper sense of proportion observed, and men and their actions judged from an intelligent and independent point of view.
+
+William of Newburgh, with his contemporary Roger of Hoveden, belongs to the northern school of historians, who carried on the admirable traditions of the Venerable Bede. This was a spirit very unlike that which inspired Geoffrey of Monmouth's mythical "History of the British Kings" with its tales of King Arthur, and William attacks Geoffrey and his legends with great indignation, calling the latter "impudent and shameless lies". This striking illustration of his historic integrity won for him from Freeman the title of "the father of historical criticism", and the compliment is not altogether undeserved. Living in a remote Yorkshire monastery William could not have had an intimate first-hand knowledge of public events, but he used his authorities, such as Symeon of Durham and Henry of Huntingdon, with excellent judgment. Though his chronology is confused and untrustworthy his work is of the greatest value, especially for the early years of the reign of Henry II. The best edition of the History is that edited by R. Howlett for the Rolls Series (Chronicles of Stephen, Henry II, and Richard I, vols. I and II).
+
+HOWLETT, preface to Rolls Series; NORGATE in Dict. Nat. Biog., s. v.; JONES in the Cambridge History of English Literature, I, 171.
+
+F. F. Urquhart.

@@ -1,0 +1,31 @@
+---
+title: "Florens Radewyns"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "Vincent Joseph Henry Scully"
+signed: "Vincent Scully"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Florens_Radewyns"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.florens-radewyns} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Matthew Rader"
+next: "Joseph Maria von Radowitz"
+entry-type: "article"
+characters: 1652
+words: 271
+links: 0
+images: 0
+---
+
+# Florens Radewyns {#cathen.florens-radewyns}
+
+Co-founder of the Brethren of the Common Life, b. at Leyderdam, near Utrecht, about 1350; d. at Deventer, 25 March, 1400. He passed a brilliant university course, took his M.A. degree at Prague. Returning home, he was installed canon of St. Peter's, Utrecht. For some little time he led a gay life, until converted by a sermon of Gerard Groote. Thereupon he resigned his canonry, placed himself unreservedly under Groote's direction, at his instance was ordained a priest, and accepted a poor benefice at Deventer, where Groote resided. There he powerfully seconded his friend's apostolate, especially among the poor clerical scholars of Deventer, and it was at his suggestion and in his house that the first community of the Brethren of the Common Life was formed. It was also from his house that the six brethren who established the Congregation of Windesheim went forth in 1386, and among them John, the elder brother of Thomas à Kempis. Thomas himself was under the immediate care and guidance of Radewyns from his thirteenth to his twenty-first year. He wrote a loving and edifying sketch of his master, wherein he describes Florens as a man learned in the Scriptures and all sacred science, exceedingly devout, humble, simple, zealous, charitable, and excessively mortified. His austerities enfeebled his health, possibly hastened his end. He was commonly regarded among the brethren as a saint. His skull, with that of Groote, is still preserved in the Catholic church (Broedern Kerk) of Deventer. Of his correspondence we have only one letter, preserved by us by à Kempis, who also gives us a collection of his notable sayings.
+
+Vincent Scully.

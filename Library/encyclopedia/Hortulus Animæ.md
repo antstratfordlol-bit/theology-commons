@@ -1,0 +1,46 @@
+---
+title: "Hortulus Animæ"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "Herbert Thurston"
+signed: "Herbert Thurston"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Hortulus_Animæ"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.hortulus-animae} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "John Joseph Hornyold"
+next: "Hosanna"
+entry-type: "article"
+characters: 3328
+words: 536
+links: 0
+images: 0
+---
+
+# Hortulus Animæ {#cathen.hortulus-animae}
+
+(Little Garden of the Soul).
+
+A prayer book which both in its Latin and German forms was exceedly popular in the early years of the sixteenth century. The first known edition was printed at Strasburg by William Schaffener of Rappeltsweiler, and is dated 13 March, 1498. After that date new editions with various supplements and modifications were constantly issued by other printers both in Strasburg and other German cities, and even at Lyons. Many of them, though small in size, were illustrated with beautifully designed woodcuts. Mr. C. Dodgson gives a list of eighteen editions between 1516 and 1521, all of which contained cuts by the well-known engravers Hans Springinklee and Erhard Schön. The earliest German edition appeared in 1501, but the Latin editions on the whole predominate. With regard to its contents, the "Hortulus" bears a general resemblance to the Horæ and Primers which were then the form of prayer book most familiar in France and England. As in these latter, the Little Office of our Lady always occupies the place of honour, but the "Hortulus" contains a greater variety of popular prayers, many of them recommended by curious and probably spurious Indulgences. The name "Hortulus Animæ" was derived not from the æsthetic but from the utilitarian aspects of a garden, as is shown by the three Latin distichs prefixed to most copies of the work. The first two lines run:-
+
+> Ortulus exiguus varias ut sæpe salubres
+>
+>
+>
+> Herbas producit, quas medicina probat.
+> (A tiny garden will often produce a variety of salutary herbs of which medicine knows the value).
+
+The contents of the volume are further described as "mentis pharmaca sacræ" (the simples of the devout mind). The popularity of the book is further shown by the extreme beauty of the miniatures in some existing manuscript examples. One of these at Vienna (Bibl. Pal. 2706) has recently been produced in exquisite facsimile by Dörnhöffer.
+
+The title in particular was found attractive. Another German prayer book, "Das Wurtzgärt linder andächtigen Uebung" (the herb garden of devout practices) was edited by an Observantine Franciscan friar at Augsburg in 1513, but it is a quite different work. So a Lutheran adaptation of the "Hortulus" was produced in 1569 which was called the "Lustgarten der Seelen" (the pleasure garden of the soul)-though this perhaps corresponds better to the other famous Catholic prayer book the "Paradisus Animæ". It should be noted also that yet another well-known work of devotion, which was not a prayer book but a volume of moral instruction richly illustrated with stories, bore a similar title. This was "Der Selen Würtzgart," of which the first edition was printed at Ulm in 1483. The title, "Garden of the Soul", is of course very familiar to English readers from the popular prayer book which was compiled by Bishop Challoner about the year 1740, and which has since been reprinted and re-edited in countless editions.
+
+Clauss in *Kirchliches Handlexikon* (Munich, 1907), s. v.; Beissel in *Stimmen aus Maria-Laach* (July-October, 1909); M220;ther, *Bücher-Illustration* (1894), I, 289; Dodgson, *Catalogue of Early German and Flemish Woodcuts at the British Museum* (London, 1903), especially vol. I, pp. 562-563); Thurston in *American Ecclesiastical Review* (Feb., 1902), 167-187.
+
+Herbert Thurston.

@@ -1,0 +1,33 @@
+---
+title: "Antonio Comellas y Cluet"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "16"
+pages: "unknown"
+author: "R. Bolos"
+signed: "R. BOLOS"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Antonio_Comellas_y_Cluet"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.antonio-comellas-y-cluet} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Colonia"
+next: "Flavius Julius Constantius"
+entry-type: "article"
+characters: 2438
+words: 392
+links: 0
+images: 0
+---
+
+# Antonio Comellas y Cluet {#cathen.antonio-comellas-y-cluet}
+
+A philosopher, born at Berga, in the Province of Barcelona, 16 Jan., 1832; died there, 3 June, 1884. Comellas studied philosophy and theology at Vich, and entered the diocesan seminary at Solsona. After his ordination (17 May, 1856) he continued to teach Latin at Solsona until 1862, when he was appointed professor of theology. During his stay there he published two pamphlets, in which he gave ample evidence of his learning. The first was a discourse, delivered at the opening of the scholastic term, 1866-67, in which he essayed to explain in a new manner the procession of the Three Divine Persons, and the second a translation, accompanied by prologue and interesting notes, of a work by Reginald Baumstark, "Pensamientos de un protestante sobre la invitación del papa á la reconciliación con la Iglesia católica romana" (Barcelona, 1869). To be able to devote himself to his chosen line of work, a few months after the appearance of his philosophic, he resigned his chair of theology in 1871, and withdrew to Berga. Before 1880 he published "Demostración de la armonía entre la religión católica y la ciencia", a work of an apologetic nature, written to refute William Draper's "Conflict Between Science and Religion". In 1883 he wrote his philosophic work, "Introducción á la filosofía, ó sea doctrina, sobre la dirección al ideal de la ciencia" (Barcelona). Gómez Izquierdo, his biographer, says, that "as a philosopher, he [Comellas] was the only thinker who obeying the impulse of his scientific inquisitiveness, rather than the influence and stimulus of those about him, devoured all the most interesting philosophical literature of Europe of his time" and that "in his active mind the echoes of the spiritualism of the Catalonian School and the first murmurs of the Thomistic revival reverberated". One of the distinguishing features in the career of Comellas is that he is to be considered as one of the precursors of the neo-Scholastic movement in Spain.
+
+GÓMEZ IZQUIERDO, *Un filosófo catalán, Antonio Comellas y Cluet* in *Cultura española* (Madrid, 1907); ORTÍ Y LARA in *La ciencia cristiana* (Madrid, 1883); SARDÁ Y SALVANY in *Revista popular* (Barcelona, 26 March, 1885); CASALS in *La Dinastía* (Barcelona, 2 August, 1890); DE MOLINS in *Diccionario biográfico y bibliográfico de escritores y artistas catalanes del siglo XIX,* I, 487; MENÉNDEZ Y PELAYO, *Historia de los heterodoxos españoles,* III, 824.
+
+R. BOLOS

@@ -1,0 +1,33 @@
+---
+title: "Vicariate Apostolic of Anhalt"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "513-514"
+author: "Joseph Lins"
+signed: "Joseph Lins"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Vicariate_Apostolic_of_Anhalt"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.vicariate-apostolic-of-anhalt} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Pedro Angulo"
+next: "Pope St. Anicetus"
+entry-type: "article"
+characters: 3192
+words: 512
+links: 0
+images: 0
+---
+
+# Vicariate Apostolic of Anhalt {#cathen.vicariate-apostolic-of-anhalt}
+
+**Anhalt,** Vicariate Apostolic, comprising the territory of the German Duchy of Anhalt, with an area of 860 square miles. It contained, 1 December, 1905, 328,029 inhabitants: 13,493 Catholics, 311,999 Protestants, 1,460 Jews, and 1,077 members of other sects. The vicar apostolic is the Bishop of Paderborn, who names the pastors of the vicariate. There are four parishes: Dessau, Bernburg, Cöthen, and Zerbst; also three missions (filialkirchen) with a total of ten sæcular priests. The "Grey Nuns" from the mother-house in Breslau are the only religious order in Anhalt. They have two establishments for visiting nurses in Dessau and Cöthen, in charge of twenty-one sisters, and also conduct a kindergarten and a school for first communicants in Cöthen. The public schools are under the direction of the State, yet the Church, with the permission and support of the government, maintains sixteen private schools and fifteen teachers, with about nine hundred children in average attendance. Before the Reformation, the territory comprised under the present vicariate apostolic belonged to the Bishoprics of Meissen, Brandenburg, and Merseburg. The few Catholics who remained true to their faith after the fall of these dioceses, received little attention from the Roman Propaganda, to which they were subject until after 1622. In 1719 the Franciscans of the Saxon province of their order established a mission in Dessau; in 1805, Duke Friedrich Franz gave it a chapel, and in 1807 permission to hold divine services in public. A mission was founded at Zerbst in 1773, and at Cöthen in 1816. Duke Ferdinand of Cöthen and his wife became Catholics at Paris, 24 October, 1825, and established at Cöthen in place of the mission, a congregation under the direction of Father Beckx, S.J. Pope Leo XII raised this to the dignity of a parish (17 May, 1826) and placed it directly under the Holy See, whose first representative was the Vicar Apostolic of Saxony, Papal Nuncio at Munich since 1827. The Jesuits remained in charge until 1848, since then the parish has been under secular priests from the Diocese of Paderborn. The mission station at Dessau was made a parish in 1830; the Papal Nuncio established parishes 2 June, 1859, in Bernburg and Zerbst, which were not recognized by the government of Anhalt until 1871, being founded without its consent. By the Papal Brief of the 17 March, 1868, the Catholics of Anhalt became subject to Bishop Martin of Paderborn. Since that time with the approval of the government of Anhalt, the Bishop of Paderborn undertakes the direction of the Catholics of Anhalt as the "Apostolic Administrator of the Catholic parishes in the district of Anhalt." During the Prussian Kulturkampf after the death of Bishop Martin (16 July, 1879), the see of Paderborn remained vacant, the appointment of the temporary vicar apostolic was assigned to the Nuncio at Munich; Canon Drobe of Paderborn was appointed Apostolic Delegate and made Bishop of Paderborn in 1882 (d. March, 1891). His successors were Simar, (1892) and Schneider (1900).
+
+Freisen, *Staat und katholische Kirche in den deutechen Bundesstaaten Lippe*, etc., (Stuttgart, 1906), II, 1–142.
+
+Joseph Lins.

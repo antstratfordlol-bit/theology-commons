@@ -1,0 +1,33 @@
+---
+title: "John Pitts"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "Edwin Hubert Burton"
+signed: "EDWIN BURTON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/John_Pitts"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.john-pitts} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Jean-Baptiste-François Pitra"
+next: "Diocese of Pittsburg"
+entry-type: "article"
+characters: 1635
+words: 248
+links: 0
+images: 0
+---
+
+# John Pitts {#cathen.john-pitts}
+
+Born at Alton, Hampshire, 1560; died at Liverdun, Lorraine, 17 Oct., 1616. He was educated at Winchester and New College, Oxford, where he remained, 20 March, 1578-1580. He was admitted to the English College, Rome, 18 Oct., 1581, ordained priest 2 March, 1588, became professor of rhetoric and Greek at the English College, Reims, proceeded M.A. and B.D. at Pont-à-Musson, Lic.D. at Trèves (1592), and D.D. at Ingolstadt (1595). After holding a canonry at Verdun for two years he was appointed confessor and almoner to the Duchess of Cleves, and held this position for twelve years. After her death his former pupil, the Bishop of Toul, appointed him dean of Liverdun. His chief work is the "Relationum Historicarum de rebus Angliæ", of which only one part, "De Illustribus Angliæ Scriptoribus", was published (Paris, 1619). The other sections, "De Regibus Angliæ", "De Episcopis Angliæ", and "De Viris Apostolicis Angliæ", remained in Manuscript at Liverdun. The "De Scriptoribus" is chiefly valuable for the notices of contemporary writers. On other points it must be used with caution, being largely compiled from the uncritical work of Bale. Pitts also published "Tractatus de legibus" (Trier, 1592); "Tractatus de beatitudine' (Ingolstadt, 1595); and "Libri septem de peregrinatione" (Dusseldorf, 1604).
+
+KIRBY, *Annals of Winchester College* (London, 1892); FOSTER, *Alumni Oxonienses* (Oxford, 1891); WOOD, *Athenœ Oxonienses* (London, 1813-20); DODD, *Church History,* II (Brussels, 1739); KNOX, *Douay Diaries* (London, 1878); FOLEY, *Records Eng. Prov. S. J.,* III, VI; GILLOW, *Bibl. Dict. Eng. Cath.,* s. v.
+
+EDWIN BURTON.

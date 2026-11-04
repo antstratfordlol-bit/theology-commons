@@ -1,0 +1,33 @@
+---
+title: "Juan Fernández Navarrete"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: "Leigh Harrison Hunt"
+signed: "LEIGH HUNT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Juan_Fernández_Navarrete"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.juan-fernandez-navarrete} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Domingo Fernández Navarrete"
+next: "Martín Fernández de Navarrete"
+entry-type: "article"
+characters: 2776
+words: 468
+links: 0
+images: 0
+---
+
+# Juan Fernández Navarrete {#cathen.juan-fernandez-navarrete}
+
+Spanish painter, b. at Logrono, 1526 and died at Segovia, 1579 (at Toledo, February, 1579 or 28 March, 1579?). He is called *el Mudo* (the mute) because he lost his hearing when a child of three and, in consequence, his power of speech. His parents, who were well to do and perhaps of noble birth placed him with the Hieronymite monks of Estrella where Fray Vicente, a gifted brother, was his first teacher in art. Navarrete's talents were early discovered because he made all his wants known through rapid and vigorous black and white sketches. He may have been a pupil of Becerra, Spain's great fresco painter, but it is certain that he went when a youth to the great Italian centres of art and under Titian in Venice acquired that technique and knowledge of colour which earned him the name of "the Spanish Titian". He returned to Spain a painter of repute, and travelled extensiveiy in his native country, leaving works from his hand in her important cities. In 1568 he was made painter to Philip II, received a salary of two hundred ducats "besides just payment for his work" and was commissioned to decorate the Escorial. In 1575 he completed a "Nativity" wherein are three dominant lights; one from St. Joseph's candle, one from the glory above, and the most radiant of all from the divine Child as in Correggio's "Notte." In one "Holy Family" he painted such strange accessories, a cat, a dog, and a partridge, that the king made him promise never again to put "such indecorous things in a holy picture ". Though called the Spanish Titian, Navarrete was not an imitator of any Italian; he was an original and he painted rapidly, freely, and spontaneously. His composition, especially in groups of figutes, was masterly and was excelled only by that of Velásquez. "He spoke by his pencil with the *bravura* of Rubens without his coarseness." Navarrete's work greatly influenced the development of Spanish art and after his death Lope de Vega wrote: "No countenance he painted was dumb". Despite the artists infirmity he was an agreeable companion, played cards, read, and wrote much, was broadminded and generous. When his patron ordered Titian's "Last Supper" to be cut because it was too large for a place in the refectory of the Escorial, it was el Mudo who protested most. In the refectory at Estrella, where he received his first instruction in painting are some of Navarrete's best pictures. The following works may be mentioned: "Holy Family", at Weimar; "St. John in Prison", at St. Petersburg; "St. Jerome", in the Escorial; "Holy Family", in the Escorial.
+
+STIRLING-MAXWELL, Annals of the Artists of Spain (London,1891) VIARDOT, Les Musees d'Espagne, d'Angleterre et de Belgique (Paris, 1843); FORD, Handbook for Travelers in Spain (London, 1847).
+
+LEIGH HUNT

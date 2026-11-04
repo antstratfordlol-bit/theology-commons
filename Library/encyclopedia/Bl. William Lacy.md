@@ -1,0 +1,33 @@
+---
+title: "Bl. William Lacy"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "John Bannerman Wainewright"
+signed: "John B. Wainewright"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Bl._William_Lacy"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.bl-william-lacy} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Bl. William Hart"
+next: "William of Auvergne"
+entry-type: "article"
+characters: 2375
+words: 400
+links: 0
+images: 0
+---
+
+# Bl. William Lacy {#cathen.bl-william-lacy}
+
+Born at "Hanton", Yorkshire (probably Houghton or Tosside, West Riding); suffered at York, 22 Aug., 1582. He married a widow, named Cresswell, whose sons, Arthur and Joseph, became Jesuits. Little is related of his family by his biographers. He had a brother Ralph of Preston in Amounderness, a sister Barbara, and nephews (apparently her sons) Robert and William (Cal. S. P., Dom. add. 1566-79, London, 1871, p. 562). He held a position of emolument under the Crown, possibly as coroner, till about 1565. One of this name, probably a relative, was a corner for the West Riding in 1581-2 (Dasent, "Acts of the Privy Council", xiii, 358). After fourteen years' persecution for his faith, which included imprisonment at Hull, and after the death of his wife, he went abroad and arrived at Reims, 22 June, 1580. On 25 September following he went on to Pont-à-Mousson, and thence to Rome, where, after obtaining a dispensation, he became a priest. The dispensation was necessary before ordination, as Lacy had been married twice, once to a widow. On 10 May, 1581, he was at Loreto on his way to England. He was arrested after a Mass said by Thomas Bell, afterwards an apostate, in York Castle, 22 July, 1582. He suffered great hardships, being loaded with heavy irons, confined in an underground dungeon, and subjected to numerous examinations. He was arraigned on 11 August, probably under 13 Eliz. cc. 2 and 3. With him suffered Blessed Richard Kirkman, born at Addingham, in the West Riding. He arrived at Douai in 1577 and, after the transference of the English College to Reims, was ordained priest on Holy Saturday, 1579. On his return to England in August he seems to have found a refuge with Robert Dymoke, hereditary Champion of England (d. in Lincoln gaol for his faith, 11 Sept., 1580), at Scrivelsby, Lincolnshire. He was eventually arrested, 8 August, 1582, by Francis Wortley, J.P., and seems to have been arraigned a day or two after under 23 Eliz. c. 1. After condemnation the two martyrs shared one cell in a turret till 10 August, when Blessed Richard was removed to an underground dungeon.
+
+KEOGH and CAMM in Lives of the English Martyrs, ed. CAMM, II (London, 1904- 5), 564-88; GILLOW, Bibl. Dict. Eng. Cath., s.v. Lacy, William; CHALLONER, Missionary Priests, I, nn. 16 and 17; BRIDGEWATER, Concertatio Ecclesiae (Treves, 1588), 97-101.
+
+John B. Wainewright.

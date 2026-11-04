@@ -1,0 +1,33 @@
+---
+title: "Atrium"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Thomas Henry Poole"
+signed: "THOMAS H. POOLE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Atrium"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.atrium} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Atrib"
+next: "Attainder"
+entry-type: "article"
+characters: 2344
+words: 398
+links: 0
+images: 0
+---
+
+# Atrium {#cathen.atrium}
+
+I. An open place or court before a church. It consisted of a large quadrangle with colonnaded walks on its four sides forming a portico or cloister. It was situated between the porch or vestibule and the body of the church. In the center of the atrium was a fountain or well, where the worshippers washed their hands before entering the church. A remnant of this custom still survives in the use of the holy-water font, or basin, usually placed near the inner entrances of churches in the atrium those that were not suffered to advance farther, and more particularly the first class of penitents, stood to solicit the prayers of the faithful as they went into the church. It was also used as a burying-ground, at first only for distinguished persons, but afterwards for all believers. The covered portion next the church was called the *narthex* and was the place for penitents. The basilicas at Ravenna seem usually to have had a closed *narthex*, while those of Rome were open to the West. A mosaic in S. Apollinare Nuovo Ravenna shows an open *narthex* closed by curtains. The atrium existed in some of the largest of the early Christian churches such as old St. Peter's at Rome in the fourth century, and Sancta Sophia at Constantinople, in the sixth. In the residences (*palatia, domus*) of the Rornan aristocracy, where the Roman Christians first worshipped, there was a threefold division, first, on entering, a court called the *atrium*; then, farther in, another colonnaded court called the *peristyle*, and then the *tablinum*, where the altar was problably placed, and services conducted. (See BASILICA.) So large a fore-court to a church required an area of land costly and difficult to obtain in a large city. For this reason the old Roman atrium survived only occasionally in Eastern and Western churches. Typical examples may be seen in the churches of St. Clement, at Rome, and St. Ambrose, at Mllan; also in the seventh century churches of Novara and Parenzo.
+
+II. In secular architecture the atrium was the principal entrance-hall and apartment in a Roman house, and formed the reception-room. It was lighted by an opening in the roof, called the *compluvium*, the roof sloping so as to throw the rain-water into a cistern in the floor called the *impluvium*. In large houses it was surrounded by a colonnade.
+
+THOMAS H. POOLE

@@ -1,0 +1,33 @@
+---
+title: "Chapter House"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Edward Myers"
+signed: "EDWARD MYERS"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Chapter_House"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.chapter-house} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Chapter"
+next: "Character"
+entry-type: "article"
+characters: 2482
+words: 385
+links: 0
+images: 0
+---
+
+# Chapter House {#cathen.chapter-house}
+
+A building attached to a monastery or cathedral in which the meetings of the chapter are held. In monasteries the chapter house was used daily after Prime (and sometimes after Terce), for the reading of the "Martyrology" and the "Necrology", for the correction of faults, the assigning of the tasks for the day, and for the exhortation of the superior, and again for the evening Collation or reading before Complin. Secular canons used the chapter house for similar purposes, and for the formal transaction of public business of common interest to the body corporate. The chapter house is not mentioned by St. Benedict (d. 543), nor is it indicated in the ancient plan of the Abbey of St. Gall, drawn up in 820; the monks then probably assembled for chapter in a part of the cloister near the church. The need of a separate building made itself felt, and the chapter house is mentioned in the statutes approved by the Council of Aachen in 816. The shape of the chapter houses varied: some were rectangular, others rectangular with an apsidal termination, others again were circular or polygonal. The rectangular room, with a wooden roof, and little architectural distinction, is characteristic of the continent of Europe. In England the chapter house was the object of very careful designing and elaborate ornamentation; the polygonal-shaped chapter house is a triumph of English thirteenth-century architecture, and no single instance of it is found either in France or Germany. The earliest example is probably that of Lincoln, decagonal in shape, which was built from 1240-1260. Other instances are those of York, Lichfield, Southwell, Salisbury, and Wells. English examples of the elongated form will be found at Bristol, Canterbury, Chester, Durham, Gloucester, and Oxford. The ingenious theory which seeks to identify the polygonal shape with secular foundations, and the rectangular shape with monastic foundations, breaks down in presence of the circular chapter house of Worcester, and the octagonal chapter house of Westminster Abbey, both Benedictine in origin.
+
+MARTÈNE, *De Antiquis Monachorum Ritibus* (Rouen, 1700); ROCK, *Church of our Fathers* (London, 1849), III, 79; DUCANGE, *Glossarium* (Paris, 1883), s. v. Capitulum; GASQUET, *English Monastic Life* (London, 1904); CABROL, *Dictionnaire d'archéol. chrét.* (Paris, 1903), s. v. *Abbaye*; BUMPUS, *The Cathedrals of England and Wales* (London, 1905-6); BOND, *Gothic Architecture* (London, 1905).
+
+EDWARD MYERS

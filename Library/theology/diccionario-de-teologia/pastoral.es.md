@@ -1,0 +1,154 @@
+---
+id: dicteo.pastoral.es
+work: diccionario-de-teologia
+title: "Pastoral"
+voz: "Pastoral"
+author: "R. Pellitero"
+creator: "collective — a signed dictionary; the voz's own author is in `author` above"
+language: es
+original-language: yes
+authority-type: scholarly
+status: current
+supersedes: 01. Sources/_originals/Biblioteca/_markdown/DicTeo.md
+edition: "iSilo Biblioteca decode (DicTeo.pdb). The decode carries the Presentación, signed by César Izquierdo at Pamplona, 14 February 2006, and names Ediciones Universidad de Navarra as the publisher that commissioned it; it names NO edition, printing, ISBN or volume anywhere in its 3.9 MB, so none is asserted here"
+derived-from: "01. Sources/_originals/Biblioteca/_markdown/DicTeo/ records 0035"
+anchors: "{#dicteo.pastoral} on the voz; {#dicteo.pastoral.N} on the roman-numeral sections the work prints, written arabic; {#dicteo.pastoral.N.M} on the arabic subsections inside them. Lettered subdivisions (a), b)) are rendered as text and deliberately NOT anchored — the decode's capture of them is uneven, so an anchor set built on them would carry silent gaps that are conversion artefacts"
+sections: 5
+extracted: 2026-08-26
+extracted-by: "99. Tools/promote/promote_dicteo.py"
+---
+# Pastoral {#dicteo.pastoral}
+
+Para abordar el término «pastoral» en un contexto teológico, se afrontan en la primera parte las cuestiones terminológicas y la relación entre pastoral y teología. En la segunda parte se plantea el estudio de la acción eclesial.
+
+## I. INTRODUCCIÓN: CONTEXTO TERMINOLÓGICO Y TEOLÓGICO {#dicteo.pastoral.1}
+
+Conviene, en primer lugar una clarificación sobre lo que sea «pastoral». Un segundo Paso viene determinado por la conjunción del adjetivo «pastoral» con la teología.
+
+### 1. Significado del término «pastoral» {#dicteo.pastoral.1.1}
+
+El término «pastoral» viene usado principalmente con dos sentidos: uno más estricto, referido a las tareas de los pastores; otro más amplio -usado a partir del Concilio Vaticano II- que viene a significar la acción eclesial en su conjunto.
+
+1. En la Iglesia, el término «pastoral» remite en principio al conjunto de actividades correspondientes a los pastores, es decir, a la jerarquía, y sobre todo a la guía o «cura de almas». Este uso se remonta al menos a la Regla pastoral de san Gregorio Magno (siglo VI). Por otra parte, desde la «vuelta a las fuentes» que desembocó en el Concilio Vaticano II, la Iglesia se ha ido comprendiendo cada vez más como un misterio de comunión suscitado por la Trinidad y en el que todos los cristianos participan con su vida. De la misma manera que todos los cristianos «son» la Iglesia, cabe pensar en una reflexión teológica no sólo sobre lo que «hacen» los pastores, sino sobre la acción de la Iglesia en su conjunto. Esta reflexión es lo que modernamente suele entenderse por «teología pastoral» (también llamada «teología práctica»).
+
+En estas páginas nos centraremos no en la teología pastoral como disciplina, a la que inevitablemente hemos de aludir, sino en la «pastoral», entendida como sinónimo de la acción de la Iglesia. En este sentido amplio, y con la salvedad que haremos enseguida, la pastoral es la Iglesia «actuando», o, por usar un término arraigado desde los tiempos de los Padres, la actividad que se dedica a la «edificación de la Iglesia». Esto implica, insistimos, una reflexión teológica sobre la acción de la Iglesia entera, dentro de la cual los pastores y los demás fieles cristianos ejercen sus funciones propias según su condición en la Iglesia y en el mundo.
+
+Al mismo tiempo, como ya se ha dicho, hay que recordar que sólo son pastores aquellos fieles cristianos que han recibido el sacramento del Orden: su misión propia es la misión pastoral, que no excluye la colaboración de los fieles laicos, o de los religiosos, en esa tarea. Dicho de otra manera: acción pastoral no es lo mismo que acción eclesial, sino que la primera es una parte, ciertamente muy importante, de la segunda. En el caso concreto de los fieles laicos, por ejemplo, su misión en las realidades temporales podrá llamarse apostolado, evangelización, etc., pero no propiamente pastoral. Por las exigencias de este texto, aquí emplearemos la palabra «pastoral» casi como sinónimo de «acción eclesial». El diferente contexto de las afirmaciones servirá para distinguir en qué caso nos referimos a la acción de la Iglesia entera o a la acción específica de los pastores dentro de ella. En ocasiones lo que se dice para la acción pastoral podrá aplicarse más ampliamente al apostolado de los cristianos, pero no siempre sucederá así.
+
+2. Esta ampliación del término «pastoral» tiene que ver con el denominado «carácter pastoral» del Concilio Vaticano II. Su fundamento puede captarse teniendo en cuenta que la revelación cristiana comporta una participación en la vida de Dios (Padre) por Cristo en el Espíritu Santo. La Iglesia vive entregando («tradición») una doctrina que es al mismo tiempo un culto y una vida. «La Iglesia, en su doctrina, en su vida y en su culto perpetúa y transmite a todas las generaciones todo lo que ella es, todo lo que cree» (DV 8). Ése es el «estilo» de su acción; estilo, si cabe hablar así, que ella participa de Cristo, Evangelio vivo y personal del Padre que se entrega por el Espíritu.
+
+San Pablo expresa el contenido de la acción eclesial de esta manera: «Viviendo la verdad con caridad, crezcamos en todo hacia aquel que es la Cabeza, Cristo» (Ef 4, 15). Hacer la verdad en la caridad es, en efecto, una formulación fundamental de la existencia cristiana, que es siempre in Ecclesia: «En Cristo, coinciden verdad y caridad. En la medida en que nos acercamos a Cristo, también en nuestra vida, verdad y caridad se funden. La caridad sin verdad sería ciega; la verdad sin caridad, sería como "un címbalo que retiñe" (1Co 13, 1)» (J. Ratzinger, Ser cristiano en la era neopagana). De esta manera, la acción eclesial extiende la comunión con Dios, y por tanto, la vida en plenitud.
+
+La acción de la Iglesia depende de su ser (misterio de comunión) y de su misión, con la que se va identificando en el tiempo. Durante la historia, la Iglesia es como un «sacramento» (signo e instrumento) de la comunión con Dios, y lo es en Cristo, única Luz de las gentes, «Lumen gentium» (cf. LG 1). Por otra parte, la relación entre la doctrina y la tarea pastoral -lo que podríamos llamar la «reflexión pastoral» del Concilio- quedó representada en la Constitución pastoral Gaudium et spes.
+
+Como bien se ha escrito, «lo pastoral no se opone a lo doctrinal, ni lo rebaja en su verdad, ya que sólo con alimento verdadero se apacienta auténticamente el hombre. Pero la exposición pastoral de la doctrina no se contenta con conceptualizar, definir y deducir; quiere acercarse de manera comprensible al hombre con sus interrogaciones y expectativas. "Pastoral" indica una modalidad, a saber, la apostólica (I. L. Suenens) y misionera, de presentar la fe cristiana teniendo presente también al hombre moderno» (R. Blázquez, La Iglesia del Concilio Vaticano II).
+
+### 2. Pastoral y teología {#dicteo.pastoral.1.2}
+
+La relación entre «pastoral y teología» puede abordarse en primer lugar desde la más inmediata relación entre fe y vida. De ahí se deduce, en un segundo momento, la necesaria relación entre teología y pastoral (y la necesaria reflexión teológica que debe acompañar la acción eclesial), que se ejemplifica señalando diversos aspectos.
+
+a) La fe y la vida, la confesión doctrinal y la praxis cristiana, no pueden entenderse como dos magnitudes extrínsecas ni tampoco según una relación existencialmente automática (que se dé siempre).
+
+En primer lugar hay que decir que fe y vida cristiana se implican de por si profundamente. No cabe, por tanto, una correcta doctrina con una praxis inadecuada, como tampoco viceversa, una praxis correcta simultánea a una doctrina errada.
+
+La «doctrina» cristiana no es un conjunto de formulas independientes de los intereses existenciales. La dinámica de la fe (las «verdades de la fe» no son sino el desarrollo, en la vida de la Iglesia, del «acto de fe») enlaza, cuando es «verdaderamente» cristiana, con una praxis cuyo contenido queda determinado por la fe, y no por otras instancias de tipo sociológico. El problema que tiene una visión pragmática, que infravalora la contemplación de las verdades de la fe en favor del «hacer», es el olvido de que la praxis cristiana no es sino colaboración del hombre en su propia salvación. Los fundamentos de esa colaboración han sido revelados y establecidos por Dios, y la Iglesia los enseña y comunica como sacramento de salvación.
+
+En el otro extremo, la fe y la vida tampoco pueden comprenderse, decíamos, en una relación necesaria o automática. Aunque la confesión de fe comporta, de por sí, una vida cristiana y eclesial que sea acorde con la fe, de hecho esto no se sigue en todos los casos.
+
+Que esto suceda así puede explicarse por el modo en que se vinculan la inteligencia y la voluntad en el hombre (la voluntad no sigue necesariamente a la inteligencia), y sobre todo por la existencia del pecado, que desordena las potencias (oscurece la inteligencia, debilita la voluntad). En consecuencia, puede existir un determinado ambiente social, como se ha dado con frecuencia y se da en nuestros días, en que la relación entre fe y vida se perciba y se lleve a cabo existencialmente con mayor dificultad. Por tanto, no basta un fortalecimiento «abstracto» de la fe en el plano intelectual (fides quae) por medio de la enseñanza o del estudio, o en el plano espiritual-moral (fides qua) a través de la vida sacramental y la oración, para transformar la concreta existencia del cristiano. Esos «medios» fundamentales, siendo necesarios, no son suficientes: se precisa un acompañamiento personal para que la fe y los sacramentos produzcan los frutos de servicio que la vida cristiana requiere, también para transformar la historia.
+
+Dicho brevemente: la fe cristiana ha de hacerse personalmente vida, de modo que la vida cristiana, que es vida eclesial, sea concretamente una vida de fe. En este marco hay que situarse para captar el aspecto sapiencia) o «práctico» de la fe y de la verdad cristianas. Este carácter sapiencial de la fe se refleja, lógicamente, en el esencial carácter «sapiencial», «práctico» o «pastoral» de la teología.
+
+b) Paralelamente a la dimensión pastoral de la teología, ha de subrayarse la dimensión teológica de toda actividad pastoral. De hecho, la asimilación de la «pastoral» a la «práctica» tiene el riesgo de igualar «pastoral» a pragmático o «funcional». De esta manera «hacer pastoral» puede oponerse a la reflexión teológica y desembocar en un activismo poco sensible a la profundización en la fe. En una línea parecida (funcionalista), se sitúa la no rara asimilación de «pastoral» y «actividad parroquial»: lo que no es «parroquial» -como por ejemplo, trabajar como capellán de un hospital o como formador en un seminario- no sería pastoral. Una tercera deformación es la asimilación de lo «pastoral» a lo «popular», interpretado como lo simplificado o lo imperfecto.
+
+Lo que interesa destacar aquí es que la «práctica» (el apostolado de todos los cristianos, la pastoral de los pastores) no puede separarse de la teología, es decir, de la fe que busca entender y obrar en consecuencia.
+
+Esta necesidad de la teología para la pastoral -no se trata de una conveniencia, sino de una condición sine qua non- puede pormenorizarse especificando algunos aspectos:
+
+1º) La pastoral necesita de la teología porque es preciso, desde la fe, pensar, prever, evaluar la acción. Sin la teología, el apostolado cristiano y la pastoral se arriesgan a caer en el pragmatismo o en el activismo. Es preciso otorgar una auténtica prioridad a la formación espiritual y teológica conjuntamente, y ello, desde los procesos iniciales de la catequesis y con la colaboración activa de las familias. La acción eclesial es colaboración salvífica con las misiones trinitarias, que tiene como fundamento permanente la vida espiritual de los cristianos, es decir, el seguimiento de Cristo hasta la identificación con Él precisamente por la acción del Espíritu Santo; el mismo Espíritu que impulsa al cristiano a «buscar comprender», en lo posible, su fe.
+
+2º) Por otra parte, la pastoral necesita de la teología para aclarar -mediante la investigación cuidadosa de la Escritura, la Tradición y el Magisterio- las condiciones de la acción misma de la Iglesia o de las actividades que están llamados a realizar los cristianos. La razón principal es que el cristianismo no es fundamentalmente un resultado de Iniciativas y evidencias puramente humanas. Si así lo pensáramos, estaríamos cerca del naturalismo o del pelagianismo.
+
+3º) También hace falta la teología para discernir los medios concretos y las modalidades en que la misión evangelizadora se pone en acto. No basta una idea general, o conocer las regulaciones de la Iglesia al respecto. Tampoco es suficiente el sentido común, la experiencia e incluso la piedad, por más que ésta sea imprescindible y «útil para todo» según el apóstol (1Tm 4, 8). Recuérdese que santa Teresa prefería como director espiritual a un virtuoso que fuera teólogo (que tuviera «letras») más que profeta o «solamente» santo (vid. entre otros lugares, Moradas VI, cap. 9, 11).
+
+4º) En fin, la acción de la Iglesia requiere una visión de conjunto de la «misión» cristiana. Ciertamente, cabe hablar de diversas «pastorales», atendiendo bien a las etapas de la acción eclesial (pastoral de «evangelización» o misionera, catecumenal, «de comunión», etc), bien a sus formas fundamentales (pastoral de la palabra, litúrgica, «de servicio»), a sus ámbitos («diocesana», parroquial, de movimientos...), los tipos diversos de destinatarios (niños y jóvenes, hombres y mujeres, adultos y ancianos...) y sus más variadas condiciones (pastoral social, sanitaria, carcelaria, castrense, del turismo, etc.). Sin embargo, desde un punto de vista teológico, estas distinciones tienen el inconveniente de ser relativas y, sobre todo, orientar hacia una yuxtaposición de tareas, sin facilitar la comprensión de la unidad y del dinamismo que implica la acción eclesial.
+
+c) Nos hemos referido a la necesaria dimensión teológica de la pastoral, que tiene como polo complementario la dimensión pastoral de la teología. Esta dimensión evangelizadora debe manifestarse en todas las ramas de la teología. Cabria preguntarse si esto hace superflua una asignatura propia (la Teología pastoral, concebida como teología de la acción eclesial). La respuesta que ha de darse es negativa. Primero porque la división y especialización de las materias teológicas se lleva a cabo siempre sobre el convencimiento de la unidad de la teología: las disciplinas teológicas no son, permítasenos insistir, compartimentos sino dimensiones de la teología.
+
+La teología «pastoral» (o práctica) viene a serla decantación reflexiva y explícita de la dimensión pastoral de la teología. Se trata de una reflexión sobre la edificación o la acción «total» de la Iglesia (una «eclesiología práctica o existencial»), como sacramento de salvación impulsado por el Espíritu Santo en la historia; una edificación que consiste en la colaboración de los cristianos con la Trinidad, para extender la comunión con la vida divina a todas las personas (y por tanto, se enriquece con el diálogo con las ciencias humanas), y fomenta el discernimiento de los signos de los tiempos («aquí y ahora»), a fin de mejorar la acción eclesial (vid. en el contexto de la formación de los sacerdotes, PDV 57).
+
+Dicho de otro modo, la teología pastoral puede también describirse como una reflexión sobre la acción de la Iglesia como familia que Dios quiere formar con todos los pueblos «mediante la fuerza unificadora de la verdad y del amor» (Benedicto XVI, Primer mensaje, 20.IV.2005). El criterio definitivo y la finalidad de la acción eclesial es el amor, tal como se manifiesta en la entrega de Cristo (cf. Mt 22, 40; Rm 13, 10; Jn 13, 34).
+
+La acción eclesial, en sus diversas modalidades, afecta y debe interesar a todos los cristianos. También por eso, teologizar en clave pastoral o apostólica no ha de ser tarea exclusiva de unos pocos («pastoralistas» o interesados en la «acción»), sino dimensión necesaria tanto de la «pastoral» como de la teología -sea en la docencia o en la investigación-, sabiendo que entre esos dos términos no se da una distinción adecuada, pues designan actividades que se pertenecen mutuamente.
+
+## II. PARA UN ESTUDIO DE LA ACCIÓN ECLESIAL {#dicteo.pastoral.2}
+
+Un estudio teológico de la acción eclesial debería proporcionar, además de los fundamentos de esa acción, un mapa orientativo, coherente y unitario, de las actividades por las que la Iglesia lleva a cabo su misión evangelizadora.
+
+Otro de los objetivos de ese estudio debe ser que se conozcan los principales textos magisteriales y eclesiales sobre el tema: los documentos del Concilio Vaticano II y el Catecismo de la Iglesia Católica, las exhortaciones apostólicas postsinodales (comenzando por la Evangelii nuntiandi, de Pablo VI) y otros documentos pastorales más significativos del pontificado de Juan Pablo II (como la Carta apostólica Novo millennio ineunte, de 2001), así como las orientaciones que vayan surgiendo en el nuevo pontificado de Benedicto XVI, además de los principales directorios y escritos de las congregaciones romanas y las conferencias episcopales.
+
+Como la acción eclesial se realiza en el «aquí y ahora» de la historia, no existe propiamente una «teología pastoral perenne», pues habrá que tener en cuenta las necesidades de los lugares y los tiempos. Deben sobre todo promoverse las actitudes cristianas de fondo en temas fundamentales, como la capacidad de reflexión y diálogo, las exigencias de la vida cristiana, el amor a la Iglesia, el compromiso por la transformación de la sociedad, el servido a los pobres y necesitados, etc. Un elemento decisivo es la conciencia del sacerdocio común de los fieles, que ha de proponerse como ideal al cristiano: «Si actúas -vives y trabajas- cara a Dios, por razones de amor y de servicio, con alma sacerdotal..., toda tu acción cobra un genuino sentido sobrenatural, que mantiene unida tu vida entera a la fuente de todas las gracias» (San Josemaría Escrivá, Forja, 369).
+
+Para dar una idea concreta de la acción eclesial, se ofrece a continuación una distribución de contenidos, entre las muchas posibles. El estudio puede dividirse en tres grandes partes: una primera introductoria, donde se plantea el marco histórico, teológico y eclesial de una reflexión «pastoral»; una segunda, donde se estudia la Iglesia como sujeto de su propia acción evangelizadora; y una tercera, que se ocupa de las acciones eclesiales concretas.
+
+1. El marco teológico, bíblico y eclesial
+
+Cabe dividir la primera parte a su vez en dos secciones:
+
+a) El contexto histórico-teológico y la identidad de la teología pastoral, compuesta por dos temas. En primer lugar, un estudio sobre la historia de esa disciplina. Su itinerario, junto con la presentación de sus protagonistas, es altamente instructivo para presentar la reflexión pastoral del Concilio Vaticano II en su contexto adecuado, así como para perfilar las orientaciones de la reflexión pastoral después del Concilio. Un segundo tema podría insertar la reflexión teológica sobre la pastoral en la unidad de la teología. Tal como se ha expuesto, la conexión entre la teología y la acción eclesial se establece a partir de unos presupuestos fundamentales (fe y vida, «teología» y «pastoral», etc.), e ilumina la necesidad de la teología para la pastoral. El objeto de la «teología pastoral» se plantea en relación con la unidad de la teología y de la vida cristiana, sin olvidar la cuestión «práctica». En el método convendrá subrayar el discernimiento eclesial.
+
+b) El marco bíblico y eclesial. Esta sección estudia a su vez dos cuestiones. Ante todo, las raíces bíblicas de la acción eclesial. Entre los elementos bíblicos, cabe destacar la trilogía «Profeta-Rey-Sacerdote», la imagen neotestamentaria del Buen Pastor y la figura central de Jesucristo, de quien la Iglesia participa, por la acción del Espíritu Santo, su misión evangelizadora. En segundo lugar puede estudiarse la edificación de la Iglesia (imagen de la acción eclesial utilizada desde la época patrística) en el marco del misterio cristiano. Es conveniente destacar ahí el papel de la santidad como gran tema pastoral, las «dimensiones» de esa edificación -verdad, vida y caridad-, y la función decisiva de la oración.
+
+2. La Iglesia, sacramento de salvación, sujeto de la acción evangelizadora.
+
+Una introducción puede recordar cómo la misión evangelizadora de la Iglesia se desarrolla gracias a la estructuración (cf. LG 11) que recibe de Cristo y el Espíritu, para ser enviada como signo e instrumento de salvación. Por tanto, la acción de la Iglesia sólo se explica plenamente si se entiende que Cristo sigue obrando en ella junto con el Espíritu Santo. Esta parte podría subdividirse también en dos secciones.
+
+a) La «Iglesia de la Trinidad» y su misión evangelizadora. La sección puede desarrollarse en tres momentos.
+
+El primero es la reflexión acerca de Cristo y el Espíritu Santo en la misión de la Iglesia. Aquí cabe acudir a las grandes «imágenes» de la Iglesia, para mostrar sus implicaciones pastorales: la Iglesia, como Pueblo (de Dios) mesiánico y sacerdotal; como Cuerpo de Cristo, partícipe de su «triple oficio» en dos modalidades: el sacerdocio común y el sacerdocio ministerial; finalmente, como Templo del Espíritu Santo, donde se da en unidad la diversidad de vocaciones, ministerios y carismas.
+
+En segundo lugar, cabe abordar el tema fundamental de la Iglesia como, sacramento de salvación. La sacramentalidad de la Iglesia puede verse reflejada en sus estructuras, sea en el ámbito universal (el Romano Pontífice y el Colegio episcopal, como sujetos de la potestad suprema; los concilios, sínodos y conferencias episcopales; las estructuras para la realización de peculiares tareas pastorales), sea en el ámbito local (el obispo y el presbiterio, la parroquia y otras estructuras de la Iglesia local, los movimientos eclesiales y otras instituciones de base asociativa).
+
+Por último, el diálogo de la Iglesia con el mundo. Un tema central en las circunstancias actuales, que sirve de marco para explicar la misión del cristiano en el mundo y el valor de las realidades temporales. Después de mostrar la relación Iglesia-mundo desde la perspectiva cristiana, cabe determinar las actitudes fundamentales de los pastores y de los fieles. En este contexto del diálogo de la Iglesia con el mundo se comprenden las diferencias entre secularidad, secularización y secularismo, laicidad y laicismo, etc.
+
+b) En una segunda sección puede ya explicarse que todos los cristianos son «sujetos» corresponsables de la evangelización. Aquí caben dos pasos.
+
+En primer término, el estudio de los portadores de la misión. Si todos los fieles cristianos (christifideles) deben ser «activos» por su vocación, su participación en la misión de la Iglesia se realiza según la condición de cada uno (fieles laicos, ministros ordenados, miembros de la vida consagrada). En segundo lugar, las diversas tareas complementarias dentro de la única misión: la «tarea pastoral» (que hoy incluye tanto la «evangelización permanente» de la Iglesia como la tarea ecuménica); la tarea misionera «ad gentes» (que estudia la misionología); finalmente, la «nueva evangelización» (dirigida a cristianos que no viven plenamente las consecuencias del bautismo por diversos motivos).
+
+### 3. Formas de la acción eclesial {#dicteo.pastoral.2.3}
+
+La tercera parte, según el esquema que aquí se propone, se dedica a la acción evangelizadora de la Iglesia y enfoca las formas o dimensiones principales de la acción eclesial: anuncio y transmisión de la fe, celebración litúrgica, servicio de la vida cristiana.
+
+En la introducción cabe subrayar la centralidad de la persona en la misión, pues el hombre es el camino principal de la Iglesia. Esta sería una buena ocasión para tratar de las relaciones entre espiritualidad y pastoral o apostolado. También podría hacerse una referencia particular a la colaboración de los varones y las mujeres en la Iglesia y en el mundo.
+
+La subdivisión en tres secciones parece pedida por las tres grandes «formas de acción» de la Iglesia:
+
+a) El anuncio y la transmisión de la fe. La sección puede introducirse evocando la centralidad de la Palabra de Dios en la vida y la acción de la Iglesia (referencia a la pastoral o el apostolado bíblico).
+
+Dentro de las formas del anuncio de la fe, en primer término puede tratarse el testimonio y el diálogo apostólico. Es el lugar para estudiar el primer anuncio de la fe (kérygma), junto con el testimonio cristiano, el apostolado personal y el asociado. Convendrá explicar la relación entre santidad, apostolado y actividad temporal. Es también buen momento para abordar los elementos pastorales del acompañamiento y la dirección espiritual: sus fundamentos y contexto eclesial, y los aspectos biológicos y psicológicos del tema.
+
+A continuación cabe estudiar la predicación. Una breve alusión a los avatares de la predicación en los últimos siglos puede preceder al análisis de las características de la predicación y las dimensiones fundamentales de la homilía. Los alumnos agradecerán algunas orientaciones para la predicación en nuestro tiempo.
+
+Por último, la catequesis y la enseñanza escolar de la religión. A la hora de exponer el papel de la catequesis y la renovación catequética, vale la pena subrayar las relaciones entre catequesis y primer anuncio de la fe, y entre catequesis y experiencia (humana y cristiana). El Catecismo de la Iglesia Católica debe presentarse como punto de referencia para la catequesis en la nueva evangelización. Por su relevancia, debe tratarse, finalmente, de la enseñanza escolar de la religión: su legitimidad, carácter propio y contenido.
+
+b) La celebración litúrgica, fuente y cumbre de la acción eclesial. Esta segunda sección se ocupa de la liturgia de la Iglesia. La distribución tripartita viene facilitada atendiendo respectivamente a los sacramentos de iniciación, de servicio a la comunión y de «curación».
+
+En primer lugar, la iniciación cristiana y la pastoral juvenil. Puede comenzarse exponiendo la pastoral litúrgica en torno a la celebración de la eucaristía y la renovación litúrgica desde el Vaticano II. Conviene detenerse para explicar la participación de los fieles en la liturgia, particularmente en la eucaristía dominical, la eucaristía como fuente y cumbre de la vida y de la acción eclesial, y las relaciones entre piedad popular y liturgia. En cuanto a la iniciación cristiana, deberían mostrarse los aspectos teológico-pastorales más significativos en la situación actual. Como en nuestro ambiente la iniciación cristiana se da mayoritariamente entre los niños y jóvenes, puede ser el lugar para tratar de la educación de los jóvenes y la pastoral juvenil.
+
+En segundo lugar, los sacramentos de servicio a la comunión, y como consecuencia, la pastoral familiar y vocacional. Parece lógico ocuparse aquí de la pastoral de la vida, del matrimonio y de la familia, en el contexto antropológico y ético de la cultura actual: el mensaje del Evangelio sobre el matrimonio, la atención a las familias en circunstancias especiales, el papel de la familia en la sociedad, etc. En segundo lugar, corresponde tratar la pastoral de las vocaciones, particularmente para el ministerio ordenado.
+
+Para concluir, cabe abordar los sacramentos de «curación», la pastoral de la penitencia, de los enfermos y de los ancianos. El capítulo de la pastoral de la conversión y de la penitencia deberla explicar el significado cristiano de la reconciliación y el sentido del pecado. A continuación, la pastoral de los enfermos: aquí debe hablarse del sentido cristiano del dolor, la misión de la Iglesia respecto del sufrimiento y la unción de los enfermos. La pastoral de los ancianos debe exponerse a partir de su dignidad y misión. Cabe concluir tratando de la muerte del cristiano y las exequias.
+
+c) La última zona de esta parte la denominamos la existencia cristiana como servicio. Para ella se pueden reservar algunas cuestiones que se han ido desarrollando en la vida de la Iglesia desde siempre, pero que en las últimas décadas van adquiriendo, por diversas razones (históricas, sociológicas, culturales, etc., y también teológicas) una relevancia particular. Dividimos la sección en tres temas o capítulos.
+
+En primer término, la primacía de la caridad y el dinamismo social del Evangelio. Desde la caridad, raíz de la transformación del mundo, la Iglesia realiza su misión de evangelización y promoción humana, pues el Evangelio comporta un mensaje de libertad y es garantía de la paz. En esas coordenadas, el trabajo adquiere para el cristiano una significación profunda, que sobre todo los fieles laicos deben conocer y esforzarse por vivir. Expresión de la caridad es asimismo la opción o el amor preferencial por los pobres y necesitados.
+
+En segundo lugar, la evangelización de la cultura. La fe debe hacerse cultura para que las culturas puedan abrirse al Evangelio y, mediante la debida purificación, contribuir a la paz en el mundo y a la comunión con Dios. Por eso la «nueva evangelización» se asocia con una pastoral de la cultura, atenta en especial a los modernos «medios» de comunicación. Hoy se hace urgente el compromiso de los católicos en la vida política. La evangelización debe prestar una particular atención al arte y la ecología. Asimismo la evangelización tiene una forma propia en relación con la universidad; de ahí la responsabilidad de los cristianos en la vida intelectual y la relevancia de la pastoral universitaria.
+
+Por último, la acción eclesial y pluralismo religioso. Debe estudiarse ante todo el diálogo interreligioso, para desembocar en las actitudes cristianas ante el pluralismo de religiones. En un segundo momento podrá abordarse la cuestión de los «no practicantes», indiferentes, agnósticos y ateos, y ofrecer algunas orientaciones para superar la indiferencia religiosa actual. Finalmente, cabe aludir a los «nuevos movimientos religiosos» y las sectas, el desafío que suponen para la pastoral, y la respuesta de la Iglesia.
+
+Bibliografía
+
+R. BLÁZQUEZ, La Iglesia del Concilio Vaticano II, Salamanca 19912. D. BOURGEOIS, La pastoral de la Iglesia, Valencia 2000. J.L. ILLANES, Desafíos teológicos de la nueva evangelización. En el horizonte del tercer milenio, Madrid 1999. R. PELLITERO, Teología pastoral: panorámica y perspectivas, Bilbao 2006. J. RATZINGER, Ser cristiano en la era neopagana, Madrid 1995; Convocados en el camino de la Fe. La Iglesia como comunión, Madrid 2004. K. WOJTYLA, La renovación en sus fuentes, Madrid 1982.
+
+*R. Pellitero*

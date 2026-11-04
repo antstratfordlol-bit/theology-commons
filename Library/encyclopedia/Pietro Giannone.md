@@ -1,0 +1,31 @@
+---
+title: "Pietro Giannone"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Patricius Schlager"
+signed: "PATRICIUS SCHLAGER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pietro_Giannone"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pietro-giannone} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Ghost Dance"
+next: "Gibail and Batrun"
+entry-type: "article"
+characters: 2847
+words: 459
+links: 0
+images: 0
+---
+
+# Pietro Giannone {#cathen.pietro-giannone}
+
+Italian historian, born 7 May, 1676, at Ischitella in the province of Capinata, Naples; died at Turin, 27 March, 1748. He received his first instruction in the house of his uncle, Gaetano Argento, a lawyer, and after having received the degree of Doctor of Law at Naples he began to practise his profession, following the example of his father. He devoted all his leisure time to the study of history. After preparatory work extending over a period of twenty years, he published under the title "Dell' istoria civile del regno di Napoli" (1723, 4 vols.), a work which caused a great sensation, especially on account of its bitter anti-ecclesiastical bias, which led to its repeated translation into English and German. In it Giannone combined a narrative of political matters, founded on historical sources, with an interesting description of the juridical and moral condition of the country; but as he ascribes all existing evils to the malignant influence of the Church, especially the Roman Curia, we may justly assume it a compilation of biased attacks and misstatements. It was immediately put on the Index and its author excommunicated and forced to leave Naples. He went to Vienna where he was pensioned by Emperor Charles VI. He was readmitted to the Church soon after by the Archbishop of Naples who was in Vienna at the time. Having forfeited his pension in 1744 Giannone went to Venice, but the Government, suspecting him on account of his political opinions, surrounded him with spies. He tried to gain the Government's goodwill by publishing a pamphlet entitled: "Lettera intorno al dominio del mare Adriatico", eulogizing Venice's conquest of the Adriatic; he was unsuccessful and was forcibly expelled in the following year. After wandering to and fro for a while he accepted the hospitality of an old book-dealer in Geneva. There he composed his intensely anti-clerical essay: "Il triregno ossia del regno del cielo, della terra e del papa" (Geneva, 1735, new ed. Rome, 1895, 3 vols.). Enticed to a village in Savoy, he was arrested, imprisoned in the fortress of Ceva, and transported thence to Turin, where he died. It is reported that before his death he was reconciled with the Church. Giannone's posthumous works are: "Opere postume" (Lausanne, 1760; enlarged, Venice, 1768; new ed., 2 vols., Capolago, 1841). The first volume contains: "Apologia dell' istoria civile del regno di Napoli; the second: "Indice generale dell'opera dei tre regni". His collected works appeared in Milan (5 vols., 1858). Later, Mancini published his posthumous works in two volumes (Turin, 1859), entitled "Opere inedite", containing the "Discorsi storici e politici sopra gli annali di Tito Livio"; "La chiesa sotto il pontificato di Gregorio il Grande". The autobiography of Giannone was published by Pierantoni (Rome, 1890).
+
+PATRICIUS SCHLAGER

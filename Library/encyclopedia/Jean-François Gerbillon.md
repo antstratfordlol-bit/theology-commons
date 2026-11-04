@@ -1,0 +1,33 @@
+---
+title: "Jean-François Gerbillon"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Henry Matthias Brock"
+signed: "HENRY M. BROCK"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Jean-François_Gerbillon"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.jean-francois-gerbillon} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Olympe-Philippe Gerbet"
+next: "Hyacinthe Sigismond Gerdil"
+entry-type: "article"
+characters: 2876
+words: 481
+links: 0
+images: 0
+---
+
+# Jean-François Gerbillon {#cathen.jean-francois-gerbillon}
+
+French missionary; born at Verdun, 4 June, 1654; died at Peking, China, 27 March, 1707. He entered the Society of Jesus, 5 Oct, 1670, and after completing the usual course of study taught grammar and humanities for seven years. His long-cherished desire to labour in the missions of the East was gratified in 1685, when he joined the band of Jesuits who had been chosen to found the French mission in China. Upon their arrival in Peking they were received by the emperor Kang-Hi who was favourable impressed by them and retained Gerbillion and Bouvet at the court. This famous monarch realized the value of the services which the fathers could render to him owing to their scientific attainments, and they on their part were glad in this way to win his favour and gain prestige in order to further the interests of the infant mission. As soon as they had learned the language of the country, Gerbillion with Pereyra, one of his companions, was sent as interpreter to Niptchou with the ambassadors commissioned to treat with the Russians regarding the boundaries of the two empires. This was but the beginning of his travels, during which he was often attached to the suite of the emperor. He made eight different journeys into Tatary. On one of these he was an eyewitness to the campaign in which Kang-Hi defeated the Eleuths. On his last journey he accompanied the three commissioners who regulated public affairs and established new laws among the Tatar-kalkas, who had yielded allegiance to the emperor. He availed himself of this opportunity to determine the latitude and longitude of a number of places in Tatary. Gerbillion was for a time in charge of the French college in Peking, and afterwards became superior-general of the mission. He enjoyed the special friendship and esteem of the emperor, who had a high opinion of his ability and frequently availed himself of his scientific and diplomatic services. He was withal a zealous missionary, and in 1692 obtained an edict granting the free exercise of the Christian religion. After the emperor's recovery from a fever, during which he was attended by Gerbillion and Bouvet, he showed his gratitude by bestowing on them a site for a chapel and residence. Gerbillion was a skilled linguist. He was the author of several works on mathematics, and wrote an account of his travels in Tatary. These relations are valuable for their accurate account of the typography of the country, the customs of the people, and also for the details of life of the missionaries at the court. Among his works are "Eléments de Géométrie" (1689), "Géométrie pratique et théoretique" (1690), "Eléments de philosphie". "Relations du huit Voyages dans la Grande Tartarie". A work entitled "Elementa Linguæ Tartaricæ" is also attributed to him.
+
+Sommervogel, Biblioth. de la C. de J., III; Eyries in Biographie Universalis, s.v.
+
+HENRY M. BROCK

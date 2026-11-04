@@ -1,0 +1,33 @@
+---
+title: "Gerald Molloy"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: ""
+signed: "PETER F. CUSICK"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Gerald_Molloy"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.gerald-molloy} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Francis Molloy"
+next: "Gasparo Molo"
+entry-type: "article"
+characters: 3358
+words: 544
+links: 0
+images: 0
+---
+
+# Gerald Molloy {#cathen.gerald-molloy}
+
+A theologian and scientist, born at Mount Tallant House, near Dublin, 10 Sept., 1834; died at Aberdeen, 1 Oct., 1906. Monsignor Molloy was a distinguished Irish priest and for many years a very popular and much admired figure in the intellectual life of Ireland. He was educated at Castleknock College, where he was very successful in his studies, and subsequently went to Maynooth College. Here he applied himself with enthusiasm to the study of theology and the physical sciences. In both departments his record was a brilliant one. He was barely twenty-three years of age when in 1857 he became professor of theology at Maynooth, and continued to hold that chair until 1874, when he accepted the professorship of natural philosophy at the Catholic University of Ireland. In 1883 he succeeded Dean Neville of Cork as Rector of the Catholic University, which office he occupied up to the day of his death. The varied nature of Monsignor Molloy's work in connexion with Irish education is very striking. He acted on the commission on manual training in primary schools, and filled the post of assistant commissioner under the Educational Endowments Act. As early as 1880 he became a member of the Senate of the Royal University of Ireland, and remained so till 1882, when he was appointed to a fellowship in the same university. In 1890 he became a member of the governing board of that institution and at the time of his death was its vice-chancellor. He was also a member of the Board of Intermediate Education. As a lecturer and skilled experimentalist, Molloy was very successful in dealing with difficult scientific subjects and rendering them easily intelligible and interesting to his hearers. Under the auspices of the Royal Dublin Society, of whose council he was a member, he delivered a series of lectures on natural science, and in particular on electricity, in which he was an acknowledged expert. On one occasion he joined issue on the subject of lightning conductors with no less an adversary than Sir Oliver Lodge. Among his works are: "Geology and Revelation" (1870), a fuller and maturer treatment of a series of papers on geology in its relation with revealed religion, which appeared from time to time in the "Irish Ecclesiastical Record", and dealt with the supposed conflict between geology and revelation, solving the problem of reconcilement; "Outlines of a course of Natural Philosophy" (1880); "Gleanings in Science" (1888), an interesting series of popular lectures on scientific subjects; "The Irish Difficulty, Shall and Will" (1897). He also translated a number of passages from Dante's "Purgatorio", wrote of the Passion Play at Oberammergau, and was a frequent contributor to several magazines. At the time of his sudden death, due to heart failure, Father Molloy was representing the Catholic University at the celebration of the fourth centenary of the Aberdeen University, and was one of those on whom the honorary degree of Doctor of Laws was conferred by the latter university a few days before. His career is another striking contradiction of the theory that a Catholic clergyman must necessarily be an opponent of scientific progress.
+
+*Freeman's Journal* (Dublin, 2 Oct., 1906); MOLLOY, *Geology and Revelation;* IDEM, *Gleanings in Science; Dublin Review* (1872) and *Irish Eccles. Record* (1866-9).
+
+PETER F. CUSICK.

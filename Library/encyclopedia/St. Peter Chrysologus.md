@@ -1,0 +1,35 @@
+---
+title: "St. Peter Chrysologus"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "unknown"
+author: "Henry Ignatius Smith"
+signed: "Ignatius Smith"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Peter_Chrysologus"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-peter-chrysologus} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Peter Cellensis"
+next: "St. Peter Claver"
+entry-type: "article"
+characters: 2031
+words: 315
+links: 0
+images: 0
+---
+
+# St. Peter Chrysologus {#cathen.st-peter-chrysologus}
+
+Born at Imola, 406; died there, 450. His biography, first written by Agnellus (Liber pontificalis ecclesi=E6 Ravennatis) in the ninth century, gives but scanty information about him. He was baptised, educated, and ordained deacon by Cornelius, Bishop of Imola, and was elevated to the Bishopric of Ravenna in 433. There are indications that Ravenna held the rank of metropolitan before this time. His piety and zeal won for him universal admiration, and his oratory merited for him the name Chrysologus. He shared the confidence of Leo the Great and enjoyed the patronage of the Empress Galla Placidia. After his condemnation by the Synod of Constantinople (448), the Monophysite Eutyches endeavoured to win the support of Peter, but without success.
+
+A collection of his homilies, numbering 176, was made by Felix, Bishop of Ravenna (707-17). Some are interpolations, and several other homilies known to be written by the saint are included in other collections under different names. They are in a great measure explanatory of Biblical texts and are brief and concise. He has explained beautifully the mystery of the Incarnation, the heresies of Arius and Eutyches, the Apostles' Creed, and he dedicated a series of homilies to the Blessed Virgin and St. John the Baptist. His works were first edited by Agapitus Vicentinus (Bologna, 1534), and later by D. Mita (Bolonga, 1634), and S. Pauli (Venice, 1775)-the later collection having been reprinted in P.L., LII. Fr. Liverani ("Spicilegium Liberianum"), Florence, 1863, 125 seq.) edited nine new homilies and published from manuscripts in Italian libraries different readings of several other sermons. Several homilies were translated into German by M. Held (Kempten, 1874).
+
+BARDENHEWER, Patrology, tr. SHAHAN, 526 sqq.; DAPPER, Der hl. Petrus von Ravenna Chrysologus (Posen, 1871); LOOSHORN, Der hl. Petrus Chrysologus und seine Schriflen in Zeitschrift f. kathol. Theol., III (1879), 238 seq.; WAYMAN, Zu Petrus Chrysologus in Philologus, LV (1896), 464 seq.
+
+Ignatius Smith.

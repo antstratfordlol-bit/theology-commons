@@ -1,0 +1,33 @@
+---
+title: "Georges d'Armagnac"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "unknown"
+author: "Jean Lebars"
+signed: "JEAN LE BARS"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Georges_d'Armagnac"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.georges-darmagnac} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "School of Armagh"
+next: "Mariano Armellino"
+entry-type: "article"
+characters: 1685
+words: 277
+links: 0
+images: 0
+---
+
+# Georges d'Armagnac {#cathen.georges-darmagnac}
+
+French cardinal and diplomatist, b. c. 1501; d. 2 June, 1585. He belonged to the illustrious family of Foix d'Armagnac. In his youth he was the protégé of Cardinal d'Amboise. The Duke of Alençon introduced him to Francis I, and in 1529 he was appointed Bishop of Rodez, was ambassador to Venice 1536-38, took part in the war between Francis I and Charles V, and distinguished himself by contributing to the emperor's retreat from the south of France (1538). In 1539 the king sent him as ambassador to Rome, where the cardinal's hat was bestowed upon him in (1544). In 1552 he was appointed lieutenant-general of the king at Toulouse, together with Paul de Carrets, Bishop of Cahors. Eight years later he was raised to the Archbishopric of Toulouse, which he left in 1565, Pius IV having appointed him legate at Avignon, together with Cardinal de Bourbon. In this position Cardinal d'Armagnac vigorously defended the interests of the Church against the Huguenots and brought about a good understanding between the people of Avignon and those of Orange and Languedoc. The pope showed his approval of d'Armagnac's administration by promoting him to the Archbishopric of Avignon (1576). His great intelligence and deep knowledge of men and things, his austere virtues, and the protection which he granted to the arts and sciences place him in the first rank of the faithful servants of the Church in the sixteenth century.
+
+Rey, Le cardinal d'Armagnac co-legat a Avignon (1566-83), d'apres sa correspondance; Annales du midi (1898), 129-154, 273-306; Tamizey de Larroque, Lettres inedites du cardinal d'Armagnac, in Rev. hist., 1876, II; Farges in La grande encyc., III, 986.
+
+JEAN LE BARS

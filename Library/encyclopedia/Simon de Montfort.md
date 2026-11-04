@@ -1,0 +1,39 @@
+---
+title: "Simon de Montfort"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: "Edwin Hubert Burton"
+signed: "EDWIN BURTON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Simon_de_Montfort"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.simon-de-montfort} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Bernard de Montfaucon"
+next: "Joseph-Michel Montgolfier"
+entry-type: "article"
+characters: 5713
+words: 977
+links: 0
+images: 0
+---
+
+# Simon de Montfort {#cathen.simon-de-montfort}
+
+An Earl of Leicester, date of birth unknown, died at Toulouse, 25 June, 1218. Simon (IV) de Montfort was descended from the lords of Montfort l'Amaury in Normandy, being the second son of Simon (III), and Amicia, daughter of Robert de Beaumont, third Earl of Leicester. Having succeeded his father as Baron de Montfort in 1181, in 1190 he married Alice de Montmorency, the daughter of Bouchard (III) de Montmorency. In 1199 while taking part in a tournament at Ecry-sur-Aisne in the province of Champagne he heard Fulk de Neuilly preaching the crusade, and in company with Count Thibaud de Champagne and many other nobles and knights he took the cross. Unfortunately, the crusade got out of control, and the French knights, instead of co-operating with the pope, decided on a campaign in Egypt, and on their arrival at Venice entered on a contract for transport across the Mediterranean. Being unable to fulfil the terms of the contract, they compounded by assisting the Venetians to capture Zara in Dalmatia. In vain the pope urged them to set out for the Holy Land. They preferred to march on Constantinople, though Simon de Montfort offered energetic opposition to this proposal. Notwithstanding his efforts, the expedition was undertaken and the pope's plans were defeated.
+
+In 1204 or 1205 Simon succeeded to the Earldom of Leicester and large estates in England, for on the death of the fourth Earl of Leicester in that year, his honour of Leicester devolved on his sister Alicia, Simon's mother; and as her husband, Simon (III), and her eldest son were already dead, the earldom devolved on Simon himself. But though he was recognized by King John as Earl of Leicester, he was never formally invested with the earldom, and in February, 1207, the king seized all his English estates on pretext of a debt due from him. Shortly afterwards they were restored, only to be confiscated again before the end of the year. Simon, content with the Norman estates he had inherited from the de Montforts and the de Beaumonts, remained in France, where in 1208 he was made captain-general of the French forces in the Crusade against the Albigenses. At first he declined this honour, but the pope's legate, Arnold, Abbot of Cîteaux, ordered him in the pope's name to accept it, and he obeyed. The albigenses were a small part of the Cathar movement, a new order of christianity feared by the popes and demonised as heretics.
+
+Simon thus received control over the territory conquered from Raymond (VI) of Toulouse and by his military skill, fierce courage, and ruthlessness he swept the country. His success won for him the admiration of the English barons, and in 1210 King John received information that they were plotting to elect Simon King of England in his stead. Simon, however, concentrated his fierce energies on his task in Toulouse, and in 1213 he defeated Peter of Aragon at the battle of Muret. The Albigenses were now crushed, but Simon carried on the campaign as a war of conquest, being appointed by the Council of Montpellier lord over all the newly-acquired territory, as Count of Toulouse and Duke of Narbonne (1215). The pope confirmed this appointment, understanding that it would effectually complete the suppression of the heresy. It is ever to be deplored that Simon stained his many great qualities by treachery, harshness, and bad faith. His severity became cruelty, and he delivered over many towns to fire and pillage, thus involving many innocent people in the common ruin. This is the more to be regretted, as his intrepid zeal for the Catholic faith, the severe virtue of his private life, and his courage and skill in warfare marked him out as a great man. He is most famous for the quote "Kill them all and God will decide who is heretic and who is not". After the massacre at Belziers, Innocent III was informed that Simon had had 20000 killed.
+
+Meanwhile the pope had been making efforts to secure for him the restitution of his English estates. The surrender of his lands by John was one of the conditions for reconciliation laid down by the pope in 1213; but it was not till July, 1215, that John reluctantly yielded the honour of Leicester into the hands of Simon's nephew, Ralph, Earl of Chester, "for the benefit of the said Simon". Simon's interest in England was shown by his efforts to dissuade Louis of France from invading England in July, 1216, in which matter he was seconded, though fruitlessly, by the legate Gualo. Having at this time raised more troops in Paris, Simon returned to the south of France, where he occupied himself in waging war at Nîmes, until in 1217 a rebellion broke out in Provence, where Count Raymond's son re-entered Toulouse. Simon hastened to besiege the city, but was hampered by lack of troops. On 25 June, 1218, while he was at Mass he learned that the besieged had made a sortie. Refusing to leave the church before Mass was over, he arrived late at the scene of action only to be wounded mortally. He expired, commending his soul to God, and was buried in the Monastery of Haute-Bruyère. He left three sons, of whom Almeric the eldest ultimately inherited his French estates; the youngest was Simon de Montfort, who succeeded him as Earl of Leicester, and who was to play so great a part in English history.
+
+CANET, *Simon de Montfort et la croisade contre les Albigeois* (Lille, 1891); DOUAIS, *Soumission de la Vicomté de Carcassonne par Simon de Montfort* (Paris, 1884); L'HERMITE, *Vie de Simon, Comte de Montfort* (s. l. a.); MOLINIER, *Catalogue des actes de Simon el d'Amauri de Montfort* in *Biblioth. de l'école des Chartes* (*1873*), XXXIV (Paris, 1874); NORGATE in *Dict. Nat. Biog.,* s, v. *Simon* (V) *de Montfort.*
+
+EDWIN BURTON.

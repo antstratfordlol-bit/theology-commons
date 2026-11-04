@@ -1,0 +1,33 @@
+---
+title: "Diego Francisco Aduarte"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "161-162"
+author: "Martin Stanislaus Welsh"
+signed: "M. S. Welsh"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Diego_Francisco_Aduarte"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.diego-francisco-aduarte} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Adso"
+next: "Adullam"
+entry-type: "article"
+characters: 3026
+words: 508
+links: 0
+images: 0
+---
+
+# Diego Francisco Aduarte {#cathen.diego-francisco-aduarte}
+
+**Aduarte,** Diego Francisco, missionary and historian, b. 1566, at Saragossa, in Spain; d. at Nueva Segovia, in the Philippines, about 1635. He was educated at the University of Alcal and entered the Dominican Order. In 1594, with other members of that Order, he sailed for the Philippines, landing at Manila in 1595. As a missionary he was conspicuous even among the heroic apostles of that period. He first devoted himself to the difficult task of catechizing the Chinese residents in the Philippines, and met with unusual success. Shortly after, he was selected as one of two Dominicans to accompany a military expedition in aid of the native ruler of Cambay. After an eventful journey of more than a year they landed in Siam, only to find that the aid arrived too late, and that they were in danger from the treachery of the natives. They then entered Cochin China for the purpose of evangelizing the heathen, but were obliged to retire before the ferocity of the natives. Several such journeys by sea and land, some extending over many months and even years, during which he suffered hunger and thirst and equatorial heats, fell to his lot during the laborious years of his middle and later life. Yet no obstacles could cause him to waver in the work of spreading the light of faith. From Cochin China he returned to Manila, and went thence to Spain (1603) in the interests of the missions. After two years spent in recruiting suitable missionaries, he sailed for the Philippines in 1605. He had already (1595) been made prior of the Dominican convent and rector of the College of San Tomás. In 160S, he was called again to Spain to act as Procurator in the interests of his order, and he began here his famous history of the Dominican Province of the Philippines, one of the most important sources of early Spanish history in the islands. It throws much light on the relations of Church and State in the Philippines. The civil governors of the islands, often unscrupulous men, bent on enslaving and demoralizing the natives, had put these relations in a false light. The work of Fra Diego exhibits truthfully the constant checks which the religious orders put upon the rapacity of the Spanish seekers of wealth. His principal works are "Relación de muchos cristianos que han decidido por la fe católica en el Japón desde el año 1616 haste el de 1628" (Manila, 1632, 1640); "Relación de algunas entradas que han hecho los religiosos de la orden de Predicadores de la provincia del Santo Rosario" (Manila, 1638); "Historia de la provincia del Santisimo Rosario de Filipinas, Japón y Chyna" (Manila, 1640, and Saragossa, 1693); "Relación de los gloriosos martirios de seis religiosos de San Domingo de la provincia del Santo Rosario" (Manila, 1634; Valladolid, 1637), a rare and curious work.
+
+Touron, *Hist. des hommes illustres de l'ordre de S. Dominique,* s.v.; Dice, *Enciclop. Hispano-Americana,* s.v.; Blair and Robertson, *Collection of Documents relating to the Philippine Islands* (vols. XXX–XXXII).
+
+M. S. Welsh.

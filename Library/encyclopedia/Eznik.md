@@ -1,0 +1,33 @@
+---
+title: "Eznik"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "5"
+pages: "unknown"
+author: "Eugène Xavier Louis Henri Hyvernat"
+signed: "H. HYVERNAT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Eznik"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.eznik} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Ezechiel"
+next: "Ezzo"
+entry-type: "article"
+characters: 2334
+words: 385
+links: 0
+images: 0
+---
+
+# Eznik {#cathen.eznik}
+
+**Eznik**, a writer of the fifth century, b. at Golp, in the province of Taikh, a tributary valley of the Chorokh, in Northern Armenia. He was a pupil of Isaac, the catholicos, and of Mesrop. At their request he went first to Edessa, then to Constantinople to perfect himself in the various sciences and to collect or copy Syriac and Greek manuscripts of the Bible, and the writings of the Fathers of the Church. He returned to Armenia after the Council of Ephesus (431), and is probably identical with Eznik, Bishop of Bagrevand, who took part in the Synod of Artashat in 449. In addition to his labors in connection with the new version of the Bible (see Versions of the Bible) and various translations, he composed several works, the principal of which is his remarkable treatise "Against the Sects". It was written between 441 and 449, and contains four books or chapters. In the first, against the heathens, Eznik combats the eternity of matter and the substantial existence of evil. In the second he refutes the chief doctrines of Parseeism. The third is directed against the Greek philosophers (Pythagoreans, Platonists, Peripatetics, Stoics, and Epicureans), the writer taking his arguments from the
+
+Bible rather than from reason. The fourth book is an exposition and refutation of Marcionism. In the work Eznik displays much acumen and an extensive erudition. He was evidently as familiar with Persian as with Greek literature. His Armenian diction is of the choicest classical type, although the nature of his subject-matter forced him to use quite a number of Greek words. The work "Against the Sects" was first published at Smyrna in 1762; again, much more correctly and from several manuscripts, by the Mechitarists at Venice in 1826 and in 1865. An indifferent French translation was made by LeVaillant de Florival, "Refutation des differentes sectes", etc. (Paris, 1853). A good German translation is that by J. M. Schmid, "Eznik von Kolb, Wider die Sekten" (Leipzig, 1900). Langlois published a general introduction to the whole treatise and a translation of part of book II (section 5, 1-11, containing Magism) in his "Collection des historiens anciens et modernes de l'Armenie", II, pp. 371 sq. Eznik is also the author of a short collection of moral precepts, printed with his more important treatise.
+
+H. HYVERNAT

@@ -1,0 +1,35 @@
+---
+title: "Caroline Islands"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Otto Jéron"
+signed: "Otto Jéron"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Caroline_Islands"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.caroline-islands} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Caroline Books (Libri Carolini)"
+next: "Raymond Caron"
+entry-type: "article"
+characters: 3853
+words: 617
+links: 0
+images: 0
+---
+
+# Caroline Islands {#cathen.caroline-islands}
+
+A group of about 500 small coral islands, east of the Philippines, in the Pacific Ocean. The distance from Manila to Yap, one of the larger islands of the group, is 1200 miles. The Caroline Islands were discovered in the sixteenth century by the Spaniards and were so named in honour of Charles V. The Jesuits, John Anthony Cantova and Victor Walter, attempted missionary work there in 1731; the former was soon murdered, the latter obliged to flee. Two other Jesuits were killed later. In 1767 the Jesuits were suppressed in the Spanish dominions, and during the next 120 years there is no trace of a missionary. The controversy between Germany and Spain concerning the possession of the Carolines having been settled by Pope Leo XIII in favour of Spain, the king directed Spanish Capuchins to the islands, 15 March, 1886, and the Propaganda officially established that mission, 15 May, 1886, dividing it into two sections, named West and East Carolines respectively. Until then the islands had belonged ecclesiastically to the Vicariate Apostolic of Micronesia.
+
+The aborigines, of the Polynesian race, are not cannibals; they live mainly by hunting and fishing, and know nothing of agriculture, though the soil is very fertile. They wear very little clothing and build small huts of branches. Immorality is rife among them, even the little children being infected with it. The boys make progress in learning, the girls are exceptionally slow. The language spoken in commerce is English, but the aborigines have several dialects of their own. The Spanish Capuchins had a catechism and prayer book printed in the Ponape dialect, and Father Anthony of Valentia wrote a small grammar and dictionary of the Yap dialect in 1890. They believe in a Supreme Being (*Yalafar*) and in a bad spirit (*Can*), yet they have hardly any religious rites. When the Spanish Fathers had laid the foundations of the mission, these islands passed by purchase into the hands of Germany (1 June, 1899). Spain had contributed more than $5000 a year towards the mission; Germany granted no support. Spain had compelled the aborigines to send their children to school; Germany gave full liberty in this regard, and the somewhat lazy people consequently began to neglect school as well as church. The mission thereby suffered greatly, and the Propaganda finally deemed it advisable to replace the Spanish Capuchins with others of German nationality (7 Nov., 1904) and to erect one Apostolic prefecture instead of the two separate missions (18 Dec., 1905). The Very Reverend Father Venantius of Prechthal was appointed first prefect Apostolic. In 1906 twelve fathers and twelve brothers were working in thirteen stations, and several Sisters of St. Francis left Luxemburg to take charge of the ten schools, in which were 262 children. Ninety adult converts were the harvest of that year, and the Catholic population is given as 1900 among 11,600 heathens and a few Protestants. The United States Government sent, 1 July, 1905, a Jesuit from the observatory at Manila to erect a meteorological station on the island of Yap, of which station the Capuchin Father Callistus was appointed director. The origin of the East-Asiatic typhoons had been traced to these regions, and twice a day observations are made, and notice is frequently given to Manila by cable.
+
+STOLBERG, *Die Karolineninsel Yap* (Berlin, 1906); BAUMGARTEN, *Das Wirken der kath. Kirche auf dem Erdenrund* (Munich, 1902); STEIDL, *Die Missionen der Kapuziner in der Gegenwart* (Meran, 1890); *Katholische Missionen*, XXXIII-XXXV; CHRISTIAN, *The Caroline Islands* (London, 1899); *The Statesman's Year-Book* (1907), 1023; *Missiones Cath.* (Rome, 1907), 713-14; STREIT, *Atlas des Missions cath.* (Steyl, 1906), 20, and plates 15 and 22; SHOEMAKER M.M., *Islands of the Southern Seas* (New York, 1898).
+
+Otto Jéron.

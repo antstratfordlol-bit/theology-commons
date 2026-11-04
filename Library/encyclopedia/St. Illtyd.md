@@ -1,0 +1,33 @@
+---
+title: "St. Illtyd"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "F. M. Rudge"
+signed: "F.M. RUDGE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Illtyd"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-illtyd} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Illinois Indians"
+next: "Illuminati"
+entry-type: "article"
+characters: 2006
+words: 339
+links: 0
+images: 0
+---
+
+# St. Illtyd {#cathen.st-illtyd}
+
+(Or ILTUTUS.)
+
+Flourished in the latter part of the fifth and beginning of the sixth century, and was held in high veneration in Wales, where many churches were dedicated to him, chiefly in Glamorganshire. Born in Armorica, of Bicanys and Rieniguilida, sister of Emyr Llydaw, he was a grandnephew of St. Germanus, Bishop of Auxerre. According to one account he crossed to Britain and joined King Arthur's Court, and later went to Glamorgan, where he was miraculously converted by St. Cadoc. These details, however, rest on a late life of the saint (Cottonian MS., Vesp. A XIV). He is supposed to have been ordained by St. Dubricius, Bishop of Llandaff, and with the assistance of Meirchon, a Glamorgan chieftain, to have built a church and a monastery, which became a centre of learning, one of the three great monastic schools in the Diocese of Llandaff. Among the scholars who flocked thither were Sts. Gildas, Samson, and Maglorius, whose lives, written about 600 ("Acta SS. Ordinis S. Benedicti", Venice, 1733), constitute the earliest source of information on St. Illtyd. According to these, his school was situated on a small waste island, which, at his intercession, was miraculously reunited with the mainland, and was known as Llantilllyd Fawr, the Welsh form of Llantwit Major, Glamorganshire. The story of the miracle may have been inspired by the fact that the saint was skilled in agriculture, for he is supposed to have introduced among the Welsh better methods of ploughing, and to have helped them reclaim land from the sea. The legendary place of his burial is close by the chapel dedicated to him in Brecknockshire, and is called Bedd Gwyl Illtyd, or the "grave of St. Illtyd's eve", the old custom of having been to keep vigil there on the eve of his feast, which was celebrated 7 February. There is still to be seen in Llantwit Major a cross, probably on the ninth century, bearing the inscription: SAMSON POSUIT HANC CRUCEM PRO ANIMA EIUS ILITET SAMSON REGIS SAMUEL ERISAR.
+
+F.M. RUDGE

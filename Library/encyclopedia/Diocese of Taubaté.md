@@ -1,0 +1,35 @@
+---
+title: "Diocese of Taubaté"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "Julian Moreno-Lacalle"
+signed: "Julian Moreno-Lacalle"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Diocese_of_Taubaté"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.diocese-of-taubate} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Tatwin"
+next: "John Tauler"
+entry-type: "article"
+characters: 1192
+words: 197
+links: 0
+images: 0
+---
+
+# Diocese of Taubaté {#cathen.diocese-of-taubate}
+
+(DE TAUBATÉ)
+
+Diocese in Brazil, South America, established on 29 April, 1908, as a suffragan of Sãn Paulo. The present incumbent and first bishop, the Right Rev. Epaminondas Nuñes de Avila e Silva (born 4 July, 1869; consecrated 8 Sept., 1909) entered upon his duties on 21 Nov., 1909. In the town of Taubaté, there are, besides the cathedral, which is one of the finest in Brazil, the churches of Sant' Anna, Nossa Senhora do Pilar, and Santa Clara (built in 1644), and the chapels of the San José school of Santa Isabel Hospital, and of the Mendicant Asylum. The Catholic educational institutions in Taubaté are: the Seminario Menor, under the Capuchin Fathers; the Collegio de Nossa Senhora do Bom Conselho and the San José School, both under the Sisters of St. Joseph; the Collegio Immaculado Coraçao de Maria, and the Collegio de Santa Veronica, administered by the Third Order of St. Francis. The religious orders in the diocese are: Capuchins; Franciscans; and Sisters of St. Joseph. There are seven religious associations or brotherhoods. The official organ of the diocese is "O Labaro", which was founded by Mgr. Nuñes de Avila.
+
+For bibliography see BRAZIL.
+
+Julian Moreno-Lacalle.

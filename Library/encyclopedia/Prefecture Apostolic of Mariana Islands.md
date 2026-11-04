@@ -1,0 +1,33 @@
+---
+title: "Prefecture Apostolic of Mariana Islands"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Thomas Kennedy"
+signed: "THOMAS KENNEDY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Prefecture_Apostolic_of_Mariana_Islands"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.prefecture-apostolic-of-mariana-islands} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Archdiocese of Mariana"
+next: "Congregation of the Missionaries of Mariannhill"
+entry-type: "article"
+characters: 2904
+words: 471
+links: 0
+images: 0
+---
+
+# Prefecture Apostolic of Mariana Islands {#cathen.prefecture-apostolic-of-mariana-islands}
+
+The Marianas Archipelago (also called the Ladrone Islands) is a chain of fifteen islands in the Northern Pacific, situated between 13° and 21° N. Lat. and 144° and 146° E. long. The islands were first discovered in 1521 by Magellan, who called them *Las Islas de los Ladrones* (Thieves' Islands) on account of the predilection of the natives for thieving. In 1667 the Spanish established a regular colony there, and gave the islands the official title of *Las Marianus* in honour of Queen Maria Anna of Austria. They then possessed a population of 40-60,000 inhabitants, but so fierce was the opposition offered to the Spaniards that the natives were almost exterminated before Spanish rule was made secure. The Marianas remained a Spanish colony under the general government of the Philippines until 1898, when, as a result of the Spanish-American War, Guam was ceded to the United States. By Treaty of 12 Feb., 1899, the remaining islands (together with the Carolines) were sold to Germany for about $4,100,000. Guam is 32 miles long, from 3 to 10 miles broad, and about 200 sq. miles in area. Of its total population of 11,490 (11,159 natives), Agana, the capital, contains about 7,000. Possessing a good harbour, the island serves as a United States naval station, the naval commandant acting also as governor. The products of the island are maize, copra, rice, sugar, and valuable timber. The remaining islands of the archipelago belong to the German Protectorate of New Guinea; their total population is only 2,646 inhabitants, the ten most northerly islands being actively volcanic and uninhabited. The prefecture Apostolic was erected on 17 Sept., 1902, by the Constitution "Qum man sinico" of Leo XIII. The islands had previously formed part of the Diocese of Cebu. By Decree of 18 June, 1907, they were entrusted to the Capuchin Fathers of the Westphalian Province, to which order the present prefect Apostolic, Very Rev. Paul von Kirchhausen (appointed August, 1907; residence in Saipan, Carolina Islands), belongs. There are two public schools, but accommodation is so inadequate that the boys attend in the morning and the girls in the evening. The instruction is given in English, and, in addition to the usual elementary subjects, carpentry and other trades are taught. Two priests are stationed at Agana; one in each of the smaller settlements, Agat and Merizo. In addition to the churches at these places, there is a church at Samay and several little chapels in the mountains. A priest from Agana visits each month the colony where the lepers are segregated, to celebrate Mass and administer the sacraments. Catholicism is the sole religion of the islands. Until 1908 the Institute of the Mission Helpers of the Sacred Heart had a house at Agana.
+
+BATTANDIER, *Annuaire Pontificale* (1910); *Report of the Smithsonian Institution* (1903); *Statesman's Year-Book* (1910).
+
+THOMAS KENNEDY

@@ -1,0 +1,43 @@
+---
+title: "Bl. Vincent Kadlubek"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Francis Mershman"
+signed: "Francis Mershman"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Bl._Vincent_Kadlubek"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.bl-vincent-kadlubek} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Vincent Ferrer"
+next: "Vincent of Beauvais"
+entry-type: "article"
+characters: 2825
+words: 455
+links: 1
+images: 0
+links_to:
+  - "Hurter"
+---
+
+# Bl. Vincent Kadlubek {#cathen.bl-vincent-kadlubek}
+
+(KADLUBO, KADLUBKO).
+
+Bishop of Cracow, chronicler, b. at Karnow, Duchy of Sandomir, Poland, 1160; d. at Jedrzejow, 8 March, 1223. The son of a rich family in Poland, he made such progress in his studies that in 1189 he could sign his name as Magister Vincentius (Zeissberg, in "Archiv fur osterreichische Geschichte", XLII, Vienna, 1870, 25), from which some conclude that he was then a canon of Cracow and principal of the cathedral school. Another document of 1212 (Zeissberg, 29) bears his signature as *quondam Sandomirensis praepositus*. At the death of Bishop Fulk of Cracow 11 Sept., 1207, the chapter voted for Vincent. Innocent III approved the election 28 March, 1208, and Vincent was consecrated by Henry Kielicz, Archbishop of Gnesen. Poland was then in a state of political and ecclesiastical demoralization, and Innocent had asked the archbishop, his schoolmate, to bring about a reform in clergy and people. Vincent worked in harmony with his metropolitan, and in visitations and sermons sought to obey the papal instructions. He assisted the religious in his diocese, and made notable donations to the monasteries of Sulejow, Koprzywnica, and Jedrzejow. It was also through his influence that in 124 peace was restored between Andrew of Hungary and Leszek of Poland who were contending for the possession of Galicia.
+
+In 1218 Vincent sent in his resignation, and, after its acceptance by Honorius III entered the Monastery of Jedrzejow. He was the first Pole to receive the habit of the Cistercians (Starovolscius, 56). In due time he made his profession and lived in retirement until his death. He was buried before the high altar of the abbey church. In 1682 John Sobieski petitioned the Holy See for his beatification. A similar request was made in 1699 by the General Chapter of the Order of Cîteaux. On 18 Feb., 1764, Clement XIII ratified his cult on supplication of Wojciech Ziemicki, Abbot of Jedrzejow.
+
+**Works**
+
+"Chronica seu originale regum et principum Poloniae", in four books. The first three are in the form of a dialogue between Archbishop John of Gnesen (1148-65) and Matthew, Bishop of Cracow (1145-65). The first is legendary the second is based on the chronicle of Gallus, the third and fourth contain matters in Vincent's own experience. Some claim that the work was written at the request of King Casimir, others say at the request of King Leszek, while Vincent was bishop; and others, that it was written in the seclusion of the monastery. The latest edition of the work is by Bielowski in "Mon. Pol. hist.", II (Lemberg, 1870).
+
+*Cistercienser Chronik*, XXI, 65; JOECKER, *Gelehrten Lexicon*, II, 2043; MANRIQUE, *Annales Cist*., IV, 136; [[Hurter]], *Nomenclator; Vita et Miracula Servi Dei Vincentii Kadlubkonis*; SINOME STAROVOLSCIO, *Scriptore* (Cracow, 1642)
+
+Francis Mershman.

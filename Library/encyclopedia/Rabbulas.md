@@ -1,0 +1,31 @@
+---
+title: "Rabbulas"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "Francis Joseph Bacchus"
+signed: "F.J. BACCHUS"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Rabbulas"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.rabbulas} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Rabbi and Rabbinism"
+next: "François Rabelais"
+entry-type: "article"
+characters: 2235
+words: 374
+links: 0
+images: 0
+---
+
+# Rabbulas {#cathen.rabbulas}
+
+Bishop of Edessa and, in the later years of his life, one of the foremost opponents of Nestorianism. He was the son of a heathen priest and a Christian mother. He was converted by Eusebius, Bishop of Chalcis (his native town), and Acacius, Bishop of Aleppo. After his conversion he became a monk. For a time he was a devoted admirer of Theodore of Mopsuestia, but there was some quarrel, the details which are not known, and Theodore publicly rebuked him at a synod. In 412 he was appointed Bishop of Edessa and died in 435. According to the anonymous panegyrist who wrote his Life, he from the first took a decided stand against Nestorius and denounced the heresiarch to his face. At the Council of Ephesus, however, he was on the side of John of Antioch, and his name is found among the subscriptions to two letters (Labbe, I, p. 1532 and p. 1557) in which St. Cyril's doctrine is denounced as heretical. But a few months later he realized that St. Cyril was in the right, and became his most uncompromising ally against Nestorianism. His task was not an easy one, for his diocese, owing chiefly to the prestige of Theodore of Mopsuestia, was a stronghold of Nestorianism. The zeal with which Rabbulas endeavoured to suppress Theodore's writings was unfairly attributed by Ibas, in his letters to Maris, to personal rancour against the memory of the deceased (Ibas' letter was read at the Council of Calcedon and may be found in Labbe, Hardouin, Mansi, or Hefele). Most of the surviving works of Rabbulas were published by Overbeck, "S. Ephraemi Syri, Rabulae Episc. Edesseni, Balæei aliorumque opera selecta" (Oxford, 1865). Rabbulas' Syriac translation of St. Cyril's "De Fide Recta" was first published by Philip Pusey (Oxford, 1877). Most of the writings of Rabbulas were translated into German by Bickell in Thalhofer's "Bibliothek der Kirchenväter". According to Burkitt, "St. Ephraim's quotations from the Gospel" (Cambridge Texts and Studies, VII, 2) and "Evangelion Da Mephareshe" (Cambridge, 1901), Rabbulas was the author of the Peshitto. The chief authority for his Life is an anonymous panegyric composed soon after his death by a cleric of Edessa. This was published by Overbeck and translated by Bickell.
+
+F.J. BACCHUS

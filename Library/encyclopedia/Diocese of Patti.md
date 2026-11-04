@@ -1,0 +1,39 @@
+---
+title: "Diocese of Patti"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "unknown"
+author: "Umberto Benigni"
+signed: "U. BENIGNI"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Diocese_of_Patti"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.diocese-of-patti} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Patron Saints"
+next: "St. Paul"
+entry-type: "article"
+characters: 2217
+words: 364
+links: 0
+images: 0
+---
+
+# Diocese of Patti {#cathen.diocese-of-patti}
+
+(PACTENSIS)
+
+Patti, in the Province of Messina (Sicily), on the western shore of the gulf of the same name. The city has a large trade in tunnyfish. In its cathedral is preserved the body of St. Febronia, virgin and martyr. The city was rebuilt by Count Roger, after the Saracens had been driven from Messina (1058); it stands near the site of the ancient Tyndaris, a Lacedæmonian colony that had a very flourishing commerce; the magnificent temple of Mercury in the latter city was despoiled by Verres. In the time of Pliny, however, the sea had encroached greatly upon the shore, and after the foundation of Patti, Tyndaris was almost entirely abandoned; there remains only the church of Santa Maria del Tindaro, with a Franciscan monastery. Three of the bishops of Tyndaris are known: Severinus (501); Eutychius (594), with whose zeal for the conversion of pagans St. Gregory the Great was well pleased; and Theodorus (649).
+
+Patti was destroyed by Frederick of Aragon about 1300, on account of its attachment to the House of Anjou; rebuilt in the sixteenth century, it was sacked by the Turks. Count Ruggiero had founded there a Benedictine abbey, and in 1131, the antipope Anacletus II made Patti an episcopal see, uniting it, however, with the Abbey of Lipari; Eugenius III in 1157 confirmed the action of the antipope, the first legitimate pastor of the see being Gilbertus. In 1399, Lipari and Patti were separated, and the first bishop of the separate see of Patti was Francesco Hermemir. Other bishops were: Francesco Urvio (1518), who in the course of controversies with the *capitano dello spagnuolo* was imprisoned; later he was transferred to the Diocese of Urgel; Bartolomeo Sebastiani (1548), distinguished himself at the Council of Trent, and was Governor of Sicily for three years; Alfonso de los Cameros (1652), the founder of the seminary, restored later by Bishop Galletti (1727); Cardinal Geremia Celesia, later Archbishop of Palermo, Bishop of Patti, 1860-71.
+
+The diocese is a suffragan of Messina; it has 49 parishes, 20,000 inhabitants, 5 religious houses of men, and 15 of sisters, who conduct 4 institutes for girls and several schools.
+
+CAPPELLETTI. *Le Chiese d'Italia,* XXI.
+
+U. BENIGNI

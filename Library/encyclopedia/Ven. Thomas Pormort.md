@@ -1,0 +1,33 @@
+---
+title: "Ven. Thomas Pormort"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "John Bannerman Wainewright"
+signed: "John B. Wainewright"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Ven._Thomas_Pormort"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.ven-thomas-pormort} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Odoric of Pordenone"
+next: "Porphyreon"
+entry-type: "article"
+characters: 2396
+words: 393
+links: 0
+images: 0
+---
+
+# Ven. Thomas Pormort {#cathen.ven-thomas-pormort}
+
+English martyr, b. at Hull about 1559; d. at St. Paul's Churchyard, 20 Feb., 1592. He was probably related to the family of Pormort of Great Grimsby and Saltfletby, Lincoln shire. George Pormort, Mayor of Grimsby in 1565, had a second son Thomas baptized, 7 February, 1566, but this can hardly be the martyr. After receiving some education at Cambridge, he went to Rheims, 15 January, 1581, and thence, 20 March following, to Rome, where he was ordained priest in 1587. He entered the household of Owen Lewis, Bishop of Cassano, 6 March, 1587. On 25 April, 1590, Pormort became prefect of studies in the Swiss college at Milan. He was relieved of this office, and started for England, 15 September, without waiting for his faculties. Crossing the St. Gotthard Pass, he reached Brussels before 29 November. There he became man servant to Mrs. Geoffrey Pole, under the name of Whitgift, the Protestant archbishop being his godfather. With her he went to Antwerp, intending to proceed to Flushing, and thence to England. He was arrested in London on St. James's Day (25 July), 1591, but he managed to escape. In August or September, 1591, he was again taken, and committed to Bridewell, whence he was removed to Topcliffe's house. He was repeatedly racked and sustained a rupture in consequence. On 8 February following he was convicted of high treason for being a seminary priest, and for reconciling John Barwys, or Burrows, haberdasher. He pleaded that he had no faculties; but he was found guilty. At the bar he accused Topcliffe of having boasted to him of indecent familiarities with the queen. Hence Topcliffe obtained a mandamus to the sheriff to proceed with the execution, though Archbishop Whitgift endeavoured to delay it and make his godson conform, and though (it is said) Pormort would have admitted conference with Protestant ministers. The gibbet was erected over against the haberdasher's shop, and the martyr was kept standing two hours in his shirt upon the ladder on a very cold day, while Topcliffe vainly urged him to withdraw his accusation.
+
+POLLEN, English Martyrs 1584-1603 (London, 1908), 187-190, 200-2, 208-10, 292; Acts of the English Martyrs (London, 1891), 118-20; CHALLONER, Missionary Priests, I, no. 95; GILLOW, Bibl. Dict. Eng. Cath., s. v.; Harleian Society Publications, LII (London, 1904), 790; KNOX, Douay Diaries (London, 1878), 174-7.
+
+John B. Wainewright.

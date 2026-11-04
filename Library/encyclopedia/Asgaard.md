@@ -1,0 +1,35 @@
+---
+title: "Asgaard"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "unknown"
+author: "Erik A. Wang"
+signed: "E.A. WANG"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Asgaard"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.asgaard} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Aser"
+next: "Ash Wednesday"
+entry-type: "article"
+characters: 2731
+words: 430
+links: 0
+images: 0
+---
+
+# Asgaard {#cathen.asgaard}
+
+Asgaard (from *As*, plural *Aeser*, or in English, "Ases"--Norwegian for the gods--and *gaard*, "yard", i.e. enclosure, garden; the Garden of the Gods).
+
+It was the great place where the Ases and their wives, Asesses (Norse, *Asynjer*), dwelt apart, and from which they ruled. A bridge called Bilrast led to it. In the middle of Asgaard was a great castle in which was Odavold, where the gods (Ases) held their reunions. In it were two magnificent halls: Gladsheim, with the throne Hildskjolf, for Odin, and seats for the Ases; and Vingolf, with a throne for Frigg and seats for the Asesses. From this heavenly country the Ases govern the course of the world and of men. Odin reigns there as father and head, who penetrates all, animates all; gives men intelligence and enthusiasm, and breathes into them the desire for combat and war. At his side was his wife Frigg, the all-nourishing earth, who had Fensal as her abode. The other principal dwelling-places of the Ases in Asgaard were Thrudvang, or Thrudheim, where dwelt Thor, the son of Odin and of Frigg, and who was the thunder, the strength, the sanctification of the world, the friend of men, the defender against the evil powers, the protector of agriculture and of family life; Breidablik, where dwelt Balder with his wife Nanna; Noatum, the abode of Njörd; Thrynheim, that of Skad; Alfheim, that of Frey; Himinbjörg, whence Heimdal protected the Ases; Ydal, where Ull was; Gletner, where Forsete lived, the most just of the Ases; Folkvang, with the hall Sessrymner, where Freya lived, the Asess of Love, and Sökkvabekk, the dwelling of Saga. Moreover, there was Lidskjalv, from which Odin saw the whole universe, and where there was Valaskjalv, all covered with silver, and the yet more splendid and sumptuous hall, Valhal. Above Asgaard stretch the more elevated heavens, whose splendour culminates in Gimle, an unapproachable and golden hall, more luminous that the heaven. The site of Asgaard was placed near the Don, which was regarded as the boundary line between Asia and Europe. Hence Snorre derives the name *As* from Asia, and imagined that the Ases were inhabitants of Asia.
+
+SNORRE STURSASON, *Edda* (ed. *Arna Magneansk*, 1848-87; *Kongesagaer* (Kristiana, 1899); PETERSEN, *Nordisk Mythololgi* (1863); BOESEN, *Nord. Gudelære* (1888); MUNCH, *Norröne Gude-og Heltesagn* (1880); BUZZE, *Studier over nord. Gude-og Heltesagns Oprindelse* (1881-89); KEYSER, *Den Norske Kirkes Historie under Katholicismen* (1856); ANDERSON, *Norse Mythology* (Chicago, 1875); *Story Telling to Children from Norse Mythology* (Carnegie Library, Pittsburg, 1903), contains annotated list of books in English on Norse Mythology; *Icelandic Sagas*, I-II (London, 1887).
+
+E.A. WANG

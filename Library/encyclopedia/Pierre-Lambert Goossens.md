@@ -1,0 +1,37 @@
+---
+title: "Pierre-Lambert Goossens"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Paulin Ladeuze"
+signed: "P. LADEUZE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pierre-Lambert_Goossens"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pierre-lambert-goossens} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Our Lady of Charity of the Good Shepherd"
+next: "Gordian"
+entry-type: "article"
+characters: 2973
+words: 462
+links: 0
+images: 0
+---
+
+# Pierre-Lambert Goossens {#cathen.pierre-lambert-goossens}
+
+Cardinal, Archbishop of Michlin (Belgium), b. at Perck, near Vilvorde, 18 July, 1827; d. at Michlin, 25 January, 1906.
+
+After teaching at Bruel College at Michlin, he became, in 1856, curate at the cathedral and secretary of the archbishop, and, in April, 1078, vicar-general of Cardinal Dechamps. Meanwhile he had been appointed (1860) an honorary canon of the rnetropolitan chapter. In 1880 he was made a Roman prelate, and 24 June, 1883, was consecrated at Mechlin coadjutor-bishop to Mgr. Gravez whom he succeeded as Bishop of Namur 16 July following eight months later (24 March, 1884) he became Archbishop of Mechlin, and on 24 May, 1889, he was created Cardinal-Priest of the Title of Santa-Croce in Gerusalemme. Succeeding to the See of Mechlin just when the Belgian Catholics were about to depose the Masonic government which had oppressed them since 1879, he did much to perpetuate the strong hold on political power which the Catholic party has since possessed. In order to promote thorough Christian sentiments among the workmen of the great industrial centres of his diocese, also in distant country places he provided for them greater church facilities, caused many new churches to be built, and created eighty-six parishes in twenty-two years he founded in his diocese 840 primary schools, with an attendance of 120,000 children. He also multiplied high schools for girls and for boys, opened normal and professional schools, and founded ten colleges for the teaching of humanities. Tireless in promoting the economical interests of the working classes, he organized and presided over two general congresses and five district congresses in which the social question was the chief topic of discussion. On public occasions his manner was noble and stately, yet in his dealings with priests and people he was always amiable and unaffected, and had the secret of enlisting sacrifice and devotion. To kindness he joined prudence and discretion and was thus able to avoid conflicts with the State authorities. A talented writer, his style bore the impression of the masterpieces of French pulpit eloquence, of which he was an assiduous reader.
+
+In his "Charges and Pastoral Letters" (five volumes) and his "Occasional Addresses" accuracy of ideas, delicacy of feeling, literary tact, and purity of diction are always predominant characteristics. Though not himself a savant, he was alive to scientific needs, and greatly encouraged scientific progress in the University of Louvain, of which he was the chief patron. He reorganized the archives of his archdiocese and encouraged historical research among his clergy by requiring each parish priest to furnish his with an historical monograph on his parish.
+
+His published works are: "Collectio Epistolarum pastoralium, decretorum, aliorumque documentorum" (5 vols., Mechlin, 1889-1906); "Discours sur la question sociale" (Mechlin, 1894); "Choix de conférences, discours et allocutions" (Mechlin, 1906).
+
+P. LADEUZE

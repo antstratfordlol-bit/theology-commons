@@ -1,0 +1,259 @@
+---
+id: "jerome-prefaces-commentaries.en"
+title: "Prefaces to the Commentaries."
+work: "Prefaces to the Commentaries."
+author: "Jerome"
+volume: "NPNF2-06. Jerome: The Principal Works of St. Jerome"
+volume-id: "npnf206"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf206.xml"
+source-id: "vii.iv"
+sigla: "jerome-prefaces-commentaries"
+part-kind: "text"
+title-source: "printed-title-en"
+anchors: "{#jerome-prefaces-commentaries.DIVISION} — the divisions this file prints, under the work's own sigla."
+divisions: 12
+footnotes: 28
+scripture-references: 3
+scripture-refs-sidecar: "_scripture-refs/npnf206.tsv"
+print-pages: "495-502"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# Prefaces to the Commentaries. {#jerome-prefaces-commentaries}
+
+## Introduction. {#jerome-prefaces-commentaries.introduction}
+
+The Commentaries.
+
+The extant commentaries by Jerome on the books of Holy Scripture may be arranged thus, chronological sequence being observed as far as possible:
+
+A. New Testament:
+
+The Epistles to Philemon, Galatians, Ephesians, Titus. a.d. 387.
+
+Origen on St. Luke. a.d. 389.
+
+St. Matthew. a.d. 398.
+
+B. Old Testament:
+
+Ecclesiastes. a.d. 388.
+
+1. The Twelve Minor Prophets:
+
+Nahum, Michah, Zephaniah, Haggai, Habakkuk. a.d. 392.
+
+Jonah. Begun three years after the foregoing (Preface). Finished between a.d. 395 and a.d. 397.
+
+Obadiah. a.d. 403.
+
+Zechariah, Malachi, Hosea, Joel, Amos. Finished by a.d. 406.
+
+2. The Four Greater Prophets:
+
+Daniel. a.d. 407.
+
+Isaiah. a.d. 408–410.
+
+Ezekiel. a.d. 410–414.
+
+Jeremiah. Commenced after the death of Eustochium in a.d. 418. The commentary on this book, which stops short at chapter xxxii., was therefore written in a.d. 419, the year which intervened between Eustochium’s death and Jerome’s own.
+
+We have thought it best to give the Prefaces, as in those to the Vulgate, in the order of the books as they stand in our Bible, not in the order in which they were written.
+
+## Matthew. {#jerome-prefaces-commentaries.matthew}
+
+The Preface, addressed to Eusebius of Cremona, was written a.d. 398. Eusebius was at this time starting for Rome, and he was charged to give a copy of this Commentary to Principia, the friend of Marcella, for whom he had been unable through sickness to write on the Song of Songs as he had wished. Jerome begins by distinguishing the Canonical from the Apocryphal Gospels, quoting the words of St. Luke, that many had taken in hand to write the life of Christ. He gives his view of the origin of the Gospels as follows:
+
+The first evangelist is Matthew, the publican, who was surnamed Levi. He published his Gospel in Judæa in the Hebrew language, chiefly for the sake of Jewish believers in Christ, who adhered in vain to the shadow of the law, although the substance of the Gospel had come. The second is Mark, the[^5416]amanuensis of the Apostle Peter, and first bishop of the Church of Alexandria. He did not himself see our Lord and Saviour, but he related the matter of his Master’s preaching with more regard to minute detail than to historical sequence. The third is Luke, the physician, by birth a native of Antioch, in Syria, whose praise is in the Gospel. He was himself a disciple of the Apostle Paul, and composed his book in Achaia and Bœotia. He thoroughly investigates certain particulars and, as he himself confesses in the preface, describes what he had heard rather than what he had seen. The last is John, the Apostle and Evangelist, whom Jesus loved most, who, reclining on the Lord’s bosom, drank the purest streams of doctrine, and was the only one thought worthy of the words from the cross, “Behold! thy mother.” When he was in Asia, at the time when the seeds of heresy were springing up (I refer to Cerinthus, Ebion, and the rest who say that Christ has not come in the flesh, whom he in his own epistle calls Antichrists, and whom the Apostle Paul frequently assails), he was urged by almost all the bishops of Asia then living, and by deputations from many Churches, to write more profoundly concerning the divinity of the Saviour, and to break through all obstacles so as to attain to the very Word of God (if I may so speak) with a boldness as successful as it appears audacious. Ecclesiastical history relates that, when he was urged by the brethren to write, he replied that he would do so if a general fast were proclaimed and all would offer up prayer to God; and when the fast was over, the narrative goes on to say, being filled with revelation, he burst into the heaven-sent Preface: “In the beginning was the Word, and the Word was with God, and the Word was God: this was in the beginning with God.”
+
+Jerome then applies the four symbolical figures of Ezekiel to the Gospels: the Man is Matthew, the Lion, Mark, the Calf, Luke, “because he began with Zacharias the priest,” and the Eagle, John. He then describes the works of his predecessors: Origen with his twenty-five volumes, Theophilus of Antioch, Hippolytus the martyr, Theodorus of Heraclea, Apollinaris of Laodicæa, Didymus of Alexandria, and of the Latins, Hilary, Victorinus, and Fortunatianus; from these last, he says, he had gained but little. He continues as follows:
+
+But you urge me to finish the composition in a fortnight, when Easter is now rapidly approaching, and the spring breezes are blowing; you do not consider when the shorthand writers are to take notes, when the sheets are to be written, when corrected, how long it takes to make a really accurate copy; and this is the more surprising, since you know that for the last three months I have been so ill that I am now hardly beginning to walk; and I could not adequately perform so great a task in so short a time. Therefore, neglecting the authority of ancient writers, since I have no opportunity of reading or following them, I have confined myself to the brief exposition and translation of the narrative which you particularly requested; and I have sometimes thrown in a few of the flowers of the[^5417]spiritual interpretation, while I reserve the perfect work for a future day.
+
+## Preface to Translation of Origen on St. Luke. {#jerome-prefaces-commentaries.preface-translation}
+
+Addressed to Paula and Eustochium, a.d. 388.
+
+A few days ago you told me that you had read some commentaries on Matthew and Luke, of which one was equally dull in perception and expression, the other frivolous in expression, sleepy in sense. Accordingly you requested me to translate, without regarding such rubbish, our Adamantius’ thirty-nine “homilies” on Luke, just as they are found in the original Greek; I replied that it was an irksome task and a mental torment to write, as Cicero phrases it, with another man’s heart[^5418] not one’s own; but yet I will undertake it, as your requests reach no higher than this. The demand which the sainted Blesilla once made, at Rome, that I should translate into our language his twenty-five volumes on Matthew, five on Luke, and thirty-two on John is beyond my powers, my leisure, and my energy. You see what weight your influence and wishes have with me. I have laid aside for a time my books on Hebrew Questions because you think my labour will not be in vain, and turn to the translation of these commentaries, which, good or bad, are his work and not mine. I do this all the more readily because I hear on the left of me the raven—that ominous bird—croaking and mocking in all extraordinary way at the colours of all the other birds, though he himself is nothing if not a bird of gloom. And so, before he change his note, I confess that in these treatises Origen is like a boy amusing himself with the dice-box; there is a wide difference between his mature efforts and the serious studies of his old age. If my proposal meet with your approbation, if I am still able to undertake the task, and if the Lord grant me opportunity to translate them into Latin after completing the work I have now deferred, you will then be able to see—aye, and all who speak Latin will learn through you—how much good they knew not, and how much they have now begun to know. Besides this, I have arranged to send you shortly the Commentaries of Hilary, that master of eloquence, and of the blessed martyr Victorinus, on the Gospel of Matthew. Their style is different, but the grace of the Spirit which wrought in them is one. These will give you some idea of the study which our Latins also have, in former days, bestowed upon the Holy Scriptures.
+
+## Galatians. {#jerome-prefaces-commentaries.galatians}
+
+The Commentary is in three books, with full Prefaces.
+
+Book I., Ch. i. 1–iii. 9.
+
+Addressed to Paula and Eustochium, a.d. 387.
+
+The Preface to this book begins with a striking description of the noble Roman lady Albina, which is as follows:
+
+Only a few days have elapsed since, having finished my exposition of the Epistle of Paul to Philemon, I had passed to Galatians, turning my course backwards and passing over many intervening subjects. But all at once letters unexpectedly arrived from Rome with the news that the venerable Albina has been recalled to the presence of the Lord, and that the saintly Marcella, bereft of the company of her mother, demands more than ever such solace as you can give, my dear Paula and Eustochium. This for the present is impossible on account of the great distance to be traversed by sea and land, and I could, therefore, wish to apply to the wound so suddenly inflicted at least the healing virtue of Scripture. I know full well her zeal and faith; I know how brightly the fire burns in her bosom, how she rises superior to her sex, and soars so far above human nature itself, that she crosses the Red Sea of this world, sounding the loud timbrel of the inspired volumes. Certainly, when I was at Rome, she never saw me for ever so short a time without putting some question to me respecting the Scriptures, and she did not, like the Pythagoreans, accept the “Ipse dixit” of her teacher, nor did authority, unsupported by the verdict of reason, influence her; but she tested all things, and weighed the whole matter so sagaciously that I perceived I had not a disciple so much as a judge. And so, believing that my labours would be most acceptable to her who is at a distance, and profitable for you who are with me here, I will approach a work unattempted by any writers in our language before me, and which scarcely any of the Greeks themselves have handled in a manner worthy of the dignity of the subject.
+
+*Jerome then speaks of Victorinus, who had published a commentary on St. Paul, but “was busily engaged with secular literature and knew nothing of the Scriptures,” and of the great Greek writers, Origen,[^5419]Didymus, and[^5420]Appolinaris, Eusebius of Emessa, and Theodorus of Heraclea, and says he has plucked flowers out of their gardens, so that the Commentary is more theirs than his. The expository part of the Preface is chiefly remarkable as giving the view of St. Paul’s rebuke of St. Peter in* *Galatians ii**., which occasioned the controversy between Jerome and Augustin. Jerome says:*
+
+Paul does not go straight to the point, but is like a man walking in secret passages: his object is to exhibit Peter as doing what was expedient for the people of the circumcision committed to him, since, if a too sudden revolt took place from their ancient mode of life, they might be offended and not believe in the Cross; he wished, moreover, to show, inasmuch as the evangelisation of the Gentiles had been entrusted to himself that he had justice on his side in defending as true that which another only pretended was a dispensation. That wretch Porphyry[^5421]Bataneotes by no means understood this, and, therefore, in the first book of the work which he wrote against us, he raised the objection that Peter was rebuked by Paul for not walking uprightly as an evangelical teacher. His desire was to brand the former with error and the latter with impudence, and to bring against us as a body the charge of erroneous notions and false doctrine, on the ground that the leaders of the Churches are at variance among themselves.
+
+In the Preface to Book II. Jerome describes the origin of the Galatians as a Gaulish tribe settled in Asia; but he takes them as slow of understanding, and says that the Gauls still preserve this character, just as the Roman Church preserves the character for which it was praised by St. Paul, for it still has crowds frequenting its churches and the tombs of its martyrs, and “nowhere else does the Amen resound so loudly, like spiritual thunder, and shake the temples of the idols”; and similarly the traits of the churches of Corinth and Thessalonica are still preserved; in the first, the looseness of behaviour and of doctrine, and the conceit of worldly knowledge; in the second, the love of the brethren side by side with the disorderly conduct of busybodies. And he speaks of the condition of Galatia in his own day as follows:
+
+Any one who has seen by how many schisms Ancyra, the metropolis of Galatia, is rent and torn, and by how many differences and false doctrines the place is debauched, knows this as well as I do. I say nothing of[^5422]Cataphrygians,[^5423]Ophites, Borborites, and Manichæans; for these are familiar names of human woe. Who ever heard of Passaloryncitæ, and[^5424]Ascodrobi, and[^5425]Artotyritæ, and other portents—I can hardly call them names—in any part of the Roman Empire? The traces of the ancient foolishness remain to this day. One remark I must make, and so fulfil the promise with which I started. While the Galatians, in common with the whole East, speak Greek, their own language is almost identical with that of the[^5426]Treviri; and if through contact with the Greek they have acquired a few corruptions, it is a matter of no moment. The Africans have to some extent changed the Phenician language, and Latin itself is daily undergoing changes through differences of place and time.
+
+The Preface to Book III. opens with the following passage, describing, in contrast with his own simple exposition, the arts of the preachers of his day.
+
+We are now busily occupied with our third book on Galatians, and, my friends, Paula and Eustochium, we are well aware of our weakness, and are conscious that our slender ability flows in but a small stream and makes little roar and rattle. For these are the qualities (to such a pass have we come) which are now expected even in the Churches; the simplicity and purity of apostolic language is neglected; we meet as if we were in the[^5427]Athenæum, or the lecture rooms, to kindle the applause of the bystanders; what is now required is a discourse painted and tricked out with spurious rhetorical skill, and which, like a strumpet in the streets, does not aim at instructing the public, but at winning their favour; like a psaltery or a sweet-sounding lute, it must soothe the ears of the audience; and the passage of the prophet Ezekiel is suitable for our times, where the Lord says to him, “Thou art become unto them as the sound of a pleasant lute which is well made, for they hear thy words but do them not.”
+
+Jerome then speaks of the composition of his commentaries as follows:
+
+How far I have profited by my unflagging study of Hebrew I leave to others to decide; what I have lost in my own language, I can tell. In addition to this, on account of the weakness of my eyes and bodily infirmity generally, I do not write with my own hand; and I cannot make up for my slowness of utterance by greater pains and diligence, as is said to have been the case with Virgil, of whom it is related that he treated his books as a bear treats her cubs, and licked them into shape. I must summon a secretary, and either say whatever comes uppermost; or, if I wish to think a little and hope to produce something superior, my helper silently reproves me, clenches his fist, wrinkles his brow, and plainly declares by his whole bearing that he has come for nothing.
+
+He then points out how the Scriptures have dispossessed the great writers of the pre-Christian world.
+
+How few there are who now read Aristotle. How many are there who know the books, or even the name of Plato? You may find here and there a few old men, who have nothing else to do, who study them in a corner.[^5428] But the whole world speaks the language of our Christian peasants and fishermen, the whole world re-echoes their words. And so their simple words must be set forth with simplicity of style; for the word *simple* applies to their *words*, not their meaning. But if, in response to your prayers, I could, in expounding their epistles, have the same spirit which they had when they dictated them, you would then see in the Apostles as much majesty and breadth of true wisdom as there is arrogance and vanity in the learned men of the world. To make a brief confession of the secrets of my heart, I should not like any one who wished to understand the Apostle to find a difficulty in understanding my writings, and so be compelled to find some one to interpret the interpreter.
+
+## Ephesians. {#jerome-prefaces-commentaries.ephesians}
+
+*This Commentary was specially prized by Jerome as exhibiting his true views (Letter LXXXIV. 2), and they became in consequence one of the chief subjects of controversy between him and Rufinus, who traced in them, not unjustly, the influence of Origen. It was written immediately after that on the Epistle to the Galatians, in a.d. 387, and, like that, addressed to Paula and Eustochium. In the Preface to Book i. Jerome defends himself against various accusations. He declares that he has been, in the main, his own instructor, but yet that he has constantly consulted others as to Scriptural difficulties, and that he had, not long before, been to Alexandria to consult Didymus. “I questioned him about everything which was not clear to me in the whole range of Scripture.” As to his indebtedness to Origen, he speaks as follows, certainly not blaming his doctrines: “I remark in the Prefaces, for your information, that Origen composed three volumes on this Epistle, and I have partly followed him. Apollinaris and Didymus also published some commentaries, and, though we have gleaned a few things from them, we have added or omitted such as we thought fit. The studious reader will, therefore, understand at the outset that this work is partly my own, and that I am in part indebted to others.” The Preface to Books ii. and iii. is short. It speaks in praise of Marcella, who had invited him to his task, and declares that he in his monastery could not accomplish as much as that noble woman amidst the cares of her household. “I beseech you,” he says, “to bear in mind that the language of this publication has not been long thought over or highly polished. In revealing the mysteries of Scripture I use almost the language of the street, and sometimes get through a thousand lines a day, in order that the explanation of the Apostle which I have begun may be completed with the aid of the prayers of Paul himself, whose Epistles I am endeavouring to explain.”*
+
+## Philemon. {#jerome-prefaces-commentaries.philemon}
+
+*Written for Paula and Eustochium, a.d. 387. The Preface is a defence of the genuineness of the Epistle against those who thought its subject beneath the dignity of inspiration. “There are many degrees of inspiration,” Jerome says, “though in Christ alone it is seen in its fulness.” Many of the other Epistles touch upon small affairs of life, like the cloak left at Troas. To suppose that common life is separate from God is Manichæanism. Jerome mentions that Marcion, who altered many of the Epistles, did not touch that of Philemon; and brevity in a document which has in it so much of the beauty of the Gospel is a mark of its inspiration.*
+
+## Titus. {#jerome-prefaces-commentaries.titus}
+
+*Addressed to Paula and Eustochium, a.d. 387. The Preface speaks of the rejection of the Epistle by Marcion and Basilides, its acceptance by Tatius, but without assigning reasons. It ought, Jerome says, to be of special interest to Paula and Eustochium, as being written from Nicopolis, near Actium, where their property lay.*
+
+## Isaiah. {#jerome-prefaces-commentaries.isaiah}
+
+The Commentary in eighteen books, each with its Preface. It was written in the years 404–410, and addressed to Eustochium alone, her mother Paula having died in 404.
+
+The Preface to Book i. touches generally upon the character and contents of Isaiah, asserting that many of the prophecies are directly applicable to Christ, and that the nations who are dealt with have a spiritual meaning. Those to the following books mostly give a short statement of the contents of the chapters commented on, and entreat the prayers of Eustochium for the work. The Fifth Book (or chapters xiii. to xxiii.) had been published before by itself, at the instance of a bishop named Amabilis, but he says he must add the metaphorical and spiritual meaning of the Visions of the various nations, which is done in Books vi. and vii. The Preface to Book x. contains a bitter allusion to Rufinus, “the Scorpion, a dumb and poisonous brute, still grumbling over my former reply,” and speaks of Pammachius as joining in the request for the continuation of the Commentaries.
+
+*The Preface to Book xi. intimates that his commentary upon Daniel, which expounded the statue with feet of iron and clay as the Roman Empire, and announced its fall, had been known at the court and resented by Stilicho, but that all danger from that source had been removed by the judgment of God, that is, through the death of Stilicho by the command of his son in-law Honorius.* *The Preface to Book xiii. records a severe illness which had stopped his work, though he was restored to health suddenly; and that to Book xiv. thanks Eustochium for her kind offices during this illness. The remaining Prefaces, though they have occasionally some interest in the history of the interpretation of Scripture, need not delay us.*
+
+## Jeremiah. {#jerome-prefaces-commentaries.jeremiah}
+
+The Commentary on Jeremiah is in six books; but Jerome did not live to finish it. It was written between the years 317 and 319, but only extends to chapter xxxii. It was dedicated to Eusebius of Cremona. The Prefaces, which are full of vigour, contain many allusions to the events and controversies of the last years of Jerome’s life. In the Preface to Book i., after speaking of the Book of Daniel and the apocryphal Letter of Jeremiah as not belonging to the prophet’s writings, he continues:
+
+I pay little heed to the ravings of disparaging critics who revile not only my words, but the very syllables of my words, and suppose they give evidence of some little knowledge if they discredit another man’s work, as was exemplified in that[^5429] ignorant traducer who lately broke out, and thought it worth his while to censure my commentaries on Paul’s Epistle to the Ephesians. He does not understand the rules of commenting (for he is more asleep than awake and seems utterly dazed), and is not aware that in our books we give the opinions of many different writers, the authors’ names being either expressed or understood, so that it is open to the reader to decide which he may prefer to adopt; although I must add that, in my Preface to the First Book of that work, I gave fair notice that my remarks would be partly my own, partly those of other commentators, and that thus the commentary would be the work conjointly of the ancient writers and of myself.[^5430]Grunnius, his precursor, overlooked the same fact, and once upon a time did his best to cavil. I replied to him in two books, and there I cleared away the objections which he adduced in his own name, though the real traducer was some one else; to say nothing of my treatises against Jovinianus where, you may remember, I show that he (Jovinianus) laments that virginity is preferred to marriage, single marriage to digamy, digamy to polygamy. The stupid fool,[^5431] labouring under his load of Scotch porridge, does not recollect that we said, in that very work, “I do not condemn the twice married, nor the thrice married, and, if it so be, the eight times married; I will go a step farther, and say that I welcome even a penitent whoremonger; for things equally lawful must be weighed in an even balance.” Let him read the Apology[^5432] for the same work which was directed against his[^5433] master, and was received by Rome with acclamation many years ago. He will then observe that his revilings are but the echoes of other men’s voices, and that his ignorance is so deep that even his abuse is not his own, but that he employs against us the ravings of foes long since dead and buried.
+
+The Preface to Book ii. is short and contains nothing of special importance. In that to Book iii. Jerome declares that he will, like Ulysses with the Sirens, close his ears to the adversary. The devil, who once spoke through Jovinianus, “now barks through the hound of Albion (Pelagius), who is like a mountain of fat, and whose fury is more in his heels than in his teeth; for his offspring is among the Scots, in the neighbourhood of Britain; and, according to the fables of the poet, he must, like Cerberus, be smitten to death with a spiritual club, that, in company with his master Pluto, he may forever hold his peace.”
+
+In the Preface to Book iv. Jerome says he has been hindered in his work by the harassing of the Pelagian controversy. He regards Pelagius as reproducing the doctrines of impassibility and sinlessness taught by Pythagoras and Zeno, and revived by Origen, Rufinus, Evagrius Ponticus, and Jovinian. Their doctrines, he says, were promulgated chiefly in Sicily, Rhodes, and other islands; they were propagated secretly, and denied in public. They were full of malice, but were but dumb dogs, and were refuted in “certain writings,” probably those of Augustin; but he declares his intention of writing against them, which he did in his anti-Pelagian Dialogue.
+
+*The Prefaces to Books v. and vi. contain nothing noteworthy.*
+
+## Ezekiel. {#jerome-prefaces-commentaries.ezekiel}
+
+The Commentary on Ezekiel is in fourteen Books. It was dedicated to Eustochium, and was written between the years 410 and 414. The Prefaces gain a special interest from their descriptions of the sack of Rome by Alaric and the consequent immigration into Palestine. We give several passages.
+
+In Preface to Book i.
+
+Having completed the eighteen books of the exposition of Isaiah, I was very desirous, Eustochium, Christ’s virgin, to go on to Ezekiel, in accordance with my frequent promises to you and your mother Paula, of saintly memory, and thus, as the saying is, put the finishing touches to the work on the prophets; but alas! intelligence was suddenly brought me of the death of Pammachius and[^5434]Marcella,[^5435]the siege of Rome, and the falling asleep of many of my brethren and sisters. I was so stupefied and dismayed that day and night I could think of nothing but the welfare of the community; it seemed as though I was sharing the captivity of the saints, and I could not open my lips until I knew something more definite; and all the while, full of anxiety, I was wavering between hope and despair, and was torturing myself with the misfortunes of other people. But when the bright light of all the world was put out, or, rather, when the Roman Empire was decapitated, and, to speak more correctly, the whole world perished in one city,[^5436] “I became dumb and humbled myself, and kept silence from good words, but my grief broke out afresh, my heart glowed within me, and while I meditated the fire was kindled;” and I thought I ought not to disregard the saying,[^5437] “An untimely story is like music in a time of grief.” But seeing that you persist in making this request, and a wound, though deep, heals by degrees; and[^5438]the scorpion lies beneath the ground with[^5439]Enceladus and Porphyrion, and the many-headed Hydra has at length ceased to hiss at us; and since opportunity has been given me which I ought to use, not for replying to insidious heretics, but for devoting myself to the exposition of Scripture, I will resume my work upon the prophet Ezekiel.
+
+Book ii. has, instead of a Preface, merely a line calling the attention of Eustochium to its opening words.
+
+The Preface to Book iii. has a noteworthy passage on the sack of Rome and its results.
+
+Who would believe that Rome, built up by the conquest of the whole world, had collapsed, that the mother of nations had become also their tomb; that the shores of the whole East, of Egypt, of Africa, which once belonged to the imperial city, were filled with the hosts of her men-servants and maid-servants, that we should every day be receiving in this holy Bethlehem men and women who once were noble and abounding in every kind of wealth but are now reduced to poverty? We cannot relieve these sufferers: all we can do is to sympathise with them, and unite our tears with theirs. The burden of this holy work was as much as we could carry; the sight of the wanderers, coming in crowds, caused us deep pain; and we therefore abandoned the exposition of Ezekiel, and almost all study, and were filled with a longing to turn the words of Scripture into action, and not to say holy things but to do them. Now, however, in response to your admonition, Eustochium, Christ’s virgin, we resume the interrupted labour, and approach our third Book.
+
+The Prefaces to Books iv., v., and vi. contain nothing remarkable. The following is the important part of the Preface to Book vii.
+
+There is not a single hour, nor a single moment, in which we are not relieving crowds of brethren, and the quiet of the monastery has been changed into the bustle of a guest house. And so much is this the case that we must either close our doors, or abandon the study of the Scriptures on which we depend for keeping the doors open. And so, turning to profit, or rather stealing the hours of the nights, which, now that winter is approaching, begin to lengthen somewhat, I am endeavouring by the light of the lamp to dictate these comments, whatever they maybe worth, and am trying to mitigate with exposition the weariness of a mind which is a stranger to rest. I am not boasting, as some perhaps suspect, of the welcome given to the brethren, but I am simply confessing the causes of the delay. Who could boast when the flight of the people of the West, and the holy places, crowded as they are with penniless fugitives, naked and wounded, plainly reveal the ravages of the Barbarians? We cannot see what has occurred, without tears and moans. Who would have believed that mighty Rome, with its careless security of wealth, would be reduced to such extremities as to need shelter, food, and clothing? And yet, some are so hard-hearted and cruel that, instead of showing compassion, they break up the rags and bundles of the captives, and expect to find gold about those who are nothing than prisoners. In addition to this hindrance to my dictating, my eyes are growing dim with age and to some extent I share the suffering of the saintly Isaac: I am quite unable to go through the Hebrew books with such light as I have at night, for even in the full light of day they are hidden from my eyes owing to the smallness of the letters. In fact, it is only the voice of the brethren which enables me to master the commentaries of Greek writers.
+
+*The Prefaces to Books viii. to xiv. contain nothing of special interest.*
+
+## Daniel. {#jerome-prefaces-commentaries.daniel}
+
+*The Commentary on Daniel was dedicated to Pammachius and Marcella in the year 407. It is in a single book, and is aimed at the criticisms of Porphyry, who, like most modern critics, took the predictions in the Book of Daniel as relating to the time of Antiochus Epiphanes and the Maccabees, and written near that date. The Preface is very similar to that prefixed to the Vulgate translation of Daniel.*
+
+## Prefaces to the Commentaries on the Minor Prophets. {#jerome-prefaces-commentaries.prefaces-commentaries}
+
+For the order and date of writing of these Commentaries see the Preface to Amos, Book iii., and the note there.
+
+Hosea.
+
+This Commentary was dedicated to Pammachius, a.d. 406 (sixth consulate of Arcadius—Preface to Amos, Book iii. The Preface to Book i. is chiefly taken up with a discussion on Hosea’s “wife of whoredoms.” He takes the story as allegorical; it cannot be literal, for “God commands nothing but what is honourable, nor does he, by bidding men do disgraceful things, make that conduct honourable which is disgraceful.” Jerome then describes, as in former Prefaces, the chief Greek commentators, of whom Apollinaris and Origen had written very shortly on Hosea, Pierius at great length, but to little purpose; and says that he had himself obtained from Didymus of Alexandria that he should complete the Commentary of Origen. He had himself often judged independently, though with little knowledge of Hebrew, but he had been in earnest, while most scholars were “more concerned for their bellies than their hearts, and thought themselves learned if in the doctors’ waiting rooms they could disparage other men’s works.”
+
+In the Preface to Book ii. Jerome complains of his detractors, and appeals from the present favour of high-placed men to the posthumous authority of sound ability.
+
+In Book iii. he claims Pammachius as his defender, though he fears the judgment of his great learning.
+
+Joel.
+
+This Commentary also is addressed to Pammachius, a.d. 406. It is in one book. It gives the order of the Twelve Prophets adopted by the LXX. and the Hebrew respectively, the Hebrew order being that now in use. It also gives the etymological meaning of their names.
+
+Amos.
+
+In three books, addressed also to Pammachius, a.d. 406 (Preface to Amos, Book iii.). The Preface to Book i. merely gives a description of Tekoa, Amos’ birthplace. That to Book ii. speaks of old age, with its advantages for self-control and its trials in various infirmities, such as phlegm, dim eyesight, loosened teeth, colic, and gout. That to Book iii. contains the passage several times referred to for the order of these Commentaries, which is as follows:
+
+We have not discussed them in regular sequence from the first to the ninth, as they are read, but as we have been able, and in accordance with requests made to us. Nahum, Micah, Zephaniah, Haggai,[^5440]I first addressed to Paula and Eustochium, her daughter, who are never weary; I next dedicated two books on Habakkuk to Chromatius, bishop of Aquileia; I then proceeded to explain, at your command, Pammachius, and after a long interval of silence, Obadiah and Jonah.[^5441] In the[^5442]present year, which bears in the calendar the name of the sixth consulate of Arcadius Augustus and Anitius Probus, I interpreted Malachi for Exsuperius, bishop of Toulouse, and Minervius and Alexander, monks of that city. Unable to refuse your request I immediately went back to the beginning of the volume, and expounded Hosea, Joel, and Amos. A severe sickness followed, and I showed my rashness in resuming the dictation of this work too hastily; and, whereas others hesitate to write and frequently correct their work, I entrusted mine to the fortune which attends those who employ a secretary, and hazarded my reputation for ability and orthodoxy; for, as I have often testified, I cannot endure the toil of writing with my own hand; and, in expounding the Holy Scriptures, what we want is not a polished style and oratorical flourishes, but learning and simple truth.
+
+Obadiah.
+
+Addressed to Pammachius a.d. 403. The Preface records how in early youth (some thirty years before), he had attempted an allegorical commentary of Obadiah, of which he was now ashamed, though it has lately been praised by a youth of similar years.
+
+Jonah.
+
+This was addressed to Chromatius,[^5443] but belongs to the year 395. It is said in the Preface to be three years after the commentary on Micah, Nahum, etc. The Preface merely touches on the various places of Scripture in which Jonah is named.
+
+Micah.
+
+Addressed to Paula and Eustochium. a.d. 392. It is in two books. In the Preface to Book ii., Jerome vindicates himself against the charge of making mere compilations from Origen. He confesses, however, his great admiration for him. “What they consider a reproach,” he says, “I regard as the highest praise, since I desire to imitate him who, I doubt not, is acceptable to all wise men, and to you.”
+
+Nahum.
+
+Also to Paula and Eustochium, a.d. 392. The Preface contains little of importance. Jerome mentions that the village of Elkosh, Nahum’s birthplace, was pointed out to him by a guide in Galilee.
+
+Habakkuk.
+
+*Addressed to Chromatius, a.d. 392. The commentary is in two books. The Preface to Book i. is long, but merely describes the contents of the book. That to Book ii. mentions among his adversaries, “The Serpent, and Sardanapalus, whose character is worse than his* *name”—expressions which have been referred to Rufinus; but the enmity between Jerome and Rufinus had not broken out in 392.*
+
+Zephaniah.
+
+Addressed to Paula and Eustochium, a.d. 392. In the Preface Jerome defends himself for writing for women, bringing many examples from Scripture and from classical writers to show the capacity of women.
+
+Haggai.
+
+Also to Paula and Eustochium, a.d. 392. The preface merely describes the occasion of the book, but says that Haggai’s prophecy was contemporary with the reign of Tarquinius Superbus (b.c. 535–510).
+
+Zechariah.
+
+Addressed to Exsuperius, bishop of Toulouse, a.d. 406, in three books, and sent, “in the closing days of autumn, by the monk, Sisinnius, who had been sent with presents for the poor saints at Jerusalem, and was hastening to Egypt on a similar errand.” The Prefaces to the three books mention these facts, but have nothing in them of note which has not been said before.
+
+Malachi.
+
+*Addressed, a.d. 406, to Minervius and Alexander, presbyters of the diocese of Toulouse. The Jews, the Preface says, believe Malachi to be a name for Ezra. Origen and his followers believe that (according to his name) he was an angel. But we reject this view altogether, lest we be compelled to accept the doctrine of the fall of souls from heaven.*
+
+[^5416]: Interpres.
+[^5417]: That is, the allegorical or mystical sense.
+[^5418]: Alieno stomacho.
+[^5419]: Didymus, the blind teacher of Alexandria.
+[^5420]: He became bishop of Laodicea about 362. About 376 his followers became a sect, and about the same time he set up bishops of his own at Antioch and elsewhere.
+[^5421]: Probably from Batanea, the ancient Bashan, where Porphyry is said to have been born.
+[^5422]: “The patriarch (of the Montanists) resided at Pepuza, a small town or village in Phrygia, to which the sectaries gave the mystical name of Jerusalem, as believing that it would be the seat of the Millennial Kingdom, which was the chief subject of their hopes. Hence they derived the names of Pepuzians and Cataphrygians.”—Robertson, Ch. Hist., vol. i. p. 76.
+[^5423]: The Ophites, who took their name from ὄφις, *a serpent,* supposed the serpent of Genesis iii. to have been either the Divine Wisdom or the Christ Himself, come to set men free from the ignorance in which the Demiurge wished to keep them. The sect began in the second century and lasted until the sixth.
+[^5424]: The Ben. editor prefers the form Tascodrogi, and states that it is the Phrygian or Galatian equivalent for Passaloryncitæ. The sect is said to have been so called from their habit of putting the finger to the nose when praying.
+[^5425]: Heretics who made offerings of bread and cheese (ἀρτό-τυρος. *Arto-tyros*).—Aug. de Hæres, No. 28.
+[^5426]: The people who lived between the Moselle and the Forest of Ardennes in and about the modern Treves.
+[^5427]: The Athenæum was the name specially given to a school founded by the Emperor Hadrian at Rome, about a.d. 133, for the promotion of literary and scientific studies. The word denoted in general any place consecrated to the goddess Athena.
+[^5428]: Angulis. So. Cic. Rep. i. 2.
+[^5429]: Pelagius.
+[^5430]: That is, Rufinus. See Preface to Book xii. of Isaiah, where Rufinus is called Grunnius Corocotta Porcellus, and Preface to Book iv. of Jeremiah.
+[^5431]: Scotorum pultibus prægravatus. The words have been translated “made fat with Scotch flummery” (Stillingfleet). Another rendering is, “having his belly filled and his head bedulled with Scotch porridge” (Wall on Infant Baptism, pt. i. c. 19, § 3). Some think the words refer to Celestius, Pelagius’ supporter.
+[^5432]: The letter to Pammachius (Jer. Letter XLVIII.) in defence of the book against Jovinianus.
+[^5433]: Jovinian was condemned in a Synod at Rome about 390. Thirty years had thus passed since the events occurred to which Jerome refers. See Preface to the treatise against Jovinian.
+[^5434]: Under whose care Eustochium had been trained.
+[^5435]: By the Goths under Alaric. The city was taken in a.d. 410.
+[^5436]: Ps. xxxix. 3, 4.
+[^5437]: Ecclus. xxii. 6.
+[^5438]: Rufinus who died a.d. 410, in Sicily, on his way to the Holy Land from Aquileia and Rome, whence he had been driven by the troubles in Italy.
+[^5439]: The giants who bore those names. See Hor. III. od. 4.
+[^5440]: These four and Habakkuk are mentioned in the De Vir. Ill. (a.d. 492), and were written about that date, Jonah three years after, but Obadiah probably not till 403. The rest are fixed to the Sixth Consulate of Arcadius, 406.
+[^5441]: But see Preface to Jonah, which is addressed to Chromatius.
+[^5442]: The year a.d. 406.
+[^5443]: Chromatius is named in this Preface distinctly. But see Preface to Amos, Book iii., which says that the Commentaries to Obadiah and Jonah were written at the request of Pammachius.

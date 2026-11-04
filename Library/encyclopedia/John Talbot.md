@@ -1,0 +1,33 @@
+---
+title: "John Talbot"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "John Bannerman Wainewright"
+signed: "John B. Wainewright"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/John_Talbot"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.john-talbot} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "James Talbot"
+next: "Peter Talbot"
+entry-type: "article"
+characters: 4091
+words: 711
+links: 0
+images: 0
+---
+
+# John Talbot {#cathen.john-talbot}
+
+English Catholic layman, b. 1535(?); d. 1607(?). Only son and heir of Sir John Talbot, of Grafton, Worcestershire, he was the father, by Katharine, d. of Sir William Petre, of the Rev. George Talbot, Catholic priest, and ninth Earl of Shrewsbury. He became a member of Lincoln's Inn, 10 February, 1555-6. It was when passing through Smithfield, London, in July, 1580, with Mr. and Mrs. Talbot, that Bl. Robert Johnson, the martyr, was recognized by Sledd, the informer. Indeed, Fr. Persons, S.J., calls Bl. Robert "Mr. Talbot's priest" (Cath. Rec. Soc., II, 27), though, as it appears, he was, rather, Lady Petre's. Talbot was committed to the custody of the Dean of Westminster, 24 August, 1580, and afterwards removed to the house of his brother-in-law, Sir John Petre, in Aldersgate Street. On 1 October, 1581, the plague being then rife in the City, he was moved to some other house within ten or twelve miles of London. In 1583 the priest, Hugh Hall, confessed that he had in past years been entertained by him. Later Talbot was restricted to the house of one Henry Whitney, at Mitcham, Surrey, and two miles round it. In 1588 he was imprisoned in Wisbech Castle for having heard Mass contrary to the provisions of the statute 23 Eliz. c. i. From 9 Dec., 1588, to about 13 May, 1589, he was liberated on bail, owing to his own and his wife's bad health. He then seems to have been restricted to his house in Clerkenwell. On 12 March, 1589-90, he was ordered into confinement at the house of Richard Fiennes at Broughton in Oxfordshire, whence he was released on bail for a fortnight on 24 May, 1590. He was again allowed out on bail on 20 December, 1590, and 22 July, 1591. In 1592 he was at "Bickslie" (Bexley or Bickley?) Kent. On 27 August, 1592, the recusants formerly imprisoned at Ely, Banbury, and Broughton were ordered back to their respective prisons; but an exception was made (17 September, 1592) in favor of John Talbot. However, next year we find him in Ely gaol. Thence he was liberated on bail for a considerable period to act as umpire in a family dispute. Later on he was allowed to take "the Bathes", presumably at Bath, on account of his health. Between Michaelmas, 1593, and 10 March following, he paid £120 in fines for recusancy. Afterwards he was imprisoned in Banbury Castle, whence he was released on bail for two months, 27 Feb., 1596-7, his leave being subsequently extended on 29 April, 1597, and 6 Nov., 1597. In 1601 he was living in Worcestershire and pressure was brought to bear on him to secure his influence to promote the candidature of Sir Thomas Leighton as one of the parliamentary representatives of the shire. In 1604 he was paying £20 a month in fines for his recusancy, the benefit of which was on 26 August granted to Sir William Anstruther, who on 13 October in the same year obtained his pardon. On the following 8 December a warrant was issued for the release to him of £160, due from him to the Crown in fines for recusancy. In 1605 he was suspected of complicity with the conspirators of the Gunpowder Plot, one of whom, Robert Winter, of Haddington, near Droitwich, had married his daughter Gertrude. Robert Winter, however, declared that he had said nothing on the subject to his father-in-law, knowing that he would not join the plot under any circumstances. Indeed he had actually driven the fugitive conspirators from his door. Talbot was, nevertheless, arrested, and on 4 December, 1605, examined. On 26 September, 1606, the value of his recusancy was granted to Lord Hay. His second son, John, father of the tenth Earl of Shrewsbury, died in London in 1607, and he himself probably died about the same year.
+
+Calendars of State Papers Domestic, 1581 to 1610; DASENT, Acts of the Privy Council (London, 1890-1907); STRYPE, Life and Acts of John Whitgift, I (Oxford, 1822), 529; IDEM, Annals of the Reform in England, IV (Oxford, 1824), 276; Hist. MSS. Commission Cal. of Cecil MSS., IV, 268; COKAYNE, Complete Peerage (London, 1887-1898); Rec. of Hon. Soc. of Lincoln's Inn, Admissions, I (London, 1896), 62.
+
+John B. Wainewright.

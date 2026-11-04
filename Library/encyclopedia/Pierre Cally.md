@@ -1,0 +1,33 @@
+---
+title: "Pierre Cally"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Charles Albert Dubray"
+signed: "C.A. DUBRAY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pierre_Cally"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pierre-cally} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Jacques Callot"
+next: "Dom Augustin Calmet"
+entry-type: "article"
+characters: 2427
+words: 387
+links: 0
+images: 0
+---
+
+# Pierre Cally {#cathen.pierre-cally}
+
+Philosopher and theologian, b. at Mesnil-Hubert, department of Orne, France, date of birth uncertain; d. 31 December, 1709. In 1660 he was appointed professor of philosophy and eloquence in the University of Caen, and in 1675, president of the Collège des Arts in the same city. In 1684 he assumed charge of the parish of Saint-Martin. He wrote a course of philosophy, "Universæ philosophiæ institutiones" (Caen, 1695), in which the theories of Descartes are explained and defended. He worked with great zeal for the conversion of Protestants, and gave conferences in which he endeavoured to solve their difficulties. For the same purpose he composed a book on the Eucharist, "Durand commenté, ou accord de la philosophie avec la théolog ie touchant la transsubstantiation de l'eucharistie" (Caen, 1700). In it he denies the existence of absolute accidents and, instead of transubstantiation, admits a transformation. Before and after the consecration the matter of the bread remains the same; by the consecration the matter of the bread becomes the matter of the body of Christ. A publisher in Caen was asked to print sixty copies of the work to be sent to competent judges before making it public. In fact, eight hundred copies were printed immediately and sold. At once the book became the subject of many discussions, and was bitterly denounced. On 30 March, 1701, Bishop de Nesmond of Bayeux condemned seventeen propositions taken from Cally's work as "false, rash, erroneous, scandalous, injurious, to the Council of Trent (Sess. XIII, c. iv and canon ii), destructive of the real presence of the body of Christ in the Eucharist, and leading to heresy concerning transubstantiation". Cally made a public retraction on 21 April of the same year. In addition to the works already mentioned he wrote "Doctrine hérétique et schismatique touchant la primauté du pape enseignée par les jésuites dans leur collége de Caen" (1644); "Discours en forme d'homélies sur les mystères, sur les miracles et sur les paroles de Notre-Seigneur Jésus-Christ qui sont dans l'évangile" (Caen, 1703), and published a new edition with commentaries of Boethius's work, "De consolatione philosophiæ" (Caen, 1695).
+
+Picot, Mémoires pour servir à l'histoire eclésiastique pendant le 18e siècle (3d ed., Paris, 1853), I, 229; Werner, Der Heilige Thomas von Aquino (Ratisbon, 1889), III, 555; Mangenot in Dict. de théol. cath., II, 1368.
+
+C.A. DUBRAY

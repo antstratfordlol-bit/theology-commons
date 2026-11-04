@@ -1,0 +1,33 @@
+---
+title: "Richard Doyle"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "5"
+pages: "unknown"
+author: "George Charles Williamson"
+signed: "GEORGE CHARLES WILLIAMSON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Richard_Doyle"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.richard-doyle} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "John Doyle"
+next: "David Paul Drach"
+entry-type: "article"
+characters: 2442
+words: 401
+links: 0
+images: 0
+---
+
+# Richard Doyle {#cathen.richard-doyle}
+
+English artist and caricaturist, b. in London, September, 1824; d. there 11 December, 1883. The second son of John Doyle, he inherited much of his father's talent and exceeded the elder Doyle in skill and in power as a draughtsman. From a very early age he amused himself with making drawings. He prepared an account of the Eglinton Tournament when he was but fifteen, and at the age of sixteen commenced his famous Journal, now preserved in the British Museum, The journal is a manuscript book containing many small sketches in pen and ink, executed with skill and brilliance, and marked by powers of observation and by a sense of humour hardly equalled and certainly not exceeded in later years, "This extraordinary work was reproduced in facsimile in 1885 with an introduction by J.H. Pollen, and is a remarkable proof of Richard Doyle's precocity as an artist. In 1843 he became a contributor to "Punch" and continued on the staff of that paper till 1850. He produced many cartoons, but his name will be especially remembered from the fact that he designed the cover for "Punch" which has continued in use down to the present time. He also wrote for "Punch" a series of articles entitled "Manners and Customes of ye Englyshe". A very devout Catholic, he resigned his position on the staff of the paper in 1850 in consequence of its hostility to what was termed "papal aggression", and devoted the remainder of his career to preparing drawings for book illustration and to painting in watercolour. His chief series of illustrations were those for "The Newcomes", "The King of the Golden River", "In Fairyland", and "The Foreign Tour of Brown, Jones and Robinson". His watercolour drawings were marked by much poetic feeling, and were executed in harmonious low-toned schemes of colour. His genius has been well described as "kindly, frolicsome, graceful, and sportive". He was full of imagination and delighted in romantic fancy, while his caricatures are exquisitely drawn, amusing and graceful, lacking perhaps the strength of his father's works but far exceeding them in charm and in quality of amusement. There are many of his drawings in the British Museum, and some of his sketch-books are in the Fitzwilliam Museum at Cambridge.
+
+*The Month* (London, March 1884); Everitt, *English Caricaturists* (London, 1886); Binyon, *Drawings in the British Museum* (London, 1900); Dobson, in *Dict. Nat. Biog.*, s.v.
+
+GEORGE CHARLES WILLIAMSON

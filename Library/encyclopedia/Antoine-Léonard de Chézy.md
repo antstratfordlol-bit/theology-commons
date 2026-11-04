@@ -1,0 +1,33 @@
+---
+title: "Antoine-Léonard de Chézy"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Arthur Frank Joseph Remy"
+signed: "ARTHUR F.J. REMY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Antoine-Léonard_de_Chézy"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.antoine-leonard-de-chezy} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Diocese of Cheyenne"
+next: "Gabriello Chiabrera"
+entry-type: "article"
+characters: 2051
+words: 327
+links: 0
+images: 0
+---
+
+# Antoine-Léonard de Chézy {#cathen.antoine-leonard-de-chezy}
+
+A French Orientalist, born at Neuilly, 15 January, 1773; died at Paris, 31 August, 1832. His father was an engineer, and he was originally destined for a scientific career, but he preferred linguistic studies, and devoted himself to Arabic and Persian under Sacy and Langlès. In 1799 he was appointed assistant librarian in the department of manuscripts of the Bibliothèque Nationale. Attracted by the Sanskrit manuscripts, he was the Frenchman who took up the study of India's sacred language, though he had neither grammar nor dictionary to assist him. When, in 1814, the first professorship of Sanskrit in Europe was established at the Collège de France, Chézy was called to the position. Many of the foremost European Sanskritists were his pupils, among them Burnouf, Langlois, Loiseleur-Deslongchamps, and Lassen. In 1805 Chézy married Wilhelmine Christiane von Klencke, better known as Helmina von Chézy, an authoress of some reputation. The couple separated after five years.
+
+He is the author of numerous editions and translations of Oriental works. In 1807 appeared "Les Amours de Medjnoun et Leïla", a translation of Jami's Persian poem "Laila u Majnun". "La Mort de Yadjnadatta" (Paris, 1814, and again, with Sanskrit text, 1826) is a translation of a well-known episode of the Ramayana, describing the slaying of a hermit by King Dasaratha (Bombay ed., II, 63). A translation of another episode from the same poem, the fight of Lakshmana with the giant Atikaya (VI, 71) appeared in 1818. Chézy's most notable work however, was the publication in 1820 of Kalidasa's famous drama, "Sakuntala" under the title "La reconnaissance de Sacountala". This was the first time that the Sanskrit text of this masterpiece was printed. Other works of his are all analysis of the Meghaduta (1817), "Anthologie érotique d'Amarou", a translation of the "Amarusataka", which appeared under the pseudonym of Apudy in 1831, and "La théorie du Sloka" (1829), a disquisition on Sanskrit metre. Besides this he has left much work in manuscript.
+
+ARTHUR F.J. REMY

@@ -1,0 +1,35 @@
+---
+title: "Nikolaus Nilles"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "unknown"
+author: "Michael Hofmann"
+signed: "M. HOFMANN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Nikolaus_Nilles"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.nikolaus-nilles} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Nikon"
+next: "Nilopolis"
+entry-type: "article"
+characters: 4518
+words: 717
+links: 0
+images: 0
+---
+
+# Nikolaus Nilles {#cathen.nikolaus-nilles}
+
+Born 21 June, 1828, of a wealthy peasant family of Rippweiler, Luxemburg; died 31 January, 1907. After completing his gymnasium studies brilliantly, he went to Rome where from 1847 to 1853, as a student of the Collegium Germanicum, he laid the foundation of his ascetic life and, as a pupil of the Gregorian University, under the guidance of distinguished scholars (Ballerini, Franzelin, Passaglia, Perrone, Patrizi, Schrader, Tarquini), prepared the way for his subsequent scholarly career. When he left Rome in 1853, he took with him, in addition to the double doctorate of theology and canon law, two mementoes which lasted throughout his life: his grey hair and a disease of the heart, the result of the terrors which he had encountered in Rome in the revolutionary year 1848-9. From 1853 to 1858 he labored in his own country as chaplain and parish priest, and during this time made his first literary attempts. In March, 1858, he entered the Austrian Province of the Society of Jesus and, in the autumn of 1859, was summoned by his superiors to Innsbruck to fill the chair of canon law in the theological faculty, which Emperor Francis Joseph I had shortly before entrusted to the Austrian Jesuits. Nilles lectured throughout his life - after 1898 usually to the North American theologians, to whom he gave special instructions on canonical conditions in their country, for which task no one was better qualified than he. His "Commentaria in Concilium Baltimorense tertium" (1884-90) and his short essay, "Tolerari potest", gained him a wide reputation.
+
+His literary achievements in the fields of canon law, ascetics, and liturgy were abundant and fruitful. Martin Blum enumerates in his by no means complete bibliography fifty-seven works, of which the two principal are: "De rationibus festorum sacratissimi Cordis Jesu et purissimi Cordis Mariae libri quatuor" (2 vols., 5th ed., Innsbruck, 1885) and "Kalendarium manuale utriusque Ecclesiae orientalis et occidentalis" (2 vols., 2nd ed., Innsbruck, 1896). Through the latter work he became widely known in the world of scholars. In particular Protestants and Orthodox Russians expressed themselves in terms of the highest praise for the Kalendarium or Heortologion. Professor Harnack of Berlin wrote of it in the " "Theologische Literaturzeitung" (XXI, 1896, 350-2): "I have . . . frequently made use of the work . . . and it has always proved a reliable guide. whose information was derived from original sources. There is scarcely another scholar as well versed as the author in the feasts of Catholicism. His knowledge is based not only on his own observations, but on books periodicals, papers, and calendars of the past and present. The Feasts of Catholicism! The title is self-explanatory; yet, though the basis of these ordinances is uniform, the details are of infinite variety, since the work treats not only of the Latin but also of the Eastern Rites. The latter, it is well known, are divided into Greek, Syriac, Coptic, Armenian . . . Of the second volume Harnack wrote (ibid., XXXIII, 1898, 112 sq.). "Facts which elsewhere would have to be sought under difficulties are here marshaled in lucid order, and a very carefully arranged index facilitates inquiry. Apart from the principal aim of the work, it offers valuable information concerning recent Eastern Catholic ecclesiastical history, also authorities and literature useful to the historian of liturgy and creeds. . . . His arduous and disinterested toil will be rewarded by the general gratitude, and his work will long prove useful not only to every theo- logian 'utriusque', but also 'cuiusque ecclesiae'". The Roumanian Academy at Bucharest awarded a prize to this work. Soon after the appearance of the second edition of the "Kalendarium", the Russian Holy Synod issued from the synodal printing office at Moscow a "Festbilderatlas" intended to a certain extent as the official Orthodox illustrations for the work. Nilles was not only a distinguished university professor, but also a meritorious director of ecclesiastical students. For fifteen years (1860-75) he presided over the theological seminary of Innsbruck, an international institution where young men from all parts of Europe and the United States are trained for the priesthood.
+
+Blum, Das Collegium Germanicum zu Rom. u. seine Zoglinge aus dem Luxemburger Lande (Luxemburg, 1899); Zeitschr. fur kath. Theol. (Innsbruck, 1907), 396 sqq.; Korrespondenzblatt des Priester-Gebets-Verein, XLI (Innsbruck), 37 sqq.
+
+M. HOFMANN

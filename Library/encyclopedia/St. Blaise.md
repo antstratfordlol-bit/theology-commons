@@ -1,0 +1,35 @@
+---
+title: "St. Blaise"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Johann Peter Kirsch"
+signed: "J.P. KIRSCH"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Blaise"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-blaise} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Adam Blackwood"
+next: "Anthony Blanc"
+entry-type: "article"
+characters: 4244
+words: 725
+links: 0
+images: 0
+---
+
+# St. Blaise {#cathen.st-blaise}
+
+(BLASIUS) Bishop and martyr.
+
+The ninth-century martyrologies of Europe in their lists, which are accompanied by historical notices, give on 15 February the name of St. Blasius, Bishop of Sebaste and martyr. The Greek synaxaria mention him under 11 February. In the oldest known recension of the so-called martyrology of St. Jerome the name of St. Blasius does not appear; it is only in the later, enlarged catalogues that he is mentioned. The historical notices concerning him in the above-mentioned martyrologies and synaxaria rest on the legendary Acts. All the statements agree that St. Blasius was Bishop of Sebaste in Armenia and most of the acounts place his martyrdom in the reign of Licinius (about 316). As these reports may rest on old traditions which are bound up with the veneration of the saint in the Church liturgy, they are not to be absolutely rejected. It can perhaps be assumed that St. Blasius was a bishop and that he suffered martyrdom at the beginning of the fourth century. All the particulars concerning his life and martyrdom which are found in the Acts are purely legendary and have no claim to historical worth. There are besides various recensions of the text of the Acts. According to the legend Blasius was a physician at Sebaste before he was raised to the episcopal see. At the time of the persecution under Licinius he was taken prisoner at the command of the governor, Agricolaus. The hunters of the governor found him in the wilderness in a cave to which he had retired and while in prison he performed a wonderful cure of a boy who had a fishbone in his throat and who was in danger of choking to death. After suffering various forms of torture St. Blasius was beheaded; the Acts relate also the martyrdom of seven women. The veneration of the Oriental saint was brought at an early date into Europe, as is shown by the recitals in the historical martyrologies of the ninth century, and the Latin recension of the legend of St. Blasius; so that Blasius became one of the most popular saints of the Middle Ages. The actual reason for the unusual veneration has not yet been made clear. Most probably one ground was that according to the legend he was a physician and wonderful cures were ascribed to him; for this reason the faithful sought his help and intercession when ill. Numberless churches and altars were dedicated to him and many localities (Taranto, Ragusa, the Abbey of St. Blasius in the Black Forest, etc.) claimed to possess some of his relics. He was also one of the Fourteen Holy Martyrs. In many places on the day of his feast the blessing of St. Blasius is given: two candles are consecrated, generally by a prayer, these are then held in a crossed position by a priest over the heads of the faithful or the people are touched on the throat with them. In other places oil is consecrated in which the wick of a small candle is dipped and the throats of those present are touched with the wick. At the same time the following blessing is given: "Per intercessionem S. Blasii liberet te Deus a malo gutteris et a quovis alio malo" (May God at the intercession of St. Blasius preserve you from throat troubles and every other evil). In some dioceses is added: "in nomine Patris et Filii et Spiritus" and the priest makes the sign of the cross over the faithful. In the Latin Church his feast falls on 3 February, in the Oriental Churches on 11 February. He is represented holding two crossed candles in his hand (the Blessing of St. Blasius), or in a cave surrounded by wild beasts, as he was found by the hunters of the governor.
+
+*Acta SS.*. February, I 331-336; (*Commentarius*), 336-353 (*Acta*); MOMBRITIUS, *Sanctuarium*, I, 81-83; ed. BOLLANDISTS (Brussels, 1898-99), I, 204-205; METAPHRASTES, *Vita Santorum* in MIGNE, P.G., CXVI, col. 817 sqq.; *Synaxarium Constantinopel.*, ed. DELAHAYE (Brussels, 1902), 458; UHRIG, *Die XIV heiligen Nothelfer* in *Theol. Quartalschrift* (Tübingen, 1888), 72 sqq.: NICCOLAI, *Memorie storiche di S. Biagio, vescovo e martire, protettore della republica di Ragusa* (Monza, 1889); ELLES, *The Holy Helpers, Sts. Blaise and Erasmus* in *The Dublin Review* (1889), 340 sqq.; PISTRE, *Vie de S. Blaise, évéque de Sébaste* (Toulouse, 1861).
+
+J.P. KIRSCH

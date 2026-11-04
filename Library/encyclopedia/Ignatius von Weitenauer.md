@@ -1,0 +1,33 @@
+---
+title: "Ignatius von Weitenauer"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Charles F. Arnold"
+signed: "Charles F. Arnold"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Ignatius_von_Weitenauer"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.ignatius-von-weitenauer} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Monastery of Weissenau"
+next: "Ven. Thomas Welbourne"
+entry-type: "article"
+characters: 2272
+words: 335
+links: 0
+images: 0
+---
+
+# Ignatius von Weitenauer {#cathen.ignatius-von-weitenauer}
+
+Litterateur, exegete, and Orientalist, born at Ingolstadt, Bavaria, 1 November, 1709; died at Salem near Constance, Wurtemberg, 4 February, 1783. His family had been knighted by the Elector of Bavaria, Maximilian Joseph. After the ordinary studies of the Society of Jesus, which he entered 3 November, 1724, he taught for eleven years poetry and rhetoric in several colleges, mainly at Eichstadt. In 1753 he was called to the chair of philosophy and Oriental languages at Innsbruck. When his career as professor was abruptly brought to an end by the suppression of his order in 1773, he followed an invitation of the abbot of the Cistercians of Salmansweiler (near Salem) to continue his literary activity in the monastery, and remained there till his death. Prior to his call to Innsbruck, Weitenauer published several occasional works, festive odes and plays, of high merit. It was, however, during his professorship at Innsbruck that he composed his numerous learned works, the principal of which are: "Biblia sacra" (Augsburg, 1773), a commentary based on a comparison of the Vulgate with the original text; "Lexicon biblicum" (Augsburg, 1758, 1780), an explanation of difficult Hebrew and Greek phrases occurring in the Vulgate, republished frequently, even as late as 1866; "Hierolexicon linguarum orientalium", 1, together with a grammar "Trifolium hebraicum, chaldaicum et syriacum" (Augsburg, 1759); "Modus addiscendi. . .linguas gallicam, italicam, hispanicam, graecam, hebraicam et chaldaicam" (Frankfurt on Main, 1756), which he supplemented in 1762 by the "Hexaglotton alterum docens linguas anglicam, germanicam, belgicam, latinam, lusitanicam et syriacam", both of them appearing under the title "Hexaglotton geminum". His extensive linguistic studies bore direct relation to the study of Scripture. Besides he published "Subsidia eloquentiae sacrae" (19 vols., Augsburg, 1764-69). After the suppression of his order appeared "Apparatus catecheticus" (Augsburg, 1775), a collection of 1500 examples, illustrative of the teachings of Christianity. His last great work was a German translation in 12 volumes of both the Old and the New Testament with numerous annotations.
+
+SOMMERVOGERL, Bibliotheque, VIII, 1051; HURTER, Nomenclator, III.
+
+Charles F. Arnold.

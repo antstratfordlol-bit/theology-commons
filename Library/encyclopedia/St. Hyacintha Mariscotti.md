@@ -1,0 +1,35 @@
+---
+title: "St. Hyacintha Mariscotti"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "Francis Mershman"
+signed: "FRANCIS MERSHMAN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Hyacintha_Mariscotti"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-hyacintha-mariscotti} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Hyacinth"
+next: "Hydatius of Lemica"
+entry-type: "article"
+characters: 3314
+words: 572
+links: 0
+images: 0
+---
+
+# St. Hyacintha Mariscotti {#cathen.st-hyacintha-mariscotti}
+
+A religious of the Third Order of St. Francis and foundress of the Sacconi; born 1585 of a noble family at Vignanello, near Viterbo in Italy; died 30 January, 1640, at Viterbo; feast, 30 January; in Rome, 6 February (*Diarium Romanum*). Her parents were Marc' Antonio Mariscotti (Marius Scotus) and Ottavia Orsini. At Baptism she received the name Clarice and in early youth was remarkable for piety, but, as she grew older, she became frivolous, and showed a worldly disposition, which not even the almost miraculous saving of her life at the age of seventeen could change; neither was her frivolity checked by her education at the Convent of St. Bernardine at Viterbo, where an older sister had taken the veil. At the age of twenty she set her heart upon marriage with the Marquess Cassizucchi, but was passed by in favour of a younger sister. She was sadly disappointed, became morose, and at last joined the community at St. Bernardine, receiving the name Hyacintha. But, as she told her father, she did this only to hide her chagrin and not to give up the luxuries of the world; and she asked him to furnish her apartments with every comfort. She kept her own kitchen, wore a habit of the finest material, received and paid visits at pleasure.
+
+For ten years she continued this kind of life, so contrary to the spirit of her vows and such a source of scandal to the community. By the special protection of God, she retained a lively faith, was regular in her devotions, remained pure, always showed a great respect for the mysteries of religion, and had a tender devotion to the Blessed Virgin. At length she was touched by God's grace, and the earnest exhortations of her confessor at the time of serious illness made her see the folly of the past and brought about a complete change in her life. She made a public confession of her faults in the refectory, discarded her costly garments, wore an old habit, went barefoot, frequently fasted on bread and water, chastised her body by vigils and severe scourging, and practised mortifications to such an extent that the decree of canonization considers the preservation of her life a continued miracle. She increased her devotion to the Mother of God, to the Holy Infant Jesus, to the Blessed Eucharist, and to the sufferings of Christ. She worked numerous miracles, had the gifts of prophecy and of discerning the secret thoughts of others. She was also favoured by heavenly ecstacies and raptures. During an epidemic that raged in Viterbo she showed heroic charity in nursing the sick. She established two confraternities, whose members were called Oblates of Mary or Sacconi. One of these, similar to our Society of St. Vincent de Paul, gathered alms for the convalescent, for the poor who were ashamed to beg, and for the care of prisoners; the other procured homes for the aged. Though now leading a life so pure and holy, Hyacintha always conceived the greatest contempt for herself. At her death great sorrow was felt at Viterbo and crowds flocked to her funeral. She was beatified by Pope Benedict XIII in 1726, and canonized 14 May, 1807, by Pius VII.
+
+LEON DE CLARY, Lives of the Saints and Blessed of the Three Orders of St. Francis (Taunton, 1885); DUNBAR, A Dictionary of Saintly Women (London, 1904); HUGUES in Kirchenlex., s.v.
+
+FRANCIS MERSHMAN

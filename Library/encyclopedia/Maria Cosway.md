@@ -1,0 +1,33 @@
+---
+title: "Maria Cosway"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "George Charles Williamson"
+signed: "GEORGE CHARLES WILLIAMSON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Maria_Cosway"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.maria-cosway} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Clerical Costume"
+next: "Jean-Baptiste Cotelier"
+entry-type: "article"
+characters: 2765
+words: 473
+links: 0
+images: 0
+---
+
+# Maria Cosway {#cathen.maria-cosway}
+
+Miniature-painter, born in Florence, Italy, 1759; died at Lodi, 5 January, 1835. Her maiden name was Hadfield, her father being an Englishman. She showed great talent in drawing at an early age, and when only nineteen was elected a member of the Academy of Fine Arts in her native city, where she had been educated at a Visitation convent. Her father dying in 1778 she went to England, at the invitation of her friend, Angelica Kauffman, who introduced her to society. She then met Richard Cosway, regarded as one of the most remarkable miniature-painters of the eighteenth century, whom she married in London, 18 January, 1781. In that year she first exhibited at the Academy, continuing to do so down to 1801, but her oil pictures, mythological and allegorical in subject, were not works of specially high merit, although they showed signs of genius. She was no mean exponent of the art of miniature-painting, however, and many of her copies of her husband's works are noteworthy. Her Sunday evening concerts in London are often mentioned by Horace Walpole and other writers of the day. She was passionately attached to her husband, and after his death disposed of his art treasures and went to Italy. Prior to his decease, Mrs. Cosway, bad started in Lyons a school for girls at the earnest request of Cardinal Fesch, but in 1811, owing to the war, this was closed. In the following year she made a similar effort in Italy, acquiring a convent at Lodi, where she established her teachers from Lyons. Cosway repeatedly helped her in her scheme and gave her considerable sums of money towards it. After his decease she made her home in Lodi, bought the buildings outright, attached them to the neighbouring church, and merged the little teaching community she had established in that of the Dames Inglesi, a branch of which Francis I desired to establish in Italy. For her generosity the Emperor in 1834 created her a Baroness of the Austrian Empire and gave her a grant of arms. She devoted the whole of her time and means to her school. She is buried in the neighbouring church. The municipality erected a bust to her memory, and the school which she founded and endowed is still a flourishing institution for the education of girls. In the dining-room of it she erected a replica of the monument to the memory of her husband that she had Westmacott put up in Marylebone Church, London. In the library are preserved many of her husband's works together with books and furniture which had belonged to Cosway, and papers relative to her own and her husband's life. Her sister, Charlotte, married William Combe, the author of the "Tour of Dr. Syntax".
+
+WILLIAMSON, *Richard Cosway, R. A., Miniature Painter* (London, 1897; new ed. 1905).
+
+GEORGE CHARLES WILLIAMSON.

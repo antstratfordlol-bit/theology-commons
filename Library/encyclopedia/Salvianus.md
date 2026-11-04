@@ -1,0 +1,35 @@
+---
+title: "Salvianus"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Paul Lejay"
+signed: "PAUL LEJAY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Salvianus"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.salvianus} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Salvete Christi Vulnera"
+next: "Archdiocese of Salzburg"
+entry-type: "article"
+characters: 2895
+words: 482
+links: 0
+images: 0
+---
+
+# Salvianus {#cathen.salvianus}
+
+A Latin writer of Gaul, who lived in the fifth century. Born of Christian parents, he married a pagan woman named Palladia, who was converted together with her parents; husband and wife resolved to live thenceforth in continence. About 430 Salvianus become one of the ascetics directed by Honoratus of Lerinum. Gennadius speaks of him as a priest of the Church of Marseilles. He lived and wrote in the South of Gaul. He was probably a native of the Roman Germania — of Trier, according to a conjecture of Halm (De gub, VI, xiii, 72). He traveled in Gaul and in Africa. In his extant writings he does not yet know of the invasion of Attila and the battle of Châlons (451).
+
+Of the numerous works mentioned by Gennadius (De viris, lxvii) there remain only nine letters and two treatises: "Ad ecclesiam adversum avaritiam" and "De gubernatione Dei" or "De præsenti judicio". The fourth is one of his most interesting letters; in it he explains to his recently-converted parents-in-law the decision reached by him and his wife to observe continence. In the ninth he justifies to Solonius his use of a pseudonym in his first writing. He issued the treatise "De ecclesia" under the name of Timotheus; this work exhorts all Christians to make the Church their heir. The "De gubernatione Dei", in eight books was written after 439 (VII, x, 40). He endeavoured to prove a Divine explanation of the barbarian invasions. With the orthodox but depraved Romans he contrasts the barbarians, infidels or Arians, but virtuous. This thesis places Salvianus in the ranks of the Latin moralists, who from the "Germania" of Tacitus down, show to their corrupt compatriots an ideal of justice and virtue among the Germans. The work, dedicated to Bishop Salonius, a disciple of Lerinum, is unfinished and seems to have appeared in fragments; Gennadius knew only five books.
+
+Salvianus is a careful writer, much resembling Lactantius, but his style is strongly influenced by the rhetoricians, and its prolixity renders it wearisome. The same influence doubtless explains the exaggeration of his ideas on the necessity of giving all his goods to the Church and the antithesis of Roman corruption and German virtue. The "De gubernatione" contains interesting pictures of manners, but all must not be taken literally. Salvianus speaks as an advocate and in doing so forces the tone, palliating what goes against his case and bringing out in the strongest relief all that favours it. To judge the society of the time by his pictures is to risk making mistakes. Apart from his style, Salvianus is not highly cultured. He has some slight knowledge of law; he is ignorant enough to attribute Plato's "Republic" to Socrates (De gub., VII, xxiii, 101). There are two critical editions of his works: Halm in "Monumenta Germaniæ" (Berlin, 1877) and Pauly in "Corpus script. ecclesiasticorum latinorum" (Vienna, 1883).
+
+PAUL LEJAY

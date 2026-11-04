@@ -1,0 +1,33 @@
+---
+title: "Pietro Maria Gazzaniga"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Joseph Schroeder"
+signed: "JOSEPH SCHROEDER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pietro_Maria_Gazzaniga"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pietro-maria-gazzaniga} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Gaza"
+next: "Gebhard (III) of Constance"
+entry-type: "article"
+characters: 2615
+words: 416
+links: 0
+images: 0
+---
+
+# Pietro Maria Gazzaniga {#cathen.pietro-maria-gazzaniga}
+
+A theologian, b. at Bergamo, Italy, 3 March, 1722; d. at Vicenza, 11 Dec., 1799. At a very early age he entered the Order of St. Dominic, and after a brilliant course in the various branches of ecclesiastical sciences, especially philosophy and theology, he was, despite his youth, appointed to teach philosophy and church history, first in the various houses of his order and later at the University of Bologna. His genius, however, his untiring labours, and above all, his faculty for communicating knowledge did not long remain concealed within the walls of Bologna. Owing to the changes introduced into the theological faculty of the University of Vienna in 1760, the chair of dogmatic theology, which had been assigned exclusively to members of the Dominican Order, was vacant. It was but natural then that the empress, Maria Theresa, should appeal to his superiors to have him transferred to her cherished seat of learning. His fame accompanied him. Students from all quarters flocked to him. At his feet sat the empress herself, Cardinal Migazzi, the renowned Garampi, and even Pius VI, during his sojourn in Vienna, never failed to attend his lectures. After twenty years of active work he returned to Italy, where he continued to lecture in various places until his death.
+
+In theology Gazzaniga is ranked as one of the foremost defenders and exponents of the Thomistic school during the latter part of the seventeenth, and the beginning of the eighteenth, century. By strict adherence to the traditional teaching of his school, he set himself against the spirit of his age, which sought to modernize and to conduct all theological schools of Austria on plans designed to render them more independent of ecclesiastical and royal authority. He succeeded in winning over to his cause Simon Rock, till then the faithful associate of Van Swieten, the inveterate promoter of the Jansenistic spirit in Austria, and with his assistance finally restored Thomism in the schools of that country. His fidelity to St. Thomas likewise rendered him very bitter against Molinism; so much so, in fact, that he succeeded in persuading the party of Father Gomar, as against that of Arminius, to subscribe to the Thomistic doctrine of predestination and reprobation (ad sanam Thomistarum de predestinations et reprobatione doctrinam descenderunt, Proelect., vol. II, diss. 6, n. 242). His principal work, the "Praelectiones theologicae habitae in vindobonensi universitate, nunc vero alio methodo dispositae, emendatae et auctae", has gone through many editions (9 vols., Bologna, 1788-1793; Bassani, 1831).
+
+JOSEPH SCHROEDER

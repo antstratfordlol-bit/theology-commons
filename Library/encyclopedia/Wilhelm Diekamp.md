@@ -1,0 +1,33 @@
+---
+title: "Wilhelm Diekamp"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Johann Peter Kirsch"
+signed: "J.P. KIRSCH"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Wilhelm_Diekamp"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.wilhelm-diekamp} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Francisco Garcia Diego y Moreno"
+next: "Diemoth"
+entry-type: "article"
+characters: 2288
+words: 354
+links: 0
+images: 0
+---
+
+# Wilhelm Diekamp {#cathen.wilhelm-diekamp}
+
+Historian, b. at Geldern, 13 May, 1854; d. at Rome, 25 Dec., 1885. Soon after his birth the parents of Diekamp removed to Münster in Westphalia, where he made his collegiate studies (1867-72). From 1872 to 1875 he studied theology at Würzburg and at Münster. Feeling uncertain, however, as to his ecclesiastical calling, he abandoned his desire of entering the priesthood, and took up the study of philology. In 1877 he graduated as doctor of philosophy with the dissertation: "Widukind, der Sachsenführer nach Geschichte und Sage" (Münster, 1877). Excessive study led to grave pulmonary disease, in spite of which he did not spare himself. For some time he taught in the public schools of Münster, Arnsberg, and Aachen, developing in the meantime his scientific historical training. An excellent evidence of this was his "Vitae S. Ludgeri" (Geschichtsquellen des Bistums Münster, IV, Münster, 1881). In 1881 the Westfalischer Verein fur Geschichte und Altertumskunde confided to him the continuation of the "Westfälisches Urkundenbuch". Thereupon he returned to Münster and in 1882 he became *Privatdozent* for history at that academy. Previously, however, he spent a year at Vienna for improvement in diplomatics at the "Institut fur oesterreichische Geschichtsforschung" under the direction of Professor Sickel. At Easter, 1883, he began his teaching at Münster, continuing at the same time his historical investigations, specially on Westphalian documents, the history of the papal chancery, and papal diplomatics. In 1885 he published at Münster the first part of the supplement of the "Westfälisches Urkundenbuch" In the autumn of this year he went to Rome, chiefly to collect in the Vatican archives the material for the large works he had in mind. But typhoid fever carried him off in the midst of his labours. He was buried in the German Campo Santo near St. Peter's. Diekamp also published between 1878 and 1885 several important studies in different reviews concerning the history of the Middle Ages and diplomatics or official style of the medieval papal documents.
+
+HULSKAMP in Literarischer Handlweiser (1886), 1-10; SCHULTE in Historisches Jahrbuch (1886), 266-277; DAHLMANN in Allgemeine deutsche Biographie, Nachtrage bis /899 (Leipzig, 1903), XLVII, 679 sq.
+
+J.P. KIRSCH

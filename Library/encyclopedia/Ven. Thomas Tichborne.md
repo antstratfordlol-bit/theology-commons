@@ -1,0 +1,33 @@
+---
+title: "Ven. Thomas Tichborne"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "Edwin Hubert Burton"
+signed: "EDWIN BURTON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Ven._Thomas_Tichborne"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.ven-thomas-tichborne} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Ven. Nicholas Tichborne"
+next: "Ticonius"
+entry-type: "article"
+characters: 1535
+words: 258
+links: 0
+images: 0
+---
+
+# Ven. Thomas Tichborne {#cathen.ven-thomas-tichborne}
+
+Born at Hartley, Hampshire, 1567; martyred at Tyburn, London, 20 April, 1602. He was educated at Rheims (1584-87) and Rome, where he was ordained on Ascension Day, 17 May, 1592. Returning to England on 10 March, 1594, he laboured in his native county, where he escaped apprehension till the early part of 1597. He was sent a prisoner to the Gatehouse in London, but in the autumn of 1598 was helped to escape by his brother, Ven. Nicholas Tichborne, and Ven. Thomas Hackshot, who were both martyred shortly afterwards. Betrayed by Atkinson, an apostate priest, he was re-arrested and on 17 April, 1602, was brought to trial with Ven. Robert Watkinson (a young Yorkshire man who had been educated at Rome and ordained priest at Douai a month before) and Ven. James Duckett, a London bookseller. On 20 April he was executed with Ven. Robert Watkinson and Ven. Francis Page, S.J. The last named was a convert, of a Middlesex family though born in Antwerp. He had been ordained at Douai in 1600 and received into the Society of Jesus while a prisoner in Newgate. Ven. Thomas Tichborne was in the last stages of consumption when he was martyred.
+
+Challoner, Memoris of Missionary Priests (London, 1741-2); Foley, Records Eng. Prov. S.J., I (London, 1877); Pollen, Acts of the English Martyrs (London, 1901); Idem, Unpublished documents relating to the English Martyrs in Cath. Rec. Soc., V (London, 1908); Dasent, Acts of the Privy Council, 1695-7 (London, 1902); Douay Diaries, 1st and 2nd (London, 1878), 3rd (London, 1911).
+
+EDWIN BURTON

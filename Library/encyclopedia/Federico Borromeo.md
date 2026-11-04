@@ -1,0 +1,33 @@
+---
+title: "Federico Borromeo"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Thomas Joseph Shahan"
+signed: "THOMAS J. SHAHAN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Federico_Borromeo"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.federico-borromeo} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Andrea Borromeo"
+next: "Society of St. Charles Borromeo"
+entry-type: "article"
+characters: 3723
+words: 596
+links: 0
+images: 0
+---
+
+# Federico Borromeo {#cathen.federico-borromeo}
+
+Cardinal and Archbishop of Milan, cousin and successor of St. Charles Borromeo, born at Milan 16 August, 1564; died there, 22 September, 1631. He was the son of Giulio Cesare Borromeo and Margherita Trivulzio, members of the Milanese aristocracy. He studied successively at Bologna and Pavia, in which latter city he was the first pupil of the Borromeo College. Eater he went to Rome for higher studies and was there strongly influenced by St. Philip Neri, Cardinal Baronius, and Cardinal Bellarmine. In 1580 he began his ecclesiastical career under the guidance of St. Charles Borromeo. He was made cardinal at the age of twenty-three, in 1587, by Sixtus V; and, in 1595, Archbishop of Milan by Clement VII, who personally consecrated him to this high office. During thirty-six years he gave the world an example of episcopal virtue, zeal, and dignity. He was tireless in preaching and in instructing both clergy and people, was anapostle of religious education and persistent reformer of all abuses, both lay and ecclesiastical. An almost constant conflict with the local Spanish authorities, suspicious and haughty by nature, did not diminish his sweetness of temper nor his patience; the traditional immunities and authority of the ecclesiastical order were defended as an inheritance of his see that he dared not abandon. Von Reumont thinks that, though often right, he went at times too far, e.g. in the assertion of minute ceremonial rights; it may be said, however, that in all probability it was the principle and substance of customary ecclesiastical rights that the fearless pastor ever intended to preserve and hand down. His affection for the people of Milan was made evident during the great famine and pest of 1627-28,when he fed daily 2,000 poor at the gates of his residence, and was personally an example of such absolute heroism that nearly one hundred of hisclergy (sixty-two parish priests and thirty-three vicars) gave up their lives in attendance on the perishing multitudes. Allessandro Manzoni has immortalized this extraordinary devotion in his "I Promessi Sposi" (The Betrothed). If Cardinal Borromeo shared the current excessive credulity in witchcraft and magic, he was in every other way far in advance of his time as a friend of the people and a promoter of intellectual culture and social refinement based on a practical religious life. He is the founder of the famous Ambrosian Library opened by him in 1609, as a college of writers, a seminary of savants, a school of fine arts, and after theBobleian at Oxford the first genuinely public library in Europe. The cares of a thickly populated diocese did not prevent him from acquiring great ecclesiastical erudition or from composing some seventy-one printed andforty-six manuscript books written mostly in Latin that treat of variousecclesiastical sciences. The universal approbation of his own and later times is echoed in the following words from the above-mentioned work of Manzoni, engraved on the pedestal of the marble statue that the citizens of Milan erected in 1685 before the gates of the Ambrosiana Library; "He was one of those men rare in every age, who employed extraordinary intelligence, the resources of an opulent condition, the advantages of privileged station, and an unflinching will, in the search and practice of higher and better things."
+
+His life was first written by FRANCESCO RIVOLA (Milan, 1656), later by G. RIPAMONTI. CANTÚ, *La Lombardia nel secolo XVII* (Milan, 1882), which icludes a catalogue of his works; ROBERTI, *Apologia del Card. Federigo Borromeo* (Milan, 1870); VON REUMONT in *Kirchenler.*, II, sqq.; BOUQUILLION in *Catholic University Bulletin* (Washington, 1895), I, 566-572.
+
+THOMAS J. SHAHAN

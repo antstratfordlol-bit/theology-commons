@@ -1,0 +1,33 @@
+---
+title: "Martin"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Francis Mershman"
+signed: "FRANCIS MERSHMAN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Martin"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.martin} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Pope Martin V"
+next: "Felix Martin"
+entry-type: "article"
+characters: 2015
+words: 339
+links: 0
+images: 0
+---
+
+# Martin {#cathen.martin}
+
+Benedictine Abbot of the Schottenkloster of Vienna, b. about 1400; d. 28 July, 1464 (29 July 1470) Born of wealthy farmers at Leibitz, County of Zips in Hungary, he made his studies at Krakow and Vienna, and in the latter place taught for some time in the faculty of the arts. Accompanying his mother on a pilgrimage to Italy, he visited the ancient monastery of Subiaco and took the habit of St. Benedict about 1425. But he found the climate and discipline too severe for his delicate health, and was transferred to the Schlottenkloster at Vienna. In 1428 he was sent to the council of Basle, and on his return was made prior. After the death of John IV, he was elected abbot on 19 Oct., 1446. He now labored hard and incessantly for the welfare, spiritual and temporal, of the abbey and of the order. To advance the education of his subjects, he secured a library not equaled by many in his days. Cardinal Legate Nicholas of Cusa in 1451 appointed him, with some others, visitors of the Benedictine abbeys of the diocese of Salzburg, with powers to introduce necessary or useful reforms. By authority of Nicholas V, he examined the election of the abbot of Melk and, finding no canonical defect, confirmed the same. He also stood high in the estimation of Pius II and Emperor Frederick IV. Though paying heavy taxes towards a fund against the Turks, Martin placed his abbey on a solid financial basis. For unknown reasons he resigned the abbatial dignity at the close of 1460 or the beginning of 1461 (some say 1455). Only one work of Martin's has appeared in print, called "Senatorium" which gives account of himself, his visitation trip and other matters of interest in Austrian history—complete edition in Pez, "Rerum Austr. Script.", II, 626. In Munich and Vienna there are some smaller copies of works in manuscript.
+
+BRAUNMULLER in *Kirchlenlez*., s.v.; BRUNNER *Benedictinebuch* (Wurzburg),390; HAUSWIRTH, *Abriss einer Gesch. Der Schlotten*(Vienna 27; HURTER, *Nomencl., II* (1906), 945.
+
+FRANCIS MERSHMAN

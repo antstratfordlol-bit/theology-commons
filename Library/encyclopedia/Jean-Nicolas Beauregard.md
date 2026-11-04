@@ -1,0 +1,33 @@
+---
+title: "Jean-Nicolas Beauregard"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "John Francis Xavier Murphy"
+signed: "John F. X. Murphy"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Jean-Nicolas_Beauregard"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.jean-nicolas-beauregard} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Renaud de Beaune"
+next: "Pierre Gustave Toutant Beauregard"
+entry-type: "article"
+characters: 1702
+words: 287
+links: 0
+images: 0
+---
+
+# Jean-Nicolas Beauregard {#cathen.jean-nicolas-beauregard}
+
+Celebrated French pulpit orator, born at Metz in Lorraine, 4 December, 1733; died at the castle of Gröningen in Southern Germany, 27 July, 1794. He entered the Society of Jesus at Nancy, 30 September, 1749. After his noviceship and higher studies, he taught classics and rhetoric with distinction for six years at the colleges of the Society in Nancy, Verdun, Strasburg, and Pont-a-Mousson. His theological studies, which followed, were made in Strasburg, and after the year of third probation, Father Beauregard was back at Nancy for the year 1766-67 as perfect of studies. The next year he was assigned to the task of preaching, which thenceforth became the work of his life. Having gained a wonderful reputation in the lesser towns of France, he was summoned to Paris, where his success was even more phenomenal. Especially noteworthy was the course of sermons preached before the court during the Lent of 1789, in which Father Beauregard is said to have clearly foretold the evils that were about to engulf France. Father Beauregard escaped the first terror of the revolution, but was forced to flee to London in 1794. Later on his established himself at Maestricht, then at Cologne, while his declining years were spent at the castle of the Princess Sophie of Hohenlohe-Bartenstein. His works, which for the most part are still only in manuscript, consist of sermons and letters. A collection of his sermons, made by one of his hearers, was first printed at Paris in 1820, often reprinted, and later embodied in Migne's "Orateurs Sacrés", vol. LXXI.
+
+Daniel Le P. Beauregard sa vie et ses travaux; Sommervogel, Bibl.de la c. de J., I; Hamy, Galerie illustrie de la c. de J., I.
+
+John F. X. Murphy.

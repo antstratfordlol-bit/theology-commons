@@ -1,0 +1,35 @@
+---
+title: "Prudentius Maran"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Michael Ott"
+signed: "MICHAEL OTT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Prudentius_Maran"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.prudentius-maran} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Maphrian"
+next: "Marash"
+entry-type: "article"
+characters: 2493
+words: 409
+links: 0
+images: 0
+---
+
+# Prudentius Maran {#cathen.prudentius-maran}
+
+A learned Benedictine of the Maurist Congregation, b. 14 October, 1683, at Sezanne, in the Department of Marne; d. 2 April, 1762, at Paris. After studying humanities at Paris he became a Benedictine at the abbey of St. Faron near Meaux on 30 January, 1703, and continued his studies at the abbey of St. Denis. He was then sent to St. Germain-des-Pres to collaborate with his confrere Touttee in the edition of the works of St. Cyril of Jerusalem. In 1734 he was forced to leave St. Gerrnain-des-Pres at the instance of Cardinal Bissy, who suspected him of keeping his confreres from accepting the Bull "Unigenitus". After spending a year at the abbey of Orbais, he was sent to St. Martin de Pontoise and in 1737 he was transferred to the abbey of Blancs-Manteaux where he spent the remainder of his life. His profound knowledge of theology and patristics is attested by the learned and exhaustive introductions which he prefixed to his critical editions of Greek and Latin Fathers as well as by his other literary productions.
+
+His masterpiece is the edition of the works of St. Justin: "Justini philos. et martyris opera quae extant omnia necnon Tatiani, Athenagorae S. Theophili, Hermiae" (Paris, 1742; P.G., IV). He further edited the works of St. Cyril of Jerusalem which had been prepared by Touttée: "S. Cyrilli Hieros. opera" (Paris, 1720, P.G., XXXIII); the works of St. Cyprian which had been begun by St. Baluze: "S. Cypriani opera", to which he prefixed a basic life of St. Cyprian (Paris, 1726, P.L. IV); the third volume of the works of St. Basil the two first volumes of which had been completed by Garnier (Paris, 1730). His other works, all anonymous, are "Dissertation sur les Sémiariens" (Paris, 1722); "Divinitas domini nostri Jesu Christi manifesta in scripturis et traditione" (Paris, 1746, new ed., Würzburg,1859); "La divinite de Jesus Christ prouvée contre les hérétiques et les déistes", 3 vols. (Paris, 1751); "La doctrine de l'écriture et des pères sur les guérisons miraculeuses" (Paris, 1754); "Les grandeurs de Jésus Christ avec la defense de sa divinité" (Paris, 1756).
+
+TASSIN, Hist. litt. de la congreg. de Saint-Maur (Brussels, 1770), 741-9 (Germ. tr., Frankfurt, 1773), II, 541-553; LE CERF, Bibliotheque hist. et crit. des auteurs de la congreg. de Saint-Maur (The Hague, 1726), 293-8; LAMA, Bibl. des ecrivains de la Congreg. de Saint-Maur (Munich and Paris, 1882), 180-2; HURTER, Nomenclator Literarius, IV, 3rd ed. (Innsbruck, 1810), 1452-5.
+
+MICHAEL OTT

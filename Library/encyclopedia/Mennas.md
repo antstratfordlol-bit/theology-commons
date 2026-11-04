@@ -1,0 +1,33 @@
+---
+title: "Mennas"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: "Francis Joseph Bacchus"
+signed: "F.J. BACCHUS"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Mennas"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.mennas} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Anthon Rafael Mengs"
+next: "Mennonites"
+entry-type: "article"
+characters: 2882
+words: 460
+links: 0
+images: 0
+---
+
+# Mennas {#cathen.mennas}
+
+Patriarch of Constantinople from 536 to 552. Early in 536 Pope St. Agapetus came to Constantinople on a political mission forced on him by the Gothic king, Theodahad. Anthimus, Archbishop of Trebizond, had just been transferred to Constantinople through the influence of the Empress Theodora, with whose Monophysite leanings he was in sympathy. Agapetus promptly deposed Anthimus and he consecrated Mennas patriarch. Anthimus was deposed partly because his transfer from one see to another was uncanonical, and partly on account of his doubtful orthodoxy. The question next arose whether he should be allowed to return to his old see. Agapetus was preparing to deal with this question when he died. Mennas proceeded with the affair at a synod held in Constantinople the same year, 536, presiding over it the place of honour on his right hand being assigned to five Italian bishops who represented the Apostolic See. The result was that Anthimus, who failed to appear and vindicate his orthodoxy, was excommunicated together with several of his adherents. In 543 the Emperor Justinian acting with the approval, if not under the prompting of Mennas and the Roman representative, Pelagius, issued his celebrated edict against the teaching of Origen, at the same time directing Mennas to hold a local council to consider the matter. No record of this synod had been preserved, but Hefele demonstrates it to be more than probable that the celebrated Fifteen Anathematisms of Origen, mistakenly ascribed to the Fifth Ecumenical Council, were there promulgated. We now come to the part played by Mennas the initial stage of the Three Chapters controversy (see CONSTANTINOPLE, COUNCILS OF). The first from whom the emperor Justinian demanded subscription to the edict anathematizing the Three Chapters was Mennas. He hesitated, but eventually gave way on the understanding that his subscription should be returned to him if the pope disapproved. Later on he compelled his suffragans to subscribe. Many of them complained to the papal legate Stephen of the constraint put upon them. Stephen broke off communion with Mennas. When Pope Vigilius arrived at Constantinople in 547, he cut Mennas off from Church communion for four months. Mennas retorted by striking the pope's name off the diptychs. When Vigilius issued his "Judicatum", the two were reconciled. In 551 Mennas was again excommunicated. When Vigilius and Justinian came to terms, Mennas once more made his peace with the former, asking pardon for having communicated with those whom the pope had excommunicated. He died in August, 552.
+
+All that is known about Mennas will be found in HEFELE, Councils, IV (Eng. tr.). The most important of the originals sources are the Acta of the synod at Constantinople in 536 HARDOUIN, II, Mansi, VIII, and FACUNDUS, Pro defensione trium Capitulorum (P.L., LXVII, Gallandi, XI).
+
+F.J. BACCHUS

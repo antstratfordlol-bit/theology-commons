@@ -1,0 +1,33 @@
+---
+title: "Armand-Benjamin Caillau"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Joseph Francis Sollier"
+signed: "J.F. SOLLIER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Armand-Benjamin_Caillau"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.armand-benjamin-caillau} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Diocese of Caiazzo"
+next: "Cain"
+entry-type: "article"
+characters: 2358
+words: 349
+links: 0
+images: 0
+---
+
+# Armand-Benjamin Caillau {#cathen.armand-benjamin-caillau}
+
+Priest and writer, born at Paris, 22 October, 1794, died there, 1850. Ordained in 1818, successively a member of the Missions de France, rector of Sainte-Geneviève and chaplain of the Infirmerie Marie-Thérèse, he joined, in 1834, the Fathers of Mercy, newly re-organized by Father Rauzan. His love of missionary life made him decline episcopal honours and a chair at the Sorbonne, but was no obstacle to his literary pursuits. Besides many contributions to the "Bibliographic Catholique", Caillau wrote "Instructions sur l'oraison mentale" (Paris, 1833), a French translation of Tertullian's "De Spectaculis" (Paris, 1835), several monographs on Our Lady's Sanctuaries: "Roc-Amadour" (1834), "Loretto" (1843), "N.D. de Puy" (1846), "Litanies du St. Nom de Jesus" (Paris, 1845), "Les nouveaux illuminés" (Michel Vintras) (Orléans, 1849), etc. He is best known, however, by the following works: "Thesaurus Patrum" (Paris, 1823-5), a patristic digest modelled on Merz's "Thesaurus biblicus", with an introduction to petrology; "Collectio selecta Patrum" (Paris 1829-1842), 133 octavo volumes, undertaken in collaboration with Mgr. Guillon and suspended at the announcement of Migne's "Patrology". The insertion of new sermons under the name of St. Augustine (P.L., XLVII) brought about a controversy between the two editors. "Histoire de la Vie des Saints" (Paris 1835-1840), four octavo volumes, and also (Paris 1863) five octavo volumes, written in collaboration with Abbé Juste; "S. Gregorii Nazianzeni opera" (Paris, 1842), two folio volumes (also P.G., XXVII and XXVIII), a splendid edition, partly from the manuscript notes of D. Clémencet, reviewed by Villemain in the "Journal des Savants" (1845 and 1847) "Rhetorica Patrum" (Paris, 1838), three volumes never completed. A similar project of a " Bibliotheca Mariana" resulted only in the publication of a few opuscula of St. Ephrem, St. Bonaventure, Idiota (Jordan), and the Marial monographs noticed above. Caillau also re-edited Merz's "Thesaurus biblicus" (1822), "L'Année sainte" (1826), vols. III and IV of D. Ceillier's " Histoire des auteurs sacrés " (1838-9); and "Lettres de Scheffmacher" (1839).
+
+DELAPORTE. Vie du P. Rauzan (Paris, 1857); Bibliographie catholique, X; MANGENOT in Dict. de theol. cath., s.v. See also index of CEILLIER, Hiotoire des auteurs sacrés (Paris, 1868).
+
+J.F. SOLLIER

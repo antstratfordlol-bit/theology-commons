@@ -1,0 +1,33 @@
+---
+title: "Delatores"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Johann Peter Kirsch"
+signed: "J. P. KIRSCH"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Delatores"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.delatores} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Hippolyte Delaroche"
+next: "Delaware"
+entry-type: "article"
+characters: 2328
+words: 379
+links: 0
+images: 0
+---
+
+# Delatores {#cathen.delatores}
+
+(Lat. for DENOUNCERS)
+
+A term used by the Synod of Elvira (c. 306) to stigmatize those Christians who appeared as accusers of their brethren. This synod decided (can. lxxiii, Hefele, Conciliengeschichte, 2d ed., I, 188) that if any Christian was proscribed or put to death through the denunciation (*delatio*) of another Christian, such a delator was to suffer perpetual excommunication. No distinction is made between true and false accusation, but the synod probably meant only the accusation of Christianity before the heathen judge, or at most a false accusation. Any false accusation against a bishop, priest, or deacon was visited with a similar punishment by the same synod (can. lxxv, op. cit., 189). The punishment for false witness in general was proportioned by can. lxxiv to the gravity of the accusation. The Council of Arles of 314 issued a similar decree (can. xiv, op. cit., p. 213), when it decided that Christians who accused falsely their brethren were to be forever excluded from communion with the faithful. During the persecutions of the early Christians it sometimes happened that apostates denounced their fellow-Christians. The younger Pliny relates in a letter to Trajan (Apostolic Fathers ed. Lightfoot, 2d ed., I. i, 50 sqq.), that an anonymous bill of indictment was presented to him on which were many names of Christians; we do not know, however, that the author of this *libellus* was a Christian. According to can. xiii of the Council of Arles (op. cit., 211 sqq.), during the persecution of Diocletian Christians were denounced by their own brethren to the heathen judges. If it appeared from the public acts that an ecclesiastic had done this, he was punished by the synod with perpetual deposition; however, his ordinations were considered valid. In general, false accusation is visited with severe punishments in later synods, e. g. Second Council of Arles (443 or 453, can. xxiv), the Council of Agde (506, can. viii) and others. These decrees appear in the later medieval collections of canons (q. v.). New punitive decrees against calumny were issued by Gregory IX in his Decretals (de calumniatoribus, V, 3 in Corp. Jur. Can). KRÜLL in KRAUS, *Real-Encyk.* (Freiburg im Br., 1882), I, 361; HINSCHIUS, *Kirchenrecht,* IV (Berlin, 1888), 699, 770; IV (Berlin, 1893), 20 sqq.
+
+J. P. KIRSCH.

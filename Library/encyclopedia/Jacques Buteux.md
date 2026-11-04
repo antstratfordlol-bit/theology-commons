@@ -1,0 +1,33 @@
+---
+title: "Jacques Buteux"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Edward Peter Spillane"
+signed: "EDWARD P. SPILLANE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Jacques_Buteux"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.jacques-buteux} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "John Patrick Crichton-Stuart, Third Marquess of Bute"
+next: "Alban Butler"
+entry-type: "article"
+characters: 2320
+words: 385
+links: 0
+images: 0
+---
+
+# Jacques Buteux {#cathen.jacques-buteux}
+
+French missionary in Canada. Born at Abbeville, in Picardy, 11 April, 1600; slain by the Iroquois savages, 10 May, 1652. He entered the Society of Jesus in October, 1620, studied at La Flèche (1622-25), was an instructor at Caen (1625-29), and after his course of theology in la Flèche (1629-33) became prefect at the College of Clermont. In 1634 he went to Canada and was sent to the new settlement of Three Rivers, where he remained for eighteen years, ministering with extraordinary zeal to the Montagnais and the Algonquin tribes. though of frail and delicate physique, his soul was fired with an ardent desire for suffering, which nothing could satisfy. It was this trait in his character which most distinguished him from the other heroic men who had devoted their lives to the same work. In truth, no peril, however great, ever blanched his cheek or stayed his hand when there was a question of serving God or saving a soul. He was endowed with a very special grace for instilling sentiments of piety into the hearts of the Indians, and those under his care were recognized by a tenderness of devotion and a spirit of faith which were lasting and altogether remarkable. Buteux himself has drawn a vivid picture of one of his apostolic journeys through a Canadian wilderness at the end of winter, of traversing almost pathless forests, crossing mountains, lakes, and rivers, wading knee deep in melting snow, and being unable on account of all these difficulties to carry enough food for more than "warding off death, rather than supporting life." his death occurred on one of his journeys to the Attikamègues, a Montagnais tribe dwelling on the upper St. Maurice River. A troop of Iroquois lying in ambush riddled his upper right arm and breast with bullets, while the blows of their tomahawks completed the sacrifice. Mother Mary of the Incarnation writes that "his death was an incredible loss to the mission." Father Buteux has left, besides other documents, an interesting account of the captivity of Father Isaac Jogues.
+
+ROCHEMONTEIX, *Les Jesuites et la Nouvelle-France au XVIIe siècle* (Paris, 1896), I, 294, 265; THWAITES, *Jesuit Relations*, VI, 326. IX, 307; XXXVII, 9, 19-67; LXXII, 114-115; SOMMERVOGEL, *Bibliographie des éscrevains de la compagnie de Jésus*, II, 471; VII, 1953.
+
+EDWARD P. SPILLANE

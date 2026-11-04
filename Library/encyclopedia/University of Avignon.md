@@ -1,0 +1,33 @@
+---
+title: "University of Avignon"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Nicholas Aloysius Weber"
+signed: "N.A. WEBER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/University_of_Avignon"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.university-of-avignon} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Avignon"
+next: "Diocese of Avila"
+entry-type: "article"
+characters: 1854
+words: 282
+links: 0
+images: 0
+---
+
+# University of Avignon {#cathen.university-of-avignon}
+
+The University of Avignon (1303-1792), developed from the already existing schools of the city, was formally constituted in 1303, by a Bull of Boniface VIII. With Boniface, King Charles II of Naples should be considered as one of its first great protectors and benefactors. The faculty of law, both civil and ecclesiastical, existed for some time almost exclusively, and always remained the most important department of the university. Pope John XXIII erected (1413) a faculty of theology, the students of which were for a long time only few in number. The faculty of arts never acquired great importance; that of medicine developed especially only in the sixteenth and seventeenth centuries. The Bishop, since 1475 Archbishop, of Avignon was chancellor of the university. The vice-legate, generally a bishop, represented the civil power (in this case the pope) and was chiefly a judicial officer, ranking higher than the Primicerius (Rector). The latter was elected by the Doctors of Law, to whom, in 1503, were added four theologians and, in 1784, two Doctors of Medicine. The pope, spiritual head and, after 1348, temporal ruler of Avignon, exercised in this double capacity great influence over the affairs of the university. John XXIII granted it (1413) extensive privileges, such as special university jurisdiction and exemption from taxes. Political, geographical, and educational circumstances forced the university, during the latter period of its existence, to look to Paris rather than to Rome for favour and protection. It disappeared gradually during the French Revolution, and ceased to exist in 1792.
+
+RASHDALL, *The Universities of Europe in the Middle Ages* (Oxford,1895), II, 170-179; FOURNIER, *Les status et privilèges des univ.francaises* (Paris, 1890-94), II, 301-535; MARCHAND, *L'université d'Avignon* (Avignon, 1884).
+
+N.A. WEBER

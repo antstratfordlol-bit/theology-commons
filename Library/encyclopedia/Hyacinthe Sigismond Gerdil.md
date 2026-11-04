@@ -1,0 +1,33 @@
+---
+title: "Hyacinthe Sigismond Gerdil"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "George Michael Julius Louis Sauvage"
+signed: "G.M. SAUVAGE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Hyacinthe_Sigismond_Gerdil"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.hyacinthe-sigismond-gerdil} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Jean-François Gerbillon"
+next: "Gerhard of Zütphen"
+entry-type: "article"
+characters: 2488
+words: 407
+links: 0
+images: 0
+---
+
+# Hyacinthe Sigismond Gerdil {#cathen.hyacinthe-sigismond-gerdil}
+
+Cardinal and theologian; b. at Samoëns in Savoy, 20 June, 1718; d. at Rome, 12 August 1802. When fifteen years old, he joined the Barnabites at Annecy, and was sent to Bologna to pursue his theological studies; there he devoted his mind to the various branches of knowledge with great success, and attracted the attention of Archbishop Lambertini of that city, later Pope Benedict XIV. After his studies, he taught philosophy at Macerata, philosophy and moral theology at Turin, and became provincial of his order. At the suggestion of Benedict XIV, he was chosen preceptor of the Prince of Piedmont, afterwards Charles Emmanuel IV. Designated cardinal *in petto*, in 1773, by Clement XIV, he was promoted to that dignity by Pius VI, in 1777, who called him to Rome and named him Bishop of Dibbon, consultor of the Holy Office, corrector of the oriental books, and prefect of the Propaganda. After the invasion of Rome in 1798, he left the city and returned to his Abbey Della Chiusa. On the death of Pius VI he would probably have been elected pope at the consistory of Venice, in 1800, had not his election been vetoed by Cardinal Herzan in the name of the Emperor of Germany. He accompanied the new pope (Pius VII) to Rome, where he died in 1802.
+
+His numerous works written in Latin, Italian, and French on divers subjects - dogmatic and moral theology, canon law, philosophy, pedagogy, history, physical and natural sciences, etc. - form twenty volumes in quarto (ed. Rome, 1806-1821). Among the most important may be mentioned: "L'Immortalité de l'âme démontrée contre Locke et défense du P. Malebranche contre ce philosophe" (Turin, 1747-48), 2 vols.; "Réflexions sur la théorie et la pratique de l'éducation contre les principes de J.-J. Rousseau" (Turin, 1765), reprinted in a new edition under the title "Anti-Emile"; "Exposition des caractères de la vraie religion", written in Italian (translated into French, Paris, 1770), etc. His works were written especially for the defence of spiritual philosophy against materialism, of supernatural religion against Deism, of the supreme authority of the pope against Febronianism and the Synod of Pistoia. A scholar of very extensive knowledge, a deep thinker, though some of his philosophical opinions, especially those concerning our knowledge of God, are not those generally accepted, a theologian of firm principles, he was also known as a man of great moderation in his counsels and of great charity in controversy.
+
+G.M. SAUVAGE

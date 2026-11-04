@@ -1,0 +1,33 @@
+---
+title: "Baldassare Castiglione"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Edoardo San Giovanni"
+signed: "EDOARDO SAN GIOVANNI"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Baldassare_Castiglione"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.baldassare-castiglione} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Giovanni Battista Castello"
+next: "Count Carlo Ottavio Castiglione"
+entry-type: "article"
+characters: 2239
+words: 366
+links: 0
+images: 0
+---
+
+# Baldassare Castiglione {#cathen.baldassare-castiglione}
+
+An Italian prose-writer, b. at Casatico, near Mantua, 6 December, 1478; died at Toledo, Spain, 7 February, 1529. After receiving a classical education at Milan, he went to the court of Ludovico il Moro. Soon, however, owing to his father's death in 1499, he left the Sforza and became a retainer of Francesco Gonzaga, Marquis of Mantua. In September, 1504, Urbino became his new residence, and here, in the service of Duke Guidobaldo da Montefeltro, he spent the best years of his life. The splendour of the Montefeltro court was such as to attract thither the most distinguished writers and artists of the time, and in their midst Castiglione, though engrossed in momentous affairs of state, drank at the fountain-head of art and literature. In 1513 Francesco Maria della Rovere, Guidobaldo's successor, made him a count and later his ambassador to the Holy See. In 1524 Pope Clement VII sent him as a special envoy to Charles V, but, in spite of his good offices on behalf of the pontiff Rome was sacked on the 6th of May, 1527, and Clement made a captive. This melancholy event broke Castiglione in health and spirits and hastened his death. Great honours were paid to his memory, and Charles the Fifth was said to have called him "one of the best knights in the world". His fame, however, mainly rests on his "Cortegiano" (Courtier), a work in four books, describing the accomplishments and moral character of the ideal courtier. He began writing it in 1514 and finished it four years later, but polished its style so elaborately as to delay its publication until 1528, one year before his death. A truly representative son of the Renaissance, he exhibited in his "Courtier" brilliant classical scholarship and exquisite taste, combined with a keen spirit of observation and noble conceptions. As a result, "Il Cortegiano" gradually acquired a world-wide reputation, and was translated into a dozen languages, including Japanese. The latest edition is that of Opdyke (New York, 1902). His many letters, in part unpublished, are of considerable importance.
+
+CIAN, Il Cortegiano del Conte B.C. annotato e illustrato (Florence, 1894); MARTINATI, Notizie storico-bibliografiche intorno al Conte B.C. (Florence, 1890).
+
+EDOARDO SAN GIOVANNI

@@ -1,0 +1,35 @@
+---
+title: "Apotactics"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "unknown"
+author: "Benedict Guldner"
+signed: "B. GULDNER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Apotactics"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.apotactics} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Apostolicum Pascendi Munus"
+next: "Apotheosis"
+entry-type: "article"
+characters: 2413
+words: 402
+links: 0
+images: 0
+---
+
+# Apotactics {#cathen.apotactics}
+
+(From Gr., *apotassomai*, to renounce).
+
+The adherents of a heresy which sprang up in the third century and spread through the western and southern parts of Asia Minor. What little we know of this obscure sect we owe to the writings of St. Epiphanius. He tells us that they called themselves Apotactics (i.e. renunciators) because they scrupulously renounced all private property; they also affected the name of Apostolics, because they pretended to follow the manner of life of the Apostles. The saint regards them as a branch of the Tatians, akin to the Encratites and the Cathari. "Their sacraments and mysteries are different from ours; they pride themselves upon extreme poverty, bring divisions into Holy Church by their foolish superstitions, and depart from the divine mercy by refusing to admit to reconciliation those who have once fallen, and like those from whom they have sprung, condemn marriage. In place of the Holy Scriptures, which they reject, they base their heresy on the apocryphal Acts of Andrew and Thomas. They are altogether alien from the rule of the Church". At the time when St. Epiphanius wrote, in the fourth century, they had become an insignificant sect, for in refuting them he says: "They are found in small groups in Phrygia, Cilicia, and Pamphylia, whereas the Church of God, according to Christ's promise, has spread to the ends of the earth, and if marriage is an unholy thing, then they are doomed to speedy extinction, or else they must be born out of wedlock. If they are born out of wedlock, then they themselves are impure. And if they are not impure, although born in wedlock, then marriage is not impure.... The Church praises renouncement, but does not condemn marriage; she preaches poverty, but does not intolerantly inveigh against those who possess property inherited from their parents with which they support themselves and assist the poor; many in the church abstain from certain kinds of food, but do not look with contempt upon those who do not so abstain." St. Basil mentions these heretics in his Epistles. He gives them the name of *Apotaktitai* (Apotactites) and says that they declared God's creatures defiled (*inquinatam*). They are also briefly mentioned by St. Augustine and by St. John Damascene. They were condemned in the Code of Theodosius the Great as a branch of the Manicheans.
+
+St. EPIPHANIUS, *Hær.*, in *P. G.*, XLI, 1040 sqq.
+
+B. GULDNER

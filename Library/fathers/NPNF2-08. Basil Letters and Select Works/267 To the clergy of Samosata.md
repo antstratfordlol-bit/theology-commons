@@ -1,0 +1,49 @@
+---
+id: "basil-epistulae.en.219"
+title: "To the clergy of Samosata."
+work: "Epistulae"
+author: "Basil the Great"
+volume: "NPNF2-08. Basil: Letters and Select Works"
+volume-id: "npnf208"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf208.xml"
+source-id: "ix.ccxx"
+sigla: "basil-epistulae"
+part-of: "basil-epistulae"
+part-ref: "219"
+part-kind: "text"
+part-evidence: "printed:body-line1:Letter CCXIX."
+title-source: "bkv-clavis"
+clavis: "CPG 2900"
+boundary-decision: "one work; letters CCCLXI-CCCLXV share one file and one ranged anchor"
+anchors: "{#basil-epistulae.219} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 6
+scripture-references: 4
+scripture-refs-sidecar: "_scripture-refs/npnf208.tsv"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# To the clergy of Samosata. {#basil-epistulae.219}
+
+Letter CCXIX.[^2862]
+
+To the clergy of Samosata.
+
+The Lord ordereth “all things in measure and weight,”[^2863] and brings on us the temptations which do not exceed our power to endure them,[^2864] but tests all that fight in the cause of true religion by affliction, not suffering them to be tempted above that they are able to bear.[^2865] He gives tears to drink in great measure[^2866] to all who ought to show whether in their affections they are preserving their gratitude to Him. Especially in His dispensation concerning you has He shown His loving-kindness, not suffering such a persecution to be brought on you by your enemies as might turn some of you aside, or cause you to swerve from the faith of Christ. He has matched you with adversaries who are of small importance and easy to be repelled, and has prepared the prize for your patience in your victory over them. But the common enemy of our life, who, in his wiles, strives against the goodness of God, because he has seen that, like a strong wall, you are despising attack from without, has devised, as I hear, that there should arise among yourselves mutual offences and quarrels. These indeed, at the outset, are insignificant and easy of cure; as time goes on, however, they are increased by contention and are wont to result in irremediable mischief.[^2867] I have, therefore, undertaken to exhort you by this letter. Had it been possible, I would have come myself and supplicated you in person. But this is prevented by present circumstances, and so, in lieu of supplication, I hold out this letter to you, that you may respect my entreaty, may put a stop to your mutual rivalries, and may soon send me the good news that all cause of offence among you is at an end.
+
+2. I am very anxious that you should know that he is great before God who humbly submits to his neighbour and submits to charges against himself, without having cause for shame, even though they are not true, that he may bring the great blessing of peace upon God’s Church.
+
+I hope that there will arise among you a friendly rivalry, as to who shall first be worthy of being called God’s son, after winning this rank for himself because of his being a peacemaker. A letter has also been written to you by your very God-beloved bishop as to the course which you ought to pursue. He will write again what it belongs to him to say. But I too, because of its having been already allowed me to be near you, cannot disregard your position. So on the arrival of the very devout brother Theodorus the sub-deacon, and his report that your Church is in distress and disturbance, being deeply grieved and much pained at heart, I could not endure to keep silence. I implore you to fling away all controversy with one another, and to make peace, that you may avoid giving pleasure to you opponents and destroying the boast of the Church, which is now noised abroad throughout the world, that you all, as you are ruled by one soul and heart, so live in one body. Through your reverences I salute all the people of God, both those in rank and office and the rest of the clergy. I exhort you to keep your old character. I can ask for nothing more than this because by the exhibition of your good works you have anticipated and made impossible any improvement on them.
+
+[^2862]: Placed in 375.
+[^2863]: Wisd. xi. 20.
+[^2864]: *cf*. Matt. vi. 13.
+[^2865]: *cf*. 1 Cor. x. 13.
+[^2866]: *cf*. Ps. lxxx. 5.
+[^2867]: *cf*. Homer of ῎Ερις, *Il*. iv. 442: ἥ τ᾽ ὀλίγη μὲν πρῶτα κορύσσεται, αὐτὰρ ἔπειτα οὐρανῷ ἐστήριξε κάρη καὶ ἐπὶ χθονὶ βαίνει

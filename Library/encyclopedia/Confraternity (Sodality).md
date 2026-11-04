@@ -1,0 +1,37 @@
+---
+title: "Confraternity (Sodality)"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "William Henry Windsor Fanning"
+signed: "WILLIAM H. W. FANNING"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Confraternity_(Sodality)"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.confraternity-sodality} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Confiteor"
+next: "Confucianism"
+entry-type: "article"
+characters: 3145
+words: 486
+links: 0
+images: 0
+---
+
+# Confraternity (Sodality) {#cathen.confraternity-sodality}
+
+(Lat. *confraternitas*, *confratria*)
+
+A confraternity or sodality is a voluntary association of the faithful, established and guided by competent ecclesiastical authority for the promotion of special works of Christian charity or piety. The name is sometimes applied to pious unions, but the latter differ from confraternities inasmuch as they need not be canonically erected and they regard rather the good of the neighbour than the personal sanctification of the members. Confraternities are divided into those properly so called and those to which the name has been extended. Both are erected by canonical authority, but the former have a more precise organization, with rights and duties regulated by ecclesiastical law, and their members often wear a peculiar costume and recite the Office in common. When a confraternity has received the authority to aggregate to itself sodalities erected in other localities and to communicate its advantages to them, it is called an archconfraternity.
+
+Pious associations of laymen existed in very ancient times at Constantinople and Alexandria. In France, in the eighth and ninth centuries, the laws of the Carlovingians mention confraternities and guilds. But the first confraternity in the modern and proper sense of the word is said to have been founded at Paris by Bishop Odo who died in 1208. It was under the invocation of the Blessed Virgin Mary. Various other congregations, as of the Gonfalon, of the Holy Trinity, of the Scapular, etc., were founded between the thirteenth and sixteenth centuries. From the latter century onwards, these pious associations have multiplied greatly. Indulgences are communicated to confraternities either directly by the pope or through the bishops, unless the association be aggregated to an archconfraternity (it may not be aggregated to more than one) through which it participates in the latter's privilege. If the aggregation be not made according to the prescribed formula, the Indulgences are not communicated. The directors of confraternities are appointed or approved by the bishop, or in the churches of regulars by the regular superior. Only after such appointment can the director apply the Indulgences to the objects which he blesses, and he cannot subdelegate this power without special faculty. The reception of members must be carried out by the appointed person. The observance of the rules is not binding in conscience nor does their neglect deprive a person of membership, though in the latter case the Indulgences would not be obtained. The loss of all its members for a short time does not dissolve a confraternity, and by the reception of new members the Indulgences may again be gained. The dissolution, translation, and visitation of confraternities belong to the ordinary. The canon law governing these associations is found in the Constitution of Clement VIII (7 Dec., 1604) with some modification made later by the Sacred Congregation of Indulgences.
+
+LAURENTIUS, *Institutiones Juris Ecclesiastici* (Freiburg, 1903); BERINGER, *Les Indulgences* (Fr. tr., Paris, 1905): BOUIX, *De Episcopo* (Paris, 1889), II.
+
+WILLIAM H. W. FANNING.

@@ -1,0 +1,33 @@
+---
+title: "St. John of Beverley"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "Patrick J. MacAuley"
+signed: "P. J. MacAuley"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._John_of_Beverley"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-john-of-beverley} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Bl. John of Avila"
+next: "John of Biclaro"
+entry-type: "article"
+characters: 2788
+words: 470
+links: 0
+images: 0
+---
+
+# St. John of Beverley {#cathen.st-john-of-beverley}
+
+Bishop of Hexham and afterwards of York; b. at Harpham, in the East Riding of Yorkshire; d. at Beverley, 7 May, 721. In early life he was under the care of Archbishop Theodore, at Canterbury, who supervised his education, and is reputed to have given him the name of John. He became a member of the Benedictine Order, and for a time was an inmate of St. Hilda's monastery at Streaneshaleh (Whitby). Afterwards he won renown as a preacher, displayed marked erudition in expounding Scripture, and taught amongst other subjects. On 25 August, 687 was consecrated Bishop of Hexham, a district with which he was not unfamiliar, as he had for a period led a life of retreat at Erneshowe (Herneshou), on the opposite bank of the Tyne. Here, too, he was afterwards wont to resort for seclusion, especially during Lent, when the cares of his episcopal ministration permitted of his so doing. John was present at the synod on the Nidd in 705, convened by Osred, King Of Northumbria, to decide on Wilfrid's case. In the same year (703), on the death of Bosa, John was translated to York after eighteen years of labour in the See of Hexham, where he was succeeded by Wilfrid. Of his new activity little is known beyond that he was diligent in visitation, considerate towards the poor, and exceedingly attentive to the training of students whom he maintained under his personal charge. His little company of pupils is said to have included: Bede, whom he ordained; Berethume, afterwards Abbot of Beverley; Herebald, Abbot of Tynemouth; and Wilfrid "the Younger", John's successor (718) in the See of York. Having purchased a place called Inderawood, to which a later age has given the name of Beverley, John established a monastery there and also handsomely endowed the place, which became even in its founder's day an important ecclesiastical centre. To this monastery of Beverley, after resigning the See of York to his pupil Wilfrid, John retired and spent the remainder of his life with Abbot Berethune, a one time favourite scholar. In 1037 he was canonized by Benedict IX; His bones were translated by Ælfric, Archbishop of York, and placed in a costly shrine. A second translation took place in 1197. The remains were discovered in 1664 and again brought to light in 1736. (See BEVERLEY MINSTER.)
+
+Acta SS. Bolland., II, 165 sqq.; Sanct. Dunelm. et Beverlac., edited by SURTEES SOCIETY, P. 98; DUGDALE, Monasticon, II, 127; WILKINS, Concilia, III, 379; RAINE in Dict. Christ. Biog., s. v. Joannes Beverlacensis, JOCHAM in Kirchenlex., s. v. Johannes von Beverley; HUNT in Dict. Nat. Biog., s. v.; BIHLMEYFR in BUCHBERGER, Kirchliches Handlex., s. v. J. v. Beverley. The authenticity of the works ascribed to John of Beverley in BALE, Script. Illustr. Brit. Catal., is doubtful.
+
+P. J. MacAuley.

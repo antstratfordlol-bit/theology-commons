@@ -1,0 +1,36 @@
+---
+title: "Pope Alexander IV"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "287-288"
+author: "James Francis Loughlin"
+signed: "James F. Loughlin"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pope_Alexander_IV"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pope-alexander-iv} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Pope Alexander III"
+next: "Pope Alexander V"
+entry-type: "article"
+characters: 4365
+words: 720
+links: 0
+images: 1
+---
+
+# Pope Alexander IV {#cathen.pope-alexander-iv}
+
+**Alexander IV,** Pope, 1254–61 (Rinaldo Conti), of the house of Segni, which had already given two illustrious sons to the Papacy, Innocent III and Gregory IX, date of birth uncertain; d. 25 May, 1261, at Viterbo. He was created Cardinal-Deacon, in 1227, by his uncle Gregory IX, and four years later Cardinal-Bishop of Ostia. Gregory also bequeathed to him his solicitude for the Franciscan Order, which he had so well befriended. On the death of Innocent IV, at Naples, 7 December, 1254, the aged Cardinal was unanimously chosen to succeed him. We may well believe his protestation that he yielded very reluctantly to the importunities of the Sacred College. Matthew of Paris has depicted him as "kind and religious, assiduous in prayer and strict in abstinence, but easily led away by the whispering of flatterers, and inclined to listen to the wicked suggestions of avaricious persons". The "flatterers" and "avaricious persons" referred to were those who induced the new Pontiff to continue Innocent's policy of a war of extermination against the progeny of Frederick II. now reduced to the infant Conradin in Germany and the formidable Manfred in Apulia.
+Arms of Alexander IV Many an historian at the present day agrees with the shrewd chronicler, that it would have been far more statesmanlike and might have averted the disasters that were in destiny for the Church, the Empire, and Italy, had Alexander firmly espoused the cause of Conradin. Deterred by the precedent of the infant Frederick, the "viper" that the Roman Church had nourished to become its destroyer, and persuaded that iniquity was hereditary, in the whole brood of the Hohenstaufens, he continued Innocent's dubious policy of calling in French or English Beelzebubs to cast out the German Lucifers. On 25 March, 1255, he fulminated an excommunication against Manfred and a few days afterwards concluded a treaty with the envoys of Henry III of England by which he made over the vassal kingdom of the Two Sicilies to Edmund of Lancaster, Henry's second son. In the contest for the German crown which followed on the death of William of Holland (1256) the Pope supported the claims of Richard of Cornwall against Alfonso of Castile. The pecuniary assistance which these measures brought him was dearly bought by the embitterment of the English clergy and people against the exactions of the Roman See. Manfred's power grew from day to day. In August, 1258, in consequence of a rumour spread by himself, that Conradin had died in Germany, the usurper was crowned king in Palermo and became the acknowledged head of the Ghibelline party in Italy. Alexander lived to see the victor of Montaperti (1260) supreme ruler of Central as well as Southern Italy. In the north of Italy he was more successful, for his crusaders finally crushed the odious tyrant Ezzelino. In Rome, which was under the rule of hostile magistrates and in alliance with Manfred, the papal authority was all but forgotten. Meanwhile the Pope was making futile efforts to unite the powers of the Christian world against the threatening invasion of the Tartars. The crusading spirit had departed. The unity of Christendom was a thing of the past. Whether the result would have been different had a great statesman occupied the Papal Chair during these seven critical years, we can only surmise. Alexander IV ruled the spiritual affairs of the Church with dignity and prudence. As Pope, he continued to show great favour to the children of St. Francis. One of his first official acts was to canonize St. Clare. In a diploma he asserted the truth of the impression of the stigmata. St. Bonaventure informs us that the Pope affirmed in a sermon that he had seen them. In the violent controversies excited at the University of Paris by William of St. Amour, Alexander IV took the friars under his protection. He died, deeply afflicted by the sense of his powerlessness to stem the evils of the age.
+
+Potthast, *Regesta RR. Pontif.*, II, 1286 sqq.; Bourel de la Ronciere, *Les Registres d'Alex. IV* (Paris, 1896); Raynaldus *Ann. Eccl. ad an. 1254,* sqq.; Hergenröther-Kirsch, *Kirschengeschichte* (Freiburg, 1904), II, 575, 576; Artaud de Montor, *Hist. of the Roman Pontiffs* (New York, 1807). I 429–435.
+
+James F. Loughlin.
+
+*[Illustration: Catholic Encyclopedia - Arms of Alexander IV.png — on Wikimedia Commons, not fetched]*

@@ -1,0 +1,35 @@
+---
+title: "Cyclades"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Sophron Pétridès"
+signed: "S. Pétridès"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Cyclades"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.cyclades} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Cybistra"
+next: "Cydonia"
+entry-type: "article"
+characters: 3222
+words: 544
+links: 0
+images: 0
+---
+
+# Cyclades {#cathen.cyclades}
+
+A group of islands in the Ægean Sea. The ancients called by this name only Delos and eleven neighbouring islands, Andros, Tenos, Myknos, Siphnos, Seriphos, Naxos, Syros, Paros, Kythmos, Keos, and Gyaros. According to mythology they were nymphs metamorphosed into rocks for having refused to sacrifice to Poseidon. They are in fact remains of an ancient continent that disappeared in the tertiary epoch. Successively Cretan, Dorian, and Ionian colonies, they were made subject to Athens by Miltiades. Under Byzantine rule the Dodekanesoi (twelve islands) were included in the fifth European theme. Plundered by the Saracens in the seventh and eighth centuries, they became, after the Fourth Crusade, a duchy belonging to the Venetian families of Sanudo and Crispo. The turks conquered them in the sixteenth century. The Cyclades are now a *nomos*, or department, of Greece, but under this name are comprised also Melos, Kimolos, Sikinos, Amorgos (birthplace of Simonides), Thera or Santorin, Ios, Anaphe, and other islands between them. The population is about 130,000. Silk, wine, cotton, fruit, sponges, marble (Paros), and emery (Naxos), are the chief products. There is also a coasting trade; Hermoupolis in Syros is an important port.
+
+There were in the Cyclades many Greek sees suffragan to Rhodes. Under the Frankish rule, Latin sees were also established at Naxos, Andros, Keos, Syros, Tenos, Mykonos, Ios, Melos, and Thera, as suffragans of Rhodes and Athens, later only of Naxos. The Archdiocese of Naxos includes also Paros and Antiparos. It has 500 Catholics, some 10 churches or chapels, and 10 priests. Among the latter are Capuchins, and Oblates of St. Francis de Sales; Ursuline nuns conduct the schools. Naxos and Paros were Greek bishoprics early united under the name of Paronaxia. It was a metropolitan see in 1088, and its episcopal list is in Lequien (I, 937). Several of its metropolitans united with Rome from the fourteenth to the eighteenth century. The list of the Latin archbishops is in Lequien (III, 1001), Gams (448), and Eubel (I, 375, II, 221). The See of Naxos is now confided to the Archbishop of Athens as administrator Apostolic. Andros was likewise a Greek see; its episcopal list is in Lequien (I, s.v.). The Latin list is found there also (III, 859), in Gams (449), and more complete in Eubel (I, 89, II, 99). From 1702 the see was administered by a vicar-Apostolic dependent directly on Propaganda; and in 1824 it was confided to the Bishop of Tenos.
+
+Melos (Milo) is famous for the statue of Venus found there; it has thermal springs and solfataras, and there are ruins of the ancient city. The Greek episcopal list is in Lequien (I, 945). The Latin list is also in Lequien (III, 1055), and Gams (449); see also EUBEL (I, 355, II, 211). In 1700 the see was united with Naxos and in 1830 with Thera. The list of the Latin bishops of Keos (Cea, Zea) is in Lequien (III, 867), Gams (449), Eubel (I, 194, II, 143). Ios (Nio, Nea), according to tradition the site of Homer's death, had a series of Latin bishops (see Lequien, III, 1135, and Gams, 448). As to Mykonos (Micone) we know only that the see was united with Tenos as early as 1400. (See SYROS, TENOS, and THERA.)
+
+S. Pétridès.

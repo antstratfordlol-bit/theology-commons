@@ -1,0 +1,33 @@
+---
+title: "Priory of Anglesea"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "490-491"
+author: "Francis Aveling"
+signed: "Francis Aveling"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Priory_of_Anglesea"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.priory-of-anglesea} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Francesco Angiolini"
+next: "Anglican Orders"
+entry-type: "article"
+characters: 1401
+words: 244
+links: 0
+images: 0
+---
+
+# Priory of Anglesea {#cathen.priory-of-anglesea}
+
+**Anglesea,** The Priory of, Cambridgeshire, England, was founded in honour of the Blessed Virgin Mary and St. Nicholas for a community of Austin Canons, by Henry I. Dugdale was unable to find any charter of foundation; but a deed cited by him in an appendix, with regard to the rights of patronage and election ceded by Elizabeth de Burgh, Lady de Clare, to the canons in 1333, lends some support to the opinion of Leland and Speed that Richard de Clare was a founder, or at least a patron, of the house, as was also Edmund Mortimer, Earl of March, in the reign of Henry V. Information with regard to this priory is scanty. No register is known. The ruins are meagre. "There are some remains of Anglesea Priory in the back part of a mansion-house ", says Lysons, "which has been erected on its site, apparently not more ancient than the time of Queen Elizabeth; the most remarkable of these remains consist of a kind of undercroft, thirty-six feet by twenty-two, with a groined roof supported by clustered pillars, now divided into two rooms; and a row of arches supported by brackets against a wall on the outside of the building." The last prior was John Bonar, who had a pension of 20 pounds sterling a year granted to him at the surrender. In 26, Hen. VIII, the revenues were returned at £124 19s.
+
+Dugdale, *Monasticon Anglicanum;* Lysons, *Magna Britannia* (*Cambridgeshire*).
+
+Francis Aveling.

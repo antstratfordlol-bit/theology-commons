@@ -1,0 +1,33 @@
+---
+title: "Claude Ferdinand Gaillard"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Leigh Harrison Hunt"
+signed: "LEIGH HUNT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Claude_Ferdinand_Gaillard"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.claude-ferdinand-gaillard} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "William Gahan"
+next: "St. Gal"
+entry-type: "article"
+characters: 2722
+words: 464
+links: 0
+images: 0
+---
+
+# Claude Ferdinand Gaillard {#cathen.claude-ferdinand-gaillard}
+
+A French engraver and painter; b. at Paris, 7 Jan., 1834; d. there, 27 Jan., 1887. His early studies were probably with Hopwood and Lecouturier; but his chief master was Cogniet, with whom he began engraving in 1850. In this year, he entered the Ecole des Beaux-Arts. At first he had to engrave fashion-plates to make money enough to live, but his determined application to his art brought him the Prix de Rome for engraving, in 1856. At his first public showing in 1860, his prints were called laboured, soft, and flacid, more like dry-point etchings than burin work, and he was advised to adhere to the established rules of his art. Gaillard had already chosen a new method, and his work was a shock, because not done according to the formulae that trammelled engravers of that day. He was such an innovator that in 1863 he was among the "refusés", but in their exhibition his portrait of Bellini was hailed by Burty as the work of a master, "who engraved with religious care and showed a high classical talent". Gaillard's manner - the new manner - was to engrave with soft, delicate lines, drawn closely together but not crossing, and to render with vaporous delicacy every fold, wrinkle, or mark on the skin with Van Eyck-like care. Henceforth Gaillard was represented by engravings and paintings at every Salon. He is best known by his "L'Homme à l'Oeillet", which brought him only $100. This masterpiece was completed in eight days - the face in one.
+
+His admirable portraits of Piux IX and Leo XIII, broad in general effect although worked with microscopic zeal and realism, raised "the insubordinate scholar" to the rank of the most celebrated engraver of his day. Another great plate is the St. Sebastian modelled with delicate touches, and showing studied outline, delicate chiaroscuro, and a marvellous relief. "My aim" he said "is not to charm, but to be true; my art is to say all." His marvellous work led many to suspect he had some secret process or mysterious "tour de main", but it was his penetrating mind and observant eye that seized the soul beneath the human face. Gaillard was decorated in 1876, became officer of the "Légion d'Honneur" in 1886, and President of the Société des Graveurs au Burin in 1886. Just before his death the Government ordered him to engrave Leonardo da Vinci's "Last Supper" and "Mona Lisa". As a painter Gaillard was accurate, minute and conscientious; yet his small canvases are effective, exhibit great power of characterization, and are large in their "ensemble". He painted the human face as he engraved it - with the precision and exactitude of the early Flemings. His catalogued engravings number 80; his "Virgin" after Bellini deserves special mention.
+
+LEIGH HUNT

@@ -1,0 +1,33 @@
+---
+title: "St. Marcellina"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Johann Peter Kirsch"
+signed: "J.P. KIRSCH"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Marcellina"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-marcellina} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Pierre de Marca"
+next: "Pope St. Marcellinus"
+entry-type: "article"
+characters: 1744
+words: 286
+links: 0
+images: 0
+---
+
+# St. Marcellina {#cathen.st-marcellina}
+
+The only sister of St. Ambrose of Milan, b. about 330-5; d. about 398. She was older than St. Ambrose, and was born most probably at Trier, where her father resided as *praefectus praetorio Galliarum*. Even before her father's death she went to Rome, the home of her family, and, before her mother's arrival at the capital with her two sons, had already forsaken the world, elected to live a life of Christian virginity, and devoted herself to the practice of piety and asceticism. On Christmas Day, probably in 353, she received the veil of consecrated virginity from the hand of Pope Liberius. The advice, which the pope addressed to her on this occasion, has been preserved by St. Ambrose (De virginibus, III, i-iii), especially emphasized being the obligations of Christian virgins to preserve virginal purity. After Ambrose had become Bishop of Milan (374), he summoned his sister thither, and found in her a zealous assistant in fostering and extending the ascetic life among the maidens of Milan. To her Ambrose dedicated his work on viriginity, written in 377 ("Libri III de virginibus ad Marcellinam" in P.L. XVI, 187-232). Marcellina survived her brother, and died in 398 or shortly afterwards. She also was buried in the crypt under the altar of the Ambrosian Basilica, and was honoured as a saint. Her feast is celebrated on 17 July.
+
+Laudatio Marcellinae in MOMBRITIUS, SS., II, 95-7; Acta SS., IV, July, 231-8; BlRAGHI, Vita della vergine romana-milanese S. Marcellina, sorella di S. Ambrogio (4th ed., Milan. 1889), SEPTIMUS A LANDE ET ALANUS DE MACULANIS, Dissert. hist. de tumulo S. Marcellinae virg. sororis S. Ambrosii in eiusdem imperiali basilica humanae (Milan, 1725). see also bibliography to AMBROSE, SAINT.
+
+J.P. KIRSCH

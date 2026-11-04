@@ -1,0 +1,33 @@
+---
+title: "David Scotus"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Johann Peter Kirsch"
+signed: "J.P. KIRSCH"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/David_Scotus"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.david-scotus} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "David of Dinant"
+next: "Ven. William Davies"
+entry-type: "article"
+characters: 1628
+words: 268
+links: 0
+images: 0
+---
+
+# David Scotus {#cathen.david-scotus}
+
+A medieval Irish chronicler, date of birth unknown; d. 1139. Early in the twelfth century there was at Würzburg an ecclesiastic and teacher known as David. His surname Scotus shows that he very probably came from Ireland; perhaps from Wales, if he is identical with the homonymous Bishop of Bangor (see below). According to Ekkehard (Chronicon, ed., Mon. Germ. Hist.: Script., VI, 243), Emperor Henry V received him, was charmed with his virtue and knowledge, and made him one of the imperial chaplains. With other scholars David accompanied the king on his expedition to Italy in 1100, and was appointed royal historiographer for the occasion. His work in three books is now known only from excerpts of it in later historians, especially in Ekkehard (op. cit. above) and William of Malmesbury. The latter (Gesta regum Anglorum, in P. L., CLXXIX, 1375) says that David described the expedition with partiality for the king. A certain David was consecrated Bishop of Bangor in Wales, 4 April, 1120; according to Malmesbury (loc. cit.) he was none other than the chaplain, David Scotus. As bishop he took part in several English synods, and probably died in 1139, since his successor was then consecrated. But it is not easy to reconcile with the foregoing, the statement of a later historian (Trithemius, Annales Hirsaugienses, I, 349), that David became a monk under St. Macharius in the monastery of St. James in Würzburg, as this abbey was not founded until 1140.
+
+TOUT in *Dict. Nat. Biog., s. v.; FABRICIUS,* Bibliotheca Latina (FLORENCE, 1858), I, 433; HURTER, *Nomenclator*, (3rd ed. Innsbruck, 1906), II, 63.
+
+J.P. KIRSCH

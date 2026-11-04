@@ -1,0 +1,33 @@
+---
+title: "Sir William D'Avenant"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Kate Mary Warren"
+signed: "K. M. Warren"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Sir_William_D'Avenant"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.sir-william-davenant} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Georg Friedrich Daumer"
+next: "Christopher Davenport"
+entry-type: "article"
+characters: 2194
+words: 371
+links: 0
+images: 0
+---
+
+# Sir William D'Avenant {#cathen.sir-william-davenant}
+
+Poet and dramatist, b. Feb., 1605-6, at Oxford, England; d. in London, 7 April, 1668. He was the second son of John D'Avenant, a prosperous vintner and owner of an inn afterwards known as the Crown Tavern, where Shakespeare frequently stayed. The story which would make William D'Avenant the natural son of Shakespeare seems to have no real foundation, though he may have been the poet's godson. D'Avenant was educated at the grammar school of All Saints, Oxford, and went for a short time to Lincoln College. Then he became page to Frances, Duchess of Richmond, and was afterwards taken into the service of Fulke Greville, Lord Brooke. In 1628 he began writing plays and ten years later succeeded Ben Jonson as Poet Laureate. He took up warmly the side of the king in the Civil War, and was knighted by Charles I in 1643. After the king's defeat, in 1644, he took refuge in France where he became a Catholic. He was employed by Queen Henrietta Maria in her correspondence with the king in England, and was faithful to the royal cause to the end. More than once he was imprisoned and in danger of losing his life, but was finally released in 1651. In 1656 he was instrumental in reviving theatrical performances in England which had ceased since 1641. After the Restoration he was patronized by Charles II and continued, to the end of his life, to write and superintend the production of plays. His poetical work consists of the epic of "Gondibert" with other shorter poems (Chalmer, English Poets, London, 1810, vi), together with nearly thirty plays (Edinburgh, 1872-4, 5 vols., edited by Maidment and Logan). "Gondibert" is an unfinished poem in fifteen hundred heroic stanzas. Modern critics find it dull, but it has its place in English literature as marking a stage in the movement towards the so-called classical school of poetry which culminated in Dryden and Pope. D'Avenant's dramas do not rise much above mediocrity, but they are considered "exceptionally decorous and moral" for their time.
+
+LEE in *Dict. Nat. Biog*., s.v.; Prefatory Memoir to above edition of plays; DOWNES, *Roscius Anglicanus*, ed. KNIGHT (London, 1886); GILLOW, *Bibl. Dict. of Eng. Cath., s.v.*
+
+K. M. Warren.

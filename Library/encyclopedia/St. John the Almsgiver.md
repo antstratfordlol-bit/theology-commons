@@ -1,0 +1,41 @@
+---
+title: "St. John the Almsgiver"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "Charles Francis Wemyss Brown"
+signed: "C. F. Wemyss Brown"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._John_the_Almsgiver"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-john-the-almsgiver} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "John Talaia"
+next: "St. John the Baptist"
+entry-type: "article"
+characters: 3813
+words: 674
+links: 0
+images: 0
+---
+
+# St. John the Almsgiver {#cathen.st-john-the-almsgiver}
+
+(JOANNES ELEEMOSYNARIUS; JOANNES MISERICORS).
+
+Patriarch of Alexandria (606-16), b. at Amathus in Cyprus about 550; d. there, 616. He was the son of one Epiphanius, governor of Cyprus, and was of noble descent; in early life he was married and had children, but they and his wife soon died, whereupon he entered the religious life.
+
+On the death of the Patriarch Theodorus, the Alexandrians besought Emperor Phocas to appoint John his successor, which was accordingly done. In his youth John had had a vision of a beautiful maiden with a garland of olives on her head, who said that she was Compassion, the eldest daughter of the Great King. This had evidently made a deep impression on John's mind, and, now that he had the opportunity of exercising benevolence on a large scale, he soon became widely known all over the East for his munificent liberality towards the poor. One of the first steps he took was to make a list of several thousand needy persons, whom he took under his especial care. He always referred to the poor as his "lords and masters", because of their mighty influence at the Court of the Most High. He assisted people of every class who were in need. A shipwrecked merchant was thus helped three times, on the first two occasions apparently without doing him much good; the third time however, John fitted him out with a ship and a cargo of wheat, and by favourable winds he was taken as far as Britain, where, as there was a shortage of wheat, he obtained his own price. Another person, who was not really in need, applied for alms and was detected by the officers of the palace; but John merely said "Give unto him; he may be Our Lord in disguise." He visited the hospitals three times every week, and he freed a great many slaves. He was a reformer who attacked simony, and fought heresy by means of improvements in religious education. He also reorganized the system of weights and measures for the sake of the poor, and put a stop to corruption among the officials. He increased the number of churches in Alexandria from seven to seventy.
+
+John is said to have devoted the entire revenues of his see to the alleviation of those in need. A rich man presented him with a magnificent bed covering; he accepted it for one night, but then sold it, and disposed of the money in alms. The rich man "bought in" the article, and again presented it to John, with the same result. This was repeated several times; but John drily remarked: "We will see who tires first." It was not John. Another instance of his piety was that he caused his own grave to be dug, but only partly so, and appointed a servant to come before him on all state occasions and say "My Lord, your tomb is unfinished; pray give orders for its completion, for you know not the hour when death may seize you." When the Persians sacked Jerusalem in 614, John sent large supplies of food, wine, and money to the fleeing Christians. But eventually the Persians occupied Alexandria, and John himself in his old age was forced to flee to his native country, where he died.
+
+His body was brought to Constantinople, thence to Ofen by King Matthias Corvinus of Hungary; thence in 1530 to Toll near Presburg, and finally in 1632 to Presburg cathedral. He was the original patron saint of the Hospitallers, and was commemorated by the Greeks on 12 Nov. His life, written by Leontius of Neapolis, in Cyprus, was translated into Latin by Anastasius the Librarian in the ninth century and was referred to at the Seventh General Council.
+
+SCHR=99DL in Kirchenlex., s.v. Johannes, der Almosengeber; BUTLER, Lives of the Saints; Acta SS., II Jan., 495 sqq.; DAVIDSON in Dict. Christ. Biog., s.v. Joannes (15); MIGNE, P.G., XCIII, CXVII; LEQUIEN, Oriens Christ., II, 445; PALAFOX Y MENDOZA, Vida de S. Juan (Madrid, 1762).
+
+C. F. Wemyss Brown.

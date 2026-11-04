@@ -1,0 +1,33 @@
+---
+title: "August Roskoványi"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Antal Aldásy"
+signed: "A. ALDASY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/August_Roskoványi"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.august-roskovanyi} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Rosicrucians"
+next: "Rosmini and Rosminianism"
+entry-type: "article"
+characters: 1962
+words: 306
+links: 0
+images: 0
+---
+
+# August Roskoványi {#cathen.august-roskovanyi}
+
+Bishop of Neutra in Hungary, doctor of philosophy and theology, b. at Szenna in the County of Ung, Hungary, 7 December, 1807; d. 24 February, 1892. He took his gymnasial course in the college of the Piarists at Kis-Szeben from 1817-22, studied philosophy at Eger, 1822-24, theology in the seminary for priests at Pesth, and completed his training at the Augustineum at Vienna. After his ordination to the priesthood in 1831 he was for a short time engaged in pastoral duties, then went to the seminary at Eger as prefect of studies, became vice-rector of the seminary, and in 1841 rector. In 1836 he was made a cathedral canon of Eger, in 1839 received the Abbey of Saár, in 1847 became auxiliary bishop, in 1850 capitular vicar, in 1851 Bishop of Waitzen, and in 1859 Bishop of Neutra. Roskoványi was also made a Roman count, prelate, and assistant at the papal throne. His charity is shown by the foundations he established, valued at several hundred thousand gulden. He was distinguished as an ecclesiastical writer. Among his works, all of which are in Latin, should be mentioned: "De primatu Romani Pontificis ejusque juribus" (Augsburg, 1839; 2nd ed., Agram, 1841); "De matrimoniis mixtis" (5 vols., Fünfkirchen, 1842; Pesth, 1854, 1870 1); "De matrimoniis in ecclesia catholica" (2 vols., Augsburg, 1837-40); "Monumenta catholica pro independentia potestatis ecclesiasticae ab imperio civili" (14 vols. Funfkirchen, 1847; Pesth, 1856, 1865, 1870-71); "Coelibatus et breviarium, duo gravissima clericorum officia", etc. (7 vols., Pesth, 1867, 1875); "Romanus Pontifex tamquam primas ecclesiae", etc. (16 vols., Neutra and Comaromii, 1867, 1878); "Beata Virgo Maria in suo conceptu immaculata" (12 vols., Budapest, 1873-4; Neutra 1877).
+
+VAGNER, Adatok a nyitrai varosi plebaniak tortenetehez (Neutra, 1902), written in Hungarian; also in Hungarian, SZINNYEI, Magyar Irok, XI, giving a complete list of Roskoványi's works and a full bibliography.
+
+A. ALDASY

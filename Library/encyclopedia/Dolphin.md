@@ -1,0 +1,33 @@
+---
+title: "Dolphin"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "5"
+pages: "unknown"
+author: "Arthur Stapylton Barnes"
+signed: "ARTHUR S. BARNES"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Dolphin"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.dolphin} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Dolores Mission"
+next: "Dome"
+entry-type: "article"
+characters: 1196
+words: 199
+links: 0
+images: 0
+---
+
+# Dolphin {#cathen.dolphin}
+
+(Lat. *delphinus*).
+
+The use of the dolphin as a Christian symbol is connected with the general ideas underlying the more general use of the fish. The particular idea is that of swiftness and celerity symbolizing the desire with which Christians, who are thus represented as being sharers in the nature of Christ the true Fish, should seek after the knowledge of Christ. Hence the representation is generally of two dolphins tending towards the sacred monogram or some other emblem of Christ. In other cases the particular idea is that of love and tenderness. Aringhi (Roma Subterr., II, 327) gives an example of a dolphin with a heart, and other instances have some such motto as PIGNUS AMORIS HABES (i.e. thou hast a pledge of love). It is sometimes used as an emblem of merely conjugal love on funeral monuments. With an anchor the dolphin occurs frequently on early Christian rings, representing the attachment of the Christian to Christ crucified. Speaking generally, the dolphin is the symbol of the individual Christian, rather than of Christ Himself, though in some instances the dolphin with the anchor seems to be intended as a representation of Christ upon the Cross.
+
+ARTHUR S. BARNES

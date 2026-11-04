@@ -1,0 +1,422 @@
+src_anchor	decode_target_work	label	reason
+hcd.adviento.3	CV2	78	no work named in the prose before the label (CV2)
+hcd.adviento.4	JP2	13	no work named in the prose before the label (JP2)
+hcd.adviento.5	CV2	41	no work named in the prose before the label (CV2)
+hcd.adviento.5	CV2	3	no work named in the prose before the label (CV2)
+hcd.adviento.5	SanJosemaria	Amigos de Dios	the label is neither a number nor a Scripture reference
+hcd.adviento.6	SanJosemaria	Amigos de Dios	the label is neither a number nor a Scripture reference
+hcd.adviento.7	CV2	6	no work named in the prose before the label (CV2)
+hcd.adviento.10	JP2	20	no work named in the prose before the label (JP2)
+hcd.adviento.10	JP2	20	no work named in the prose before the label (JP2)
+hcd.adviento.10	JP2	2	no work named in the prose before the label (JP2)
+hcd.adviento.11	CV2	11	no work named in the prose before the label (CV2)
+hcd.adviento.16	SanJosemaria	164	no work named in the prose before the label (SanJosemaria)
+hcd.adviento.17	CV2	10	no work named in the prose before the label (CV2)
+hcd.adviento.20	CV2	48	no work named in the prose before the label (CV2)
+hcd.adviento.20	CV2	18	sth.18 is not an anchor in any database
+hcd.adviento.21	CV2	55	no work named in the prose before the label (CV2)
+hcd.adviento.21	CV2	68	no work named in the prose before the label (CV2)
+hcd.adviento.23	JP2	16	no work named in the prose before the label (JP2)
+hcd.adviento.23	SanJosemaria	188	no work named in the prose before the label (SanJosemaria)
+hcd.adviento.23	SanJosemaria	185	no work named in the prose before the label (SanJosemaria)
+hcd.adviento.23	SanJosemaria	189	no work named in the prose before the label (SanJosemaria)
+hcd.adviento.25	SanJosemaria	174	no work named in the prose before the label (SanJosemaria)
+hcd.adviento.26	SanJosemaria	Camino	the label is neither a number nor a Scripture reference
+hcd.adviento.28	CV2	7	no work named in the prose before the label (CV2)
+hcd.adviento.28	SanJosemaria	Conversaciones	the label is neither a number nor a Scripture reference
+hcd.adviento.28	CV2	42	no work named in the prose before the label (CV2)
+hcd.adviento.31	JP2	60	no work named in the prose before the label (JP2)
+hcd.adviento.31	CV2	52	no work named in the prose before the label (CV2)
+hcd.adviento.31	JP2	86	no work named in the prose before the label (JP2)
+hcd.adviento.35	JP2	12	no work named in the prose before the label (JP2)
+hcd.adviento.36	SanJosemaria	150	no work named in the prose before the label (SanJosemaria)
+hcd.adviento.37	CV2	Sacrosanctum concilium	the label is neither a number nor a Scripture reference
+hcd.adviento.37	CV2	2	no work named in the prose before the label (CV2)
+hcd.adviento.38	CV2	63	no work named in the prose before the label (CV2)
+hcd.adviento.39	CV2	Sacrosanctum concilium	the label is neither a number nor a Scripture reference
+hcd.adviento.39	CV2	3	no work named in the prose before the label (CV2)
+hcd.adviento.40	CV2	45	no work named in the prose before the label (CV2)
+hcd.adviento.41	CV2	58	no work named in the prose before the label (CV2)
+hcd.adviento.42	SanJosemaria	541	no work named in the prose before the label (SanJosemaria)
+hcd.adviento.42	SanJosemaria	47	no work named in the prose before the label (SanJosemaria)
+hcd.adviento.42	SanJosemaria	932	no work named in the prose before the label (SanJosemaria)
+hcd.adviento.43	SanJosemaria	33	no work named in the prose before the label (SanJosemaria)
+hcd.adviento.43	SanJosemaria	34	no work named in the prose before the label (SanJosemaria)
+hcd.adviento.44	SanJosemaria	38	no work named in the prose before the label (SanJosemaria)
+hcd.adviento.46	JP2	27	no work named in the prose before the label (JP2)
+hcd.adviento.46	CV2	41	no work named in the prose before the label (CV2)
+hcd.adviento.46	CV2	67	no work named in the prose before the label (CV2)
+hcd.adviento.46	SanJosemaria	Conversaciones	the label is neither a number nor a Scripture reference
+hcd.adviento.49	CV2	14	no work named in the prose before the label (CV2)
+hcd.adviento.50	CV2	13	no work named in the prose before the label (CV2)
+hcd.adviento.51	CV2	11	no work named in the prose before the label (CV2)
+hcd.adviento.51	CV2	42	no work named in the prose before the label (CV2)
+hcd.cuaresma.1	CV2	109	no work named in the prose before the label (CV2)
+hcd.cuaresma.4	JP2	2	no work named in the prose before the label (JP2)
+hcd.cuaresma.6	CV2	37	no work named in the prose before the label (CV2)
+hcd.cuaresma.6	CV2	6	no work named in the prose before the label (CV2)
+hcd.cuaresma.8	JP2	31	no work named in the prose before the label (JP2)
+hcd.cuaresma.10	JP2	16	no work named in the prose before the label (JP2)
+hcd.cuaresma.10	STh	5	sth.5 is not an anchor in any database
+hcd.cuaresma.11	CV2	11	no work named in the prose before the label (CV2)
+hcd.cuaresma.11	CV2	40	no work named in the prose before the label (CV2)
+hcd.cuaresma.18	JP2	5	no work named in the prose before the label (JP2)
+hcd.cuaresma.19	SanJosemaria	211	no work named in the prose before the label (SanJosemaria)
+hcd.cuaresma.30	CV2	48	no work named in the prose before the label (CV2)
+hcd.cuaresma.32	CV2	2	no work named in the prose before the label (CV2)
+hcd.cuaresma.33	CV2	75	no work named in the prose before the label (CV2)
+hcd.cuaresma.34	JP2	2	no work named in the prose before the label (JP2)
+hcd.cuaresma.36	JP2	31	no work named in the prose before the label (JP2)
+hcd.cuaresma.40	CV2	22	no work named in the prose before the label (CV2)
+hcd.cuaresma.44	CV2	38	no work named in the prose before the label (CV2)
+hcd.cuaresma.45	CV2	3	no work named in the prose before the label (CV2)
+hcd.cuaresma.45	CV2	58	no work named in the prose before the label (CV2)
+hcd.cuaresma.46	CV2	3	no work named in the prose before the label (CV2)
+hcd.cuaresma.49	CV2	7	no work named in the prose before the label (CV2)
+hcd.cuaresma.53	CV2	2	no work named in the prose before the label (CV2)
+hcd.cuaresma.53	CV2	19	no work named in the prose before the label (CV2)
+hcd.cuaresma.54	CV2	4	no work named in the prose before the label (CV2)
+hcd.cuaresma.59	CV2	4	sth.4 is not an anchor in any database
+hcd.cuaresma.61	CV2	106	no work named in the prose before the label (CV2)
+hcd.cuaresma.63	CV2	93	no work named in the prose before the label (CV2)
+hcd.cuaresma.66	CV2	3	sth.3 is not an anchor in any database
+hcd.cuaresma.68	CV2	18	no work named in the prose before the label (CV2)
+hcd.cuaresma.75	CV2	8	no work named in the prose before the label (CV2)
+hcd.cuaresma.76	CV2	9	no work named in the prose before the label (CV2)
+hcd.cuaresma.79	CV2	34	no work named in the prose before the label (CV2)
+hcd.cuaresma.81	CV2	67	no work named in the prose before the label (CV2)
+hcd.cuaresma.83	JP2	4-III-1979	the label is neither a number nor a Scripture reference
+hcd.cuaresma.84	CV2	66	no work named in the prose before the label (CV2)
+hcd.cuaresma.84	CV2	69	no work named in the prose before the label (CV2)
+hcd.cuaresma.85	CV2	2	no work named in the prose before the label (CV2)
+hcd.cuaresma.87	CV2	4	no work named in the prose before the label (CV2)
+hcd.cuaresma.87	CV2	5	no work named in the prose before the label (CV2)
+hcd.cuaresma.91	CV2	21	no work named in the prose before the label (CV2)
+hcd.cuaresma.96	CV2	4	no work named in the prose before the label (CV2)
+hcd.ordinario1.1	SanJosemaria	Es Cristo que pasa	the label is neither a number nor a Scripture reference
+hcd.ordinario1.1	SanJosemaria	Surco	the label is neither a number nor a Scripture reference
+hcd.ordinario1.2	SanJosemaria	Amigos de Dios	the label is neither a number nor a Scripture reference
+hcd.ordinario1.3	CV2	14	no work named in the prose before the label (CV2)
+hcd.ordinario1.9	CV2	58	no work named in the prose before the label (CV2)
+hcd.ordinario1.9	JP2	20	no work named in the prose before the label (JP2)
+hcd.ordinario1.10	CV2	4	no work named in the prose before the label (CV2)
+hcd.ordinario1.11	CV2	26	no work named in the prose before the label (CV2)
+hcd.ordinario1.11	JP2	15	no work named in the prose before the label (JP2)
+hcd.ordinario1.11	CV2	64	no work named in the prose before the label (CV2)
+hcd.ordinario1.13	JP2	50	no work named in the prose before the label (JP2)
+hcd.ordinario1.14	CV2	40	no work named in the prose before the label (CV2)
+hcd.ordinario1.17	CV2	42	no work named in the prose before the label (CV2)
+hcd.ordinario1.20	JP2	20	no work named in the prose before the label (JP2)
+hcd.ordinario1.27	SanJosemaria	287	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario1.28	CV2	41	no work named in the prose before the label (CV2)
+hcd.ordinario1.28	CV2	63	no work named in the prose before the label (CV2)
+hcd.ordinario1.29	CV2	9	no work named in the prose before the label (CV2)
+hcd.ordinario1.30	CV2	32	no work named in the prose before the label (CV2)
+hcd.ordinario1.30	JP2	Laborem Exercens	the label is neither a number nor a Scripture reference
+hcd.ordinario1.31	CV2	8	no work named in the prose before the label (CV2)
+hcd.ordinario1.31	CV2	73	no work named in the prose before the label (CV2)
+hcd.ordinario1.33	CV2	61	no work named in the prose before the label (CV2)
+hcd.ordinario1.35	CV2	6	no work named in the prose before the label (CV2)
+hcd.ordinario1.36	CV2	11	no work named in the prose before the label (CV2)
+hcd.ordinario1.37	CV2	12	no work named in the prose before the label (CV2)
+hcd.ordinario1.37	CV2	25	no work named in the prose before the label (CV2)
+hcd.ordinario1.38	CV2	48	no work named in the prose before the label (CV2)
+hcd.ordinario1.39	JP2	Laborem exercens	the label is neither a number nor a Scripture reference
+hcd.ordinario1.39	JP2	1,	the label is neither a number nor a Scripture reference
+hcd.ordinario1.39	CV2	43	no work named in the prose before the label (CV2)
+hcd.ordinario1.42	JP2	8	no work named in the prose before the label (JP2)
+hcd.ordinario1.42	CV2	62	no work named in the prose before the label (CV2)
+hcd.ordinario1.43	CV2	7	no work named in the prose before the label (CV2)
+hcd.ordinario1.47	CV2	13	no work named in the prose before the label (CV2)
+hcd.ordinario1.49	CV2	10	no work named in the prose before the label (CV2)
+hcd.ordinario1.49	CV2	48	no work named in the prose before the label (CV2)
+hcd.ordinario1.50	JP2	13	no work named in the prose before the label (JP2)
+hcd.ordinario1.51	SanJosemaria	222	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario1.51	SanJosemaria	481	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario1.52	CV2	28	no work named in the prose before the label (CV2)
+hcd.ordinario1.53	CV2	16	no work named in the prose before the label (CV2)
+hcd.ordinario1.54	CV2	122	sth.122 is not an anchor in any database
+hcd.ordinario1.56	JP2	46	no work named in the prose before the label (JP2)
+hcd.ordinario1.57	CV2	16	no work named in the prose before the label (CV2)
+hcd.ordinario1.58	CV2	48	no work named in the prose before the label (CV2)
+hcd.ordinario1.58	JP2	26	no work named in the prose before the label (JP2)
+hcd.ordinario1.66	JP2	21.	the label is neither a number nor a Scripture reference
+hcd.ordinario1.69	CV2	3	no work named in the prose before the label (CV2)
+hcd.ordinario1.69	CV2	13	no work named in the prose before the label (CV2)
+hcd.ordinario1.70	SanJosemaria	42	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario1.71	CV2	106	no work named in the prose before the label (CV2)
+hcd.ordinario1.72	CV2	50	sth.50 is not an anchor in any database
+hcd.ordinario1.73	CV2	10	no work named in the prose before the label (CV2)
+hcd.ordinario1.74	CV2	76	no work named in the prose before the label (CV2)
+hcd.ordinario1.74	CV2	36	no work named in the prose before the label (CV2)
+hcd.ordinario1.74	SanJosemaria	322	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario1.75	CV2	14	no work named in the prose before the label (CV2)
+hcd.ordinario1.76	CV2	7	no work named in the prose before the label (CV2)
+hcd.ordinario1.78	SanJosemaria	814	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario1.80	CV2	2	sth.2 is not an anchor in any database
+hcd.ordinario1.80	Codigo	1	sth.1 is not an anchor in any database
+hcd.ordinario1.80	Codigo	1	sth.1 is not an anchor in any database
+hcd.ordinario1.80	Codigo	2	sth.2 is not an anchor in any database
+hcd.ordinario1.80	CV2	13	no work named in the prose before the label (CV2)
+hcd.ordinario1.81	SanJosemaria	111	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario1.81	JP2	37	no work named in the prose before the label (JP2)
+hcd.ordinario1.82	JP2	2	sth.2 is not an anchor in any database
+hcd.ordinario1.84	CV2	13	no work named in the prose before the label (CV2)
+hcd.ordinario1.84	CV2	8	no work named in the prose before the label (CV2)
+hcd.ordinario1.84	CV2	14	no work named in the prose before the label (CV2)
+hcd.ordinario1.84	CV2	16	no work named in the prose before the label (CV2)
+hcd.ordinario1.86	SanJosemaria	Conversaciones	the label is neither a number nor a Scripture reference
+hcd.ordinario1.91	CV2	40	no work named in the prose before the label (CV2)
+hcd.ordinario1.92	CV2	39	no work named in the prose before the label (CV2)
+hcd.ordinario1.99	JP2	31	no work named in the prose before the label (JP2)
+hcd.ordinario1.101	CV2	45	no work named in the prose before the label (CV2)
+hcd.ordinario1.103	CV2	34	no work named in the prose before the label (CV2)
+hcd.ordinario1.103	CV2	11	no work named in the prose before the label (CV2)
+hcd.ordinario1.103	CV2	48	sth.48 is not an anchor in any database
+hcd.ordinario13.1	SanJosemaria	Forja	the label is neither a number nor a Scripture reference
+hcd.ordinario13.4	JP2	10	sth.10 is not an anchor in any database
+hcd.ordinario13.6	JP2	14	no work named in the prose before the label (JP2)
+hcd.ordinario13.14	JP2	52	no work named in the prose before the label (JP2)
+hcd.ordinario13.14	SanJosemaria	234	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.16	CV2	3	no work named in the prose before the label (CV2)
+hcd.ordinario13.16	CV2	2	no work named in the prose before the label (CV2)
+hcd.ordinario13.16	JP2	38	no work named in the prose before the label (JP2)
+hcd.ordinario13.18	SanJosemaria	337	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.20	CV2	10	no work named in the prose before the label (CV2)
+hcd.ordinario13.20	CV2	12	no work named in the prose before the label (CV2)
+hcd.ordinario13.21	CV2	88	no work named in the prose before the label (CV2)
+hcd.ordinario13.21	CV2	38	no work named in the prose before the label (CV2)
+hcd.ordinario13.22	JP2	16	no work named in the prose before the label (JP2)
+hcd.ordinario13.27	JP2	9	no work named in the prose before the label (JP2)
+hcd.ordinario13.29	SanJosemaria	514	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.29	CV2	61	no work named in the prose before the label (CV2)
+hcd.ordinario13.32	JP2	20	no work named in the prose before the label (JP2)
+hcd.ordinario13.32	CV2	58	no work named in the prose before the label (CV2)
+hcd.ordinario13.34	JP2	16	no work named in the prose before the label (JP2)
+hcd.ordinario13.35	JP2	37	no work named in the prose before the label (JP2)
+hcd.ordinario13.36	CV2	48	no work named in the prose before the label (CV2)
+hcd.ordinario13.37	CV2	8	no work named in the prose before the label (CV2)
+hcd.ordinario13.37	CV2	39	no work named in the prose before the label (CV2)
+hcd.ordinario13.41	CV2	2	sth.2 is not an anchor in any database
+hcd.ordinario13.46	SanJosemaria	304	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.46	SanJosemaria	828	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.47	CV2	5	no work named in the prose before the label (CV2)
+hcd.ordinario13.47	SanJosemaria	832	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.53	SanJosemaria	815	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.53	SanJosemaria	252	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.53	SanJosemaria	253	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.56	Codigo	921	sth.921 is not an anchor in any database
+hcd.ordinario13.57	CV2	48	no work named in the prose before the label (CV2)
+hcd.ordinario13.58	CV2	42	no work named in the prose before the label (CV2)
+hcd.ordinario13.60	CV2	7	no work named in the prose before the label (CV2)
+hcd.ordinario13.61	SanJosemaria	609	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.62	CV2	11	no work named in the prose before the label (CV2)
+hcd.ordinario13.62	JP2	16	no work named in the prose before the label (JP2)
+hcd.ordinario13.66	SanJosemaria	801.	the label is neither a number nor a Scripture reference
+hcd.ordinario13.72	CV2	6	no work named in the prose before the label (CV2)
+hcd.ordinario13.73	SanJosemaria	135	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.73	SanJosemaria	134	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.73	CV2	25	no work named in the prose before the label (CV2)
+hcd.ordinario13.74	SanJosemaria	38	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.75	CV2	13	no work named in the prose before the label (CV2)
+hcd.ordinario13.75	CV2	3	no work named in the prose before the label (CV2)
+hcd.ordinario13.77	JP2	34	no work named in the prose before the label (JP2)
+hcd.ordinario13.78	JP2	1	no work named in the prose before the label (JP2)
+hcd.ordinario13.78	JP2	9	no work named in the prose before the label (JP2)
+hcd.ordinario13.78	CV2	34	no work named in the prose before the label (CV2)
+hcd.ordinario13.80	SanJosemaria	41	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.82	CV2	22	no work named in the prose before the label (CV2)
+hcd.ordinario13.83	CV2	1	no work named in the prose before the label (CV2)
+hcd.ordinario13.83	JP2	16	no work named in the prose before the label (JP2)
+hcd.ordinario13.85	JP2	3	no work named in the prose before the label (JP2)
+hcd.ordinario13.86	JP2	9	no work named in the prose before the label (JP2)
+hcd.ordinario13.87	JP2	33	no work named in the prose before the label (JP2)
+hcd.ordinario13.91	JP2	59	no work named in the prose before the label (JP2)
+hcd.ordinario13.91	SanJosemaria	Conversaciones	the label is neither a number nor a Scripture reference
+hcd.ordinario13.92	JP2	13	no work named in the prose before the label (JP2)
+hcd.ordinario13.96	SanJosemaria	227	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario13.99	JP2	8	sth.8 is not an anchor in any database
+hcd.ordinario13.99	CV2	53	no work named in the prose before the label (CV2)
+hcd.ordinario24.1	JP2	13	no work named in the prose before the label (JP2)
+hcd.ordinario24.3	JP2	6	no work named in the prose before the label (JP2)
+hcd.ordinario24.3	CV2	36	no work named in the prose before the label (CV2)
+hcd.ordinario24.4	SanJosemaria	822.	the label is neither a number nor a Scripture reference
+hcd.ordinario24.5	JP2	2	sth.2 is not an anchor in any database
+hcd.ordinario24.5	JP2	7	sth.7 is not an anchor in any database
+hcd.ordinario24.5	JP2	13	no work named in the prose before the label (JP2)
+hcd.ordinario24.6	SanJosemaria	Surco	the label is neither a number nor a Scripture reference
+hcd.ordinario24.8	JP2	16	no work named in the prose before the label (JP2)
+hcd.ordinario24.8	CV2	36	no work named in the prose before the label (CV2)
+hcd.ordinario24.8	CV2	24	no work named in the prose before the label (CV2)
+hcd.ordinario24.10	JP2	3	viacrucis.3 is not an anchor in any database
+hcd.ordinario24.10	CV2	12	no work named in the prose before the label (CV2)
+hcd.ordinario24.10	CV2	Gaudium et spes	the label is neither a number nor a Scripture reference
+hcd.ordinario24.11	SanJosemaria	530	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario24.11	CV2	36	no work named in the prose before the label (CV2)
+hcd.ordinario24.12	JP2	34	no work named in the prose before the label (JP2)
+hcd.ordinario24.13	CV2	33	no work named in the prose before the label (CV2)
+hcd.ordinario24.13	CV2	36	no work named in the prose before the label (CV2)
+hcd.ordinario24.13	CV2	43	no work named in the prose before the label (CV2)
+hcd.ordinario24.14	JP2	14.	the label is neither a number nor a Scripture reference
+hcd.ordinario24.14	CV2	58	no work named in the prose before the label (CV2)
+hcd.ordinario24.17	CV2	41	no work named in the prose before the label (CV2)
+hcd.ordinario24.18	CV2	60	sth.60 is not an anchor in any database
+hcd.ordinario24.18	JP2	38	no work named in the prose before the label (JP2)
+hcd.ordinario24.19	CV2	3	no work named in the prose before the label (CV2)
+hcd.ordinario24.20	JP2	30	no work named in the prose before the label (JP2)
+hcd.ordinario24.20	CV2	13	no work named in the prose before the label (CV2)
+hcd.ordinario24.24	CV2	63	no work named in the prose before the label (CV2)
+hcd.ordinario24.24	SanJosemaria	524	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario24.25	JP2	34	no work named in the prose before the label (JP2)
+hcd.ordinario24.29	JP2	20	no work named in the prose before the label (JP2)
+hcd.ordinario24.29	JP2	3	no work named in the prose before the label (JP2)
+hcd.ordinario24.29	CV2	50	no work named in the prose before the label (CV2)
+hcd.ordinario24.30	CV2	4	no work named in the prose before the label (CV2)
+hcd.ordinario24.32	JP2	59	no work named in the prose before the label (JP2)
+hcd.ordinario24.34	CV2	3	no work named in the prose before the label (CV2)
+hcd.ordinario24.36	CV2	58	no work named in the prose before the label (CV2)
+hcd.ordinario24.36	CV2	65	no work named in the prose before the label (CV2)
+hcd.ordinario24.36	CV2	67	no work named in the prose before the label (CV2)
+hcd.ordinario24.37	SanJosemaria	13	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario24.41	CV2	13	sth.13 is not an anchor in any database
+hcd.ordinario24.43	JP2	58	no work named in the prose before the label (JP2)
+hcd.ordinario24.45	JP2	46	no work named in the prose before the label (JP2)
+hcd.ordinario24.46	CV2	75	no work named in the prose before the label (CV2)
+hcd.ordinario24.46	CV2	11	no work named in the prose before the label (CV2)
+hcd.ordinario24.46	CV2	13	no work named in the prose before the label (CV2)
+hcd.ordinario24.47	JP2	21	no work named in the prose before the label (JP2)
+hcd.ordinario24.49	CV2	42	no work named in the prose before the label (CV2)
+hcd.ordinario24.52	CV2	34	no work named in the prose before the label (CV2)
+hcd.ordinario24.60	SanJosemaria	609	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario24.64	JP2	9	sth.9 is not an anchor in any database
+hcd.ordinario24.64	CV2	28.	the label is neither a number nor a Scripture reference
+hcd.ordinario24.68	JP2	12	no work named in the prose before the label (JP2)
+hcd.ordinario24.69	SanJosemaria	258	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario24.71	CV2	50	no work named in the prose before the label (CV2)
+hcd.ordinario24.71	CV2	13	no work named in the prose before the label (CV2)
+hcd.ordinario24.71	JP2	16	no work named in the prose before the label (JP2)
+hcd.ordinario24.75	JP2	13	no work named in the prose before the label (JP2)
+hcd.ordinario24.80	CV2	39	no work named in the prose before the label (CV2)
+hcd.ordinario24.81	JP2	2	sth.2 is not an anchor in any database
+hcd.ordinario24.81	CV2	58	no work named in the prose before the label (CV2)
+hcd.ordinario24.84	CV2	43	no work named in the prose before the label (CV2)
+hcd.ordinario24.89	SanJosemaria	587	no work named in the prose before the label (SanJosemaria)
+hcd.ordinario24.93	CV2	13	no work named in the prose before the label (CV2)
+hcd.ordinario24.96	CV2	15	no work named in the prose before the label (CV2)
+hcd.ordinario24.96	CV2	2	no work named in the prose before the label (CV2)
+hcd.fiestas1.1	CV2	53	no work named in the prose before the label (CV2)
+hcd.fiestas1.2	SanJosemaria	Es Cristo que pasa	the label is neither a number nor a Scripture reference
+hcd.fiestas1.3	CV2	6	no work named in the prose before the label (CV2)
+hcd.fiestas1.4	CV2	8	no work named in the prose before the label (CV2)
+hcd.fiestas1.4	CV2	1	no work named in the prose before the label (CV2)
+hcd.fiestas1.4	CV2	1	no work named in the prose before the label (CV2)
+hcd.fiestas1.4	CV2	15	no work named in the prose before the label (CV2)
+hcd.fiestas1.4	CV2	24	no work named in the prose before the label (CV2)
+hcd.fiestas1.5	SanJosemaria	Surco	the label is neither a number nor a Scripture reference
+hcd.fiestas1.6	CV2	4	no work named in the prose before the label (CV2)
+hcd.fiestas1.6	CV2	11	no work named in the prose before the label (CV2)
+hcd.fiestas1.7	CV2	23	no work named in the prose before the label (CV2)
+hcd.fiestas1.7	CV2	21	no work named in the prose before the label (CV2)
+hcd.fiestas1.8	CV2	9	no work named in the prose before the label (CV2)
+hcd.fiestas1.8	CV2	11	no work named in the prose before the label (CV2)
+hcd.fiestas1.8	CV2	5	no work named in the prose before the label (CV2)
+hcd.fiestas1.9	JP2	14	no work named in the prose before the label (JP2)
+hcd.fiestas1.9	JP2	5	no work named in the prose before the label (JP2)
+hcd.fiestas1.10	CV2	58	no work named in the prose before the label (CV2)
+hcd.fiestas1.13	JP2	61	no work named in the prose before the label (JP2)
+hcd.fiestas1.14	CV2	16	no work named in the prose before the label (CV2)
+hcd.fiestas1.19	SanJosemaria	520.	the label is neither a number nor a Scripture reference
+hcd.fiestas1.21	JP2	2	no work named in the prose before the label (JP2)
+hcd.fiestas1.22	JP2	16.	the label is neither a number nor a Scripture reference
+hcd.fiestas1.26	CV2	49	no work named in the prose before the label (CV2)
+hcd.fiestas1.28	CV2	22	no work named in the prose before the label (CV2)
+hcd.fiestas1.28	JP2	11	no work named in the prose before the label (JP2)
+hcd.fiestas1.29	CV2	56	no work named in the prose before the label (CV2)
+hcd.fiestas1.31	CV2	62	no work named in the prose before the label (CV2)
+hcd.fiestas1.33	CV2	67	no work named in the prose before the label (CV2)
+hcd.fiestas1.34	CV2	4	no work named in the prose before the label (CV2)
+hcd.fiestas1.36	SanJosemaria	Conversaciones	the label is neither a number nor a Scripture reference
+hcd.fiestas1.37	CV2	66	no work named in the prose before the label (CV2)
+hcd.fiestas1.38	CV2	3	sth.3 is not an anchor in any database
+hcd.fiestas1.38	CV2	7	sth.7 is not an anchor in any database
+hcd.fiestas1.41	SanJosemaria	156	no work named in the prose before the label (SanJosemaria)
+hcd.fiestas1.43	CV2	7	no work named in the prose before the label (CV2)
+hcd.fiestas1.46	CV2	47	no work named in the prose before the label (CV2)
+hcd.fiestas1.48	CV2	47	no work named in the prose before the label (CV2)
+hcd.fiestas1.49	CV2	22	no work named in the prose before the label (CV2)
+hcd.fiestas1.51	CV2	53	no work named in the prose before the label (CV2)
+hcd.fiestas2.2	JP2	86	no work named in the prose before the label (JP2)
+hcd.fiestas2.2	JP2	82	no work named in the prose before the label (JP2)
+hcd.fiestas2.2	JP2	2-VI-1985	the label is neither a number nor a Scripture reference
+hcd.fiestas2.3	CV2	62	no work named in the prose before the label (CV2)
+hcd.fiestas2.9	CV2	60	sth.60 is not an anchor in any database
+hcd.fiestas2.9	JP2	40	no work named in the prose before the label (JP2)
+hcd.fiestas2.10	CV2	2	no work named in the prose before the label (CV2)
+hcd.fiestas2.10	JP2	23	no work named in the prose before the label (JP2)
+hcd.fiestas2.11	JP2	n. 4	the label is neither a number nor a Scripture reference
+hcd.fiestas2.11	CV2	56	no work named in the prose before the label (CV2)
+hcd.fiestas2.13	CV2	67	no work named in the prose before the label (CV2)
+hcd.fiestas2.13	SanJosemaria	475.	the label is neither a number nor a Scripture reference
+hcd.fiestas2.14	CV2	62	no work named in the prose before the label (CV2)
+hcd.fiestas2.15	CV2	68	no work named in the prose before the label (CV2)
+hcd.fiestas2.15	JP2	41	no work named in the prose before the label (JP2)
+hcd.fiestas2.16	JP2	34	no work named in the prose before the label (JP2)
+hcd.fiestas2.16	JP2	n. 2	the label is neither a number nor a Scripture reference
+hcd.fiestas2.16	JP2	28	no work named in the prose before the label (JP2)
+hcd.fiestas2.17	JP2	n. 41	the label is neither a number nor a Scripture reference
+hcd.fiestas2.17	CV2	59	no work named in the prose before the label (CV2)
+hcd.fiestas2.19	JP2	59	no work named in the prose before the label (JP2)
+hcd.fiestas2.22	JP2	3	sth.3 is not an anchor in any database
+hcd.fiestas2.24	JP2	n. 16	the label is neither a number nor a Scripture reference
+hcd.fiestas2.28	SanJosemaria	104	no work named in the prose before the label (SanJosemaria)
+hcd.fiestas2.29	JP2	58	no work named in the prose before the label (JP2)
+hcd.fiestas2.33	JP2	38.	the label is neither a number nor a Scripture reference
+hcd.fiestas2.34	JP2	27	no work named in the prose before the label (JP2)
+hcd.fiestas2.38	JP2	17	no work named in the prose before the label (JP2)
+hcd.fiestas2.38	CV2	40	no work named in the prose before the label (CV2)
+hcd.fiestas2.38	JP2	Christifideles laici	the label is neither a number nor a Scripture reference
+hcd.fiestas2.38	SanJosemaria	Conversaciones	the label is neither a number nor a Scripture reference
+hcd.fiestas2.39	CV2	49	no work named in the prose before the label (CV2)
+hcd.fiestas2.41	CV2	48	no work named in the prose before the label (CV2)
+hcd.fiestas2.44	CV2	61	no work named in the prose before the label (CV2)
+hcd.fiestas2.45	JP2	39	no work named in the prose before the label (JP2)
+hcd.fiestas2.46	JP2	30	no work named in the prose before the label (JP2)
+hcd.fiestas2.46	SanJosemaria	798	no work named in the prose before the label (SanJosemaria)
+hcd.fiestas2.49	CV2	53	no work named in the prose before the label (CV2)
+hcd.fiestas2.49	JP2	23	no work named in the prose before the label (JP2)
+hcd.fiestas2.49	CV2	61	no work named in the prose before the label (CV2)
+hcd.fiestas2.50	SanJosemaria	126.	the label is neither a number nor a Scripture reference
+hcd.fiestas2.51	CV2	61	no work named in the prose before the label (CV2)
+hcd.fiestas2.51	JP2	35	no work named in the prose before the label (JP2)
+hcd.fiestas2.52	CV2	62	no work named in the prose before the label (CV2)
+hcd.fiestas2.52	JP2	26	no work named in the prose before the label (JP2)
+hcd.fiestas2.53	CV2	61	no work named in the prose before the label (CV2)
+hcd.fiestas2.53	CV2	54	no work named in the prose before the label (CV2)
+hcd.fiestas2.53	CV2	63	no work named in the prose before the label (CV2)
+hcd.fiestas2.53	CV2	65	no work named in the prose before the label (CV2)
+hcd.fiestas2.53	CV2	65	no work named in the prose before the label (CV2)
+hcd.fiestas2.54	JP2	37	no work named in the prose before the label (JP2)
+hcd.fiestas2.55	CV2	3	no work named in the prose before the label (CV2)
+hcd.fiestas2.55	CV2	14	no work named in the prose before the label (CV2)
+hcd.fiestas2.55	CV2	6	no work named in the prose before the label (CV2)
+hcd.indices	HCD	La vocación de Nuestra Señora. Corresponder a la llamada que todos hemos recibido. El sí que Dios nos pide	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	Dios es el que elige, y el que da las gracias necesarias para llevarla a cabo	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	La vocación de Pedro. La fidelidad hasta el martirio	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	El Señor elige a los suyos. Llamada de San Pablo	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	La vocación de los hijos nace en un clima de piedad familiar, de alegría y de virtudes humanas	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	Prontitud en la respuesta. El ejemplo de Mateo	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	La alegría de la vocación	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	El proyecto personal de Dios sobre cada uno	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	Ayudar a otros a que encuentren su propia vocación	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	Llamada del Apóstol Andrés	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	Voluntad de Dios y santidad. Cómo nos identificamos con el querer divino. Imitar a Jesús	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	idem	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	Se da a conocer con señales suficientemente claras, si el alma tiene buenas disposiciones	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	Identificarse con la voluntad de Dios en la oración de petición;	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	ídem	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	Beber el cáliz del Señor. Identificarnos con la voluntad divina	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	Jesús en Getsemaní. Cumplimiento de la voluntad del Padre	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	Cumplimiento de nuestros deberes. Abandono en Dios. Amar con obras;	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	ídem	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	Amar la voluntad de Dios. Todo es para bien. Serenidad en las contradicciones	the label is neither a number nor a Scripture reference
+hcd.indices	HCD	Él tiene los mejores planes para nosotros	the label is neither a number nor a Scripture reference

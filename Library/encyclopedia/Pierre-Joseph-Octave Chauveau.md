@@ -1,0 +1,33 @@
+---
+title: "Pierre-Joseph-Octave Chauveau"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Narcisse Eutrope Dionne"
+signed: "N. E. Dionne"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pierre-Joseph-Octave_Chauveau"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pierre-joseph-octave-chauveau} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Maurice Chauncy"
+next: "Chelm and Belz"
+entry-type: "article"
+characters: 1822
+words: 297
+links: 0
+images: 0
+---
+
+# Pierre-Joseph-Octave Chauveau {#cathen.pierre-joseph-octave-chauveau}
+
+Canadian statesman, born at Quebec, 30 May, 1820; died at Montreal, 4 April, 1890. After a brilliant course at the preparatory seminary of Quebec, he studied law, and was admitted to the Bar in 1841. He was already a contributor to "Le Canadien" and "Le Courrier des Etats-Unis", and his ready pen showed that he was fitted to be a journalist rather than a barrister. In 1853 he published a novel dealing with Canadian customs which brought him an enviable reputation as a writer. Chauveau played a prominent political role. Having been elected by the County of Quebec, in 1848, to a seat in the Legislative Assembly, he was made a minister in 1851, and later solicitor- general and provincial secretary, but in 1855 abandoned politics. In that year he was chosen superintendent of education. During the twelve years of his office Chauveau gave a great impetus to primary instruction. He also established the first normal schools, and for twelve years published the "Journal de l'Instruction Publique". Having resigned his position as superintendent of education, in 1867, he returned to political life, to become first minister at Quebec. In 1873 Chauveau was called to the Senate, and became president of that body. Later he was appointed president of the Harbour Commission of Quebec, and in 1877 was made sheriff of Montreal, an office which he held until his death. He published an important work on the history of public education, as well as a detailed biography of the historian Garneau, several poems, a paraphrase of the "Dies irae", and a number of remarkable articles in the "Journal de l'Instruction Publique".
+
+OUIMET, Les noces d'or de la Saint-Jean-Baptiste, 1834-84 (Montreal, 1884); BIBAUD, Le Pantheon canadien (Montreal, 1891); BOURASSA, M. Chauveau et l'idee nationale (Montreal, 1895).
+
+N. E. Dionne.

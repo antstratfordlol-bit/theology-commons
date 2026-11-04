@@ -1,0 +1,33 @@
+---
+title: "John Malalas"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "Eugène Xavier Louis Henri Hyvernat"
+signed: "H. HYVERNAT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/John_Malalas"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.john-malalas} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Bl. John Larke"
+next: "Bl. John Nelson"
+entry-type: "article"
+characters: 3324
+words: 534
+links: 0
+images: 0
+---
+
+# John Malalas {#cathen.john-malalas}
+
+A Monophysite Byzantine chronicler of the sixth century, born at Antioch where he spent most if not the whole of his life. His surname Malalas, from the Syriac malâlâ, "the rhetor", points to a Syrian origin. John Malalas was a contemporary of Emperors Anastasius I, Justin I, Justinian I, and Justin II. His "Chronographia" if, for which he is famous, was originally but a chronicle of the city of Antioch, expanded later by the author himself into a general history of the world up to the last years of Justinian (d. 565). It is divided into eighteen books, the last of which, however, originally a chronicle of Constantinople, cannot be ascribed to John Malalas, being evidently the work of an orthodox writer. Giving up the Hellenic and Byzantine traditions John Malalas struck a new path in historiography, and created the type of the Byzantine chronicle. He wrote not for the cultured public but for the bulk of the lay-men and monks, seeking to gratify their naive curiosity in matters of history and narrating such facts only and in such manner as could interest the people. The "Chronographia" is uncritical and teems with legends, anachronisms, repetitions, and inconsistencies, and its style and language are in keeping with the nature of the concept of history it exhibits; it is the earliest important monument of low Greek. In spite of the many authors he so ostentatiously names, it is highly probable that, beyond the archives of the city of Antioch and the current ecclesiastical and civil calendars, John Malalas had but very few reliable written sources. If he used at all Julius Africanus, it must have been through the now lost chronicles of Nestorianus, Pausanias, Domninus, Theophilus, and Timotheus whom he frequently cites. John Malalas enjoyed great authority with subsequent generations of Byzantine chroniclers who quote him quite freely and often worked whole books of his "Chronographia" into their own compositions. Such is the case with John of Ephesus and through him Bar-Hebraus (two Syrian writers) the church historian Evagrius, the author of the "Tusculan Fragments", John of Antioch, and especially the author of the "Chronicon Paschale", John of Nikiu, the author of the "Chronicon Palatinum", Theophanes, George the Monk, Cedrenus, the author of the "Excerpta Constantiniana" and the authors of several similar compilations. John Malalas's vvork had the honour of a Slavonic translation (now lost) from which it passed into several Slavonic chronicles; it was also translated into Georgian. It is from those various sources that it was reconstructed, for strange to say for such a popular work, independently of the above-named writings it has been preserved only in a single manuscript (Baroccianus, 128, c. 12, Oxford, Bodleian Library; mutilated at both ends) and that an the shape of an epitome. The "Chronographia" was first edited by Edm. Chilmead (Oxford, 1691), with a Latin translation and a commentary by the editor, a treatise of H. Hody, and a letter from R. Bentley to J. Mill. A new critical and complete up-to-date edition is highly desirable.
+
+KRUMBACHER, Geschichte der byzantinischen Litteretur (2nd ed., Munich, 1887), pp. 325-354, where an exhaustive literature of the subject will be found. DIDOT, Nouvelle Biographie Generale, vol. XXXII, col. 1007.
+
+H. HYVERNAT

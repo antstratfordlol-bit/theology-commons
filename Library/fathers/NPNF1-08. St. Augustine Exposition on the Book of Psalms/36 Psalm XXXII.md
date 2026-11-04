@@ -1,0 +1,64 @@
+---
+id: "augustine-enarrationes-in-psalmos.en.32"
+title: "Psalm XXXII"
+work: "Enarrationes in psalmos"
+author: "Augustine of Hippo"
+volume: "NPNF1-08. St. Augustine: Exposition on the Book of Psalms"
+volume-id: "npnf108"
+series: "Nicene and Post-Nicene Fathers, Series 1"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf108.xml"
+source-id: "ii.XXXII"
+sigla: "augustine-enarrationes-in-psalmos"
+part-of: "augustine-enarrationes-in-psalmos"
+part-ref: "32"
+part-kind: "text"
+part-evidence: "printed:h1:Psalm XXXII"
+title-source: "bkv-clavis"
+clavis: "CPL 283"
+work-note: "the psalm number is the one NPNF prints (Hebrew/AV numbering), not the Vulgate's"
+anchors: "{#augustine-enarrationes-in-psalmos.32} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 4
+scripture-references: 13
+scripture-refs-sidecar: "_scripture-refs/npnf108.tsv"
+print-pages: "71-71"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# Psalm XXXII {#augustine-enarrationes-in-psalmos.32}
+
+Psalm XXXII.[^691]
+
+To David himself; for understanding.
+
+1. To David himself; for understanding; by which it is understood that not by the merits of works, but by the grace of God, man is delivered, confessing his sins.
+
+2. “Blessed are they whose unrighteousness is forgiven, and whose sins are covered” (ver. 1): and whose sins are buried in oblivion. “Blessed is the man to whom the Lord hath not imputed sin, nor is there guile in his mouth” (ver. 2): nor has he in his mouth boastings of righteousness, when his conscience is full of sins.
+
+3. “Because I kept silence, my bones waxed old:” because I made not with my mouth “confession unto salvation,”[^692] all firmness in me has grown old in infirmity. “Through my roaring all the day long” (ver. 3): when I was ungodly and a blasphemer, crying against God, as though defending and excusing my sins.
+
+4. “Because day and night Thy Hand was heavy upon me:” because, through the continual punishment of Thy scourges, “I was turned in misery, while a thorn was fixed through me” (ver. 4): I was made miserable by knowing my misery, being pricked with an evil conscience.
+
+5. “I acknowledged my sin, and my unrighteousness have I not hid:” that is, my unrighteousness have I not concealed.[^693] “I said, I will confess against myself my unrighteousness to the Lord:” I said, I will confess, not against God (as in my ungodly crying, when I kept silence), but against myself, my unrighteousness to the Lord. “And Thou forgavest the iniquity of my heart” (ver. 5); hearing the word of confession in the heart, before it was uttered with the voice.
+
+6. “For this shall every one that is holy pray unto Thee in an acceptable time:” for this wickedness of heart shall every one that is righteous pray unto Thee. For not by their own merits will they be holy, but by that acceptable time, that is, at His coming, who redeemed us from sin. “Nevertheless in the flood of great waters they shall not come nigh him” (ver. 6): nevertheless, let none think, when the end has come suddenly, as in the days of Noah,[^694] that there remaineth a place of confession, whereby he may draw nigh unto God.
+
+7. “Thou art my refuge from the pressures, which have compassed me about:” Thou art my refuge from the pressure of my sins, which hath compassed my heart. “O Thou, my Rejoicing, deliver me from them that compass me about” (ver. 7): in Thee is my joy: deliver me from the sorrow which my sins bring upon me.
+
+8. *Diapsalma.* The answer of God: “I will give thee understanding, and will set thee in the way in which thou shalt go;” I will give thee understanding after confession, that thou depart not from the way in which thou shouldest go; lest thou wish to be in thine own power. “I will fix Mine Eyes upon thee” (ver. 8); so will make sure upon thee My Love.
+
+9. “Be not ye like unto horse or mule, which have no understanding:” and therefore would govern themselves. But saith the Prophet, “Hold in their jaws with bit and bridle.” Do Thou then, O God, unto them “that will not come nigh Thee” (ver. 9), what man doth to horse and mule, that by scourges Thou make them to bear Thy rule.
+
+10. “Many are the scourges of the sinner:” much is he scourged, who, confessing not his sins to God, would be his own ruler. “But he that trusteth in the Lord, mercy compasseth him about” (ver. 10); but he that trusteth in the Lord, and submitteth himself to His rule, mercy shall compass him about.
+
+11. “Be glad in the Lord, and rejoice, ye righteous:” be glad, and rejoice, ye righteous, not in yourselves, but in the Lord. “And glory, all ye that are right in heart” (ver. 11): and glory in Him, all ye who understand that it is right to be subject unto Him, that so ye may be placed above all things beside.
+
+[^691]: Lat. XXXI.
+[^692]: Rom. x. 10.
+[^693]: [Here in our Psalter version is verse 6; not so the Authorized, nor the Vulgate, nor the other versions.—C.]
+[^694]: Matt. xxiv. 37–41.

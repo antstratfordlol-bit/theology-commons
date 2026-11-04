@@ -1,0 +1,33 @@
+---
+title: "Cornelius Heeney"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "Thomas Francis Meehan"
+signed: "THOMAS F. MEEHAN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Cornelius_Heeney"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.cornelius-heeney} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Hedwig"
+next: "Freiherr von Heereman von Zuydwyk"
+entry-type: "article"
+characters: 1799
+words: 309
+links: 0
+images: 0
+---
+
+# Cornelius Heeney {#cathen.cornelius-heeney}
+
+Merchant and philanthropist; b. in King's County, Ireland, 1754; d. at Brooklyn, U.S.A., 3 May, 1848. After acquiring a practical mercantile education in Dublin, he emigrated to America in 1784 and became a fellow employe of the founder of the Astor family in the store of a New York fur dealer. His employer, retiring, left the business to John Jacob Astor and Heeney, and they prospered in it for several years and then separated. Heeney continued in the same line and amassed a considerable fortune. He was a bachelor and used his income in the promotion of religious and charitable works, St. Peter's church, St. Patrick's and the Catholic Orphan Asylum, New York, were the recipients of generous gifts. He was one of the first Catholics to hold public office in New York, and served five terms in the State Assembly from 1818 to 1822. He retired from business in 1837 and went to live in Brooklyn, where he had purchased a large farm in what is now one of the best residence sections. Here he continued his charitable benefactions, and having spent the most of his income for so long in good works, he planned to secure the disposition of the whole of his estate for the same purpose. Accordingly it was incorporated by Act of Legislature, 10 May, 1845, as "The Trustees and Associates of the Brooklyn Benevolent Society" with the object of administering the estate for the benefit of the poor and the orphans. The income amounts to about $25,000, and from its incorporation the society has distributed (1909) more than a million dollars.
+
+U. S. Cath. Hist. Soc., Historical Records and Studies (New York, Oct., 1906), IV, pts. I and II Fordam Monthly (New York, Jan, 1906), 135; STILES, History of Brooklyn (Brooklyn, 1867-70); U. S. Cath. Hist. Magazine (New York, 1890-91).
+
+THOMAS F. MEEHAN

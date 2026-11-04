@@ -1,0 +1,33 @@
+---
+title: "Stephen Moylan"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: "Jarvis Keiley"
+signed: "Jarvis Keiley"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Stephen_Moylan"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.stephen-moylan} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Francis Moylan"
+next: "Mozambique"
+entry-type: "article"
+characters: 2740
+words: 447
+links: 0
+images: 0
+---
+
+# Stephen Moylan {#cathen.stephen-moylan}
+
+An American patriot and merchant, born in Ireland in 1734; died at Philadelphia, 11 April, 1811. He received his education in Ireland, but resided for some time in England, and seems to have travelled considerably on the Continent before emigrating to the American Colonies where he settled in the city of Philadelphia. He gave his hearty support to the patriot cause on the eve of the Revolution, and, when war was finally declared, hurried to join the Continental Army before Boston in 1775. The readiness of his patriotic zeal, coupled with a belief in his business acumen, won him the recognition of John Dickinson, upon whose recommendation he was placed in the commissariat department. Attracted by his unusual dignity of bearing and military manner, Washington, in March, 1776, appointed him one of his aides-de-camp. Restless to exploit his energies in a field of wider activity, he was chosen by Congress, upon Washington's recommendation, in June of the same year to be Commissary General of the Continental Army. Restless again, seemingly, for a more direct participation in the conflict, he resigned this position in the following October, raising at once a troop of light dragoons, the First Pennsylvania regiment of cavalry, of which he was colonel. With this troop he served at Valley Forge, through the dismal winter of 1777-8, at the battle of Germantown, on the Hudson River, and in Connecticut, with Wayne in Pennsylvania, and rounded out the full measure of his service with General Greene in his southern campaign at the close of the war. In acknowledgment of his indefatigable energy and bravery, before the war closed, in 1782, he was brevetted brigadier-general. After the successful termination of the war he quietly resumed his mercantile pursuits in Philadelphia. In 1792 he was Register and Recorder of Chester County, Penn., and was Commissioner of Loans of Pennsylvania for a few years before his death. Duly allowing for the over excitability of the times, the eulogy of a fellow patriot quoted by Irving (Life of Washington, 111, ch. 30) remains a no uncertain estimate of esteem: "'There is not in the whole range of my friends, acquaintance, and I might add, in the universe', exclaims Wilkinson, 'a man of more sublimated sentiment, or who combined with sound discretion a more punctilious sense of honour, than Colonel Moylan'." General Moylan was one of the organizers of the Friendly Sons of St. Patrick in Philadelphia in 1771, and was its first president. One of his brothers became Bishop of Cork, Ireland, and another, John, acted during the war as United States Clothier General.
+
+MARQUIS DE CHASTELLUX, *Travels in America* (Paris, 1786); *American Monthly Magazine*, vol. VI, 14.
+
+Jarvis Keiley.

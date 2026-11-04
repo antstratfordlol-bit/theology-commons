@@ -1,0 +1,66 @@
+---
+id: "augustine-sermones.en.71"
+title: "On the words of the Gospel, John i. 10, ‘The world was made through him,’ etc."
+work: "Sermones"
+author: "Augustine of Hippo"
+volume: "NPNF1-06. St. Augustine: Sermon on the Mount; Harmony of the Gospels; Homilies on the Gospels"
+volume-id: "npnf106"
+series: "Nicene and Post-Nicene Fathers, Series 1"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf106.xml"
+source-id: "vii.lxxiii"
+sigla: "augustine-sermones"
+part-of: "augustine-sermones"
+part-ref: "71"
+part-kind: "text"
+part-evidence: "printed:body-line1:Sermon LXXI."
+title-source: "bkv-clavis"
+clavis: "CPL 284"
+work-note: "NPNF prints a selection; the sermon number is the collection's"
+anchors: "{#augustine-sermones.71} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 16
+scripture-references: 17
+scripture-refs-sidecar: "_scripture-refs/npnf106.tsv"
+print-pages: "470-470"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# On the words of the Gospel, John i. 10, ‘The world was made through him,’ etc. {#augustine-sermones.71}
+
+Sermon LXXI.
+
+[CXXI. Ben.]
+
+*On the words of the Gospel,* *John i. 10**, “The world was made through him,” etc.*
+
+1. By the Lord “was the world made, and the world knew Him not.”[^3621] What world was made by Him, what world knew Him not? For it is not the same world that was made by Him, which knew Him not. What is the world that was made by Him? The heaven and earth. How did not the heaven know Him, when at His Passion the sun was darkened? How did not the earth know Him, when as He hung upon the Cross, it quaked? But “the world knew Him not,” whose Prince he is, of whom it is said, “Behold, the prince of this world cometh, and findeth nothing in me.” [^3622] Wicked men are called the world; unbelieving men are called the world. They have gotten their name from that they love. By the love of God we are made gods; so by the love of the world, we are called the world. But “God was in Christ reconciling the world unto Himself.”[^3623] “The world” then “knew Him not.” What? “all men?”
+
+2. “He came unto His Own, and His Own received Him not.”[^3624] All things are His, but they are called His Own, from among whom His mother was, among whom He had taken Flesh, to whom He had sent before the heralds of His advent, to whom He had given the law, whom He had delivered from the Egyptian bondage, whose father Abraham according to the flesh He elected. For He said truth, “Before Abraham was, I am.”[^3625] He did not say, “Before Abraham was,” or “before Abraham was made, I was made.” For “in the beginning the Word was,” not, “was made.” So then “He came unto His Own,” He came to the Jews. “And His Own received Him not.”
+
+3. “But as many as received Him.”[^3626] For of course the Apostles were there, who “received Him.” There were they who carried branches before His beast. They went before and followed after, and spread their garments, and cried with a loud voice, “Hosanna to the Son of David, Blessed is He That cometh in the Name of the Lord.”[^3627] Then said the Pharisees unto Him, “Restrain the children, that they cry not out so unto Thee.” And He said, “If these shall hold their peace, the stones will cry out.”[^3628] Us He saw when He spake these words; “If these shall hold their peace, the stones will cry out.” Who are stones, but they who worship stones? If the Jewish children shall hold their peace, the elder and the younger Gentiles shall cry out. Who are the stones, but they of whom speaketh that very John, who came “to bear witness of the Light”?[^3629] For when he saw these self-same Jews priding themselves on their birth from Abraham, he said to them, “O generation of vipers.”[^3630] They called themselves the children of Abraham; and he addressed them, “O generation of vipers.” Did he do Abraham wrong? God forbid! He gave them a name from their character. For that if they were the children of Abraham, they would imitate Abraham; as He too telleth them who say to Him, “We be free, and were never in bondage to any man; we have Abraham for our father.” And He said, “If ye were Abraham’s children, ye would do the deeds of Abraham. Ye wish to kill Me, because I tell you the truth. This did not Abraham.”[^3631] Ye were of his stock, but ye are a degenerate stock. So then what said John? “O generation of vipers, who hath warned you to flee from the wrath to come?” Because they came to be baptized with the baptism of John unto repentance. “Who hath warned you to flee from the wrath to come? Bring forth therefore fruits worthy of repentance. And say not in your hearts, We have Abraham to our father. For God is able of these stones to raise up children unto Abraham.” [^3632] For God is able of these stones which he saw in the Spirit; to them he spake; he foresaw us; “For God is able of these stones to raise up children unto Abraham.” Of what stones? “If these shall hold their peace, the stones will cry out.” Ye have just now heard, and cried out. It is fulfilled, “The stones shall cry out.” For from among the Gentiles we came, in our forefathers we worshipped stones. Therefore are we called dogs too. Call to mind what that woman heard who cried out after the Lord, for she was a Canaanitish woman, a worshipper of idols, the handmaid of devils. What said Jesus to her? “It is not good to take the children’s bread, and to cast it to dogs.”[^3633] Have ye never noticed, how dogs will lick the greasy stones? So are all the worshippers of images. But grace has come to you. “But as many as received Him, to them gave He power to become the sons of God.” See ye have here some just now born: to them hath He “given power to become the sons of God.” To whom hath He given it? “To them that believe in His Name.”
+
+4. And how do they become the sons of God? “Who were born, not of blood, nor of the will of man, nor of the will of the flesh, but of God.”[^3634] Having received power to become the sons of God, they are born of God. Mark then: They are born of God, “not of blood,” like their first birth, like that wretched birth, issuing out of wretchedness. But they who are born of God, what were they? whereby were they first born? Of blood; of the joint blood of the male and female, of the carnal union of male and female, from this were they born. From whence now? They are born of God. The first birth of the male and female; the second birth of God and the Church.
+
+5. Lo, they are born of God; whereby is it brought to pass that they should be born of God, who were first born of men? Whereby is it brought to pass, whereby? “And the Word was made Flesh, that It might dwell among us.”[^3635] Wondrous exchange; He made Flesh, they spirit. What is this? What condescension is here, my brethren! Lift up your minds to the hope and comprehension of better things. Give not yourselves up to worldly desires. “Ye have been bought with a Price;”[^3636] for your sakes the Word was made Flesh; for your sakes He who was the Son of God, was made the Son of man: that ye who were the sons of men, might be made sons of God. What was He, what was He made? What were ye, what were ye made? He was the Son of God. What was He made? The Son of man. Ye were the sons of men. What were ye made? The sons of God. He shared with us our evil things, to give us His good things. But even in that He was made the Son of man, He is different much from us. We are the sons of men by the lust of the flesh; He the Son of man by the faith of a virgin. The mother of any other man whatever conceives by a carnal union; and every one is born of human parents, his father and his mother. But Christ was born of the Holy Ghost, and the Virgin Mary. He came to us, but from Himself departed not far; yea from Himself as God He departed never; but added what He was to our nature. For He came to that which He was not, He did not lose what He was. He was made the Son of man; but did not cease to be the Son of God. Hereby the Mediator, in the middle. What is, “in the middle”? Neither up above, nor down below. How neither up above, nor down below? Not above, since He is Flesh; not below, since He is not a sinner. But yet in so far as He is God, above always. For He did not so come to us, as to leave the Father. From us He went, and did not leave us; to us will He come again, and will not leave Him.
+
+[^3621]: John i. 10.
+[^3622]: John xiv. 30.
+[^3623]: 2 Cor v. 19.
+[^3624]: John i. 11.
+[^3625]: John viii. 58.
+[^3626]: John i. 12.
+[^3627]: Matt. xxi. 9.
+[^3628]: Luke xix. 39, 40.
+[^3629]: John i. 8.
+[^3630]: Matt. iii. 7.
+[^3631]: John viii. 39, 40.
+[^3632]: Luke iii. 7, 8.
+[^3633]: Matt. xv. 26.
+[^3634]: John i. 13.
+[^3635]: John i. 14.
+[^3636]: 1 Cor. vi. 20.

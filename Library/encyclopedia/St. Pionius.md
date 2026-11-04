@@ -1,0 +1,31 @@
+---
+title: "St. Pionius"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "Francis Joseph Bacchus"
+signed: "F. J. BACCHUS"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Pionius"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-pionius} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Sebastiano del Piombo"
+next: "Pious Fund of the Californias"
+entry-type: "article"
+characters: 2865
+words: 491
+links: 0
+images: 0
+---
+
+# St. Pionius {#cathen.st-pionius}
+
+Martyred at Smyrna, 12 March, 250. Pionius, with Sabina and Asclepiades, was arrested on 23 February, the anniversary of St. Polycarp's martyrdom. They had passed the previous night in prayer and fasting. Knowing of his impending arrest, Pionius had fastened fetters round the necks of himself and his companions to signify that they were already condemned. People seeing them led off unbound might suppose that they were prepared, like so many other Christians in Smyrna, the bishop included, to sacrifice. Early in the morning, after they had partaken of the Holy Bread and of water, they were conducted to the forum. The place was thronged with Greeks and Jews, for it was a great Sabbath and therefore a general holiday in the city — an indication of the importance of the Jews in Smyrna. Pionius harangued the multitude. He begged the Greeks to remember what Homer had said about not mocking the corpse of an enemy. Let them refrain therefore from mocking those Christians who had apostatized. He then turned to the Jews and quoted Moses and Solomon to the same effect. He ended with a vehement refusal to offer sacrifice. Then followed the usual interrogatories and threats, after which Pionius and his companions were relegated to prison, to await the arrival of the proconsul. Here they found other confessors, among them a Montanist. Many pagans visited them, and Christians who had sacrificed, lamenting their fall. The latter Pionius exhorted to repentance. A further attempt before the arrival of the proconsul was made to force Pionius and his companions into an act of apostasy. They were carried off to a temple where every effort was made to compel them to participate in a sacrifice. On 12 March, Pionius was brought before the proconsul who first tried persuasion and then torture. Both having failed, Pionius was condemned to be burnt alive. He suffered in company with Metrodorus, a Marcionite priest. His feast is kept by the Latins ion 1 Feb.; by the Greeks on 11 March. The true day of his martyrdom, according to the Acts, was 12 March. Eusebius ("H.E.", IV, xv; "Chron.", p. 17, ed. Schoene) places the martyrdom in the reign of Antoninus. His mistake was probably due to the fact that he found the martyrdom of Pionius in a volume containing the Acts of Martyrs of an earlier date. Possibly his MS. lacked the chronological note in our present ones. For the life of Polycarp by Pionius, see Polycarp, Saint. Did Pionius before his martyrdom celebrate with bread and water? We know from St. Cyprian (Ep. 63) that this abuse existed in his time. But note (1) the bread is spoken of as Holy, but not the water; (2) it is unlikely that Pionius would celebrate with only two persons present. It is more likely therefore that we have an account, not of a celebration, but of a private Communion (see Funk, "Abhandlungen", I, 287).
+
+F. J. BACCHUS

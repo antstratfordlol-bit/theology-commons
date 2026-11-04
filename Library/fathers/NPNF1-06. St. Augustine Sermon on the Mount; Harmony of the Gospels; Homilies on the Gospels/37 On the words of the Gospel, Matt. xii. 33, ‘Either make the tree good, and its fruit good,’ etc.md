@@ -1,0 +1,77 @@
+---
+id: "augustine-sermones.en.22"
+title: "On the words of the Gospel, Matt. xii. 33, ‘Either make the tree good, and its fruit good,’ etc."
+work: "Sermones"
+author: "Augustine of Hippo"
+volume: "NPNF1-06. St. Augustine: Sermon on the Mount; Harmony of the Gospels; Homilies on the Gospels"
+volume-id: "npnf106"
+series: "Nicene and Post-Nicene Fathers, Series 1"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf106.xml"
+source-id: "vii.xxiv"
+sigla: "augustine-sermones"
+part-of: "augustine-sermones"
+part-ref: "22"
+part-kind: "text"
+part-evidence: "printed:body-line1:Sermon XXII."
+title-source: "bkv-clavis"
+clavis: "CPL 284"
+work-note: "NPNF prints a selection; the sermon number is the collection's"
+anchors: "{#augustine-sermones.22} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 23
+scripture-references: 13
+scripture-refs-sidecar: "_scripture-refs/npnf106.tsv"
+print-pages: "333-334"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# On the words of the Gospel, Matt. xii. 33, ‘Either make the tree good, and its fruit good,’ etc. {#augustine-sermones.22}
+
+Sermon XXII.
+
+[LXXII. Ben.]
+
+*On the words of the Gospel,* *Matt. xii. 33**, “Either make the tree good, and its fruit good,” etc.*
+
+1. The Lord Jesus hath admonished us, that we be good trees, and that so we may be able to bear good fruits. For He saith, “Either make the tree good, and his fruit good, or else make the tree corrupt, and his fruit corrupt, for the tree is known by his fruit.”[^2484] When He says, “Make the tree good, and his fruit good;” this of course is not an admonition, but a wholesome precept, to which obedience is necessary. But when He saith, “Make the tree corrupt, and his fruit corrupt;” this is not a precept that thou shouldest do it; but an admonition, that thou shouldest beware of it. For He spoke against those, who thought that although they were evil, they could speak good things or have good works. This the Lord Jesus saith is impossible. For the man himself must first be changed, in order that his works may be changed. For if a man abide in his evil state, he cannot have good works; if he abide in his good state, he cannot have evil works.
+
+2. But who was found good by the Lord, since “Christ died for the ungodly”?[^2485] He found them all corrupt trees, but to those who “believed in His Name, He gave power to become the sons of God.”[^2486] Whosoever then now is a good man, that is, a good tree, was found corrupt, and made good. And if when He came He had chosen to root up the corrupt trees, what tree would have remained which did not deserve to be rooted up? But He came first to impart[^2487] mercy, that He might afterwards exercise judgment, to whom it is said, “I will sing unto Thee O Lord, of mercy and judgment.”[^2488] He gave then remission of sins to those who believed in Him, He would not even take account with them of past reckonings.[^2489] He gave remission of sins, He made them good trees. He delayed the ax, He gave[^2490] security.
+
+3. Of this ax does John speak, saying, “Now is the ax laid unto the root of the trees; every tree which bringeth not forth good fruit shall be hewn down, and cast into the fire.”[^2491] With this ax does the Householder in the Gospel threaten, saying, “Behold these three years I come to this tree, and find no fruit on it.” Now I must clear[^2492] the ground; wherefore let it be cut down. And the husbandman intercedes, saying, “Lord, let it alone this year also, till I shall dig about it and dung it; and if it bear fruit, well; and if not, then Thou shalt come and cut it down.”[^2493] So the Lord hath visited mankind as it were three years, that is, at three several times. The first time was before the Law; the second under the Law; the third is now, which is the time of grace. For if He did not visit mankind before the Law, whence was Abel, and Enoch, and Noe, and Abraham, and Isaac, and Jacob, whose Lord He was pleased to be called? And He to whom all nations belonged, as though He were the God of three men only, said, “I am the God of Abraham, and Isaac, and Jacob.”[^2494] But if He did not visit under the Law, He would not have given the Law itself. After the Law, came the very Master of the house in person; He suffered, and died, and rose again; He gave the Holy Spirit, He made the Gospel to be preached throughout all the world, and yet a certain tree remained unfruitful. Still is there a certain portion of mankind, which doth not yet amend itself. The husbandman intercedes; the Apostle prays for the people; “I bow my knees,” he saith, “unto the Father for you, that being rooted and grounded in love, ye may be able to comprehend with all saints what is the breadth, and length, and depth, and height; and to know the love of Christ which passeth knowledge, that ye might be filled with all the fulness of God.”[^2495] By bowing the knees, he intercedes with the Master of the house for us, that we be not rooted up. Therefore since He must necessarily come, let us take care that He find us fruitful. The digging about the tree is the lowliness of the penitent. For every ditch is low. The dunging it, is the filthy[^2496] robe[^2497] of repentance. For what is more filthy than dung; yet if well used, what more profitable?
+
+4. Let each one then be a good tree; let him not suppose that he can bear good fruit, if he remain a corrupt tree. There will be no good fruit, but from the good tree. Change the heart, and the work will be changed. Root out desire, plant in charity. “For as desire is the root of all evil,”[^2498] so is charity the root of all good. Why then do men fret and contend one with another, saying, “What is good?” O that thou knewest what good is! What thou dost wish to have is not very good; this is good which thou dost not wish to be. For thou dost wish to have health of body; it is good indeed; yet thou canst not think that to be any great good, which the wicked have as well. Thou dost wish to have gold and silver; I grant that these also are good things, but then only if thou make a good use of them; and a good use of them thou wilt not make, if thou art evil thyself. And hence gold and silver are to the evil evil; to the good are good, not because gold and silver make them good; but because they find them good, they are turned to a good use. Again, thou dost wish to have honour, it is good; but this too only if thou make a good use of it. To how many has honour been the occasion of destruction! And again, to how many has honour been the instrument [^2499] of good works!
+
+5. Let us then, if we can, make a distinction as to these goods; for it is of good trees that we are speaking. And here there is nothing, which every one ought so much to think of, as to turn his eyes upon himself, to learn in himself, examine himself, inspect himself, search into himself, and find out himself; and kill what is displeasing; and long for and plant in that which is well-pleasing (to God). For when a man finds himself so empty of better goods, why is he greedy of external goods? And what profit is there in a coffer full of goods, with an empty conscience? Thou wishest to have good things, and dost thou not then wish to be good thyself? Seest thou not that thou oughtest rather to blush for thy good things, if thy house is full of good things, and thou its owner art evil? For what is there, tell me, thou wouldest wish to have that is bad. Not any one thing I am sure; neither wife; nor son; nor daughter; nor manservant; nor maidservant; nor country seat; nor a coat; nay nor a shoe;[^2500] and yet thou art willing to have a bad life. I pray thee prefer thy way of life to thy shoes. All things which encompass thy sight, as being of elegance and beauty, are highly prized by thee; and art thou so lightly esteemed by thyself, and so devoid of beauty? If the good things of which thine house is full, which thou hast longed to possess, and feared to lose, could make answer to thee, would they not cry out to thee, As thou wishest to have us good, so do we also wish to have a good owner? And now in speechless accents do they address thy Lord against thee: “Lo! thou hast given him so many good things, and he himself is evil. What profit is there to him in that he hath, when he hath not Him who hath given him all!”
+
+6. One then who has been admonished, and it may be moved to compunction by these words, may ask what is good? what is the nature of good? and whence it comes? Well is it that thou hast understood that it is thy duty to ask this. I will answer thy enquiries, and will say, “That is good which thou canst not lose against thy will.” For gold thou mayest lose even against thy will; and so thou canst a house; and honours, and even the health of the body; but the good whereby thou art truly good, thou dost neither receive against thy will, nor against thy will dost lose it. I enquire then, “What is the nature of this good?” One of the Psalms teaches us an important matter, perchance it is even this that we are seeking for. For it says, “O ye sons of men, how long will ye be heavy in heart?”[^2501] How long will that tree be in its three[^2502] years fruitlessness? “O ye sons of men, how long will ye be heavy in heart?” What is “heavy in heart”? “Why do ye love vanity, and seek after leasing?” And then it goes on to say what we must really seek after; “Know ye that the Lord hath magnified His Holy One?”[^2503] Now Christ hath come, now hath He been magnified, now hath He risen again, and ascended into heaven, now is His Name preached through the world: “How long will ye be heavy in heart?” Let the times past suffice; now that that Holy One hath been magnified, “How long will ye be heavy in heart?” After the three years, what remains but the ax? “How long will ye be heavy in heart? Why do ye love vanity, and seek after leasing?” Vain, useless, frivolous, [^2504] fleeting things are these still sought after, now that Christ the Holy One hath been so magnified? Truth now is crying aloud, and is vanity still sought after? “How long will ye be heavy in heart?”
+
+7. With good reason is this world severely scourged; for the world hath known now its Master’s words. “And the servant,” He saith, “that knew not his Master’s will, and did commit things worthy of stripes, shall be beaten with few stripes.”[^2505] Why? That he may seek after his Master’s will. The servant then who knew not His will, this was the world, before “He magnified His Holy One;” it was “the servant who knew not his Master’s will,” and therefore “shall be beaten with few stripes.” But the servant who now knoweth his Master’s will, that is now, since the Godhead “sanctified His Holy One,” and “doeth not His will, shall be beaten with many stripes.” What marvel then, if the world be now much beaten? “It is the servant which knew his Master’s will, and did commit things worthy of stripes.” Let him then not refuse to be beaten with many stripes; since if in unrighteousness he will not hear his teacher, in righteousness must he feel his avenger. At least, let him not murmur against Him that chasteneth him, when he sees that he is worthy of stripes, that so he may attain[^2506] mercy; through Christ our Lord, who liveth and reigneth, with God the Father and the Holy Spirit, for ever and ever. Amen.
+
+[^2484]: Matt. xii. 33.
+[^2485]: Rom. v. 6.
+[^2486]: John i. 12.
+[^2487]: *Prærogare*.
+[^2488]: Ps. ci. 1.
+[^2489]: *Chartis*.
+[^2490]: *Distulit securim, dedit securitatem*.
+[^2491]: Matt. iii. 10.
+[^2492]: *Evacuare*.
+[^2493]: Luke xiii. 7, etc.
+[^2494]: Exod. iii. 15.
+[^2495]: Eph. iii. 14, 17–19.
+[^2496]: *Sordes pœnitentiæ*.
+[^2497]: Bingh, *Antiq*. xviii. c. 2, § 2.
+[^2498]: 1 Tim. vi. 10. *Cupiditas*, Vulgate.
+[^2499]: *Ministerium*.
+[^2500]: Vide Serm. ccxxxii. (vii.) 8.
+[^2501]: Ps. iv. 3, Sept. (iv. 2, English version).
+[^2502]: *Triennio*.
+[^2503]: Ps. iv. 4.
+[^2504]: *Pompatica*.
+[^2505]: Luke xii. 48.
+[^2506]: *Mereatur*.

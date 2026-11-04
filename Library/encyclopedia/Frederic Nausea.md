@@ -1,0 +1,33 @@
+---
+title: "Frederic Nausea"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: "Francis Mershman"
+signed: "FRANCIS MERSHMAN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Frederic_Nausea"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.frederic-nausea} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Naturism"
+next: "Navajo Indians"
+entry-type: "article"
+characters: 2590
+words: 428
+links: 0
+images: 0
+---
+
+# Frederic Nausea {#cathen.frederic-nausea}
+
+(Latinized from the German *Grau*.)
+
+Bishop of Vienna, born c. 1480 at Waischenfeld (*Blancicampium*) in Franconia; died 6 February, 1552, at Trent. He was the son of a wagonmaker and received his early education at Bamberg and probably at Nuremberg under John Cochlæus; with Paul of Schwartzenberg, canon of Bamberg, he pursued humanistic, juristic, and theological studies at Pavia, Padua, and later at Siena, there obtaining degrees in Law and Divinity. Cardinal Lorenzo Campeggio, Archbishop of Bologna and papal legate in Germany, employed him as secretary and as such Nausea was at the Diet of Nuremberg (1524), at the convention of Ratisbon, at the Diet of Ofen, and for a time at Rome. In 1525 he accepted the parish of St. Bartholomew at Frankenfort-on-the-Main and the dignity of canon, but was soon obliged to leave on account of the intrigues of the Lutherans who even excited popular riots against him. He came to Aschaffenburg and (1526) to Mainz as preacher of the cathedral. He attended the Diet of Speier (1529) and was chosen counsellor and preacher (1534) at the court of King Ferdinand. On 5 February, 1538, he was named coadjutor to John Faber, Bishop of Vienna, succeeding him in 1541. Nausea laboured zealously for the reunion of the Lutherans with the Catholics, and together with other prelates, asked Rome to permit the clergy to marry and the laity to use the communion cup. He also advised Cologne or Ratisbon as the place for holding the General Council. He was prevented from being present at the opening of the Council of Trent by contrary orders from the king, but met Paul III at Parma (1546) and there gave him his "Sylvæ Synodales". When the Council was reopened at Trent in 1551 Nausea was present, taking an active part in its deliberations, especially on the Sacraments. Only a short attendance was granted him, for he died there of a fever. His body was brought to Vienna and buried in the cathedral. In the Acts of the Council Nausea is praised for his great knowledge, his exemplary virtues, and his ecclesiastical convictions (Theiner, "Acta genuina Conc. Trid.", I, Zagreb, 1874, 652). Among his writings are: "Distichs" on the works of Lachantius; "Ars Poetica"; sermons and homilies on evangelical virtues, the Sacrifice of the Mass, the Blessed Virgin Mary, the life of a true Christian; "Catechismus cath." (Cologne, 1543); "Pastoralium inquisitionum elenchi tres" (Vienna, 1547); "On the Resurrection of Christ and of the dead" (Vienna, 1551); etc. For a full list see Metzner (*Fr. Nausea aus Weissenfels*, Ratisbon, 1884).
+
+FRANCIS MERSHMAN

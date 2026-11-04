@@ -1,0 +1,33 @@
+---
+title: "Moses Bar Cephas"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: "James F. Driscoll"
+signed: "James F. Driscoll"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Moses_Bar_Cephas"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.moses-bar-cephas} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Moses"
+next: "Moses of Chorene"
+entry-type: "article"
+characters: 1839
+words: 310
+links: 0
+images: 0
+---
+
+# Moses Bar Cephas {#cathen.moses-bar-cephas}
+
+A Syriac bishop and writer, b. at Balad about 813; d. 12 Feb., 903. He is known through a biography by an anonymous Syriac writer and from references in the writings of Bar Hebraeus. He embraced early the monastic life, and was later bishop over a territory including Beit-Ramman, Beit-Kiyonnaya, and Mossul. On his elevation to the episcopate he received the name Severus. For ten years he also performed the duties of overseer of the neighbouring Diocese of Tagrita. He belonged to the Jacobitic branch of the Monophysites, and he was in his day the most voluminous writer of his sect. His works comprise a complete commentary on the Old and New Testaments, frequently quoted by Bar Hebraeus in his "Auçár Râzê" (Storehouse of Mysteries). Of this nothing has come down to us save fragments pertaining to Genesis, the Gospels, and the Pauline Epistles. He also wrote a treatise in four books on predestination and free will, of which a manuscript copy is preserved in the British Museum. Through a citation in Bar Hebraeus (Chron. eccl., ii, 215) we learn that Bar Cephas composed an otherwise unknown commentary on Aristotle's "Dialectica". A manuscript copy of his "Hexameron", or treatise on the six days of creation in five books with a curious geographical drawing, is one of the treasures in the Bibliotheque Nationale in Paris. Other works of his are a treatise on paradise, of which there exists a Latin translation published by Masius in 1569; a treatise on the soul in forty chapters with a supplement on the utility of offerings for the dead, a book of controversy against heretics; homilies for the feasts of the liturgical year; a commentary on the works of Gregory Nazianzen; sermons on various subjects; and a history of the Church.
+
+DUVAL, La Litterature Syriaque (Paris, 1899), 78, 252, 259, 283, 391.
+
+James F. Driscoll.

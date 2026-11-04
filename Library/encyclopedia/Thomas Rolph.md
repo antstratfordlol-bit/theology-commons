@@ -1,0 +1,33 @@
+---
+title: "Thomas Rolph"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Edwin Hubert Burton"
+signed: "EDWIN BURTON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Thomas_Rolph"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.thomas-rolph} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Rolls Series"
+next: "Roman Catechism"
+entry-type: "article"
+characters: 1498
+words: 246
+links: 0
+images: 0
+---
+
+# Thomas Rolph {#cathen.thomas-rolph}
+
+Surgeon, b. 1800; d. at Portsmouth, 17 Feb., 1858. He was a younger son of Dr. Thomas Rolph and Frances his wife, and brother of John Rolph, the Canadian insurgent. Having qualified as a surgeon, he began to practice in Crutchedfriars, where he came into conflict with the Anglican rector of St. Olave, Hart Street, on the subject of tithes, a dispute which led him to petition the House of Commons on the subject and to publish two pamphlets: "Address to the Citizens of London" and "Letter addressed to the Rev. H.B. Owen, D.D." (1827). He also took a prominent part in Catholic affairs. In 1832 he went to the West Indies, the United States, and Canada, where his brother John had become chairman of committee in the Upper Canada House of Assembly. For a time Thomas Rolph settled in Canada, acting as Government emigration agent, but he returned to England in 1839 and published a series of works on emigration: "Comparative advantages between the United States and Canada for British Settlers" (1842); "Emigrants' Manual" (1843); "Emigration and Colonization" (1844). In his earlier life he had published two pamphlets on the proceedings of the Religious Tract society, and one against phrenology. He was also a constant contributor to the "Truthteller", a Catholic magazine published by William Eusebius Andrews. He spent his last years at Portsmouth where he died of apoplexy.
+
+Allibone, Critical Dict. of Eng. Lit. (Philadelphia, 1869-71); Gillow, Bibl. Dict. Eng. Cath., s.v.
+
+EDWIN BURTON

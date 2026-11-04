@@ -1,0 +1,35 @@
+---
+title: "Vicariate Apostolic of Sudan"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: ""
+signed: "FRANCIS XAVIER GEYER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Vicariate_Apostolic_of_Sudan"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.vicariate-apostolic-of-sudan} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Suburbicarian Dioceses"
+next: "Sufetula"
+entry-type: "article"
+characters: 2100
+words: 322
+links: 0
+images: 0
+---
+
+# Vicariate Apostolic of Sudan {#cathen.vicariate-apostolic-of-sudan}
+
+The Vicariate Apostolic of Sudan or Central-Africa (SUDANENSIS SEU AFRICÆ CENTRALIS), in North-Eastern Africa, includes the whole Anglo-Egyptian Sudan, the part of Egypt south of Assuan, the French territory from Fezzan to 10° N. lat., parts of Adamaua and Sokoto on Lake Tchad, and the Nile Province of Uganda Protectorate.
+
+It was erected on 3 April, 1846, by Gregory XVI. In 1851 the Emperor Francis Joseph I of Austria took the mission under his protection. From 1883 to 1898 the Sudan (then an Egyptian province) was closed by the insurrection of the Mahdi Mohammed Ahmed and his successor Khalifa Abdullahi, and the missionaries were compelled to work outside the circuit of their jurisdiction in Egypt. On 2 Sept., 1898, the Anglo-Egyptian army, which in 1896 had begun operations for the recovery of the lost provinces, completed the overthrow of the Khalifa, although he was not slain until November of the following year. The country still suffers from the effects of the Dervish oppression, during which it was largely depopulated, wide tracts having gone out of cultivation and trade having been abandoned. In 1899 mission work was recommenced. The two religious congregations, the Sons of the Sacred Heart and the Pious Mothers of Nigritia furnish missionaries and sisters to the vicariate, and the two periodical papers "La Nigrizia" (Verona) and "Stern der Neger" (Brixen) print articles about this mission. The number of inhabitants is uncertain, perhaps about eight millions. Missionary work is limited to the southern and heathen part with the Shillouki Dinka, Nuer, Jur, Golo, Nyam-Nyam, and other negro tribes. In the northern and Mohammedan part are some European and Oriental Catholic immigrants.
+
+Statistics: - stations at Assuan, Omdurman, Khartoum (central station); Lul and Atigo (White Nile); Wau, Kayango, and Cleveland (Bahrel-Ghazal); Omach and Gulu (Uganda); besides twenty-five localities provided *excurrendo*. Catholics, 3000; catechumens, 1030; priests, 35; brothers, 28; sisters, 45. Vicar Apostolic, Francis Xavier Geyer, Bishop of Trocmade.
+
+FRANCIS XAVIER GEYER

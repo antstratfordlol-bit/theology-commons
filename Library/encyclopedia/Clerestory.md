@@ -1,0 +1,33 @@
+---
+title: "Clerestory"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Thomas Henry Poole"
+signed: "THOMAS H. POOLE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Clerestory"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.clerestory} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Cleophas"
+next: "Cleric"
+entry-type: "article"
+characters: 1761
+words: 292
+links: 0
+images: 0
+---
+
+# Clerestory {#cathen.clerestory}
+
+A term formerly applied to any window or traceried opening in a church, e. g. in an aisle, tower, cloister, or screen, but now restricted to the windows in an aisled nave, or to the range of wall in which the high windows are set. Sometimes these windows are very small, being mere quatrefoils or spherical triangles. In Large buildings, however, they are important features both of beauty and utility. The clerestory is especially used in churches where the division into nave and side aisles permits the introduction of light into the body of the church from above the aisle roofs. According to Fergusson's theory, the interior of Greek temples was lighted by a clerestory, similar internally to that found in the great Egyptian temples, but externally requiring such a change of arrangement as was necessary to adapt it to a sloping instead of a flat roof. This seems to have been effected by countersinking into the roof, so as to make three ridges in those parts where the light was admitted, though the regular shape of the roof was retained between these openings. Thus, neither the ridge nor the continuity of the lines of the roof was interfered with. This theory is borne out by all the remains of Greek temples that now exist, and by all the descriptions that have been handed down from antiquity. Simpson, however, regards the theory as extremely improbable.
+
+FLETCHER AND FLETCHER, *A History of Architecture* (London, New York, 1896), 690; GWILT, *Encyc. of Arch.* (London, 1881), 1648; PARKER, *Glossary of Arch.* (Oxford, 1850), I. 104; STURGIS, *Dict. of Arch. and Building* (London, 1904); FERGUSSON, *A History of Architecture in all Countries* (New York); SIMPSON, *A history of Architectural Development* (New York, 1905).
+
+THOMAS H. POOLE.

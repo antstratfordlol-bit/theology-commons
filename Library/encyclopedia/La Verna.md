@@ -1,0 +1,33 @@
+---
+title: "La Verna"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Paschal Robinson"
+signed: "PASCHAL ROBINSON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/La_Verna"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.la-verna} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Vermont"
+next: "Tommasina Vernazza"
+entry-type: "article"
+characters: 2739
+words: 452
+links: 0
+images: 0
+---
+
+# La Verna {#cathen.la-verna}
+
+An isolated mountain hallowed by association with St. Francis of Assisi, situated in the centre of the Tuscan Appenines, and rising about 4000 feet above the valley of the Casentino. Its name (Latin, Alverna) is said to come from the Italian verb *vernare*, to make cold or freeze. On 8 May, 1213, La Verna was given to St. Francis by Count Orlando of Chiusi as a retreat "specially favourable for contemplation". Thither the saint withdrew in August, 1224, to keep a forty days fast in preparation for Michelmas, and it was while praying on the mountain-side that he received (on or about 14 Sept.) the stigmata. Thenceforth La Verna became sacred ground. Pope Alexander IV took it under his protection. In 1260 a church was consecrated there in presence of St. Bonaventure and several bishops. A few years later the Chapel of the Stigmata was erected, through the munificence of Count Simone of Battifole, near the spot where the miracle took place. An older chapel, S. Maria degli Angeli, which was built 1218 for St. Francis by Orlando, is approached from the sacristy of the Chiesa Maggiore, which was begun in 1348, but not finished until 1459. From the latter church the friars dwelling on La Verna go in solemn procession twice daily (at 2 P.M. and at midnight) to the Chapel of the Stigmata. On the Feast of the Stigmata (17 Sept.) and on other festivals, large crowds of priests with their people from neighbouring parishes, as well as strangers, visit the mountains, and on such occasions the friars often accommodate and entertain between 2000 and 3000 pilgrims. The convent was partly destroyed by fire in the fifteenth century; it suffered desecration also during the war of this century. In 1810, and again in 1866, the friars were expelled in consequence of the suppression of religious orders. At present they are in possession of La Verna which belongs, however, to the municipality of Florence.
+
+SBARALEA, Bullarium Franciscanum, IV (Rome, 1768), 156, gives a copy (made in 1274 by the sons of Orlando) of the deed confirming the gift of La Verna to St. Francis. The original of this deed is preserved at Borgo San Sepolero. MENCHERINI, Guida illustr. della Verna (2nd ed., Quaracchi, 1907), 462, gives details of historical and traditional events conected with the mountain, as well as a complete list of its flora; IDEM, L'Appenino Serafico prose di Vari autori sulla Verna (Quaracchi, 1908), 262; CARMICHAEL, In Tuscany (London, 1901), 221- 44; DE SELICOURT, Homes of the First Franciscans (London, 1905), 278-316: JORGENSEN, Pilgrim Walks in Franciscan Italy (London, 1908), 135-76; ECKENSTEIN, Through the Casentino (London, 1902), 33-50; NOYES, The Casentino and its Story (London, 1905), 139-88.
+
+PASCHAL ROBINSON

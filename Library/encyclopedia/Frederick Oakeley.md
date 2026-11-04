@@ -1,0 +1,31 @@
+---
+title: "Frederick Oakeley"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "unknown"
+author: "Bernard Nicholas Ward"
+signed: "BERNARD WARD"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Frederick_Oakeley"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.frederick-oakeley} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Nyssa"
+next: "O Antiphons"
+entry-type: "article"
+characters: 1663
+words: 260
+links: 0
+images: 0
+---
+
+# Frederick Oakeley {#cathen.frederick-oakeley}
+
+Born 5 September, 1802, at Shrewsbury; died 30 Jan., 1880, at Islington, the youngest son of Sir Charles Oakeley, Bart, he graduated at Christchurch in 1824, and three years later was elected Fellow of Balliol, where he afterwards became the close friend of W.G. Ward, with whom he joined the Tractarian party. In 1839 he became incumbent of Margaret Chapel, the predecessor of the well-known All Saints, Margaret Street, London, soon noted for its high church services; he was a frequent visitor to Oxford, and stood by Ward at the time of his condemnation in 1845. He defended Tract SC and in consequence his bishop suspended him. He retired to Newman's community at Littlemore, and a few weeks later followed him into the Catholic Church. After a short course of theology at St. Edmund's College, he was ordained by Dr. Wiseman in 1847. The next thirty-three years were spent as a canon of the Westminister chapter and missionary rector of St. John's, Islington. Short-sighted, small of stature, lame, he exercised a wide influence by his personality, his writings, and the charm of his conversation. His chief works are: Before his conversion: "Aristotelian and Platonic Ethics" (Oxford, 1837); "Whitehall Sermons" (Oxford, 1837-39) "The Subject of Tract XC examined" (London, 1841); "Homilies" (London, 1842); "Life of St. Augustine" (Newman's series, Toovey, 1844). After his conversion: "Practical Sermons" (London, 1848); "The Catholic Florist" (London, 1851); "The Church of the Bible" (London, 1857); "Lyra Liturgica" (London, 1865); "Historical Notes on the Tractarian Movement" (London, 1865); "The Priest on the Mission" (London, 1871).
+
+BERNARD WARD

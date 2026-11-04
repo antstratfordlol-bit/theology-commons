@@ -1,0 +1,33 @@
+---
+title: "Joseph Henri Marie de Prémare"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "Joseph Brucker"
+signed: "Joseph Brucker"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Joseph_Henri_Marie_de_Prémare"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.joseph-henri-marie-de-premare} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Prelate"
+next: "Premonstratensian Canons"
+entry-type: "article"
+characters: 2778
+words: 439
+links: 0
+images: 0
+---
+
+# Joseph Henri Marie de Prémare {#cathen.joseph-henri-marie-de-premare}
+
+Joseph Henri Marie de Prémare, missionary and sinologist, born at Cherbourg, 17 July, 1666; died at Macao, 17 Sept., 1736; entered the Society of Jesus 17 Sept., 1683, and departed for China in 1698. He laboured as missionary chiefly in the province Kwang-si. When the Christian faith was proscribed by Emperor Yong-tching, in January, 1724, Prémare was confined with his colleagues in Canton. A still more rigorous edict banished him to Macao. In his retirement he studied profoundly the language and literature of China, and in the opinion of sinologists he, of all the older missionaries, best succeeded in grasping their peculiarities and beauties. His principal work is entitled: "Notitia linguæ sinicæ"; in simple form it explains the rules and usage of the vulgar Chinese language (*siao shue*), and the style of the written, literary language (*wen tchang*). The famous English sinologist, James Legge, calls it "an invaluable work, of which it could hardly be possible to speak in too high terms". Father de Prémare is one of the missionaries who furnished Father Jean-Baptiste du Halde with the material for his "Description de la Chine" (Paris, 1735). We owe him, in particular, the translation of the maxims taken from the Shu-King (Du Halde, II, 298); of eight odes of the Shi-King (II, 308); of the "Orphan of the House of Tchao", a Chinese tragedy (III, 341); the notes on the course of study, literary degrees and examinations of the Chinese (II, 251); etc. In "Lettres Edifiantes et Curieuses" we find many letters from Father Prémare. A much greater number of his writings are unedited, preserved, chiefly, at the National Library (Paris). Many undertake the defence of figurism, the name of a singular system of interpreting ancient Chinese books, the inventor of which was Father Joachim Bouvet. Following Bouvet, Prémare thought he discovered in the Chinese *King* (see CHINA) suggestions of Christian doctrines and allusions to the mysteries of Christianity. The written Chinese words and characters are to him but symbols that hide profound senses. The three or four missionaries who adopted these ideas of Bouvet were never authorized to publish them in book form. The most important work which Father de Prémare wrote in their defence has only recently appeared, translated from the Latin by M. Bonnetty, director of the "Annales de philosophie chrétienne", aided by Abbé Perny, formerly missionary to China. It is entitled: "Vestiges choisis des principaux dogmes de la religion chrétienne, extraits des anciens livres chinois" (Paris, 1878).
+
+DE BACKER-SOMMERVOGEL, *Bibliothèque des écrivains de la Compagnie de Jésus,* VI, 1196-1201; IX, 784; CORDIER, *Bibliotheca Sinica,* I; BRUCKER, *Etudes religieuses,* 6 ser., III, 425 (1877).
+
+Joseph Brucker.

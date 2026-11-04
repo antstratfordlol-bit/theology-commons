@@ -1,0 +1,46 @@
+---
+id: "basil-epistulae.en.73"
+title: "To Callisthenes."
+work: "Epistulae"
+author: "Basil the Great"
+volume: "NPNF2-08. Basil: Letters and Select Works"
+volume-id: "npnf208"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf208.xml"
+source-id: "ix.lxxiv"
+sigla: "basil-epistulae"
+part-of: "basil-epistulae"
+part-ref: "73"
+part-kind: "text"
+part-evidence: "printed:body-line1:Letter LXXIII."
+title-source: "bkv-clavis"
+clavis: "CPG 2900"
+boundary-decision: "one work; letters CCCLXI-CCCLXV share one file and one ranged anchor"
+anchors: "{#basil-epistulae.73} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 1
+scripture-references: 0
+scripture-refs-sidecar: "_scripture-refs/npnf208.tsv"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# To Callisthenes. {#basil-epistulae.73}
+
+Letter LXXIII.[^2259]
+
+*To Callisthenes*.
+
+1. When I had read your letter I thanked God; first, that I been greeted by a man desirous of doing me honour, for truly I highly estimate any intercourse with persons of high merit; secondly, with pleasure at the thought of being remembered. For a letter is a sign of remembrance; and when I had received yours and learnt its contents I was astonished to find how, as all were agreed, it paid me the respect due to a father from a son. That a man in the heat of anger and indignation, eager to punish those who had annoyed him, should drop more than half his vehemence and give me authority to decide the matter, caused me to feel such joy as I might over a son in the spirit. In return, what remains for me but to pray for all blessings for you? May you be a delight to your friends, a terror to your foes, an object of respect to all, to the end that any who fall short in their duty to you may, when they learn how gentle you are, only blame themselves for having wronged one of such a character as yourself!
+
+2. I should be very glad to know the object which your goodness has in view, in ordering the servants to be conveyed to the spot where they were guilty of their disorderly conduct. If you come yourself, and exact in person the punishment due for the offence, the slaves shall be there. What other course is possible if you have made up your mind? Only that I do not know what further favour I shall have received, if I shall have failed to get the boys off their punishment. But if business detain you on the way, who is to receive the fellows there? Who is to punish them in your stead? But if you have made up your mind to meet them yourself, and this is quite determined on, tell them to halt at Sasima, and there show the extent of your gentleness and magnanimity. After having your assailants in your own power, and so showing them that your dignity is not to be lightly esteemed, let them go scot free, as I urged you in my former letter. So you will confer a favour on me, and will receive the requital of your good deed from God.
+
+3. I speak in this way, not because the business ought so to be ended, but as a concession to your agitated feelings, and in fear lest somewhat of your wrath may remain still raw. When a man’s eyes are inflamed the softest application seems painful, and I am afraid lest what I say may rather irritate than calm you. What would really be most becoming, bringing great credit to you, and no little cause of honour to me with my friends and contemporaries, would be for you to leave the punishment to me. And although you have sworn to deliver them to execution as the law enjoins, my rebuke is still of no less value as a punishment, nor is the divine law of less account than the laws current in the world. But it will be possible for them, by being punished here by our laws, wherein too lies your own hope of salvation, both to release you from your oath and to undergo a penalty commensurate with their faults.
+
+But once more I am making my letter too long. In the very earnest desire to persuade you I cannot bear to leave unsaid any of the pleas which occur to me, and I am much afraid lest my entreaty should prove ineffectual from my failing to say all that may convey my meaning. Now, true and honoured son of the Church, confirm the hopes which I have of you; prove true all the testimony unanimously given to your placability and gentleness. Give orders to the soldier to leave me without delay; he is now as tiresome and rude as he can well be; he evidently prefers giving no cause of annoyance to you to making all of us here his close friends.
+
+[^2259]: Of the same date as the preceding.

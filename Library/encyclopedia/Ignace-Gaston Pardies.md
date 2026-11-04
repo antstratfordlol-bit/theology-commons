@@ -1,0 +1,33 @@
+---
+title: "Ignace-Gaston Pardies"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "unknown"
+author: "Edward C. Phillips"
+signed: "Edward C. Phillips"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Ignace-Gaston_Pardies"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.ignace-gaston-pardies} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Paray-le-Monial"
+next: "Pardons of Brittany"
+entry-type: "article"
+characters: 1971
+words: 311
+links: 0
+images: 0
+---
+
+# Ignace-Gaston Pardies {#cathen.ignace-gaston-pardies}
+
+French scientist, b. at Pau, 5 Sept., 1636; d. of fever contracted whilst ministering to the prisoners of Bicêtre, near Paris, 22 April, 1673. He entered the Society of Jesus 17 Nov., 1652 and for a time taught classical literature; during this period he composed a number of short Latin works, in prose and verse, which are praised for their delicacy of thought and style. After his ordination he taught philosophy and mathematics at the College of Louis-le-Grand in Paris. His early death cut short a life of unusual activity in the sciences. His earliest work is the "Horolgium Thaumanticum Duplex" (Paris, 1662), in which is described an instrument he had invented for constructing various kinds of sun-dials. Three years later appeared his "Dissertatio de Motu et Natura Cometarum", published separately in Latin and in French (Bordeaux, 1665). His "Discours du mouvement local" (Paris, 1670), "La Statique" (Paris, 1673), and the manuscript "Traité complet d'Optique", in which he followed the undulatory theory, form part of a general work on physics which he had planned. He opposed Newton's theory of refraction and his letters together with Newton's replies (which so satisfied Pardies that he withdrew his objections) are found in the "Philosophical Transactions" for 1672 and 1673. His "Discours de la Connaissance des Bestes" (Paris, 1672) combatted Descartes's theories on the subject so feebly that many looked on it as a covert defence rather than a refutation, an impression which Pardies himself afterwards endeavoured to destroy. His "Elémens de Géométrie" (Paris, 1671) was translated into Latin and English. He left in manuscript a work entitled "Art de la Guerre" and a celestial atlas comprising six charts, published after his death (Paris, 1673-74). His collected mathematical and physical works were published in French (The Hague, 1691) and in Latin (Amsterdam, 1694).
+
+SOMMERVOGEL, *Bibl. de la C. de J.* (Brussels, 1895).
+
+Edward C. Phillips.

@@ -1,0 +1,33 @@
+---
+title: "Abbey of Dissentis"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "5"
+pages: "unknown"
+author: "Cyprian Alston"
+signed: "G. CYPRIAN ALSTON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Abbey_of_Dissentis"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.abbey-of-dissentis} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Heinrich von Dissen"
+next: "Distraction"
+entry-type: "article"
+characters: 2773
+words: 459
+links: 0
+images: 0
+---
+
+# Abbey of Dissentis {#cathen.abbey-of-dissentis}
+
+A Benedictine monastery in the Canton Grisons in eastern Switzerland, dedicated to Our Lady of Mercy. Tradition ascribes its foundation to Sts. Placid and Sigebert, in the year 614, but Mabillon places the date two years earlier. The history of the abbey has been somewhat chequered, but it has at times risen to positions of great importance and influence. It was destroyed by the Avars in 670, when its abbot and thirty monks suffered martyrdom, but was rebuilt by Charles Martel and Abbot Pirminius in 711. Charlemagne visited the abbey on his return journey from Rome in 800 and bestowed upon it many benefactions. Abbot Udalric I (1031-1055) was the first of its superiors to be made a prince of the empire, which dignity was subsequently held by several other of its abbots; many of them also became bishops of the neighbouring sees. In 1581 the abbey was honoured by a visit from St. Charles Borromeo. After enjoying independence for a thousand years it was incorporated into the newly formed Swiss Congregation in 1617, since which date it has, in common with the other five Benedictine abbeys of Switzerland, been subject to the jurisdiction of the president of that Congregation. In 1799 it was burned and plundered by the soldiers of Napoleon's army, when amongst other valuable treasures, a seventh century manuscript chronicle of the abbey perished. The printing press that had been set up in 1729 was also destroyed at the same time, but much of the melted type and other metal was saved and from it were made the pipes of the organ of St. Martin's church at Dissentis, which is still in use. The abbey was rebuilt by Abbot Anselm Huonder, the last of its superiors to enjoy the rank and title of Prince of the Empire. During the nineteenth century the monastery suffered greatly from misfortunes of various kinds, and so great was the relaxation of discipline in consequence that its recovery was almost despaired of. Abbot Paul Birker came from his abbey of St. Boniface at Munich to assist in restoring regular observance, but so little success attended his efforts that he left Dissentis in 1861 and returned to Munich as a simple monk. The abbey has, however, survived those evil times and is in a satisfactory and flourishing condition. Dom Benedict Prevost, the eightieth who has ruled over its fortunes, was abbot in 1908 of a community of between thirty and forty monks, who, among their other duties, served five public oratories and conducted successfully a gymnasium of nearly a hundred boys.
+
+Mabillon, *Annales Ordinis Sancti Benedicti* (Paris, 1703-1739); Yepez, *Chronicon Generale Ord. S. P. N. Benedicti* (Cologne, 1603); Brunner, *Ein Benediktinerbuch* (Würzburg, 1880); *Album Benedictinum* (St. Vincent's, Penn., 1880).
+
+G. CYPRIAN ALSTON

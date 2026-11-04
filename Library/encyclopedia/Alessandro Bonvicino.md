@@ -1,0 +1,35 @@
+---
+title: "Alessandro Bonvicino"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Augustus Van Cleef"
+signed: "AUGUSTUS VAN CLEEF"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Alessandro_Bonvicino"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.alessandro-bonvicino} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Institute of Bon Secours (de Paris)"
+next: "Book of Common Prayer"
+entry-type: "article"
+characters: 2466
+words: 421
+links: 0
+images: 0
+---
+
+# Alessandro Bonvicino {#cathen.alessandro-bonvicino}
+
+(Called Il Moretto, or Moretto da Brescia).
+
+One of the finest North Italian painters of the sixteenth century, born at Brescia about 1498; died at the same place, 1555. It is said that he was a pupil of Titian, but it is considered more likely that he was but an earnest student of the works of this great master whose style he imitated so closely that many of his portraits bear well a comparison with those of the noted Venetian. It is known that he studied under his father, also a painter, and under Florianu Ferramola, and that G. Itomanino had much influence over him. He himself had as a pupil that superb portrait painter, Giambattista Moroni. Bonvicino's manner is most natural and attractive; his feeling, where necessary, most devotional, his colour remarkable for its freshness and opulence, and his figures sympathetic and graceful. He was in his later life greatly influenced by Raphael. He assisted Ferramola in painting an altar screen for the old cathedral at Brescia and did similar work for Romanino in the church of San Giovanni Evangillesta in that city. It was here, also, that he produced his notable painting, the "Massacre of the Innocents"
+
+Among his other church works at Brescia are the "Coronation of the Virgin", and "Christ in Glory", at Santi Nazzaro e Celso: "The Ascension of the Virgin", "Five Virgin Martyrs", and "St. Ursula", in San Clemente "The Majesty of St. Margaret" in San Francesco; "The Enthronement of St. Anthony of Padua", in Santa Maria delle Grazie, "The Virgin and St. Nicholas", in Saint Maria de Miracoli; and "Christ in the House of Simon", in Santa Maria Calchera. In the Brescia Gallery, among other works, is a "St. Nicholas of Bari", in Venice at Santa Maria della Pietà is his "Feast in the House of Simon", at Florence, are "The Descent of Christ into Hades", "The Death of Adonis", and a male portrait; at the Brea in Milan, "The Assumption", "Virgin in Glory", "Sts. Clara and Catherine", and "St. Jerome and an Apostle"; at the Ambrosiana in the same city the "Death of Peter Martyr". At the Louvre are "St. Bernardine and St. Louis of Toulouse" and "Sts. Bonaventure and Anthony"; and the National Gallery in London a "Virgin and Child with two Saints", "St. Bernardine of Sienna", and two portraits of Italian noblemen. In the Städel Institute at Frankfort is the "Enthroned Madonna" with four doctors of the Church below, and there are examples in many other European galleries.
+
+AUGUSTUS VAN CLEEF

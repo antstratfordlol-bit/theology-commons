@@ -1,0 +1,33 @@
+---
+title: "Edward Walsh"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "William Henry Grattan Flood"
+signed: "W. H. Grattan-Flood"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Edward_Walsh"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.edward-walsh} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Ven. Henry Walpole"
+next: "Peter Walsh"
+entry-type: "article"
+characters: 1731
+words: 284
+links: 0
+images: 0
+---
+
+# Edward Walsh {#cathen.edward-walsh}
+
+Irish poet, born at Derry in 1805; died at Cork, 6 August, 1850. When little more than a boy he showed great intellectual gifts, and in 1830 was private tutor in County Cork. He was for a time teacher of a school at Millstreet, whence, in 1837, he removed to Tourin, County Waterford, having been appointed to a school under the Commissioners of Education. Many of his songs and poems appeared between the years 1832-39, and he contributed to the "Nation". Worried with the surroundings of an uncongenial occupation, and pestered by officials, whose visits were ill-received by the super-sensitive poet, he went to reside in Dublin in 1843, and was befriended by Gavan Duffy, who got him appointed sub-editor of the "Monitor". His "Irish Jacobite Poetry" (1844) and his "Irish Popular Songs" (1847) gave unmistakable evidence of a genuine poet. Yet he was forced to fight against poverty, and, in 1848, he accepted the post of schoolmaster to the junior convicts of Spike Island, where he was visited by John Mitchell, on his way to penal servitude, who vividly describes in his "Jail Journal" his meeting with Walsh. Not long afterwards, he secured the schoolmastership of Cork work-house, but died within twelve months. A fine monument, with an epitaph in Irish and English, was erected to his memory in the Father Mathew Cemetery at Cork. Among his lyrics "Mo Chragibhin Cno", "Brighidin ban mo stor", and "O'Donovan's Daughters" are in most Irish anthologies, while his translations from the Irish are both faithful and musical.
+
+KICKHAM, Edward Walsh in The Celt (Dublin, 1857); COLLINS, Celtic-Irish Songs and Song Writers (London, 1885); BROOKE and ROLLESTON, A Treasury of Irish Poetry (London, 1900).
+
+W. H. Grattan-Flood.

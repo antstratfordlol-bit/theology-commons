@@ -1,0 +1,31 @@
+---
+title: "Column"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Thomas Henry Poole"
+signed: "THOMAS H. POOLE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Column"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.column} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Diocese of Columbus"
+next: "Diocese of Comacchio"
+entry-type: "article"
+characters: 1719
+words: 286
+links: 0
+images: 0
+---
+
+# Column {#cathen.column}
+
+In architecture a round pillar, a cylindrical solid body, or a many-sided prism, the body of which is sometimes reeded or fluted, but practically cylindrical in shape, and which supports another body in a vertical direction. A column has, as its most essential portion, a long solid body, called the shaft, set vertically on a stylobate, or on a congeries of mouldings which forms its base, the shaft being surmounted by a more or less bulky mass, which forms its capital. Columns are distinguished by the names of the styles of architecture to which they belong; thus there are Hindu, Egyptian, Grecian, Roman, and Gothic columns. In classic architecture they are further distinguished by the name of the order to which they belong, as Doric, Ionic, Composite, or Tuscan columns. They may also be characterized by some pecularity of position, of construction, of form, or of ornament, as attached, twisted, cabled, etc. Columns are either insulated or attached. They are said to be attached or engaged when they form part of a wall, projecting one-half or more, but not the whole of their substance. Cabled or rudented columns are such as have their flutings filled with cables or astragals to about the third of the height. Carolitic columns have their shafts foliated. In the earliest columnar architecture, that of the Egyptians, and in the Greek Doric, there were no bases. Capitals, however, are universal, but are mainly decorative in character. In Grecian and Roman architecture the proportions are settled, and vary according to the order. The term is sometimes applied to the pillars or piers in Norman and Gothic architecture. In modern usage the term is applied to supports of iron or wood.
+
+THOMAS H. POOLE

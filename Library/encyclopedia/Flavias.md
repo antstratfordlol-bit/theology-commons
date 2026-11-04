@@ -1,0 +1,33 @@
+---
+title: "Flavias"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Siméon Vailhé"
+signed: "S. VAILHÉ"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Flavias"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.flavias} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Flavian"
+next: "Abbey of Flavigny"
+entry-type: "article"
+characters: 1550
+words: 269
+links: 0
+images: 0
+---
+
+# Flavias {#cathen.flavias}
+
+A titular see of Cilicia Secunda. Nothing is known of its ancient name and history, except that it is said to be identical with Sis. Lequien (II, 899) gives the names of several of its bishops: Alexander, later Bishop of Jerusalem and founder of the famous library of the Holy Sepulchre in the third century; Nicetas, present at the Council of Nicaea (325); John, who lived in 451; Andrew in the sixth century; George (681); and Eustratus, Patriarch of Antioch about 868. If the identification of Flavias with Sis, which is probable, be admitted, it will be found that it is first mentioned in Theodoret's life of St. Simeon Stylites.
+
+In 704 the Arabs laid siege to the stronghold of Sis. From 1186 till 1375 the city was the capital of the Kings of Lesser Armenia. In 1266 it was captured and burned by the Egyptians. Definitely conquered by the latter in 1375, it passed later into the power of the Ottomans. In the Middle Ages it was the religious centre of Christian Armenians, at least until the catholicos established himself at Etschmiadzin. Sis is still the residence of an Armenian catholicos who has under his jurisdiction several bishops, numerous villages and convents. It is the chief town of the caza of the same name in the vilayet of Adana and numbers 4000 inhabitants, most of whom are Armenians. The great heats compel the inhabitants to desert it during the summer months. It is surrounded by vineyards and groves of cypress and sycamore trees. Ruins of churches, convents, castles and palaces may be seen on all sides.
+
+S. VAILHÉ

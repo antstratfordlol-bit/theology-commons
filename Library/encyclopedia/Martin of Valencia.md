@@ -1,0 +1,35 @@
+---
+title: "Martin of Valencia"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Zephyrin Engelhardt"
+signed: "Zephyrin Engelhardt"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Martin_of_Valencia"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.martin-of-valencia} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Martin of Troppau"
+next: "John Martinov"
+entry-type: "article"
+characters: 1556
+words: 249
+links: 0
+images: 0
+---
+
+# Martin of Valencia {#cathen.martin-of-valencia}
+
+(Juan Martin de Boil)
+
+Born at Villa de Valencia, Spain, about the middle of the fifteenth century; died in the odour of sanctity at Tlalmanalco, Mexico, 31 August, 1534. He entered the Franciscan Order at Mayorga in the Province of Santiago, built the monastery of Santa Maria del Berrogal, and was the thief founder of the Custody of San Gabriel, for which he visited Rome. In 1523 he was chosen to head a band of twelve Franciscans who were to labour for the conversion of the Mexican natives. They reached their destination on May, 1524, and to the amazement of the Mexican chiefs were received with the most profound veneration by Hernando Cortes shortly after their arrival. (See FRIARS MINOR IN AMERICA.) Fr. Martin, as apostolic delegate, presided at the first ecclesiastical synod in the New World, 2 July, 1524. At the same time he established the Custody of the Holy Gospel, of which he was elected the first *custos*. After an interval of three years he was re-elected in 1830. He led a most penitential life, and he and his eleven companions the band known as the Twelve Apostles of Mexico, are said to have baptized several million natives.
+
+HAROLD, Epitome Annalium FF. Minorum (Rome, 1672); GONZAGA, De Origine Seraphicae Religionis, II (Rome, 1587); MENDIETA, Historia Eclesiastica Indiana (Mexico, 1870); VETANCURT, Cronica de la Prov. del Santo Evangelo (Mexico, 1697); Menologio Franciscano (Mexico, 1697); TORQUEMADA, Monarquia Indiana, I (Madrid, 1723); PERUSINI, Cronologia, Historico-Legalis, III (Rome, 1752).
+
+Zephyrin Engelhardt.

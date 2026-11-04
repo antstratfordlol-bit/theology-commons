@@ -1,0 +1,33 @@
+---
+title: "Aloysius Schlör"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Francis Mershman"
+signed: "FRANCIS MERSHMAN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Aloysius_Schlör"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.aloysius-schlor} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Schleswig"
+next: "John Frederick Henry Schlosser"
+entry-type: "article"
+characters: 1728
+words: 277
+links: 0
+images: 0
+---
+
+# Aloysius Schlör {#cathen.aloysius-schlor}
+
+Ascetical writer, b. at Vienna, 17 June, 1805; d. at Graz, 2 Nov., 1852. After completing his studies at Vienna he was ordained priest on 22 Aug., 1828, and placed as chaplain at Altlerchenfeld. In 1831 he was prefect of studies at the seminary of Vienna and at the same time took advanced studies in theology, earning the degree of Doctor in 1832. Two years later he was appointed spiritual director of the Frintaneum and chaplain at the Court and confessor to Emperor Ferdinand. He resigned his position in 1837, labored as chaplain for the Germans at Verona, was then adopted into the Diocese of Seckau and made spiritual director at the priests' seminary in Graz. Here he spent the rest of his days, doing much for the reformation of the clergy in Austria, especially by the reintroduction of spiritual retreats and by his writings. The principal of these are:"'Warum bin ich Katholik?" published between 1834 and 1837; "Jesu mein Verlangen", a much-valued prayerbook (1835, 7th ed., 1902), "Philanthropie des Glaubens, oder das kirchliche Leben in Verona in der neuesten Zeit", 1839; "Geistesübungen des hl. Ignatius" (1840); "Clericus orans et meditans" (1841, 1883); "Der geistliche Wegweiser" (1842), to which is added an instruction showing how a priest can obtain a good library; "Der Kleriker in der Einsamkeit" (1844, 1902); "Betrachtungen für Priester und Kleriker" (3 vols., 1847; 1900). His sermons were published in 1851, and a special edition of his Lenten Sermons was issued in 1905.
+
+Hist.-polit. Blatter, V, 590; Linzer Quartalschr. (1883), 886; (1884), 188; (1890), 431; Allgem. deutsche Biogr., s. v. WURZBACH, Biogr. Lex. des Kaisertums Oesterreich, XXX, 132; HURTER, Nomencl., II, 1163.
+
+FRANCIS MERSHMAN

@@ -1,0 +1,35 @@
+---
+title: "Luigi Gaetano Marini"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Paul Maria Baumgarten"
+signed: "Paul Maria Baumgarten"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Luigi_Gaetano_Marini"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.luigi-gaetano-marini} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Marini"
+next: "Pope Marinus I"
+entry-type: "article"
+characters: 3315
+words: 538
+links: 0
+images: 0
+---
+
+# Luigi Gaetano Marini {#cathen.luigi-gaetano-marini}
+
+A natural philosopher, jurist, historian, archeologist, born at Sant' Orcangelo (pagus Acerbotanus), 18 Dec., 1742; died at Paris, 7 May, 1815. Having received a comprehensive preparatory education at the College of San Marino and at the seminary at Rimini, he was able to pass through the legal and philological studies at Bologna University brilliantly, and to graduate at Ravenna *in utroque jure* (in both branches of law). He went to Rome in Dec., 1764, where he gained the friendship of Cardinal Alessandro Albani and Garampi. He entered into relations with the most distinguished scholars of his day, and maintained with them an extensive correspondence. In 1772 he was appointed coadjutor to Marino Zampini, prefect of the archives; and was also given the position by the Roman Republic of prefect of the archives at the Vatican and the Castle of St. Angelo, as well as that of president of the Vatican Museum and the Vatican Library. On 18 Aug., 1800, Pius VII made him *primus custos* of the Vatican Library and also prefect of the archives. In Jan., 1805, he was made a *cameriere d'onore* to the pope.
+
+When the archives of the Curia were carried off to Paris by Napoleon, he accompanied them, and reached Paris, 11 April, 1810. After Napoleon's fall the Count of Artois, viceregent and brother of the king, issued a decree on 19 April, 1814, directing the restitution to the Holy See of the archives, of all documents and Manuscripts, and of several other collections. On 28 April the papal commissioners, Mgr. de Gregorio, Mgr. Gaetano Marini, and his nephew Don Marino Marini, took charge of the whole of this property; but before it had reached Rome Gaetano Marini, who had long been an invalid, died at Paris. He was a scholar of eminent parts, a thorough master of Latin, Greek, and Hebrew; and possessed profound legal knowledge. By choice he took up questions of natural philosophy; as an archæologist and historian he is esteemed even today. His great work on papyrus records is a standard work on the investigation of papyri. His book on the Arval Brothers of ancient Rome, showed great erudition and brought to light so much that was new, that its appearance created considerable stir. His classification of five thousand inscriptions, both Christian and heathen, in the Galleria Lapidaria at the Vatican, is a masterpiece, and earned for him the honorary title of "Restorer" of Latin epigraphics ["Inscriptiones (only preserved in Manuscript) christianæ Latinæ et Græcæ ævi Milliarii conlegit digessit adnotationibusque auxit Caietanus Marinus a Bibliotheca Vaticana item a scriniis sedis apostolicæ. Duæ partes"]. Marini was a cleric, but not a priest. He was distinguished for his piety, often praying for hours before the Blessed Sacrament. He went to communion three times a week. During his residence in Paris he gave away alms to the extent of 3000 scudi (dollars).
+
+MARINO MARINI. *Degli. Aneddoti di Gaetano Marini: Commentario di suo nipote* (Rome, 1822); MORONI, *Dizionarzo di Erudizione Storico-Ecclesiatica,* IV, 286; MARINO MARINI, *Memorie Storiche dell' occupazione e restitutione degli Archivii della S. Sede e del riacquisto de' Codici e Museo Numismatico del Vaticano e de' Manoscritti e parte del Museo di Storia Naturale di Bologna* (Rome, 1885).
+
+Paul Maria Baumgarten.

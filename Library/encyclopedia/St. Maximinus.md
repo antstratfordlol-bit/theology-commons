@@ -1,0 +1,33 @@
+---
+title: "St. Maximinus"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: "Michael Ott"
+signed: "MICHAEL OTT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Maximinus"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-maximinus} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Maximilian I"
+next: "Caius Valerius Daja Maximinus"
+entry-type: "article"
+characters: 2924
+words: 507
+links: 0
+images: 0
+---
+
+# St. Maximinus {#cathen.st-maximinus}
+
+Bishop of Trier, b. at Silly near Poitiers, d. there, 29 May, 352 or 12 Sept., 349. He was educated and ordained priest by St. Agritius, whom he succeeded as Bishop of Trier in 332 or 335. At that time Trier was the government seat of the Western Emperor and, by force of his office, Maximinus stood in close relation with the Emperors Constantine II and Constans. He was a strenuous defender of the orthodox faith against Arianism and an intimate friend of St. Athanasius, whom he harboured as an honoured guest during his exile of two years and four months (336-8) at Trier. He likewise received with honours the banished patriarch Paul of Constantinople in 341 and effected his recall to Constantinople. When four Arian bishops came from Antioch to Trier in 342 with the purpose of winning Emperor Constans to their side, Maximinus refused to receive them and induced the emperor to reject their proposals. In conjunction with Pope Julius I and Bishop Hosius of Cordova, he persuaded the Emperor Constans to convene the Synod of Sardica in 343 and probably took part in it. That the Arians considered him as one of their chief opponents is evident from the fact that they condemned by name along with Pope Julius I and Hosius of Cordova at their heretical synod of Philippopolis in 343 (Mans, "Sacrorum Conc. nova et ampl. Coll.", III, 136 sq.). In 345 he took part in the Synod of Milan and is said to have presided over a synod held at Cologne in 346, where Bishop Euphratas of Cologne was deposed on account of his leanings toward Arianism. {Concerning the authenticity of the Acts of this synod see the new French translation of Hefele's "Conciliengeschichte", I, ii (Paris, 1907), pp. 830-34.} He also sent Sts. Castor and Lubentius as missionaries to the valleys of the Mosel and the Lahn. It is doubtful whether the Maximinus whom the usurper Magnentius sent as legate to Constantinople in the interests of peace is identical with the Bishop of Trier (Athanasius, "Apol. ad Const. Imp.", 9). His cult began right after his death. His feast is celebrated on 29 May, on which day his name stands in the martyrologies of St. Jerome, St. Bede, St. Ado, and others. Trier honours him as its patron. In the autumn of 353 his body was buried in the church of St. John near Trier, where in the seventh century was founded the famous Benedictine abbey of St. Maximinus, which flourished till 1802.
+
+A life, full of fabulous accounts, by a monk of St. Maximinus in the eighth century, is printed in *Acta SS.*, May, VII, 21-24. The same life, revised by SERVATUS LUPUS, is found in MIGNE, *P.L.* CXIX, 21-24, and in *Mon. Germ. Script. rerum Merov.*, III, 74-82; DIEL, *Der heilige Maximinus und der heilige Paulinus, Bischofe von Trier* (Trier, 1875); CHAMARD, *St. Maximin de Treves, St. Athenase et les semi-Ariens* in *Revue des Quest. hist.*, II (Paris, 1867), 66-96; BENNETT in *Dict. Christ. Biog.*, s.v.
+
+MICHAEL OTT

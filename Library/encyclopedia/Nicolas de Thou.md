@@ -1,0 +1,33 @@
+---
+title: "Nicolas de Thou"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "Pierre-Louis-Théophile-Georges Goyau"
+signed: "GEORGES GOYAU"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Nicolas_de_Thou"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.nicolas-de-thou} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Jacques-Auguste de Thou"
+next: "Three Chapters"
+entry-type: "article"
+characters: 1866
+words: 319
+links: 0
+images: 0
+---
+
+# Nicolas de Thou {#cathen.nicolas-de-thou}
+
+Bishop of Chartres, uncle of the historian Jacques-Auguste de Thou, b. at Paris, 1528; d. at Villebon, 5 Nov., 1598. He became a canon of the cathedral of Paris in 1547, and Bishop of Chartres by a Bull of 8 April, 1573. His antipathy for the League, shared by his brother, President Chrisophe de Thou (1508-82), made the bishop's position difficult when the people of Chartres, who were devoted to the League, shut their gates (17 Jan., 1589) to the troops of Henry III, subsequently welcomed the Duc de Mayenne, and recognized the aged cardinal de Bourbon as king. Nicholas de Thou temporized, and on 20 April, 1591, received in his place Henry of Navarre, the future Henry IV. On 21 Sept., 1591, he attended the assembly of bishops which declared "null, unjust and suggested by the malice of the enemies of France" Gregory XIV's Bull of excommunication against Henry of Navarre, and on 25 July, 1593, he assisted at Henry IV's abjuration in St.-Denis. As Reims was still in the power of the Duc de Mayenne, Chartres was the city chosen for the coronation. To end the dispute with Renaud de Beaune, Archbishop of Bourges, who had just been appointed Archbishop of Sens and who claimed the honour of anointing the king, de Thou by a skilful move had himself appointed by the archbishop of Reims as his representative and was thus commissioned to proceed with the coronation. Instead of the Sainte Ampoule there was brought from Tours a miraculous oil preserved in the Abbey of Marmoutier. The anointing took place 27 Feb., 1594, and the next day Nicolas de Thou bestowed on the king the Collar of the Order of the Holy Ghost. He left various pastoral writings and a book entitled "Cérémonies observées au sacre et couronnement d'Henri IV, roi de France".
+
+CAYET, Chronologie novennaire, bk. VI; FISQUET, La France pontificale: Chartres (Paris, 1873).
+
+GEORGES GOYAU

@@ -1,0 +1,35 @@
+---
+title: "Sebastian Westcott"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "William Henry Grattan Flood"
+signed: "W. H. Grattan-Flood"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Sebastian_Westcott"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.sebastian-westcott} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Wessobrunn"
+next: "Ancient See of Westeraas"
+entry-type: "article"
+characters: 2460
+words: 407
+links: 0
+images: 0
+---
+
+# Sebastian Westcott {#cathen.sebastian-westcott}
+
+English organist, born about 1524, was a chorister, under Redford, at St. Paul's Cathedral, London, and in 1550 became organist, almoner, and master of the boys of that cathedral. He retained his post at St. Paul's, under Edward VI, Queen Mary, and Queen Elizabeth, from 1550 to 1583, and this notwithstanding the fact that he was an avowed protagonist of the ancient Faith, for which he suffered deprivation and even imprisonment. His chief title to fame rests on the many plays and pageants, with music, which he produced for the delectation of the English Court during a period of thirty-three years, these plays being performed by the boys of the cathedral school. So celebrated was he in this respect that he is seldom mentioned by his surname (Westcott), but almost invariably as "Master Sebastian". Under Queen Mary this Catholic organist had the honour of arranging the music for the formal restoration of the ancient Faith at St. Paul's, in Nov., 1553, and he composed a "Te Deum" which was sung on 9 Feb., 1554, on the suppression of Wyatt's rebellion. He also conducted the service for the reception of Cardinal Pole on the first Sunday of Advent, 1554, when the beautiful motet: "Te spectant Reginalde Pole", by Orlando di Lassus, was sung. Di Lassus was in England at this time, as was also Philippe de Monti, and both were probably present.
+
+Under Elizabeth, in 1559, Westcott refused to subscribe to the new "articles", and was deprived of his post, but owing to the favour of the queen was permitted to retain it. Official documents from 11559 to 1561 amply prove that "Master Sebastian" was well paid for his musical and dramatic performances. Rev. Dr. Nicholas Sander, in a report to Cardinal Morone, in May 1561, highly praises Westcott. At length, in December, 1577, he was deprived by the Protestant Bishop Allmer and imprisoned in the Marshalsea as a Catholic recusant. Evidently Queen Elizabeth missed her customary Christmas plays by the choristers of St. Pal's, and so she ordered the release of Master Sebastian on 19 March, 1578. Even during the fierce persecution of the year 1583 this sturdy confessor-musician was allowed to continue in office, but in 1583 his name disappears from official records and he either resigned or died in that year. His successor was appointed in 1584.
+
+BIRT, Elizabethan Religious Settlement (London, 1907); GRATTAN-FLOOD, Master Sebastian in The Musical Antiquary (April, 1912).
+
+W. H. Grattan-Flood.

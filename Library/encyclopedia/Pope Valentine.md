@@ -1,0 +1,31 @@
+---
+title: "Pope Valentine"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Johann Peter Kirsch"
+signed: "J.P. KIRSCH"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pope_Valentine"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pope-valentine} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Valentine"
+next: "Valentinian"
+entry-type: "article"
+characters: 1234
+words: 206
+links: 0
+images: 0
+---
+
+# Pope Valentine {#cathen.pope-valentine}
+
+Date of birth unknown; died about October, 827. Valentine was by birth was Roman, belonging to the Via Lata district. While still a youth he entered the service of the Church. His biographer in the "Liber pontificalis" (ed. Duchesne, II, 71-2) praises his piety and purity of morals, which won him the favour of Paschal I (817-24). Paschal ordained him at the Lateran palace, and placed him as archdeacon at the head of the Roman diaconate. Valentine retained his influential position during the pontificate of Eugene II (824-7), and after Eugene's death (27 August, 827) was unanimously elected his successor by the clergy, nobles, and people of Rome. The election had taken place at the Lateran whence the entire company proceeded to Sancta Maria Maggiore, where Valentine was tarrying in prayer. He was led to the Lateran basilica and placed upon the papal throne. After this, probably on the succeeding Sunday, he was consecrated bishop at St. Peter's, and then enthroned as pope. No information has been preserved of his brief reign, he died after he had occupied the papal see forty days according to the Liber pontificalis", and barely a month according to the testimony of the "Annales" of Einhard (*ad an.* 827).
+
+J.P. KIRSCH

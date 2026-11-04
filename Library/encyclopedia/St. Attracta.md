@@ -1,0 +1,33 @@
+---
+title: "St. Attracta"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "William Henry Grattan Flood"
+signed: "W. H. Grattan-Flood"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Attracta"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-attracta} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Atto of Vercelli"
+next: "Divine Attributes"
+entry-type: "article"
+characters: 2103
+words: 358
+links: 0
+images: 0
+---
+
+# St. Attracta {#cathen.st-attracta}
+
+(Or ST. ARAGHT).
+
+A contemporary of St. Patrick from whom she received the veil. She is known as the foundress of several churches in the Counties of Galway and Sligo, Ireland. Colgan's account of her life is based on that written by Augustine Magraidin in the last years of fourteenth century, and abounds in improbable statements. However, the fact of St. Attracta receiving the veil from St. Patrick is corroborated by Tirechán, in the "Book of Armagh", as is evident from the following passage in the "Documenta de S. Patricio" (ed. Edmund Hogan, S.J.): "Et ecclesiam posuit in cella Adrachtae, filiae Talain, et ipsa accepit pallium de manu Patricii." A native of the County Sligo, she resolved to devote herself to God, but being opposed by her parents, fled to South Connacht and made her first foundation at Drumconnell, near Boyle, County Roscommon, whence she removed to Greagraighe or Coolavin, County Sligo. At Killaraght, St. Attracta established a hospice for travellers, which existed as late as 1539. Her name was so great that numerous places were named after her, e.g. Killaraght (Cill Attracta), Toberaraght, Cloghan Araght, etc., and a large village which grew up around her oratory at Killaraght in Coolavin. Colgan gives an account of the Cross of St. Attracta which was famed during the Middle Ages, and of which the O'Mochain family were hereditary keepers. A striking confirmation of the existence of this relic in the early years of the fifteenth century is afforded by an entry in the "Calendar of Papal Letters" (VI, 45l) from which we learn that in 1413 the cross and cup of St. Attracta (Crux ac Cuach Aracht) were then venerated in the church of Killaraght, in the Diocese of Achonry. By an Indult of 28 July, 1864, Pius IX authorized the Office and Mass of St. Attracta, which had lapsed into desuetude, to be again celebrated in the Irish Church. The feast of St. Attracta, on 11 August, is given special honour in the Diocese of Achonry, of which she is the patroness. The prayers and proper lessons for her Office were drawn up by Cardinal Moran.
+
+W. H. Grattan-Flood.

@@ -1,0 +1,37 @@
+---
+title: "Francis Mayron"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: "Michael Bihl"
+signed: "MICHAEL BIHL"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Francis_Mayron"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.francis-mayron} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Beda Mayr"
+next: "Jules Mazarin"
+entry-type: "article"
+characters: 3531
+words: 527
+links: 0
+images: 0
+---
+
+# Francis Mayron {#cathen.francis-mayron}
+
+(DE MAYRONIS)
+
+Born about 1280, probably at Mayronnes, Department of Basses-Alpes, he entered the Franciscan order at the neighbouring Digne (or Sisteron). He had been teaching at the University of Paris for a long time as bachelor of theology when, on 24 May, 1323, John XXII at the request of King Robert of Naples, commanded the chancellor of the university to confer the degree of master of theology upon him. On 27 Sept., 1317, St. Elzear de Sabran died at Paris in Francis's arms. Francis was afterwards sent to Italy, and died at Piacenza, probably 26 July, 1327. It is generally accepted that Mayron introduced the famous "Actus Sorbonicus" into the University of Paris. This occurred at a disputation lasting from 5 a. m. to 7 p. m., in which the advocate had to defend his theses against any and all opponents who might offer to attack them, without any assistance and without either food or drink. Denifle has, however, denied this ("Chartularium Universit. Paris", II, Paris, 1891, 273), though only for this reason, that no "document" mentions anything about any such introduction by Mayron. Mayron was a distinguished pupil of Duns Scotus, whose teaching he usually followed. He was surnamed Doctor acutus, or Doctor illuminatus, also Magister abstractionum. His "Scripta super 4 libros Sententiarum" appeared at Venice, in 1507-8, 1519-20, 1520, 1526, 1556, 1567.
+
+The treatises added thereto, "De formalitatibus", "De primo principio", "Explanatio divinorum terminorum", are not his, but have been collected from his teachings. The "De univocatione entis", edited with other writings at Ferrara before 1490, is Mayron's. His work "Conflatus", on the sentences, appeared at Treviso in 1476; Basle, 1489, 1579(?); Cologne, 1510. Distinct from the latter are the "Conflatile", Lyons, 1579; "Passus super Universalia", "Praedicamenta", etc., Bologna, 1479, Lerida, 1485, Toulouse, 1490, Venice, 1489; "Sermones de tempore cum Quadragesimali", two editions without place or date, probably Brussels, 1483, and Cologne, Venice, I491; "Sermones de Sanctis", Venice, 1493, Basle, 1498 (with fourteen dissertations); "Tractatus de Conceptione B.M.V.", ed. Alva and Astorga in "Monumenta Seraphica pro Immaculata Conceptione", Louvain, 1665; "Theologicae Veritates in St. Augustinum de Civitate Dei", Cologne,1473, Treviso, 1476, Toulouse, 1488, Venice, 1489 (?); "Veritates ex libris St. Augustini de Trinitate", Lyons,1520. There are many other unedited writings on the works of St. Augustine, and philosophical and theological works, which testify to the extensive knowledge and the penetrating intellect of this eminent pupil of Duns Scotus. The treatise "De celebratione Missae", is also probably by him (cf. Ad. Franz, "Die Messe im deutschen Mittelalter", Freiburg, 1902, 493-5).
+
+RINONICO A PISIS, Liber Conformitatum in Analecta Francis cana, IV(Quaracchi, 1906), 339, 523, 540, 544; WADDING, Scriptores Ordinis Minorum (Rome, 1650), 123-5; ibid. (1806), 84; ibid. (1906), 85-6; SBARALEA, Supplementum ad Scriptores O. M., (Rome, 1806), 267-72 2nd. ed., ibid. 1908), 283-88; JOH. A. S. ANTONIO, Bibliotheca universa franciscana, I (Madrid, 1732), 405 sq.; FERET, La Faculte de Theologie de Paris, III, 323-30 (Paris, 1884—); STOCKL, Geschite der Philosophie im Mittelalter, II (Mainz, 1865), II, 868; HAUREAU, Histoire la Philosophie scolastique, II, ii (Paris, 1880), 298sq.; HURTER, Nomenclator literarius, II (Innsbruck, 1906), 522- 25; CHEVALIER, Repertoire de sources hist., II (Paris, 1907), 3271.
+
+MICHAEL BIHL

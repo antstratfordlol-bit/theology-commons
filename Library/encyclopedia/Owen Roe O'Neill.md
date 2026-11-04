@@ -1,0 +1,33 @@
+---
+title: "Owen Roe O'Neill"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "unknown"
+author: "Edward Alfred D'Alton"
+signed: "E. A. D'Alton"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Owen_Roe_O'Neill"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.owen-roe-oneill} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Hugh O'Neill"
+next: "Onias"
+entry-type: "article"
+characters: 3941
+words: 671
+links: 0
+images: 0
+---
+
+# Owen Roe O'Neill {#cathen.owen-roe-oneill}
+
+Born 1582; died near Cavan, 6 Nov., 1649, the son of Art O'Neill and nephew of Hugh, the great Earl of Tyrone. He was too young to take part in the long war in which his uncle was engaged, and when peace came in 1603 Owen went abroad and took service with the archdukes in Flanders. By 1606 he reached the rank of captain and was then residing at Brussels. When Richelieu determined to interfere in the Thirty Years War, O'Neill was already colonel, and for skill, and courage, and regource stood deservedly high among Spanish commanders. He was, therefore selected to defend Arras against the French in 1640 and though he had but 1500 men and was assailed by a force which from 30,000 was subsequently increased to three times that number, he stubbornly held his ground for nearly two months. His conduct extorted the admiration of the French commander who captured the place and who told O'Neill that he had surpassed the French in everything but fortune. Meantime important events had taken place in Ireland. The flight of the earls, the plantation of Ulster, the persecution of the Catholics, and the tyranny of Strafford proved that Irish Catholics had no security either in their religion or their lands. O'Neill was informed of all these events by the Irish leaders at home and was equally determined as they that, as peaceful measures were unavailing, there should be a recourse to arms. He was not, however, able to be in Ireland when the rebellion broke out in 1641, nor did he come till the summer of 1642, when he landed on the coast of Donegal bringing with him a good supply of arms and ammunition and 200 Irish officers, who like himself had acquired experience in foreign wars. O'Neill was at once appointed commander-in-chief of the rebel forces in Ulster. At that date the prospects were not bright. Dublin Castle had not been taken, nor Drogheda, Dundalk had not been held, and Sir Phelim O'Neill had but 1500 untrained men, while there were 12,000 English and Scotch soldiers in Ulster. While waiting to get a trained army together Owen Roe wanted to avoid meeting the enemy, nor did he fight except at Clones, where he was beaten, and at Portlester in Meath, where he defeated Lord Moore. Then, in 1643, came the cessation with Ormonde. The Puritans ignored both Ormonde and the cessation, and continued active in the several provinces. This compelled O'Neill to be vigilant and prepared, and in 1646 he fought the battle of Benburb with General Monroe. The latter was superior in numbers, and he had artillery which O'Neill lacked; but the Irishmen had the advantage of position, and won a great victory. Monroe fled to Lisburn without hat or cloak leaving more than 3000 of his men dead on the field, and arms, stores, colours, and provisions fell into O'Neill's hands. The fruits of this splendid vlctory were frittered away by futile negotiations with Ormonde and by divisions among the Catholics. O'Neill, backed by the nuncio, Rinuccini, wanted to cease negotiating, and to fight both the Puritans and the Royalists; but the Pale Catholics were more in agreement with Ormonde than with O'Neill, and in spite of the fact that he was the only Catholic general who had been almost uniformly successful they went so far as to declare him a rebel. Nor would Ormonde even in 1649, make any terms with him until Cromweli had captured Drogheda. Then Ormonde made terms on the basis of freedom of religion and restoration of lands. At the critical moment when O'Neill's services would have been invaluable against Cromwell he took suddenly ill and died. The story that he was poisoned may be dismissed, for there is no evidence to sustain it.
+
+GILBERT, History of Irish Affairs (Dublin, 1882); RINUCCINI, Letters (Dublin, 1873); MURPHY, Cromwell in Ireland (Dublin, 1897); MARAFFY, Calendars; CARTE. Ormond (London, 1735); TAYLOR, Owen Roe O'Neill (Dublin, 1896); D'ALTON, History of Ireland (London, 1910).
+
+E. A. D'Alton.

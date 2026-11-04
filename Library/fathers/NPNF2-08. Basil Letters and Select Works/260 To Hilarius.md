@@ -1,0 +1,48 @@
+---
+id: "basil-epistulae.en.212"
+title: "To Hilarius."
+work: "Epistulae"
+author: "Basil the Great"
+volume: "NPNF2-08. Basil: Letters and Select Works"
+volume-id: "npnf208"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf208.xml"
+source-id: "ix.ccxiii"
+sigla: "basil-epistulae"
+part-of: "basil-epistulae"
+part-ref: "212"
+part-kind: "text"
+part-evidence: "printed:body-line1:Letter CCXII."
+title-source: "bkv-clavis"
+clavis: "CPG 2900"
+boundary-decision: "one work; letters CCCLXI-CCCLXV share one file and one ranged anchor"
+anchors: "{#basil-epistulae.212} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 4
+scripture-references: 0
+scripture-refs-sidecar: "_scripture-refs/npnf208.tsv"
+print-pages: "252-252"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# To Hilarius. {#basil-epistulae.212}
+
+Letter CCXII.[^2800]
+
+*To Hilarius*.[^2801]
+
+1. You can imagine what I felt, and in what state of mind I was, when I came to Dazimon and found that you had left a few days before my arrival. From my boyhood I have held you in admiration, and, therefore, ever since our old school days, have placed a high value on intercourse with you. But another reason for my doing so is that nothing is so precious now as a soul that loves the truth, and is gifted with a sound judgment in practical affairs. This, I think, is to be found in you. I see most men, as in the hippodrome, divided into factions, some for one side and some for another, and shouting with their parties. But you are above fear, flattery, and every ignoble sentiment, and so naturally look at truth with an unprejudiced eye. And I see that you are deeply interested in the affairs of the Churches, about which you have sent me a letter, as you have said in your last. I should like to know who took charge of the conveyance of this earlier epistle, that I may know who has wronged me by its loss. No letter from you on this subject has yet reached me.
+
+2. How much, then, would I not have given to meet you, that I might tell you all my troubles? When one is in pain it is, as you know, some alleviation, even to describe it. How gladly would I have answered your questions, not trusting to lifeless letters, but in my own person, narrating each particular. The persuasive force of living words is more efficient and they are not so susceptible as letters to attack and to misrepresentation. For now no one has left anything untried, and the very men in whom I put the greatest confidence, men, who when I saw them among others, I used to think something more than human, have received documents written by some one, and have sent them on, whatever they are, as mine, and on their account are calumniating me to the brethren as though there is nothing now that pious and faithful men ought to hold in greater abhorrence than my name. From the beginning it has been my object to live unknown, to a degree not reached by anyone who has considered human infirmity; but now, just as though on the other hand it had been my purpose to make myself notorious to the world, I have been talked about all over the earth, and I may add all over the sea too. For men, who go to the last limit of impiety, and are introducing into the Churches the godless opinion of Unlikeness,[^2802] are waging war against me. Those too who hold the via media,[^2803] as they think, and, though they start from the same principles, do not follow out their logical consequences, because they are so opposed to the view of the majority, are equally hostile to me, overwhelming me to the utmost of their ability with their reproaches, and abstaining from no insidious attacks against me. But the Lord has made their endeavours vain.
+
+Is not this a grievous state of things? Must it not make my life painful? I have at all events one consolation in my troubles, my bodily infirmity. This I am sure will not suffer me to remain much longer in this miserable life. No more on this point. You too I exhort, in your bodily infirmity, to bear yourself bravely and worthy of the God Who has called us. If He sees us accepting our present circumstances with thanksgiving, He will either put away our troubles as He did Job’s, or will requite us with the glorious crowns of patience in the life to come.
+
+[^2800]: Placed in 375.
+[^2801]: An old schoolfellow of Basil’s, of whom nothing seems to be known but what is gathered from this letter.
+[^2802]: *i.e.*the Anomœans. On the use of the word dogma for an heretical tenet, *cf*. note on p. 41.
+[^2803]: The Ben. note remarks that at first sight Eustathius of Sebasteia seems to be pointed at, for in *Letter* cxxviii. Basil speaks of him as occupying a contemptible half-and-half position. But, continues the note: *Si res attentius consideretur, non Eustathium proprie hoc loco, sed generatim eosdem hæreticos, quos contra liber De Spiritu Sancto scriptus est, perspicuum erit notari. Nam medius ille Eustathii status in eo positus erat, quod nec catholicus potentioribus Arianis catholicis videri vellet. Nondum aperti cum Arianis conjunctus, nec probare quæ ipsi a Basilio proponebantur. At quos hic commemorat Basilius, hi catholicæ doctrinæ bellum apertum in dixerant, et quamvis dissimilitudinis impietatem fugere viderentur, iisdem tamen, ac Anomœi, principiis stabant. Hoc eis exprobat Basilius in libro De Spiritu Sancto, cap. 2, ubi impias eorum de Filio ac Spiritu sancto nugas ex principiis Aetii deductas esse demonstrat, idem hæretici non desierunt nefaria Basillii expellendi consilia inire. Eorum convicia in Basilium, insidias et nefarias molitiones, furorem ac bellum inexpiabile, vide in libro De Spiritu Sancto, num. 13, 25, 34, 52, 60, 69, 75.*

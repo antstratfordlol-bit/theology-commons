@@ -1,0 +1,33 @@
+---
+title: "Gerard, Archbishop of York"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Edwin Hubert Burton"
+signed: "EDWIN BURTON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Gerard,_Archbishop_of_York"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.gerard-archbishop-of-york} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Gerard, Bishop of Toul"
+next: "John Gerard"
+entry-type: "article"
+characters: 2118
+words: 357
+links: 0
+images: 0
+---
+
+# Gerard, Archbishop of York {#cathen.gerard-archbishop-of-york}
+
+Date of birth unknown; died at Southwell, 21 May, 1108. He was a nephew of Walkelin, Bishop of Winchester, of Simon, Abbot of Ely, and connected with the royal family. Originally a precentor in Rouen cathedral, he became clerk in the chapel of William Rufus, who employed him in 1095 on a diplomatic mission to the pope. His success was rewarded with the Bishopric of Hereford, and he was consecrated by St. Anselm 8 June, 1096, having been ordained deacon and priest on the previous day. On the accession of Henry I, in 100, he was made Archbishop of York and began a long contest with St. Anselm, in which he claimed equal primacy with Canterbury and refused to make his profession of canonical obedience before him. When he journeyed to Rome for the pallium, he was entrusted with the mission of representing the king against Anselm in the controversy about investitures. The pope's decision was against the king, but Gerard professed to have received private assurances that the decrees would not be enforced. This was denied by the monks who represented St. Anselm; and the pope, when appealed to, repudiated the statement and excommunicated Gerard till he confessed his error and made satisfaction.
+
+Eventually he professed obedience to St. Anselm, but continued to assert the independence of York. When Anselm refused to consecrate three bishops, two of whom had received investiture from the king, Gerard attempted to do so, but two refused to accept consecration at his hands. The pope reprimanded him for his opposition to the primate, and finally the two prelates were reconciled. Gerard carried out many reforms in York, though by his action against St. Anselm he incurred great unpopularity, and the writers of the time charge him with immorality, avarice, and the practice of magic. He died suddenly on the way to London to attend a council, and his death without sacraments was regarded as a Divine judgment. The canons refused to bury him within the cathedral, and the people pelted the hearse with stones. Some Latin verses by him are preserved in the British Museum (Titus. D. XXIV. 3).
+
+EDWIN BURTON

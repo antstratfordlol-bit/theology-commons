@@ -1,0 +1,31 @@
+---
+title: "Camillo Mazzella"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "10"
+pages: "unknown"
+author: "Timothy Brosnahan"
+signed: "TIMOTHY BROSNAHAN"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Camillo_Mazzella"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.camillo-mazzella} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Diocese of Mazzara del Vallo"
+next: "Lodovico Mazzolini"
+entry-type: "article"
+characters: 2204
+words: 366
+links: 0
+images: 0
+---
+
+# Camillo Mazzella {#cathen.camillo-mazzella}
+
+Theologian and cardinal, born at Vitulano, 10 Feb., 1833; d. at Rome, 26 March, 1900. He entered the ecclesiastical seminary of Benevento when about eleven years of age, completed his classical, philosophical, and theological studies before his twenty-fourth year, and was ordained priest in Sept., 1855, a dispensation for defect of canonical age having been granted by Pius IX. For two years after his ordination he remained at Vitulano, attending to the duties of canon in the parish church, a position he held from his family. Resigning this office he entered the Society of Jesus, 4 Sept., 1857. On the expulsion of the Jesuits from Italy in 1860 he was sent to Fourvières, where after reviewing his theology for a year and making a public defense "de universa theologia", he taught dogmatic theology for three years, and moral theology for two. In the early autumn of 1867 he came to America and taught theology for two years to the members of the Society of Jesus at Georgetown University, Washington. On the opening of Woodstock College, Maryland, he was appointed prefect of studies and professor of dogmatic theology. While there he published four volumes: "De Religione et Ecclesia", "De Deo Creante", "De Gratia Christi", and "De virtutibus infusis", which went through several editions. In October, 1878, he was called to Rome by Leo XIII to fill the chair of theology at the Gregorian University left vacant by Father Franzeline's elevation to the cardinalate, and shortly afterwards, on the retirement of Father Kleutgen, was made prefect of studies. On 7 June, 1886, Leo XIII created Father Mazella a cardinal deacon. Ten years later he became cardinal priest. Not quite a year afterwards (18 April, 1897), at the express wish of the pope, he became cardinal bishop of Palestrina, to the government of which he applied himself with untiring energy. He was the first Jesuit on whom was bestowed the dignity of cardinal bishop. As cardinal he took an active part in the deliberations of a number of Congregations, was for several years the president of the Academy of St. Thomas, and, at various times, prefect of the Congregations of the Index, of Studies, and of Rites.
+
+TIMOTHY BROSNAHAN

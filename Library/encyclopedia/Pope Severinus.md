@@ -1,0 +1,33 @@
+---
+title: "Pope Severinus"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Horace Kinder Mann"
+signed: "Horace K. Mann"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pope_Severinus"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pope-severinus} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Severian"
+next: "Alexander Severus"
+entry-type: "article"
+characters: 1361
+words: 237
+links: 0
+images: 0
+---
+
+# Pope Severinus {#cathen.pope-severinus}
+
+The date of his birth is not known. He was consecrated seemingly on 28 May, 640, and died 2 Aug., 640. Severinus, a Roman and the son of Abienus, was elected as usual on the third day after the death of his predecessor, and envoys were at once sent to Constantinople, to obtain the confirmation of his election (Oct., 638). But the emperor, instead of granting the confirmation, ordered Severinus to sign his *Ecthesis*, a Monothelite profession of faith. This the pope-elect refused to do, and the Exarch Isaac, in order to force him to compliance, plundered the Lateran Palace. All was in vain; Severinus stood firm. Meanwhile his envoys at Constantinople, though refusing to sign any heretical documents and deprecating violence in matters of faith, behaved with great tact, and finally secured the imperial confirmation. Hence, after a vacancy of over a year and seven months, the See of Peter was again filled, and its new occupant proceeded at once to declare that as in Christ there were two natures so also were there in Him two wills and two natural operations. During his brief reign he built the apse of old St. Peter's in which church he was buried.
+
+Liber Pontificalis, ed. DUCHESNE, I (Paris, 1886), 328 sq.; the works of St. MAXIMUS, in P.G., XC, XCI; MANN, Lives of the Popes in the Early Middle Ages, I (London, 1906), 346 sqq.
+
+Horace K. Mann.

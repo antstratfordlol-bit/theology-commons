@@ -1,0 +1,33 @@
+---
+title: "Crypt of Lucina"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Maurice M. Hassett"
+signed: "MAURICE M. HASSETT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Crypt_of_Lucina"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.crypt-of-lucina} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Lucifer of Cagliari"
+next: "Pope St. Lucius I"
+entry-type: "article"
+characters: 2429
+words: 395
+links: 0
+images: 0
+---
+
+# Crypt of Lucina {#cathen.crypt-of-lucina}
+
+The traditional title of the most ancient section of the catacomb of St. Callistus. According to the theory of De Rossi, St. Lucina (honoured at Rome on 30 June), after whom this portion of the cemetery is called, was the original donor of the area, and at the same time identical with the noble Roman matron, Pomponia Graecina, wife of the conqueror of Britain, Aulus Plautius. Lucina is believed to have been the baptismal name of Pomponia Graecina. De Rossi's hypothesis, which is generally accepted, rests on a passage of the "Annals" of Tacitus (XIII, xxxii), and on certain inscriptions discovered in the Crypt of Lucina. According to Tacitus, "Pomponia Graecina, a distinguished lady, wife of the Plautius who on his return from Britain received an ovation, was accused of some foreign superstition, and handed over to her husband's judicial decision. Following ancient precedent, he heard his wife's cause in the presence of kinsfolk, involving, as it did, her legal status and character, and he reported that she was innocent. This Pomponia lived a long life of unbroken melancholy. After the murder of Julia, Drusus's daughter, by Messalina's treachery, for forty years she wore only the attire of a mourner with her heart ever sorrowful. For this, during the reign of Claudius, she escaped unpunished, and it was afterwards counted a glory to her." The "foreign superstition" of the Roman historian is now generally regarded as probably identical with the Christian religion. When de Rossi first conjectured that this might be the case, he announced his view merely as a more or less remote probability, but subsequent discoveries in the cemetery of St. Callistus confirmed his supposition in the happiest manner. The first of these discoveries was the tomb of a *Pomponius Grekeinos*, evidently a member of the family of Pomponia, and possibly her descendant; the inscription dates from about the beginning of the third century. A short distance from this, the tomb of a Pomponius Bassus was also found - another member of the family to which belonged the mysterious lady of the reign of Claudius. Thus the conversion to Christianity of this noble lady is established with a degree of probability that approaches certainty.
+
+NORTHCOTE AND BROWNLOW, Roma Sotterranea, I (2nd ed., London, 1879), 82-3, 279-81; STOKES in SMITH AND WACE, Dict. Christ. Biog., IV (London, 1887), s.v. Pomponia Graecina.
+
+MAURICE M. HASSETT

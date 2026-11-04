@@ -1,0 +1,31 @@
+---
+title: "Juan de Atienza"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Adolph Francis Alphonse Bandelier"
+signed: "AD. F. BANDELIER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Juan_de_Atienza"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.juan-de-atienza} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Mount Athos"
+next: "James Atkinson"
+entry-type: "article"
+characters: 1837
+words: 316
+links: 0
+images: 0
+---
+
+# Juan de Atienza {#cathen.juan-de-atienza}
+
+Born at Tordehumos, near Valladolid, in Spain, in the year 1546, eldest son of the royal Councillor of Castile, Bartolome de Atienza, a very distinguished Jurisconsult under Charles V. He studied law in the celebrated University of Salamanca, but in 1564 forsook the legal career in order to become a Jesuit. While in Spain, he already occupied distinguished positions. He was Prefect of the College of Avila, Procurator of the Province of his order, founder of the College of Villa Garcia, its rector and master of novices, and rector of the College of Valladolid. While thus honourably placed in his mother country, he became informed of a call for fifty Jesuits, to be sent to Peru in the interests of religion and of the Indians. Father Atienza at once asked perrnissiom to become one of their number. He reached Lima in 1581 and found there his appointment as rector of the College of San Pablo. In that capacity he was surrogate to the Provincial, Father Baltasar de Piñas, and founded, under the direction of the Company of Jesus, the College of San Martin, the first school of secular learning established at Lima. The foundation of that school was confirmed by Pope Sixtus V, in 1585, and Father Atienza became its first rector. In 1580 he was made Provincial of the Jesuits in Peru. He at once began to foster and extend the missions in Ecuador, the Gran Chaco, Tucuman and Paraguay. Out of these efforts the province of Paraguay was born in 1607. During that period a printing press was established by the Jesuits at the Indian village of Juli. Jointly with Father Jose de Acosta he directed the publication of catechisms and textbooks of Christian doctrine for the use of the Indians. These religious "primers" were printed between the years 1583 and 1590, at Lima. They are in Spanish, Quichua, and Aymará.
+
+AD. F. BANDELIER

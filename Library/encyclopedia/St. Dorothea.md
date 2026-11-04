@@ -1,0 +1,33 @@
+---
+title: "St. Dorothea"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "5"
+pages: "unknown"
+author: "Gabriel Meier"
+signed: "Gabriel Meier"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Dorothea"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-dorothea} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Bernard Dornin"
+next: "Anne Hanson Dorsey"
+entry-type: "article"
+characters: 2294
+words: 380
+links: 0
+images: 0
+---
+
+# St. Dorothea {#cathen.st-dorothea}
+
+(1) Virgin and martyr, suffered during the persecution of Diocletian, 6 February, 311, at Caesarea in Cappadocia. She was brought before the prefect Sapricius, tried, tortured, and sentenced to death. On her way to the place of execution the pagan lawyer Theophilus said to her in mockery: "Bride of Christ, send me some fruits from your bridegroom's garden." Before she was executed, she sent him, by a six-year-old boy, her headdress which was found to be filled with a heavenly fragrance of roses and fruits. Theophilus at once confessed himself a Christian, was put on the rack, and suffered death. This is the oldest version of the legend, which was later variously enlarged. Dorothea is represented with an angel and a wreath of flowers. She is regarded as the patroness of gardeners. On her feast trees are blessed in some places. In the West she has been venerated since the seventh century.
+
+(2) ST. DOROTHEA OF MONTAU, recluse, born at Montau, 6 February, 1347, d. at Marienwerder, 25 June, 1394. At the age of seventeen she married the sword-cutler Albrecht of Danzig, a hot-tempered man, whose nature underwent a change through her humility and gentleness. Both made grequent pilgrimages to Cologne, Aachen, and Einsiedeln, and they intended (1390) to visit Rome also; but Albrecht was prevented by illness and remained at home where he died, while Dorothea journeyed to Rome alone. Of their nine children all died, except one daughter who joined the Benedictines. In the summer of 1391 Dorothea moved to Marienwerder, and on 2 May, 1393, with the permission of the chapter and of the Teutonic Order, established a hermitage near the cathedral. She led a very austere life. Numerous visitors sought her advice and consolation, and she had wonderful visions and revelations. Her confessor, the deacon John of Marienwerder, a learned theologian, wrote down her communications and composed a Latin biography in seven books, "Septililium", besides a German life in four books. She was never canonized, but the people honoured her as the guardian of the country of the Teutonic Knights and Patroness of Prussia." Her feast is celebrated on 25 June, in some places on 30 October. The church at Marienwerder is now in the hands of the Lutherans; her relics cannot be found.
+
+Gabriel Meier.

@@ -1,0 +1,31 @@
+---
+title: "Diocese of Adana"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "135-136"
+author: "Jules Pargoire"
+signed: "J. Pargoire"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Diocese_of_Adana"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.diocese-of-adana} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Ven. John Adams"
+next: "Adar"
+entry-type: "article"
+characters: 3230
+words: 533
+links: 0
+images: 0
+---
+
+# Diocese of Adana {#cathen.diocese-of-adana}
+
+**Adana,** a diocese of Armenian rite in Asia Minor (Asiatic Turkey). This ancient Phœnician colony "of willows" is situated about nineteen miles from the sea, on the right bank of the Sarus, or Seyhoun, in the heart of Cilicia Campestris. It was once a part of the kingdom of the Seleucidæ, and after the passing of Antiochus Epiphanes it took (171 b.c.) the name of Antioch of Sarus. Later it received from Emperor Hadrian (117–138) the title of Hadriana and from Emperor Maximianus that of Maximiana. It has some political importance as capital of the*vilayet* or district. Adana appears in the fourth century as a see subject to the metropolitan of Tarsus and the patriarch of Antioch. In the Middle Ages the Greek hierarchy disappeared, and is now represented in Cilicia by only one prelate who styles himself Metropolitan of Tarsus and Adana, and resides in the latter town. Most of his diocesans are foreigners, and come from Cappadocia or the Archipelago. They are much attached to Hellenism, and desire to be under the patriarchate of Constantinople and not of Antioch. They even live in open strife with the latter, since the election (1899) of an Arabic-speaking prelate. In medieval times Adana, deprived of a Greek bishop, had an Armenian one, subject to the Catholicos of Sis. The first of this line known to history is a certain Stephen, who distinguished himself in 1307 and 1316. Under him a great national Armenian council (the last of its kind), attended by the patriarch and the king, the clergy and the nobility, was held at Adana (1316). Thirty years earlier, in 1286, another Armenian council met for forty days in Adana for the purpose of electing the Catholicos Constantine and to dispose of several other questions. Today the Armenians of Adana are divided into Gregorians, Catholics, and Protestants. For the Gregorians it is the centre of one of the fourteen or fifteen districts governed by the Catholicos of Sis; he is represented in Adana by a bishop. For the Catholics there is an episcopal see at Adana. As regards Protestants, Adana is a mission station of the Central Turkey Mission of the American Board of Commissioners for Foreign Missions (about 1,000 members). The Reformed Presbyterian Church (U.S.A.) holds it as a missionary station attended from Tarsus. There are, moreover, at Adana some Maronite and Syrian merchants and some Europeans employed in various capacities. The total population amounts to about 45,000 inhabitants during the two or three months when the decortication and the cleaning of cotton attract a great many workers. During the rest of the year the population does not exceed 30,000 inhabitants, viz.: 14,000 Mussulmans, 12,575 Armenians, 3,425 Greeks, and a few others. There are in the town 18 mosques, 37 *medresses*, and 8 *tekkes*, 2 Armenian churches, 1 Latin church, 1 Greek church, and 1 Protestant church; 29 Turkish schools of which 28 are elementary schools and one is secondary, 2 Greek schools, 1 Armenian school, 1 Protestant school, and 2 French educational establishments—one for boys directed by the Jesuit Fathers, the other for girls, under the Sisters of St. Joseph of Lyons. The latter includes a day-school and a boarding-school.
+
+J. Pargoire.

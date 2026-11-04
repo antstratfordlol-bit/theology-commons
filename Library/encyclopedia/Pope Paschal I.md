@@ -1,0 +1,35 @@
+---
+title: "Pope Paschal I"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "514"
+author: "Johann Peter Kirsch"
+signed: "J. P. Kirsch"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pope_Paschal_I"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pope-paschal-i} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Pasch or Passover"
+next: "Pope Paschal II"
+entry-type: "article"
+characters: 4618
+words: 754
+links: 0
+images: 0
+---
+
+# Pope Paschal I {#cathen.pope-paschal-i}
+
+**Paschal I**, Pope (817-824), the date of his birth is unknown; he died in April, May, or June, 824. He was the son of a Roman named Bonosus. While still young he joined the Roman clergy and was taken into the papal patriarchate (Lateran Palace) where he was instructed in the Divine Service and the Holy Scripture. Leo III having appointed him superior of the monastery of St. Stephen near the Basilica of St. Peter in the Vatican, he took care of the pilgrims who came to Rome. On the death of Stephen IV (24 January, 817) Paschal was unanimously chosen as his successor. On the following day he was consecrated and enthroned. He entered into relations with Emperor Louis, sending him several ambassadors in rapid succession. In 817 he received from the emperor a document, "Pactum Ludovicianum", confirming the rights and possessions of the Holy See. This document with later amendments is still extant (cf. especially Sickel, "Das Privileg Ottos I für die römische Kirche", Innsbruck, 1883, 50 sqq., 174 sqq.). Paschal remained on friendly terms with the Frankish nobility and sent a special legation with rich gifts to the marriage of King Lothair I, son of Emperor Louis. In spring, 823, Lothair went to Rome and on 5 April he was solemnly crowned emperor by Paschal. Although the pope himself opposed the sovereignty of the Frankish emperors over Rome and Roman territory, high officials in the papal palace, especially Primicerius Theodore and his son-in-law Leo Nomenculator, were at the head of the party which supported the Franks, and advocated the supremacy of the emperor. Shortly after the departure of King Lothair in 823, both these officials were blinded and killed by the pope's servants. Paschal himself was accused of being the originator of this deed, but he cleared himself of suspicion by an oath. The ambassadors sent to Rome by Emperor Louis to investigate the affair could not punish the perpetrators, as the pope declared the murdered officials guilty of treason. Paschal supported new missionary expeditions which went out from the Frankish Empire. He sent a letter of introduction to Bishop Halitgar of Cambria, and appointed Archbishop Ebo of Rheims as papal legate to the pagan countries in Northern Europe.
+
+In 814 under Leo the Armenian, the Iconoclastic controversy broke out with renewed violence in the Byzantine Empire. Theodore of Studium, the great champion of orthodoxy, wrote repeatedly to Pope Paschal, who encouraged him to persevere. At the same time Theodosius of Constantinople, unlawfully made patriarch by Emperor Leo, sent a legation to the pope. The latter, however, remained loyal to the cause of Theodore of Studium, and dispatched legates to Leo to win him from the Iconoclasts, but without success. Numerous monks who had been driven out of Greece by Leo came to Rome where the pope received them kindly, assigning them places in the newly-erected monasteries, such as St. Praxedis, St. Cecilia, Sts. Sergius and Bacchus, near the Lateran Palace. Paschal was very active in completing, restoring, and beautifying churches and monasteries. The basilicas of St. Praxedis, St. Cecilia, and S. Maria in Dominica were completely rebuilt by him. The mosaics, which at that time ornamented the apses of these three churches as well as the chapel of St. Zeno in St. Praxedis, demonstrate to-day the deterioration of this art. In St. Peter's he erected chapels and altars, in which the remains of martyrs from the Roman catacombs, especially those of Sts. Processus and Marinianus, were placed. He also placed the relics of many Roman martyrs in the church of St. Praxedis where their names are still legible. The discovery of the relies of St. Cecilia and companions, and their translation to the new church of St. Cecilia in Trastevere, are well described in "Liber Pontificalis" (cf. Kirsch, "Die hl. Cäcilia in der römischen Kirche des Altertums", Paderborn, 1910). He made great improvements in the choir of the church of S. Maria Maggiore. Paschal was interred in the church of St. Praxedis, and is honoured as a saint on 14 May.
+
+*Liber Pontificalis,* ed. Duchesne, II, 52 sqq.; *Einhardi Annals* in *Mon. Germ, hist.: Script.,* I, 124 sqq.; Jaffé, *Regesta Rom. Pont.,* 2nd ed., I (Leipzig, 1885), 318 sqq.; Simson, *Jahrbücher der deutschen Reiches unter Ludwig dem Frommen* (Leipzig, 1874-76); Duchesne, *Les premiers temps de l'Etat pontifical* in *Revue d'hist. et de littér. religeuses,* I (Paris, 1896), 297 sqq.; Hartmann, *Geschichte Italiens im Mittelalter,* III, pt. i (Gotha, 1008); Marucchi, *Basiliques el églises de Rome* (Rome, 1902).
+
+J. P. Kirsch

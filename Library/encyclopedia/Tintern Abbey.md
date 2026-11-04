@@ -1,0 +1,33 @@
+---
+title: "Tintern Abbey"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "David Oswald Hunter Blair"
+signed: "D. O. HUNTER-BLAIR"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Tintern_Abbey"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.tintern-abbey} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Diocese of Tinos and Mykonos"
+next: "Il Tintoretto"
+entry-type: "article"
+characters: 1733
+words: 289
+links: 0
+images: 0
+---
+
+# Tintern Abbey {#cathen.tintern-abbey}
+
+This abbey, in Monmouthshire, England, was founded in 1131 by Walter de Clare for Cistercian monks, who came from the Abbey of Aumone, in the Diocese of Chartres, itself founded only ten years before. Walter's son Gilbert, first earl of Pembroke, and probably also his grandson Richard Strongbow, conqueror of Ireland under Henry II, were buried at Tintern, the magnificent church of which dates from the end of the thirteenth century. They abbey received rich benefactions not only from the family of its founder but from other noble houses; and lists of its possessions, both from the taxation-roll of 1291, and at the time of the Dissolution under Henry VIII, are given in detail by Dugdale. The accounts submitted by the last abbot, Richard Wych, in 1535, place the net income at under 200 pounds a year; and the abbey, containing at that time thirteen monks, was suppressed under the Act of 1536 which dissolved the smaller monasteries. The king granted it in 1537 to Henry, Earl of Worcester, in whose family (afterwards dukes of Beaufort) it remained until the sale of his Monmouthshire property by the ninth duke, when it was acquired by the Crown.
+
+The ruins of Tintern, which stands on the right bank of the river Wye, backed by a semicircle of wooded hills, ranks with Fountains Abbey in Yorkshire as the most beautiful in England. The church, measuring 245 feet in length, with transepts of 110 feet, is almost perfect, though roofless, the architecture being of the transitional style from Early English to Decorated. The window-tracery is especially fine. Hardly anything remains of the domestic buildings of the abbey, the stone having been used for cottages and farm buildings in the neighborhood.
+
+D. O. HUNTER-BLAIR

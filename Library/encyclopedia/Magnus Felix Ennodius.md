@@ -1,0 +1,33 @@
+---
+title: "Magnus Felix Ennodius"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "5"
+pages: "unknown"
+author: "Paul Lejay"
+signed: "PAUL LEJAY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Magnus_Felix_Ennodius"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.magnus-felix-ennodius} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "English Confessors and Martyrs (1534-1729)"
+next: "Ulrich Ensingen"
+entry-type: "article"
+characters: 4444
+words: 723
+links: 0
+images: 0
+---
+
+# Magnus Felix Ennodius {#cathen.magnus-felix-ennodius}
+
+**Ennodius**, Magnus Felix, rhetorician and bishop, b. probably at Arles, in Southern Gaul, in 474; d. at Pavia, Italy, July 17, 521. When quite young he went to Pavia, where he was educated, was betrothed, and eventually became a priest, his fiancée at the same time becoming a nun. It does not appear certain that he ever married. Shortly after the death of his benefactor, Epiphanius (496), he received minor orders at Milan, attracted thither no doubt by his uncle Laurentius, bishop of that city. Soon he was ordained deacon and taught in the schools. About this time (498) two popes were elected simultaneously, the deacon Symmachus and the archpriest Laurentius. King Theodoric was in favor of the former, and convened a council at Rome in 501, the famous Synodus Palmaris, to settle this question and put an end to much scandal. On this occasion Ennodius acted as secretary to Laurentius of Milan, who was the first to sign the decrees of the council. The adherents of the archpriest Laurentius, who was rejected by the council, wrote against the decisions of the latter. Ennodius answered them and defended the synod in a still extant work entitled "Libellus adversus eos qui contra synodum scribere praesumpserunt". After referring to the objections urged against the incompetency and irregularity of the council, he attacks the enemies of Symmachus and proclaims the inability of human judges to decide matters pertaining to popes: "God no doubt consented to the affairs of men being settled by men; He reserved to Himself the passing of judgment upon the pontiff of the supreme see" (Libellus, §93). In 513 Ennodius was still at Milan, but shortly afterwards he was made Bishop of Pavia. In 515 and 517 he headed two successive embassies which Pope Hormisdas sent to Emperor Anastasius at Constantinople, both of which, however, were barren of results. The unrelenting enmity of the emperor endangered the lives of the envoys in 517. Of the remaining years of his episcopate nothing is known. His epitaph, found by accident, gives the date of his death.
+
+The works of Ennodius comprise poems for special occasions and epigrams, particularly inscriptions for churches or other religious monuments. His defense of the synod of 502, often known as "Libellus pro Synodo", his autobiography (Eucharisticum), his panegyric on King Theodoric, and the biographies of his predecessor Epiphanius of Milan, and a monk, Antonius of Lerins, are interesting from an historical point of view; the first four especially. As much can be said of his numerous letters, addressed to various correspondents. Notwithstanding their verbosity, they contain much useful information concerning the addressees and the customs of the time. Ennodius is the last representative of the ancient schools of rhetoric. His "Paraenesis didascalica" (511) celebrates the wonderful power of that foremost of the liberal arts, by which a guilty man is made to appear innocent, and vice versa. He illustrates his own method in a few declamatory exercises called "Dictiones"; they deal with themes once the delight of pagan rhetoricians, e.g. grief of Thetis on beholding the corpse of Achilles; Menelaus contemplating the ruins of Troy; the lament of Dido forsaken by Aeneas, etc. Again, with all the resources of his rhetoric he denounces a man who placed a statue of Minerva in a place of ill-repute; a player who gambled away the field in which his parents lay buried; etc. He shared the popular fallacy of his contemporaries who saw in the reign of Theodoric a revival of the Roman Empire under the control of men of letters. Ennodius remained to the end faithful to the academic traditions of the Roman schools, whose mythological apparatus he was the last to retain; thus in an epithalamium he describes the beauty of the nude Venus, and makes love argue against virginity. Nevertheless, he refutes elsewhere the fables of the poets and points out that the understanding of the Christian Scriptures is the highest intellectual ideal. In him are visible the two tendencies whose conflict is never quite absent from Christian life; outwardly he remains true to classic tradition. His diction is exuberant and florid, but occasionally manifests vigor. The best editions of his writings are those of Hartel, in the sixth volume of the "Corpus ecclesiasticorum latinorum" (Vienna, 1881), and of Vogel in "Monumenta Germanise Hist.: Auct." (Berlin, 1885), VII.
+
+PAUL LEJAY

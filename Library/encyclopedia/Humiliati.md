@@ -1,0 +1,35 @@
+---
+title: "Humiliati"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "F. M. Rudge"
+signed: "F.M. RUDGE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Humiliati"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.humiliati} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Humeral Veil"
+next: "Humility"
+entry-type: "article"
+characters: 3614
+words: 593
+links: 0
+images: 0
+---
+
+# Humiliati {#cathen.humiliati}
+
+I. A penitential order dating back, according to some authorities, to the beginning of the eleventh, but more probably to the beginning of the twelfth century, to the reign of Emperor Henry V, who, after quelling a rebellion in Lombardy, led the principal nobles of the cities implicated back to Germany as captives. Converted from the vanities of the world, these assumed a penitential garb of grey and gave themselves up to works of charity and mortification, whereupon the emperor, after receiving their pledges of future loyalty, permitted their return to Lombardy. At this time they were often called Barettini, from the shape of their head-dress. Their acquaintance with the German woollen manufactures enabled them to introduce improved methods into Italy, thus giving a great impetus to the industry, supplying the poor with employment and distributing their gains among those in want. On the advice of St. Bernard, in 1134, many of them, with the consent of their wives, withdrew from the world, establishing their first monastery at Milan. They exchanged their ashen habit for one of white. Some years later, on the advice of St. John Meda of Oldrado (d. 1159), they embraced the Rule of St. Benedict, adapted by St. John to their needs; they received papal approbation from Innocent III about 1200, and from many succeeding pontiffs The order grew rapidly, gave many saints and blessed to the Church, assisted in combating the Cathari, formed trades associations among the people, and played an important part in the civic life of every community in which they were established. In the course of time, however, owing to the accumulation of temporal goods and the restriction of the number of members admitted (for at one time there were only about 170 in the 94 monasteries), grave abuses crept in, which St. Charles Borromeo was commissioned by Pius V to reform. His fearless efforts roused such opposition among a minority that a conspiracy was formed and a murderous assault made on him by one of the Humiliati, a certain Girolamo Donati, called Farina, which, though it was unsuccessful, was responsible for the execution of the chief conspirators and the suppression of the order by a Bull of 8 Feb., 1571. The houses and possessions were bestowed on other religious orders, including the Barnabites and Jesuits, or applied to charity.
+
+II. The wives of the first Humiliati, who belonged to some of the principal families of Milan, also formed a community under Clara Blassoni, and were joined by so many others that it became necessary to open a second convent, the members of which devoted themselves to the care of the lepers in a neighbouring hospital, whence they were also known as Hospitallers of the Observance. The number of their monasteries increased rapidly, but the suppression of the male branch of the order, which had administered their temporal affairs, proved a heavy blow, involving in many cases the closing of monasteries, though the congegation itself was not affected by the Bull of suppression. The nuns observed the canonical Hours, fasting rigorously and taking the discipline at stated times. Some retained the ancient Breviary of the order, when other houses adopted the Roman Breviary. The habit consists of a robe and scapular of white over a tunic of ashen grey, the veils being usually white, though in some houses black. The lay sisters, who retain the name of Barettine, wear grey. There are still in Italy five independent houses of Humiliati.
+
+HÉLYOT, *Dict. des ordres relig.* (Paris, 1859); HEIMBUCHER, *Orden und Kongregationen* (Paderborn, 1908).
+
+F.M. RUDGE

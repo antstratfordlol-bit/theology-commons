@@ -1,0 +1,31 @@
+---
+title: "St. Heribert"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "Michael Ott"
+signed: "MICHAEL OTT"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Heribert"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-heribert} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Joseph Hergenröther"
+next: "Heribert"
+entry-type: "article"
+characters: 1738
+words: 309
+links: 0
+images: 0
+---
+
+# St. Heribert {#cathen.st-heribert}
+
+Archbishop of Cologne; born at Worms, c. 970; died at Cologne, 16 March, 1021. His father was Duke Hugo of Worms. After receiving his education at the cathedral school of Worms, he spent some time as guest at the monastery of Gorze, after which he became provost at the cathedral of Worms. In 994 he was ordained priest; in the same year King Otto III appointed him chancellor for Italy and four years later also for Germany, a position which he held until the death of Otto III on 23 January, 1002. As chancellor he was the most influential adviser of Otto III, whom he accompanied to Rome in 906 and again in 997. He was still in Italy when, in 999, he was elected Archbishop of Cologne. At Benevento he received ecclesiastical investiture and the pallium from Pope Sylvester II on 9 July, 999, and on the following Christmas Day he was consecrated at Cologne. In 1002 he was present at the death-bed of the youthful emperor at Paterno. While returning to Germany with the emperor's remains and the imperial insignia, he was held captive for some time by the future King Henry II, whose candidacy he first opposed. As soon as Henry II was elected king, on 7 June, 1002, Heribert acknowledged him as such, accompanied him to Rome in 1004, mediated between him and the House of Luxemburg, and served him faithfully in many other wys; but he never won his entire confidence until the year 1021, when the king saw his mistake and humbly begged pardon on the archbishop. Heribert founded and richly endowed the Benedictine monastery and church of Deutz, where he lies buried. He was already honoured as a saint during his lifetime. Between 1073 and 1075 he was canonized by Pope Gregory VII. His feast is celebrated on 16 March.
+
+MICHAEL OTT

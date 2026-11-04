@@ -1,0 +1,33 @@
+---
+title: "Charles-Maurice Le Tellier"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Joseph Francis Sollier"
+signed: "J.F. SOLLIER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Charles-Maurice_Le_Tellier"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.charles-maurice-le-tellier} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Lete"
+next: "Michel Le Tellier (1)"
+entry-type: "article"
+characters: 2708
+words: 441
+links: 0
+images: 0
+---
+
+# Charles-Maurice Le Tellier {#cathen.charles-maurice-le-tellier}
+
+Archbishop of Reims, b. at Turin, 1642; d. at Reims, 1710. The son of Michel Le Tellier and brother of Louvois (both ministers of Louis XIV), he studied for the Church, won the doctorate of theology at the Sorbonne, and was ordained priest in 1666. Provided, even before his ordination, with several royal abbeys, he rapidly rose to the coadjutorship of Langres, then to that of Reims, and became titular of that see at the age of twenty-nine. His administration was marked by zeal and success along the lines of popular education, training of clerics, parochial organization, restoration of ecclesiastical discipline, extirpation of Protestantism from the Sedan district, etc. The importance of his see together with the royal favour brought him to the front in the affairs of the Church in France. As secretary of the *Petite Assemblée* of 1681, he reported for the king and against the pope on all disputed points: the extension of the royal claim called *régale*, the forcible placing of a Cistercian abbess over the Augustinian nuns of Charonne, and the expulsion of the canonically elected vicars capitular of Pamiers. The famous Gallican Assembly of 1682 was convened at his suggestion. Elected president with Harlay, he caused the bishops to endorse the royal policy of encroachment upon church affairs, and even memorialized the pope with a view to make him accept the *régale*. His comparative moderation in the matter of the four Gallican propositions was due to Bossuet, who remarked that "the glory of the *régale* would only be obscured by those odious propositions." As president of the Assembly (1700) which undertook to deal with Jansenism and Laxism already judged by the pope, Le Tellier was unduly lenient with the Jansenists and severe with theologians of repute. The same holds true of the various controversies in which he took part: the "Version of Mons," the theory of philosophical sin, Molinism, etc. In spite of grave errors due less to lack of loyalty to the Holy See than to early education, royal fascination, and dislike for the Jesuits, Le Tellier is remembered as a successful administrator, an orator of some merit, a promoter of letters, a protector of Saint John Baptist de la Salle, Mabillon, Ruinart, etc., and a bosom friend of Bossuet, whom he consecrated, and visited on his deathbed, and whom he induced to write the "Oraison funèbre de Michel Le Tellier." His manuscripts, in sixty volumes, are at the Bibliothèque Nationale of Paris, and his library of 50,000 volumes at the Bibliothèque Sainte-Geneviève.
+
+Gillet, Charles-Maurice Le Tellier, with an exhaustive bibliography (Paris, 1881), p. xii and passim; Ste-Beuve, Port-Royal (ed. 1900), index.
+
+J.F. SOLLIER

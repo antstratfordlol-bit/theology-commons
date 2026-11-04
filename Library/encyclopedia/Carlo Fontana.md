@@ -1,0 +1,31 @@
+---
+title: "Carlo Fontana"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Thomas Henry Poole"
+signed: "THOMAS H. POOLE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Carlo_Fontana"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.carlo-fontana} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Antonio da Fonseca Soares"
+next: "Domenico Fontana"
+entry-type: "article"
+characters: 2082
+words: 362
+links: 0
+images: 0
+---
+
+# Carlo Fontana {#cathen.carlo-fontana}
+
+An architect and writer; b. at Bruciato, near Como, 1634; d. at Rome, 1714. There seems to be no proof that he belonged to the family of famous architects of the same name. Fontana went to Rome and studied architecture under Bernini. His principal works in Rome are the Ginetti chapel at Sant' Andrea della Valle; the Cibo chapel in Madonna del Popolo; the cupola, great altar, and ornaments of the Madonna de' Miracoli, the church of the monks of Santa Marta; the facades of the church of Beata Rita and of San Marcolo in the Corso, the sepulchre of Queen Christina of Sweden in St. Peter's; the palaces Grimani and Bolognetti; the fountain of Santa Maria in Trastevere, and that in the piazza of St. Peter's which is towards Porta Cavallegieri; reparation of the church of Spirito Santo de' Napolitani, and the theatre of Tordinona. By desire of Innocent XI, his patron, he erected the inmmense building of San Michele at Ripa; the chapel of Baptism at St. Peter's; and finished Monte Citorio. By request of Clement XI he built the granaries at Termini, the portico of Santa Maria in Trastevere, and the basin of the fountain of San Pietro Montorio. He restored the Library of Minerva, the cupola of Montefiascone and the casino in the Vatican, and collected all the models of the building. He sent a model for the cathedral of Fulda, and others to Vienna for the royal stables. By order of Innocent XI he wrote a diffuse description of the Templum Vaticanum (1694). In this work Fontana advised the demolition of that nest of houses which formed a sort of island from Ponte Sant' Angelo to the piazza of St. Peter's. Fontana made a calculation of the whole expense of St. Peter's from the beginning to 1694, which amounted to 46,800,052 crowns, without including models. He published also works on the Flavian Amphitheatre; the Aqueducts; the inundation of the Tiber, etc. He was assisted by his nephews Girolamo and Francesco Fontana. Fontana seems to have been considered an able artist and a good designer and more successful as an architect than as a writer.
+
+THOMAS H. POOLE

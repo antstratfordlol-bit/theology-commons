@@ -1,0 +1,33 @@
+---
+title: "In Petto"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "Auguste Boudinhon"
+signed: "A. BOUDINHON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/In_Petto"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.in-petto} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "In Partibus Infidelium"
+next: "Inquisition"
+entry-type: "article"
+characters: 1399
+words: 231
+links: 0
+images: 0
+---
+
+# In Petto {#cathen.in-petto}
+
+An Italian translation of the Latin *in pectore*, "in the breast", i.e. in the secret of the heart. It happens, at times, that the pope, after creating some cardinals in consistory, adds that he has appointed one or more additional cardinals, whom he reserves *in petto*, and whom he will make known later: "alios autem [v.g. duos] in pectore reservamus, arbitrio nostro quandoque declarandos." Until they have been publicly announced these cardinals acquire no rights, and if the pope dies before having declared their names they do not become members of the Sacred College; but when he has proclaimed their elevation at a subsequent consistory, they take rank from the date of their first nomination and receive from that date all the emoluments accruing to their office. This is a method that the popes have sometimes adopted to ensure poor ecclesiastics a competency to meet all the expenses incident to their promotion. At the consistory of 15 March, 1875, Pius IX announced that he was creating and reserving *in petto* five cardinals, whose names would be found, in case of his death, in a letter annexed to his will. But the canonists having raised serious doubts as to the validity of such a posthumous publication, Pius IX published their names in the consistory of the following 17 September (See CARDINAL.).
+
+Santi-Leitner, Praellections juris canonici, I, tit xxxi, n. 23.
+
+A. BOUDINHON

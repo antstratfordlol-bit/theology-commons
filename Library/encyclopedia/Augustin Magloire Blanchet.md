@@ -1,0 +1,33 @@
+---
+title: "Augustin Magloire Blanchet"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Louis W. Reilly"
+signed: "L.W. REILLY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Augustin_Magloire_Blanchet"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.augustin-magloire-blanchet} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Jean-Baptiste Blanchard"
+next: "François Norbert Blanchet"
+entry-type: "article"
+characters: 3137
+words: 537
+links: 0
+images: 0
+---
+
+# Augustin Magloire Blanchet {#cathen.augustin-magloire-blanchet}
+
+Brother of François Norbert Blanchet, first Bishop of Walla Walla-Nesqually, State of Washington, U.S.A., born 22 August, 1797, on his father's farm near the village of Saint-Pierre, Riviere du Sud, Canada; died 25 February, 1887, at Fort Vancouver, Washington. After attending the village school for three years, he was sent to Quebec, with his brother Francois Norbert, to study for the priesthood. He was ordained 3 June, 1821. After a twelve-month as assistance pastor at St. Gervais, he was sent as missionary to the Isles de la Madeleine and alter to Cape Breton Island. He gave four years of ministry to the Gulf provinces. Then he was recalled to the vicariate Apostolic of Montreal and was successively pastor of four parishes, in one of which he was the successor of his elder brother. In 1846 while a canon of the Montreal cathedral, he was appointed Bishop of the new Diocese of Walla Walla in what is now the State of Washington. He was consecrated 27 September, 1846. In the following spring he et out overland for his distant see with one priest, Rev. J.A.B. Brouillet, and two students. At Pittsburgh he declared his intention to become a citizen of the United States. At St. Louis the party was increased by Father Richard, two deacons and Brother Blanchet, all members of the Order of Mary Immaculate. Fort Walla Walla was reached on 5 September, 1847. The Bishop located at The Dalles and thence multiplied his apostolic labours throughout the vast territory under his care. He endured the many hardships of a pioneer country and braved all the perils of a region infested with wild beasts and still more savage men. He was full of zeal. He established missions; he built churches; he founded academies and colleges; he started schools for the Indians; he begged for priests in Canada and abroad; he obtained sisters to open hospitals and other institutions. In 1850 the See of Walla Walla was suppressed and that of Nesqually was erected in its stead, with headquarters at Fort Vancouver. The bishop built there a cathedral of lags, and a house for himself out of the same material. In 1852 he attended the First Plenary Council of Baltimore, but, on account of infirmities, he was unable to go to Rome for the Vatican Council. In 1879, after thirty-two years of arduous service in Washington, he resigned his see and was named titular Bishop of Ibora. Worn out with labours, he spent his last eight years in prayer and suffering. His peaceful death was a fitting close for his life of sacrifice. He is revered as the Apostle of Washington.
+
+DE SMET, Oregon Missions and Travels in the Rocky Mountains; MURRAY, Popular Hist. of the Cath. Church in the U.S. (New York, 1876); O'GORMAN, Hist. of the R.C. Church in the United States (New York, 1895), 421, 46; CHITTENDEN and RICHARDSON, Life, Letters, and Travels of Fr. Pierre Jean De Smet (New York, 1905); SHEA, History of the Catholic Church in the United States (New York, 1889-92); REUSS, Biog. Cycl. of the Cath. Hierarchy of the U.S. (Milwaukee, 1898); CLARKE, Lives of Deceased Bishops of the Catholic Church in the United States (New York, 1888).
+
+L.W. REILLY

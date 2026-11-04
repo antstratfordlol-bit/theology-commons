@@ -1,0 +1,44 @@
+---
+id: "basil-epistulae.en.198"
+title: "To Eusebius, bishop of Samosata."
+work: "Epistulae"
+author: "Basil the Great"
+volume: "NPNF2-08. Basil: Letters and Select Works"
+volume-id: "npnf208"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf208.xml"
+source-id: "ix.cxcix"
+sigla: "basil-epistulae"
+part-of: "basil-epistulae"
+part-ref: "198"
+part-kind: "text"
+part-evidence: "printed:body-line1:Letter CXCVIII."
+title-source: "bkv-clavis"
+clavis: "CPG 2900"
+boundary-decision: "one work; letters CCCLXI-CCCLXV share one file and one ranged anchor"
+anchors: "{#basil-epistulae.198} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 2
+scripture-references: 0
+scripture-refs-sidecar: "_scripture-refs/npnf208.tsv"
+print-pages: "236-236"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# To Eusebius, bishop of Samosata. {#basil-epistulae.198}
+
+Letter CXCVIII.[^2690]
+
+*To Eusebius, bishop of Samosata*.
+
+After the letter conveyed to me by the officiales[^2691] I have received one other despatched to me later. I have not sent many myself, for I have not found any one travelling in your direction. But I have sent more than the four, among which also were those conveyed to me from Samosata after the first epistle of your holiness. These I have sealed and sent to our honourable brother Leontius, peræquator of Nicæa, urging that by his agency they may be delivered to the steward of the household of our honourable brother Sophronius, that he may see to their transmission to you. As my letters are going through many hands, it is likely enough that because one man is very busy or very careless, your reverence may never get them. Pardon me, then, I beseech you, if my letters are few. With your usual intelligence you have properly found fault with me for not sending, as I ought, a courier of my own when there was occasion for doing so; but you must understand that we have had a winter of such severity that all the roads were blocked till Easter, and I had no one disposed to brave the difficulties of the journey. For although our clergy do seem very numerous, they are men inexperienced in travelling because they never traffic, and prefer not to live far away from home, the majority of them plying sedentary crafts, whereby they get their daily bread. The brother whom I have now sent to your reverence I have summoned from the country, and employed in the conveyance of my letter to your holiness, that he may both give you clear intelligence as to me and my affairs, and, moreover, by God’s grace, bring me back plain and prompt information about you and yours. Our dear brother Eusebius the reader has for some time been anxious to hasten to your holiness, but I have kept him here for the weather to improve. Even now I am under no little anxiety lest his inexperience in travelling may cause him trouble, and bring on some illness; for he is not robust.
+
+2. I need say nothing to you by letter about the innovations of the East, for the brothers can themselves give you accurate information. You must know, my honoured friend, that, when I was writing these words, I was so ill that I had lost all hope of life. It is impossible for me to enumerate all my painful symptoms, my weakness, the violence of my attacks of fever, and my bad health in general. One point only may be selected. I have now completed the time of my sojourn in this miserable and painful life.
+
+[^2690]: Placed in 375.
+[^2691]: Clergy engaged in crafts.

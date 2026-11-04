@@ -1,0 +1,33 @@
+---
+title: "Theodore of Gaza"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "William Turner (1871-1936)"
+signed: "WILLIAM TURNER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Theodore_of_Gaza"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.theodore-of-gaza} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "St. Theodore of Amasea"
+next: "St. Theodore of Studium"
+entry-type: "article"
+characters: 1495
+words: 245
+links: 0
+images: 0
+---
+
+# Theodore of Gaza {#cathen.theodore-of-gaza}
+
+A fifteenth-century Greek Humanist and translator of Aristotle, b. at Thessalonica early in the fifteenth century; d. in Southern Italy in 1478. In 1429 he went to Italy, where he made his home, like many other learned Greeks who did not wish to submit to the rule of the Turks at Constantinople. He taught Greek at Siena, Ferrara, and Rome. Having learned Latin from Victorino da Feltre, he devoted himself to the translation of Aristotle's works into that language. He was received with favour at the Court of Nicholas V, and, although a pronounced Aristotelean, remained on terms of friendship with Cardinal Bessarion. Through the good offices of the cardinal he obtained a small benefice in the Abruzzi. His chief service to the cause of Peripatetic philosophy consisted in his translations, which were superior both in point of accuracy and in that of style to the versions in use before his time. He devoted particular attention to the translation and exposition of Aristotle's works on natural science. In the campaign waged by Plethon against Aristotelianism he contributed his share to the defence of the Stagyrite. His influence on the humanistic movement was considerable, owing to the success with which he taught Greek language and literature at the various seats of learning in Italy. At Ferrara he founded an academy to offset the influence of the Platonic academy founded by Plethon at Florence.
+
+UEBERWEG, Hist. of Philosophy, tr. MORRIS, I (New York, 1892), 10.
+
+WILLIAM TURNER

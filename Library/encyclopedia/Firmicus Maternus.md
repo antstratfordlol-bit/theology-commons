@@ -1,0 +1,31 @@
+---
+title: "Firmicus Maternus"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Patrick Joseph Healy"
+signed: "PATRICK J. HEALY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Firmicus_Maternus"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.firmicus-maternus} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Firmament"
+next: "Firmilian"
+entry-type: "article"
+characters: 2401
+words: 397
+links: 0
+images: 0
+---
+
+# Firmicus Maternus {#cathen.firmicus-maternus}
+
+Christian author of the fourth century, wrote a work "De errore profanarum religionum". Nothing is known about him except what can be gleaned from this work, which is found in only one MS. (Codex Vaticano-Palatinus, Saec. X). Some references to the Persian Wars, and the fact that the work was addressed to the two emperors, Constantius II and Constans I, have led to the conclusion that it was composed during their joint reign (337-350). The work is valuable because it gives a picture of the character which the paganism of the later Roman Empire had taken, under the stress of the new spiritual needs aroused by contact with the religions of Egypt and the East. It aims, if one may judge from the mutilated introduction, at presenting from a philosophical and historical standpoint, reasons showing the superiority of Christianity over the superstitions and licentiousness of heathenism. In a general survey of pagan creeds and beliefs the author holds up to scorn the origin and practices of the Gentile cults. All its parts are not of equal merit or importance, from the purely historical standpoint. The first portion, in which the religions of Greece and the East are described, is merely a compilation from earlier sources, but in the latter section of the work, in which the mysteries of Eleusis, Isis, and especially Mithra are set forth in detail, with their system of curious passwords, formulae, and ceremonies, the author seems to speak from personal experience, and thus reveals many interesting facts which are not found elsewhere. The emperors are exhorted to stamp out this network of superstition and immorality, as a sacred duty for which they will receive a reward from God Himself, and ultimately the praise and thanks of those whom they rescue from error and corruption. The theory that the author of the Christian work was identical with Julius Firmicus Maternus Siculus, who wrote a work on astrology (De Nativitatibus sive Matheseos), assigned by Mommsen to the year 337 ["Hermes", XXIX (1894), 468 sq.], is favourably received by some, as well because of the identity of names and dates, as because of similarities in style which they are satisfied the two documents exhibit. This theory of course supposes that the author wrote one work before, the other after, his conversion. Critical edition by Halm (Vienna, 1867) in "Corpus Scrip. Eccles. Lat.", II.
+
+PATRICK J. HEALY

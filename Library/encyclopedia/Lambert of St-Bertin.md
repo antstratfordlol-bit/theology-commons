@@ -1,0 +1,33 @@
+---
+title: "Lambert of St-Bertin"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "Patricius Schlager"
+signed: "PATRICIUS SCHLAGER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Lambert_of_St-Bertin"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.lambert-of-st-bertin} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Lambert of Hersfeld"
+next: "Jacques and Jean de Lamberville"
+entry-type: "article"
+characters: 2114
+words: 329
+links: 0
+images: 0
+---
+
+# Lambert of St-Bertin {#cathen.lambert-of-st-bertin}
+
+Benedictine chronicler and abbot, b. about 1060; d. 22 June, 1125, at St-Bertin, France. He came of a distinguished family, and, when still young, entered the monastery of St-Bertin. He afterwards visited several famous schools in France, having first laid the foundation of his subsequent learning by the study in his own monastery of grammar, theology, and music. For some time he filled the office of prior, and in 1095 was chosen abbot at once by the monks of St-Bertin and by the canons of St-Omer. He was thus drawn into closer relations with Cluny, and. instituted through the Cluniac monks many reforms in his somewhat deteriorated monastery. Needless to say, he encountered no little opposition to his efforts, but, thanks to his extraordinary energy, he finally secured acceptance for his views, and rehabilitated the financial position of the monastery. He was a friend of St. Anselm and exchanged verses, still extant, with Reginald of Canterbury (ed. Libermann in "Neues Archiv der Gesellschaft fur altere Geschichte", XIII, 1888, pp. 528; 531-34). Even during his lifetime, Lambert was lauded in glowing terms for his great learning by an admirer-not a monk of St-Bertin-in the "Tractatus de moribus Lamberti Abbatis S. Beretini" (ed. Holder-Egger in "Mon. Ger. Hist. SS.", XV, 2, 946-53). This work mentions several otherwise unknown writings of Lambert, e.g. "Sermones de Vetere Testamento", also studies on free will, the Divine prescience, original sin, origin of the soul, and questions of physical science. He is probably identical with Lambert, the Canon of St. Omer who wrote the famous "Liber floridus", a kind of encyclopedia of Biblical, chronological, astronomical, geographical, theological, philosophical and natural history subjects, a detailed description of which is given in the "Historia comitum Normannorum, comitum Flandriae". It is an extract or synopsis from different authors, and was begun in 1090 and finished in 1120.
+
+POTTHAST, Bibl. Hist. Med. Aevi. I, 705; Biogr. Nat. De Belgigue, XI (1891), 162-66; WATTENBACH, Geschichtsquellen, II (1894), 170 sq.
+
+PATRICIUS SCHLAGER

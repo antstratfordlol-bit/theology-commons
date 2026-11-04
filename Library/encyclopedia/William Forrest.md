@@ -1,0 +1,33 @@
+---
+title: "William Forrest"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Kate Mary Warren"
+signed: "K. M. Warren"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/William_Forrest"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.william-forrest} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Formularies"
+next: "Arnold Förster"
+entry-type: "article"
+characters: 2718
+words: 470
+links: 0
+images: 0
+---
+
+# William Forrest {#cathen.william-forrest}
+
+Priest and poet; dates of birth and death uncertain. Few personal details are known of him. He is thought to have been related to John Forest, the Franciscan martyr, and was connected with Christ Church, Oxford, though in what capacity is not clear; probably he was a student there. It is certain that he was present when the university, in 1530, discussed the question of Henry VIII's divorce; he also gives a long account in his poem on Catherine of Aragon of the rebuilding of the college when it was remodelled, and we find him in receipt of a pension from it in 1555. Soon after the accession of Mary he was made a royal chaplain, but nothing is known of what became of him after her death. An interesting entry occurs in the State papers (domestic) of Elizabeth, under the date 23 Dec., 1592, to the effect that a certain Robert Faux being examined, confessed that "3 or 4 years since he had given a gray nag with a saddle and bridle to Forrest, a priest, at an ale house in Stoke, Northampton". This may have been William Forrest, and points perhaps to his being a fugitive at the time. He was a skilful musician and collected the manuscripts of some of the best contemporary English composers. This collection is now preserved in Oxford. The greater part of his poems are still in manuscript. None of them are of great poetical merit, but some are extremely interesting from the light they throw upon certain political, religious, and social events of his time. There are some enlightened suggestions in his work concerning points of social reform. Warton, in his "History of English Poetry", remarks that Forrest seems to have been able to "accommodate his faith to the reigning powers", and the statement rests upon the fact that he dedicated two of his works to the protector Somerset. Otherwise he seems to have been a loyal Catholic. Forrest's works are: "History of Joseph the Chaste" (in manuscript, Oxford and British Museum)—a long extract from his poem is given in "Starkey's Life and Letters" (see below); A metrical version of certain Psalms and Canticles (in manuscript); "A New Ballad of the Marigold", in praise of Queen Mary, printed in the "Harleian Miscellany", vol. X; "The History of Grisild the Second", a long poem upon Catherine of Aragon and her divorce, published entire by the Roxburghe Club (London, 1875), with memoir by the Rev. W. H. Macray; "The Life of the Virgin Mary", and other poems (Harleian Manuscript, 1703).
+
+COOPER in Dict. Nat. Biog., s. v.; Starkey's Life and Letters (Early Eng. Text Soc., London, 1878); WARTON, Hist. Eng. Poetry, ed. HAZLITT (London, 1871:, IV; WOOD, Athenae Ozon., ed. BLISS (London, 1812), I; GILLOW, Bibl. Dict. Eng. Cath., s. v.
+
+K. M. Warren.

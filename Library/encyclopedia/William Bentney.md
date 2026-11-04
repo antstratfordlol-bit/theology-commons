@@ -1,0 +1,35 @@
+---
+title: "William Bentney"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Sydney Fenn Smith"
+signed: "SYDNEY F. SMITH"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/William_Bentney"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.william-bentney} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "John Francis Bentley"
+next: "Joseph Charles Benziger"
+entry-type: "article"
+characters: 904
+words: 154
+links: 0
+images: 0
+---
+
+# William Bentney {#cathen.william-bentney}
+
+(*Alias* Bennet).
+
+An English Jesuit priest born in Cheshire, 1609; died 30 October, 1692. He entered the Society of Jesus 7 September, 1630, was sent to the English missions in 1640, and labored there with great zeal and success for forty-two years. He was then arrested, at the instigation of a nobleman to whose sisters he was administering the sacraments, and was taken to the Leicester jail. No one in those parts being willing to bear witness against him, Bentney was at once transferred to Derby, where he was tried and sentenced to death at the spring assizes of 1682. His execution was delayed for unknown reasons, and on the accession of James II he was released. He was rearrested, however, tried and condemned after the Revolution, but the sentence remained suspended, and in 1692 he died in Leicester jail.
+
+Foley, Records, V, 490, and Collect; Gillow, Bibl. Dict Eng. Cath.
+
+SYDNEY F. SMITH

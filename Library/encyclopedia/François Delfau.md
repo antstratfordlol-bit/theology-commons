@@ -1,0 +1,33 @@
+---
+title: "François Delfau"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Thomas Oestreich"
+signed: "THOMAS OESTREICH"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/François_Delfau"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.francois-delfau} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Delegation"
+next: "Pietro Delfino"
+entry-type: "article"
+characters: 2791
+words: 470
+links: 0
+images: 0
+---
+
+# François Delfau {#cathen.francois-delfau}
+
+Theologian, born 1637 at Montel in Auvergne, France; died 13 Oct., 1676, at Landevenec in Normandy. He joined the Order of St. Benedict when he was seventeen years of age, and made his solemn profession at the Abbey of St. Allire, 2 May, 1656. He was a profound student of the Fathers of the Church and the history of the councils. Constant application to study speedily matured the powers of his exceptionally keen and brilliant mind, and he soon came to be looked upon as a foremost authority on all questions connected with patristic theology. When the Congregation of St. Maur in 1670 determined to undertake a critical edition of the works of St. Augustine, Delfau was commissioned by his superiors to prepare it. The task was a difficult one, but together with six other members of the order, among them his intimate friend Dom Robert Guérard, he began with energy and courage this great labour of love, and prosecuted it with an ardour truly Benedictine. In 1671 he prepared an elaborate prospectus, setting forth the general scope and character of the new edition and the principles by which the editors were to be guided. Manuscripts came to the learned Maurists from various countries, and Pope Clement X even sent them priceless codices of the Vatican Library together with all the materials that had been gathered there under Clement VIII for a projected edition of the Opera Augustini. When the first two volumes were about to be printed, the work was suddenly arrested, 18 Sept., 1675, by two *lettres de cachet* from Louis XIV, decreeing the banishment of both Delfau and Guérard from Paris. The occasion for this drastic measure seems to have been Delfau's book "L'abbé commendataire", published at Cologne, 1673, in which the young monk had severely commented on the abuses connected with the system of *commendam* as it was then shamelessly carried on in France to the great detriment of the Church. The fearless work greatly aroused the king's anger, of which the enemies of the Maurists did not fail to take advantage. Delfau was obliged to withdraw to the monastery of Landevenec; he lived there but little more than a year when, at the early age of thirty-eight, he was drowned as he was crossing to the Carmelite convent at Brest, where he was to deliver a eulogy on the feast-day of St. Teresa. Delfau's works are: "Apologia Cardinalis Fürstenbergii"; a masterly epitaph on Casimir, King of Poland, who died as Abbot of St. Germain des Prés; and a dissertation on the authorship of the "Imitatio Christi", in his edition of that book (Paris, 1673).
+
+BÄUMER, *Johannes Mabillon* (Augsburg, 1592). 97 Sq.; TASSIN, *Hist. littéraire de la Congrégation de Saint-Maur* (Paris, 1770); ZIEGELBAUER, *Hist. rei lit.* O. S. B. (Augsburg. 1754), III, 395 sq.
+
+THOMAS OESTREICH.

@@ -1,0 +1,35 @@
+---
+title: "Diocese of Steinamanger"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "Antal Aldásy"
+signed: "A. ALDÁSY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Diocese_of_Steinamanger"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.diocese-of-steinamanger} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Agostino Steffani"
+next: "Eduard von Steinle"
+entry-type: "article"
+characters: 1732
+words: 286
+links: 0
+images: 0
+---
+
+# Diocese of Steinamanger {#cathen.diocese-of-steinamanger}
+
+(SZOMBATHELY)
+
+Located in Hungary, suffragan of Gran, founded in 1777 under Queen Maria Theresa. Originally Colonia Claudia Sabaria and capital of Pannonia during the Roman era, the city was in 445 laid waste by the Huns. In the ninth century Steinamanger, an episcopal see even before the invasion of the Huns, was placed under the jurisdiction of the Archbishop of Salzburg; King St. Stephen, it is said, gave Steinamanger to the Bishop of Veszprém. In 1777 the see was reconstituted at the expense of the Dioceses of Agram and Veszprém. It includes the Counties of Vas and Zala and the territory lying on the River Mura. Its first bishop was John Szily (1777-99), who built the episcopal residence and the cathedral. His successor, Cardinal Franz Herzen (1799-1804), was envoy of Joseph II to the Holy See. Bishop Count Mikes is the present incumbent (since 1911). The Abbey of Jaák, one of the chief Romanesque edifices in Hungary, is in this diocese. The chapter of Steinamanger sprang from the chapter of Vasvár that claims as its founder King St. Stephen, though its documents are of later date. This chapter, richly endowed by the Hungarian kings, declined in the fifteenth century, and in 1578, during the invasions of the Turks, was removed to Steinamanger; on the foundation of the see it became the cathedral chapter. The number of canons was 6 with as many titular canons. The diocese has 6 archdeaneries, 189 priests, 54 parishes. A right of patronage is exercised. There are 5 abbeys and 3 titular abbots, 4 titular provosts, and 25 monasteries with 216 members. The clergy numbers 268 and the Catholic laity 463,947.
+
+A *Katolikus Magyarország* (Catholic Hungary) (Budapest, 1901); *Schematismus* (1909).
+
+A. ALDÁSY.

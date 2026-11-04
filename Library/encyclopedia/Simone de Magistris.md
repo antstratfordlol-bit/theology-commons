@@ -1,0 +1,31 @@
+---
+title: "Simone de Magistris"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Umberto Benigni"
+signed: "U. BENIGNI"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Simone_de_Magistris"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.simone-de-magistris} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Magin Catalá"
+next: "Antonio Magliabechi"
+entry-type: "article"
+characters: 1260
+words: 215
+links: 0
+images: 0
+---
+
+# Simone de Magistris {#cathen.simone-de-magistris}
+
+Born in 1728; died 6 October, 1802; a priest of the Oratorio di S. Filippo Neri, at Rome, whom Pius VI created titular Bishop of Cyrene and provost of the Congregation for the correction of the liturgical books of Oriental Rites. He was very well versed in Oriental languages, and often received from Clement XIV and Pius VI commissions of research on points of ecclesiastical antiquity. He was more especially devoted to the study of the Sacred Scriptures, and among his publications on that subject are (1) "Daniel secundum Septuaginta ex tetraplis Origenis nunc primum editus" (Rome, 1772), from the sole codex in the Chigi library, accompanied by five dissertations (one of them on the chronology of Daniel), by the commentary of St. Hippolytus, by a comparison between the version of the Septuagint and that of Theodotion, a few pieces from the Book of Esther, in Chaldean, a fragment of Papias on the canon of the Sacred Scripture, etc. (2) "Acta Martyrum ad Ostia Tiberina" (Rome, 1795). (3) "S. Dionysii Alexandrini episcopi . . . opera" (Rome, 1796), with a learned introduction on the life and writings of the saint. (4) "Gli atti di cinque martiri della Corea", with a notice on the origin of the Faith in that country (Rome, 1801), etc.
+
+U. BENIGNI

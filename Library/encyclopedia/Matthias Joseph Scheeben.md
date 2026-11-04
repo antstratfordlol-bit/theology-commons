@@ -1,0 +1,35 @@
+---
+title: "Matthias Joseph Scheeben"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Joseph Wilhelm"
+signed: "JOSEPH WILHELM"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Matthias_Joseph_Scheeben"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.matthias-joseph-scheeben} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Hartmann Schedel"
+next: "John James Scheffmacher"
+entry-type: "article"
+characters: 2131
+words: 326
+links: 0
+images: 0
+---
+
+# Matthias Joseph Scheeben {#cathen.matthias-joseph-scheeben}
+
+Theological writer of acknowledged merit, born at Meckenheim near Bonn, 1 March, 1835; died at Cologne, 21 July, 1888. He studied at the Gregorian University at Rome under Passaglia and Perrone (1852-59), was ordained on 18 December, 1858, and taught dogmatic theology at the episcopal seminary of Cologne (1860-1875).
+
+Scheeben was a mystic. His mind revelled in speculating on Divine grace, the hypostatic union, the beatific vision, the all-pervading presence of God; he had a firm believer in visions granted to himself and others, and his piety was all-absorbing. Very few minds were attuned to his; his pupils were overawed by the steady flow of his long abstruse sentences which brought scanty light to their intellects; his colleagues and his friends but rarely disturbed the peace of the workroom where his spirit brooded over a chaos of literary matters.
+
+The list of Scheeben's works opens with three treatises dealing with grace: (1) "Natur und gnade" (Mainz, 1861); (2) a new edition of "Quid est homo", a book by Ant. Casini, S.J. (d. 1755); (3) "Die Herrlichkeiten der göttlichen gnade" (Freiburg, 1863; eighth ed. by A.M. Weiss, 1908, also translated into English); (4) "Mysterien des Christenthums" (Freiburg, 1865-97); (5-9) five pamphlets in defence of the Vatican Council, directed against Döllinger, Schulte, and other Old Catholics, all of sterling value; (10) "Handbuch der katholischen Dogmatik" (seven parts, Freiburg, 1873-87). The author did not finish this classic work of permanent value; he died whilst working on "Grace". The failing treatises were supplied in German by Dr. Atzberger (Freiburg, 1898), in English, by Wilhelm and Scannel, who whilst strictly adhering to Scheeben's thought, reduced the bulky work to two handy volumes entitled: "A Manual of Catholic Theology based on Scheeben's Dogmatik" (3rd ed., 1906). He founded and edited (1867-88) the Cologne "Pastoralblatt", and edited for thirteen years "Das ökumenische Concil vom Jahre 1869", later (after 1872) entitled, "Periodische Blätter zu wissenschaftlichen Besprechung der grossen religiösen Fragen der Gegenwart".
+
+JOSEPH WILHELM

@@ -1,0 +1,49 @@
+---
+id: "basil-epistulae.en.53"
+title: "To the Chorepiscopi."
+work: "Epistulae"
+author: "Basil the Great"
+volume: "NPNF2-08. Basil: Letters and Select Works"
+volume-id: "npnf208"
+series: "Nicene and Post-Nicene Fathers, Series 2"
+language: "en"
+original-language: "no"
+original-language-note: "Greek or Latin original; this is the Edinburgh / American English translation"
+edition: "Philip Schaff, ed. Grand Rapids, MI: Christian Classics Ethereal Library. First published n.d.."
+source: "CCEL ThML XML, https://ccel.org/ccel/schaff/npnf208.xml"
+source-id: "ix.liv"
+sigla: "basil-epistulae"
+part-of: "basil-epistulae"
+part-ref: "53"
+part-kind: "text"
+part-evidence: "printed:body-line1:Letter LIII."
+title-source: "bkv-clavis"
+clavis: "CPG 2900"
+boundary-decision: "one work; letters CCCLXI-CCCLXV share one file and one ranged anchor"
+anchors: "{#basil-epistulae.53} on the H1 — this file is one division of the work, and the division prints no numbering below itself."
+divisions: 0
+footnotes: 7
+scripture-references: 4
+scripture-refs-sidecar: "_scripture-refs/npnf208.tsv"
+print-pages: "157-157"
+print-pages-note: "page breaks are dropped from the running text: 470 of anf01's 571 fall mid-sentence, and an inline marker there would break a phrase grep"
+extracted: "2026-08-21"
+---
+
+# To the Chorepiscopi. {#basil-epistulae.53}
+
+Letter LIII.[^2192]
+
+*To the Chorepiscopi*.[^2193]
+
+1. My soul is deeply pained at the enormity of the matter on which I write, if for this only, that it has caused general suspicion and talk. But so far it has seemed to me incredible. I hope then that what I am writing about it may be taken by the guilty as medicine, by the innocent as a warning, by the indifferent, in which class I trust none of you may be found, as a testimony. And what is it of which I speak? There is a report that some of you take money from candidates for ordination,[^2194] and excuse it on grounds of religion. This is indeed worse. If any one does evil under the guise of good he deserves double punishment; because he not only does what is in itself not good, but, so to say, makes good an accomplice in the commission of sin. If the allegation be true, let it be so no more. Let a better state of things begin. To the recipient of the bribe it must be said, as was said by the Apostles to him who was willing to give money to buy the fellowship of the Holy Ghost, “Thy money perish with thee.[^2195] It is a lighter sin to wish in ignorance to buy, than it is to sell, the gift of God. A sale it was; and if you sell what you received as a free gift you will be deprived of the boon, as though you were yourself sold to Satan. You are obtruding the traffic of the huckster into spiritual things and into the Church where we are entrusted with the body and blood of Christ. These things must not be. And I will mention wherein lies an ingenious contrivance. They think that there is no sin because they take the money not before but after the ordination; but to take is to take at whatever time.
+
+2. I exhort you, then, abandon this gain, or, I would rather say, this approach to Hell. Do not, by defiling your hands with such bribes, render yourselves unfit to celebrate holy mysteries. But forgive me. I began by discrediting; and now I am threatening as though I were convinced. If, after this letter of mine, any one do anything of the kind, he will depart from the altars here and will seek a place where he is able to buy and to sell God’s gift. We and the Churches of God have no such custom.[^2196] One word more, and I have done. These things come of covetousness. Now covetousness is the root of all evil and is called idolatry.[^2197] Do not then price idols above Christ for the sake of a little money. Do not imitate Judas and once more betray for a bribe Him who was crucified for us. For alike the lands and the hands of all that make such gain shall be called Aceldama.[^2198]
+
+[^2192]: Placed in the beginning of the episcopate.
+[^2193]: “A class of ministers between bishops proper and presbyters, defined in the Arabic version of the Nicene canons to be ‘*loco episcopi super villas et monasteria et sacerdotes villarum*;’ called into existence in the latter part of the third century, and first in Asia Minor, in order to meet the wants of episcopal supervision in the country parts of the now enlarged dioceses without subdivision: first mentioned in the Councils of Ancyra and Neo-Cæsarea a.d. 314.” *D.C.A*. i. 354. Three mss. give the title “to the bishops under him.” The Ben. Ed. remarks: “*Liquet Basilium agere de episcopis sibi subditis. Nam qui proprie dicebantur chorepiscopi, manus non ponebant, sed clero inferiores ministros ascribebant, ut videre est in epist. sequenti. Sed tamen ipsi etiam episcopi, qui Ecclesias metropoli subjectas regebant, interdum vocabuntur chorepiscopi. Queritur enim Gregorius Naz. in carmine De vita sua. quod a Basilio, qui quinquaginta chorepiscopos sub se habebat, vilissimi oppiduli constitutus episcopus fuisset.* τούτοις μ᾽ ὁ πεντήκοντα χωρεπισκόποις στενούμενος δέδωκεν *Hoc exemplo confirmatur vetustissimorum codicum scriptura quam secuti sumus*.
+[^2194]: *cf.* note on Theodoret, iv. 20, p. 125.
+[^2195]: Acts viii. 20.
+[^2196]: *cf*. 1 Cor. xi. 16.
+[^2197]: *cf*. Col. iii. 5.
+[^2198]: *cf*. Acts i. 19.

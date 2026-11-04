@@ -1,0 +1,33 @@
+---
+title: "Bernardino Telesio"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "William Turner (1871-1936)"
+signed: "WILLIAM TURNER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Bernardino_Telesio"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.bernardino-telesio} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Diocese of Telese"
+next: "Pope St. Telesphorus"
+entry-type: "article"
+characters: 2456
+words: 397
+links: 0
+images: 0
+---
+
+# Bernardino Telesio {#cathen.bernardino-telesio}
+
+Italian humanist and philosopher born of a noble family at Cosenza, near Naples, 1508; died there, 1588. He studied successively at Milan, Rome, and Padua. In Southern Italy the revolt against Aristoteleanism had already begun. At Padua Telesio first came to be recognized as a leader of the anti-Aristoteleans. After residing several years in Rome, where he enjoyed the patronage of Paul IV, Telesio returned to Naples, and later founded an academy at Cosenza. His principal work is entitled "De rerum natura juxta propria principia", the first part of which was published in Rome, 1565, and the second in Naples, 1587. He was a radical opponent both of the method and of the content of Aristotelean philosophy. He considered that the scholastic followers of Aristotle relied too much on reason and too little on the senses. The "reasoners", he believed, were over-confident of their power to reach the secrets of nature by syllogistic methods. With conscious humility, therefore, he determined to trust to his senses alone, and, beginning "in the dust", he strove to reach the highest pinnacle of natural truth. This exclusion of reason from the task and the consequent exaltation of sense above every other faculty of the mind resulted naturally in the sensistic doctrine that all knowledge is feeling (*sensus*) or sensation, and in the materialistic doctrine that the soul itself is material. In the content of his philosophy he opposed the Aristotelean doctrine of matter and form, substituting for it the doctrine that everything is composed of matter and force, the two principal forces being heat and cold. Heat is centralized in the sun, and cold in the earth. As the Platonist Patrizzi pointed out, there is an inherent contradiction in Telesio's system. For, if we are to rely on the senses and not on reason, since the senses do not reveal the existence of matter except as modified by forces, the central doctrinal principle is in contradiction with the most important methodological tenet. This point was brought out in the discussions between the advocates of Aristotle and the followers of Telesio in the sixteenth century. Among the most ardent disciples of Telesio were Campanella and Giordano Bruno.
+
+FIORENTINO, *Bernardino Telesio, Studi storici*, etc. (2 vols., Florence, 1872); HÖFFDING, *Hist. of Mod. Phil*., tr. MEYER, I (London, 1900), 92 sqq.; WINDELBAND, *Hist. of Phil*., tr. TUFTS (New York, 1901), 356 sqq.
+
+WILLIAM TURNER.

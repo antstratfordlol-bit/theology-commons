@@ -1,0 +1,35 @@
+---
+title: "Ancient Diocese of Carlisle"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Edwin Hubert Burton"
+signed: "EDWIN BURTON"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Ancient_Diocese_of_Carlisle"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.ancient-diocese-of-carlisle} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Dionigi Carli da Piacenza"
+next: "Carlovingian Schools"
+entry-type: "article"
+characters: 5200
+words: 864
+links: 0
+images: 0
+---
+
+# Ancient Diocese of Carlisle {#cathen.ancient-diocese-of-carlisle}
+
+(CARLEOL, KARLIOLUM) - ANCIENT DIOCESE OF CARLISLE (CARLEOLENSIS, KARLIOLENSIS).
+
+The Catholic was smaller in extent than the present Anglican diocese, which was enlarged in 1856. The territory it originally included first became a political unit in the reign of William Rufus (1087-1100), who made it into the Earldom of Carlisle, including therein most, but not all, of the two counties of Cumberland and Westmoreland. In the reign of his successor, Henry I, the earldom was made a bishopric. Till that time it had formed part of the Diocese of Durham, though there was a strong Celtic element that looked to Glasgow for episcopal administration. For the first bishop, the king secured the appointment of his former confessor, Æthelwulf (1133-1155), an English monk, Prior of the Augustinian Canons, whom the king had established at Carlisle in 1102. At the time of his consecration, however, Æthelwulf seems to have been Prior of the Augustinian house at Nostell in Yorkshire. He ruled the diocese until his death in 1156, and from his charters it is clear that the see was from the first well administered, and that there was a vigorous diocesan life. Æthelwulf built a moderate-sized Norman minster of which the transepts and part of the nave still exist, and to serve this cathedral he introduced his own Augustinians, with the result that Carlisle was the only see in England with an Augustinian cathedral chapter, the other monastic cathedral chapters being Benedictine. Of the next bishop, Bernard, little is known, and after his death, in or about 1186, there was a long vacancy, during which the diocese was administered by another Bernard, Archbishop of Ragusa. During this period Carlisle suffered severely from the incursions of the Scots, and early in Henry III's reign we find the king complaining to the pope that Carlisle had revolted to Scotland, and that the canons had elected a bishop for themselves. The papal legate, Gualo, punished this action by exiling the canons and appointing Hugh, Abbot of Beaulieu, a good administrator, as bishop. It was important to the English Government to have a reliable prelate at Carlisle, as they constantly looked to the bishop to attend to Scottish affairs, negotiate treaties, and generally play the part of diplomat. The next bishop was Walter Malclerk, formerly agent of King John, and a prominent figure in the reign of Henry III. Always a patron of the Friars Preachers, he introduced both Dominicans and Franciscans into the city and diocese. He resigned his see in 1246 in order to join the Order of St. Dominic. About this time a new choir was begun and carried to completion, only to be destroyed in the great fire of 1292. A fresh beginning was made by energetic Bishop Halton (1292-1324), a favourite of Edward I, and for nearly a hundred years the building of the present choir proceeded, though with many interruptions. Its chief glory is the great east window, remarkable both for its own beauty and as marking a transition from the earlier style to the perfection of tracery. During this time the see was governed by a line of bishops, busy and useful diplomats in their day, but not remarkable in other respects. One of these was Thomas Merke, the intimate friend of Richard II, who was later on tried for high treason under Henry IV and deprived of his bishopric. The subsequent scholars, being frequently employed in negotiating truces and treaties with Scotland, while several of them were Chancellors of Oxford or of Cambridge. Among them was Wolsey's friend, John Kite (1521-1537), who remained faithful to his master, and who supported him in the poverty of his latter days. The last of the Catholic bishops was Owen Oglethorpe, the kindly-tempered prelate who was prevailed on to crown Elizabeth when no other prelate could be found to do that office for her - an act he so much regretted that, Antony a Wood says, the rest of his days "were both short and wearisome". He disobeyed the queen openly when she forbade him to elevate the Sacred Host in her presence; he refused to appear at a disputation on religion, or to take the Oath of Supremacy, was deprived of his bishopric with the other Catholic bishops, and died a prisoner 31 December, 1559. With him the history of the Catholic see of Carlisle came to an end. It was a poor diocese, and when the Reformers plundered the churches they found little but a chalice in each, and even of these some were of tin. There was only one archdeaconry, that of Carlisle. The cathedral was dedicated to the Blessed Virgin, though this was changed at the Reformation to the Holy Trinity. The arms of the see were: Argent, on a cross, sable, a mitre with labels, Or.
+
+NICOLSON AND BURN, *History of Westmoreland and Cumberland* (London, 1777); HUTCHINSON, *History of Carlisle* (Carlisle, 1796), an extract from his *History of Cumberland* (Carlisle, 1794); JEFFERSON, *History of Carlisle* (Carlisle, 1838); PRESCOTT, *Statutes of Carlisle Cathedral* (Carlisle, 1879); PRESCOTT, *Visitations in the Ancient Diocese of Carlisle* (Carlisle, 1888); FERGUSON, *Diocesan History of Carlisle* (London, 1889); ELEY, *The Cathedral Church of Carlisle* (London, 1900).
+
+EDWIN BURTON

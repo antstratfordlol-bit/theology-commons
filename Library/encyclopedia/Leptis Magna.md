@@ -1,0 +1,35 @@
+---
+title: "Leptis Magna"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "185"
+author: "Siméon Vailhé"
+signed: "S. Vailhé"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Leptis_Magna"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.leptis-magna} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Leprosy"
+next: "Diocese of Le Puy"
+entry-type: "article"
+characters: 2812
+words: 456
+links: 0
+images: 0
+---
+
+# Leptis Magna {#cathen.leptis-magna}
+
+**Leptis Magna**, a titular see of Tripolitana. Founded by the Sidonians in a fine and fertile country, it was the most important of the three towns which formed the Tripoli Confederation. The remains of the ancient Phœnician town are still visible, with the harbour, quays, walls, and inland defence, which make it look like Carthage. This Semitic city subsequently became the centre of a Greek city, Neapolis, of which most of the monuments are buried under sand. Notwithstanding Pliny (Nat. Hist., V, xxviii), who distinguishes Neapolis from Leptis, there is no doubt, according to Ptolemy, Strabo, and Scyllax, that they should be identified. Leptis allied itself with the Romans in the war against Jugurtha. Having obtained under Augustus the title of *civitas* it seems at that time to have been administered by Carthaginian magistrates; it may have been a *municipium* during the first century of the Christian Era and erected by Trajan into a colony bearing the name of Colonia Ulpia Trajana, found on many of its coins. The birthplace of Septimius Severus, who embellished it and enriched it with several fine monuments, it was taken and sacked in the fourth century by the Libyan tribe of Aurusiani (Ammianus Marcellinus, XXVIII, vi) and has never since completely recovered. It was at that time the seat of the military government of Tripolitana.
+
+When Justinian took ft from the Vandals in the sixth century, Leptis Magna was largely in ruins and buried under sand. It was rebuilt, and its walls were raised, their extent being reduced in order more easily to protect the town against the attacks of the Berber tribes dwelling beyond its gates. The duke, or military governor, who again took up his residence there, built public baths and several magnificent buildings; the Septimius Severus palace was restored, and five churches were built (Procopius, "De ædif.", VI-IV). The massacre of all the Berber chiefs of the Levathes, treacherously ordered by Duke Sergius at Leptis Magna in 543, provoked a terrible insurrection, through which the Romans almost lost Africa. Taken in the seventh century by the Arabs, who allowed it to be invaded by the sands, Leptis Magna is now only a majestic ruin called Lebda, sixty-two miles east of Tripoli. Besides vague traces of several large buildings, the remains of a vast circus, 380 yards by sixty-six yards, are visible. Five bishops are recorded: Dioga in 255, Victorinus and Maximus in 393, Salvianus, a Donatist, in 411, Calipedes in 484. This town must not be confounded with Leptis Minor, to-day Lemta in Tunisia.
+
+Gams, *Series episcoporum* (Ratisbon, 1873), 466, col. 3; Toulette, *Géog. de l'Afrique chrét.: Byzacéne et Tripolitaine* (Montreuil, 1894), 252-255; Smith *Dict. Greek and Roman Geog.*, s. v., which gives detailed sources.
+
+S. Vailhé.

@@ -1,0 +1,127 @@
+---
+id: "jerome-vita-s-pauli-primi-eremitae.la"
+title: "Vita S. Pauli primi eremitae"
+work: "Vita S. Pauli primi eremitae"
+author: "Jerome"
+creator: "Jerome"
+corpus: "Doctors of the Church"
+authority-type: "doctor-of-the-church"
+language: "la"
+original-language: "yes"
+original-language-note: "Latin is the language of composition: this is the work itself as Migne prints it, not a translation."
+status: "current"
+attribution: "The work stands in the Patrologia Latina under Hieronymus Stridonensis, and the TEI header repeats that attribution for every text of this author without distinction -- checked across the 0 texts of this author converted on 2026-09-14, which carry 0 different author elements. THE WITNESS THEREFORE OFFERS NO EVIDENCE OF ITS OWN ABOUT AUTHENTICITY, and none is asserted here. The site warns in its own terms that 'the author names are not always correct, we use them as Migne printed them'; Migne's volumes print genuine, dubious and spurious works together, with the editors' admonitiones between them. Check the attribution before citing this file as the author's own."
+edition: "Patrologia Latina, vol. 23, ed. Jacques-Paul Migne, Parisiis 1845. The encoder describes it as an 'early modern edition, no apparatus'."
+source: "mlat.uzh.ch (Corpus Corporum), Patrologia Latina, author 879 / work 607 / text 7163, TEI XML, cached 2026-09-14. Work title as the site's navigation gives it: 'Vita S. Pauli primi eremitae'."
+caveat-ocr: "The site's own words, and they hold for this file: 'There are OCR mistakes. In some cases there are significant differences between the original print and the reprints.'"
+caveat-edition: "The site's own words, and they hold for this file: 'The editions in this collection are from the 16th to the 18th century and NOT critical... for scholarly publications, users should check if there are better editions... the author names are not always correct, we use them as Migne printed them.' THIS TEXT IS THEREFORE CITABLE AS MIGNE -- by Patrologia Latina volume, column and section, which the inline markers in the text give -- AND NEVER AS A CRITICAL TEXT. For these Fathers the critical editions are the Vienna Corpus (CSEL) and Corpus Christianorum (CCSL). This library holds CSEL texts of some of their works in 01. Sources/Library/fathers/critical/Latin/, and those works were NOT converted from Migne; where a CSEL text is held it is the one to quote, and where none is held, a scholarly citation must still use the critical edition, not this file."
+relation: "Jerome's Life of Paul the first hermit. Its English is held in the fathers shelf as `jerome-life-paulus-first-hermit` (NPNF2-06), a sigla minted from the English title and anchored on the whole file, so the two cannot meet by number; this Latin takes the Latin-titled sigla the citation guide prescribes. No other Latin text of the work is held."
+sigla: "jerome-vita-s-pauli-primi-eremitae"
+anchors: "{#jerome-vita-s-pauli-primi-eremitae.REF} -- repository-minted. REF is THE WORK'S OWN DIVISION as Migne prints it, written arabic whatever the source prints (Roman numeral, Latin ordinal word or arabic), and dot-joined where the work divides more than once (level 1: 3; level 3: 18). The heading beside each anchor keeps the head exactly as the source sets it. A division Migne does not number takes a slug of its own head and NO number is invented. 1 heads open with a number or a range ('1-2 EPISTOLA PRIMA') that is not the division's own number; 0 of the 1 fall inside this file's printed column range (17-28), so it is NOT asserted to be Migne's column. It is kept in the heading as printed and carries no anchor."
+migne-columns: "MIGNE'S COLUMNS ARE PRESERVED IN THE TEXT AND CARRY NO ANCHOR. 31 column markers stand inline in the form [PL 23, 17] -- volume, column and the A/B/C/D section of the column -- exactly where the TEI's <pb/> falls, so that a passage can be cited as PL 23, 17. The column is a fact about the printing, not a division of the work, so it is not anchored: two numbering systems are never merged into one anchor space."
+not-anchored: "none"
+divisions: 21
+anchor-count: 21
+column-markers: 31
+duplicate-heads: "none"
+headless-divisions: "none"
+gaps: "none"
+declared: "Character parity against the TEI body is exact: every alphabetic character of the source -- heads, notes and Greek included -- is in this file, and the only letters added are the 'PL' of each column marker."
+extracted: "2026-09-14"
+---
+
+# Vita S. Pauli primi eremitae
+
+## Vita S. Pauli primi eremitae {#jerome-vita-s-pauli-primi-eremitae.vita-s-pauli-primi}
+
+[PL 23, 17]
+
+S. Pauli, a quo primum eremus habitari coepta, vitam, dejecto nonnihil stylo propter simpliciores, enarrat: ostenditque illum 16 circiter annos natum, eremum petiisse sub Decio et Valeriano, ut saevientem in Christianos persecutionem declinaret, in eaque annis degisse XCVIII mira abstinentia ac sanctitate, usquequo a magno Antonio divinitus admonito, visitatus, diem ultimum oppetiit. Historiam cognomini Paulo seni Concordiensi inscribit.
+
+## 1 PROLOGUS. {#jerome-vita-s-pauli-primi-eremitae.prologus}
+
+[PL 23, 17A]
+
+#### 1. {#jerome-vita-s-pauli-primi-eremitae.prologus.1}
+
+Inter multos saepe dubitatum est, a quo potissimum Monachorum eremus habitari coepta sit. Quidam enim altius repetentes, a beato Elia et Joanne sumpsere principium: quorum et Elias plus nobis videtur fuisse, quam Monachus: et Joannes 2 ante prophetare coepisse, quam natus sit. Alii autem, in quam opinionem vulgus omne consentit. asserunt Antonium hujus propositi caput, quod ex parte verum est: non enim tam ipse ante omnes fuit, quam ab eo omnium incitata sunt studia. Amathas vero et Macarius, discipuli Antonii, e quibus superior magistri corpus sepelivit, etiam nunc affirmant, Paulum quemdam [PL 23, 18A] Thebaeum principem istius rei fuisse, non 3 nominis; quam opinionem nos quoque probamus. Nonnulli haec et alia prout voluntas tulit, jactitant: subterraneo specu crinitum calcaneo tenus hominem fuisse, et multa quae persequi otiosum est incredibilia fingentes. Quorum quia impudens mendacium fuit, ne refellenda quidem sententia videtur. Igitur quia de Antonio tam Graeco quam Romano stylo diligenter memoriae traditum est, pauca de Pauli principio et fine scribere disposui: magis quia res omissa erat, quam fretus ingenio. Quomodo autem in media aetate vixerit, et quas Satanae pertulerit insidias, nulli hominum compertum habetur.
+
+## INCIPIT VITA. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita}
+
+[PL 23, 19A]
+
+#### 2. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.2}
+
+*Decius et Valerianus Christianorum persecutores.* -- Sub Decio et Valeriano persecutoribus, quo tempore Cornelius Romae, Cyprianus Carthagine, felici cruore martyrium pertulerunt, multas apud Aegyptum et Thebaidem Ecclesias, tempestas saeva populata est. Voti tunc Christianis erat, pro [ *Veron.* eo] Christi nomine gladio percuti [ *Veron.* perpeti]. Verum hostis callidus tarda ad mortem supplicia conquirens animas cupiebat jugulare, non corpora. Et ut ipse, qui ab ipso passus est, Cyprianus ait: Volentibus mori, non permittebatur occidi. Cujus ut crudelitas notior fiat, duo memoriae causa exempla subjicimus.
+
+#### 3. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.3}
+
+*Duo Martyres insignes.* --Perseverantem in fide [PL 23, 19B] Martyrem, et inter eculeos laminasque victorem, jussit melle perungi, et sub ardentissimo sole, religatis manibus post tergum reponi, scilicet ut muscarum aculeis cederet, qui ignitas sartagines ante superasset. Alium juvenili aetate florentem, in amoenissimos hortulos praecepit [ *Al.* adduci] abduci. 4 Ibique inter lilia candentia et rubentes rosas, cum leni juxta murmure aquarum serperet rivus, et molli sibilo arborum folia ventus praestringeret [ *Al.* stringeret], super exstructum plumis lectum resupinari, et ne se inde posset excutere, blandis sertorum nexibus irretitum relinqui. Quo cum, recedentibus cunctis, meretrix speciosa venisset, coepit delicatis stringere colla [ *Al.* collum] complexibus: et, quod [PL 23, 20A] dictu quoque scelus est, manibus attrectare [ *Al.* obtrectare] virilia: ut corpore in libidinem concitato, se victrix impudica superjaceret. Quid ageret miles Christi, et quo se verteret, nesciebat. Quem tormenta non vicerant, superabat voluptas. Tandem coelitus inspiratus, praecisam mordicus linguam in osculantis se faciem exspuit; ac sic libidinis sensum succedens doloris magnitudo superavit [ *Al.* occupavit *et* praeripuit. *Ms. Veron.* calcavit].
+
+#### 4. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.4}
+
+*Pauli dotes et eruditio.* --Per idem ergo tempus quo talia gerebantur apud inferiorem Thebaidam, cum sorore jam viro tradita, post mortem [ *Al.* morte] amborum parentum in haereditate locupleti, Paulus relictus est annorum circiter sexdecim, litteris tam Graecis quam Aegyptiacis apprime [ *Ms. Ver.* adplene] [PL 23, 20B] eruditus, mansueti animi, Deum valde amans. Et cum persecutionis procella detonaret, in villam remotiorem et secretiorem secessit. Verum quid pectora humana non cogit [ *Ms. Ver.* cogis] *Auri sacra fames (Virgil. Aeneid. II)* ? sororis maritus cepit prodere velle, quem celare debuerat. Non illum uxoris lacrymae, ut assolet: non communio sanguinis, non spectans cuncta ex alto Deus, ab scelere revocavit [ *Ms. Ver.* revocaverunt]. Aderat, instabat, crudelitate quasi pietate utebatur. 5
+
+#### 5. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.5}
+
+*Furtiva monetae officina.* --Quod ubi prudentissimus adolescens intellexit, ad montium deserta confugiens, dum persecutionis finem praestolaretur [ *Al.* praestolatur]. necessitatem in voluntatem [PL 23, 21A] vertit, ac paulatim progrediens, rursusque subsistens, atque hoc idem saepius faciens, tamdem reperit saxeum montem, ad cujus radices haud grandis spelunca, lapide claudebatur. Quo remoto (ut est cupiditas hominum occulta cognoscere), avidius explorans, animadvertit intus grande vestibulum, quod aperto desuper coelo, patulis diffusa ramis vetus palma contexerat, fontem lucidissimum ostendens: cujus rivum tantummodo foras erumpentem, statim modico foramine, eadem quae genuerat, aquas terra sorbebat. Erant praeterea per exesum [ *Al.* saxeum] montem haud pauca habitacula, in quibus scabrae jam incudes et mallei, quibus pecunia signatur, visebantur. Hunc locum Aegyptiorum litterae ferunt, furtivam monetae officinam fuisse, ea tempestate [PL 23, 21B] qua Cleopatrae junctus est Antonius.
+
+#### 6. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.6}
+
+Igitur adamato (quasi quod a Deo sibi offerretur) habitaculo, omnem ibidem in orationibus, et solitudine duxit aetatem. Cibum et vestimentum ei palma praebebat. Quod ne cui impossibile videatur, Jesum testor et sanctos angelos ejus in ea eremi parte, quae juxta Syriam Saracenis jungitur, et vidisse me monachos, et videre, e quibus unus per triginta annos clausus, hordeaceo pane et lutulenta aqua vixit, alter in cisterna 6 veteri (quam gentili sermone Syri GUBBAM vocant) quinque caricis per singulos dies sustentabatur. Haec igitur incredibilia [PL 23, 22A] videbuntur his, qui non credunt omnia possibilia esse credentibus [ *Ms. Ver.* credenti].
+
+#### 7. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.7}
+
+*Aetas Pauli et Antonii.* --Sed ut ad id redeam unde digressus sum, cum jam centum tredecim annos beatus Paulus vitam coelestem ageret in terris, et nonagenarius in alia solitudine Antonius moraretur (ut ipse asserere solebat), haec in mentem ejus cogitatio incidit, nullum ultra se perfectum monachum [ *Al.* monachorum] in eremo consedisse. At illi per noctem quiescenti revelatum est esse alium interius [ *Al.* ulterius *et* in terris] multo se meliorem ad quem visendum deberet proficisci. Illico erumpente luce, venerabilis senex infirmos artus baculo regente sustentans, cepit ire velle quo nesciebat. Et jam media dies coquente desuper sole fervebat, nec tamen [PL 23, 22B] a coepto itinere abducebatur [ *Ver. ms.* deducebatur] dicens: Credo in Deum meum, quod olim conservum, quem mihi promisit, ostendet. Nec plura his, conspicit [ *Al.* conspicatur. *Ver. ms.,* centauro] hominem equo mixtum, cui opinio poetarum Hippocentauro vocabulum indidit. Quo viso, salutaris impressione signi armat frontem: Et heus tu, inquit, quanam in parte hic servus Dei habitat? At ille barbarum nescio quid infrendens, et frangens potius verba quam proloquens, inter horrentia ora setis, blandum quaesivit alloquium. Et dexterae protensione manus cupitum indicat iter, et sic patentes 7 campos volucri transmittens fuga, ex oculis [PL 23, 23A] mirantis evanuit. Verum haec utrum diabolus ad terrendum eum simulaverit, an (ut solet) cremus monstruosorum animalium ferax, istam quoque gignat bestiam, incertum habemus.
+
+#### 8. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.8}
+
+*Fauni et Satyri. Satyrus allatus vivus Alexandriam.* --Stupens itaque Antonius, et de eo quod viderat secum volvens, ulterius progreditur [ *Ver. ms.* regrediebatur]. Nec mora, inter saxosam convallem haud grandem homunculum videt, aduncis naribus, fronte cornibus asperata, cujus extrema pars corporis in caprarum pedes desinebat. Ad hoc Antonius spectaculum, scutum fidei et loricam spei, ut bonus praeliator arripuit: nihilominus memoratum animal, palmarum fructus eidem ad viaticum, quasi pacis obsides, offerebat [ *Al.* afferebat]. [PL 23, 23B] Quo cognito, gradum pressit Antonius, et quisnam esset interrogans, hoc ab eo responsum accepit: « Mortalis ego sum, et unus ex accolis eremi, quos vario delusa errore Gentilitas, Faunos, Satyrosque, et Incubos vocans colit. Legatione fungor gregis mei. Precamur ut pro nobis communem Dominum depreceris, quem in [ *Ver. tacet* quem in] salutem mundi olim venisse cognovimus; et in universam terram exiit sonus ejus. » Talia eo loquente, longaevus viator ubertim faciem lacrymis rigabat, quas magnitudo laetitiae indices cordis effuderat. Gaudebat quippe de Christi gloria, et de interitu Satanae: simulque admirans, quod ejus posset intelligere sermonem, et baculo humum percutiens, aiebat: « Vae tibi, Alexandria, quae pro Deo portenta veneraris. [PL 23, 23C] Vae tibi, 8 civitas meretrix in quam totius orbis daemonia [PL 23, 24A] confluxere. Quid nunc dictura es? » Bestiae Christum loquuntur, et tu pro Deo portenta veneraris. Necdum verba compleverat, et quasi pennigero volatu petulcum animal aufugit. Hoc ne cuiquam ad incredulitatem scrupulum moveat, sub rege Constantio, universo mundo teste, defenditur. Nam Alexandriam istiusmodi homo vivus perductus, magnum populo spectaculum praebuit: et postea cadaver exanime, ne calore aestatis dissiparetur, sale infuso [ *Ver. ms.* infusam et], Antiochiam ut ab Imperatore videretur, allatum est.
+
+#### 9. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.9}
+
+Sed ut propositum persequar, Antonius coeptam regionem pergebat, ferarum tantum vestigia intuens, et eremi latam vastitatem. Quid ageret, quo verteret gradum, nesciebat. Jam altera effluxerat [PL 23, 24B] dies. Restabat unum, ut deseri se a Christo non posse confideret. Pernox secundas in oratione exegit tenebras: et dubia adhuc luce, haud procul intuetur lupam sitis ardoribus anhelantem, ad radicem montis irrepere. Quam secutus oculis, et juxta speluncam, cum fera abiisset, accedens, intro coepit aspicere [ *Ver. ms.* coepit introspicere]: nihil curiositate proficiente, tenebris arcentibus visum. Verum ut Scriptura ait, *perfecta dilectio foras mittit timorem (I Joan. IV, 18)* , suspenso gradu et anhelitu temperato, callidus explorator ingressus, ac paulatim progrediens, saepiusque subsistens sonum aure captabat. Tandem per caecae noctis horrorem procul lumen intuitus, dum avidius properat, 9 offenso in lapidem pede, strepitum concitavit: post cujus sonitum [PL 23, 24C] beatus Paulus ostium quod patebat occludens [PL 23, 25A] [ *Ver.* recludens], sera obfirmavit. Tunc vero Antonius pro [ *Al.* prae] foribus corruens, usque ad sextam, et eo amplius horam, aditum precabatur dicens: Qui sim, unde, cur venerim, nosti. Scio me non mereri conspectum tuum: tamen nisi videro, non recedam. Qui bestias recipis [ *Al.* suscipis], hominem cur repellis? Quaesivi, et inveni: pulso ut aperiatur. Quod si non impetro, hic [ *Ver.* hic, hic] moriar ante postes tuos: certe sepelies vel cadaver.
+
+Talia perstabat memorans, fixusque manebat.
+
+Ad quem responsum paucis ita reddidit heros.
+
+(Virgil., Aeneid., lib. II et VI.)
+
+Nemo sic petit, ut minetur: nemo cum lacrymis calumniam facit. Et miraris si non recipiam, cum moriturus adveneris? Sic arridens Paulus patefecit [PL 23, 25B] ingressum. Quo aperto, dum in mutuos miscentur amplexus, propriis se salutavere nominibus: gratiae Domino in commune referuntur.
+
+#### 10. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.10}
+
+Et post sanctum osculum residens Paulus, cum Antonio ita exorsus est: En quem tanto labore quaesisti, putridis senectute membris operit inculta canities. En vides hominem, pulverem mox futurum. Verum quia charitas omnia sustentat [ *Ver.* sustinet], narra mihi, quaeso, quomodo [ *Ver.* ut] se habeat humanum genus. An in antiquis urbibus nova tecta consurgant: quo mundus regatur imperio: an supersint aliqui, qui daemonum errore rapiantur [ *Al.* capiantur]. Inter has sermocinationes suspiciunt alitem corvum in ramo arboris consedisse, qui inde leniter subvolabat, et integrum panem ante ora [PL 23, 25C] mirantium deposuit; post cujus abscessum: Eia, inquit Paulus, Dominus nobis prandium misit, vere pius, vere misericors. Sexaginta jam anni sunt quod [ *Al.* ex quo] dimidii semper panis fragmentum [ *Ver.* fragmen] accipio: verum ad adventum tuum, militibus suis Christus duplicavit annonam.
+
+#### 11. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.11}
+
+Igitur Domino gratiarum actione celebrata, super vitrei marginem fontis uterque consedit [ *Ver.* subsedit]. Hic vero quis frangeret panem oborta contentio, pene diem 10 duxit in vesperum. Paulus more cogebat hospitii, Antonius jure refellebat aetatis. Tandem consilium fuit, ut apprehenso e regione pane, dum ad se quisque nititur, pars sua remaneret in manibus. Dehinc paululum aquae in fonte prono ore [ *Al.* prono in fronte ore] libaverunt: et immolantes [PL 23, 25D] Deo sacrificium laudis, noctem transegere vigiliis. Cumque jam esset terrae [ *Al.* terris] redditus dies, beatus Paulus ad Antonium sic locutus est: Olim te, frater, in istis regionibus habitare sciebam: [PL 23, 26A] olim te conservum meum mihi promiserat Deus; sed quia jam dormitionis meae tempus advenit, et quod semper cupiebam [ *Ver.* cupieram] dissolvi, et esse cum Christo, peracto cursu superest mihi corona justitiae: tu missus es a Domino, qui humo corpusculum meum tegas, immo terrae terram reddas.
+
+#### 12. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.12}
+
+*Athanasius pallium dedit Antonio. Monasterium Antonii a Saracenis occupatum.* --His Antonius auditis, flens et gemens, ne se desereret, atque ut comitem talis itineris acciperet, precabatur. Et [ *Al.* At] ille: Non debes, inquit, quaerere quae tua sunt, sed quae aliena. Expedit tibi, sarcina carnis abjecta, Agnum sequi. Sed et caeteris expedit fratribus, ut tuo adhuc instituantur exemplo. Quamobrem, quaeso, perge, nisi molestum est: et pallium [PL 23, 26B] quod tibi Athanasius episcopus dedit, ad obvolvendum corpusculum meum, defer. Hoc autem beatus Paulus rogavit, non quod magnopere curaret, utrum tectum putresceret cadaver, an nudum (quippe qui tanto temporis spatio, contextis palmarum foliis vestiebatur), sed ut a se recedenti moeror suae mortis levaretur. Stupefactus ergo Antonius, quod de Athanasio et pallio ejus audierat, quasi Christum in Paulo videns, et in pectore ejus Deum venerans, ultra respondere nihil ausus est: sed cum silentio lacrymans, exosculatis ejus oculis manibusque, ad monasterium quod postea a Saracenis occupatum est, regrediebatur. Neque vero gressus sequebantur animum. Sed quamvis corpus inane jejuniis, seniles etiam anni fregerant, tamen animo vincebat [PL 23, 26C] aetatem.
+
+#### 13. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.13}
+
+*Antonii humilitas.* --Tandem fatigatus [ *Ver.* defatigatus] et anhelus ad habitaculum suum confecto itinere pervenit. Cui cum duo discipuli, qui ei jam longaevo ministrare coeperant, occurrissent 11 dicentes: Ubi tamdiu moratus es, pater? Respondit: Vae mihi peccatori, qui falsum Monachi nomen fero. Vidi Eliam, vidi Joannem in deserto, et vere vidi Paulum in paradiso. Et sic ore compresso, et manu verberans pectus, ex cellula pallium protulit. Rogantibusque discipulis, ut plenius quidnam rei esset, exponeret, ait: *Tempus tacendi, et tempus loquendi (Eccles. III, 7)* .
+
+#### 14. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.14}
+
+*Pauli anima inter angelorum choros.* --Tunc egressus foras, et ne modicum quidem cibi sumens, [PL 23, 26D] per viam qua venerat, regressus est [ *Ver.* regrediebatur], illum sitiens, illum videre desiderans, illum oculis ac tota mente complectens. Timebat enim, quod et evenit, ne se absente, Christo debitum spiritum [PL 23, 27A] redderet. Cumque jam dies alia illuxisset, et trium horarum spatio iter remaneret, vidit inter angelorum catervas, inter prophetarum et apostolorum choros, niveo candore Paulum fulgentem in sublime conscendere. Et statim in faciem suam procidens, sabulum capiti superjaciebat, ploransque et ejulans, aiebat [ *Ver. tacet* ]: Cur me, Paule, dimittis? cur insalutatus abis? Tam tarde notus, tam cito recedis?
+
+#### 15. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.15}
+
+Referebat postea beatus Antonius tanta se velocitate, quod reliquum erat viae cucurrisse, ut ad instar avis pervolaret: nec immerito; nam introgressus speluncam, vidit [ *Ver.* videt] genubus complicatis, erecta cervice, extensisque in altum manibus, corpus exanime. Ac primum et ipse vivere eum credens, pariter orabat. Postquam vero nulla, ut [PL 23, 27B] solebat, suspiria precantis audivit, in flebile osculum ruens, intellexit quod etiam cadaver sancti Deum, cui omnia vivunt, officio gestus precaretur.
+
+#### 16. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.16}
+
+*Christiana traditio.* --Igitur obvoluto et prolato foras corpore, hymnos quoque et psalmos de Christiana traditione decantans, contristabatur Antonius, quod sarculum, quo terram foderet, non haberet. Fluctuans itaque vario mentis aestu, et secum multa reputans, dicebat: Si ad monasterium revertar, quatridui [ *Al.* tridui] iter est: si hic maneam, nihil ultra proficiam. 12 Moriar ergo, ut dignum est, juxta bellatorem tuum, Christe, et ruens, extremum halitum fundam. Talia eo animo volvente, ecce duo leones ex interioris eremi parte currentes, volantibus per colla jubis, ferebantur: quibus aspectis [PL 23, 27C] primo exhorruit. Rursusque ad Deum referens mentem, quasi columbas videret, mansit intrepidus. Et illi quidem directo cursu, ad cadaver beati senis substiterunt: adulantibusque caudis circa ejus pedes accubuere: fremitu ingenti rugientes, prorsus ut intelligeres [ *Al.* intelligeret] eos plangere, quo modo poterant. Deinde haud procul coeperunt humum pedibus scalpere; arenamque certatim egerentes, unius hominis capacem locum foderunt [ *Ver.* effoderunt. Et]. Ac statim quasi mercedem pro opere postulantes, cum motu aurium cervice dejecta, ad Antonium [PL 23, 28A] perrexerunt, manus ejus pedesque lingentes. At ille animadvertit benedictionem eos a se precari. Nec mora, in laudationem Christi effusus, quod muta quoque animalia Deum esse sentirent, ait: Domine, sine cujus nutu nec folium arboris defluit, nec unus passerum ad terram cadit, da illis sicut tu scis. Et manu annuens [ *Al.* innuens] eis, ut abirent, imperavit. Cumque illi recessissent, sancti corporis oneri [ *Al.* onere] seniles curvavit humeros; et deposito eo effossam, desuper humum congregans, tumulum ex more posuit [ *Al.* composuit]. Postquam autem alia dies illuxit, ne quid pius haeres ex intestati bonis non possideret, tunicam ejus sibi vindicavit, quam in sportarum modum de palmae [ *Al.* palmarum] foliis ipse sibi contexuerat. Ac sic ad [PL 23, 28B] monasterium reversus, discipulis cuncta ex ordine replicavit; diebusque solemnibus Paschae et Pentecostes semper Pauli tunica vestitus est.
+
+#### 17. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.17}
+
+*Comparatio Pauli et divitum saeculi.* --Libet in fine opusculi eos interrogare, qui sua patrimonia ignorant, qui domos marmoribus vestiunt, qui uno filo villarum insuunt praedia: huic seni nudo [ *Al.* seminudo] quid umquam defuit? Vos gemma bibitis, ille naturae concavis manibus satisfecit. Vos in tunicis aurum texitis, ille ne vilissimi quidem indumentum 13 habuit mancipii vestri. Sed e contrario illi pauperculo paradisus patet, vos auratos gehenna suscipiet. Ille vestem Christi, nudus licet, tamen servavit: vos vestiti sericis, indumentum Christi perdidistis. Paulus vilissimo pulvere coopertus jacet [PL 23, 28C] resurrecturus in gloriam: vos operosa saxis sepulcra premunt cum vestris opibus arsuros. Parcite, quaeso, vos [ *Al.* vobis]: parcite saltem divitiis quas amatis. 14 Cur et mortuos vestros auratis obvolvitis vestibus? cur ambitio inter luctus lacrymasque non cessat? An cadavera divitum nisi in serico putrescere nesciunt?
+
+#### 18. {#jerome-vita-s-pauli-primi-eremitae.incipit-vita.18}
+
+Obsecro, quicumque haec legis, ut Hieronymi peccatoris memineris: cui si Dominus optionem daret, multo magis eligeret tunicam Pauli cum meritis ejus, quam regum purpuras cum poenis suis.

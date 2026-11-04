@@ -1,0 +1,33 @@
+---
+title: "Johann Schraudolph"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "13"
+pages: "unknown"
+author: "Gerhard Gietmann"
+signed: "G. Gietmann"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Johann_Schraudolph"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.johann-schraudolph} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Franz Paula von Schrank"
+next: "Franz Schubert"
+entry-type: "article"
+characters: 2696
+words: 438
+links: 0
+images: 0
+---
+
+# Johann Schraudolph {#cathen.johann-schraudolph}
+
+Historical painter, b. at Obersdorf in the Allgau, 1808; d. 31 May, 1879. As pupil and assistant of Heinrich Hess he painted five scenes from the life of St. Boniface in the basilica at Munich: St. Boniface preaching; his consecration as bishop; the cutting down of Thor's oak; the anointing of Pepin; and the burial of St. Boniface. In these frescoes Schraudolph justified the confidence placed in him by his master who had already tested his work in the Church of All Saints where Schraudolph had painted scenes from the history of Moses, figures of David, Saul, etc. Some of his devotional pictures became very popular: the Virgin with the Child Jesus; St. Agnes; Christ as the Friend of children; a eucharistic service, etc.; His carefully executed sketches for the life of St. Boniface were greatly admired by fellow artists. On the recommendation of Hess he received an important commission from Louis I, namely the painting of the frescoes for the cathedral of Speyer. Although he had already traveled once through Italy under the guidance of J. Ant. Forster and had made numerous copies of the old masters, yet he considered it necessary to make a new journey to Rome and Overbeck for the sake of this, the great work of his life. Unfortunately in his studies he laid more stress on grace and tenderness than upon force and depth. Consequently the lack of the two last mentioned qualities is perceptible in his frescoes for the austere and stately imperial cathedral, while correctness, harmony, and a devout spirit are unmistakably present in the large compositions. He made sure of the unity of the series by keeping his assistants (his brother Claudius, Hellweger, Andr. Mayer, etc.) in strict subordination to himself, by retaining for himself the designing of all the compositions for the cupola, the three choirs, and most of those for the nave, by drawing the most important cartoons and painting the most difficult pictures himself. The unifying conception of all the frescoes is: the Divine plan of salvation with special reference to the Blessed Virgin and the other patron saints of the cathedral, the deacon Stephen, Pope St. Stephen, and St. Bernard. After the completion of this undertaking Schraudolph enjoyed the unchanging favour of the king, who frequently inspected the numerous oil-paintings produced in Schraudolph's studio, and at times bought them for himself or the Pinakothek.
+
+Forster, Gesch. der deutschen Kunst, V (Leipzig, 1860); Idem, on the frescoes in the cathedral of Speyer in the Deutsches Kunstablatt, no. 15 (Leipzig, 1883); Stubenvoll, Beschreibung der Munchener Basilika (Munich, 1875); Pecht, Gesch. der Munchner Kunst (Munich, 1888).
+
+G. Gietmann.

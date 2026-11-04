@@ -1,0 +1,35 @@
+---
+title: "Diocese of Casale Monferrato (Casalensis)"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Umberto Benigni"
+signed: "U. BENIGNI"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Diocese_of_Casale_Monferrato_(Casalensis)"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.diocese-of-casale-monferrato-casalensis} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Carystus"
+next: "Giovanni Battista Casali"
+entry-type: "article"
+characters: 1896
+words: 316
+links: 0
+images: 0
+---
+
+# Diocese of Casale Monferrato (Casalensis) {#cathen.diocese-of-casale-monferrato-casalensis}
+
+DIOCESE OF CASALE MONFERATTO (CASALENSIS).
+
+A suffragan of Vercelli. Casale Monferrato, the ancient *Bodincomagus*, is a city in the province of Alessandria, Piedmont (Italy), on the River Po, and has been a stronghold since the time of the Lombards. King Liutprand enlarged it, and Emperor Otto II made it the chief town of a marquisate, giving it to the sons of Aleran, Duke of Saxony; later it was inherited by Emperor Michael VIII, Palaeologus, who sent thither his son Theodore. In 1533, the dynasty of the Palaeologi being extinct, Charles V gave it to the Gonzaga. From 1681 to 1706 it was in the hands of the French, from whom, in 1713, it passed to the House of Savoy. Casale was created a see in 1474 by Sixtus IV; previously it belonged to the Diocese of Asti. Its first bishop was Bernardino de Tebaldeschi; his successor was Gian Giorgio Paleologo (1517), who also governed the marquisate for his nephew, a minor. Among its noteworthy bishops were: the Dominican Benedetto Erba (1570), most zealous for the Christian instruction of children and the introduction of the Tridentine reforms, in which good work he was associated with St. Charles Borromeo; he was also the founder of the *monti di pietà*; Giulio Careta (1614), who imitated other contemporary bishops and founded an oratory for priests, and when the pest was ravaging Casale (1630) himself nursed the sick; Scipione Pasquali (1645), author of a history of the campaign of Charles Emmanuel of Savoy against Montferrat. Among the churches of Casale are the cathedral, one of the finest monuments of Lombard architecture, and that of St. Hilary (Ilario). The diocese has a population of 200,500, with 140 parishes, 562 churches and chapels, 322 secular and 86 regular priests, 8 religious houses of men and 8 of women.
+
+CAPPELLETTI, *Le chiese d'Italia* (Venice, 1844), XIV, 563; *Ann. eccl.* (Rome, 1907), 324.
+
+U. BENIGNI

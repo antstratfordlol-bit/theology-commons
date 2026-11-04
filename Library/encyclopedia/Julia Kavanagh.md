@@ -1,0 +1,33 @@
+---
+title: "Julia Kavanagh"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "8"
+pages: "unknown"
+author: "Matthew James Flaherty"
+signed: "Matthew J. Flaherty"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Julia_Kavanagh"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.julia-kavanagh} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Edward Kavanagh"
+next: "Joseph Kehrein"
+entry-type: "article"
+characters: 2953
+words: 492
+links: 0
+images: 0
+---
+
+# Julia Kavanagh {#cathen.julia-kavanagh}
+
+Novelist and biographer, born 7 Jan., 1824, at Thurles, Ireland; died 28 October, 1877, at Nice, France. She was an only child. Her father, Morgan Kavanagh, a poet and philologist, was the author of some curious works on the source and science of languages. At an early age she accompanied her parents to London, but soon removed to France, where she received her education and remained till her twentieth year. This lengthy residence in France, with several other long visits later in life, gave her an insight into French life and character, which she portrayed most faithfully in many of her works. In 1844 she returned to London, and at once embraced literature as a profession. She began by writing tales and essays for the periodicals of the day. Her first book, "The Three Paths", a tale for children, appeared in 1847. It was followed by "Madeleine" (1848), a story founded on the life of a peasant girl of Auvergne. This gave her a literary reputation which was increased by her historical biographical works: "Women in France during the Eighteenth Century" (1850), "Women of Christianity Exemplary for Acts of Piety and Charity" (1852), "French Women of Letters" (1862), and the companion volume "English Women of Letters" (1862). As a biographer she shows great power and a fine sense of discrimination in portraying her characters, though the claims she makes for her heroines are at times somewhat exaggerated. It is, however, as a novelist, that she is best known. Her studies of French life and character, which are worked into almost all her stories, are excellent and show her at her best. Her plots, though not of great depth, are well developed and of sufficient action to hold the interest. "Her writing", remarked a contributor to the London *Athenæum* at the time of her death, "was quiet and simple in style, but pure and chaste, and characterized by the same high-toned thought and morality that was part of the author's own nature." She wrote about twenty novels, which have had a wide circulation in America and in England, and have been translated into French. The best known are "Madeleine" (1848), "Nathalie" (1851), "Daisy Burns" (1853), "Rachel Gray" (1855). About 1853 she made a prolonged tour of the Continent, and in 1858 published her experience under the title of "A Summer and Winter in the Two Sicilies". Her life was rather uneventful; a great part of her time was devoted to the care of her widowed mother, who was an invalid. At the outbreak of the Franco-German War, Miss Kavanagh, who was living in Paris with her mother, moved to Rouen and thence to Nice, where she died in her fifty-fourth year. After her death appeared a collection of short tales bearing the appropriate title: "Forget-me-nots" (1878).
+
+READ, *Cabinet of Irish Literature* (London, 1891); *Academy* (10 Nov., 1877, London); *Athenæum* (17 Nov., 1877, London); *Irish Monthly*, VI; preface to *Forget-me-nots* (1878).
+
+Matthew J. Flaherty.

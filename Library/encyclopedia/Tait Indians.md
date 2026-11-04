@@ -1,0 +1,35 @@
+---
+title: "Tait Indians"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "James Mooney"
+signed: "JAMES MOONEY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Tait_Indians"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.tait-indians} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Ven. Anna Maria Gesualda Antonia Taigi"
+next: "Takkali"
+entry-type: "article"
+characters: 2718
+words: 425
+links: 0
+images: 0
+---
+
+# Tait Indians {#cathen.tait-indians}
+
+(*Te-it*, "Those up river").
+
+A collective term for those members of the Cowichan tribe, of Salishan linguistic stock, occupying the Lower Fraser River, Yale District, British Columbia (Canada), between Nicomen and Yale, where they border upon the Thompson River Indians. They have several small reserves within the jurisdiction of Fraser River agency, of which the principal are Chehalis (116), Cheam (95), Hope (79), and Yale (76). From perhaps 3000 souls a century ago they have decreased, through smallpox, disease, and former dissipation, since the occupation of the country by the whites, to 932 in 1890 and 578 in 1910. The gospel was preached to them by the Oblates, beginning with Fr. Charles Grandidier in 1869, at which time the whole Cowichan tribe was sunk in the lowest stage of degradation from drunkenness and association with depraved whites, drunken murders being of almost nightly occurrence. Within two years they were completely reclaimed, all Christians, sober and law-abiding; all due, according to Protestant testimony, "To the honest and persevering labours of a poor Catholic priest who receives no salary, and is fed by the Indians" ("The British Colonist", Victoria, B.C., 26 March, 1861, quoted in Morice, "History of the Catholic Church in Western Canada", II, 312). Of the whole number all but seventy-five are now Catholic, the others being Anglican or Methodist, and are officially reported as law-abiding, industrious, strictly moral, and generally temperate. Their principal educational centre is St. Mary's Mission, on the Fraser River, established in 1861 under the management of the Oblates assisted by the Sisters of St. Ann, besides a smaller and more recent mission school at Yale. Of the Cowichan language, which is spoken by a number of bands about Lower Fraser and on the opposite coast of Vancouver Island, very little has been recorded beyond some vocabularies by Tolmie and Dawson. A brief sketch of the ethnology of the tribe group is given by Boas in "Reports to the British Association for the Advancement of Science". In their primitive customs and characteristics they resembled the cognate Songish, Squamish, Shuswap, and Lillooet.
+
+BOAS, *First General Report on Indians of British Columbia* in *Reports to the British Association for the Advancement of Science* (London, 1889); IDEM, *Indian Tribes of the Lower Fraser River* (*loc. cit*., 1890); *Annual Reports of the Department of Indian Affairs of Canada* (Ottawa); MORICE, *History of the Catholic Church in Western Canada* (2 vols., Toronto, 1910); TOLMIE AND DAWSON, *Comparative Vocabularies* . . . *of British Columbia* in *Geological and Natural History Survey of Canada* (Montreal, 1884).
+
+JAMES MOONEY

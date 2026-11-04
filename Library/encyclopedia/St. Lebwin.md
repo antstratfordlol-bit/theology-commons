@@ -1,0 +1,33 @@
+---
+title: "St. Lebwin"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "9"
+pages: "unknown"
+author: "Thomas Kennedy"
+signed: "Thomas Kennedy"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Lebwin"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-lebwin} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Charles Lebrun"
+next: "Emile-Paul-Constant-Ange Le Camus"
+entry-type: "article"
+characters: 4179
+words: 681
+links: 0
+images: 0
+---
+
+# St. Lebwin {#cathen.st-lebwin}
+
+**Lebwin** (Lebuinus or Liafwin), Saint, apostle of the Frisians and patron of Deventer, b. in England of Anglo-Saxon parents at an unknown date; d. at Deventer, Holland, about 770. Educated in a monastery and fired by the example of St. Boniface, St. Willibrord, and other great English missionaries, Lebwin resolved to dovote his life to the conversion of the Germans. After his ordination he proceeded to Utrecht, and was gladly welcomed by Gregory, third bishop of that place, who entrusted him with the mission of Overyssel on the borders of Westphalia, and gave him as a companion Marchelm (Marcellinus), a disciple of St. Willibrord. Hospitably received by a widow named Abachilda (Avaerhilt), he fearlessly preached the Gospel among the wild tribes of the district, and erected a little chapel at Wulpe (Wilpa) on the west bank of the Yasel. As the venerable personality and deep learning of the missionary quickly won numbers, even of the nobles, to the Faith it soon became necessary to build at Deventer on the east bank of the river a larger church, after which a residence for Lebwin was also erected. This state of undisturbed development of his little fold was not, however to continue. Lebwin's wonderful success excited great hostility among the pagans; ascribing his conversions to witchcraft, they formed an alliance with the predatory and anti-Christian Saxons, burned the church at Deventer, and dispersed the flock. Having with difficulty managed to escape, Lebwin determined to voice the claims of Christianity at the national assembly of the Saxons. To this the three estates of each *gau* sent twelve men as representatives, and with it the decision of all important matters rested. Setting out for Marclo near the Weser in Saxony, where the assembly was held, Lebwin was hospitably entertained by a noble named Folchert (Folkbert), apparently a Christian, who vainly strove to dissuade him from his purpose. Clad in priestly vestments and bearing the crucifix in one hand and the Gospels in the other, Lebwin appeared in the midst of the assembled Saxons, while they were engaged with their sacrifices to their false deities. Having boldly proclaimed the One True God, the Creator of all, he warned them that, if they obstinately adhered to their idolatry, "a bold, skilful, and mighty king would advance upon them like a raging torrent, destroy everything with fire and sword, bring want and banishment into their territories, send their wives and children into slavery, and make the remainder submit to the yoke of his domination." Enraged at these words, the Saxons demanded that this enemy of their religion and land should expiate his reckless offence by death, and they prepared to slay him with stakes torn from the thickets and sharpened, but he made his escape. An old nobleman, Buto, reminded the assembly that, while ambassadors from the Normans, Slavs, and Frisians had been always honourably received and dismissed in peace, they were now insulting and threatening with death the ambassador of the Highest God, of whose mightiness the present wonderful deliverance of His servant from instant death was sufficient evidence. Convinced by this speech, the Saxons promised henceforth to respect the rights of Christianity. On his return to Friesland, Lebwin rebuilt the church at Deventer, and found there his last resting-place. That he died before 776 is certain, since in that year the Saxons made a fresh inroad into the district and burnt the church, but, in spite of the most careful search for three days, were unable to discover the saint's body. St. Ludger (q.v.) rebuilt the church a few years later, and found the saint's remains. Lebwin is commemorated by the Church on 12 November.
+
+The principal sources for Lebwin's biography are; Hucbald (918–76), *Vita s. Lebuini* in Surius, *Vitæ SS.*, VI, 277–86, and in abbreviated form in *Mon. Germ. SS.*, II, 360—4: tr. in Cressy, *Church History of Brittany*, XXIV, vii; Radbod, *Ecloga et Sermo* (on Lebwin) in Surius, VI, 839; Altfrid, *Vita Liutgeri* in *Mon. Germ. SS.*, II, 360 sqq. For further bibliography see Gammack in *Dict. Christ. Biog.*, s. v. *Lebuinus*.
+
+Thomas Kennedy.

@@ -1,0 +1,33 @@
+---
+title: "St. Gilbert of Sempringham"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Richard Urban Butler"
+signed: "R. Urban Butler"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Gilbert_of_Sempringham"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.st-gilbert-of-sempringham} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Vicariate Apostolic of the Gilbert Islands"
+next: "St. Gildas"
+entry-type: "article"
+characters: 3539
+words: 610
+links: 0
+images: 0
+---
+
+# St. Gilbert of Sempringham {#cathen.st-gilbert-of-sempringham}
+
+Founder of the Order of Gilbertines, b. at Sempringham, on the border of the Lincolnshire fens, between Bourn and Heckington. The exact date of his birth is unknown, but it lies between 1083 and 1089; d. at Sempringham, 1189. His father, Jocelin, was a wealthy Norman knight holding lands in Lincolnshire; his mother, name unknown, was an Englishwoman of humble rank. Being ill-favoured and deformed, he was not destined for a military or knightly career, but was sent to France to study. After spending some time abroad, where he became a teacher, he returned as a young man to his Lincolnshire home, and was presented to the livings of Sempringham and Tirington, which were churches in his father's gift. Shortly afterwards he betook himself to the court of Robert Bloet, Bishop of Lincoln, where he became a clerk in the episcopal household. Robert was succeeded in 1123 by Alexander, who retained Gilbert in his service ordaining him deacon and priest much against his will. The revenues of Sempringham had to suffice for his maintenance in the court of the bishop; those of Tirington he devoted to the poor. Offered the archdeaconry of Lincoln, he refused, saying that he knew no surer way to perdition. In 1131 he returned to Sempringham and, is father being dead, became lord of the manor and lands. lt was in this year that he founded the Gilbertine Order, which he was the first is "Master", and constructed at Sempringham, with the help of Alexander, a dwelling and cloister for his nuns, at the north of the church of St. Andrew.
+
+His life henceforth became one of extraordinary austerity, its strictness not diminishing as he grew older, though the activity and fatigue caused by the government of the order were considerable. In 1147 he travelled to Citeaux, in Burgundy, where he met Eugene III, St Bernard, and St. Malachy, Archbishop of Armagh. The pope expressed regret at not having known of him some years previously when choosing a successor to the deposed Archbishop of York. In 1165 he was summoned before Henry II's justices at Westminster and was charged with having sent help to the exiled St. Thomas a Becket. To clear himself he was invited to take an oath that he had not done so. He refused, for, though as a matter of fact he had not sent help, an oath to that effect might make him appear an enemy to the archbishop. He was prepared for a sentence of exile, when letters came from the king in Normandy, ordering the judges to await his return. In 1170, when Gilbert was already a very old man, some of his lay-brothers revolted and spread serious calumnies against him. After some years of fierce controversy on the subject, in which Henry II took his part, Alexander III freed him from suspicion, and confirmed the privileges granted to the order. Advancing age induced Gilbert to give up the government of his order. He appointed as his successor Roger, prior of Malton. Very infirm and almost blind, he now made his religious profession, for though he had founded an order and ruled it for many yeas he had never become a religious in the strict sense. Twelve years after his death, at the earnest request of Hubert Walter, Archbishop of Canterbury, he was canonized by Innocent III, and his relics were solemnly translated to an honourable place in the church at Sempringham, his shrine becoming a centre of pilgrimage. Besides the compiIation ot his rule, he has left in little treatise entitled "De constructione monasteriorum". His feast is kept in the Roman calendar on 11 February.
+
+R. Urban Butler.

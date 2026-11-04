@@ -1,0 +1,37 @@
+---
+title: "Peter Hutton"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "Charles Francis Wemyss Brown"
+signed: "C. F. Wemyss Brown"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Peter_Hutton"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.peter-hutton} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Thomas Hussey"
+next: "Joris Karl Huysmans"
+entry-type: "article"
+characters: 3267
+words: 543
+links: 0
+images: 0
+---
+
+# Peter Hutton {#cathen.peter-hutton}
+
+Priest, b. at Holbeck, Leeds, Yorkshire, England, 29 June, 1811; d. at Ratcliffe, Leicestershire, England, 2 Sept., 1880. He was baptized at Lady Lane Chapel, then the only Catholic church in Leeds. His grandfather was a convert and wished Peter's father to be a Benedictine monk, but he found that he had no vocation, so returned to a secular life and married. In his will he requested that his son Peter should be educated in a Benedictine college, and Peter was accordingly sent to Ampleforth in 1824, and began his novitiate in 1829. But owing to certain provisions of the Catholic Emancipation Act ot that year, his superiors were, at least theoretically, debarred from professing novices and, as they were unwilling to offend the authorities in any way, Peter was not professed. So in 1830 he went to Prior Park, where he taught classics. In 1835 the members of the Institute of Charity came to assist in the teaching, and Dr. Gentili shortly afterwards succeeded to the presidency of the college. Hutton was at this time a deacon, having been so for over five years; and he disliked the advent of these foreign professors very much. The bishop then sent him to Louvain in 1836, where he studied till be was recalled to Prior Park in 1839 by Bishop Baines to replace Father Furlong (who had just joined the Order of Charity) as President of St. Peter's College. Hutton was ordained priest 24 September, 1839, and appointed president, and professor of Latin and Greek.
+
+In 1841 he decided to give up his professorial career in order to enter the Order of Charity. In July, he was admitted to its novitiate at Loughborough, Leicestershire; but Bishop Baines strongly objected to this, deposed him from the presidency of St. Peter's, and ordered him to return to Prior Park as an ordinary professor. For a short period he complied with the bishop's commands, but in 1843 he suddenly left college, in company with Father Furlong, and went to Italy, where then were hospitably received by Rosmini, the founder of the Institute of Charity. He completed his interrupted novitiate there, and made his vows 31 July, 1843. In 1844 he was appointed rector of the new college of the order at Ratcliffe-on-Wreake, Leicestershire. He next did some parochial work at Newport, Monmouthshire, and Whitwick, near Leicester. He then went to Shepshed, Leicestershire, as rector of the mission and master of the novitiate of Ratcliffe, which had been removed thither. In 1850 it was again transferred to Ratcliffe, and Hutton was then made vice-president of the college, and president in 1851. In addition to this he was appointed rector of the religious community in 1857.
+
+Hutton was a strict disciplinarian, a sound theologian and classical scholar, a good mathematician, an able preacher. During his administration, the students at Ratcliffe increased in numbers, and the buildings were greatly enlarged. He left in MS. translations of the principal Greek and Latin authors read at Ratcliffe, with copious notes, and many references to German critics. These are preserved at Ratcliffe.
+
+GILLOW, Bibl. Dict. Eng. Cath., s.v. ; HIRST, Brief Memoirs of Father Hutton ( Market Weighton, 1886); The Tablet, LVI, 304-7, 339; SHEPHERD, Reminiscences of Prior Park.
+
+C. F. Wemyss Brown.

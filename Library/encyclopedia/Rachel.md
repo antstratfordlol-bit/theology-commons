@@ -1,0 +1,33 @@
+---
+title: "Rachel"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "James F. Driscoll"
+signed: "JAMES.F. DRISCOLL"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Rachel"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.rachel} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Negro Race"
+next: "Jean Racine"
+entry-type: "article"
+characters: 2388
+words: 423
+links: 0
+images: 0
+---
+
+# Rachel {#cathen.rachel}
+
+Rachel ("a ewe"), daughter of Laban and younger sister of Lia. The journey of Jacob to the "east country" (Mesopotamia) in quest of a bride of his own kin, and his providential meeting with Rachel at the well in the open country followed by his introduction into the household of Laban are told with idyllic charm in the twenty-ninth chapter of Genesis. Jacob, being in love with Rachel, agreed to serve her father for her seven years. Laban accepted the proposal, and the seven years seemed to Jacob "but a few days, because of the greatness of his love". He was deceived, however, by Laban, who at the end of the term of service gave him to wife, not Rachel, who "was well favoured, and of a beautiful countenance", but her elder sister Lia, who was "blear-eyed", and Jacob received the younger daughter to wife only on condition of serving seven years more. Rachel, being for a time without offspring and envious of her sister, to whom four children were born, gave to Jacob as a secondary wife her handmaid Bala, whose issue, according to a custom of the times, would be reckoned as her own. From this union were born Dan and Nephtali. In the quarrel which arose between Jacob and Laban, Rachel as well as Lia sided with the former, and when departing from her father's home she carried away with her the *teraphim* or household gods, believing in their protecting influence over herself and her husband (Gen., xxxi, 19). Among the sons of Rachel after the "Lord remembered" her were Joseph and Benjamin, in giving birth to the latter of whom Rachel died. At the point of death "she called the name of her son Benomi, that is, The son of my pain: but his father called him Benjamin, that is, the Son of the right hand". Rachel was buried "in the highway that leadeth to Ephrata, this is Bethlehem. And Jacob erected a pillar over her sepulchre: this is the pillar of Rachel's monument, to this day" (Gen., xxxv, 18-20). The exact location of the grave of Rachel is a disputed point. A passage in Jeremias (xxxi, 15) would seem to indicate that it was on the northern border of Benjamin towards Ephraim, about ten miles north of Jerusalem. Tradition, however, has from at least the fourth century fixed the spot four miles south of Jerusalem and one mile north of Bethlehem.
+
+VIGOUROUX, *Dict. de la Bible*, s. v. ; VON HUMMELAUER, *Comment. in Gen.*, ch. xxix-xxxv.
+
+JAMES.F. DRISCOLL

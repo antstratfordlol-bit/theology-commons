@@ -1,0 +1,33 @@
+---
+title: "Arius"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "unknown"
+author: "William Barry"
+signed: "WILLIAM BARRY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Arius"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.arius} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Aristotle"
+next: "Arizona"
+entry-type: "article"
+characters: 3802
+words: 607
+links: 0
+images: 0
+---
+
+# Arius {#cathen.arius}
+
+An heresiarch, born about A.D. 250; died 336. He is said to have been a Libyan by descent. His father's name is given as Ammonius. In 306, Arius, who had learnt his religious views from Lucian, the presbyter of Antioch, and afterwards the martyr, took sides with Meletius, an Egyptian schismatic, against Peter, Bishop of Alexandria. But a reconciliation followed, and Peter ordained Arius deacon. Further disputes led the Bishop to excommunicate his restless churchman, who, however, gained the friendship of Achillas, Peter's successor, was made presbyter by him in 313, and had the charge of a well-known district in Alexandria called Baucalis. This entitled Arius to expound the Scriptures officially, and he exercised much influence when, in 318, his quarrel with Bishop Alexander broke out over the fundamental truth of Our Lord's divine Sonship and substance. (See ARIANISM.) While many Syrian prelates followed the innovator, he was condemned at Alexandria in 321 by his diocesan in a synod of nearly one hundred Egyptian and Libyan bishops. Deprived and excommunicated, the heresiarch fled to Palestine. He addressed a thoroughly unsound statement of principles to Eusebius of Nicomedia, who yet became his lifelong champion and who had won the esteem of Constantine by his worldly accomplishments. In his house the proscribed man, always a ready writer, composed in verse and prose a defence of his position which he termed "Thalia". A few fragments of it survive. He is also said to have published songs for sailors, millers, and travellers, in which his creed was illustrated. Tall above the common, thin, ascetical, and severe, he has been depicted in lively colours by Epiphanius (Heresies, 69, 3); but his moral character was never impeached except doubtfully of ambition by Theodoret. He must have been of great age when, after fruitless negotiations and a visti to Egypt, he appeared in 325 at Nicæa, where the confession of faith which he presented was torn in pieces. With his writings and followers he underwent the anathemas subscribed by more than 300 bishops. He was banished into Illyricum. Two prelates shared his fate, Tehonas of Marmarica and Secundus of Ptolemais. His books were burnt. The Arians, joined by their old Meletian friends, created troubles in Alexandria. Eusebius persuaded Constantine to recall the exile by indulgent letters in 328; and the emperor not only permitted his return to Alexandria in 331, but ordered Athanasius to reconcile him with the Church. On the saint's refusal more disturbance ensued. The packed and partisan Synod of Tyre deposed Athanasius on a series of futile charges in 335. Catholics were now persecuted; Arius had an interview with Constantine and submitted a creed which the emperor judged to be orthodox. By imperial rescript Arius required Alexander of Constantinople to give him Communion; but the stroke of Providence defeated an attempt which Catholics looked upon as sacrilege. The heresiarch died suddenly, and was buried by his own people. He had winning manners, an evasive style, and a disputatious temper. But in the controversy which is called after his name, Arius counted only at the beginning. He did not represent the tradition of Alexandria but the topical subtleties of Antioch. Hence, his disappearance from the scene neither stayed the combatants nor ended the quarrel which he had rashly provoked. A party-theologian, he exhibited no features of genius; and he was the product, not the founder, of a school.
+
+SOZOMEN, *H.E.*, 1, 68, 69; THEODORET, *H.E.*, 1; SOCRATES, *H.E.*, 1; PHILOSTORG., 1; ATHAN., *De Synodis*; EUSEB., *De Vita Constantini*; RUFIN., *H.E.*, 1; TRAVASA, *Vita di Ario* (Venice, 1746); GIBBON, XXI; NEWMAN, *Arians*, 2, 3; Tracts, *Causes of Arianism*. See also ARIANISM.
+
+WILLIAM BARRY

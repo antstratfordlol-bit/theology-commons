@@ -1,0 +1,35 @@
+---
+title: "Jean Hardouin"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "Alphonse Van Hove"
+signed: "A. VAN HOVE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Jean_Hardouin"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.jean-hardouin} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Mary Juliana Hardman"
+next: "John Hardyng"
+entry-type: "article"
+characters: 3385
+words: 549
+links: 0
+images: 0
+---
+
+# Jean Hardouin {#cathen.jean-hardouin}
+
+Jesuit, and historian; b. at Quimper, Brittany, 23 Dec., 1646, son of a bookseller of that town; d. at Paris, 3 Sept., 1729. He entered the novitiate of the Society, 25 Sept., 1660; and was professor of belles-lettres and rhetoric, and afterwards taught positive theology for fifteen years. He became librarian at the Jesuit College of Louis-le-Grand in Paris, where he succeeded Pere Garnier whose biography he published in 1684. His first scientific work was an article published in the "Journal des Scavans", 10 March, 1681, on the meaning of a passage in Pliny (Hist. Nat. XXXIII, iii). His books are numerous, but many of them are ill-balanced and full of errors. Others, however, have won for him a place among men of learning. Many of his works deal with ancient numismatics, especially, his "Nummi antiqui populorum et urbium illustrati" (Paris, 1684); others treat of Greek and Roman classical literature, e.g. his "Themistii Orationes XXXIII" (Paris, 1684), and Pliny secundi Historae Naturalis libri XXXVII" (Paris, 1685; a new edition by Hardouin in 1723). It was especially in his "Chronologia Veteris Testamenti" (Paris, 1697; reprinted Strasburg, 1697, after the Parliament of Paris had interdicted the sale of the works that he questioned the authenticity of nearly all the works attributed to the classical writers; the only exceptions he made were in favour of the works of Cicero, Pliny's Natural History, Virgil's Georgies, Horace's Satires and Epistles, and in some writings Homer, Herodotus, and Plautus. In Iike manner he cast doubts on the authenticity of many of the writings of early Christian literature, and denied the authenticity of the Alexandrian version and the Hebrew deal with the interpretation OId and New Testament and the chronology of the life of Christ, especially the date on which He kept the Passover and the date of His birth. He also wrote a number of polemical works which, like those of his adversaries, are lacking in dignity and reserve. He attacked Pere Courayer on the subject of Anglican orders, Mlle Darcier on the basic idea of Homer's Iliad, and Gravius on the authenticity of the classical authors.
+
+His greatest work is the "Conciliorum collectio regis maxima", or "Acta conciliorum, et epistolae decretales ac constitutiones summorum pontificum" (Paris, 1726). He received a pension from the French clergy for this work, and it was printed at the expense of the King of France. It is generally conceded to be the most critical edition we have of the text of the Councils. The work had been printed ten years (1715) before it was issued to the public. At the instigation of the Sorbonne, the Parliament of Paris had opposed it because Hardouin had studded the work with maxims opposed to the claims of the Gallican Church. His "Commentarius in Novum Testamentum" was not published till after his death (Amsterdam, 1741), and then it was put on the Index. Other works of his placed on the Index there the edition of his "Opera Selecta," published without its author's knowledge (Amsterdam, 1709); and his "Opera Varia" Amsterdam, 1733).
+
+ZIMMERMANN in Kircheler, s. v; SCHMIDT-PFENDER in Realencyk fur. prof.Theol., s.v.; SOMMERVOGEL, Bibl. de la c. de J. (Brussels, 1893), IV, 84 -111, which mentions all Hardouin's works; QUENTIN, Jean-Dominique Mansi et les grandes collectiones conciliares (Paris, 1900), 38-54.
+
+A. VAN HOVE

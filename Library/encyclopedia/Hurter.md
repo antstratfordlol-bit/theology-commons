@@ -1,0 +1,43 @@
+---
+title: "Hurter"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "7"
+pages: "unknown"
+author: "F. M. Rudge"
+signed: "F.M. RUDGE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Hurter"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.hurter} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Caspar Hurtado"
+next: "Hus"
+entry-type: "article"
+characters: 3712
+words: 585
+links: 0
+images: 0
+---
+
+# Hurter {#cathen.hurter}
+
+- (1) Friedrich Emmanuel Von Hurter
+
+Convert and historian, b. at Schaffhausen, 19 March, 1787; d. at Graz, 27 August, 1865. From 1804 to 1806 he attended the University of Gottingen, and in 1808 was appointed to a country parish. The appearance in 1834 of the first volume of the life of Innocent III, on which he had been working for twenty years, caused a profound sensation in both Catholic and Protestant circles, and was soon translated into French, English, Italian, and Spanish. Hurter was chosen in 1835 *antistes* of the clergy in the canton of Schaffhausen, and later president of the school board, in which capacities he laboured with great zeal. During many years his manifest sympathy and intimacy with the Catholic clergy, including the Archbishop of Freiburg and the papal nuncios to Switzerland, and his disinterested efforts to assist Catholics roused the antagonism of his colleagues who took the first pretext to let loose a storm of abuse against Hurter. As a result he resigned his dignities in 1841, lived in retirement for three years, and in 1844 went to Rome, where on 16 June he made his profession of faith before Gregory XVI, his conversion being the signal for renewed attacks. In 1846 he was appointed imperial counsellor and historiographer at the Court of Vienna, and took up the task assigned him, the life of Emperor Ferdinand II, which, however, was withheld from the press by the court censors, but appeared later at Schaffhausen. The Revolution of 1848 involved the loss of Hurter's position at Court, to which, however, he was restored in 1852. Till his death he laboured for the spread of Catholic religion, especially in connexion with the foreign mission field; he was also in close touch with the greatest scholars of the day. He was appointed by the pope a commander of the Order of St. Gregory, and was a member of the academics of Rome, Munich, Brussels, and Assisi. In addition to his "Leben Innocenz III" (4 vols., Hamburg, 1834-42), Hurter was the author of "Denkwürdigkeiten aus dem lezen Dezennium des 18 Jahrhunderts" (1840); "Geburt and Widergeburt" (Schaffhausen, 1845-46), an autobiography; "Geschichte Kaiser Ferdinands II. und seiner Eltern" (Schaffhausen, 1850-65); "Philipp Lang, Kammerdiener Kaiser Rudolfs II. (Schaffhausen, 1851); "Beiträge zur Geschichte Wallensteins" (Freiburg im Br., 1855); "Französische Feindseligkeiten gegen Oesterreich zur Zeit des dreizigjährigen Krieges" (Vienna, 1859); "Wallensteins vier letzte Lebensjahre" (1862).
+
+- (2) Heinrich von Hurter
+
+Son of the preceding, b. at Schaffhausen, 8 August 1825; d. at Vienna, 30 May 1895. He was ordained to the priesthood in 1851, and later appointed to a benefice at Vienna. Besides volumes of sermons, his writings include; "Konzil und Unfehlbarkeit" (1870); "Schönheit und Wahrheit der katholischen Kirche" (9 vols., 1871-78); "Friedrich von Hurter und seine Zeit" (2 vol., 1876).
+
+- (3) Hugo von Hurter
+
+Distinguished theologian; b. at Schaffhausen, 11 January, 1832; ordained priest in 1855. From 1849 to 1856 he studied at the Germanicum in Rome, where he was made doctor of philosophy and theology. In 1857 he entered into the Society of Jesus, and in 1858 was appointed to the theological faculty of the University of Innsbruck. His chief works are: "Theologiae dogmaticae compendium" (3 vols., Innsbruck, 1876-78; 11th ed., 1903); "Nomenclator litterarius theologiae catholicae" (3 vols., Innsbruck, 1871-86; 3rd ed., 5 vols., 1903); "Medulla theologiae dogmaticae" (2 vols., Innsbruck, 1870; 7th ed., 1902). He also edited the collection "Selecta opuscula SS. Patrum" (54 vols., 1868-92).
+
+Heinrich von Hurter in *Kirchenlex*.; Hugo von Hurter, *Nomenclator*.
+
+F.M. RUDGE

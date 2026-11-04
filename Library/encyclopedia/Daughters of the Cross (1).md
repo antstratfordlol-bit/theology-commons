@@ -1,0 +1,33 @@
+---
+title: "Daughters of the Cross (1)"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "16"
+pages: "unknown"
+author: "Andrew Alphonsus MacErlean"
+signed: "A. A. MacErlean"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Daughters_of_the_Cross_(1)"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.daughters-of-the-cross-1} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Francis Marion Crawford"
+next: "Daughters of the Cross (2)"
+entry-type: "article"
+characters: 1543
+words: 265
+links: 0
+images: 0
+---
+
+# Daughters of the Cross (1) {#cathen.daughters-of-the-cross-1}
+
+**Cross**, Daughters of the, a Belgian religious congregation founded in 1833 at Liège, by Jean-Guillaume Habets, curé of the Holy Cross, and Mlle. Jeanne Haze (later Mere Marie-Thérèse). The institute is under the protection of the Blessed Virgin and St. Teresa, and its rules are based on those of St. Ignatius. The nuns, who received papal recognition on 1 Oct., 1845, and had their statutes approved by the Holy See on 9 May, 1851, recite the Office of the Blessed Virgin daily. They make perpetual vows, which are renewed annually on 8 Sept. The chief end of the institute is to honour Christ in His weak and suffering members and to cultivate devotion to Our Lady of Sorrows. The main work of the Sisters is the education of poor girls, but they have also established orphanages, and homes for the poor; they nurse the sick, and have shown their devotion on the battlefield in the German wars of 1866 and 1870. At present they have 40 establishments in Belgium, 18 in the German Empire, 12 in India, and 16 in England, whither they first went in 1863. In April, 1899, they opened a new English novitiate at Carlshalton, Surrey. Mère Marie-Thérèse was born at Liège on 27 February, 1782 and died there on 8 Feb., 1876, having passed forty-three years in religion. The process of her beatification has been commenced and the decree for the "Commissio Introductionis Causae" was signed by Pius X on 13 Dec., 1911.
+
+Steele, Convents of Great Britain (London, 1902), 232-5; Heimbucher, Die Orden und Kongregationen, III, 387.
+
+A. A. MacErlean

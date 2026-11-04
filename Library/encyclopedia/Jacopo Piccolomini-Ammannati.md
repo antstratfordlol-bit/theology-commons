@@ -1,0 +1,35 @@
+---
+title: "Jacopo Piccolomini-Ammannati"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "12"
+pages: "unknown"
+author: "Umberto Benigni"
+signed: "U. BENIGNI"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Jacopo_Piccolomini-Ammannati"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.jacopo-piccolomini-ammannati} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Alessandro Piccolomini"
+next: "Pichler"
+entry-type: "article"
+characters: 2934
+words: 473
+links: 0
+images: 0
+---
+
+# Jacopo Piccolomini-Ammannati {#cathen.jacopo-piccolomini-ammannati}
+
+A cardinal, born in the Villa Basilica near Lucca, 1422; died at San Lorenzo near Bolsena, 10 Sept., 1479. He was related to the Piccolomini of Siena. His literary and theological education he acquired in Florence. Under Nicholas V he went to Rome, where, for a while, he lived in extreme penury. In 1450 he became private secretary to Cardinal Domenico Capranica; later Calistus III appointed him secretary of Briefs. He was retained in this office by Pius II, who also made him a member of the pontifical household, on which occasion he assumed the family name of Piccolomini. In 1460 he was made Bishop of Pavia by Pius II, and throughout the pontificate of the latter was his most trusted confidant and adviser. He exhibited paternal solicitude in the government of his diocese, and during his prolonged absences entrusted its affairs to able vicars, with whom he remained in constant touch, On 18 December, 1461, he was made cardinal, and was commonly known as the Cardinal of Pavia. He accompanied Pius II to Ancona, and attended him in his last illness. In the subsequent conclave he favoured the election of Paul II, whose displeasure he afterward incurred by insisting on the full observance of the ante-election capitulations that the pope had signed. The imprisonment of his private secretary by Paul II on a charge of complicity in the conspiracy of the "Accademici' offended Piccolomini still more, and his open defence of the secretary aggravated the pope's ill-will. The disfavour in which he was held by Paul II did not exempt his episcopal revenues from sequestration by the Duke of Milan, Galeazzo Maria. It was due to his insistence that Paul II took energetic measures against George Podiebrad, King of Bohemia. Sixtus IV was scarcely more favourable towards Piccolomini than Paul II.
+
+He was the friend of students and scholars, and protected Jacopo de Volterra. In 1470 he was transferred to the See of Lucca and was named papal envoy to Umbria. He wrote a continuation in seven books of the "Commentarii" of Pius II. His style is elegant, but he is not always impartial, especially apropos of Paul II or Sixtus IV. His Commentaries, nevertheless, remain an important source for contemporary history and his valuable letters have been collected and published. Ammannati is one of the most sympathetic personalities of the Italian Renaissance. He enjoyed the friendship of noted prelates and humanists, among others, Cardinals Bessarion, Carvajal, Roverella etc. Bessarion (Pastor, "Geschichte der Päpste", II, 731), praises his executive ability and readiness, his charity and zeal.
+
+*Epistolœ et commentarii Jacobi Piccolomini cardinalis Papiensis* (Milan, 1506), added also to the Frankfort ad. of the *Commentarii* of Pius II (Frankfort, 1614); PAULI, *Disquisizione istorica della patria e compendio della vita del Card. Jacopo Ammannati* (Lucca, 1712); CARDELLA, *Vite del' Cardinali*, III, 153.
+
+U. BENIGNI

@@ -1,0 +1,31 @@
+---
+title: "Gluttony"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "6"
+pages: "unknown"
+author: "Joseph Francis Delany"
+signed: "JOSEPH F. DELANY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Gluttony"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.gluttony} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Episcopal Gloves"
+next: "Archdiocese of Gnesen-Posen"
+entry-type: "article"
+characters: 2635
+words: 469
+links: 0
+images: 0
+---
+
+# Gluttony {#cathen.gluttony}
+
+(From Lat. *gluttire*, to swallow, to gulp down), the excessive indulgence in food and drink. The moral deformity discernible in this vice lies in its defiance of the order postulated by reason, which prescribes necessity as the measure of indulgence in eating and drinking. This deordination, according to the teaching of the Angelic Doctor, may happen in five ways which are set forth in the scholastic verse: "Prae-propere, laute, nimis, ardenter, studiose" or, according to the apt rendering of Father Joseph Rickably: too soon, too expensively, too much, too eagerly, too daintily. Clearly one who uses food or drink in such a way as to injure his health or impair the mental equipment needed for the discharge of his duties, is guilty of the sin of gluttony. It is incontrovertible that to eat or drink for the mere pleasure of the experience, and for that exclusively, is likewise to commit the sin of gluttony. Such a temper of soul is equivalently the direct and positive shutting out of that reference to our last end which must be found, at least implicitly, in all our actions. At the same time it must be noted that there is no obligation to formerly and explicitly have before one's mind a motive which will immediately relate our actions to God. It is enough that such an intention should be implied in the apprehension of the thing as lawful with a consequent virtual submission to Almighty God. Gluttony is in general a venial sin in so far forth as it is an undue indulgence in a thing which is in itself neither good nor bad. Of course it is obvious that a different estimate would have to be given of one so wedded to the pleasures of the table as to absolutely and without qualification live merely to eat and drink, so minded as to be of the number of those, described by the Apostle St. Paul, "whose god is their belly" (Phil., iii, 19). Such a one would be guilty of mortal sin. Likewise a person who, by excesses in eating and drinking, would have greatly impaired his health, or unfitted himself for duties for the performance of which he has a grave obligation, would be justly chargeable with mortal sin. St. John of the Cross, in his work "The Dark Night of the Soul" (I, vi), dissects what he calls spiritual gluttony. He explains that it is the disposition of those who, in prayer and other acts of religion, are always in search of sensible sweetness; they are those who "will feel and taste God, as if he were palpable and accessible to them not only in Communition but in all their other acts of devotion." This he declares is a very great imperfection and productive of great evils.
+
+JOSEPH F. DELANY

@@ -1,0 +1,33 @@
+---
+title: "Jacinto Barrasa"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "2"
+pages: "unknown"
+author: "Adolph Francis Alphonse Bandelier"
+signed: "AD. F. BANDELIER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Jacinto_Barrasa"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.jacinto-barrasa} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Joachim Barrande"
+next: "Antoine-Lefebvre, Sieur de la Barre"
+entry-type: "article"
+characters: 1351
+words: 225
+links: 0
+images: 0
+---
+
+# Jacinto Barrasa {#cathen.jacinto-barrasa}
+
+(*Or* Barraza).
+
+Born at Lima, Peru, early in the seventeenth century; died there, 22 Nov., 1704. When, in the seventeenth century, the different religious orders appointed historiographers or official chroniclers of the work done in their several American provinces, the Jesuits selected Father Ignacio Arbieto for their Peruvian missions, but as his account was not accepted Father Jacinto Barrasa was appointed in his stead. His fame was principally as a preacher, and two volumes of his "Sermones" were published, one at Madrid in 1678, the other at Lima in 1679. In the latter year he finished his voluminous history of the Society of Jesus in Peru, which is still at Lima in private hands, and comprises 1,350 pages of manuscript. Its title is: Historia de las fundaciones de los colegios y casas de la Compania de Jesus, con la noticia de las vidas y virtudes religiosas de algunos varones ilustres que en ella trabajaron. No allusions are made in that chronicle to any other events than those of a religious or ecclesiastical nature. In addition to his "Sermones", a "Panegirico", pronounced by him in 1669 on the beatification of St. Rose of Lima, was also printed. Torres Saldamando Los Antiquos Jesuitas del Peru (Lima, 1882); Cobo, Historia de la fundacion de Lima (published at Lima, 1882, but written in the year 1639).
+
+AD. F. BANDELIER

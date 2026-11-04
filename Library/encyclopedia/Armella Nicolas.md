@@ -1,0 +1,33 @@
+---
+title: "Armella Nicolas"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "11"
+pages: "unknown"
+author: "Edward Francis Garesché"
+signed: "Edward F. Garesche"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Armella_Nicolas"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.armella-nicolas} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Nicolaites"
+next: "Auguste Nicolas"
+entry-type: "article"
+characters: 2373
+words: 405
+links: 0
+images: 0
+---
+
+# Armella Nicolas {#cathen.armella-nicolas}
+
+Popularly known as "La bonne Armelle", a saintly French serving-maid held in high veneration among the people, though never canonized by the Church, b. at Campeneac in Brittanny, 9 September, 1606, of poor peasants, George Nicolas and Francisca Neant; d. 24 October, 1671. Her early years were spent in the pious, simple life of the hard-working country folk. When she was twenty-two years of age her parents wished her to marry, but she chose rather to enter service in the neighboring town of Ploermel, where she found more opportunity for her pious works and for satisfying her spiritual needs. After a few years she went to the larger town of Vannes, where she served in several families, and for a year and a half was portress at the Ursuline monastery. She here formed a special friendship with a certain sister, Jeanne de la Nativite, to whom she told from time to time many details of her spiritual life, and who noted down these communications, and afterwards wrote the life of Armella, who could herself neither read nor write. Even the lowly work at the convent did not satisfy her craving for toil and humiliation, and she returned to one of her former employers, where she remained to the end of her life. To her severe trials and temptations she added many works of penance and was rewarded by the growth of her inner life and her intimate union with God. During the last years of her life a broken leg caused her great suffering, patiently borne. Many recommended themselves to her prayers and her death-bed was surrounded by a great number of persons who held her in special veneration. Her heart was preserved in the Jesuit church, and her body was buried in the church of the Ursulines. Near her grave was erected a tablet to "La bonne Armelle"; her tomb is a place of pilgrimage. Armella has been claimed, but without good grounds, as an exponent of Quietism. If some of her expressions seemed tinged with Quietist thought, it is because the controversy which cleared and defined many notions concerning Quietism had not yet arisen. On the other hand her simple, laborious life and practical piety make any such aberrations very unlikely.
+
+JUNGMANN in Kirchenlexikon, s. v. Nicolas; STOLTZ, Legende der Heiligen, 24 October; BUSSON, Vie d'Armelle Nicolas etc. (Paris, 1844); TERSTEEGEN, Select Lives of Holy Souls, I, 2nd ed. (1754).
+
+Edward F. Garesche.

@@ -1,0 +1,31 @@
+---
+title: "Pierre-Herman Dosquet"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "5"
+pages: "unknown"
+author: "Lionel Lindsay"
+signed: "LIONEL LINDSAY"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pierre-Herman_Dosquet"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.pierre-herman-dosquet} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Dositheans"
+next: "Giovanni Dossi"
+entry-type: "article"
+characters: 1607
+words: 256
+links: 0
+images: 0
+---
+
+# Pierre-Herman Dosquet {#cathen.pierre-herman-dosquet}
+
+Fourth Bishop of Quebec, b. at Liège, Flanders, 1691; d. at Paris, 1777. He studied at the Seminary of Saint-Sulpice, Paris, and entered that congregation. After two years in Canada (1721-23) he was appointed superior of the Seminary of Lisieux in France, and helped to preserve that institution from Jansenism. While acting in Rome as procurator-general for the Oriental Missions of the Congregation of the Holy Ghost, he was made vicar Apostolic of a portion of India and consecrated titular Bishop of Samos by Benedict XIII (1725). He remained in Rome until appointed coadjutor to Bishop Mornay of Quebec (1729). Bishop Dosquet had to solve many difficulties that had arisen towards the close of the life of Bishop St. Vallier. He legislated wisely in behalf of the religious communities of women and was zealous for the suppression of the liquor traffic. In 1733, after Bishop Mornay's resignation, he succeeded to the See of Quebec, where he promoted education, primary and classical. A patron and benefactor of the Congregation of the Holy Ghost, he confided almost exclusively to its missionaries Acadia, the islands of the Gulf of St. Lawrence, Cape Breton, Newfoundland, and probably Labrador. He rewarded that congregation by generous endowments, including Sarcelle, a property near Paris, which until the Revolution yielded an annual revenue of 3000 livres. In 1735 ill health forced him to leave Quebec, but his resignation was accepted only in 1739. Thenceforth he resided chiefly in Rome, attending to the interests of his former diocese, especially after the English conquest.
+
+LIONEL LINDSAY

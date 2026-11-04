@@ -1,0 +1,33 @@
+---
+title: "Nicolas Talon"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "14"
+pages: "unknown"
+author: "John Clement Reville"
+signed: "John C. Reville"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Nicolas_Talon"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.nicolas-talon} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Jean Talon"
+next: "Pierre Talon"
+entry-type: "article"
+characters: 2578
+words: 410
+links: 0
+images: 0
+---
+
+# Nicolas Talon {#cathen.nicolas-talon}
+
+French Jesuit, historian, and ascetical writer, b. at Moulins, 31 August, 1605; d. at Paris, 29 March, 1691. Entering the Society in 1621, he taught literature for several years, with remarkable success. After his ordination he gained some reputation as a preacher, was a devoted worker in the prisons and hospitals of Paris, and served as army-chaplain with the French troops in Flanders, winning the admiration and love of the men and the life-long friendship of the Prince de Conde. He assisted the notorious Aime du Poncet during his painfully protracted execution. Thanks to Talon's gentleness, the terrible outlaw died penitent and resigned. This striking conversion made a profound impression. As a writer, Talon had original, if not always correct, views, a lively imagination, a quaint and comparatively pure and elegant style. Besides his "Oraison funebre de Louis XIII" (Paris, 1644), a "Description de la pompe funebre du Prince de Conde" (Paris, 1646), and some books of minor importance, Talon wrote "La vie de St. Francois de Sales" (Paris, 1640), "La vie de St. Francois Borgia" (Paris, 1671), "Les peintures chretiennes" (Paris, 1667 according to Weiss, 1647 according to Sommervogel), and a Bible history, the first part of which, "Histoire sainte", was published at Paris in 1640. The author's purpose was to interest his readers in the Old Testament story. The book popular and was several times reprinted, notably in a fine Cramoisy edition (1665). The Marquis of Winchester gave an English translation in 1653. Talon's "Historie sainte" is deficient in taste and critical judgment; it is a romance, not a reliable exposition of facts. Its methods, if not as objectionable as Berruyer's in his "Histoire du peuple de Dieu", are unsound. The author published a sequel, "L'histoire sainte du Nouveau Testament" (Paris, 1669). It met with little success. Talon's portrait has been engraved by Heer. Sommervogel mentions 300 of his letters in the d'Aumale collection at Chantilly.
+
+SOUTHWELL, Bibliotheca scriptorum soc. Jesu (Rome, 1676), 636; D'ARTIGNY, Nouveaux memoires, IV (Paris, 1749), 138-48; CAREYON, Une execution en place de Greve, au XVII siecle (piece inedite) (Poitiers, 1863); DE BACKER, Bibl. des ecrivains de la C. de J., 1st ed., V, 717; DE GUILHERMY, Menologe de la C. de J., Assistance de France (1st ed., Paris, 1892), 429; HURTER, Nomenclator, II, 457; SOMMERVOGEL, Bibl. de la C. de J., i, VII, 1821-3; LEMOINE-LICHTENBERGER, Trois familiers du Grand Conde, l'abbe Bourdelot, le pere Talon, le pere Tirier (Paris, 1909).
+
+John C. Reville.

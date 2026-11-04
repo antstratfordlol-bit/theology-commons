@@ -1,0 +1,31 @@
+---
+title: "Maurus Dantine"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "4"
+pages: "unknown"
+author: "Patricius Schlager"
+signed: "PATRICIUS SCHLAGER"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Maurus_Dantine"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.maurus-dantine} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Vincenzo Danti"
+next: "Lorenzo Da Ponte"
+entry-type: "article"
+characters: 2179
+words: 355
+links: 0
+images: 0
+---
+
+# Maurus Dantine {#cathen.maurus-dantine}
+
+Benedictine of the Congregation of Saint-Maur, and chronologist, born at Gourieux near Namur, Belgium, 1 April, 1688; died in the monastery of the "Blancs-Manteaux", Paris, 3 November, 1746. Like many of the members of his congregation he was one of the so-called *Appelants* who in 1713 did not accept the Bull "Unigenitus", but appealed to a general council. Dantine's chief merit is the work he did in chronology; he can, in reality, be called on of the founders of this important branch of history, on account of the carefully elaborated plan he drew up for the great publication: "L'Art de vérifier les dates historiques, des chartes, des chroniques et autres monuments, depuis la naissance de J.-C.". He did most of the preparatory work for this publication, constructing more exact chronological tables and introducing a better method for calculating historical dates. On account of illness, however, he was not able to continue his labours and was obliged to leave their completion to other members of his order, his chief successor being Clémencet. Besides this, he devoted himself to thorough linguistic studies and as a result of these published a translation with commentary of the Psalms under the title: "Les psaumes traduits sur l'hébreu avec des notes" (Paris, 1739). This work attracted so much attention that in the same year a second, and in the following year a third, edition became necessary. In collaboration with Dom Carpentier he prepared a new edition of the great lexicon originally published in 1678 by Du Cange, and afterwards continued by the Maurists, its first Benedictine editor being Dom Guesnié, who was followed by Nicolas Toustain and Louis Le Pelletier. The edition of Dantine and Carpentier, half as large again as that of Du Cange, appeared in six volumes at Paris, 1733-36, under the title: "Glossarium ad scriptores mediæ et infimæ latinitatis, editio locupletior operâ et studio monachorum O.S.B." Dantine's labours greatly increased the value of this admirable work, which is not only of the utmost importance for the knowledge of Latin, but is also a rich source for the study of law and morals in the Middle Ages.
+
+PATRICIUS SCHLAGER

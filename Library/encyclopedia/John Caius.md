@@ -1,0 +1,35 @@
+---
+title: "John Caius"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Edward Aloysius Pace"
+signed: "E.A. PACE"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/John_Caius"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.john-caius} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Caius"
+next: "Popes Sts. Caius and Soter"
+entry-type: "article"
+characters: 1676
+words: 264
+links: 0
+images: 0
+---
+
+# John Caius {#cathen.john-caius}
+
+(*Also* Kay, Key.)
+
+Physician and scholar, born at Norwich, 6 October, 1510; died at London, 29 July, 1573. He entered the University of Cambridge in 1529, received the degree M.A. in 1535, and studied medicine under Montanus and Vesalius at Padua, where he received (1541) the degree of Doctor of Medicine. After a tour through Italy, France, and Germany, during which he met the most eminent scholars of the age, he returned to England in 1544, and for twenty years lectured on anatomy in London. He published "A Boke or Conseille against the Disease commonly called the Sweate or Sweatyng Sicknesse" (London, 1552), which is considered the best account of that epidemic. He also wrote translations of, and commentaries on, the works of Galen and Hippocrates (Basle, 1544). With the means acquired from his mecical practice he refounded (1558) his college (Gonville) at Cambridge, which has since been known as Gonville and Caius College. Under Edward VI he became royal physician, a position which he retained under Elizabeth until he was dismissed (1568) on account of his adherence to the Catholic Faith. He was elected nine times president of the College of Physicians, an account of which—"Annales collegii medicorum 1520-1565"—he left in manuscripts. He was accused of atheism and of keeping secretly a collection of ornaments and vestments for Catholic use. The latter were found and burned in the College court. His last literary production was the history of Cambridge University—"Historia Cantabrigiensis Acadimae" (London, 1574)
+
+MULLINGER, The University of Cambridge (Cambridge, 1884); IDEM in Dict. Nat. Biog., s.v.; CLARK, Cambridge (London, 1908).
+
+E.A. PACE

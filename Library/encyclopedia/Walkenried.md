@@ -1,0 +1,33 @@
+---
+title: "Walkenried"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Klemens Löffler"
+signed: "Klemens Löffler"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Walkenried"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.walkenried} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Wales"
+next: "Ven. John Wall"
+entry-type: "article"
+characters: 2626
+words: 427
+links: 0
+images: 0
+---
+
+# Walkenried {#cathen.walkenried}
+
+Formerly one of the most celebrated Cistercian abbeys of Germany, situated in the Duchy of Brunswick between Lauterberg and Nordhausen. Founded in 1127 by Countess Adelheid of Klettenberg, it was confirmed in 1137 by Innocent II. The first monks came form the monastery of Altfeld or Camp in the Archdiocese of Cologne. In the time of the first abbot, Henry I (1127-28), two branch monasteries were founded: Pforta (in 1132) and Sichem, or Sittichenbach (in 1141) in the Countship of Mansfeld. Walkenried grew rich and owned lands as far as the Rhine and Pomerania. The monks gave much attention to mining, smelting, and fishing. In the fifteenth century the abbey began to decay, and the Peasants' War brought it to the verge of destruction. About Easter, 1525, a mob of 800 peasants of the southern Harz region marched against Walkenried. Abbot Paulus (1520-36) and the monks fled, carrying off the archives. The abbey was plundered and the tower of the church torn down. The next abbot, John VIII (1530-59), was very worldly and extravagant; in 1546 he and his monks became Lutherans. Thereupon Count Ernst of Honstein, as patron of the abbey, laid a complaint before Charles V. In 1548 the emperor ordered that everything in the abbey should be restored to its former condition, but his command was unheeded. After the count's death the entire Countship of Honstein became Lutheran, and in 1557 a Protestant school was opened at Walkenried. Up to 1578 four Protestant abbots had directed the abbey. The Court of Honstein now made his son administrator, and after the son's death Walkenried fell to the Duchy of Brunswick. During the Thirty Years War the abbey for a short time (1629-31) was restored to the Cistercians. The Peace of Westphalia put an end to the shadowy existence of the Protestant monastery and the abbey was secularized. In 1668 the school was closed. Since then Walkenried has been state property of Brunswick. The Gothic church, built during the years 1210-1290, was greatly damaged by the destruction of the tower by the peasants in 1525; to-day only a few picturesque remains are still in existence. The monastery was somewhat later in date than the church; its cloister is well preserved. The chapter hall has served since 1570 as a Lutheran church. The library was destroyed by the peasants, but the archives are preserved at Wolfenhuttel.
+
+Die Urkunden des Klosters Walkenried, I, II (Hanover, 1852-55); LEUCKFELD, Antiq. Walckenredenses (Leipzig, 1706); GIRSCHNER, Die vormalige Reichsabtei Walkenried (Nordhausen, 1870); LEMCKE, Gesch. von Walkenried (2nd. ed., Leipzig, 1909).
+
+Klemens Löffler.

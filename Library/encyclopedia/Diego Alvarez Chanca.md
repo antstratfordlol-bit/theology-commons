@@ -1,0 +1,31 @@
+---
+title: "Diego Alvarez Chanca"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "3"
+pages: "unknown"
+author: "Ventura Fuentes"
+signed: "VENTURA FUENTES"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Diego_Alvarez_Chanca"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.diego-alvarez-chanca} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Chanaan, Chanaanites"
+next: "Chancel"
+entry-type: "article"
+characters: 1555
+words: 248
+links: 0
+images: 0
+---
+
+# Diego Alvarez Chanca {#cathen.diego-alvarez-chanca}
+
+A physician-in-ordinary to Ferdinand and Isabella of Castile and Aragon; dates of birth and death uncertain. Owing to his professional skill and learning, he was appointed by the Crown to accompany the second expedition of Christopher Columbus to America in 1493. Shortly after landing on the shores of the Island of Haiti, Dr. Chanca proved his skill as a physician by successfully treating Columbus for an attack of pernicious malarial fever, and saving the lives of other prominent members of the expedition who were attacked by disease. On a site selected by Chanca, whose professional advice had been sought, was established the first Christian settlement in the New World, to which Columbus gave the name of Isabella in honour of his illustrious patroness. In this locality Chanca wrote his letter to the muncipal council of his native city, which was the first document describing the flora, the fauna, the ethnology, and the ethnography of America. A remarkable circumstance in connection with this letter is the fact that everything therein contained was the result of only three months of observation and study. Upon his return to Spain, Chanca published in 1506 a medical treatise entitled "Para curar el mal de Costado" (The Trentment of Pleurisy), and in 1514, he published a work in Latin criticizing a book entitled "De conservanda juventute et retardanda senectute", the work of Amaldo de Villanova, a brother-phycician. Chanca's work was published under the title "Commentum novum in Parabolas divi Arnaldi de Villanova."
+
+VENTURA FUENTES

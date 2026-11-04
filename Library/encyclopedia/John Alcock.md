@@ -1,0 +1,33 @@
+---
+title: "John Alcock"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "1"
+pages: "273-274"
+author: "John Joseph A'Becket"
+signed: "John J. a'becket"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/John_Alcock"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.john-alcock} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Alcimus"
+next: "Alcoholism"
+entry-type: "article"
+characters: 1816
+words: 301
+links: 0
+images: 0
+---
+
+# John Alcock {#cathen.john-alcock}
+
+**Alcock,** John, Bishop of Rochester, Worcester, and Ely, b. at Beverley, 1430; d. at Wisbeach Castle, 1 October, 1500. After studies at the grammar school in Beverley, he went to Cambridge. About 1461, he was presented to the Rectory of St. Margaret's, London, and to the deanery of St. Stephen's, Westminster. In 1462 he was Master of the Rolls, and in 1468 Prebendary of St. Paul's, London. In 1470–71 he was Privy Councillor. He was on the commission that treated with James III of Scotland, and his services were enlisted for similar tasks by Richard III and Henry VII. He was tutor to young King Edward V and baptized Prince Arthur. He was an architect of great merit and was buried in a fine chapel which he had erected for himself in Ely Cathedral. His published writings are: "Sponsage of a Virgin to Christ" (1486); "Hill of Perfection" (1491, 1497, 1501); "Sermons upon the Eighth Chapter of Luke"; "Gallecantus Joannis Alcock, episcopi Elisensis ad fratres suos curatos in Sinodo apud Barnwell" (1498); "Abbey of the Holy Ghost", "Castle of Labour", translated from the French, (1536). Alcock is also thought to have written a metrical work in English on the Seven Penitential Psalms. Bale says of him that he "made such a proficiency in virtue that no one in England had a greater reputation for sanctity". He restored many ecclesiastical buildings, and founded Jesus College, Cambridge, on the ruined nunnery of St. Rhadegund. He also endowed Peterhouse. Alcock was a distinguished canonist, but made no provisions for the study of this branch in Jesus College. His life was one marked by the practice of Christian virtues, full of zeal and of a penitential spirit.
+
+Bentham, *History of Ely*; Mullinger, *History of the University of Cambridge* I; Cooper, *Athenæ Cantabrigienses*.
+
+John J. a'becket.

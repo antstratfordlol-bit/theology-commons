@@ -1,0 +1,33 @@
+---
+title: "Tremithus"
+work: "The Catholic Encyclopedia"
+edition: "1913 (volumes 1-15)"
+volume: "15"
+pages: "unknown"
+author: "Siméon Vailhé"
+signed: "S. VAILHÉ"
+language: "en"
+original-language: "yes"
+publisher: "Robert Appleton Company / The Encyclopedia Press, New York, 1907-1913"
+editors: "Charles G. Herbermann, Edward A. Pace, Conde B. Pallen, Thomas J. Shahan, John J. Wynne"
+source: "English Wikisource, https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Tremithus"
+source-transcription: "Wikisource volunteer transcription, proofread against the Internet Archive djvu scans"
+retrieved: "2026-08-22"
+sigla: "cathen"
+anchors: "{#cathen.tremithus} -- one per article; an encyclopedia is cited by article, so nothing below it is anchored"
+previous: "Francis Tregian"
+next: "Council of Trent"
+entry-type: "article"
+characters: 1139
+words: 188
+links: 0
+images: 0
+---
+
+# Tremithus {#cathen.tremithus}
+
+Titular see, suffragan of Salamis in Cyprus. The city is mentioned by Ptolemy (Geog., V, xiii, 6), Hierocles (ed. Buckhardt, 708, 7), George of Cyprus (ed. Gelzer, 1109), and other geographers. Among its bishops were: St. Spyridon, a shepherd and married, present at the council of Nicaea in 325, and whose cult is popular in the East (Anal. bolland., XXVI, 239); St. Arcadius and St. Nestor, venerated 14 Feb. or 7 March; Theopompus, at the Second Ecumenical Council in in 381; Theodore, at the Sixth Ecumenical Council in 681, and who wrote a biography of St. John Chrysostom (P.G., XLVII; 51-88); George, at the Second Council of Nicaea in 787; Spyridon in 1081, when the see was temporarily restored. The usurper Isaac Comnenus was defeated here in 1191 by Richard Coeur de Lion who afterwards took possession of Cyprus. The city was then destroyed and survives only in the Greek village of Trimethusia in the district of Chrysocho.
+
+LE QUIEN, *Oriens christ.,* II, 1069-72; GELZER, *Georgii Cyprii Descriptio orbis romani* (Leipzig, 1890), 213; HACKETT, *A History of the orthodox Church of Cyprus* (London, 1901), 322 sqq.
+
+S. VAILHÉ
