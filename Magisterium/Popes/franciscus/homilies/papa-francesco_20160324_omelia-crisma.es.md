@@ -1,0 +1,62 @@
+---
+id: francis-hom-20160324-crisma.es
+work: francis-hom-20160324-crisma
+title: "Santa Misa Crismal (24 de marzo de 2016)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2016-03-24
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/homilies/2016/documents/papa-francesco_20160324_omelia-crisma.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#francis-hom-20160324-crisma} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Santa Misa Crismal (24 de marzo de 2016) {#francis-hom-20160324-crisma}
+[SANTA MISA CRISMAL](http://www.vatican.va/news_services/liturgy/libretti/2016/20160324-libretto-messa-crisma.pdf)
+
+## HOMILÍA DEL SANTO PADRE FRANCISCO
+
+*Basílica Vaticana\
+Jueves Santo, 24 de marzo de 2016*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2016/3/24/crisma.html)\]
+
+Después de la lectura del pasaje de Isaías, al escuchar en labios de Jesús las palabras: «Hoy mismo se ha cumplido esto que acaban de oír», bien podría haber estallado un aplauso en la Sinagoga de Nazaret. Y luego podrían haber llorado mansamente, con íntima alegría, como lloraba el pueblo cuando Nehemías y el sacerdote Esdras le leían el libro de la Ley que habían encontrado reconstruyendo el muro. Pero los evangelios nos dicen que hubo sentimientos encontrados en los paisanos de Jesús: le pusieron distancia y le cerraron el corazón. Primero, «todos hablaban bien de él, se maravillaban de las palabras llenas de gracia que salían de su boca» (*Lc* 4,22); pero después, una pregunta insidiosa fue ganando espacio: «¿No es este el hijo de José, el carpintero?». Y al final: «Se llenaron de ira» (*Lc* 4,28). Lo querían despeñar... Se cumplía así lo que el anciano Simeón le había profetizado a nuestra Señora: «Será bandera discutida» (*Lc* 2,34). Jesús, con sus palabras y sus gestos, hace que se muestre lo que cada hombre y mujer tiene en su corazón.
+
+Y allí donde el Señor anuncia el evangelio de la Misericordia incondicional del Padre para con los más pobres, los más alejados y oprimidos, allí precisamente somos interpelados a optar, a «combatir el buen combate de la Fe» (*1 Tm* 6,12). La lucha del Señor no es contra los hombres sino contra el demonio (cf. *Ef* 6,12), enemigo de la humanidad. Pero el Señor «pasa en medio» de los que buscan detenerlo «y sigue su camino» (*Lc* 4,30). Jesús no confronta para consolidar un espacio de poder. Si rompe cercos y cuestiona seguridades es para abrir una brecha al torrente de la Misericordia que, con el Padre y el Espíritu, desea derramar sobre la tierra. Una Misericordia que procede de bien en mejor: anuncia y trae algo nuevo: cura, libera y proclama el año de gracia del Señor.
+
+La Misericordia de nuestro Dios es infinita e inefable y expresamos el dinamismo de este misterio como una Misericordia «siempre más grande», una Misericordia en camino, una Misericordia que cada día busca el modo de dar un paso adelante, un pasito más allá, avanzando sobre las tierras de nadie, en las que reinaba la indiferencia y la violencia.
+
+Y así fue la dinámica del buen Samaritano que «practicó la misericordia» (*Lc* 10,37): se conmovió, se acercó al herido, vendó sus heridas, lo llevó a la posada, se quedó esa noche y prometió volver a pagar lo que se gastara de más. Esta es la dinámica de la Misericordia, que enlaza un pequeño gesto con otro, y sin maltratar ninguna fragilidad, se extiende un poquito más en la ayuda y el amor. Cada uno de nosotros, mirando su propia vida con la mirada buena de Dios, puede hacer un ejercicio con la memoria y descubrir cómo ha practicado el Señor su misericordia para con nosotros, cómo ha sido mucho más misericordioso de lo que creíamos y, así, animarnos a desear y a pedirle que dé un pasito más, que se muestre mucho más misericordioso en el futuro. «Muéstranos Señor tu misericordia» (*Sal* 85,8). Esta manera paradójica de rezar a un Dios siempre más misericordioso ayuda a romper esos moldes estrechos en los que tantas veces encasillamos la sobreabundancia de su Corazón. Nos hace bien salir de nuestros encierros, porque lo propio del Corazón de Dios es desbordarse de misericordia, desparramarse, derrochando su ternura, de manera tal que siempre sobre, ya que el Señor prefiere que se pierda algo antes de que falte una gota, que muchas semillas se la coman los pájaros antes de que se deje de sembrar una sola, ya que todas son capaces de portar fruto abundante, el 30, el 60 y hasta el ciento por uno.
+
+Como sacerdotes, somos testigos y ministros de la Misericordia siempre más grande de nuestro Padre; tenemos la dulce y confortadora tarea de encarnarla, como hizo Jesús, que «pasó haciendo el bien» (*Hch* 10,38), de mil maneras, para que llegue a todos. Nosotros podemos contribuir a inculturarla, a fin de que cada persona la reciba en su propia *experiencia* de vida y así la pueda entender y practicar —creativamente— en el modo de ser propio de su pueblo y de su familia.
+
+Hoy, en este Jueves Santo del Año Jubilar de la Misericordia, quisiera hablar de dos *ámbitos* en los que el Señor se excede en su Misericordia. Dado que es él quien nos da ejemplo, no tenemos que tener miedo a excedernos nosotros también: un ámbito es el del encuentro; el otro, el de su perdón que nos avergüenza y dignifica.
+
+El primer ámbito en el que vemos que *Dios se excede* en una Misericordia siempre más grande, es en el *encuentro*. Él se da todo y de manera tal que, en todo encuentro, directamente pasa a celebrar una fiesta. En la parábola del Padre Misericordioso quedamos pasmados ante ese hombre que corre, conmovido, a echarse al cuello de su hijo; cómo lo abraza y lo besa y se preocupa de ponerle el anillo que lo hace sentir como igual, y las sandalias del que es hijo y no empleado; y luego, cómo pone a todos en movimiento y manda organizar una fiesta. Al contemplar siempre maravillados este derroche de alegría del Padre, a quien el regreso de su hijo le permite expresar su amor libremente, sin resistencias ni distancias, nosotros no debemos tener miedo a exagerar en nuestro agradecimiento. La actitud podemos tomarla de aquel pobre leproso, que al sentirse curado, deja a sus nueve compañeros que van a cumplir lo que les mandó Jesús y vuelve a arrodillarse a los pies del Señor, glorificando y dando gracias a Dios a grandes voces.
+
+La misericordia restaura todo y devuelve a las personas a su dignidad original. Por eso, el agradecimiento efusivo es la respuesta adecuada: hay que entrar rápido en la fiesta, ponerse el vestido, sacarse los enojos del hijo mayor, alegrarse y festejar... Porque sólo así, participando plenamente en ese ámbito de celebración, uno puede después pensar bien, uno puede pedir perdón y ver más claramente cómo podrá reparar el mal que hizo. Puede hacernos bien preguntarnos: Después de confesarme, ¿festejo? O paso rápido a otra cosa, como cuando después de ir al médico, uno ve que los análisis no dieron tan mal y los mete en el sobre y pasa a otra cosa. Y cuando doy una limosna, ¿le doy tiempo al otro a que me exprese su agradecimiento y festejo su sonrisa y esas bendiciones que nos dan los pobres, o sigo apurado con mis cosas después de «dejar caer la moneda»?
+
+El otro ámbito en el que vemos que *Dios se excede* en una Misericordia siempre más grande, es el perdón mismo. No sólo perdona deudas incalculables, como al siervo que le suplica y que luego se mostrará mezquino con su compañero, sino que nos hace pasar directamente de Ia vergüenza más vergonzante a la dignidad más alta sin pasos intermedios. El Señor deja que la pecadora perdonada le lave familiarmente los pies con sus lágrimas. Apenas Simón Pedro le confiesa su pecado y le pide que se aleje, Él lo eleva a la dignidad de pescador de hombres. Nosotros, en cambio, tendemos a separar ambas actitudes: cuando nos avergonzamos del pecado, nos escondemos y andamos con la cabeza gacha, como Adán y Eva, y cuando somos elevados a alguna dignidad tratamos de tapar los pecados y nos gusta hacernos ver, casi pavonearnos.
+
+Nuestra respuesta al perdón excesivo del Señor debería consistir en mantenernos siempre en *esa tensión sana entre una digna vergüenza y una avergonzada dignidad*: actitud de quien por sí mismo busca humillarse y abajarse, pero es capaz de aceptar que el Señor lo ensalce en bien de la misión, sin creérselo. El modelo que el Evangelio consagra, y que puede servirnos cuando nos confesamos, es el de Pedro, que se deja interrogar prolijamente sobre su amor y, al mismo tiempo, renueva su aceptación del ministerio de pastorear las ovejas que el Señor le confía.
+
+Para entrar más hondo en esta *avergonzada dignidad***[,]{.underline}** que nos salva de creernos, más o menos, de lo que somos por gracia, nos puede ayudar ver cómo en el pasaje de Isaías que el Señor lee hoy en su Sinagoga de Nazaret, el Profeta continúa diciendo: «Ustedes serán llamados sacerdotes del Señor, ministros de nuestro Dios» (*Is* 61,6). Es el pueblo pobre, hambreado, prisionero de guerra, sin futuro, sobrante y descartado, a quien el Señor convierte en pueblo sacerdotal.
+
+Como sacerdotes, nos identificamos con ese pueblo descartado, al que el Señor salva y recordamos que hay multitudes incontables de personas pobres, ignorantes, prisioneras, que se encuentran en esa situación porque otros los oprimen. Pero también recordamos que cada uno de nosotros conoce en qué medida, tantas veces estamos ciegos de la luz linda de la fe, no por no tener a mano el evangelio sino por exceso de teologías complicadas. Sentimos que nuestra alma anda sedienta de espiritualidad, pero no por falta de Agua Viva —que bebemos sólo en sorbos—, sino por exceso de espiritualidades «gaseosas», de espiritualidades *light*. También nos sentimos prisioneros, pero no rodeados como tantos pueblos, por infranqueables muros de piedra o de alambrados de acero, sino por una mundanidad virtual que se abre o cierra con un simple *click*. Estamos oprimidos pero no por amenazas ni empujones, como tanta pobre gente, sino por la fascinación de mil propuestas de consumo que no nos podemos quitar de encima para caminar, libres, por los senderos que nos llevan al amor de nuestros hermanos, a los rebaños del Señor, a las ovejitas que esperan la voz de sus pastores.
+
+Y Jesús viene a rescatarnos, a hacernos salir, para convertirnos de pobres y ciegos, de cautivos y oprimidos. en ministros de misericordia y consolación. Y nos dice, con las palabras del profeta Ezequiel al pueblo que se prostituyó y traicionó tanto a su Señor: «Yo me acordaré de la alianza que hice contigo cuando eras joven... Y tú te acordarás de tu conducta y te avergonzarás de ella, cuando recibas a tus hermanas, las mayores y las menores, y yo te las daré como hijas, si bien no en virtud de tu alianza. Yo mismo restableceré mi alianza contigo, y sabrás que yo soy el Señor. Así, cuando te haya perdonado todo lo que has hecho, te acordarás y te avergonzarás, y la vergüenza ya no te dejará volver a abrir la boca —oráculo del Señor—» (*Ez* 16,60-63).
+
+En este Año Santo Jubilar, celebramos con todo el agradecimiento de que sea capaz nuestro corazón, a nuestro Padre, y le rogamos que «se acuerde siempre de su Misericordia»; recibimos con *avergonzada dignidad* la Misericordia en la carne herida de nuestro Señor Jesucristo y le pedimos que nos lave de todo pecado y nos libre de todo mal; y con la gracia del Espíritu Santo nos comprometemos a comunicar la Misericordia de Dios a todos los hombres, practicando las obras que el Espíritu suscita en cada uno para el bien común de todo el pueblo fiel de Dios.

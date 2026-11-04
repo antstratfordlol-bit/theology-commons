@@ -1,0 +1,53 @@
+---
+id: b16-spe-20060210-doctrine-faith.es
+work: b16-spe-20060210-doctrine-faith
+title: "A los participantes en la Asamblea plenaria de la Congregación para la Doctrina de la Fe (10 de febrero de 2006)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2006-02-10
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2006/february/documents/hf_ben-xvi_spe_20060210_doctrine-faith.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20060210-doctrine-faith} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los participantes en la Asamblea plenaria de la Congregación para la Doctrina de la Fe (10 de febrero de 2006) {#b16-spe-20060210-doctrine-faith}
+***DISCURSO DEL SANTO PADRE BENEDICTO XVI\
+A LOS PARTICIPANTES EN LA ASAMBLEA PLENARIA\
+DE LA CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
+
+Viernes 10 de febrero de 2006*
+
+*Señores cardenales;\
+venerados hermanos en el episcopado y en el presbiterado;\
+queridos hermanos y hermanas:*
+
+Me alegra reunirme, al final de su sesión plenaria, con la Congregación para la doctrina de la fe, Congregación que tuve la alegría de presidir durante más de veinte años, por mandato de mi predecesor, el venerado Papa Juan Pablo II. Vuestros rostros me traen a la memoria también los de todos aquellos que durante estos años han colaborado con el dicasterio:  pienso en todos con gratitud y afecto. No puedo menos de recordar, con cierta emoción, ese período tan intenso y fecundo que pasé en la Congregación, que tiene la misión de promover y defender la doctrina sobre la fe y las costumbres en toda la Iglesia católica (cf. *[Pastor bonus](https://www.vatican.va/content/john-paul-ii/es/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index.html)*, 48).
+
+En la vida de la Iglesia la fe tiene una importancia fundamental, porque es fundamental el don que Dios hace de sí mismo en la Revelación, y esta autodonación de Dios se acoge en la fe. Aparece aquí la relevancia de vuestra Congregación que, en su servicio a toda la Iglesia, y en particular a los obispos como maestros de la fe y pastores, está llamada, con espíritu de colegialidad, a favorecer y recordar precisamente la centralidad de la fe católica, en su expresión auténtica. Cuando se debilita la percepción de esta centralidad, también el entramado de la vida eclesial pierde su vivacidad original y se gasta, cayendo en un activismo estéril o reduciéndose a astucia política de sabor mundano. En cambio, si la verdad de la fe se sitúa con sencillez y determinación en el centro de la existencia cristiana, la vida del hombre se renueva y reanima gracias a un amor que no conoce pausas ni confines, como recordé también en mi reciente carta encíclica *[Deus caritas est](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)*.
+
+La caridad, desde el corazón de Dios, a través del corazón de Jesucristo, se derrama mediante su Espíritu en el mundo, como amor que lo renueva todo. Este amor nace del encuentro con Cristo en la fe:  "No se comienza a ser cristiano por una decisión ética o una gran idea, sino por el encuentro con un acontecimiento, con una Persona, que da un nuevo horizonte a la vida y, con ello, una orientación decisiva" (*[Deus caritas est](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)*, 1). Jesucristo es la Verdad hecha Persona, que atrae hacia sí al mundo. La luz irradiada por Jesús es resplandor de verdad. Cualquier otra verdad es un fragmento de la Verdad que es él y a él remite. Jesús es la estrella polar de la libertad humana:  sin él pierde su orientación, puesto que sin el conocimiento de la verdad, la libertad se desnaturaliza, se aísla y se reduce a arbitrio estéril. Con él, la libertad se reencuentra, se reconoce creada para el bien y se expresa mediante acciones y comportamientos de caridad.
+
+Por eso Jesús dona al hombre la plena familiaridad con la verdad y lo invita continuamente a vivir en ella. Es una verdad ofrecida como realidad que conforta al hombre y, al mismo tiempo, lo supera y rebasa; como Misterio que acoge y excede al mismo tiempo el impulso de su inteligencia. Y nada mejor que el amor a la verdad logra impulsar la inteligencia humana hacia horizontes inexplorados. Jesucristo, que es la plenitud de la verdad, atrae hacia sí el corazón de todo hombre, lo dilata y lo colma de alegría. En efecto, sólo la verdad es capaz de invadir la mente y hacerla gozar en plenitud
+
+Esta alegría ensancha las dimensiones del alma humana, librándola de las estrecheces del egoísmo y capacitándola para un amor auténtico. La experiencia de esta alegría conmueve, atrae al hombre a una adoración libre, no a un postrarse servil, sino a inclinar su corazón ante la Verdad que ha encontrado.
+
+Por eso el servicio a la fe, que es testimonio de Aquel que es la Verdad total, es también un servicio a la alegría, y esta es la alegría que Cristo quiere difundir en el mundo:  es la alegría de la fe en él, de la verdad que se comunica por medio de él, de la salvación que viene de él. Esta es la alegría que experimenta el corazón cuando nos arrodillamos para adorar a Jesús en la fe. Este amor a la verdad inspira y orienta también el acercamiento cristiano al mundo contemporáneo y el compromiso evangelizador de la Iglesia, temas que habéis estudiado durante los trabajos de la plenaria. La Iglesia acoge con alegría las auténticas conquistas del conocimiento humano y reconoce que la evangelización exige también afrontar realmente los horizontes y los desafíos que plantea el saber moderno. En realidad, los grandes progresos del saber científico realizados en el siglo pasado han ayudado a comprender mejor el misterio de la creación, marcando profundamente la conciencia de todos los pueblos. Sin embargo, los progresos de la ciencia han sido a veces tan rápidos que ha sido bastante complejo descubrir si eran compatibles con las verdades reveladas por Dios sobre el hombre y sobre el mundo. A veces, algunas afirmaciones del saber científico se han contrapuesto incluso a estas verdades. Esto ha podido provocar cierta confusión en los fieles y también ha constituido una dificultad para el anuncio y la recepción del Evangelio. Por eso, es de vital importancia todo estudio que se proponga profundizar el conocimiento de las verdades descubiertas por la razón, con la certeza de que no existe "competitividad alguna entre la razón y la fe" (*[Fides et ratio](http://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html)*, 17).
+
+No debemos tener ningún temor de afrontar este desafío:  en efecto, Jesucristo es el Señor de toda la creación y de toda la historia. El creyente sabe bien que "todo fue creado por él y para él, (...) y todo tiene en él su consistencia" (*Col* 1, 16. 17). Profundizando continuamente el conocimiento de Cristo, centro del cosmos y de la historia, podemos mostrar a los hombres y a las mujeres de nuestro tiempo que la fe en él tiene relevancia para el destino de la humanidad:  más aún, es la realización de todo lo que es auténticamente humano. Sólo desde esta perspectiva podremos dar respuestas convincentes al hombre que busca. Este compromiso es de importancia decisiva para el anuncio y la transmisión de la fe en el mundo contemporáneo. En realidad, ese compromiso constituye una prioridad urgente en la misión de evangelizar. El diálogo entre la fe y la razón, entre la religión y la ciencia, no sólo ofrece la posibilidad de mostrar al hombre de hoy, de modo más eficaz y convincente, la racionalidad de la fe en Dios, sino también la de mostrar que en Jesucristo reside la realización definitiva de toda auténtica aspiración humana. En este sentido, un serio esfuerzo evangelizador no puede ignorar los interrogantes que plantean también los descubrimientos científicos y las cuestiones filosóficas actuales.
+
+El deseo de verdad pertenece a la naturaleza misma del hombre, y toda la creación es una inmensa invitación a buscar las respuestas que abren la razón humana a la gran respuesta que desde siempre busca y espera:  "La verdad de la revelación cristiana, que se manifiesta en Jesús de Nazaret, permite a todos acoger el "misterio" de la propia vida. Como verdad suprema, a la vez que respeta la autonomía de la criatura y su libertad, la obliga a abrirse a la trascendencia. Aquí la relación entre libertad y verdad llega al máximo y se comprende en su totalidad la palabra del Señor:  "Conoceréis la verdad y la verdad os hará libres" (*Jn* 8, 32)" (*[Fides et ratio](http://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html)*, 15).
+
+La Congregación encuentra aquí el motivo de su compromiso y el horizonte de su servicio. Vuestro servicio a la plenitud de la fe es un servicio a la verdad y, por eso, a la alegría, una alegría que proviene de lo más íntimo del corazón y brota de los abismos de amor que Cristo ha abierto de par en par con su corazón traspasado en la cruz y que su Espíritu difunde con inagotable generosidad en el mundo. Desde este punto de vista, vuestro ministerio doctrinal puede definirse, de modo apropiado, "pastoral". En efecto, vuestro servicio es un servicio a la plena difusión de la luz de Dios en el mundo. Que la luz de la fe, expresada en su plenitud e integridad, ilumine siempre vuestro trabajo y sea la "estrella" que os guíe y os ayude a dirigir el corazón de los hombres a Cristo. Este es el difícil y fascinante compromiso que compete a la misión del Sucesor de Pedro, en la cual estáis llamados a colaborar. Gracias por vuestro trabajo y por vuestro servicio. Con estos sentimientos, os imparto a todos mi bendición.

@@ -1,0 +1,72 @@
+---
+id: francis-aud-20240313.en
+work: francis-aud-20240313
+title: "General Audience of 13 March 2024 - Cycle of Catechesis. Vices and Virtues. 11. Virtuous action"
+creator: "Franciscus PP."
+pope: Francis
+document-type: General audience (catechesis)
+url_date: 2024-03-13
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/audiences/2024/documents/20240313-udienza-generale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt"
+anchors: "{#francis-aud-20240313} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# General Audience of 13 March 2024 - Cycle of Catechesis. Vices and Virtues. 11. Virtuous action {#francis-aud-20240313}
+POPE FRANCIS
+
+## GENERAL AUDIENCE
+
+*Saint Peter's Square\
+Wednesday, 13 March 2024*
+
+## \[[Multimedia](https://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2024/3/13/udienza-generale.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Cycle of Catechesis. Vices and Virtues. 11.*Virtuous action
+
+*Dear brothers and sisters, good morning!*
+
+After having concluded our overview of vices, it is now time to take a look at the flip side, which is in opposition to the experience of evil. The human heart can indulge evil passions, it can pay heed to harmful temptations disguised in persuasive garb, but it can also oppose all of this. However arduous this may be, the human being is made for goodness, which truly fulfils him, and he is also able to practise this art, causing certain dispositions to become permanent in him or her. Reflection on this wondrous possibility of ours forms a classic chapter in moral philosophy: the chapter of *virtue*.
+
+The Roman philosophers called it *virtus*, the Greeks *aretè*. The Latin term highlights above all that the virtuous person is strong, courageous, capable of discipline and ascesis. Thus, the practise of virtues is the fruit of long germination, requiring effort and even suffering. The Greek word, *aretè*, instead indicates something that excels, something that emerges, that elicits admiration. The virtuous person therefore does not become warped by distortion, but remains faithful to his own vocation, fully realizing himself.
+
+We would be off-course if we thought that saints were the exceptions of humanity: a sort of restricted circle of champions who live beyond the limits of our species. Instead, from the perspective we have just introduced regarding virtues, saints are people who become themselves fully, who fulfil the vocation proper to every man or woman. What a happy world it would be if justice, respect, mutual benevolence, kindness of heart and hope were the shared normality, and not a rare anomaly! This is why, in these dramatic times of ours in which we often have to come to terms with the worst of humanity, the chapter on virtuous action should be rediscovered and practised by all. In a distorted world, we must remember the form in which we were shaped, the image of God that is forever imprinted upon us.
+
+But how can we *define* the concept of virtue? The Catechism of the Catholic Church offers us a precise and concise definition: “A virtue is an habitual and firm disposition to do the good” (no. 1803). It is therefore not an improvised or somewhat random good that falls from heaven sporadically. History shows us that even criminals have performed good deeds in moments of lucidity. These deeds are certainly inscribed in the “book of God”, but virtue is something else. It is a goodness that stems from the slow maturation of a person, to the point that it becomes an inner characteristic. Virtue is a *habitus* of freedom. If we are free in every action, and we are called to choose between good and evil each time, then virtue is what enables us to have a tendency towards the right choice.
+
+If virtue is such a beautiful gift, a question immediately arises: *how can we obtain it?* The answer to this question is not simple, it is complex.
+
+For the Christian, the first aid is God’s *grace*. Indeed, the Holy Spirit acts in us who were baptized, working in our soul to lead it to a virtuous life. How many Christians have reached holiness through tears, finding they could not overcome some of their weaknesses! But they experienced that God completed their work of good which for them had been only a rough sketch. Grace always precedes our moral commitment.
+
+Moreover, we must never forget a very rich lesson from the wisdom of the ancients, which tells us that *virtue grows and can be cultivated*. And for this to happen, the first gift to ask of the Spirit is precisely *wisdom*. The human being is not a free territory for the conquest of pleasures, emotions, instincts and passions, without the ability to do anything against these sometimes chaotic forces, that dwell within. A priceless gift we possess is open-mindedness. It is the wisdom that can learn from mistakes in order to direct life well. It also takes good will: the capacity to choose the good, to form ourselves with ascetic exercise, shunning excesses.
+
+Dear brothers and sisters, this is how we begin our journey through the virtues, in this serene universe that is challenging, but decisive for our happiness.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Special Greetings
+
+I greet all the English-speaking pilgrims and visitors taking part in today’s Audience, especially the groups from the Netherlands and the United States of America. With prayerful good wishes that this Lenten season will be a time of grace and spiritual renewal for you and your families, I invoke upon all of you joy and peace in our Lord Jesus Christ. God bless you!
+
+Lastly as usual, my thoughts turn to the sick, to the elderly, to newlyweds and to young people, especially to the numerous students here, in particular to the *Carbone e Rosati di Sora* Institute. I invite everyone to continue their Lenten journey with commitment, ready to make gestures of Christian solidarity everywhere Providence calls you to work.
+
+And please let us persevere in our heartfelt prayers for those who suffer from the terrible consequences of war. Today, they brought me a rosary and a Gospel that had belonged to a young soldier who died at the front: he used to pray with this. Many young people, many young people go to their death. Let us pray to the Lord that he may give us the grace to win against the madness of war, which is always a defeat. I offer my blessing to all of you.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Summary of the Holy Father's words
+
+Dear brothers and sisters: In our catechesis on the virtues and the vices, we now consider the nature of virtue, which the Catechism defines as “a habitual and firm disposition to do the good”. Created in the image and likeness of God, we were made for goodness, yet in our fallen world the pursuit of virtue and detachment from vice require discipline and perseverance. Growth in virtue is in fact the noblest expression of our human freedom, but must necessarily be sustained by God’s prior gift of grace. For this reason, the Scriptures counsel us to pray for the Holy Spirit’s gift of wisdom, in order to know the Lord’s will and to let it shape our every decision as we strive to conform our lives ever more fully to his gracious and loving plan for our human family.

@@ -1,0 +1,59 @@
+---
+id: francis-mes-20191220-videomessaggio-guterres.en
+work: francis-mes-20191220-videomessaggio-guterres
+title: "Video Message of His Holiness Pope Francis and UN Secretary-General António Guterres (20 December 2019)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Message
+url_date: 2019-12-20
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/messages/pont-messages/2019/documents/papa-francesco_20191220_videomessaggio-guterres.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-mes-20191220-videomessaggio-guterres} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Video Message of His Holiness Pope Francis and UN Secretary-General António Guterres (20 December 2019) {#francis-mes-20191220-videomessaggio-guterres}
+## VIDEO MESSAGE OF HIS HOLINESS POPE FRANCIS AND UN SECRETARY-GENERAL ANTÓNIO GUTERRES
+
+*20 December 2019*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2019/12/20/videomessaggio-guterres.html)\]
+
+It is good that we are having this meeting in the days just before Christmas. These are days in which we raise our eyes to heaven and commend to God those people and situations that are closest to our heart. In this gaze, we acknowledge ourselves to be sons and daughters of one Father, brothers and sisters.
+
+We give thanks for all the goodness present in this world, and for all those who freely give of themselves, those who spend their lives in service to others, those who do not give up but keep trying to build a more humane and just society. We know well that we cannot be saved alone.
+
+We cannot and we must not avert our eyes from forms of injustice and inequality, the scandal of world hunger, poverty, children who die because they lack water, food and necessary care.
+
+We cannot avert our eyes from abuse of any kind against our children. Together we must combat this scourge.
+
+We cannot close our eyes before those of our brothers and sisters who, because of conflicts and acts of violence, dire poverty or climatic changes, leave their countries and often meet with a tragic fate.
+
+We cannot remain indifferent when human dignity is trampled and exploited, when human life is attacked, whether that of the unborn or of any other person in need of care.
+
+We cannot and must not look the other way when in many parts of our world the followers of different religious confessions are persecuted.
+
+The misuse of religion to incite hatred, violence, oppression, extremism and blind fanaticism cries out to God, as does the use of religion to force others into exile or to marginalize them.
+
+But the arms race and nuclear rearmament also cry out to God. Not only the use but also the possession of nuclear arms is immoral; they have so great a destructive capacity that the mere possibility of an accident represents a baleful threat for humanity.
+
+May we not remain indifferent before the many wars still being fought, in which so many innocent people die.
+
+Trust in dialogue between individuals and between nations, in multilateralism, in the role of the international organizations, and in diplomacy as an instrument for appreciation and understanding, is indispensable for the building of a peaceful world.
+
+We need to realize that we belong to a single human family and to care for our earth, which in every generation God entrusts to our care so that we can cultivate it and hand it down as a legacy to our children. A commitment to the reduction of polluting emissions and to an integral ecology is urgently needed: let us do something before it is too late.
+
+May we also hear the voice of all those young people who help us to realize what is happening in today’s world and who ask us to be peacemakers and builders, all together and not individually, of a more humane and just civilization.
+
+May Christmas, in its authentic simplicity, remind us that the most important thing in life is love.

@@ -1,0 +1,43 @@
+---
+id: pius11-cum-venerabilis.la
+work: pius11-cum-venerabilis
+title: "Cum venerabilis frater, Litterae Apostolicae, Territorium separatum a vicariatibus apostolicis de Paotingfu et de Peking erigitur in missionem siti iuris, titulo de Yihsien, d. 25 m. Maii a. 1929, Pius PP. XI"
+creator: "Pius PP. XI"
+pope: Pius XI
+document-type: Apostolic letter
+url_date: 1929-05-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: la
+original-language: yes
+original-note: "the Latin text as published by the Holy See; for the modern magisterium the Latin is the editio typica where one exists"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/pius-xi/la/apost_letters/documents/hf_p-xi_apl_19290525_cum-venerabilis.html"
+fetch_date: 2026-09-15
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "la"
+anchors: "{#pius11-cum-venerabilis} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across la"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-09-15
+---
+
+# Cum venerabilis frater, Litterae Apostolicae, Territorium separatum a vicariatibus apostolicis de Paotingfu et de Peking erigitur in missionem siti iuris, titulo de Yihsien, d. 25 m. Maii a. 1929, Pius PP. XI {#pius11-cum-venerabilis}
+## PIUS PP. XI
+
+**LITTERAE** **APOSTOLICAE**
+
+## CUM VENERABILIS FRATER*
+
+TERRITORIUM SEPARATUM A VICARIATIBUS APOSTOLICIS DE PAOTINGFU ET DE PEKING ERIGITUR IN MISSIONEM SITI IURIS, TITULO DE YIHSIEN.
+
+*Ad futuram rei memoriam*. — Cum venerabilis frater Episcopus titulo Sidymensis et Vicarius Apostolicus de Paotingfu in Sinis enixas Nobis preces adhibuerit, ut vicariatus suus de Paotingfu divideretur, atque ex territorio sic diviso ac separato a vicariatu praedicto nova ad catholicam fidem provehendam Missio independens conderetur, presbyteris e Congregatione a Sacris Stigmatibus D. N. I. C. committenda; cumque venerabilis frater Celsus Costantini, Archiepiscopus titulo Theodosiopolitanus, Delegatus Noster in Sinis, suum gravissimum suffragium addiderit: Nos, qui iugiter ex apostolico munere, quo fungimur, quae rei sacrae procurationi melius gerendae faciant atque in exploratam cedant dominici gregis utilitatem, ea paterna sollicitudine decernere maturamus, praefati Praesulis precibus ac votis ultro libenterque concedendum existimavimus. Quae cum ita sint, conlatis consiliis cum venerabilibus fratribus Nostris Sanctae Romanae Ecclesiae Cardmalibus, qui negotiis Propagandae Fidei sunt praepositi, omnibusque rei momentis attente perpensis, motu proprio, certa scientia ac matura deliberatione Nostris, deque apostolicae Nostrae auctoritatis plenitudine, praesentium Litterarum tenore, civiles subpraefecturas de *Yihsien, Laishui, Kwangchang* a vicariatu apostolico de Paotingfu separamus sive dismembramus; itemque seiungimus sive dismembramus a vicariatu apostolico de Peking districtum civilem de *San Puo.* Territorium autem totum hoc, sic separatum a dictis duobus vicariatibus apostolicis, in novam missionem independentem erigimus et constituimus, cui nomen facimus *de Yihsien,* et quam curis Presbyterorum Congregationis a Sacris Stigmatibus D. N. Iesu Christi ad Nostrum et Sanctae Sedis beneplacitum in Domino tradimus.
+
+Haec mandamus, decernentes praesentes Litteras firmas, validas atque efficaces semper exstare ac permanere, suosque plenos atque integros effectus sortiri et obtinere, illisque ad quos pertinent sive pertinere poterunt nunc et in posterum plenissime suffragari, sicque rite iudicandum esse ac definiendum, irritumque ex nunc et inane fieri, si quidquam secus, super his, a quovis, auctoritate qualibet, scienter sive ignoranter attentari contigerit. Quibuslibet contrariis non obstantibus.
+
+*Datum Romae apud Sanctum Petrum, sub anulo Piscatoris, die XXV m. Maii an. MDCCCCXXIX, Pontificatus Nostri octavo.*
+
+P. CARD. GASPARRI, *a Secretis Status.*
+
+A.A.S., vol. XXI (1929), n. 15, pp. 658-659

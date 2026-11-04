@@ -1,0 +1,76 @@
+---
+id: jp2-spe-20030327-pont-comm-latin-america.en
+work: jp2-spe-20030327-pont-comm-latin-america
+title: "To participants in the Plenary Assembly of the Pontifical Commission for Latin America (March 27, 2003)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2003-03-27
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/march/documents/hf_jp-ii_spe_20030327_pont-comm-latin-america.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-spe-20030327-pont-comm-latin-america.N} — numbered paragraphs 1..7 (7 anchors), shared with jp2-spe-20030327-pont-comm-latin-america.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To participants in the Plenary Assembly of the Pontifical Commission for Latin America (March 27, 2003)
+## ADDRESS OF JOHN PAUL II TO THE MEMBERS OF THE PONTIFICAL COMMISSION FOR LATIN AMERICA
+
+*Thursday, 27 March 2003*
+
+*Your Eminences,\
+Dear Brothers in the Episcopate,*
+
+### 1 {#jp2-spe-20030327-pont-comm-latin-america.1}
+
+I am glad to receive you, Counsellors and Members of the Pontifical Commission for Latin America who have held your Plenary Assembly, with the objective of examining again the ecclesial situation in Latin American countries, to identify their pastoral problems and offer guidelines that will help to design an *evangelizing strategy* that will measure up to the great challenges emerging in this crucial period of the beginning of the new millennium.
+
+I cordially thank Cardinal Giovanni Battista Re, President of this Pontifical Commission, for his kind words on your behalf, as he presented in summary form the agenda that you followed in these days of meeting, reflection and dialogue. I am likewise grateful to you all for the dedication and the work achieved in these days, that resulted in the guidelines and the help that you offer, in this way participating in my concern as universal Pastor of the entire Church. Your considerations and proposals will be of great benefit for the *renewed evangelization of Latin America,* whose religious and social situation I have always followed with interest and affection, and in a very concrete way with my 18 apostolic visits to the beloved Continent of Hope.
+
+### 2 {#jp2-spe-20030327-pont-comm-latin-america.2}
+
+The Latin American Bishops made their *ad limina* visits from 2001 until February this year, with the exception of the Colombian and Mexican Bishops who will be making theirs shortly. I addressed each one of the 28 groups who visited me, giving them pastoral guidance on many topics. In fact, these were specific instructions, not just for the group visiting me, but also for the entire Episcopate. The Pontifical Commission for Latin America has collected them in a book which your President has presented to me and which can be a useful tool for recalling what I said, prompted by my pastoral concern and love for South America. Indeed, on this occasion you began your sessions by studying these orientations.
+
+### 3 {#jp2-spe-20030327-pont-comm-latin-america.3}
+
+To carry out better your task of proclaiming Christ to the men and women of today and shedding the light of Gospel wisdom on the challenges and problems that beset the Church and society in Latin America at the beginning of the new millennium, the Church needs *many competent evangelizers* who, brimming with faith and hope, will speak "increasingly of Jesus Christ" (*[Ecclesia in America](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html),* n. 67) with fresh zeal and a profound ecclesial spirit. These evangelizers - bishops, priests and deacons, men and women religious, faithful lay persons - are, under the guidance of the Holy Spirit, the indispensable primary agents in the task of evangelization in which persons count more than structures, necessary though at times these may be.
+
+The structures must be simple and flexible and only those that are indispensable, so that they do not encumber but help and facilitate pastoral work. Moreover, they must be effective and correspond with the needs of the present time. It is important to make the most of the modern technologies for evangelization but to avoid excessive bureaucracy, limiting travel, meetings and personnel, so as to employ time and financial means to the best advantage in the direct action of Gospel proclamation and attention to the needy. Structures and organizations, and the ecclesial life style, must always mirror the simple face of Latin America to facilitate a greater *closeness* with the underprivileged masses, the indigenous peoples, immigrants, displaced persons, workers, the marginalized, the sick and, in general, those who are suffering, that is, all those who are or should be the goal of your preferential option (cf. *[Ecclesia in America](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html),* n. 58).
+
+### 4 {#jp2-spe-20030327-pont-comm-latin-america.4}
+
+The originality and fruitfulness of the Gospel, a continuing source of creativity, inspires ever *new forms of expression and initiatives* in ecclesial life and helps to *identify new methods of evangelization* that, in full fidelity to the Magisterium and Tradition of the Church, are necessary to take the proclamation of the Gospel to the most remote places, to all men and women, to all races and social classes, including the most difficult or refractory sectors.
+
+The acceleration of events and social changes obliges the Church, and consequently, her Pastors, under the inspiration of grace, to take new and significant steps towards an *increasingly radical surrender to her Lord,* with whom our sentiments, doctrine and behaviour must be totally identified. Jesus Christ is the one Lord of the Church and of the world, and everything should be oriented to him, since "the Church must make the crucified and risen Christ the centre of her pastoral concern and her evangelizing activity. "Everything planned in the Church must have Christ and his Gospel as its starting-point'" (*ibid.,* n. 67).
+
+### 5 {#jp2-spe-20030327-pont-comm-latin-america.5}
+
+Among the realities or pastoral problems submitted for your consideration, there is one that deserves special attention and that has been the object of your studies and of certain resolutions at this Plenary Meeting and at the smaller session that the Commission organized in January with the collaboration of the Pontifical Council for Promoting Christian Unity, the Pontifical Council for Interreligious Dialogue and CELAM.
+
+I am referring to the phenomenon of the *sects* which, as I said in my recent address to the Bishops of Brazil (23 January 2003): "Is not the phenomenon of the sects that are spreading intermittently from one area to another, with periods of relentless proselytism among the culturally and socially disadvantaged, a concrete sign of an unsatisfied hunger for the supernatural? Doesn't this present a real challenge, for you Pastors, to renew the style of the welcome within your ecclesial communities, and also a pressing incentive to embark on a new and courageous evangelization that can create adequate forms of catechesis, especially for adults?" (*[Address to Brazilian Bishops of the First Southern Region on their](https://www.vatican.va/content/john-paul-ii/en/speeches/2003/january/documents/hf_jp-ii_spe_20030123_brazil-sul-i.html)* [ad limina *visit*](https://www.vatican.va/content/john-paul-ii/en/speeches/2003/january/documents/hf_jp-ii_spe_20030123_brazil-sul-i.html)*,* 23 January 2003, n. 2; *ORE,* 5 February 2003, p. 4).
+
+In-depth evangelization, a continuous and active presence of Pastors, Bishops and priests among their faithful, and the personal relationship of the faithful with Christ: these are some of the keys for confronting with serious determination the insidious problem of the sects.
+
+### 6 {#jp2-spe-20030327-pont-comm-latin-america.6}
+
+It is evident that in reference to the ecclesial situations or realities to which you alluded at your meeting there are other sectors, such as youth, families and above all priestly vocations, which are in need of urgent attention from Pastors, with a broad synergy, that is, with the commitment of all, focusing decisively on unity and communion: it is more and more necessary "to make the Church the home and school of communion: that is the great challenge that lies before us in the millennium which is now beginning, if we wish to be faithful to God's plan and respond to the world's deepest yearnings" (*[Novo millennio ineunte](https://www.vatican.va/content/john-paul-ii/en/apost_letters/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html),* n. 46; cf. *[Ecclesia in America](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html),* chapter IV).
+
+Here I would like to recall the great importance of the evangelizing action of men and women religious, as well as of the ecclesial movements; for this reason they should always work "in full harmony within both the universal Church and the particular Churches, and in obedience to the authoritative directives of the Pastors" (*[Novo millennio ineunte](https://www.vatican.va/content/john-paul-ii/en/apost_letters/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html),* n. 46).
+
+### 7 {#jp2-spe-20030327-pont-comm-latin-america.7}
+
+Last year I had the joy of kneeling before the venerated image of Our Lady of Guadalupe on the occasion of my visit to Mexico to canonize Bl. *Juan Diego,* her messenger, on 31 July and subsequently, in the same place, to beatify the two catechists martyrs of Oaxaca Guadalupe, after canonizing Bro. Pedro de San José de Betancur in Guatemala.
+
+Since I went for the first time on pilgrimage to the splendid Shrine of Our Lady of Guadalupe on 29 January 1979, she has guided my steps in almost 25 years of service as the Bishop of Rome and universal Pastor of the Church. I would like to invoke Mary, who shows the sure way to encounter Christ (cf. *[Ecclesia in America](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html),* n. 11) and who was the *First Evangelizer of America,* as the "*Star of Evangelization" - Stella evangelizationis -* and entrust to her the ecclesial activity of all her sons and daughters of America: Pastors and faithful, ecclesial communities and families, the poor, the elderly and the indigenous.
+
+As an expression of these hopes, I cordially impart to you my Apostolic Blessing.

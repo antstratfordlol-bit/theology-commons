@@ -1,0 +1,63 @@
+---
+id: jp2-spe-19931028-nove-ambasciatori.en
+work: jp2-spe-19931028-nove-ambasciatori
+title: "DISCORSO DI GIOVANNI PAOLO II A NOVE AMBASCIATORI PRESSO LA SANTA SEDE* Sala Clementina - Gioved&#"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1993-10-28
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1993/october/documents/hf_jp-ii_spe_19931028_nove-ambasciatori.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it"
+anchors: "{#jp2-spe-19931028-nove-ambasciatori.N} — numbered paragraphs 1..6 (6 anchors), shared with jp2-spe-19931028-nove-ambasciatori.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# DISCORSO DI GIOVANNI PAOLO II A NOVE AMBASCIATORI PRESSO LA SANTA SEDE* Sala Clementina - Gioved&#
+## DISCORSO DI GIOVANNI PAOLO II A NOVE AMBASCIATORI PRESSO LA SANTA SEDE
+
+*Sala Clementina - Giovedì, 28 ottobre 1993*
+
+Your Excellencies,
+
+### 1 {#jp2-spe-19931028-nove-ambasciatori.1}
+
+It is with great pleasure that I receive from Your Excellencies hands the letters' accrediting you to the Apostolic See as ambassadors of your respective countries.
+
+I wish you all a very cordial welcome to Rome, and I can assure you that my co-workers are available to help you in your mission, in order beneficially to strengthen relations between your countries and the Holy See.
+
+I would like to address a particular greeting to the Ambassadors of Mongolia and Swaziland, who are their countries' first heads of mission to be accredited here; thus I am glad to see our recently established relations entering their active phase. Moreover, it is a special joy for me to greet the representative of Latvia, a nation to which I recently had the good fortune to make a pastoral visit, a few weeks ago. We finally have full relations once more, after a long period of latency.
+
+### 2 {#jp2-spe-19931028-nove-ambasciatori.2}
+
+Circumstances have brought together here ambassadors from nations on three continents: Europe, with Latvia; Asia, with Mongolia and Singapore; Africa, with Burkina Faso the Congo, the Republic of Guinea, Sudan, Swaziland and Zambia. We see in this a clear sign of the Holy See's wish to maintain fraternal relations with all the peoples of humanity, whether the faithful of the Catholic Church are great or few in number.
+
+### 3 {#jp2-spe-19931028-nove-ambasciatori.3}
+
+In your presence, how could I fail to recall yet again the profound changes which have occurred and which are continuing in the world, in the hope that they will lead to a considerable improvement in the situation of an important part of humanity? In particular, the large number of ambassadors among you from Africa prompts me to repeat that the Church follows with great sympathy the process which is leading several towards democracy. I am aware of the obstacles which are frequently encountered and I sincerely hope that they may be overcome. The news of serious conflicts that are destroying too many peoples on the African continent alarms us. Therefore, in the presence of diplomats who are, by vocation, builders of peace and cooperation between nations, I would like to call men and women of goodwill to do all they can to build lasting peace, which is essential for the common good.
+
+### 4 {#jp2-spe-19931028-nove-ambasciatori.4}
+
+You know that among your citizens Catholics want to take their part generously in serving society, especially in development issues. Their involvement in education, professional training, the organization of health care, charitable aid and economic initiatives aim, in the very spirit of brotherly love which animates all Christians, to encourage the development of individuals, families and social groups. The sole aim of these efforts by the members of the Church is to join with those of all their compatriots, as well as with those of the international community.
+
+### 5 {#jp2-spe-19931028-nove-ambasciatori.5}
+
+Among the matters discussed with the representatives of nations, I would also like to recall that we keep in mind the concern to see recognized and guaranteed the freedom to worship and to take part in the activities proper to each religious community, with mutual respect for one another's convictions and spiritual traditions. The protection of everyone's right to freedom of conscience and religion remains one of the Holy See's primary concerns, because the development of the spiritual life is an essential feature of the vocation of every man and woman in the world.
+
+### 6 {#jp2-spe-19931028-nove-ambasciatori.6}
+
+Your Excellencies, at the end of this solemn ceremony my thoughts turn to the peoples you represent. I would like to ask you to express my deep affection and the fraternal sentiments I feel for them, in the spirit of Christ's disciples, for his love extends to all mankind. I have been able to meet many of them in their own lands: please tell them that I still have very vivid memories of them.
+
+I fervently pray for the prosperity of your compatriots in peace and harmony. Your Excellencies, I invoke an abundance of divine gifts for yourselves, your families, your co-workers and the nations which you represent.
+
+\**L'Osservatore Romano. Weekly edition in English* n. 44 p.5.

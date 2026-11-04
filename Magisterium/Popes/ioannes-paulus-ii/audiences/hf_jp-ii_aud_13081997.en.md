@@ -1,0 +1,81 @@
+---
+id: jp2-aud-19970813.en
+work: jp2-aud-19970813
+title: "13 August 1997"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: General audience (catechesis)
+url_date: 1997-08-13
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/audiences/1997/documents/hf_jp-ii_aud_13081997.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-aud-19970813.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-aud-19970813.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 13 August 1997
+POPE JOHN PAUL II
+
+## GENERAL AUDIENCE
+
+*Wednesday, 13 April 1997*
+
+## Mary is model for Church’s motherhood
+
+### 1 {#jp2-aud-19970813.1}
+
+It is precisely in the divine motherhood that the Council perceives the basis of the special relationship between Mary and the Church. We read in the Dogmatic Constitution *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html):* "By reason of the gift and role of her divine motherhood, by which she is united with her Son, the Redeemer, and with her unique graces and functions, the Blessed Virgin is also intimately united to the Church" (n. 63). The Dogmatic Constitution on the Church constantly refers to this same presupposition to illustrate the prerogatives of "type" and "model" which the Blessed Virgin enjoys in relation to the Mystical Body of Christ: "In the mystery of the Church, which is herself rightly called mother and virgin, the Blessed Virgin stands out in eminent and singular fashion as exemplar both of virgin and mother" ([ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html).).
+
+Mary’s motherhood is defined as "eminent and singular", since it represents a unique and unrepeatable fact: Mary, before carrying out her motherly role for humanity, is the Mother of the only-begotten Son of God made man. On the other hand, the Church is a mother because she gives spiritual birth to Christ in the faithful, thus carrying out her maternal role for the members of the Mystical Body.
+
+In this way the Blessed Virgin is a superior model for the Church, precisely because of the uniqueness of her prerogative as Mother of God.
+
+### 2 {#jp2-aud-19970813.2}
+
+*[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html),* in reflecting on Mary’s motherhood, recalls that it is also expressed in the eminent dispositions of her soul: "Through her faith and obedience she gave birth on earth to the very Son of the Father, not through the knowledge of man but by the overshadowing of the Holy Spirit, in the manner of a new Eve who placed her faith not in the serpent of old, but in God’s messenger without wavering in doubt" (*[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html),* n. 63).
+
+From these words it can be clearly seen that Mary’s faith and obedience at the Annunciation are virtues for the Church to imitate and, in a certain sense, they begin her motherly journey in service to men called to salvation.
+
+The divine motherhood cannot be isolated from the universal dimension given to it in God’s saving plan, which the Council does not hesitate to recognize: "The Son whom she brought forth is he whom God placed as the first-born among many brethren (Rom 8:29), that is, the faithful, in whose generation and formation she co-operates with a mother’s love" ([ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html).).
+
+### 3 {#jp2-aud-19970813.3}
+
+The Church becomes a mother, taking Mary as her model. In this regard the Council says: "The Church indeed, contemplating her hidden sanctity, imitating her charity and faithfully fulfilling the Father’s will, by receiving the Word of God in faith becomes herself a mother. By preaching and Baptism she brings forth sons, who are conceived of the Holy Spirit and born of God, to a new and immortal life" ([ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html). n. 64).
+
+Analyzing this description of the Church’s maternal work, we can note how the Christian’s birth is linked here in a certain way to the birth of Jesus, as though a reflection of it: Christians are "conceived by the Holy Spirit", and therefore their birth, the fruit of preaching and Baptism, resembles the Saviour’s.
+
+Moreover, in contemplating Mary, the Church imitates her charity, her faithful acceptance of the Word of God and her docility in fulfilling the Father’s will. By following the Blessed Virgin’s example, she achieves a fruitful spiritual motherhood.
+
+### 4 {#jp2-aud-19970813.4}
+
+But the Church’s motherhood does not make Mary’s superfluous: continuing to exercise her influence on the life of Christians, Mary helps to give the Church a maternal face. In the light of Mary the motherhood of the ecclesial community, which might seem somewhat general, is called to be expressed in a more concrete and personal way towards every person redeemed by Christ.
+
+By showing herself to be the Mother of all believers, Mary fosters in them relations of authentic spiritual brotherhood and constant dialogue.
+
+The daily experience of faith, in every age and place, highlights the need many feel to entrust their daily necessities to Mary and they trustfully open their hearts to implore her motherly intercession and obtain her reassuring protection.
+
+The prayers addressed to Mary by people in every age, the many forms and expressions of Marian devotion, the pilgrimages to shrines and places which commemorate the miracles worked by God the Father through the Mother of his Son show Mary’s extraordinary influence on the Church’s life. The love of the People of God for the Blessed Virgin points to the need for close personal relations with their heavenly Mother. At the same time Mary’s spiritual motherhood supports and increases the Church’s concrete practice of her own motherhood.
+
+### 5 {#jp2-aud-19970813.5}
+
+The two mothers, the Church and Mary, are both essential to Christian life. It could be said that the one is a more objective motherhood and the other more interior.
+
+The Church becomes a mother in preaching God’s Word and administering the sacraments, particularly Baptism, in celebrating the Eucharist and in forgiving sins.
+
+Mary’s motherhood is expressed in all the areas where grace is distributed, particularly within the framework of personal relations.
+
+They are two inseparable forms of motherhood: indeed both enable us to recognize the same divine love which seeks to share itself with mankind.
+
+To the English-speaking pilgrims and visitors the Holy Father said:
+
+I cordially greet the groups of young people from around the world who will join me in Paris for the World Youth Day. Dear young friends, how much the world needs your witness to the love of Christ! In the days ahead, may you appreciate ever more fully the beauty of God’s gift of faith and joyfully share that gift with others in building a world of justice, love and solidarity. Upon you and upon all the English-speaking visitors, especially the pilgrims from Indonesia, the Philippines, Taiwan, Japan, Canada and the United States, I invoke the grace and peace of our Lord Jesus Christ.

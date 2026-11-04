@@ -1,0 +1,69 @@
+---
+id: francis-spe-20160728-polonia-accoglienza-giovani.es
+work: francis-spe-20160728-polonia-accoglienza-giovani
+title: "Viaje apostólico a Polonia: Ceremonia de acogida de los jóvenes en el parque Jordan de Błonia (Cracovia, 28 de julio de 2016)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2016-07-28
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2016/july/documents/papa-francesco_20160728_polonia-accoglienza-giovani.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#francis-spe-20160728-polonia-accoglienza-giovani} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje apostólico a Polonia: Ceremonia de acogida de los jóvenes en el parque Jordan de Błonia (Cracovia, 28 de julio de 2016) {#francis-spe-20160728-polonia-accoglienza-giovani}
+[VIAJE APOSTÓLICO DEL SANTO PADRE FRANCISCO\
+A POLONIA\
+CON OCASIÓN DELLA XXXI JORNADA MUNDIAL DE LA JUVENTUD](http://w2.vatican.va/content/francesco/es/travels/2016/outside/documents/papa-francesco-polonia-2016.html)\
+(27-31 DE JULIO DE 2016)
+
+## CEREMONIA DE ACOGIDA DE LOS JÓVENES
+
+## DISCURSO DEL SANTO PADRE
+
+*Parque Jordan, en Błonia, Cracovia\
+Jueves 28 de julio de 2016*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2016/7/28/poloniablonia.html)\]
+
+*Queridos jóvenes, muy buenas tardes.*
+
+Finalmente nos encontramos. Gracias por esta calurosa bienvenida. Gracias al Cardenal Dziwisz, a los Obispos, sacerdotes, religiosos, seminaristas, laicos y a todos aquellos que los acompañan. Gracias a los que han hecho posible que hoy estemos aquí, que se han esforzado para que pudiéramos celebrar la fe. Hoy nosotros, todos juntos, estamos celebrando la fe.
+
+En esta, su tierra natal, quisiera agradecer especialmente a [san Juan Pablo II](http://w2.vatican.va/content/john-paul-ii/es.html) \[aplauso\] ‒«Fuerte, fuerte»‒ que soñó e impulsó estos encuentros. Desde el cielo nos está acompañando viendo a tantos jóvenes pertenecientes a pueblos, culturas, lenguas tan diferentes con un sólo motivo: celebrar a Jesús, que está vivo en medio de nosotros. ¿Lo han entendido? Celebrar a Jesús, que está vivo en medio de nosotros. Y decir que está vivo es querer renovar nuestras ganas de seguirlo, nuestras ganas de vivir con pasión el seguimiento de Jesús. ¡Qué mejor oportunidad para renovar la amistad con Jesús que afianzando la amistad entre ustedes! ¡Qué mejor manera de afianzar nuestra amistad con Jesús que compartirla con los demás! ¡Qué mejor manera de vivir la alegría del Evangelio que queriendo «contagiar» su Buena Noticia en tantas situaciones dolorosas y difíciles!
+
+Y Jesús es quien nos ha convocado a esta [31 Jornada Mundial de la Juventud](http://w2.vatican.va/content/francesco/es/travels/2016/outside/documents/papa-francesco-polonia-2016.html); es Jesús quien nos dice: «Felices los misericordiosos, porque encontrarán misericordia» (*Mt* 5,7). Felices aquellos que saben perdonar, que saben tener un corazón compasivo, que saben dar lo mejor a los demás; lo mejor, no lo que sobra: lo mejor.
+
+Queridos jóvenes, en estos días Polonia, esta noble tierra, se viste de fiesta; en estos días Polonia quiere ser el rostro siempre joven de la Misericordia. Desde estas tierras, con ustedes y también unidos a tantos jóvenes que hoy no pueden estar aquí, pero que nos acompañan a través de los diversos medios de comunicación, todos juntos vamos a hacer de esta jornada una auténtica fiesta Jubilar, en este Jubileo de la Misericordia.
+
+En los años que llevo como Obispo he aprendido una cosa ‒he aprendido muchas, pero una quiero decirla ahora‒: no hay nada más hermoso que contemplar las ganas, la entrega, la pasión y la energía con que muchos jóvenes viven la vida. Esto es hermoso, y, ¿de dónde viene esta belleza? Cuando Jesús toca el corazón de un joven, de una joven, este es capaz de actos verdaderamente grandiosos. Es estimulante escucharlos, compartir sus sueños, sus interrogantes y sus ganas de rebelarse contra todos aquellos que dicen que las cosas no pueden cambiar. Esos a los que yo llamo los «quietistas»: «Nada puede cambiar». No, los jóvenes tienen la fuerza de oponerse a estos. Pero, posiblemente, algunos no están seguros de esto… Yo les hago una pregunta, ustedes me respondan: –«Las cosas, ¿se pueden cambiar?» –«Sí» \[responden los jóvenes\]. –«No se oye», –«Sí» \[repiten\]. Es un regalo del cielo poder verlos a muchos de ustedes que, con sus cuestionamientos, buscan hacer que las cosas sean diferentes. Es lindo, y me conforta el corazón, verlos tan revoltosos. La Iglesia hoy los mira ‒diría más: el mundo hoy los mira‒ y quiere aprender de ustedes, para renovar su confianza en que la Misericordia del Padre tiene rostro siempre joven y no deja de invitarnos a ser parte de su Reino, que es un Reino de alegría, es un Reino siempre de felicidad, es un Reino que siempre nos lleva adelante, es un Reino capaz de darnos la fuerza de cambiar las cosas. Yo me he olvidado, les repito la pregunta: ‒«Las cosas, ¿se pueden cambiar?» ‒«Sí» \[responden\]. De acuerdo.
+
+Conociendo la pasión que ustedes le ponen a la misión, me animo a repetir: la misericordia siempre tiene rostro joven. Porque un corazón misericordioso se anima a salir de su comodidad; un corazón misericordioso sabe ir al encuentro de los demás, logra abrazar a todos. Un corazón misericordioso sabe ser refugio para los que nunca tuvieron casa o la han perdido, sabe construir hogar y familia para aquellos que han tenido que emigrar, sabe de ternura y compasión. Un corazón misericordioso, sabe compartir el pan con el que tiene hambre, un corazón misericordioso se abre para recibir al prófugo y al emigrante. Decir misericordia junto a ustedes, es decir oportunidad, es decir mañana, es decir compromiso, es decir confianza, es decir apertura, hospitalidad, compasión, es decir sueños. Pero ustedes, ¿son capaces de soñar? ‒«Sí». Y cuando el corazón es abierto y capaz de soñar, hay espacio para la misericordia, hay espacio para acariciar a los que sufren, hay espacio para ponerse junto aquellos que no tienen paz en el corazón y les falta lo necesario para vivir, o no tiene la cosa más hermosa: La fe. Misericordia. Digamos juntos esta palabra: «Misericordia». ‒Todos: «Misericordia», ‒otra vez: «Misericordia», ‒otra vez para que el mundo nos oiga: «Misericordia».
+
+También quiero confesarles otra cosa que aprendí en estos años. No quiero ofender a nadie, pero me genera dolor encontrar a jóvenes que parecen haberse «jubilado» antes de tiempo. Esto me hace sufrir. Jóvenes que parece que se hayan jubilado con 23, 24, 25 años. Esto me produce dolor. Me preocupa ver a jóvenes que «tiraron la toalla» antes de empezar el partido. Que se han «rendido» sin haber comenzado a jugar. Me produce dolor el ver a jóvenes que caminan con rostros tristes, como si su vida no valiera. Son jóvenes esencialmente aburridos... y aburridores. Que aburren a los demás, y esto me produce dolor. Es difícil, y a su vez cuestionador, por otro lado, ver a jóvenes que dejan la vida buscando el «vértigo», o esa sensación de sentirse vivos por caminos oscuros, que al final terminan «pagando»…y pagando caro. Piensen en tantos jóvenes, que ustedes conocen, que eligieron este camino. Cuestiona ver cómo hay jóvenes que pierden hermosos años de su vida y sus energías corriendo detrás de vendedores de falsas ilusiones ‒en mi tierra natal diríamos «vendedores de humo»‒, que les roban lo mejor de ustedes mismos. Y esto me hace sufrir. Yo estoy seguro de que hoy, entre ustedes, no hay ninguno de esos, pero quiero decirles: Existen los jóvenes jubilados, jóvenes que tiran la toalla antes del partido, hay jóvenes que entran en el vértigo con las falsas ilusiones y terminan en la nada.
+
+Por eso, queridos amigos, nos hemos reunidos para ayudarnos unos a otros porque no queremos dejarnos robar lo mejor de nosotros mismos, no queremos permitir que nos roben las energías, que nos roben la alegría, que nos roben los sueños, con falsas ilusiones.
+
+Queridos amigos, les pregunto: ¿Quieren para sus vidas ese vértigo alienante o quieren sentir esa fuerza que los haga sentirse vivos, plenos? ¿Vértigo alienante o fuerza de la gracia? ‒«¿Qué quieren?: ¿Vértigo alienante o fuerza de plenitud?». ‒«Fuerza de plenitud». ‒«No se oye bien». ‒«Fuerza de plenitud». Para ser plenos, para tener vida renovada, hay una respuesta; hay una respuesta que no se vende ni se compra, una respuesta que no es una cosa, que no es un objeto, es una persona, se llama Jesucristo. Les pregunto: Jesucristo, ¿se puede comparar? ‒«No». Jesucristo, ¿se vende en las tiendas? ‒«No». Jesucristo es un don, un regalo del Padre, el don de nuestro Padre. ‒¿Quién es Jesucristo? Todos: ‒«Jesucristo es un don». ‒Todos: ‒«Es un don». ‒Es el regalo del Padre.
+
+Jesucristo es quien sabe darle verdadera pasión a la vida, Jesucristo es quien nos mueve a no conformarnos con poco y nos lleva a dar lo mejor de nosotros mismos; es Jesucristo quien nos cuestiona, nos invita y nos ayuda a levantarnos cada vez que nos damos por vencidos. Es Jesucristo quien nos impulsa a levantar la mirada y a soñar alto. «Pero padre ‒me puede decir alguno‒ es tan difícil soñar alto, es tan difícil subir, estar siempre subiendo. Padre, yo soy débil, yo caigo, yo me esfuerzo pero muchas veces me vengo abajo». Los alpinos, cuando suben una montaña, cantan una canción muy bonita, que dice así: «En el arte de subir, lo que importa no es no caer, sino no quedarse caído». Si tú eres débil, si tú caes, mira un poco en alto y verás la mano tendida de Jesús que te dice: ‒«levántate, ven conmigo». ‒«¿Y si lo hago otra vez?» ‒También. ‒«¿Y si lo hago otra vez?» ‒También. Pedro preguntó una vez al Señor: «Señor, ¿Cuántas veces?» ‒«Setenta veces siete». La mano de Jesús está siempre tendida para levantarnos, cuando nosotros caemos. ¿Lo han entendido?: ‒«Sí».
+
+En el Evangelio hemos escuchado que Jesús, mientras se dirige a Jerusalén, se detiene en una casa ‒la de Marta, María y Lázaro‒ que lo acoge. De camino, entra en su casa para estar con ellos; las dos mujeres reciben al que saben que es capaz de conmoverse. Las múltiples ocupaciones nos hacen ser como Marta: activos, dispersos, constantemente yendo de acá para allá…; pero también solemos ser como María: ante un buen paisaje, o un video que nos manda un amigo al móvil, nos quedamos pensativos, en escucha. En estos días de la Jornada, Jesús quiere entrar en nuestra casa: en tu casa, en mi casa, en el corazón de cada uno de nosotros; Jesús verá nuestras preocupaciones, nuestro andar acelerado, como lo hizo con Marta… y esperará que lo escuchemos como María; que, en medio del trajinar, nos animemos a entregarnos a él. Que sean días para Jesús, dedicados a escucharnos, a recibirlo en aquellos con quienes comparto la casa, la calle, el club o el colegio.
+
+Y quien acoge a Jesús, aprende a amar como Jesús. Entonces él nos pregunta si queremos una vida plena. Y yo en su nombre les pregunto: ustedes, ¿ustedes quieren una vida plena? Empieza desde este momento por dejarte conmover. Porque la felicidad germina y aflora en la misericordia: esa es su respuesta, esa es su invitación, su desafío, su aventura: la misericordia. La misericordia tiene siempre rostro joven; como el de María de Betania sentada a los pies de Jesús como discípula, que se complace en escucharlo porque sabe que ahí está la paz. Como el de María de Nazareth, lanzada con su «sí» a la aventura de la misericordia, y que será llamada feliz por todas las generaciones, llamada por todos nosotros «la Madre de la Misericordia». Invoquémosla todos juntos. Todos: María, Madre de la Misericordia.
+
+Entonces, todos juntos, le pedimos al Señor ‒cada uno repita en silencio en su corazón‒: Señor lánzanos a la aventura de la misericordia. Lánzanos a la aventura de construir puentes y derribar muros (cercos y alambradas), lánzanos a la aventura de socorrer al pobre, al que se siente solo y abandonado, al que ya no le encuentra sentido a su vida. Lánzanos a acompañar a aquellos que no te conocen y a decirles lentamente y con mucho respeto tu Nombre, el porqué de mi fe. Impúlsanos a la escucha, como María de Betania, de quienes no comprendemos, de los que vienen de otras culturas, otros pueblos, incluso de aquellos a los que tememos porque creemos que pueden hacernos daño. Haznos volver nuestro rostro, como María de Nazareth con Isabel, que volvamos nuestras miradas a nuestros ancianos, a nuestros abuelos, para aprender de su sabiduría. Yo les pregunto: ‒«¿Hablan ustedes con sus abuelos?» ‒«Sí». ‒«Así, así...» Busquen a sus abuelos, ellos tienen la sabiduría de la vida y les dirán cosas que conmoverán su corazón.
+
+Aquí estamos, Señor. Envíanos a compartir tu Amor Misericordioso. Queremos recibirte en esta Jornada Mundial de la Juventud, queremos confirmar que la vida es plena cuando se la vive desde la misericordia, y que esa es la mejor parte, es la parte más dulce, es la parte que nunca nos será quitada. Amén.

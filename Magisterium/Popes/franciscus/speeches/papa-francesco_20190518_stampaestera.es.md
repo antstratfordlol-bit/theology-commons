@@ -1,0 +1,64 @@
+---
+id: francis-spe-20190518-stampaestera.es
+work: francis-spe-20190518-stampaestera
+title: "A los miembros de la Asociación de la Prensa Extranjera en Italia (18 de mayo de 2019)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2019-05-18
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2019/may/documents/papa-francesco_20190518_stampaestera.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20190518-stampaestera} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los miembros de la Asociación de la Prensa Extranjera en Italia (18 de mayo de 2019) {#francis-spe-20190518-stampaestera}
+## DISCURSO DEL SANTO PADRE FRANCISCO A LOS MIEMBROS DE LA ASOCIACIÓN DE PRENSA EXTRANJERA EN ITALIA
+
+*Sala Clementina\
+Sábado, 18 de mayo de 2019*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2019/5/18/stampaestera.html)\]
+
+*Queridos hermanos y hermanas:*
+
+Con mucho gusto os doy la bienvenida, junto con vuestras familias, unos días después de la celebración, en muchos países, del Día Mundial de las Comunicaciones. Agradezco a la Presidenta saliente, la Sra. Esma Çakir, y a la nueva Presidenta, la Sra. Patricia Thomas, por las palabras que me han dirigido.
+
+En primer lugar quiero deciros que valoro vuestro trabajo; la Iglesia os estima, incluso cuando metéis el dedo en la llaga, y tal vez la llaga está en la comunidad eclesial. El vuestro es un trabajo valioso porque contribuye a la búsqueda de la verdad, y solo la verdad nos hace libres. En este sentido, me gustaría repetir lo que dijo San [Juan Pablo II](http://w2.vatican.va/content/john-paul-ii/es.html) cuando visitó la sede de vuestra Asociación hace 31 años: «La Iglesia está de su lado. Sea cristiano o no, en la Iglesia siempre encontrará la correcta estima por su trabajo y el reconocimiento de la libertad de prensa» (17 de enero de 1988: *Insegnamenti* XI, 1 \[1988\], 135).
+
+El vuestro es un rol indispensable, y esto también os otorga una gran responsabilidad: requiere un cuidado particular por las palabras que usáis en vuestros artículos, por las imágenes que transmitís en vuestros servicios informativos, por todo lo que compartís en las redes sociales. Esta es la razón por la que hoy os renuevo una exhortación que se aplica a todos en la era digital: como dijo [Benedicto XVI](http://w2.vatican.va/content/benedict-xvi/es.html), a veces «los medios de comunicación tienden a hacernos sentir siempre “espectadores”, como si el mal concerniera solamente a los demás, y ciertas cosas nunca pudieran sucedernos a nosotros. En cambio, somos todos “actores” y, tanto en el mal como en el bien, nuestro comportamiento influye en los demás». (*[Discurso en la plaza de España](http://w2.vatican.va/content/benedict-xvi/es/speeches/2009/december/documents/hf_ben-xvi_spe_20091208_immacolata.html)*, 8 de diciembre de 2009: *Insegnamenti* V, 2 \[2009\], 672). Por lo tanto, os insto a trabajar de acuerdo con la verdad y la justicia, para que la comunicación sea realmente una herramienta para construir, no para destruir; para entenderse, no para enfrentarse; para dialogar, no para hacer un monólogo; para orientar, no para desorientar; para entenderse, no para malinterpretarse; para caminar en paz, no para sembrar odio; para dar voz a los que no tienen voz, no para ser el megáfono para los que gritan más fuerte.
+
+Me han impresionado las numerosas referencias a la humildad presentes en el discurso de vuestra Presidenta. Después de todo, vuestra sede está en *Via dell'Umiltà*. La humildad es una virtud esencial para la vida espiritual; pero diría que también puede ser un elemento fundamental de vuestra profesión. Algunos de vosotros podrían decirme: «Padre, en nuestro trabajo hay otras características que cuentan: profesionalidad, competencia, memoria histórica, curiosidad, habilidades de escritura, capacidad para investigar y hacer las preguntas correctas, velocidad de síntesis, capacidad para hacer comprensible al vasto público lo que está sucediendo...». Ciertamente. Sin embargo, la humildad puede ser la clave de vuestra actividad.
+
+Cada uno de nosotros sabe cuán difícil y cuánta humildad requiere la búsqueda de la verdad. Y cuánto más fácil es no hacer demasiadas preguntas, estar satisfecho con las primeras respuestas, simplificar, permanecer en la superficie, en la apariencia; conformarse con soluciones con descuento, que no conocen la fatiga de una investigación capaz de representar la complejidad de la vida real. La humildad de no saberlo todo antes es lo que impulsa la investigación. La presunción de saberlo todo es lo que la bloquea.
+
+Periodistas humildes no quiere decir mediocres, sino más bien conscientes de que a través de un artículo, un tuit, un directo en televisión o en radio, se puede hacer el bien, pero también, si no se es cuidadoso y escrupuloso, perjudicar a otros y, a veces, a comunidades enteras. Estoy pensando, por ejemplo, en cómo ciertos títulos «gritados» pueden crear una representación falsa de la realidad. Una rectificación siempre es necesaria cuando uno está equivocado, pero no es suficiente para restaurar la dignidad, especialmente en un momento en que, a través de Internet, la información falsa se puede propagar hasta el punto de parecer auténtica. Por eso, vosotros periodistas debéis considerar siempre el poder de la herramienta que tenéis a vuestra disposición y resistir a la tentación de publicar una noticia insuficientemente verificada.
+
+En un tiempo en el que muchos tienden a juzgar todo y a todos, la humildad también ayuda al periodista a no ser dominado por la prisa, a tratar de detenerse, a encontrar el tiempo necesario para comprender. La humildad nos acerca a la realidad y a los demás con una actitud de comprensión. El humilde periodista trata de conocer correctamente los hechos en su totalidad antes de contarlos y comentarlos. No nutre «un exceso de eslóganes que, en lugar de poner en movimiento el pensamiento, lo anulan» ([*Discurso a los gerentes, empleados y operadores de* tv*2000*](http://w2.vatican.va/content/francesco/es/speeches/2014/december/documents/papa-francesco_20141215_tv2000.html), 15 de diciembre de 2014). No construye estereotipos. No está satisfecho con las representaciones de conveniencia que representan a «los individuos como si fueran capaces de resolver todos los problemas o, por el contrario, como chivos expiatorios, de los cuales cumplir con toda responsabilidad» (*[ibíd](http://w2.vatican.va/content/francesco/es/speeches/2014/december/documents/papa-francesco_20141215_tv2000.html).*).
+
+En un tiempo en el que, especialmente en las redes sociales, pero no solo, muchos usan un lenguaje violento y despectivo, con palabras que lastiman y algunas veces destruyen a las personas, se trata, en cambio de calibrar el idioma y, como decía vuestro patrón, San Francisco de Sales en *Introduccion a la vida devota*, de usar la palabra como el cirujano usa el bisturí (cf. cap. XXIX). En una época de demasiadas palabras hostiles, en la que el hecho de hablar mal de los demás se ha convertido para muchos en un hábito, junto con el de clasificar a las personas, siempre se debe recordar que toda persona tiene su dignidad intangible, que nunca se le puede quitar. En un momento en el que muchos difunden noticias falsas, la humildad te impide vender la comida podrida de la desinformación y te invita a ofrecer el buen pan de la verdad.
+
+El periodista humilde es un periodista libre. Libre de condicionamiento. Libre de prejuicios, y por lo tanto valiente. ¡La libertad requiere coraje!
+
+He escuchado con dolor las estadísticas sobre los asesinatos de vuestros colegas mientras hacían su trabajo con coraje y dedicación en muchos países, para informar sobre lo que sucede en las guerras y las situaciones dramáticas que muchos de nuestros hermanos y hermanas viven en el mundo. La libertad de prensa y de expresión es un indicador importante del estado de salud de un país. No olvidemos que las dictaduras, una de las primeras medidas que toman, es eliminar la libertad de prensa o «disfrazarla», no dejar libre a la prensa. «Necesitamos un periodismo libre, al servicio de la verdad, del bien, de la justicia; un periodismo que ayude a construir la cultura del encuentro» (Pontifex Tuit, 3 de mayo de 2019). Necesitamos periodistas que estén del lado de las víctimas, del lado de los perseguidos, del lado de los excluidos, rechazados, discriminados. Hay necesidad de vosotros y de vuestro trabajo para ayudar a no olvidar muchas situaciones de sufrimiento, que a menudo no tienen la luz de los focos, o la tienen por un momento y luego regresan a la oscuridad de la indiferencia. Me viene a la mente y al corazón una pregunta que uno de vosotros me hizo hace tiempo: «¿Qué piensa de las guerras olvidadas?». Pero, ¿qué guerras olvidadas? Esas guerras que aún continúan, pero las personas se olvidan, no están en la agenda de los periódicos, en los medios de comunicación. Estad atentos: no olvidéis la realidad, porque ahora «el golpe ha pasado». No, la realidad continúa, continuamos nosotros. Este es un buen servicio. En concreto, las guerras olvidadas por la sociedad, pero que aún están en curso.
+
+Por eso quiero agradeceros por lo que hacéis. Porque nos ayudáis a no olvidar las vidas que son asfixiadas antes de que nazcan; aquellos que recién nacidos se extinguen por el hambre, las penurias, la falta de atención, las guerras; las vidas de niños soldados, las vidas de niños violados. Nos ayudáis a no olvidar a tantas mujeres y hombres perseguidos por su fe o su origen étnico. Me hago una pregunta: ¿quién está hablando hoy sobre los rohinyá? ¿Quién está hablando sobre los yazidíes hoy? Están olvidados y continúan sufriendo. Nos ayudáis a no olvidar que los forzados a abandonar su tierra no son un número, sino un rostro, una historia, un deseo de felicidad, desde calamidades, guerras, terrorismo, hambre y sed. Vuestra presidenta habló de los migrantes: no debemos olvidar este mediterráneo que se está convirtiendo en un cementerio.
+
+El periodista humilde y libre trata de contar el bien, aunque más a menudo es el mal lo que genera noticias. Lo que siempre me ha consolado en mi ministerio como obispo es descubrir cuánto bien hay entre nosotros, cuántas personas se sacrifican, incluso heroicamente, para ayudar a un padre o un hijo enfermo, cuántas personas participan en el servicio diario a los demás, cuántas tienden la mano en lugar de girarse hacia otro lado.
+
+Continuad también contando esa parte de la realidad que gracias a Dios sigue siendo la más extendida: la realidad de quienes no se rinden a la indiferencia, de quienes no huyen ante la injusticia, sino que construyen pacientemente en silencio. Hay un océano de bien sumergido que merece ser conocido y que fortalece nuestra esperanza. En esta historia, las mujeres están muy atentas, y me complace ver que la contribución de las mujeres está plenamente reconocida en vuestra Asociación. Las mujeres ven mejor y entienden mejor, porque sienten mejor.
+
+Para concluir, quisiera aseguraros que aprecio el compromiso con el que lleváis a cabo vuestro trabajo, que, vivido en un espíritu de servicio, se convierte en una misión. Durante mis viajes apostólicos puedo darme cuenta del esfuerzo que conlleva vuestro trabajo. Además, vivís lejos de vuestros países de origen y os toca ser un espejo del país en el que trabajáis, sabiendo cómo captar los aspectos positivos y negativos. Os invito a ser un espejo que sepa reflejar la esperanza, sembrar la esperanza. Yos deseo que seáis hombres y mujeres humildes y libres, que son los que dejan una buena huella en la historia.
+
+Os agradezco esta reunión. Os bendigo a vosotros, a vuestros seres queridos y vuestro trabajo. Y también vosotros, por favor, rezad por mí. Y me gustaría daros a todos la bendición. Sé que no todos vosotros sois creyentes, y por eso haré la bendición en silencio, para todos. Que Dios bendiga a todos, bendiga el corazón de todos. Amén.

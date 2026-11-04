@@ -1,0 +1,52 @@
+---
+id: b16-spe-20110228-pccs.es
+work: b16-spe-20110228-pccs
+title: "A los participantes en la Asamblea plenaria del Consejo Pontificio para las Comunicaciones Sociales (28 de febrero de 2011)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2011-02-28
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2011/february/documents/hf_ben-xvi_spe_20110228_pccs.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20110228-pccs} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los participantes en la Asamblea plenaria del Consejo Pontificio para las Comunicaciones Sociales (28 de febrero de 2011) {#b16-spe-20110228-pccs}
+## DISCURSO DEL SANTO PADRE BENEDICTO XVI A LOS PARTICIPANTES EN LA ASAMBLEA PLENARIA DEL CONSEJO PONTIFICIO PARA LAS COMUNICACIONES SOCIALES
+
+*Sala Clementina\
+Lunes 28 de febrero de 2011*
+
+*Eminencias,\
+excelencias,\
+queridos hermanos y hermanas:*
+
+Me alegra acogeros con ocasión de la plenaria del dicasterio. Saludo al presidente, monseñor Claudio Maria Celli, a quien agradezco sus amables palabras, a los secretarios, a los oficiales, a los consultores y a todo el personal.
+
+En el [Mensaje para la Jornada mundial de las comunicaciones sociales](https://www.vatican.va/content/benedict-xvi/es/messages/communications/documents/hf_ben-xvi_mes_20110124_45th-world-communications-day.html) de este año, invité a reflexionar sobre el hecho de que las nuevas tecnologías no sólo cambian el modo de comunicar, sino que están realizando una vasta transformación cultural. Se está desarrollando una nueva forma de aprender y de pensar, con oportunidades inéditas de entablar relaciones y construir comunión. Quiero ahora detenerme en el hecho de que el pensamiento y la relación se producen siempre en la modalidad del lenguaje, entendido naturalmente en sentido amplio, no sólo verbal. El lenguaje no es un simple revestimiento intercambiable y provisional de conceptos, sino el contexto vivo y palpitante en el que los pensamientos, las inquietudes y los proyectos de los hombres nacen a la conciencia y se plasman en gestos, símbolos y palabras. El hombre, por tanto, no sólo «usa», sino que en cierto sentido «habita» el lenguaje. En particular hoy, los que el concilio Vaticano II definió «maravillosos inventos de la técnica» (*[Inter mirifica](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_sp.html),* 1) están transformando el ambiente cultural, y esto requiere una atención específica a los lenguajes que se desarrollan en él. Las nuevas tecnologías «tienen la capacidad de pesar no sólo sobre los modos de pensar, sino también sobre los contenidos del pensamiento» (*[Aetatis novae](http://www.vatican.va/roman_curia/pontifical_councils/pccs/documents/rc_pc_pccs_doc_22021992_aetatis_sp.html),* 4).
+
+Los nuevos lenguajes que se desarrollan en la comunicación digital determinan, por lo demás, una capacidad más intuitiva y emotiva que analítica, orientan hacia una diversa organización lógica del pensamiento y de la relación con la realidad, a menudo privilegian la imagen y las conexiones hipertextuales. La tradicional distinción neta entre lenguaje escrito y oral, asimismo, parece difuminarse a favor de una comunicación escrita que toma la forma y la inmediatez de la oralidad. Las dinámicas propias de las «redes participativas» requieren, además, que la persona se involucre en lo que comunica. Cuando las personas se intercambian informaciones, ya están compartiéndose a sí mismas y su visión del mundo: se convierten en «testigos» de lo que da sentido a su existencia. Los riesgos que se corren, ciertamente, están a la vista de todos: la pérdida de la interioridad, la superficialidad en vivir las relaciones, la huida hacia la emotividad, el prevalecer de la opinión más convincente respecto al deseo de verdad. Y, sin embargo, esos riesgos son consecuencia de una incapacidad de vivir con plenitud y de forma auténtica el sentido de las innovaciones. Por eso es urgente la reflexión sobre los lenguajes desarrollados por las nuevas tecnologías. El punto de partida es la Revelación misma, que nos atestigua cómo Dios comunicó sus maravillas precisamente en el lenguaje y en la experiencia real de los hombres, «según la cultura propia de las diversas épocas» (*[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html),* 58), hasta la manifestación plena de sí mismo en el Hijo encarnado. La fe siempre penetra, enriquece, exalta y vivifica la cultura, y esta, a su vez, se hace vehículo de la fe, a la que ofrece el lenguaje para pensarse y expresarse. Es necesario, por tanto, hacerse oyentes atentos de los lenguajes de los hombres de nuestro tiempo, para estar atentos a la obra de Dios en el mundo.
+
+En este contexto, es importante el trabajo que lleva a cabo el Consejo pontificio para las comunicaciones sociales con el fin de profundizar la «cultura digital», estimulando y apoyando la reflexión para una mayor toma de conciencia sobre los retos que esperan a la comunidad eclesial y civil. No se trata solamente de expresar el mensaje evangélico en el lenguaje de hoy, sino que es preciso tener el valor de pensar de modo más profundo, como ha sucedido en otras épocas, la relación entre la fe, la vida de la Iglesia y los cambios que el hombre está viviendo. Es el compromiso de ayudar a quienes tienen responsabilidades en la Iglesia para que puedan entender, interpretar y hablar el «nuevo lenguaje» de los medios de comunicación en función pastoral (cf. *[Aetatis novae](http://www.vatican.va/roman_curia/pontifical_councils/pccs/documents/rc_pc_pccs_doc_22021992_aetatis_sp.html),* 2), en diálogo con el mundo contemporáneo, preguntándose: ¿Qué desafíos plantea a la fe y a la teología el llamado «pensamiento digital»? ¿Qué preguntas y exigencias?
+
+El mundo de la comunicación afecta a todo el universo cultural, social y espiritual de la persona humana. Si los nuevos lenguajes tienen impacto sobre el modo de pensar y de vivir, esto también atañe, de alguna forma, al mundo de la fe, a su inteligencia y su expresión. La teología, según una definición clásica, es inteligencia de la fe, y sabemos bien que la inteligencia, entendida como conocimiento reflexivo y crítico, no es ajena a los actuales cambios culturales. La cultura digital plantea nuevos desafíos a nuestra capacidad de hablar y de escuchar un lenguaje simbólico que hable de la trascendencia. Jesús mismo, al anunciar el Reino, supo utilizar elementos de la cultura y del ambiente de su tiempo: el rebaño, los campos, el banquete, las semillas, etc. Hoy estamos llamados a descubrir, también en la cultura digital, símbolos y metáforas significativas para las personas, que puedan servir de ayuda al hablar del reino de Dios al hombre contemporáneo.
+
+Hay que considerar también que la comunicación en los tiempos de los «nuevos medios de comunicación» conlleva una relación cada vez más estrecha y ordinaria entre el hombre y las máquinas, desde los ordenadores a los teléfonos móviles, por citar sólo los más comunes. ¿Cuáles serán los efectos de esta relación constante? Ya el Papa Pablo VI, refiriéndose a los primeros proyectos de automatización del análisis lingüístico del texto bíblico, indicó una pista de reflexión al preguntarse: «Este esfuerzo de infundir en instrumentos mecánicos el reflejo de funciones espirituales, ¿no se ennoblece y eleva a un servicio que toca lo sagrado? ¿Es el espíritu el que se hace prisionero de la materia, o no es quizás la materia, ya domada y obligada a cumplir leyes del espíritu, la que ofrece al propio espíritu un sublime homenaje?» (*Discurso al Centro de automatización del Aloisianum de Gallarate*, 19 de junio de 1964). En estas palabras se intuye el vínculo profundo con el espíritu al que la tecnología está llamada por vocación (cf. *[Caritas in veritate](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html#69),* 69).
+
+Es precisamente la llamada a los valores espirituales la que permitirá promover una comunicación verdaderamente humana: más allá de todo fácil entusiasmo o escepticismo, sabemos que esta es una respuesta a la llamada impresa en nuestra naturaleza de seres creados a imagen y semejanza del Dios de la comunión. Por esto la comunicación bíblica según la voluntad de Dios siempre está vinculada al diálogo y a la responsabilidad, como atestiguan, por ejemplo, las figuras de Abraham, Moisés, Job y los Profetas, y nunca a la seducción lingüística, como es en cambio el caso de la serpiente, o de incomunicabilidad y violencia, como en el caso de Caín. Entonces la contribución de los creyentes podrá servir de ayuda también para el mundo de los medios de comunicación, abriendo horizontes de sentido y de valor que la cultura digital no es capaz por sí sola de entrever y representar.
+
+En conclusión, quiero recordar, junto a muchas otras figuras de comunicadores, la del padre Matteo Ricci, protagonista del anuncio del Evangelio en China en la era moderna, de cuya muerte hemos celebrado el IV centenario. En su obra de difusión del mensaje de Cristo consideró siempre a la persona, su contexto cultural y filosófico, sus valores, su lenguaje, asumiendo todo lo positivo que se encontraba en su tradición, y ofreciendo animarlo y elevarlo con la sabiduría y la verdad de Cristo.
+
+Queridos amigos, os doy las gracias por vuestro servicio; lo encomiendo a la protección de la Virgen María y, a la vez que os aseguro mi oración, os imparto la bendición apostólica.

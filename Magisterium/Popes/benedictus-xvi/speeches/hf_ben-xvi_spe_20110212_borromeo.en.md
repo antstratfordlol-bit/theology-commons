@@ -1,0 +1,56 @@
+---
+id: b16-spe-20110212-borromeo.en
+work: b16-spe-20110212-borromeo
+title: "To participants in the General Assembly of the Priestly Fraternity of the Missionaries of St. Charles Borromeo (February 12, 2011)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2011-02-12
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/february/documents/hf_ben-xvi_spe_20110212_borromeo.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20110212-borromeo} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To participants in the General Assembly of the Priestly Fraternity of the Missionaries of St. Charles Borromeo (February 12, 2011) {#b16-spe-20110212-borromeo}
+## ADDRESS OF HIS HOLINESS BENEDICT XVI TO THE PRIESTLY FRATERNITY OF THE MISSIONARIES OF ST CHARLES BORROMEO
+
+*Clementine Hall\
+Saturday, 12 February 2011*
+
+*Dear Brothers and Friends,*
+
+I experience true joy at meeting you, priests and seminarians of the Fraternity of St Charles Borromeo who are reunited here on the occasion of the 25th anniversary of its birth. I greet and thank Mons. Massimo Camisasca, your Founder and Superior General, his Council, and all of you, parents and friends who are gathered round the community. In particular, I greet Archbishop Paolo Pezzi of Mother of God, Moscow, and Fr Julián Carrón, President of the Fraternity of Communion and Liberation, who express symbolically both the fruits and the root of the work of the Fraternity of St Charles. This moment reminds me of my long friendship with Mons. Luigi Giussani and witnesses to the fertility of his charism.
+
+On this occasion, I would like to answer two questions that our meeting suggests to me: what is the place of the ordained priesthood in the Church’s life? And what is the place of community life in the priestly experience? Your birth from the movement of Communion and Liberation and your vital reference to the ecclesial experience that it represents, place before our eyes a truth that has continued from the 19th century onwards to be reinforced especially clearly and that found a significant expression in the theology of the Second Vatican Council.
+
+I am referring to the fact that the Christian priesthood is not an end in itself. It was desired by Christ for the birth and life of the Church. Thus every priest can say to the faithful, paraphrasing St Augustine: *Vobiscum christianus, pro vobis sacerdos*. The glory and joy of the priesthood is to serve Christ and his Mystical Body.
+
+It is a most beautiful and unique vocation within the Church which makes Christ present, because it participates in the one and eternal Priesthood of Christ. The presence of priestly vocations is a reliable sign of the truth and vitality of a Christian community. In fact, God always calls, also to the priesthood. There is no true and fruitful growth in the Church without an authentic priestly presence that supports  and nourishes it.
+
+I am therefore grateful to all who devote their energies to the formation of priests and to the reform of priestly life. Like the whole Church, in fact, the priesthood also needs to be continuously renewed, rediscovering in Jesus’ life the most essential forms of its being.
+
+The different possible ways for this renewal cannot disregard certain indispensable elements. First of all, a profound education in meditation and prayer, experienced as a dialogue with the Risen Lord present in his Church. Secondly, a study of theology that makes it possible to encounter the Christian truths in the form of a synthesis linked to the life of the person and of the community; only a sapiential gaze can in fact grasp the power of faith to illuminate life and the world, leading continuously to Christ, Creator and Saviour.
+
+In the course of its brief but intense history the Fraternity of St Charles has emphasized the value of community life. I too have spoken of it on various occasions in my addresses, before and after being called to the Throne of Peter.
+
+“It is important for priests not to live off on their own somewhere, in isolation, but to accompany one another in small communities, to support one another, and so to experience, and constantly realize afresh, their communion in service to Christ and in renunciation for the sake of the Kingdom of Heaven” (*Light of the World*, Ignatius Press, San Francisco 2010 p. 149).
+
+The urgency of this moment is before our eyes. I am thinking, for example, of the shortage of priests. Community life is not first and foremost a strategy with which to respond to these needs. Nor is it, in itself, merely a form of assistance in the face of the human being’s loneliness and weakness. It can indeed be all this but only if fraternal life is conceived of and lived as a way of being immersed in the reality of communion. In fact community life is an expression of Christ’s gift which is the Church, and is prefigured in the apostolic community which brought forth priests. No priest actually administers something that is his own but he shares with his other brothers in a sacramental gift that comes directly from Jesus.
+
+Community life is therefore the expression of a form of assistance that Christ gives to our life by calling us, through the presence of brothers, to an ever deeper configuration to him. Living with others means accepting the need for one’s own continuous conversion and, especially, discovering the beauty of this journey, the joy of humility, of penance, but also of conversation, of mutual forgiveness and of reciprocal support. *Ecce quam bonum et quam iucundum habitare fratres in unum* (Ps 133, 1).
+
+No one can acquire the regenerating power of community life without prayer, without looking at the experience and teaching of the saints – and in a special way of the Fathers of the Church – or without a sacramental life lived faithfully. Unless one enters the eternal dialogue which the Son maintains with the Father in the Holy Spirit, no authentic community life is possible. We must be with Jesus in order to be able to be with others. This is the heart of the mission. In the company of Christ and of his brethren each priest can find the necessary energy to care for human beings, to shoulder the spiritual and material needs he encounters, to teach with words ever new, dictated by love, the eternal truths of the faith for which our contemporaries also thirst.
+
+Dear brothers and friends, may you continue to go all over the world to take to everyone the communion that is born from Christ’s Heart! May the experience of the Apostles with Jesus always be the beacon that illuminates your priestly life! As I encourage you to continue on the path marked out in these years, I willingly impart my Blessing to all the priests and seminarians of the Fraternity of St Charles, to the Missionary Sisters of St Charles and to their relatives and friends.

@@ -1,0 +1,72 @@
+---
+id: francis-aud-20240306.en
+work: francis-aud-20240306
+title: "General Audience of 6 March 2024 - Cycle of Catechesis. Vices and Virtues. 10. Pride"
+creator: "Franciscus PP."
+pope: Francis
+document-type: General audience (catechesis)
+url_date: 2024-03-06
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/audiences/2024/documents/20240306-udienza-generale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt"
+anchors: "{#francis-aud-20240306} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# General Audience of 6 March 2024 - Cycle of Catechesis. Vices and Virtues. 10. Pride {#francis-aud-20240306}
+POPE FRANCIS
+
+## GENERAL AUDIENCE
+
+*Saint Peter's Square\
+Wednesday, 6 March 2024*
+
+## \[[Multimedia](https://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2024/3/6/udienza-generale.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Cycle of Catechesis. Vices and Virtues. 10. *Pride
+
+*Dear brothers and sisters, good morning!*
+
+In our catechetical journey on vices and virtues, today we come to the last of the vices: *pride*. The ancient Greeks defined it with a word that could be translated as “excessive splendour”. Indeed, pride is self-exaltation, conceit, vanity. The term also appears in that series of vices that Jesus lists to explain that evil always comes from the heart of man (cf. *Mk* 7:22). The proud man is one who thinks he is much more than he really is; one who frets about being recognized as greater than others, always wants to see his own merits recognized, and despises others, deeming them inferior to himself.
+
+From this first description, we see how the vice of pride is very close to that of vainglory, which we presented last time. However, if vainglory is a disease of the human self, it is still a childish disease when compared to the havoc pride is capable of. In analyzing the follies of man, the monks of antiquity recognized a certain order in the sequence of evils: one begins with the greater sins, such as gluttony, and arrives at the more disturbing monsters. *Of all vices, pride is the great queen*. It is no accident that, in the Divine Comedy, Dante placed it in the very first level of purgatory: those who give in to this vice are far from God, and the correction of this evil requires time and effort, more than any other battle to which the Christian is called.
+
+In fact, within this evil lies the radical sin, the absurd claim to be like God. The sin of our first ancestors, recounted in the book of Genesis, is for all intents and purposes a sin of pride. The tempter tells them, “when you eat of it your eyes will be opened, and you will be like God” (*Gn* 3:5). Writers on spirituality are especially attentive in describing the consequences of pride in everyday life, to illustrate how it ruins human relationships, to point out how this evil poisons that feeling of fraternity that should instead unite men.
+
+Here then is the long list of symptoms that reveal a person’s succumbing to the vice of pride. It is an evil with an obvious physical appearance: the proud man is haughty, he has a “stiff neck,” that is, he has a stiff neck that does not bend. He is a man easily led to scornful judgment: with no reason, he passes irrevocable judgments on others, who seem to him hopelessly inept and incapable. In his haughtiness, he forgets that Jesus assigned us very few moral precepts in the Gospels, but on one of them he was uncompromising: never judge. You realize that you are dealing with a proud person when, on offering him a little constructive criticism, or making a completely harmless remark, he reacts in an exaggerated manner, as if someone had offended his majesty: he goes into a rage, shouts, interrupts relations with others in a resentful manner.
+
+There is little one can do with a person suffering from pride. It is impossible to talk to them, much less correct them, because ultimately they are no longer present to themself. One just has to be patient with them, because one day their edifice will collapse. An Italian proverb goes, “Pride goes on horseback and comes back on foot”. In the Gospels, Jesus deals with a lot of proud people, and he often exposed this vice even in people who hid it very well. Peter flaunts his full-throated faithfulness: “Even if everyone forsakes you, I will not!” (cf. *Mt* 26:33). Instead, he would soon be like the others, fearful in the face of death that he did not imagine could be so close. And so the second Peter, the one who no longer lifts his chin but weeps salty tears, will be healed by Jesus and will finally be fit to bear the burden of the Church. Before he flaunted a presumption that was better not flaunted; now he is a faithful disciple whom, as a parable says, the master can put “in charge of all his possessions” (*Lk* 12:44).
+
+Salvation comes through humility, the true remedy for every act of pride. In the *Magnificat*, Mary sings of the God who by his power scatters the proud in the sick thoughts of their hearts. It is useless to steal anything from God, as the proud hope to do, because after all he wants to give us everything. This is why the apostle James, to his community wounded by infighting originating in pride, writes, “God opposes the proud, but gives grace to the humble” (*Jas* 4:6).
+
+So, dear brothers and sisters, let us take advantage of this Lent to fight against our pride.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Special Greetings
+
+I extend a warm welcome to the English-speaking pilgrims and visitors taking part in today’s Audience, especially the groups from Wales, Denmark, Switzerland, Indonesia and the United States of America. Upon all of you and upon your families, I invoke the joy and peace of our Lord Jesus Christ. God bless you!
+
+Lastly as usual, my thoughts turn to young people, to the sick, to the elderly and to newlyweds. During this Season of Lent, continue courageously in your commitment to free yourselves from all that disguises your life, in order to return to God with all your heart. He loves us with an eternal love.
+
+Once again brothers and sisters, I renew my invitation to pray for the people who are suffering from the horror of war in Ukraine and in the Holy Land, and in other parts of the world. Let us pray for peace. Let us ask the Lord for the gift of peace!
+
+I offer my blessing to all of you.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Summary of the Holy Father's words
+
+Dear brothers and sisters: In our catechesis on the virtues and the vices, we now turn to pride, the first of the capital sins and, for the ancient writers, “the queen of all vices”. Indeed, the sin of pride hides an even greater sin: the absurd pretension to be like God. In Dante's Divine Comedy, the sin of pride is punished on the very first level of the mountain of purgatory; a sign of how difficult it is to overcome, as well as the distance it creates between us and God. Sooner or later, “pride comes before the fall,” and this can lead, by God’s grace, to a salutary humility. In the Magnificat, Mary sings of God who humbles the proud and exalts the lowly. Writing to his community that is wounded by infighting caused by pride, the apostle James echoes this stating, “God opposes the proud, but gives grace to the humble.”(Jas 4:6). May this Lenten season be an opportunity for us to conquer pride and embrace humility, so that we may draw ever closer to God and receive his grace in abundance.

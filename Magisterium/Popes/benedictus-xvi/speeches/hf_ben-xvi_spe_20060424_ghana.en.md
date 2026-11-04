@@ -1,0 +1,45 @@
+---
+id: b16-spe-20060424-ghana.en
+work: b16-spe-20060424-ghana
+title: "To the Bishops of the Episcopal Conference of Ghana on their «ad Limina» visit (April 24, 2006)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2006-04-24
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/april/documents/hf_ben-xvi_spe_20060424_ghana.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20060424-ghana} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Bishops of the Episcopal Conference of Ghana on their «ad Limina» visit (April 24, 2006) {#b16-spe-20060424-ghana}
+## ADDRESS OF HIS HOLINESS BENEDICT XVI TO THE BISHOPS OF GHANA ON THEIR "AD LIMINA" VISIT
+
+*Monday* *24 April 2006*
+
+*Dear Brother Bishops,*
+
+In these days of joyful celebration of the Resurrection of our Lord and Saviour, I welcome you, the Bishops of Ghana, on the occasion of your pilgrimage to Rome for your visit ad Limina Apostolorum. Through you I offer my warm affection to the priests, Religious and lay faithful of your Dioceses. In a special way, I thank Bishop Lucas Abadamloora for the kind words of greeting he offered me on your behalf. I wish to recognize in particular Ghana's native son, Cardinal Peter Poreku Dery, who recently joined the ranks of the College of Cardinals, and I also take this opportunity to greet Cardinal Peter Turkson, Archbishop of Cape Coast. You have all come to Rome, this city where the Apostles Peter and Paul gave of themselves completely in imitation of Christ:  Peter just a short distance from where we are today and Paul along the Ostian way. As good and faithful servants of the Gospel, it is my constant prayer that, like the Princes of the Apostles, "God may make you worthy of his call, and may fulfil every good resolve and work of faith by his power, so that the name of our Lord Jesus Christ may be glorified in you, and you in him" (2 Th 1: 11-12).
+
+Your country has made great strides in recent years to deal with the scourge of poverty and to strengthen the economy. Notwithstanding this laudable progress, much still remains to be done to overcome this condition which impedes a large portion of the population. Extreme and widespread poverty often results in a general moral decline leading to crime, corruption, attacks on the sanctity of human life or even a return to the superstitious practices of the past. In this situation, people can easily lose trust in the future. The Church, however, shines forth as a beacon of hope in the life of the Christian. One of the most effective ways in which she does this is by helping the faithful gain a better understanding of the promises of Jesus Christ. Accordingly, there is a particular and pressing need for the Church, as a beacon of hope, to intensify her efforts to provide Catholics with comprehensive programmes of formation which will help them to deepen their Christian faith and thus enable them to take their rightful place both in the Church of Christ and in society.
+
+An essential part of any adequate formation process is the role of the lay catechist. It is appropriate, therefore, that I offer a word of gratitude to the many committed men and women who selflessly serve your local Church in this way. As Pope John Paul II noted in his Post-Synodal Apostolic Exhortation [Ecclesia in Africa](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_14091995_ecclesia-in-africa.html):  "in the midst of the Christian community the catechists' responsibility is to be acknowledged and held in respect" (cf. 91). I know that these faithful men and women are often impeded in their task by a lack of resources or hostile environments, and yet they remain undaunted messengers of Christ's joy. Mindful of how grateful local Churches are for the assistance offered by catechists, I encourage you and your priests to continue to do all you can to ensure that these evangelists receive the spiritual, doctrinal, moral and material support they require to carry out their mission properly.
+
+In many countries, including your own, young people constitute almost half of the population. The Church in Ghana is young. In order to reach out to today's youth it is necessary that the Church address their problems in a frank and loving way. A solid catechetical foundation will strengthen them in their Catholic identity and give them the necessary tools to confront the challenges of changing economic realities, globalization and disease. It will also assist them in responding to the arguments often put forward by religious sects. Consequently, it is important that future pastoral planning at both national and local levels carefully takes into account the needs of the young and tailors youth programmes to address these needs appropriately (cf. [Christifideles Laici](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html), 46).
+
+It is also the Church's task to assist Christian families to live faithfully and generously as true "domestic churches" (cf. [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 11). In fact, sound catechesis relies on the support of strong Christian families which are never selfish in character, constantly directed toward the other and founded upon the Sacrament of Matrimony. In reviewing your Quinquennial Reports, I noted that many of you are concerned about the proper celebration of Christian marriage in Ghana. I share your concern and therefore invite the faithful to place the Sacrament of Matrimony at the centre of their family life. While Christianity always seeks to respect the venerable traditions of cultures and peoples, it also seeks to purify those practices which are contrary to the Gospel. For this reason it is essential that the entire Catholic community continue to stress the importance of the monogamous and indissoluble union of man and woman, consecrated in holy matrimony. For the Christian, traditional forms of marriage can never be a substitute for sacramental marriage.
+
+The gift of self to the other is also at the heart of the Sacrament of Holy Orders. Those who receive this sacrament are configured in a particular way to Christ the Head of the Church. They are therefore called to give of themselves completely for the sake of their brothers and sisters. This can only happen when God's will is no longer seen as something imposed from without, but becomes "my own will based on the realization that God is in fact more deeply present to me than I am to myself" (cf. [Deus Caritas Est](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html), 17). The priesthood must never be seen as a way of improving one's social standing or standard of living. If it is, then priestly gift of self and docility to God's designs will give way to personal desires, rendering the priest ineffective and unfulfilled. I therefore encourage you in your continuous endeavours to ensure the suitability of candidates for the priesthood and to guarantee proper priestly formation for those who are studying for the sacred ministry. We must strive to help them discern Christ's will and nurture this gift so that they may become effective and fulfilled ministers of his joy.
+
+My dear Brothers, I am aware that this year is a special Jubilee for the Church in Ghana. In fact, just yesterday, April 23rd, was the Hundredth Anniversary of the arrival of missionaries in the northern part of your Country. It is my special prayer that missionary zeal will continue to fill you and your beloved people, strengthening you in your efforts to spread the Gospel. As you return to your homes, I ask that you take consolation from the words the Apostle Peter offered to the early Christians:  "Blessed be the God and Father of our Lord Jesus Christ! By his great mercy we have been born anew to a living hope through the resurrection of Jesus Christ from the dead" (1 Pt 1: 3). Commending your ministry to Mary, Queen of the Apostles, I cordially impart my Apostolic Blessing to you and to all those entrusted to your pastoral care.

@@ -1,0 +1,54 @@
+---
+id: francis-ang-20200413.en
+work: francis-ang-20200413
+title: "Regina Caeli, 13 April 2020, Easter Monday"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Angelus / Regina Caeli
+url_date: 2020-04-13
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/angelus/2020/documents/papa-francesco_regina-coeli_20200413.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt"
+anchors: "{#francis-ang-20200413} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Regina Caeli, 13 April 2020, Easter Monday {#francis-ang-20200413}
+POPE FRANCIS
+
+## REGINA CAELI
+
+*Library of the Apostolic Palace\
+Easter Monday, 13 April 2020*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2020/4/13/regina-coeli.html)**\]
+
+Today, Easter Monday of the Angel, the joyous proclamation of Christ’s Resurrection resounds. The Gospel passage (cf. Mt 28:8-15) narrates that the frightened women, quickly left Jesus’ tomb which they had found empty. But Jesus himself appears to them on the way, saying: “Do not be afraid; go and tell my brethren to go to Galilee, and there they will see me” (v. 10). With these words, the Risen One entrusts the women with a missionary mandate for the Apostles. Indeed, they offered an admirable example of faithfulness, of dedication, and of love for Christ throughout the time of his public life, as well as during his passion. Now they are rewarded by him with this gesture of attention and predilection. The women always at the beginning: Mary at the beginning, women at the beginning.
+
+First, the women, then the disciples, and Peter in particular, bear witness to the reality of the resurrection. Jesus had foretold to them a number of times that, after his passion and cross, he would rise again. But the disciples had not understood because they were not yet ready. Their faith needed a leap in quality that could only be inspired by the Holy Spirit, the gift of the Risen One.
+
+At the beginning of the Book of the Acts of the Apostles, we hear Peter declare with frankness, courage and candour: “This Jesus God raised up, and of that we all are witnesses” (Acts 2:32). As if to say: “I put myself on the line for him. I give my life for him”: And later, he would give his life for him. From that moment on, the proclamation that Christ is risen has spread everywhere and has reached the four corners of the earth, becoming the message of hope for everyone. Jesus’ Resurrection tells us that death does not have the last word, but rather life does. In raising his Only-begotten Son, God the Father has fully manifested his love and his mercy for humanity of all time.
+
+If Christ has risen, it is possible to look with hope at every event of our existence, even the most difficult ones, those charged with anguish and uncertainty. This is the Easter message that we are called to proclaim with words, and above all through the witness of life. May this news resound in our homes and in our hearts: “Christ, my hope, has arisen!” (Easter Sequence). May this certainty strengthen the faith of every baptised person and above all, encourage those who are facing greater suffering and difficulty.
+
+May Mary, the silent witness of the death and resurrection of her son, Jesus, help us to believe strongly in this mystery of salvation: when it is welcomed with faith, it can change our lives. This is the Easter wish that I renew to each of you. I entrust it to her, our Mother, whom we now invoke with the prayer, the Regina Caeli.
+
+*After praying the Regina Caeli the Holy Father continued:*
+
+Dear brothers and sisters, we have heard that women proclaimed Jesus’ Resurrection to the disciples. Today I would like to call to mind the efforts that so many women are making in order to take care of others, even during this health crisis: women doctors, nurses, agents of law enforcement and prisons, employees in stores providing basic necessities…, and many mothers and sisters and grandmothers who are confined to their homes with their entire family, with children, the elderly, and the disabled. At times, they are at risk of enduring violence due to a living situation in which they bear a burden that is too heavy. Let us pray for them, so that the Lord may grant them strength, and our communities may support them together with their families. May the Lord give us the courage of women, to always go forward.
+
+This Easter week I would like to remember with closeness and affection all the countries that are being seriously affected by the coronavirus, some of them with large numbers of people infected and deceased, in particular Italy, the United States of America, Spain, France … the list is long. I pray for them. And do not forget that the Pope prays for you and is close to you.
+
+I renew my heartfelt Easter greetings to everyone. Let us remain united in prayer and in the commitment to help each other as brothers and sisters.
+
+Enjoy your lunch. *Arrivederci*!

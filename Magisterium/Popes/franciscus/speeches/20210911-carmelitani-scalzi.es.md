@@ -1,0 +1,60 @@
+---
+id: francis-spe-20210911-carmelitani-scalzi.es
+work: francis-spe-20210911-carmelitani-scalzi
+title: "A los participantes en el Capítulo General de la Orden de los Carmelitas Descalzos (11 de septiembre de 2021)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2021-09-11
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2021/september/documents/20210911-carmelitani-scalzi.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, it, pt"
+anchors: "{#francis-spe-20210911-carmelitani-scalzi} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los participantes en el Capítulo General de la Orden de los Carmelitas Descalzos (11 de septiembre de 2021) {#francis-spe-20210911-carmelitani-scalzi}
+## DISCURSO DEL SANTO PADRE FRANCISCO A LOS PARTICIPANTES EN EL CAPÍTULO GENERAL DE LA ORDEN DE LOS CARMELITAS DESCALZOS
+
+*Sala Clementina\
+Sábado, 11 de septiembre de 2021*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2021/9/11/carmelitani-scalzi.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Queridos hermanos:*
+
+Me complace daros la bienvenida, aquí reunidos para el Capítulo General, procedentes de diferentes regiones del mundo, como representantes de los aproximadamente cuatro mil frailes que forman parte de vuestra Orden. Mi saludo se extiende también a ellos, así como a las monjas carmelitas descalzas y a todos los miembros de la familia carmelita, que en estos días siguen con la oración vuestros trabajos. Doy las gracias al nuevo Prior General por sus palabras, y al Prior General saliente por su servicio. Gracias.
+
+Habéis empezado el capítulo guiados por tres textos bíblicos muy significativos. Primero: escuchar lo que dice el Espíritu (cf. *Ap *2,7); segundo: discernir los signos de los tiempos (cf. *Mt* 16,3); tercero: ser testigos hasta los confines de la tierra (cf. *Hch *1,8).
+
+*Escuchar *es la actitud fundamental del discípulo, de quien se pone en la escuela de Jesús y quiere responder a lo que Él nos pide en este tiempo difícil pero siempre hermoso, porque es el tiempo de Dios. Escuchar al Espíritu, para poder *discernir* lo que viene del Señor y lo que es contrario a él y, de este modo, responder, a partir del Evangelio, responder a los signos de los tiempos a través de los cuales el Señor de la historia nos habla y se revela. La escucha y el discernimiento, en vista del *testimonio,* de la misión llevada a cabo a través del anuncio del Evangelio, tanto con las palabras como, sobre todo, con la vida.
+
+En este momento, cuando la pandemia nos ha hecho enfrentarnos a todos con tantos interrogantes y ha visto derrumbarse tantas seguridades estáis llamados, como hijos de santa Teresa, a cuidar vuestra fidelidad a los elementos perennes de vuestro carisma. Esta crisis, si tiene algo de bueno —y ciertamente lo tiene— es precisamente devolvernos a lo esencial, a no vivir distraídos por falsas seguridades. Este contexto también es favorable para que examinéis el estado de salud de vuestra Orden y alimentéis el fuego de vuestros orígenes.
+
+A veces alguien se pregunta cuál es el futuro de la vida consagrada; y algunos agoreros dicen que ese futuro es corto, que la vida consagrada se está acabando. Pero, queridos hermanos, estas opiniones pesimistas están destinadas a ser desmentidas, al igual que las que se refieren a la Iglesia misma, porque la vida consagrada es parte integrante de la Iglesia, de su carácter escatológico, de su genuinidad evangélica. La vida consagrada forma parte de la Iglesia tal como la quiso Jesús y como el Espíritu la genera continuamente. Por ello, debemos evitar la tentación de preocuparnos por la supervivencia, en lugar de vivir plenamente acogiendo la gracia del presente, incluso con los riesgos que ello conlleva.
+
+En la escuela de Cristo, se trata de ser fieles al presente y al mismo tiempo libres y abiertos al horizonte de Dios, inmersos en su misterio de amor. La vida carmelita es una vida contemplativa. Este es el don que el Espíritu ha otorgado a la Iglesia con santa Teresa de Jesús y san Juan de la Cruz, y luego con los santos carmelitas que son tantos. Fiel a este don, la vida carmelita es una respuesta a la sed del hombre contemporáneo, que en el fondo es sed de Dios, sed de eterno: y el hombre contemporáneo tantas veces no lo entiende, lo busca por doquier. La vida carmelita está al abrigo de psicologismos, espiritualismos o falsas actualizaciones que esconden un espíritu de mundanidad. Vosotros conocéis la tentación de los psicologismos, de los espiritualismos y de las actualizaciones mundanas: el espíritu de la mundanidad. Y en esto os pido, por favor: cuidado con la mundanidad espiritual, que es el peor mal que le puede pasar a la Iglesia. Cuando leí esto en las últimas páginas de la meditación del padre De Lubac sobre la Iglesia —leed las últimas cuatro páginas—no me lo podía creer: ¿Pero qué es —yo todavía estaba en Buenos Aires—, cómo es que pasa esto? ¿Qué es esta mundanidad espiritual? Es muy sutil, es muy sutil: entra y no lo notamos. El texto cita a un padre espiritual benedictino: De Lubac toma ese texto y dice: “Es el peor de los males que le pueden ocurrir a la Iglesia, de hecho, peor que el de la época de los Papas concubinarios”. También se lo dije a los claretianos el otro día: se ve que *L'Osservatore Romano* se asustó de este texto, que no es mío, es de De Lubac, y puso peor “que los *padres* concubinarios”: se asustó de la verdad, espero que *L'Osservatore *lo corrija bien. La mundanidad espiritual es terrible, se mete dentro de ti. Está en el Evangelio, como dijo Jesús, cuando habla de “demonios educados”, de “diablos educados”, porque Jesús dice así: Cuando el espíritu inmundo ha sido expulsado del alma de una persona empieza a vagar por lugares desiertos y entonces “se aburre”, “no tiene trabajo”, y dice: “volveré y veré cómo era aquella casa mía”. Vuelve y ve que todo está limpio, todo está en orden y, dice Jesús: “Va y toma siete demonios peores que él y entra. Y el final de ese hombre es peor que el principio”. Pero, ¿cómo entran estos siete demonios? No como ladrones, no: tocan el timbre, dan los buenos días y entran poco a poco, van entrando poco a poco y no te das cuenta de que se han apoderado de tu casa. Este es el espíritu de la mundanidad. Entra poco a poco, entra incluso en la oración, entra. Mucho cuidado con esto. Es el peor mal que le puede pasar a la Iglesia y, si no me creéis, leed las cuatro últimas páginas de la Meditación sobre la Iglesia del padre De Lubac. Guardaos de la mundanidad espiritual.
+
+Recordemos que la fidelidad evangélica no es estabilidad de lugar, sino estabilidad de corazón; que no consiste en rechazar el cambio, sino en hacer los cambios necesarios para cumplir lo que el Señor nos pide, aquí y ahora. Por eso, la fidelidad exige un compromiso firme con los valores del Evangelio y del propio carisma, y la renuncia a lo que impide dar lo mejor de uno mismo al Señor y a los demás.
+
+En esta perspectiva, os animo a mantener unidas la amistad con Dios, la vida fraterna en comunidad y la misión, como leemos en los documentos preparatorios de vuestro Capítulo. La amistad con el Señor es, para Santa Teresa, vivir en comunión con él; no es sólo rezar, sino hacer de la vida una oración; es caminar —como dice su Regla— “*in obsequio Iesu Christi”*, y hacerlo con alegría. Algo más que me gustaría destacar: la alegría. Es feo ver a los consagrados y consagradas con cara de velorio. Es feo, es feo. La alegría debe venir del interior: esa alegría que es paz, expresión de amistad. Otra cosa que puse en la Exhortación sobre la santidad: el sentido del humor. Por favor, no perdáis el sentido del humor. En *[Gaudete et exsultate](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html)* he incluido, en ese capítulo, una oración de santo Tomás Moro para pedir sentido del humor. Rezadla, os sentará bien. Siempre con esa alegría de los humildes, que aceptan las cosas normales y cotidianas de la vida para vivir con alegría. Con esta perspectiva, os animo a mantener ligadas la amistad con Dios, la vida fraterna en comunidad y la misión, como he dicho. La amistad con Dios madura en el silencio, en el recogimiento, en la escucha de la Palabra de Dios; es un fuego que hay que alimentar y custodiar día a día.
+
+El calor de este fuego interior también nos ayuda a practicar la *vida fraterna en comunidad.* No es un elemento accesorio, sino sustancial. Vuestro propio nombre os lo recuerda: “Hermanos descalzos”. Arraigados en vuestra relación con Dios, la Trinidad del Amor, estáis llamados a cultivar las relaciones en el Espíritu, en una sana tensión entre estar solos y estar con los demás, a contracorriente del individualismo y la masificación del mundo. El individualismo y la masificación. Vida comunitaria. La Santa Madre Teresa nos exhorta al “estilo de fraternidad”, “el estilo de hermandad”. Es un arte que se aprende día a día: ser una familia unida en Cristo, “hermanos descalzos de María”, con la Sagrada Familia de Nazaret y la comunidad apostólica como modelos. La Sagrada Familia de Nazaret: gracias por mencionar a san José, ¡no os olvidéis de él! En su época, uno de vosotros me regaló una estampita de san José con una oración, una humilde oración que dice: “Acéptame, como aceptaste a Jesús”. Hermosa oración, la rezo todos los días. Pedir a san José que nos acepte y nos haga progresar en la vida espiritual, que sea nuestro padre espiritual, como fue padre de Jesús y de la Sagrada Familia.
+
+Partiendo de la amistad con Dios y del estilo de la fraternidad, también estáis llamados a repensar vuestra misión, con creatividad y un decidido impulso apostólico, prestando mucha atención al mundo de hoy. Quisiera insistir en lo que ya he mencionado anteriormente: esta renovación de vuestra misión está inseparablemente ligada a la fidelidad a vuestra vocación contemplativa: buscad vosotros la forma de hacerlo, pero está ligada. No debéis imitar la misión de otros carismas, sino ser fieles al vuestro, para dar al mundo lo que el Señor os ha dado para el bien de todos, es decir, el agua viva de la contemplación. La contemplación no es una evasión de la realidad, un encierro en un oasis protegido, sino una apertura del corazón y de la vida a la fuerza que verdaderamente transforma el mundo, es decir, el amor de Dios. Fue en una prolongada oración solitaria donde Jesús recibió el impulso para “partir” su vida cada día entre la gente. Y lo mismo ocurre con los hombres y mujeres santos: la generosidad y el coraje de su apostolado son fruto de su profunda unión con Dios.
+
+Queridos hermanos, la armonía entre estos tres elementos: amistad con Dios, vida fraterna y misión, es una meta fascinante, capaz de motivar vuestras decisiones presentes y futuras. Que el Espíritu —es Él quien crea la armonía—ilumine y guíe vuestros pasos en este camino. Que la Santísima Virgen os proteja y acompañe. Os bendigo de todo corazón. Por favor, no os olvidéis de rezar por mí, me hace falta. Gracias.
+
+*[Boletín de la Oficina de Prensa de la Santa Sede](https://press.vatican.va/content/salastampa/es/bollettino/pubblico/2021/09/11/carme.html)*, 11 de septiembre de 2021.

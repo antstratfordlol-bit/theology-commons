@@ -1,0 +1,56 @@
+---
+id: francis-ang-20140720.en
+work: francis-ang-20140720
+title: "Angelus, 20 July 2014"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Angelus / Regina Caeli
+url_date: 2014-07-20
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/angelus/2014/documents/papa-francesco_angelus_20140720.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pt"
+anchors: "{#francis-ang-20140720} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 20 July 2014 {#francis-ang-20140720}
+POPE FRANCIS
+
+## ANGELUS
+
+*St. Peter's Square\
+Sunday, 20 July 2014*
+
+## [Video](http://player.rv.va/vaticanplayer.asp?language=it&tic=VA_QMZ1L6Z4){target="_blank"}
+
+*Dear Brothers and Sisters, Good morning,*
+
+These Sundays the liturgy proposes several Gospel *parables*, that is, short stories which Jesus used to announce the Kingdom of Heaven to the crowds. Among those in today’s Gospel, there is a rather complex one which Jesus explained to the disciples: it is that of *the good grain and the weed*, which deals with *the problem of evil* in the world and calls attention to *God’s patience* (cf. Mt 13:24-30, 36-43). The story takes place in a field where the owner sows grain, but during the night his enemy comes and sows weed, a term which in Hebrew derives from the same root as the name “Satan” and which alludes to the concept of division. We all know that the demon is a “sower of weed”, one who always seeks to sow division between individuals, families, nations and peoples. The servants wanted to uproot the weed immediately, but the field owner stopped them, explaining that: “in gathering the weeds you root up the wheat along with them” (Mt 13:29). Because we all know that a weed, when it grows, looks very much like good grain, and there is the risk of confusing them.
+
+The teaching of the parable is twofold. First of all, it tells that the evil in the world *comes not from God but from his enemy, the evil one*. It is curious that the evil one goes at night to sow weed, in the dark, in confusion; he goes where there is no light to sow weed. This enemy is astute: he sows evil in the middle of good, thus it is impossible for us men to distinctly separate them; but God, in the end, will be able to do so.
+
+And here we arrive at the second theme: the juxtaposition of the impatience of the servants and the *patient waiting* of the field owner, who represents God. At times we are in a great hurry to judge, to categorize, to put the good here, the bad there.... But remember the prayer of that self-righteous man: “God, I thank you that I am good, that I am not like other men, malicious” (cf. Lk 18:11-12). God, however, knows how to wait. With patience and mercy he gazes into the “field” of life of every person; he sees much better than we do the filth and the evil, but he also sees the seeds of good and waits with trust for them to grow. God is patient, he knows how to wait. This is so beautiful: our God is a patient father, who always waits for us and waits with his heart in hand to welcome us, to forgive us. He always forgives us if we go to him.
+
+The field owner’s attitude is that of hope grounded in the certainty that evil does not have the first nor the last word. And it is thanks to this *patient hope* of God that the same weed, which is the malicious heart with so many sins, in the end can become good grain. But be careful: evangelical patience is not indifference to evil; one must not confuse good and evil! In facing weeds in the world the Lord’s disciple is called to imitate the patience of God, to nourish hope with the support of indestructible trust in the final victory of good, that is, of God.
+
+In the end, in fact, evil will be removed and eliminated: at the time of harvest, that is, of judgment, the harvesters will follow the orders of the field owner, separating the weed to burn it (cf. Mt 13:30). On the day of the final harvest, *the judge will be Jesus*, He who has sown good grain in the world and who himself became the “*grain of wheat*”, who died and rose. In the end we will all be judged by the same measure with which we have judged: *the mercy we have shown to others will also be shown to us*. Let us ask Our Lady, our Mother, to help us to grow in patience, in hope and in mercy with all brothers and sisters.
+
+## After the Angelus:
+
+*Dear brothers and sisters,*
+
+I received with concern the news of the Christian communities in Mosul, Iraq, and in other parts of the Middle East, where they have lived from the beginning of Christianity with their fellow citizens, offering a meaningful contribution to the good of society. Today they are persecuted; our brothers and sisters are persecuted, they are pushed out, forced to leave their homes without the opportunity to take anything with them. To these families and to these people I would like to express my closeness and my steadfast prayer. Dearest brothers and sisters so persecuted, I know how much you suffer, I know that you are deprived of everything. I am with you in your faith in Him who conquered evil! And to you, here in the Square and to the many who are watching us on television, I address a call to remember these Christian communities in your prayers. I also urge you to persevere in prayer for the situations of tension and conflict that persist in different parts of the world especially in the Middle East and Ukraine.
+
+May God of peace create in all an authentic desire for dialogue and reconciliation. Violence is not conquered with violence. Violence is conquered with peace! Let us pray in silence, asking for peace; everyone, in silence.... Mary Queen of peace, pray for us!
+
+I address a cordial greeting to all of you, pilgrims coming from Italy and from other countries. I greet the choir of the Diocese of Killala, Ireland, the Blessed Sisters of Divine Providence and the Sisters of Charity of St Joan Antida, the faithful of Pescara and Villanova in Padua, the youth of Messina and the children who are guests during the summer holiday at Tivoli. Please, do not forget to pray for me. To all I wish a happy Sunday and a good lunch. *Arrivederci*!

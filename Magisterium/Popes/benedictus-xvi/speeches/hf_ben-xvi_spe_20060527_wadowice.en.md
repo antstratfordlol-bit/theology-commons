@@ -1,0 +1,49 @@
+---
+id: b16-spe-20060527-wadowice.en
+work: b16-spe-20060527-wadowice
+title: "Apostolic voyage in Poland: Meeting with the faithful at Rynek Square in Wadowice (May 27, 2006)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2006-05-27
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/may/documents/hf_ben-xvi_spe_20060527_wadowice.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#b16-spe-20060527-wadowice} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Apostolic voyage in Poland: Meeting with the faithful at Rynek Square in Wadowice (May 27, 2006) {#b16-spe-20060527-wadowice}
+PASTORAL VISIT\
+OF HIS HOLINESS POPE BENEDICT XVI\
+IN POLAND
+
+## GREETING OF THE HOLY FATHER
+
+## MEETING WITH THE PEOPLE
+
+*Wadowice, Rynek Square, 27 May 2006*
+
+## In the footsteps of  John Paul II, a witness of faith
+
+*Beloved Brothers and Sisters,*
+
+I am filled with emotion in the birthplace of my great Predecessor, the Servant of God John Paul II, in this town of his childhood and young adult life. Indeed, I could not leave out Wadowice as I make this pilgrimage in Poland following in his footsteps. I wished to stop precisely here, in the place where his faith began and matured, to pray together with all of you that he may soon be elevated to the glory of the altars. Johann Wolfgang von Goethe, the great German poet, said: “He who wishes to understand a poet, should visit his native land.”  This is also true for those who wish to understand the life and ministry of John Paul II; it is necessary to come to the city of his birth. He himself confessed that here, in Wadowice, “everything began: life, studies, the theatre and the priesthood” (Wadowice, 16 June 1999).
+
+John Paul II, returning to his beginnings, often referred to a sign: that of the baptismal font, to which he himself gave special veneration in the Church of Wadowice.  [In 1979, during his first pilgrimage in Poland](http://www.vatican.va/holy_father/john_paul_ii/travels/sub_index1979/trav_poland-1979.htm) he stated: “In this baptismal font, on 20 June 1920, I was given the grace to become a son of God, together with faith in my Redeemer, and I was welcomed into the community of the Church.  I have already solemnly kissed this baptismal font in the year of the millennium of the Baptism of Poland, when I was Archbishop of Kraków.  I kissed it again on the fiftieth anniversary of my baptism, when I was a Cardinal, and today I kiss this baptismal font for the third time, as I come from Rome as the Successor of Saint Peter” (Wadowice, 7 June 1979).  It seems that in these words of John Paul II is contained the key to understanding the consistency of his faith, the radicalism of his Christian life and the desire for sanctity that he continuously manifested. Here is the profound awareness of divine grace, the unconditional love of God for man, that by means of water and the Holy Spirit places the Catechumen among the multitude of his children, who are redeemed by the Blood of Christ. The way of an authentically Christian life equals faithfulness to the promises of holy Baptism.  The watchword of this pilgrimage: “Stand firm in your faith”, finds in this place its concrete dimension that can be expressed with the exhortation: “Stand firm in the observance of your baptismal promises.”  A witness of just such a faith – of whom this place speaks in a very special way – is the Servant of God John Paul II.
+
+My great Predecessor indicated the Basilica of Wadowice, his home parish, as a place of particular importance for the development of his spiritual life and the priestly vocation that was manifesting itself within him.  He once stated: “In this church I made my first Confession and received my first Holy Communion. Here I was an altar boy.  Here I gave thanks to God for the gift of the priesthood and, as Archbishop of Kraków, I celebrated the twenty-fifth anniversary of my ordination to the priesthood.  God alone, the giver of every grace, knows what goodness and what manifold graces I received from this church and from this parish community. To him, the Triune God, I give glory today at the doors of this church” ([Wadowice, 16 June 1999](https://www.vatican.va/content/john-paul-ii/en/travels/documents/hf_jp-ii_hom_19990616_wadowice.html)).  The church is a sign of the communion of believers united by the presence of God who dwells in their midst.  This community is the Church Pope John Paul II loved.  His love for the Church was born in the parish of Wadowice. In it he experienced the sacramental life, evangelization and the formation of a mature faith. For this reason, as a priest, as a bishop and as Pope, he treated parochial communities with such great care.  In the spirit of that same solicitude, during the visit *ad limina Apostolorum*, I asked the Polish Bishops to do everything possible to ensure that the Polish parish would truly be an “ecclesial community” and a “family of the Church”.
+
+In conclusion, let me recall once again a characteristic of the faith and spirituality of John Paul II, which is united to this place. He himself remembered many times the deep attachment of the inhabitants of Wadowice to the local image of Our Lady of Perpetual Help and the custom of daily prayer in front of her by the school children. This memory helps us arrive at the source of the conviction that nourished John Paul II – the conviction regarding the exceptional place that the Mother of God had in his life, a conviction that he himself, filled with devotion, expressed in the motto “Totus tuus”.  Until the last moments of his earthly pilgrimage he remained faithful to this dedication.
+
+In the spirit of this devotion, before this image I wish to give thanks to God for the Pontificate of John Paul II and, like him, I ask that Our Lady watch over the Church which by the will of God has been entrusted to me to guide. I also ask all of you, dear brothers and sisters, to pray for me just as you prayed for your great fellow countryman. From the depths of my heart, I bless all of you present here today and all those who come to Wadowice to draw from the font of the spirit of faith of John Paul II.

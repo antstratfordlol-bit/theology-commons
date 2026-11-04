@@ -1,0 +1,51 @@
+---
+id: jp2-spe-19921114-amb-belize.en
+work: jp2-spe-19921114-amb-belize
+title: "To the new Ambassador of Belize to the Holy See (November 14, 1992)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1992-11-14
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/november/documents/hf_jp-ii_spe_19921114_amb-belize.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en"
+anchors: "{#jp2-spe-19921114-amb-belize} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the new Ambassador of Belize to the Holy See (November 14, 1992) {#jp2-spe-19921114-amb-belize}
+## ADDRESS OF HIS HOLINESS JOHN PAUL II TO THE NEW AMBASSADOR OF BELIZE TO THE HOLY SEE
+
+*Saturday, 14 November 1992*
+
+*Mr. Ambassador*,
+
+I am pleased to welcome you to the Vatican and to accept the Letters accrediting you as Ambassador Extraordinary and Plenipotentiary of Belize to the Holy See. I am grateful for the greetings which you have brought from Her Excellency the Governor–General and from the Prime Minister, and I ask you to convey to them and to all your fellow–citizens the expression of my good wishes that Belize, having begun its second decade as an independent and sovereign State, will always enjoy the blessings of freedom, prosperity and peace.
+
+You have referred to your country’s commitment to fostering unity, understanding and democratic harmony in all aspects of national life. As I sought to emphasize during my visit to Belize in 1983, members of different religious traditions have their own role to play in building a society which reflects "God’s design for a world where justice, freedom and mutual respect are the authentic expression of a civilization of love" (John Paul II, *[Address of John Paul II to the Authorities of Belize](https://www.vatican.va/content/john-paul-ii/en/speeches/1983/march/documents/hf_jp-ii_spe_19830309_autorita-belize.html)*, 1). A spirit of constructive dialogue and cooperation between all people of good will–both believers and those who profess no religion–is essential for building a society which proposes to serve the integral good of each of its members and to promote their active involvement in every aspect of civic life. Social questions have a profound ethical and moral dimension which must not be overlooked in determining public policy and concrete programmes of development. In this respect, the religious life of a nation is a fundamental factor of its authentic human progress.
+
+Like many countries which have recently gained full independence, Belize is striving for a balanced and truly human model of development, one which will provide for the present needs of its people while laying the foundations for stable economic growth in the future. These two aspects of development remain inseparable: as recent changes in the international order have clearly demonstrated, a purely economic or materialistic understanding of development, one which fails to take into consideration the spiritual needs and aspirations of individuals and peoples, is ultimately incapable of building a just and peaceful society. Genuine development must take into account the full range of the needs of each member of society and the demands of the common good, within the framework of an effective solidarity that transcends merely individual, national or regional interests. Working for the authentic development of peoples must furthermore be recognized as "an imperative which obliges each and every man and woman, as well as societies and nations" (John Paul II, *[Sollicitudo Rei Socialis](http://www.vatican.va/edocs/ENG0223/__P5.HTM)*, 32).
+
+Belize has much to contribute to the important work of fostering reconciliation and peace throughout Central America. Your nation’s commitment to democratic principles can be a source of encouragement to other societies which are striving to establish a social order favouring individual initiative, respect for the rule of law, and concern for the poor and needy, the refugee and the stranger.
+
+The Church in Belize, for her part, wishes to contribute to the growth of society through her various educational and charitable institutions. Inspired by faith in Christ, Catholics seek to be a source of harmony in your country’s multi ethnic society and to bring the wisdom of the Gospel to bear upon the challenges facing the nation.
+
+Mr. Ambassador, as you assume your new responsibilities I offer you my prayerful good wishes and I assure you of the willing cooperation of the various offices of the Roman Curia. Upon yourself and upon all the beloved people of Belize I cordially invoke the abundant blessings of Almighty God.
+
+\**Insegnamenti di Giovanni Paolo II*, vol. XV, 2 pp. 598-600.
+
+*L'Attività della Santa Sede 1*992 p. 737-738.
+
+*L’Osservatore Romano* 15.11.1992 p.12.
+
+L'Osservatore Romano. Weekly edition in English n.47 p.8.

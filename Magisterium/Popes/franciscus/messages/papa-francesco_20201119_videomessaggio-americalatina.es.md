@@ -1,0 +1,55 @@
+---
+id: francis-mes-20201119-videomessaggio-americalatina.es
+work: francis-mes-20201119-videomessaggio-americalatina
+title: "Videomensaje del Santo Padre a los participantes en el Seminario virtual 'América Latina: Iglesia, Papa Francisco y escenarios de la pandemia' [19-20 de noviembre de 2020] (19 de noviembre de 2020)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Message
+url_date: 2020-11-19
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/messages/pont-messages/2020/documents/papa-francesco_20201119_videomessaggio-americalatina.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "es, fr, it"
+anchors: "{#francis-mes-20201119-videomessaggio-americalatina} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Videomensaje del Santo Padre a los participantes en el Seminario virtual "América Latina: Iglesia, Papa Francisco y escenarios de la pandemia" [19-20 de noviembre de 2020] (19 de noviembre de 2020) {#francis-mes-20201119-videomessaggio-americalatina}
+## VIDEOMENSAJE DEL SANTO PADRE FRANCISCO A LOS PARTICIPANTES EN EL SEMINARIO VIRTUAL "AMÉRICA LATINA: IGLESIA, PAPA FRANCISCO Y ESCENARIOS DE LA PANDEMIA"
+
+Jueves, 19 de noviembre de 2020
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2020/11/19/videomessaggio-americalatina.html)\]
+
+Saludo a los participantes en este Seminario virtual titulado: «América Latina: Iglesia, Papa Francisco y los escenarios de la pandemia», cuyo objetivo es reflexionar y analizar la situación de pandemia del Covid-19 en América Latina, sus consecuencias y, sobre todo, las posibles líneas de acción y ayuda solidaria a desarrollar por todos los que forman parte y entretejen la belleza y la esperanza del continente. Agradezco a los organizadores por esta iniciativa y auguro que pueda inspirar caminos, despertar procesos, crear alianzas e impulsar todos los mecanismos necesarios para garantizar una vida digna a nuestros pueblos, especialmente a los más excluidos, a través de la vivencia de la fraternidad y la construcción de la amistad social. Cuando digo los más excluidos, no digo, no lo digo como diciendo dar la limosna a los más excluidos, o como un gesto de beneficencia, no, sino como clave hermenéutica. De allá tenemos que empezar, de toda periferia humana, de toda, si no empezamos de allá nos vamos a equivocar. Y esta quizás es la primera depuración del pensamiento que tenemos que hacer.
+
+La pandemia del Covid amplificó y puso en mayor evidencia los problemas y las injusticias socio-económicos que ya afectaban gravemente a Latinoamérica toda y con mayor dureza a los más pobres.
+
+Ante las desigualdades y la discriminación, que aumentan la brecha social, se suman las difíciles condiciones en las que se encuentran los enfermos, y muchas familias que atraviesan tiempos de incertidumbre, y sufren situaciones de injusticia social. Y esto se evidencia al constatar que no todos cuentan con los recursos necesarios para llevar adelante las mínimas medidas de protección contra el Covid-19: techo seguro donde poder cumplir el distanciamiento social, agua, recursos sanitarios para higienizarse y desinfectar los ambientes, trabajo estable que garantice el acceso a los beneficios, por nombrar los más imprescindibles. Creo que esto tenemos que grabarlo mucho. Es ser concreto. No sólo como medida de protección —como mencioné recién—, sino como hechos que nos tienen que alarmar. ¿Todos tienen techo seguro? ¿Todos tienen acceso al agua? ¿Tienen recursos para higienizarse y desinfectar los ambientes? ¿Tienen trabajo estable? La pandemia hizo aún más visible nuestras vulnerabilidades preexistentes.
+
+Estoy pensando también en este momento, en los hermanos y hermanas que además de sufrir el embate de la pandemia, ven con tristeza que el ecosistema de su entorno está en serio peligro por los incendios forestales que destruyen extensas zonas como el pantanal, la amazonia, que son el pulmón de América Latina y del mundo.
+
+Somos conscientes de que los efectos devastadores de la pandemia los seguiremos viviendo por mucho tiempo, sobre todo en nuestras economías, que requieren atención solidaria y propuestas creativas para alivianar el peso de la crisis. En el Reino de Dios, que inicia ya en este mundo, el pan llega a todos y sobra, la organización social se basa en el contribuir, compartir y distribuir, no en el poseer, excluir y acumular. Estas dos ternas, creo que tienen que marcar un poco el ritmo de nuestro pensamiento. En el Reino de Dios el pan llega a todos y sobra; y la organización social se basa en el contribuir, compartir y distribuir, no en el poseer, excluir y acumular. Por ello, todos estamos llamados, individual y colectivamente, a realizar nuestro trabajo o misión con responsabilidad, con transparencia y con honestidad.
+
+La pandemia ha dejado ver lo mejor y lo peor de nuestros pueblos y lo mejor y lo peor de cada persona. Ahora, más que nunca, es necesario retomar la conciencia de nuestra pertenencia común. El virus nos recuerda que la mejor forma de cuidarnos es aprendiendo a cuidar y proteger a los que tenemos al lado: conciencia de barrio, conciencia de pueblo, conciencia de región, conciencia de casa común. Sabemos que junto con la pandemia del Covid-19, existen otros malestares sociales —la falta de techo, la falta de tierra y la falta de trabajo, las famosas tres “T”— que marcan como el nivel y estos requieren una respuesta generosa y una atención inmediata.
+
+Ante este sombrío panorama, los pueblos latinoamericanos nos enseñan que son pueblos con alma que supieron enfrentar con valentía las crisis y supieron engendrar voces que gritando en el desierto allanaron los caminos del Señor (cf. *Mc* 1,3). Por favor, ¡no nos dejemos robar la esperanza! El camino de la solidaridad como justicia es la mejor expresión de amor y de cercanía. De esta crisis, podemos salir mejores, y así lo han testimoniado tantas hermanas y hermanos nuestros en la entrega cotidiana de su vida y en las iniciativas que el Pueblo de Dios fue generando.
+
+Hemos visto «la fuerza operante del Espíritu derramada y plasmada en valientes y generosas entregas» (*[Momento extraordinario de oración en tiempos de epidemia](http://www.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2020/3/27/uniti-in-preghiera.html)*, 27 marzo 2020). En este punto me dirijo también a quienes ejercen responsabilidades políticas y me permito, una vez más, convocar para rehabilitar la política, que «es una altísima vocación, que es una de las formas más preciosas de la caridad, porque busca el bien común». Como dije en la reciente Encíclica *[Fratelli tutti](http://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html)*: «Reconocer a cada ser humano como un hermano o una hermana y buscar una amistad social que integre a todos no son meras utopías. Exigen la decisión y la capacidad para encontrar los caminos eficaces que las hagan realmente posibles. Cualquier empeño en esta línea se convierte en un ejercicio supremo de la caridad. Porque un individuo puede ayudar a una persona necesitada, pero cuando se une a otros para generar procesos sociales de fraternidad, procesos sociales de justicia para todos, entra en “el campo de la más amplia caridad, la caridad política”. Se trata de avanzar hacia un orden social y político cuya alma sea la caridad social» (*[Fratelli tutti](http://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html#180)*, 180).
+
+Y esto nos pide a todos aquellos que tenemos una función de liderazgo aprender el arte del encuentro y no propiciar ni avalar o utilizar mecanismos que hagan de la grave crisis una herramienta de carácter electoral o social. La profundidad de la crisis reclama proporcionalmente la altura de la clase política dirigente capaz de levantar la mirada y dirigir y orientar las legítimas diferencias en la búsqueda de soluciones viables para nuestros pueblos. El desprestigio del otro lo único que logra es dinamitar la posibilidad de encontrar acuerdos que ayuden a aliviar en nuestras comunidades, pero principalmente a los más excluidos, los efectos de la pandemia. Y nosotros tenemos en América Latina, no sé en todo, pero en gran parte de América Latina, tenemos una habilidad muy grande para progresar en el desprestigio del otro. ¿Quién paga ese proceso de desprestigio? Lo paga el pueblo, progresamos en el desprestigio del otro a costa de los más pobres, a costa del pueblo. Es tiempo que la nota distintiva de aquellos que fueron ungidos por sus pueblos para gobernarlos sea el servicio al bien común y no que el bien común sea puesto al servicio de sus intereses. Todos conocemos las dinámicas de la corrupción que va por este lado. Y esto vale también para los hombres y mujeres de Iglesia; porque las internas eclesiásticas son una verdadera lepra que enferma y mata el Evangelio.
+
+Los invito a que, impulsados por la luz del Evangelio, continúen saliendo junto a todas las personas de buena voluntad en busca de los que claman por ayuda, a la manera del buen samaritano, abrazando a los más débiles y construyendo —está muy desgastada la expresión, pero la voy a decir igual— construyendo una nueva civilización, pues, «el bien, como también el amor, la justicia y la solidaridad, no se alcanzan de una vez para siempre; han de ser conquistados cada día» (*[Fratelli tutti](http://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html#11)*, 11).
+
+Frente a estos grandes desafíos, pidámosle a la Guadalupana que nuestra tierra latinoamericana no se desmadre, es decir: que no pierda la memoria de su madre. Que la crisis lejos de separarnos nos ayude a recuperar y valorar la conciencia de ese mestizaje común que nos hermana y nos vuelve hijos de un mismo Padre.
+
+Una vez más nos hará bien recordar que la unidad es superior al conflicto. Que su manto, su manto de Madre y de Mujer, nos cobije en un solo pueblo que, luchando por la justicia, pueda decir: «Socorrió a Israel, su servidor, acordándose de su misericordia, como lo había prometido a nuestros padres» (*Lc* 1,54-55). Muchas gracias.

@@ -1,0 +1,47 @@
+---
+id: b16-spe-20110514-pom.es
+work: b16-spe-20110514-pom
+title: "A los participantes en la Asamblea general de las Obras Pontificias Misionales (14 de mayo de 2011)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2011-05-14
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2011/may/documents/hf_ben-xvi_spe_20110514_pom.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20110514-pom} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los participantes en la Asamblea general de las Obras Pontificias Misionales (14 de mayo de 2011) {#b16-spe-20110514-pom}
+## DISCURSO DEL SANTO PADRE BENEDICTO XVI A LOS PARTICIPANTES EN LA ASAMBLEA ORDINARIA DEL CONSEJO SUPERIOR DE LAS OBRAS MISIONALES PONTIFICIAS
+
+*\
+Sala Clementina\
+Sábado 14 de mayo de 2011*
+
+*Señor cardenal,\
+venerados hermanos en el episcopado y en el sacerdocio,\
+queridos hermanos y hermanas:*
+
+Ante todo quiero expresar mi cordial saludo al nuevo prefecto de la Congregación para la evangelización de los pueblos, monseñor Fernando Filoni, al que agradezco de corazón las palabras que me ha dirigido en nombre de todos. A esto añado un deseo ferviente de ministerio fructífero. Al mismo tiempo, expreso mi profunda gratitud al cardenal Ivan Dias por el servicio generoso y ejemplar que ha prestado en el dicasterio misionero y a la Iglesia universal durante estos años. Que el Señor siga guiando con su luz a estos dos trabajadores fieles de su viña. Saludo al secretario monseñor Savio Hon Tai-Fai; al secretario adjunto monseñor Piergiuseppe Vacchelli, presidente de las Obras misionales pontificias; a los colaboradores de la Congregación y a los directores nacionales de las Obras misionales pontificias, que han llegado a Roma desde las diversas Iglesias particulares para la asamblea anual ordinaria del Consejo superior. Una cordial bienvenida a todos.
+
+Queridos amigos, con vuestra valiosa obra de animación y cooperación misionera recordáis al pueblo de Dios «la necesidad en nuestro tiempo de un compromiso decidido en la *missio ad gentes*» (*[Verbum Domini](https://www.vatican.va/content/benedict-xvi/es/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html),* 95), para anunciar la «gran esperanza», «el Dios que tiene un rostro humano y que nos ha amado hasta el extremo, a cada uno en particular y a la humanidad en su conjunto» (*[Spe salvi](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html),* 31). De hecho, nuevos problemas y nuevas esclavitudes emergen en nuestro tiempo, tanto en el llamado primer mundo, acomodado y rico pero incierto sobre su futuro, como en los países emergentes donde, también a causa de una globalización a menudo caracterizada por el lucro, acaban por aumentar las masas de los pobres, de los emigrantes y de los oprimidos, en quienes se debilita la luz de la esperanza. La Iglesia debe renovar constantemente su compromiso de llevar a Cristo, de prolongar su misión mesiánica para la venida del reino de Dios, reino de justicia, de paz, de libertad y de amor. Transformar el mundo según el proyecto de Dios con la fuerza renovadora del Evangelio, «para que Dios sea todo en todos» (*1 Co* 15, 28), es tarea de todo el pueblo de Dios. Por consiguiente, es necesario continuar con renovado entusiasmo la obra de evangelización, el anuncio gozoso del reino de Dios, que vino en Cristo por la fuerza del Espíritu Santo, para llevar a los hombres a la verdadera libertad de los hijos de Dios contra toda forma de esclavitud. Es necesario lanzar las redes del Evangelio en el mar de la historia para conducir a los hombres hacia la tierra de Dios.
+
+«La misión de anunciar la Palabra de Dios es un cometido de todos los discípulos de Jesucristo, como consecuencia de su bautismo» (*[Verbum Domini](https://www.vatican.va/content/benedict-xvi/es/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html),* 94). Pero para que se dé un decidido compromiso en la evangelización, es necesario que tanto los cristianos individualmente como las comunidades crean de verdad que «la Palabra de Dios es la verdad salvadora que todo hombre necesita en cualquier época» (*ib.*, 95). Si esta convicción de fe no está profundamente arraigada en nuestra vida, no podremos sentir la pasión y la belleza de anunciarla. En realidad, cada cristiano debería hacer propia la urgencia de trabajar para la edificación del reino de Dios. Todo en la Iglesia está al servicio de la evangelización: cada sector de su actividad y también cada persona, en las distintas tareas que está llamada a realizar. Todos deben participar en la misión *ad gentes*: obispos, presbíteros, religiosos y religiosas, laicos. «Ningún creyente en Cristo puede sentirse ajeno a esta responsabilidad que proviene de su pertenencia sacramental al Cuerpo de Cristo» (*ib.*, 94). Por lo tanto, se debe prestar especial cuidado para garantizar que todas las áreas de la pastoral, de la catequesis y de la caridad se caractericen por la dimensión misionera: la Iglesia es misión.
+
+Una condición fundamental para el anuncio es dejarse aferrar completamente por Cristo, Palabra de Dios encarnada, porque sólo quien escucha con atención al Verbo encarnado, quien está íntimamente unido a él, puede anunciarlo (cf. *ib.*, 51; 91). El mensajero del Evangelio debe permanecer bajo el dominio de la Palabra y alimentarse de los sacramentos, pues de esta linfa vital dependen su existencia y su ministerio misionero. Sólo quien está profundamente arraigado en Cristo y en su Palabra es capaz de no ceder a la tentación de reducir la evangelización a un proyecto puramente humano, social, escondiendo o callando la dimensión trascendente de la salvación ofrecida por Dios en Cristo. Es una Palabra que debe ser testimoniada y proclamada de forma explícita, porque sin un testimonio coherente resulta menos comprensible y creíble. Aunque a menudo nos sentimos inadecuados, pobres, incapaces, mantenemos siempre la certeza en el poder de Dios, que pone su tesoro en «vasos de barro» precisamente para que se vea que es él quién actúa a través de nosotros.
+
+El ministerio de la evangelización es fascinante y exigente: requiere amor al anuncio y al testimonio, un amor total que puede verse marcado incluso por el martirio. La Iglesia no puede faltar a su misión de llevar la luz de Cristo, de proclamar el anuncio gozoso del Evangelio, aunque ello conlleve la persecución (cf. *[Verbum Domini](https://www.vatican.va/content/benedict-xvi/es/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html),* 95). Es parte de su misma vida, como lo fue para Jesús. Los cristianos no deben sentir temor, aunque «son actualmente el grupo religioso que sufre el mayor número de persecuciones a causa de su fe» (*[Mensaje para la Jornada mundial de la paz de 2011](https://www.vatican.va/content/benedict-xvi/es/messages/peace/documents/hf_ben-xvi_mes_20101208_xliv-world-day-peace.html),* n. 1: *L’Osservatore Romano,* edición en lengua española, 19 de diciembre de 2010, p. 2). San Pablo afirma que «ni muerte, ni vida, ni ángeles, ni principados, ni presente, ni futuro, ni potencias, ni altura, ni profundidad, ni ninguna otra criatura podrá separarnos del amor de Dios manifestado en Cristo Jesús, nuestro Señor» (*Rm* 8, 38-39).
+
+Queridos amigos, os agradezco el trabajo de animación y formación misionera que, como directores nacionales de las Obras misionales pontificias, lleváis a cabo en vuestras Iglesias locales. Las Obras misionales pontificias, que mis predecesores y el concilio Vaticano II han promovido y alentado (cf. *[Ad gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_sp.html),* 38), siguen siendo un instrumento privilegiado para la cooperación misionera y para un provechoso intercambio del personal y de los recursos financieros entre las Iglesias. Además, no se debe olvidar el apoyo que las Obras misionales pontificias ofrecen a los colegios pontificios, aquí en Roma, donde, elegidos y enviados por sus obispos, se forman sacerdotes, religiosos y laicos para las Iglesias locales de los territorios de misión. Vuestra obra es valiosa para la edificación de la Iglesia, destinada a ser la «casa común» de toda la humanidad. Que el Espíritu Santo, el protagonista de la misión, nos guíe y nos sostenga siempre, por la intercesión de María, Estrella de la evangelización y Reina de los Apóstoles. A todos vosotros y a vuestros colaboradores imparto de corazón mi bendición apostólica.

@@ -1,0 +1,68 @@
+---
+id: francis-aud-20140326.en
+work: francis-aud-20140326
+title: "General Audience of 26 March 2014"
+creator: "Franciscus PP."
+pope: Francis
+document-type: General audience (catechesis)
+url_date: 2014-03-26
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/audiences/2014/documents/papa-francesco_20140326_udienza-generale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt"
+anchors: "{#francis-aud-20140326.N} — numbered paragraphs 1..5 (5 anchors), shared with francis-aud-20140326.es; and {#francis-aud-20140326.prooem} — the text the page prints before its first numbered unit, under a heading minted for it (the dei-filius.prooem precedent)"
+anchor_check: "MISMATCH: en: 5 anchors to 5; es: 0 anchors to 0; prooem: MISMATCH: en: present; es: none"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# General Audience of 26 March 2014
+POPE FRANCIS
+
+## GENERAL AUDIENCE
+
+*St. Peter's Square\
+Wednesday, 26 March 2014*
+
+## [Video](http://player.rv.va/vaticanplayer.asp?language=it&tic=VA_3M6Z9DTZ){target="_blank"}
+
+*Dear Brothers and Sisters*,
+
+### Proem {#francis-aud-20140326.prooem}
+
+We have already had occasion to point out that the three Sacraments of Baptism, Confirmation and the Eucharist together constitute the mystery of “Christian initiation”, a single great event of grace that regenerates us in Christ. This is the fundamental vocation which unites everyone in the Church as disciples of the Lord Jesus. There are then two Sacraments which correspond to two specific vocations: Holy Orders and Matrimony. They constitute two great paths by which the Christian can make his life a gift of love, after the example and in the name of Christ, and thus cooperate in the building up of the Church.
+
+Holy Orders, in its three grades of bishop, priest and deacon, is the Sacrament that enables a man to exercise the ministry which the Lord Jesus entrusted to the Apostles, to shepherd his flock, in the power of his Spirit and according to his Heart. Tending Jesus’ flock not by the power of human strength or by one’s own power, but by the Spirit’s and according to his Heart, the Heart of Jesus which is a heart of love. The priest, the bishop, the deacon must shepherd the Lord’s flock with love. It is useless if it is not done with love. And in this sense, the ministers who are chosen and consecrated for this service extend Jesus’ presence in time, if they do so by the power of the Holy Spirit, in God’s name and with love.
+
+### 1 {#francis-aud-20140326.1}
+
+A first aspect. Those who are ordained are placed *at the* *head of the community*. They are “at the head”, yes, but for Jesus this means placing ones authority *at the service* \[of the community\], as Jesus himself showed and taught his disciples with these words: “You know that the rulers of the Gentiles lord it over them, and their great men exercise authority over them. It shall not be so among you; but whoever would be great among you must be your servant, and whoever would be first among you must be your slave; even as the Son of man came not to be served but to serve, and to give his life as a ransom for many” (Mt 20:25-28/Mk 10:42-45). A bishop who is not at the service of the community fails to perform his duty; a priest who is not at the service of his community fails to perform his duty, he errs.
+
+### 2 {#francis-aud-20140326.2}
+
+Another characteristic which also derives from this sacramental union with Christ is a *passionate love for the Church*. Let us think of that passage from the Letter to the Ephesians in which St Paul states that Christ “loved the Church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, that he might present the Church to himself in splendour, without spot or wrinkle or any such thing” (5:25-27). Through Holy Orders the minister dedicates himself entirely to his community and loves it with all his heart: it is his family. The bishop and the priest love the Church in their own community, they love it greatly. How? As Christ loves the Church. St Paul will say the same of marriage: the husband is to love his wife as Christ loves the Church. It is a great mystery of love: this of priestly ministry and that of matrimony are two Sacraments, pathways which people normally take to go to the Lord.
+
+### 3 {#francis-aud-20140326.3}
+
+A final aspect. The Apostle Paul recommends to the disciple Timothy that he not neglect, indeed, that *he always rekindle the gift that is within him*. The gift that he has been given through the laying on of hands (cf. 1 Tim 4:14; 2 Tim 1:6). When the ministry is not fostered — the ministry of the bishop, the ministry of the priest — through prayer, through listening to the Word of God, through the daily celebration of the Eucharist and also through regularly going to the Sacrament of Penance, he inevitably ends up losing sight of the authentic meaning of his own service and the joy which comes from a profound communion with Jesus.
+
+### 4 {#francis-aud-20140326.4}
+
+The bishop who does not pray, the bishop who does not listen to the Word of God, who does not celebrate every day, who does not regularly confess — and the same is true for the priest who does not do these things — in the long run lose their union with Jesus and become so mediocre that they do not benefit the Church. That is why we must help bishops and priests to pray, to listen to the Word of God which is one’s daily nourishment, to celebrate the Eucharist each day and to confess regularly. This is so important precisely because it concerns the sanctification of bishops and priests.
+
+### 5 {#francis-aud-20140326.5}
+
+I would like to conclude with something which comes to mind: how does one become a priest, where is access to the priesthood sold? No. It is not sold. This is an initiative which the Lord takes. The Lord calls. He calls each of those whom he wills to become priests. Perhaps there are some young men present here who have heard this call in their hearts, the aspiration to become a priest, the desire to serve others in the things of God, the desire to spend one’s entire life in service in order to catechize, baptize, forgive, celebrate the Eucharist, heal the sick... the whole of one’s life in this way. If some of you have heard this call in your heart, it is Jesus who has placed it there. Pay attention to this invitation and pray that it might grow and bear fruit for the whole Church.
+
+## Greetings:
+
+I greet all the English-speaking pilgrims present at today’s Audience, including those from the United Kingdom, England, Australia, Denmark, Malta, China, Japan and the United States. Upon you and your families I invoke joy and peace in Christ our Lord.
+
+I address a special thought to the *young people*, *the* *sick,* and *newlyweds*. Yesterday we celebrated the Solemnity of the Annunciation of the Lord to the Virgin Mary. Dear *young people*, especially the scouts who are present, may you know how to listen to the will of God as Mary did; dear *sick*, may you not become discouraged in difficult times, knowing that the Lord never gives a cross that surpasses one’s strength; and may you, dear *newlyweds*, build your married life on the solid rock of God’s Word.

@@ -1,0 +1,54 @@
+---
+id: francis-ang-20150802.en
+work: francis-ang-20150802
+title: "Angelus, 2 August 2015"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Angelus / Regina Caeli
+url_date: 2015-08-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/angelus/2015/documents/papa-francesco_angelus_20150802.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pt"
+anchors: "{#francis-ang-20150802} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 2 August 2015 {#francis-ang-20150802}
+POPE FRANCIS
+
+## ANGELUS
+
+*Saint Peter's Square\
+Sunday, 2 August 2015*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2015/8/2/angelus.html)**\]
+
+*Dear Brothers and Sisters, Good morning!*
+
+This Sunday the Reading of Chapter Six of the Gospel according to John continues. After the multiplication of the loaves, the people went in search of Jesus and finally found him near Capernaum. He was well aware of the motive for their great enthusiasm in seeking him and he made this clear to them: “you seek me, not because you saw signs, but because you ate your fill of the loaves” (Jn 6:26). In fact, those people followed him for the material bread which had placated their hunger the previous day, when Jesus had performed the multiplication of the loaves; they had not understood that that bread, broken for so many, for the multitude, was *the expression of the love* of Jesus himself. They had given more meaning to that bread than to its donor. Before this spiritual blindness, Jesus emphasizes the necessity of going beyond the gift, to discover, come to know the donor. God himself is both the gift and the giver. Thus from that bread, from that gesture, the people can find the One who gives it, who is God. He invites them to open up to a perspective which is not only that of the daily need to eat, dress, achieve success, build a career. Jesus speaks of another food. He speaks of a food which is incorruptible and which is good to seek and gather. He exhorts: “Do not labor for the food which perishes, but for the food which endures to eternal life, which the Son of man will give to you” (v. 27). That is to say, seek salvation, the encounter with God.
+
+With these words, he seeks to make us understand that, in addition to physical hunger man carries within him another hunger — all of us have this hunger — a more important hunger, which cannot be satisfied with ordinary food. It is a hunger for life, a hunger for eternity which He alone can satisfy, as he is “the bread of life” (v. 35). Jesus does not eliminate the concern and search for daily food. No, he does not remove the concern for all that can make life more progressive. But Jesus reminds us that the true meaning of our earthly existence lies at the end, in eternity, it lies in the encounter with Him, who is gift and giver. He also reminds us that human history with its suffering and joy must be seen in a *horizon of eternity*, that is, in that horizon of the definitive encounter with Him. And this encounter illuminates all the days of our life. If we think of this encounter, of this great gift, the small gifts of life, even the suffering, the worries will be illuminated by the hope of this encounter. “I am the bread of life; he who comes to me shall not hunger, and he who believes in me shall never thirst” (v. 35). This refers to the Eucharist, the greatest gift that satisfies the soul and the body. Meeting and welcoming within us Jesus, “Bread of Life”, gives meaning and hope to the often winding journey of life. This “Bread of Life” is given to us with a task, namely, that we in our turn satisfy the spiritual and material hunger of our brothers, proclaiming the Gospel the world over. With the witness of our brotherly and solidary attitude toward our neighbour, we render Christ and his love present amid mankind.
+
+May the Blessed Virgin sustain us in the search and *sequela* of her Son Jesus, the true bread, the living bread which does not spoil, but which endures for eternal life.
+
+## After the Angelus:
+
+Dear brothers and sisters, I extend my greeting to all of you faithful of Rome and pilgrims from various countries.
+
+I greet the Spanish youth from Zizur Mayor, Elizondo and Pamplona; as well as Italian youth from Badia, San Matteo della Decima, Zugliano and Grumolo Pedemonte.
+
+I greet the pilgrimage on horseback of the “Parte Guelfa” Archconfraternity of Florence.
+
+Today we recall the “Forgiveness of Assisi”. It is a powerful summons to draw close to the Lord in the Sacrament of Mercy and also in receiving Communion. There are people who are afraid to go to Confession, forgetting that there we do not meet a strict judge, but the immensely merciful Father. It is true that when we enter the confessional we feel a little shame. This happens to everyone, to all of us, but we must remember that even this shame is a grace which prepares us for the embrace of the Father, who always forgives and always forgives everything.
+
+I wish you all a happy Sunday. Please, do not forget to pray for me. Enjoy your lunch. *Arrivederci*!

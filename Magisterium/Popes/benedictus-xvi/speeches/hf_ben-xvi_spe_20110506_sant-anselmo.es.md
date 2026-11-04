@@ -1,0 +1,51 @@
+---
+id: b16-spe-20110506-sant-anselmo.es
+work: b16-spe-20110506-sant-anselmo
+title: "A los participantes en un Congreso organizado por el Pontificio Ateneo San Anselmo con motivo del 50° aniversario de su fundación (6 de mayo de 2011)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2011-05-06
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2011/may/documents/hf_ben-xvi_spe_20110506_sant-anselmo.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20110506-sant-anselmo} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los participantes en un Congreso organizado por el Pontificio Ateneo San Anselmo con motivo del 50° aniversario de su fundación (6 de mayo de 2011) {#b16-spe-20110506-sant-anselmo}
+***DISCURSO DEL SANTO PADRE BENEDICTO XVI\
+AL INSTITUTO LITÚRGICO PONTIFICIO SAN ANSELMO**
+
+Sala Clementina\
+Viernes 6 de mayo de 2011*
+
+*Eminencias,\
+reverendo padre abad primado,\
+reverendo rector magnífico,\
+ilustres profesores,\
+queridos estudiantes:*
+
+Os acojo con alegría con ocasión del IX Congreso internacional de liturgia que celebráis en el ámbito del quincuagésimo aniversario de fundación del Instituto litúrgico pontificio. Os saludo cordialmente a cada uno, en particular al gran canciller, el abad primado dom Notker Wolf, y le doy las gracias por las amables palabras que me ha dirigido en nombre de todos vosotros.
+
+El beato [Juan XXIII](https://www.vatican.va/content/john-xxiii/es.html), recogiendo las instancias del movimiento litúrgico que pretendía dar nuevo impulso y nuevo respiro a la oración de la Iglesia, poco antes del [concilio Vaticano II](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index_sp.htm) y durante su celebración quiso que la Facultad de los benedictinos en el Aventino constituyera un centro de estudios y de investigación para asegurar una sólida base a la reforma litúrgica conciliar. En vísperas del Concilio, de hecho, era cada vez más viva en el campo litúrgico la urgencia de una reforma, postulada también por las peticiones realizadas por varios episcopados. Por otra parte, la fuerte exigencia pastoral que animaba al movimiento litúrgico requería que se favoreciera y suscitara una participación más activa de los fieles en las celebraciones litúrgicas a través del uso de las lenguas nacionales, y que se profundizara el tema de la adaptación de los ritos en las diversas culturas, especialmente en tierras de misión. Además, resultaba clara desde el principio la necesidad de estudiar más profundamente el fundamento teológico de la liturgia, para evitar caer en el ritualismo o favorecer el subjetivismo, el protagonismo del celebrante, y para que la reforma estuviera bien justificada en el ámbito de la Revelación y en continuidad con la tradición de la Iglesia. El Papa Juan XXIII, animado por su sabiduría y por espíritu profético, para acoger y responder a estas exigencias creó el Instituto litúrgico, al que quiso atribuir en seguida el apelativo de «pontificio» para indicar su vínculo peculiar con la Sede apostólica.
+
+Queridos amigos, el título elegido para el Congreso de este año jubilar es muy significativo: «El Instituto litúrgico pontificio, entre memoria y profecía». En lo que concierne a la memoria, debemos constatar los abundantes frutos suscitados por el Espíritu Santo en medio siglo de historia, y por esto damos gracias al Dador de todo bien, incluso a pesar de los malentendidos y los errores en la realización concreta de la reforma. ¿Cómo no recordar a los pioneros, presentes en el acto de fundación de la Facultad: dom Cipriano Vagaggini, dom Adrien Nocent, dom Salvatore Marsili y dom Burkhard Neunheuser, quienes, acogiendo las instancias del Pontífice fundador, se empeñaron, especialmente después de la promulgación de la constitución conciliar *[Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html),* en profundizar «el ejercicio de la misión sacerdotal de Jesucristo en la que, mediante signos sensibles, se significa y se realiza, según el modo propio de cada uno, la santificación del hombre y, así, el Cuerpo místico de Cristo, esto es, la cabeza y sus miembros, ejerce el culto público» (n. 7).
+
+Pertenece a la «memoria» la vida misma del Instituto litúrgico pontificio, que ha dado su contribución a la Iglesia comprometida en la recepción del Vaticano II, a lo largo de cincuenta años de formación litúrgica académica. Formación ofrecida a la luz de la celebración de los santos misterios, de la liturgia comparada, de la Palabra de Dios, de las fuentes litúrgicas, del magisterio, de la historia de las instancias ecuménicas y de una sólida antropología. Gracias a este importante trabajo formativo, un elevado número de doctorados y licenciados prestan ya su servicio a la Iglesia en varias partes del mundo, ayudando al pueblo santo de Dios a vivir la liturgia como expresión de la Iglesia en oración, como presencia de Cristo en medio de los hombres y como actualidad constitutiva de la historia de la salvación. De hecho, el documento conciliar pone en viva luz el doble carácter teológico y eclesiológico de la liturgia. La celebración realiza al mismo tiempo una epifanía del Señor y una epifanía de la Iglesia, dos dimensiones que se conjugan en unidad en la asamblea litúrgica, donde Cristo actualiza el misterio pascual de muerte y resurrección, y el pueblo de los bautizados bebe más abundantemente de las fuentes de la salvación. En la acción litúrgica de la Iglesia subsiste la presencia activa de Cristo: lo que realizó a su paso entre los hombres, sigue haciéndolo operante a través de su acción sacramental personal, cuyo centro es la Eucaristía.
+
+Con el término «profecía», la mirada se abre a nuevos horizontes. La liturgia de la Igleisa va más allá de la misma «reforma conciliar» (cf. *[Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html),* 1), que, de hecho, no tenía como finalidad principal cambiar los ritos y los textos, sino más bien renovar la mentalidad y poner en el centro de la vida cristiana y de la pastoral la celebración del misterio pascual de Cristo. Por desgracia, quizás también nosotros, pastores y expertos, tomamos la liturgia más como un *objeto* por reformar que como un *sujeto* capaz de renovar la vida cristiana, dado que «existe, en efecto, un vínculo estrechísimo y orgánico entre la renovación de la liturgia y la renovación de toda la vida de la Iglesia. La Iglesia (...) saca de la liturgia las fuerzas para la vida». Nos lo recuerda el beato Juan Pablo II en la *[Vicesimus quintus annus](https://www.vatican.va/content/john-paul-ii/es/apost_letters/1988/documents/hf_jp-ii_apl_19881204_vicesimus-quintus-annus.html)* (n. 4), donde la liturgia se presenta como *el corazón palpitante de toda actividad eclesial.* Y el siervo de Dios Pablo VI, refiriéndose al culto de la Iglesia, con una expresión sintética afirmaba: «De la *lex credendi* pasamos a la *lex orandi,* y esta nos lleva a la *lux operandi et vivendi*» (*Discurso en la ceremonia de la ofrenda de los cirios,* 2 de febrero de 1970: *L’Osservatore Romano*, 8 de febrero de 1970, p. 4).
+
+La liturgia, culmen hacia el que tiende la acción de la Iglesia y al mismo tiempo fuente de la que brota su virtud (cf. *[Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html),* 10), con su universo celebrativo se convierte así en la gran educadora en la primacía de la fe y de la gracia. La liturgia, testigo privilegiado de la Tradición viva de la Iglesia, fiel a su misión original de revelar y hacer presente en el *hodie* de las vicisitudes humanas la *opus Redemptionis,* vive de una relación correcta y constante entre *sana traditio* y *legitima progressio,* lúcidamente explicitada por la constitución conciliar en el número 23. Con estos dos términos, los padres conciliares quisieron expresar su programa de reforma, en equilibrio con la gran tradición litúrgica del pasado y el futuro. No pocas veces se contrapone de manera torpe tradición y progreso. En realidad, los dos conceptos se integran: la tradición es una realidad viva y por ello incluye en sí misma el principio del desarrollo, del progreso. Es como decir que el río de la tradición lleva en sí también su fuente y tiende hacia la desembocadura.
+
+Queridos amigos, confío en que esta Facultad de Sagrada Liturgia siga con renovado impulso su servicio a la Iglesia, con plena fidelidad a la rica y valiosa tradición litúrgica y a la reforma querida por el concilio Vaticano II, según las líneas maestras de la *[Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html)* y de los pronunciamientos del Magisterio. La liturgia cristiana es la liturgia de la promesa realizada en Cristo, pero también es la liturgia de la esperanza, de la peregrinación hacia la transformación del mundo, que tendrá lugar cuando Dios sea todo en todos (cf. *1 Co* 15, 28). Por intercesión de la Virgen María, Madre de la Iglesia, en comunión con la Iglesia celestial y con los patronos san Benito y san Anselmo, invoco sobre cada uno la bendición apostólica. Gracias.

@@ -1,0 +1,58 @@
+---
+id: francis-aud-20161116.en
+work: francis-aud-20161116
+title: "General Audience of 16 November 2016: 36. Bearing wrongs patiently"
+creator: "Franciscus PP."
+pope: Francis
+document-type: General audience (catechesis)
+url_date: 2016-11-16
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/audiences/2016/documents/papa-francesco_20161116_udienza-generale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt"
+anchors: "{#francis-aud-20161116} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# General Audience of 16 November 2016: 36. Bearing wrongs patiently {#francis-aud-20161116}
+POPE FRANCIS
+
+## GENERAL AUDIENCE
+
+*Saint Peter's Square\
+Wednesday, 16 November 2016*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2016/11/16/udienzagenerale.html)\]
+
+## 36. Bearing wrongs patiently
+
+*Dear Brothers and Sisters, Good morning!*
+
+We dedicate today’s catechesis to a work of mercy that we all know very well, but that perhaps we do not put into practice as we should: *bearing wrongs patiently*. We are all very good at identifying something that can be bothersome: it happens when we encounter someone on the street, or when we receive a phone call.... We immediately think: “How long will I have to listen to this person’s complaints, gossip, requests or boastings? It also happens, at times, that the bothersome people are those who are closest to us. There is always someone among our relatives; the workplace is not without them; not even in our free time are we spared. What are we supposed to do with people who annoy us? But often we also annoy others. Why was this also added among the works of mercy? *Bear wrongs patiently*.
+
+In the Bible we see that God himself must employ mercy in order to bear the lamentings of his people. For example, in the Book of Exodus the people become truly unbearable: first they cry because they are slaves in Egypt, and God frees them; then, in the desert, they complain because there is nothing to eat (cf. 16:3), and God sends them quails and manna (cf. 16:13-16), but nevertheless the complaints do not cease. Moses served as mediator between God and the people, and several times he too would have annoyed the Lord. But God had patience and thus he taught Moses and also the people this essential dimension of faith.
+
+Therefore a first question arises spontaneously: do we ever conduct an examination of conscience in order to see if we too, at times, might be annoying to others? It’s easy to point a finger against the faults and shortcomings of others, but we must learn to put ourselves in their shoes.
+
+Above all let us look to Jesus: how much patience he had to have in the three years of his public life! Once, while he was walking with his disciples, he was stopped by James and John’s mother, who said to him: “Command that these two sons of mine may sit, one at your right hand and one at your left, in your kingdom” (Mt 20:21). The mother was lobbying for her sons, but she was their mother.... Even from that situation Jesus is inspired to give a fundamental lesson: his is not a kingdom of power, it is not a kingdom of glory like those on earth, but of service and charitable giving to others. Jesus teaches to always go to the essential and to look further in order to accept our mission responsibly. Here we can see the reference to two other spiritual works of mercy: that of *admonishing sinners* and that of *instructing the ignorant*. Let us think about the great effort that can be made when we help people to grow in faith and in life. I think, for example, of catechists — among whom are many mothers and many women religious — who devote time to teaching young people the basic elements of the faith. How much effort, especially when the kids would prefer to play rather than listen to the catechism!
+
+To accompany in the search for the essential is beautiful and important, because it makes us share the joy of savouring the meaning of life. It often happens that we encounter people who linger on superficial, ephemeral and banal things; at times because they have never met anyone who spurs them to seek something else, to appreciate the true treasures. Teaching to look to the essential is a crucial help, especially in a time such as ours which seems to have lost its bearings and pursues short-lived satisfaction. Teaching to discover what the Lord wants from us and how we can correspond means setting out on the path to grow in our own vocation, the path of true joy. This is how Jesus’ words to James and John’s mother, and then to the whole group of disciples, points the way to avoid falling into envy, ambition and adulation, temptations which are always lurking even among us Christians. The need for counseling, admonition and teaching must not make us feel superior to others, but obligates us first and foremost to return to ourselves to verify whether we are coherent with what we ask of others. Let us not forget Jesus’ words: “Why do you see the speck that is in your brother’s eye, but do not notice the log that is in your own eye?” (Lk 6:41). May the Holy Spirit help us to be patient in bearing \[wrongs\], and humble and simple in giving counsel.
+
+## APPEAL
+
+Next Sunday, 20 November, *Universal Children’s Day* is being celebrated. I appeal to the conscience of all, institutions and families, that children may always be protected and their well-being be defended, so that they never fall into forms of slavery, into recruitment by armed groups or into mistreatment. I hope that the international community may watch over their life, guaranteeing to every girl and boy the right to school and to education, so that their growth may be peaceful and they may look confidently to the future.
+
+## Special greetings:
+
+I greet the English-speaking pilgrims and visitors taking part in today’s Audience, particularly those from Great Britain, Ireland, Denmark, Iceland, Malta, Nigeria, Indonesia, Malaysia, the Philippines, New Zealand, Canada and the United States of America. With prayerful good wishes that these final days of the Jubilee of Mercy will be a moment of grace and spiritual renewal for you and your families, I invoke upon all of you joy and peace in our Lord Jesus Christ.
+
+I extend a special greeting to *young people*, to *the sick* and to *newlyweds*. In the month of November the liturgy invites us to pray for the deceased. Let us not forget those who loved us and those who preceded us in the faith, as well as those whom no one remembers: the suffrage in the Eucharistic Celebration is the best spiritual help that we can offer their souls. Let us remember with particular affection the victims of the recent earthquake in central Italy: let us pray for them and for their families and let us continue to be in solidarity with those who have suffered losses.

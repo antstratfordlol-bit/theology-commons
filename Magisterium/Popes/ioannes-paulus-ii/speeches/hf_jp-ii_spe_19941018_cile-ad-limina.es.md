@@ -1,0 +1,85 @@
+---
+id: jp2-spe-19941018-cile-ad-limina.es
+work: jp2-spe-19941018-cile-ad-limina
+title: "A los obispos de la Conferencia Episcopal de Chile en visita «ad limina Apostolorum» (18 de octubre de 1994)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1994-10-18
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1994/october/documents/hf_jp-ii_spe_19941018_cile-ad-limina.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "es, it"
+anchors: "{#jp2-spe-19941018-cile-ad-limina.N} — numbered paragraphs 1..7 (7 anchors), shared with "
+anchor_check: "identical across es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los obispos de la Conferencia Episcopal de Chile en visita «ad limina Apostolorum» (18 de octubre de 1994)
+## DISCURSO DEL SANTO PADRE JUAN PABLO II A LOS OBISPOS DE LA CONFERENCIA EPISCOPAL DE CHILE EN VISITA «AD LIMINA APOSTOLORUM»
+
+*Martes 18 de octubre de 1994*
+
+*Queridos hermanos en el Episcopado*,
+
+### 1 {#jp2-spe-19941018-cile-ad-limina.1}
+
+Con gran gozo os saludo en “Jesucristo Señor nuestro, por quien recibimos la gracia y el apostolado, para predicar la obediencia de la fe a gloria de su nombre” (*Rom* 1, 4-5). La visita “ ad Limina ” me permite compartir vuestra solicitud pastoral y reforzar todavía más los estrechos vínculos que nos unen en la fe, en la oración y en la caridad. Con este espíritu, agradezco las deferentes palabras que Monseñor Fernando Ariztía, Obispo de Copiapó y Presidente de la Conferencia Episcopal, me ha dirigido en nombre de todos vosotros.
+
+Las relaciones quinquenales y los coloquios privados de estos días pasados me han permitido recordar con afecto a la Iglesia que peregrina en Chile, evocando en mi corazón los entrañables momentos de mi visita pastoral de 1987. Quiero expresaros mi aprecio por la abnegada labor que lleváis a cabo, dirigida sobre todo a suscitar el encuentro de cada hombre con el Dios vivo y verdadero. Mi reconocimiento se dirige asimismo a los sacerdotes, diáconos, religiosos, religiosas y laicos que colaboran eficazmente en la actividad misionera de la Iglesia.
+
+### 2 {#jp2-spe-19941018-cile-ad-limina.2}
+
+Con satisfacción he visto que las Orientaciones Pastorales para el período 1991-1994 llevan el sugestivo título de “Nueva Evangelización para Chile, Patria que amamos y servimos con el Evangelio del Señor”. La unidad mostrada en esa programación ofrece la imagen de un Episcopado atento a los signos de los tiempos que, con afecto colegial, se decide a escrutar y responder a los designios de Dios. De esta manera podéis conducir a vuestros fieles hacia *la santidad, vocación última de todo cristiano* (cf. *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_sp.html)*, 15). Estáis seriamente empeñados en esta tarea cuando señaláis que “es urgente acercar a los fieles a la palabra viva de Dios y ayudarlos a participar plenamente en la vida sacramental. Es también urgente renovar la vida de oración personal y comunitaria, y la capacidad de contacto profundo con el Señor. Y, de un modo especial, es necesario fomentar la participación activa en la liturgia. Así resonará en las comunidades y en cada uno de nosotros, el llamado radical a la santidad” (Conf. Epis. Chilena, *Orientaciones pastorales para el período 1991-1994*, 41, y 42.)
+
+Con el progreso vuestro País está afrontando nuevos desafíos: la cultura no siempre está exenta de la influencia del secularismo y de comportamientos contrarios a los principios éticos y a la dignidad de la persona humana. Vosotros mismos habéis llamado la atención sobre estos peligros. Por eso estáis convencidos de que la evangelización debe promover también los valores fundamentales de la vida, de la familia y de la solidaridad.
+
+### 3 {#jp2-spe-19941018-cile-ad-limina.3}
+
+El obispo debe preocuparse de todos “por medio de la oración, de la predicación y de todas las obras de caridad” (*[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 27). Esta caridad pastoral se ha de extender de una manera especial, como la de Jesucristo, a sus más próximos colaboradores, los presbíteros, a quienes siempre ha de considerar como hijos y amigos  (*[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 28).
+
+He sabido con satisfacción que estáis promoviendo la formación permanente del clero. Os aliento, pues, a proseguir con decisión y firmeza en ese camino, tan importante para la vida de la Iglesia. En la Exhortación Apostólica  *[Pastores Dabo Vobis](https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)* expuse la necesidad de una formación continua, adecuada a las circunstancias de tiempo y lugar, para que los sacerdotes reaviven el don inefable que les fue conferido por la imposición de las manos (cf. *2Tim* 1,6). Por eso, hay que facilitarles los medios necesarios para intensificar su formación espiritual, teológica y pastoral. Mediante el estudio de la Palabra de Dios, realizado de forma orante, amorosa y metódica, de modo que pueda ser presentada a los fieles “no sólo de manera abstracta y general, sino aplicando la verdad perenne del Evangelio a las circunstancias concretas de la vida” (*[Presbyterorum ordinis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_sp.html)*, 4), y la profundización en las diversas áreas teológicas: dogmática, moral, pastoral, derecho canónico, sin descuidar la doctrina social de la Iglesia, que es uno de los componentes esenciales de la “nueva evangelización” (cf. *[Centesimus annus](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)*, 5).
+
+### 4 {#jp2-spe-19941018-cile-ad-limina.4}
+
+Es motivo de profunda esperanza la vida de los nuevos seminarios en Chile. A este respecto quiero recordar que una “condición indispensable para la 'nueva evangelización' es poder contar con evangelizadores numerosos y cualificados” (*[Discurso inaugural de la IV Conferencia general del episcopado latinoamericano](http://www.vatican.va/holy_father/john_paul_ii/speeches/1992/october/documents/hf_jp-ii_spe_19921012_iv-conferencia-latinoamerica_sp.html)*, n. 26, Santo Domingo, 12 de octubre de 1992), que sean conscientes de la gracia de haber sido llamados a tan alta misión. Por eso, la promoción de las vocaciones sacerdotales y religiosas ha de considerarse una prioridad por parte de los Obispos y una exigencia de todo el pueblo de Dios (cf. IV Conf. Gen. Episcoporum Americae Latinae, *Conclusiones*, 82). Al mismo tiempo, se ha de trabajar no sólo por incrementar el número de los llamados, sino también para garantizar a la Iglesia la idoneidad de los mismos.
+
+Se debe tener presente, al organizar la vida de los seminarios, que su fin propio es la formación de jóvenes que configurándose con Cristo, Buen Pastor, edifiquen la Iglesia, como cooperadores del Obispo y miembros del presbiterio (cf. *[Presbyterorum ordinis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_sp.html)*, 12). Para ello se requiere un equipo de formadores con la necesaria preparación espiritual, teológica, pastoral, humana y pedagógica, junto con un coherente testimonio de vida sacerdotal. Asimismo, el espíritu de oración, la celebración de la liturgia y el trato con el director espiritual, ayudarán a los seminaristas a formar el hombre interior fiel a Dios, a la Iglesia y a su ministerio, capaz de amar a todos, sin distinciones, y, si fuera el caso, de sufrir por el Reino. En este proceso no hay que olvidar el importante papel que le corresponde a la formación intelectual: el estudio de la sana filosofía, el conocimiento de la Sagrada Escritura, de los Padres y del Magisterio de la Iglesia, con una visión pastoral y en contacto con la cultura.
+
+### 5 {#jp2-spe-19941018-cile-ad-limina.5}
+
+He visto con particular interés que, tanto en las Orientaciones Pastorales como en las últimas Asambleas del Episcopado, habéis dado prioridad a la pastoral familiar. Conocéis bien la importancia decisiva que tienen la unidad de la familia y la estabilidad del vínculo conyugal indisoluble para el pleno desarrollo de la persona y para el futuro de la sociedad. Por eso, la Iglesia, experta en humanidad, no puede dejar de *proclamar la verdad sobre el matrimonio y la familia*, tal como Dios lo ha establecido. Dejar de hacerlo sería una grave omisión pastoral que induciría a los creyentes al error, así como también a quienes tienen la importante responsabilidad de tomar las decisiones sobre el bien común de la Nación. Por eso os exhorto vivamente a *mantener la unidad, fieles al Magisterio, enseñando los principios inviolables de la santidad e indisolubilidad del matrimonio cristiano*, como un auténtico servicio a la familia y a la sociedad misma.
+
+Los Obispos de América Latina en la IV Conferencia General, han recordado que “el matrimonio y la familia en el proyecto original de Dios son instituciones de origen divino y no productos de la voluntad humana” (cf. IV Conf. Gen. Episcoporum Americae Latinae, *Conclusiones*, 211). Enseñad con claridad esta verdad que es válida, no sólo para los católicos, sino para todos los hombres y mujeres sin distinción. Os invito, igualmente, a proclamar sin cesar que el matrimonio y la familia constituyen un bien insustituible de la sociedad, la cual no puede permanecer indiferente frente a su degradación o pérdida.
+
+No se debe olvidar que la familia ha de dar testimonio de sus propios valores ante sí misma y ante la sociedad: “El cometido, que ella por vocación de Dios está llamada a desempeñar en la historia, brota de su mismo ser y representa su desarrollo dinámico y existencial. Toda familia descubre y encuentra en sí misma la llamada imborrable, que define a la vez su dignidad y su responsabilidad: Familia, ¡'sé' lo que 'eres'!” (*[Familiaris consortio](https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)*, 17). Por ello, *acompañad a las familias cristianas*, alentad la pastoral familiar en vuestras diócesis junto a los movimientos y asociaciones de espiritualidad matrimonial, *despertad su celo apostólico para que hagan suya la tarea de la nueva evangelización*, para que abran las puertas a quienes no tienen hogar o viven en situaciones difíciles, así como para que den testimonio de la dignidad humana que nace de un amor desinteresado e incondicional.
+
+### 6 {#jp2-spe-19941018-cile-ad-limina.6}
+
+La pastoral familiar ha de considerar también la inestimable e irrenunciable vocación educadora de los cónyuges cuando, como padres, son llamados a la gran responsabilidad de la educación de los hijos a lo largo de las diferentes etapas de su desarrollo humano y espiritual. Por eso la Iglesia colabora solícitamente con los padres a través de la pastoral juvenil, llevada a cabo en los diversos ambientes frecuentados por los niños y jóvenes.
+
+A este respecto, en mis viajes apostólicos he mantenido inolvidables encuentros con los jóvenes, escuchando sus testimonios sinceros y transparentes sobre aquello que les preocupa. Entre ellos he podido constatar su noble capacidad de entrega, la alegría con que formulan sus ideales de vida, su gran hambre de Dios y la necesidad que sienten de testigos que los guíen rectamente. De ahí la urgencia de orientar a la querida juventud chilena sobre la base de los principios cristianos y de las fundamentales virtudes humanas y sociales.
+
+### 7 {#jp2-spe-19941018-cile-ad-limina.7}
+
+Os preocupa también, queridos hermanos, la situación de aquellas personas que sufren angustias económicas y, a veces, carecen de lo necesario. A este respecto son consoladoras las diversas iniciativas existentes en cada diócesis para responder adecuadamente a las necesidades de los pobres.
+
+Esta preocupación por lo social  forma parte de la misión evangelizadora de la Iglesia” (*[Sollicitudo rei socialis](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html)*, 41), en la cual debe ocupar un lugar predominante la promoción humana, ya que la evangelización tiende a la *liberación integral de la persona* (cf. *[Discurso inaugural de la IV Conferencia general del episcopado latinoamericano](http://www.vatican.va/holy_father/john_paul_ii/speeches/1992/october/documents/hf_jp-ii_spe_19921012_iv-conferencia-latinoamerica_sp.html)*, n. 13, Santo Domingo, 12 de octubre de 1992). Los católicos, transmitiendo adecuadamente el rico y siempre actual patrimonio de la doctrina social de la Iglesia, deben impulsar y favorecer convenientes iniciativas encaminadas a superar situaciones de pobreza y marginación que afectan a tantos hermanos necesitados.
+
+Aunque toda la Iglesia está llamada directamente al servicio de la caridad para “aliviar las necesidades humanas de todo género” (*[Christifideles laici](https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)*, 41), sin embargo en este servicio tienen un papel específico los fieles laicos, pues a ellos corresponde infundir los valores cristianos en el orden temporal pues esta misma *caridad anima y sostiene una activa solidaridad, atenta a todas las necesidades del ser humano* (cf. *Ibíd.)*.
+
+Por tanto, los Pastores deben orientar a sus fieles en este campo, favoreciendo su conveniente formación moral y doctrinal, para que junto con su competencia en el campo socio–económico y político puedan llevar a cabo acciones eficaces con rectos criterios morales. A este respecto, son de alabar las actividades de Cáritas-Chile, las de numerosas Congregaciones Religiosas, así como las iniciativas de la *Cuaresma de la Fraternidad* y del *Día de la Solidaridad*. Con ellas se invita a los cristianos a privarse de algo *necesario*, y no sólo de lo *superfluo*, fomentando la actitud de compartir entre los hermanos. Como ya indiqué en mi visita pastoral a vuestro País, “¡los pobres no pueden esperar!” aguardando “un alivio que les llegue por una especie de rebalse de la prosperidad generalizada de la sociedad” (*[Discurso a los delegados de la Comisión Económica para América Latina y el Caribe](http://www.vatican.va/holy_father/john_paul_ii/speeches/1987/april/documents/hf_jp-ii_spe_19870403_cepalc-chile_sp.html)*, , n. 7, Santiago de Chile, 3 de abril de 1987).
+
+Los cristianos están llamados a colaborar activamente en este servicio de la caridad, por ejemplo en diversas formas de *voluntariado*, el cual, “si se vive en su verdad de servicio desinteresado al bien de las personas, especialmente las más necesitadas y las más olvidadas por los mismos servicios sociales, debe considerarse una importante manifestación de apostolado, en el que los fieles laicos, hombres y mujeres, desempeñan un papel de primera importancia” (*[Christifideles laici](https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)*, 41). De este modo, la coordinación con las diversas instituciones, estatales y no gubernamentales, podrá favorecer una ayuda más eficaz al prójimo.
+
+En este sentido os servirá de inspiración y guía el testimonio y la enseñanza del P. Alberto Hurtado, beatificado en estos días, el cual supo unir admirablemente en su vida el contacto personal e íntimo con el Señor, junto con la creatividad y la total disponibilidad en el servicio de los necesitados. Que él, con su intercesión, os impulse a llegar al corazón de vuestros hermanos para que haya una nueva generación que no viva de los espejismos del lucro y del consumismo, sino que esté cimentada en las mejores tradiciones de sobriedad, solidaridad y generosidad que anidan en el corazón de vuestro pueblo.
+
+Así lo deseo de corazón para todos los amados hijos de Chile en este encuentro con sus Pastores, y al invocar a la Santísima Virgen del Carmen, tan querida y venerada en vuestro País, os bendigo con afecto, como prenda de la constante asistencia divina.

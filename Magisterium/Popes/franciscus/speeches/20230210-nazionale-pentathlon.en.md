@@ -1,0 +1,50 @@
+---
+id: francis-spe-20230210-nazionale-pentathlon.en
+work: francis-spe-20230210-nazionale-pentathlon
+title: "To Managers and athletes of the Italian Federation of Modern Pentathlon (10 February 2023)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2023-02-10
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2023/february/documents/20230210-nazionale-pentathlon.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, it"
+anchors: "{#francis-spe-20230210-nazionale-pentathlon} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To Managers and athletes of the Italian Federation of Modern Pentathlon (10 February 2023) {#francis-spe-20230210-nazionale-pentathlon}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO MANAGERS AND ATHLETES OF THE ITALIAN FEDERATION OF MODERN PENTATHLON
+
+*Clementine Hall\
+Friday, 10 February 2023*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2023/2/10/nazionale-pentathlon.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+I thank the president for his kind words, and I welcome all of you, managers of the Italian Federation for Modern Pentathlon and athletes of the national team.
+
+It is the first time I have met a representative of this sport, which includes fencing, swimming, horse riding, shooting and running. A very old discipline, which has been modified in modern times in this manner. The athlete has to give his best in five very different sports, which require different skills and exercises. As a result, there emerge the features of a multifaceted, versatile athlete, who develops various aspects of body and mind.
+
+This characteristic of the pentathlon multiplies, so to speak, the educational function of the sport. I would say that it is not only a sum, but a multiplication, because the pentathlete is not a robot who must perform a series of tasks to perfection; he or she is a person, and therefore the operation is far more complex. You must not add one thing to another, the whole must be harmonized; this is why it is complex. And precisely here resides the educational value, because in life we are required to act in this way, putting into practice various dimensions of ourselves, depending on the context, relationships, moments, and so on. If for example you are a mathematical genius but do not know how to do anything else, you will have problems in life. And it is the same for everything: excellence is fine, but the quality of life does not depend on that, no: it depends on a good average in different situations, that is, a balance ... no, I will not say balance, but a harmony of the various dimensions. Here too there emerges the value of the polyhedron, of a multi-faceted personality, which presupposes a strong unity, a solid core, great consistency and, at the same time, the capacity to change, to adapt, to have many phases, to move… a stability in versatility. And this is a value. And this is a value that marks the maturity of people somewhat. Stability, but in versatility: knowing how to move in a stable way.
+
+Dear friends, I thank you because with this sporting discipline you give us a living example of all that I have mentioned. We all know that in life it is far more difficult than in sport! But sport can help us, it helps us, because it teaches us that with patience, exercise, creativity and perseverance one can improve, one can reach goals that seemed unthinkable. And this takes place through a dimension that is at the basis of all the others, and inspires them all, which is the spiritual dimension. That is, the recreational capacity is a spiritual dimension. I do not refer to the psychological one, which is also decisive, but precisely to the spiritual one, namely, our relationship with the meaning of living, of our being and our relationships. And the recreational capacity helps this spiritual dimension, or rather, it is rooted in it in order to be mature and strong.
+
+At the centre of the human being there is a heart, not in a physical sense, but symbolic, a heart that knows how to receive and give love. And I know that you, as a Federation, strive to engage in this dimension also with tangible gestures of solidarity. I thank you in particular for the support you give to the “Bambino Gesù” Paediatric Hospital, both for research and for the logistical support of children and their families. Thank you, truly, thank you! This is a more demanding contest, but the prize fills life and lasts for ever.
+
+I wish you the best results, both in competitions and in your service as an association. I wholeheartedly bless all of you and your loved ones, and your sporting work. And I ask you, please, to pray for me. Thank you!
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*[Holy See Press Office Bulletin](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2023/02/10/230210c.html)*, 10 February 2023

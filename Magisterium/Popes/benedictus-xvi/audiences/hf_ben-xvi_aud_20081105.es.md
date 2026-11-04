@@ -1,0 +1,71 @@
+---
+id: b16-aud-20081105.es
+work: b16-aud-20081105
+title: "Audiencia general del 5 de noviembre de 2008: San Pablo. 11 - La importancia de la cristología. El carácter decisivo de la resurrección"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: General audience (catechesis)
+url_date: 2008-11-05
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/audiences/2008/documents/hf_ben-xvi_aud_20081105.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-aud-20081105} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Audiencia general del 5 de noviembre de 2008: San Pablo. 11 - La importancia de la cristología. El carácter decisivo de la resurrección {#b16-aud-20081105}
+BENEDICTO XVI
+
+## AUDIENCIA GENERAL
+
+*Miércoles 5 de noviembre de 2008*
+
+## La resurrección de Cristo en la teología de san Pablo
+
+*Queridos hermanos y hermanas:*
+
+"Si no resucitó Cristo, es vacía nuestra predicación, y es vacía también vuestra fe (...) y vosotros estáis todavía en vuestros pecados" (*1 Co* 15, 14.17). Con estas fuertes palabras de la primera *carta a los Corintios,* san Pablo da a entender la importancia decisiva que atribuye a la resurrección de Jesús, pues en este acontecimiento está la solución del problema planteado por el drama de la cruz. Por sí sola la cruz no podría explicar la fe cristiana; más aún, sería una tragedia, señal de la absurdidad del ser. El misterio pascual consiste en el hecho de que ese Crucificado "resucitó al tercer día, según las Escrituras" (*1 Co* 15, 4); así lo atestigua la tradición protocristiana. Aquí está la clave de la cristología paulina: todo gira alrededor de este centro gravitacional. Toda la enseñanza del apóstol san Pablo parte *del* misterio de Aquel que el Padre resucitó de la muerte y llega siempre *a* él. La resurrección es un dato fundamental, casi un axioma previo (cf. *1 Co* 15, 12), basándose en el cual san Pablo puede formular su anuncio (*kerigma*) sintético: el que fue crucificado y que así manifestó el inmenso amor de Dios por el hombre, resucitó y está vivo en medio de nosotros.
+
+Es importante notar el vínculo entre el anuncio de la resurrección, tal como san Pablo lo formula, y el que se realizaba en las primeras comunidades cristianas prepaulinas. Aquí se puede ver realmente la importancia de la tradición que precede al Apóstol y que él, con gran respeto y atención, quiere a su vez entregar. El texto sobre la resurrección, contenido en el capítulo 15, versículos 1-11, de la primera *carta a los Corintios,* pone bien de relieve el nexo entre "recibir" y "transmitir". San Pablo atribuye mucha importancia a la formulación literal de la tradición; al término del pasaje que estamos examinando subraya: "Tanto ellos como yo, esto es lo que predicamos" (*1 Co* 15, 11), poniendo así de manifiesto la unidad del *kerigma*, del anuncio para todos los creyentes y para todos los que anunciarán la resurrección de Cristo.
+
+La *tradición* a la que se une es la fuente a la que se debe acudir. La originalidad de su cristología no va nunca en detrimento de la fidelidad a la tradición. El *kerigma* de los Apóstoles preside siempre la re-elaboración personal de san Pablo; cada una de sus argumentaciones parte de la tradición común, en la que se expresa la fe compartida por todas las Iglesias, que son una sola Iglesia. Así san Pablo ofrece un modelo para todos los tiempos sobre cómo hacer teología y cómo predicar. El teólogo, el predicador, no crea nuevas visiones del mundo y de la vida, sino que está al servicio de la verdad transmitida, al servicio del hecho real de Cristo, de la cruz, de la Resurrección. Su deber es ayudarnos a comprender hoy, tras las antiguas palabras, la realidad del "Dios con nosotros"; por tanto, la realidad de la vida verdadera.
+
+Aquí conviene precisar: san Pablo, al anunciar la Resurrección, no se preocupa de presentar una exposición doctrinal orgánica —no quiere escribir una especie de manual de teología—, sino que afronta el tema respondiendo a dudas y preguntas concretas que le hacían los fieles. Así pues, era un discurso ocasional, pero lleno de fe y de teología vivida. En él se encuentra una concentración de lo esencial: hemos sido "justificados", es decir, hemos sido salvados por el Cristo *muerto y resucitado* por nosotros. Emerge sobre todo el *hecho* de la Resurrección, sin el cual la vida cristiana sería simplemente absurda. En aquella mañana de Pascua sucedió algo extraordinario, algo nuevo y, al mismo tiempo algo muy concreto, marcado por señales muy precisas, registradas por numerosos testigos.
+
+Para san Pablo, como para los demás autores del Nuevo Testamento, la Resurrección está unida al *testimonio* de quien hizo una experiencia directa del Resucitado. Se trata de ver y de percibir, no sólo con los ojos o con los sentidos, sino también con una luz interior que impulsa a reconocer lo que los sentidos externos atestiguan como dato objetivo. Por ello, san Pablo, como los cuatro Evangelios, otorga una importancia fundamental al tema de las *apariciones*, que son condición fundamental para la fe en el Resucitado que dejó la tumba vacía. Estos dos hechos son importantes: *la tumba está vacía* y *Jesús se apareció realmente*.
+
+Así se constituye la cadena de la tradición que, a través del testimonio de los Apóstoles y de los primeros discípulos, llegará a las generaciones sucesivas, hasta nosotros. La primera consecuencia, o el primer modo de expresar este testimonio, es predicar la resurrección de Cristo como síntesis del anuncio evangélico y como punto culminante de un itinerario salvífico. Todo esto san Pablo lo hace en diversas ocasiones: se pueden consultar las cartas y los Hechos de los Apóstoles, donde se ve siempre que para él el punto esencial es ser testigo de la Resurrección. Cito sólo un texto: san Pablo, arrestado en Jerusalén, está ante el Sanedrín como acusado. En esta circunstancia, en la que está en juego su muerte o su vida, indica cuál es el sentido y el contenido de toda su predicación: "Por esperar la resurrección de los muertos se me juzga" (*Hch* 23, 6). Este mismo estribillo lo repite san Pablo continuamente en sus cartas (cf. *1 Ts* 1, 9 s; 4, 13-18; 5, 10), en las que apela a su experiencia personal, a su encuentro personal con Cristo resucitado (cf. *Ga* 1, 15-16; *1 Co* 9, 1).
+
+Pero podemos preguntarnos: ¿Cuál es, para san Pablo, el sentido profundo del acontecimiento de la resurrección de Jesús? ¿Qué nos dice a nosotros a dos mil años de distancia? La afirmación "Cristo ha resucitado" ¿es actual también para nosotros? ¿Por qué la Resurrección es un tema tan determinante para él y para nosotros hoy? San Pablo da solemnemente respuesta a esta pregunta al principio de la *carta a los Romanos,* donde comienza refiriéndose al "Evangelio de Dios... acerca de su Hijo, nacido del linaje de David según la carne, constituido Hijo de Dios con poder, según el Espíritu de santidad, por su resurrección de entre los muertos" (*Rm* 1, 1.3-4).
+
+San Pablo sabe bien, y lo dice muchas veces, que Jesús era Hijo de Dios siempre, desde el momento de su encarnación. La novedad de la Resurrección consiste en el hecho de que Jesús, elevado desde la humildad de su existencia terrena, ha sido constituido Hijo de Dios "con poder". El Jesús humillado hasta la muerte en cruz puede decir ahora a los Once: "Me ha sido dado todo poder en el cielo y en la tierra" (*Mt* 28, 18). Se ha realizado lo que dice el Salmo 2, versículo 8: "Pídeme y te daré en herencia las naciones, en propiedad los confines de la tierra". Por eso, con la Resurrección comienza el anuncio del Evangelio de Cristo a todos los pueblos, comienza el reino de Cristo, este nuevo reino que no conoce otro poder que el de la verdad y del amor.
+
+Por tanto, la Resurrección revela definitivamente cuál es la auténtica identidad y la extraordinaria estatura del Crucificado. Una dignidad incomparable y altísima: *Jesús es Dios*. Para san Pablo la identidad secreta de Jesús, más que en la encarnación, se revela en el misterio de la Resurrección. Mientras el título de *Cristo,* es decir, "Mesías", "Ungido", en san Pablo tiende a convertirse en el nombre propio de Jesús, y el de *Señor* especifica su relación personal con los creyentes, ahora el título de *Hijo de Dios* ilustra la relación íntima de Jesús con Dios, una relación que se revela plenamente en el acontecimiento pascual. Así pues, se puede decir que Jesús resucitó para ser el Señor de los vivos y de los muertos (cf. *Rm* 14, 9; *2 Co* 5, 15) o, con otras palabras, nuestro Salvador (cf. *Rm* 4, 25).
+
+Todo esto tiene importantes consecuencias para nuestra vida de fe: estamos llamados a participar hasta lo más profundo de nuestro ser en todo el acontecimiento de la muerte y resurrección de Cristo. Dice el Apóstol: hemos "muerto con Cristo" y creemos que "viviremos con él, sabiendo que Cristo resucitado de entre los muertos ya no muere más; la muerte ya no tiene dominio sobre él" (*Rm* 6, 8-9). Esto se traduce en la práctica compartiendo los sufrimientos de Cristo, como preludio a la configuración plena con él mediante la resurrección, a la que miramos con esperanza. Es lo que le sucedió también a san Pablo, cuya experiencia personal está descrita en las *cartas* con tonos tan apremiantes como realistas: "Y conocerlo a él, el poder de su resurrección y la comunión de sus padecimientos hasta hacerme semejante a él en su muerte, tratando de llegar a la resurrección de entre los muertos" (*Flp* 3, 10-11; cf. *2 Tm* 2, 8-12).
+
+La teología de la cruz no es una teoría; es la realidad de la vida cristiana. Vivir en la fe en Jesucristo, vivir la verdad y el amor implica renuncias todos los días, implica sufrimientos. El cristianismo no es el camino de la comodidad; más bien, es una escalada exigente, pero iluminada por la luz de Cristo y por la gran esperanza que nace de él. San Agustín dice: a los cristianos no se les ahorra el sufrimiento; al contrario, les toca un poco más, porque vivir la fe expresa el valor de afrontar la vida y la historia más en profundidad. Con todo, sólo así, experimentando el sufrimiento, conocemos la vida en su profundidad, en su belleza, en la gran esperanza suscitada por Cristo crucificado y resucitado. El creyente se encuentra situado entre dos polos: por un lado, la Resurrección, que de algún modo está ya presente y operante en nosotros (cf. *Col* 3, 1-4; *Ef* 2, 6); por otro, la urgencia de insertarse en el proceso que conduce a todos y todo a la plenitud, descrita en la *carta a los Romanos* con una imagen audaz: como toda la creación gime y sufre casi dolores del parto, así también nosotros gemimos en espera de la redención de nuestro cuerpo, de nuestra redención y resurrección (cf. *Rm* 8, 18-23).
+
+En síntesis, podemos decir con san Pablo que el verdadero creyente obtiene la salvación profesando con su boca que Jesús es el *Señor* y creyendo con el corazón que *Dios lo resucitó de entre los muertos* (cf. *Rm* 10, 9). Es importante ante todo el corazón que cree en Cristo y que por la fe "toca" al Resucitado; pero no basta llevar en el corazón la fe; debemos confesarla y testimoniarla con la boca, con nuestra vida, haciendo así presente la verdad de la cruz y de la resurrección en nuestra historia.
+
+De esta forma el cristiano se inserta en el proceso gracias al cual el primer Adán, terrestre y sujeto a la corrupción y a la muerte, se va transformando en el último Adán, celestial e incorruptible (cf. *1 Co* 15, 20-22.42-49). Este proceso se inició con la resurrección de Cristo, en la que, por tanto, se funda la esperanza de que también nosotros podremos entrar un día con Cristo en nuestra verdadera patria que está en el cielo. Sostenidos por esta esperanza proseguimos con valor y con alegría.
+
+## Saludos
+
+Saludo con afecto a los peregrinos de lengua española; en particular, a los miembros de la Asociación valenciana de agricultores y al obispo de Autlán, monseñor Gonzalo Galván Castillo, acompañado de un grupo de sacerdotes de su diócesis. A ejemplo del apóstol san Pablo, os invito a ser testigos creíbles y audaces de Jesucristo resucitado, del que esperamos confiados que transforme "nuestra condición humilde según el modelo de su condición gloriosa". Que Dios os bendiga.
+
+*(En lengua polaca)*\
+Cristo murió y resucitó para nuestra salvación. Esta es la principal verdad de la teología de san Pablo y el centro de nuestra fe. Que esta verdad plasme nuestra vida diaria, para que seamos partícipes de los frutos de la salvación. Que Dios os bendiga.
+
+*(En italiano)*\
+Saludo ahora a los peregrinos de lengua italiana y doy a cada uno una cordial bienvenida. Con particular afecto me dirijo a los *jóvenes,* a los *enfermos* y a los *recién casados.* En estos días la Iglesia nos invita a rezar por nuestros queridos difuntos y su recuerdo nos invita a meditar en el misterio de la muerte y de la vida eterna. El pensamiento de la muerte no ha de ser para vosotros, queridos *jóvenes*, motivo de tristeza, sino estímulo a apreciar y valorar plenamente vuestra juventud, orientando siempre vuestro corazón a los valores espirituales que no perecen. Vosotros, queridos *enfermos*, renovad constantemente vuestra confianza en el Señor, sabiendo que en toda situación estamos siempre en sus manos: él es para nosotros Padre bueno y misericordioso. Y vosotros, queridos *recién casados*, sacad de la perspectiva de la vida eterna un estímulo para proyectar vuestra familia dejándoos guiar por Cristo y por su Evangelio.

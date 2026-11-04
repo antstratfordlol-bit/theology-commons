@@ -1,0 +1,60 @@
+---
+id: jp2-ang-20020120.en
+work: jp2-ang-20020120
+title: "Angelus, 20 January 2002"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Angelus / Regina Caeli
+url_date: 2002-01-20
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/angelus/2002/documents/hf_jp-ii_ang_20020120.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-ang-20020120.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-ang-20020120.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 20 January 2002
+JOHN PAUL II
+
+ANGELUS
+
+Sunday, 20 January 2002
+
+*Dear Brothers and sisters,*
+
+### 1 {#jp2-ang-20020120.1}
+
+After the tragic attack last 11 September, that we never forget, and with the threat of new conflicts, believers feel the urgency to intensify their prayer for peace, because it is above all the gift of God. This is the spirit in which, the ** *Day of Fasting* was observed last 14 December, with great consensus, and, in the same spirit, the *Day of Prayer for Peace* will be held in Assisi this coming 24 January. Representatives of the different Christian denominations and of other religions will take part. Thus we will repeat the experience of 27 October 1986 when, for the first time, within the walls of the city of St Francis, the representatives of all the world's religions gathered together to raise to Heaven a fervent plea for peace.
+
+### 2 {#jp2-ang-20020120.2}
+
+Since then, a new spirit - often called the "spirit of Assisi" - has guided interreligious dialogue and links it indissolubly to the commitment to justice, the protection of creation and to peace. *The Day of Prayer for Peace* does not in any way indulge in *religious syncretism.* In fact, each religious group will pray in a different place in accord with its own faith, its own language, its own tradition, and with full respect for the others. What will bind together all the participants is the certainty that *peace is a gift of God.* As a believer, each one knows he is called to be a peacemaker.
+
+On this basis, not only men and women of different religious affiliation *can collaborate,* but indeed must engage in defending and promoting effectively the recognition of human rights, an indispensable condition for authentic and lasting peace. In the face of the violence that today wreaks havoc in so many of the earth's regions, they feel the need to show that *religions are a factor of solidarity,* by repudiating and isolating those who abuse the Name of God for purposes or with methods that in reality offend him.
+
+### 3 {#jp2-ang-20020120.3}
+
+Next Thursday, please God, we will together make a *pilgrimage by train,* following the example of Blessed John XXIII, who went to Loreto and Assisi on 4 October 1962. I invite all believers and persons of good will of the whole world to join this pilgrimage, because we are all called to build peace together. I particularly want to invite religious and monastic communities, especially the cloistered ones, to join in our prayer, along with children, the sick and the elderly.\
+May Mary, Queen of Peace, obtain for humanity the precious gift of peace, and help us be in every sector of life, as was Francis, *instruments of the peace that God alone can give*.
+
+*After praying the Angelus the Holy Father said:*
+
+Once again - and with great sadness - I am forced to recall the tragic situation in the Holy Land, where every day repeated attacks and reprisals sow blood and death.
+
+There is no way out of this perverse logic and it is painful to see how the leaders of the conflict have gone down a blind alley.
+
+I can only address a heartfelt appeal to the leaders of the parties in conflict to put an end to these clashes, and to the international community not to abandon them. It is urgently necessary to identify together those instruments that can set in motion the dynamic of peace, and so allow Israelis and Palestinians to face their future.
+
+May God, through the intercession of the Virgin Mary, enlighten the mind and heart of every person of good will!
+
+I also assure my spiritual closeness to the peoples struck by the fury unleashed by the Nyiragongo Volcano, in the Democratic Republic of the Congo, that has once again become active, erupting with unheard of violence. Let us bring concrete assistance to all who are suffering because of this great disaster!

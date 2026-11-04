@@ -1,0 +1,48 @@
+---
+id: b16-spe-20110821-volontari-gmg-madrid.en
+work: b16-spe-20110821-volontari-gmg-madrid
+title: "Apostolic Journey to Madrid: Meeting with volunteers of the 26th World Youth Day at Pavilion 9 of the new Trade Fair of Madrid-IFEMA (August 21, 2011)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2011-08-21
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/august/documents/hf_ben-xvi_spe_20110821_volontari-gmg-madrid.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#b16-spe-20110821-volontari-gmg-madrid} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Apostolic Journey to Madrid: Meeting with volunteers of the 26th World Youth Day at Pavilion 9 of the new Trade Fair of Madrid-IFEMA (August 21, 2011) {#b16-spe-20110821-volontari-gmg-madrid}
+[APOSTOLIC JOURNEY TO MADRID\
+ON THE OCCASION OF THE 26th WORLD YOUTH DAY\
+18-21 AUGUST 2011](https://www.vatican.va/content/benedict-xvi/en/travels/2011/index_madrid.html)
+
+MEETING WITH WYD VOLUNTEERS
+
+## GREETING OF HIS HOLINESS BENEDICT XVI
+
+**Pavilion 9 of the new Fair of Madrid-IFEMA\*
+Sunday, 21 August 2011*
+
+## \[[Video](http://player.rv.va/vaticanplayer.asp?language=it&tic=VA_E2BU9UNZ){target="_blank"}\]
+
+*Dear Volunteers,*
+
+As the events of this unforgettable World Youth Day draw to a close, I wanted to come here, before my return to Rome, to thank you personally for all your invaluable help. It is both a matter of justice and a heartfelt duty. A matter of justice because, thanks to your cooperation, the young pilgrims enjoyed a warm welcome and were assisted in their every need. Your service gave World Youth Day a face of kindness, friendship and neighbourly concern.
+
+My gratitude is also a heartfelt duty, not only because you were so attentive to the pilgrims, but also to the Pope, to me! At every event in which I took part, you were there: some were highly visible, while others stayed in the background, helping to ensure that everything took place in an orderly fashion. I also want to mention all the effort that went into preparing for these days. All the sacrifices, all the love. Everybody did his or her best, by work and prayer, to weave, stitch by stitch, the magnificent, colourful tapestry of this World Youth Day. Many thanks for your dedicated service. I am grateful for this great sign of your love.
+
+Many of you had to give up participating directly in the events, because you were engaged in the work of organization. But this sacrifice was itself a beautiful and evangelical way to take part in the celebrations: you gave yourselves to others, as Jesus tells us to do. In a real way sense you brought to life the Lord’s words: “Whoever wants to be first must be the last of all and servant of all” (*Mk* 9:35). I am certain that your experience as volunteers has enriched all of you in your Christian life, which in the end is a service to love. The Lord will turn all the weariness, the worries and the burdens of these days into a source of growth in the Christian virtues: patience, meekness, joy in self-giving and eagerness to do God’s will. To love means to serve, and service increases love. For me, this is one of the finest fruits of your contribution to World Youth Day. But you will not be the only ones who reap this harvest: the whole Church, as a mystery of communion, is enriched by the contribution of each of her members.
+
+As you now go back to your everyday lives, I ask you to treasure this joy-filled experience in your hearts and to grow each day in giving yourselves to God and to others. Perhaps many of you felt a very simple question forming in your hearts, faintly or forcefully as the case may be: What is God asking me to do? What is his plan for my life? Is Christ asking me to follow him more closely? Should I not spend my whole life in the mission to proclaim to the world the greatness of his love through the priesthood, or the consecrated life, or marriage? If this question has surfaced, let the Lord be your guide and become volunteers in the service of the One who “came not to be served but to serve, and to give his life a ransom for many” (*Mk* 10:45). Your life will achieve fulfilment in ways you cannot imagine. Perhaps some of you are thinking: the Pope came to thank us and here he is asking us for something more! You are right. But that is the mission of the Pope, the Successor of Peter. After all, Peter, in his First Letter, reminds Christians that they were ransomed at a great price: that of the blood of Christ (cf. *1 Pet* 1:18-19). Those who look at their lives from this perspective know that Christ’s love can only be met with love. That is what the Pope is asking you to do in this farewell: to respond in love to the One who for love gave himself up for us. Once again, I thank all of you. May God be ever at your side!

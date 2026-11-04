@@ -1,0 +1,61 @@
+---
+id: francis-spe-20160727-polonia-arcivescovado.en
+work: francis-spe-20160727-polonia-arcivescovado
+title: "Apostolic Journey to Poland: Greetings to the faithful from the window of the Archbishop's house in Kraków (Kraków, 27 July 2016)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2016-07-27
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2016/july/documents/papa-francesco_20160727_polonia-arcivescovado.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#francis-spe-20160727-polonia-arcivescovado} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Apostolic Journey to Poland: Greetings to the faithful from the window of the Archbishop's house in Kraków (Kraków, 27 July 2016) {#francis-spe-20160727-polonia-arcivescovado}
+[APOSTOLIC JOURNEY OF HIS HOLINESS POPE FRANCIS\
+TO POLAND\
+ON THE OCCASION OF THE XXXI WORLD YOUTH DAY](http://w2.vatican.va/content/francesco/en/travels/2016/outside/documents/papa-francesco-polonia-2016.html)\
+(27-31 JULY 2016)
+
+## GREETINGS BY THE HOLY FATHER TO THE FAITHFUL FROM THE WINDOW OF THE ARCHBISHOP'S HOUSE
+
+*Archbishop's house in Kraków\
+Wednesday evening, 27 July 2016*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2016/7/27/saluto.html)\]
+
+I greet you warmly, all of you!
+
+I see you full of excitement and joy. But now I should tell you something which saddens our hearts. Let’s be silent \[for a moment\]. It’s something which concerns one of you. Maciej \[…\] was just a little more than 22 years old. He had studied graphic design and had left his work to become a volunteer at World Youth Day. In fact, it’s his flag designs, and the images of Patron Saints, the pilgrim kit, and so on, which you see decorating the city. It was in doing this work that he rediscovered his faith.
+
+In November he was diagnosed with cancer. The doctors were not able to do anything, not even by amputating his leg. He wanted to get here alive for the Pope’s visit! He even had a seat reserved for him on the tram that the Pope will use. But he died on 2 July. People have been very affected by this: he did a lot of good to many people.
+
+Now, all of us in silence, let us think of our friend with us along the way, who worked so hard for this Day; and all of us, silently, in our hearts let us pray. Each of us can pray in his own heart. He is here with us.
+
+\[Silent prayer\].
+
+One of you might be thinking: “This Pope is ruining our evening”. But it’s the truth, and we have to get used to good things and bad things. Life is like that, dear young people. But there is one thing which we cannot doubt: the faith of this young man, of this friend of ours, who worked so hard for this WYD, that faith has carried him to heaven, and he is at this moment with Jesus, who looks at us all! And this is a grace. A round of applause for our friend!
+
+We too will meet him one day: “Ah, it was you! Good to meet you!” That’s how it is. Because life is like that: today we are here, tomorrow we will be there. The hard part is to choose the right path, as he did.
+
+Let us thank the Lord for giving us these examples of courage, of courageous young people who help us to persevere! So do not be afraid, do not be afraid! God is great, God is good and we all have something good inside us.
+
+Now I leave you. We’ll see each other tomorrow again. You do your part, which is to make a ruckus all night… And show your Christian joy, joy which the Lord gives you to be a community that follows Jesus.
+
+Now I give you my blessing. And just as children we learnt before leaving to say goodbye to our mum, let’s all pray to Our Lady, each one in his own language. Hail Mary…
+
+\[Blessing\].
+
+Good night! Good night! And pray for me.

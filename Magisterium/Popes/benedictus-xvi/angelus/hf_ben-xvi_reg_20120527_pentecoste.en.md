@@ -1,0 +1,54 @@
+---
+id: b16-ang-20120527-pentecoste.en
+work: b16-ang-20120527-pentecoste
+title: "Regina Cæli, 27 May 2012, Solemnity of Pentecost"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2012-05-27
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2012/documents/hf_ben-xvi_reg_20120527_pentecoste.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20120527-pentecoste} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Regina Cæli, 27 May 2012, Solemnity of Pentecost {#b16-ang-20120527-pentecoste}
+[SOLEMNITY OF PENTECOST](http://www.vatican.va/liturgical_year/pentecost/2012/index_pentecoste_en.htm)
+
+## BENEDICT XVI
+
+## REGINA CÆLI
+
+*St Peter's Square\
+Sunday, 27 May 2012*
+
+## ([Video](https://www.youtube.com/watch?v=keDN6zBP4g4&list=PLC9tK3J1RlaZGkT-qS3F021VSzUv-YuwO&index=42&ab_channel=TheVatican-Archive){target="_blank"})
+
+*Dear Brothers and Sisters,*
+
+Today we celebrate the great Feast of Pentecost, which brings the Easter Season to a close, 50 days after the Sunday of the Resurrection. This Solemnity makes us remember and relive the outpouring of the Holy Spirit on the Apostles and the other disciples gathered in prayer with the Virgin Mary in the Upper Room (cf. Acts 2:1-11). Jesus, risen and ascended into Heaven, sent his Spirit to the Church so that every Christian might participate in his own divine life and become his valid witness in the world. The Holy Spirit, breaking into history, defeats aridity, opens hearts to hope, stimulates and fosters in us an interior maturity in our relationship with God and with our neighbour.
+
+The Spirit, who “has spoken through the prophets”, with the gifts of wisdom and knowledge continues to inspire women and men who engage in the pursuit of truth, offering original ways of understanding and of delving into the mystery of God, of man and of the world. In this context, I am delighted to announce that on 7 October, at the start of the Ordinary Assembly of the Synod of Bishops, I will proclaim St John of Avila and St Hildegard of Bingen Doctors of the universal Church. These two great witnesses of the faith lived in two very different historical periods and cultural environments. Hildegard was a Benedictine nun in the heart of medieval Germany, an authentic teacher of theology and a profound scholar of natural science and music. John, a diocesan priest in the years of the Spanish Renaissance, shared in the travail of the cultural and religious renewal of the Church and of all society at the dawn of modern times. But the sanctity of their life and the profundity of their doctrine render them perennially relevant: the grace of the Holy Spirit, in fact, projected them into the experience of penetrating understanding of divine revelation and intelligent dialogue with that world which constitutes the eternal horizon of the life and action of the Church.
+
+Especially in light of the project for a new evangelization, to which the Assembly of the Synod of Bishops, mentioned above will be dedicated on the eve of the Year of Faith, these two Saints and Doctors are of considerable and timely importance. Even today, through their teaching, the Spirit of the Risen Lord continues to resonate his voice and illuminate the way which leads to the Truth that alone can set us free and give full meaning to our lives.
+
+Praying the Regina Caeli together — for the last time this year — let us invoke the intercession of the Virgin Mary that the Church may be powerfully animated by the Holy Spirit, in order to witness to Christ’s Gospel with evangelical honesty and to open herself ever more to the fullness of truth.
+
+## After the Regina Caeli:
+
+This morning in Vannes, France, Mère Saint-Louis was proclaimed Blessed. Born Louise-Élisabeth Molé, she was the Foundress of the Sisters of Charity of St Louis, and lived between the 18th and 19th centuries. Let us give thanks to God for this exemplary testimony of love for God and for her neighbour.
+
+I remember as well that Friday, 1 June, I shall be going to Milan, where the Seventh World Meeting of Families will be held. I encourage everyone to follow this event and pray for its success.
+
+To everyone I wish a good Feast, and a good Sunday. Happy Feastday!

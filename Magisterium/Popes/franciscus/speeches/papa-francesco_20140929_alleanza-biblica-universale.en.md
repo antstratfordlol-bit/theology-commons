@@ -1,0 +1,50 @@
+---
+id: francis-spe-20140929-alleanza-biblica-universale.en
+work: francis-spe-20140929-alleanza-biblica-universale
+title: "To members of the United Bible Society for the presentation of the Bible in Italian 'Parola del Signore-La Bibbia Interconfessionale in lingua corrente' (29 September 2014)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2014-09-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2014/september/documents/papa-francesco_20140929_alleanza-biblica-universale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, fr, it, pt"
+anchors: "{#francis-spe-20140929-alleanza-biblica-universale} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To members of the United Bible Society for the presentation of the Bible in Italian "Parola del Signore-La Bibbia Interconfessionale in lingua corrente" (29 September 2014) {#francis-spe-20140929-alleanza-biblica-universale}
+## ADDRESS OF POPE FRANCIS TO MEMBERS OF THE UNITED BIBLE SOCIETY FOR THE PRESENTATION OF THE BIBLE IN ITALIAN
+
+*Consistory Hall\
+Monday, 29 September 2014*
+
+*Dear Brothers and Sisters in Christ,*
+
+I thank you for coming here to present me with the new Italian version of the *Bibbia Parola di Dio, traduzione interconfessionale in lingua corrente*, the fruit of the collaboration between the United Bible Society in Italy and the Elledici Publishing House.
+
+I shall say something about my experience. The translation of the Bible into modern Argentine, prepared by Evangelicals and Catholics, has done so much good and does so much good. It is a good idea, because simple people are able to understand it, because it is a real language, really, and close to the people. In the mission work we did in the parishes in Buenos Aires, we always went to the Bible Society to buy these translations. They always gave me a good discount! We donated the Bible to the people and the people understood it. They understood! It was a beautiful effort, and it pleases me that it is now available in Italian, so that the people can understand the stories and expressions which, if translated literally, are not understandable.
+
+The preparation of an inter-confessional version is a particularly significant labour, considering how much the debates about Scripture have led to division, especially in the West. This inter-confessional project, which has given you the opportunity to journey on a common path for several decades, has allowed you to entrust your heart to fellow travellers on the path, overcoming suspicions and skepticism, with the trust that flows from a shared love for the Word of God.
+
+Yours is the fruit of patient, careful, fraternal and competent work which, above all, comes from faith. If you do not believe, you will not understand. Isaiah says, “if you will not believe, surely you shall not be established” (7:9). I hope that this text, which is presented with the approval of the CEI \[Italian Episcopal Conference\] and of the Federation of Evangelical Churches in Italy, spurs all Italian-speaking Christians to meditate, live, witness and celebrate God’s message.
+
+I would like so much for all Christians to be able to comprehend “the surpassing worth of knowing Jesus Christ” (cf. Phil 3:8) through the diligent reading of the Word of God, for the sacred text is the nourishment of the soul and the pure and perennial source of the spiritual life of all of us. We must therefore make every effort in order that every believer may read the Word of God, for ignorance of the Scriptures is indeed, “ignorance of Christ”, as St Jerome says (*Commentary on Isaiah*, Prol.: PL 24,17).
+
+I thank everyone from my heart, because what you have done together is precious for the very realization of this goal, and I encourage you to continue on this journey you have undertaken, in order to make the living Word of God ever better known and ever more deeply understood.
+
+May my blessing, which I bestow on you from my heart, accompany you. I invite you to ask for it, together as brothers, praying the Our Father.
+
+\[*Recitation of the Our Father*\]
+
+Thank you.

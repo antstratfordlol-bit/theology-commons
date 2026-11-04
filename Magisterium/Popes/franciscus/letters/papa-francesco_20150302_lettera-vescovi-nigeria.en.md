@@ -1,0 +1,57 @@
+---
+id: francis-let-20150302-vescovi-nigeria.en
+work: francis-let-20150302-vescovi-nigeria
+title: "Letter of the Holy Father to the Bishops of Nigeria (2 March 2015)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Letter
+url_date: 2015-03-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/letters/2015/documents/papa-francesco_20150302_lettera-vescovi-nigeria.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it, pt"
+anchors: "{#francis-let-20150302-vescovi-nigeria} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Letter of the Holy Father to the Bishops of Nigeria (2 March 2015) {#francis-let-20150302-vescovi-nigeria}
+.
+
+## LETTER OF HIS HOLINESS POPE FRANCIS TO THE BISHOPS OF NIGERIA
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2015/3/17/letteranigeria.html)\]
+
+*Dear Brother Bishops,*
+
+While we walk this Lenten journey towards the Resurrection of the Lord united with the whole Church, I wish to extend to you, dear Archbishops and Bishops of Nigeria, a fraternal greeting, which I extend to the beloved Christian communities entrusted to your pastoral care. I would also like to share some thoughts with you on the current situation in your country.
+
+Nigeria, known as the “African giant”, with its more than 160 million inhabitants, is set to play a primary role, not only in Africa but in the world at large. In recent years, it has experienced robust growth in the economic sphere and has again reasserted itself on the world stage as an attractive market, on account of its natural resources as well as its commercial potential. It is now considered officially the single largest African economy. It has also distinguished itself as a political player widely committed to the resolution of crisis situations in the continent.
+
+At the same time, your nation has had to confront considerable problems, among them new and violent forms of extremism and fundamentalism on ethnic, social and religious grounds. Many Nigerians have been killed, wounded or mutilated, kidnapped and deprived of everything: their loved ones, their land, their means of subsistence, their dignity and their rights. Many have not been able to return to their homes. Believers, both Christian and Muslim, have experienced a common tragic outcome, at the hands of people who claim to be religious, but who instead abuse religion, to make of it an ideology for their own distorted interests of exploitation and murder.
+
+I would like to assure you and all who suffer of my closeness. Every day I remember you in my prayers and I repeat here, for your encouragement and comfort, the consoling words of the Lord Jesus, which must always resound in our hearts: “Peace I leave with you; my peace I give to you” (*Jn* 14:27).
+
+Peace – as you know so well – is not only the absence of conflict or the result of political compromise or fatalistic resignation. Peace is for us a gift which comes from on high; it is Jesus Christ himself, the Prince of Peace, who has made of two peoples one (cf. *Eph* 2:14). And only the man or woman who treasures the peace of Christ as a guiding light and way of life can become a peacemaker (cf. *Mt* 5:9).
+
+At the same time, peace is a daily endeavour, a courageous and authentic effort to favour reconciliation, to promote experiences of sharing, to extend bridges of dialogue, to serve the weakest and the excluded. In a word, peace consists in building up a “culture of encounter”.
+
+And so I wish here to express my heartfelt thanks to you, because in the midst of so many trials and sufferings the Church in Nigeria does not cease to witness to hospitality, mercy and forgiveness. How can we fail to remember the priests, religious men and women, missionaries and catechists who, despite untold sacrifices, never abandoned their flock, but remained at their service as good and faithful heralds of the Gospel? To them, most particularly, I would like to express my solidarity, and to say: do not grow tired of doing what is right!
+
+We give thanks to the Lord for them, as for so many men and women of every social, cultural and religious background, who with great willingness stand up in concrete ways to every form of violence, and whose efforts are directed at favouring a more secure and just future for all. They offer us moving testimonies, which, as Pope Benedict XVI recalled at the end of the Synod for Africa, show “the power of the Spirit to transform the hearts of victims and their persecutors and thus to re-establish fraternity” (*[Africae Munus](http://w2.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20111119_africae-munus.html)*, 20).
+
+Dear Brother Bishops, in perseverance and without becoming discouraged, go forward on the way of peace (cf. *Lk* 1:79). Accompany the victims! Come to the aid of the poor! Teach the youth! Become promoters of a more just and fraternal society!
+
+I gladly impart to you my Apostolic Blessing, which I ask you to extend to priests, religious, missionaries, catechists, lay faithful and above all to those suffering members of the Body of Christ.
+
+May the Resurrection of the Lord bring conversion, reconciliation and peace to all the people of Nigeria! I commend you to Mary, Queen of Africa, and I ask you also to pray for me.
+
+## FRANCISCUS PP.

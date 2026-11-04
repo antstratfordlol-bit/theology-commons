@@ -1,0 +1,73 @@
+---
+id: jp2-spe-19990125-mexico-departure.en
+work: jp2-spe-19990125-mexico-departure
+title: "Farewell ceremony from Mexico City (January 26, 1999)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1999-01-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1999/january/documents/hf_jp-ii_spe_25011999_mexico-departure.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, pt"
+anchors: "{#jp2-spe-19990125-mexico-departure.N} — numbered paragraphs 1..4 (4 anchors), shared with jp2-spe-19990125-mexico-departure.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Farewell ceremony from Mexico City (January 26, 1999)
+PASTORAL VISIT TO AMERICA
+
+## FAREWELL CEREMONY
+
+## ADDRESS OF JOHN PAUL II
+
+*Benito Juárez International Airport\
+Tuesday, 26 January 1999*
+
+*Mr President,\
+Your Eminences and Brothers in the Episcopate,\
+Distinguished Authorities,\
+Beloved Brothers and Sisters of Mexico,*
+
+### 1 {#jp2-spe-19990125-mexico-departure.1}
+
+The intensive, moving days I have spent with the pilgrim People of God in Mexico have left a deep impression on me. The faces of the many persons I have met during these days are etched on my mind. I am deeply grateful to you all for your cordial hospitality, the genuine expression of the Mexican spirit, and especially for having been able to share intense moments of prayer and reflection during the celebrations of Holy Mass in the Basilica of Guadalupe and at the Hermanos Rodríguez Racetrack, during my visit to Adolfo López Mateos Hospital and at the memorable meeting with the four generations in the Azteca Stadium.
+
+### 2 {#jp2-spe-19990125-mexico-departure.2}
+
+I ask God to bless and reward those who have worked to make this visit possible. I am most grateful to you, Mr President, for your courteous words on my arrival, for receiving me at the Presidential Residence, for all your kindness to me and for the collaboration of the authorities.
+
+I also extend my gratitude to Cardinal Norberto Rivera Carrera, Archbishop of Mexico City and Primate of Mexico, as well as to the other Mexican Cardinals and Bishops and to those who have come from across the continent and have helped make this visit so rich an experience. My gratitude becomes a prayer as I ask heaven to shower the greatest blessings upon this people who on so many occasions have shown their fidelity to God, to the Church and to the Successor of St Peter. For this reason I raise my voice to heaven:
+
+God bless you, Mexico, for the examples of humanity and faith of your people, for your efforts to defend the family and life.
+
+God bless you, Mexico, for your children's love and fidelity to the Church! May the men and women who make up the rich mosaic of your different and fertile cultures find in Christ the strength to overcome old or recent antagonisms and to regard themselves as children of the same Father.
+
+God bless you, Mexico, and all your indigenous peoples, whose progress and respect you wish to promote! They are preserving their rich human and religious values and want to work together to build a better future.
+
+God bless you, Mexico, who strive through a fruitful and constructive dialogue to banish forever the strife that has divided your children! May no one be excluded from this dialogue and may it bring all your inhabitants even closer together, believers loyal to their faith in Christ and those who are far from him. Only fraternal dialogue with everyone will give new life to the plans for future reform desired by citizens of good will, who belong to every religious creed and to the various political and cultural sectors.
+
+God bless you, Mexico, who still miss your children who have emigrated in search of food and work! They too have helped to spread the Catholic faith in their new surroundings and to build an America which wants to be united and fraternal, as the Bishops said during the Synod.
+
+God bless you, Mexico, for recognizing the religious freedom of those who worship him within your borders! This freedom, a guarantee of stability, gives full meaning to the other freedoms and fundamental rights.
+
+God bless you, Mexico, for the Church in your country! The Bishops, together with the priests, consecrated persons and laity committed to the new evangelization, faithful to Christ and his Gospel, have proclaimed God's kingdom in your land for almost five centuries.
+
+### 3 {#jp2-spe-19990125-mexico-departure.3}
+
+Mexico is a great country whose roots are sunk deep in a past enriched by its Christian faith and open to the future with its clear vocation in America and the world. Passing along the roads of the Federal District, remembering the states that constitute this nation, I have again felt the beat of this noble people, who received me with such great affection on my first apostolic journey outside Rome at the beginning of my Petrine ministry. I see in your welcome the faithful reflection of a reality that is making headway in Mexican life: that of a new climate, through respectful, stable and constructive relations between the State and the Church, which are overcoming other times whose lights and shadows are already history. May this new climate foster ever greater collaboration for the benefit of the Mexican people.
+
+### 4 {#jp2-spe-19990125-mexico-departure.4}
+
+At the end of my Pastoral Visit, I would like to reaffirm my full confidence in the future of this people, a future in which Mexico, ever more evangelized and Christian, can become a reference- point in America and the world; a country where democracy, stronger and more deeply rooted, clearer and more effective each day, with the joyous and peaceful coexistence of her peoples, may always live under the tender gaze of her Queen and Mother, Our Lady of Guadalupe.
+
+My last gaze and greeting are directed to her, before I leave this blessed land of Mexico for the fourth time. To her I entrust each and every one of her Mexican children, whose memory I cherish in my heart. Our Lady of Guadalupe, watch over Mexico! Watch over the whole beloved American continent!

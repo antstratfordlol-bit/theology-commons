@@ -1,0 +1,51 @@
+---
+id: francis-spe-20160617-plenaria-pc-laici.en
+work: francis-spe-20160617-plenaria-pc-laici
+title: "To participants in the Plenary Assembly of the Pontifical Council for the Laity (17 June 2016)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2016-06-17
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2016/june/documents/papa-francesco_20160617_plenaria-pc-laici.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20160617-plenaria-pc-laici} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To participants in the Plenary Assembly of the Pontifical Council for the Laity (17 June 2016) {#francis-spe-20160617-plenaria-pc-laici}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO PARTICIPANTS IN THE PLENARY ASSEMBLY OF THE PONTIFICAL COUNCIL FOR THE LAITY
+
+*Friday, 17 June 2016*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2016/6/17/plenarialaici.html)\]
+
+*Dear Brothers and Sisters,*
+
+I would not like these words to be a “*valedictio*”, a farewell to the Dicastery, but I want them to be words of gratitude for all of the work accomplished.
+
+I welcome you on the occasion of your Plenary Assembly. I cordially greet all of you and thank the Cardinal President for his kind words. Your meeting has a special character, considering that, as I have already had occasion to announce, your Pontifical Council will take on a new profile. This concludes a major milestone and marks the opening of a new step for the Dicastery of the Roman Curia, which has accompanied the life, maturation and transformation of the Catholic laity from the Second Vatican Council to today.
+
+Therefore, this is a propitious occasion to look at the almost 50 years of the Dicastery’s work, and at the same time to plan a renewed commitment to the service of the laity, who are constantly active and subject to new problems. The Pontifical Council for the Laity was born at the express will of the Second Vatican Council, which, in the Decree on the Apostolate of the Laity, wanted “a special secretariat” to “be established at the Holy See for the service and promotion of the lay apostolate”, for the purpose of “assisting the hierarchy and laity in their apostolic works with its advice” (*[Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html)*, 26). In this way Blessed Paul VI established this Dicastery, which he did not hesitate to describe as “one of the best fruits of the Second Vatican Council” (Motu proprio *Apostolatus Peragendi*, 10 December, 1976, 697) — and he was the “father” of FUCI, of the youth and of the laity; he worked so hard and felt this so strongly, conceiving of this fruit not so much as a controlling body but rather a coordination centre of study and consultation, with the aim of encouraging lay people to take part “in the life and activity of the Church \[...\] as members of various groups or associations \[...\] and as individuals” (*ibid*.). The Pontifical Council is meant to encourage!
+
+Let us thank the Lord for the abundant fruits and for the many challenges of those years. Let us remember, for example, the new era which, alongside the lay associations with a long and worthy history, has seen the rise of many movements and new communities with great missionary zeal; movements whose development you have followed with care, and assisted in the delicate phase of the legal recognition of their Statutes. There was then the emergence of new lay ministries, which were entrusted with many apostolic activities. In addition, the growing role of women in the Church must be emphasized; with their presence, sensitivity and gifts. And finally, the creation of World Youth Day, the providential inspiration of St John Paul II, an instrument of evangelizing the new generations, to which you have devoted special attention.
+
+We can say, therefore, that the mandate you have received from the Council was precisely to “push” the lay faithful to increased involvement, and in a better way, in the evangelizing mission of the Church, not through a “delegation” of the hierarchy, but because their apostolate “is a participation in the salvific mission of the Church itself. Through their baptism and confirmation all are commissioned to that apostolate by the Lord Himself” (Dogmatic Constitution *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 33). This is “the door”! We enter the Church through Baptism, not through priestly or episcopal ordination, we enter through Baptism! And we have all entered through the same door. It is Baptism that makes every lay faithful a missionary disciple of the Lord, the salt of the earth, the light of the world, the leaven that transforms reality from within.
+
+The activities of the Church, such as those we have mentioned, are increasingly turning towards the faces, minds and hearts of real people. It is important that in your Plenary you wished to remember all those who expended themselves with passion and commitment in the animation, promotion and coordination of the life and apostolate of the laity in the past years. First of all the various Presidents who succeeded each other; then the many Members and Consultors, among whom was Karol Wojtyła himself, who followed this Dicastery with interest and foresight from its first steps; and then the many lay people who have worked for you with generosity and competence, and many others who have silently worked on behalf of the Catholic laity.
+
+In light of the ground covered, it is time to once again look to the future with hope. Much remains to be done in widening the horizons and taking up the new challenges that reality presents. The project of the reform of the Curia arose from here, and in particular your Dicastery’s merger with the Pontifical Council for the Family in conjunction with the Academy for Life. Therefore, I invite you to welcome this reform, in which you will be involved, as a sign of appreciation and esteem for the work you do, and as a sign of renewed confidence in the vocation and mission of the laity in the Church today. The new Dicastery will have as its “rudder”, in order to continue its navigation, on the one hand *[Christifideles Laici](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)* and on the other *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* and *[Amoris Laetitia](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html)*, whose privileged fields of work will be the family and the defence of life.
+
+In this particular historical moment, and in the context of the Jubilee of Mercy, the Church is called to become ever more conscious of being the “house of the Father, where there is a place for everyone, with all their problems” and sinfulness (*[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 47); to be a Church which permanently “goes forth”, an “evangelizing community” that can boldly “take the initiative, go out to others, seek those who have fallen away, stand at the crossroads and welcome the outcast” *(ibid.*, 24). I should like to offer you, as a horizon of reference for your immediate future, a dual task that could be formulated in this way: “A Church that goes forth — a laity that goes forth”. Therefore, you also must look up and look “beyond”, look at the many people who are “distant” in our world, to the many families who are in difficulty and in need of mercy, to the many fields of apostolate that are still unexplored, to the many lay people with good and generous hearts who would willingly put — at the service of the Gospel — their energy, time and skills if they were involved, esteemed and accompanied with affection and dedication by pastors and Church institutions. We need lay people who are formed well, animated by a clear and sincere faith, whose lives have been touched by a personal and merciful encounter with the love of Jesus Christ. We need lay people who take risks, who soil their hands, who are not afraid of making mistakes, who move forward. We need lay people with a vision of the future, who are not enclosed in the petty things of life. And as I said to the young people: we need lay people with a taste of the experience of life, who dare to dream. Today is a time in which young people need the dreams of the elderly. In this throw-away culture, let us not become accustomed to discarding the elderly! Let us push them, push them to dream and — as the prophet Joel says — to “have dreams”, the capacity to dream, and to give all of us the strength of new apostolic visions.
+
+I thank all of you, dear brothers and sisters, Members and Consultors, for your work in the service of this Dicastery, and I encourage you to open yourselves with docility and humility to the newness of God — which surprises and surpasses us, but never disappoints us — in the same way that Mary did, who is our mother and teacher in the Faith. I wholeheartedly impart my Blessing to all of you and to your loved ones. And please, do not forget to pray for me.

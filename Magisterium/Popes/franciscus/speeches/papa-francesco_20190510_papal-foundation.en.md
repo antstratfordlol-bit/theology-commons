@@ -1,0 +1,41 @@
+---
+id: francis-spe-20190510-papal-foundation.en
+work: francis-spe-20190510-papal-foundation
+title: "To members of the Papal Foundation (10 May 2019)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2019-05-10
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2019/may/documents/papa-francesco_20190510_papal-foundation.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, it, pt"
+anchors: "{#francis-spe-20190510-papal-foundation} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To members of the Papal Foundation (10 May 2019) {#francis-spe-20190510-papal-foundation}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO MEMBERS OF THE "PAPAL FOUNDATION"
+
+*Clementine Hall\
+Friday, 10 May 2019*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2019/5/10/papal-foundation.html)\]
+
+*Your Eminence,\
+Dear Friends*, *Good morning*!
+
+I am pleased to greet you, the members of The Papal Foundation, during your pilgrimage to Rome. It is a joy for me to be with you once again and to express my gratitude for the generous support you offer to me and to the Church in so many parts of the world. During this holy season of Easter, we unite in celebrating the Lord’s victory over sin and death, the gift of a new life and a new creation, and the outpouring of the Holy Spirit. May the joy of the resurrection always fill our hearts, and may your prayerful visit to the tombs of the apostles and martyrs strengthen you in your fidelity to the Lord and his Church.
+
+In the years since your Foundation was established, you have contributed much to the fostering of a spirit of fraternity and peace. Through your support of various educational, charitable and apostolic projects, as well as the scholarships made available to lay men and women, those living the consecrated life and priests, you give witness to the untiring efforts of the Church to promote the integral development of the human family. In a world that is sadly marked by violence and conflict; poverty, both material and spiritual; and all too often the indifference of many, your work helps to bring the Gospel message of hope and mercy to all who benefit from your commitment and generosity. For this I thank you, and I pray that you will be renewed in your purpose to help build the Churchin unity and advance her charitable outreach to the least of our brothers and sisters.
+
+The mission of The Papal Foundation is linked in solidarity with the Successor of Peter. I ask you, then, to continue to pray for me, to pray for my ministry, for the needs of the Church, the spread of the Gospel and the conversion of hearts. I entrust all of you, together with your families, to the loving intercession of Mary, Mother of the Church, and I cordially impart my Apostolic Blessing as a pledge of joy and peace in Christ our Risen Saviour.

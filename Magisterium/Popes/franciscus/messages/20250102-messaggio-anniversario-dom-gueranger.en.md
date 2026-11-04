@@ -1,0 +1,53 @@
+---
+id: francis-mes-20250102-anniversario-dom-gueranger.en
+work: francis-mes-20250102-anniversario-dom-gueranger
+title: "Message of the Holy Father on the occasion of the 150th anniversary of the death of Dom Prosper Guéranger (2 January 2025)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Message
+url_date: 2025-01-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/messages/pont-messages/2025/documents/20250102-messaggio-anniversario-dom-gueranger.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, fr, it"
+anchors: "{#francis-mes-20250102-anniversario-dom-gueranger} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Message of the Holy Father on the occasion of the 150th anniversary of the death of Dom Prosper Guéranger (2 January 2025) {#francis-mes-20250102-anniversario-dom-gueranger}
+## MESSAGE OF THE HOLY FATHER FRANCIS ON THE OCCASION OF THE 150th ANNIVERSARY OF THE DEATH OF DOM PROSPER GUÉRANGER
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*To the Very Reverend Father Dom Geoffroy Kemlin\
+Abbot of Saint-Pierre de Solesmes\
+and President of the Congregation of Solesmes OSB*
+
+As you celebrate this year the 150th anniversary of the death of your founder, Dom Prosper Guéranger, I am pleased to join in your thanksgiving. I wish to express my encouragement and my affectionate closeness to those who have committed their lives in the wake of this servant of the Church, or who are working to make his life and work better known. *Benedic anima mea Domino*. This verse from Psalm 102 was one of the last words he spoke before committing his soul to the hands of the Father on 30 January 1875.
+
+In evoking Dom Guéranger, my predecessors have underlined the various expressions of his charism received for the edification of the whole Church: his role as restorer of Benedictine monastic life in France, his liturgical knowledge placed at the service of the People of God, his ardent piety towards the Sacred Heart of Jesus and the Virgin Mary, his work in support of the definition of the dogma of the Immaculate Conception and that of papal infallibility, his writings in defence of the freedom of the Church. I would also like to highlight two aspects of this charism that correspond to two current needs of the Church: fidelity to the Holy See and the Successor of Peter, particularly in the area of liturgy, and spiritual paternity.
+
+Dom Guéranger was undoubtedly one of the first architects of the Liturgy Movement, the fruit of which would be the Constitution *[Sacrosanctum Concilium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)* of the [Second Vatican Council](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm). The historical, theological and ecclesiological rediscovery of the liturgy as the language of the Church and an expression of its faith was at the heart of his work, first as a diocesan priest and then as a Benedictine monk. This rediscovery inspired in particular his publications favouring the return of the dioceses of France to the unity of the Roman liturgy, and it was this rediscovery that prompted him to write the volumes of *L’année liturgique *in order to make available to priests and lay people the beauty and riches of the liturgy, which is “the first wellspring of Christian spirituality” (Apostolic Letter *[Desiderio desideravi](https://www.vatican.va/content/francesco/en/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html)*, no. 61). He strongly affirmed that “the prayer of the Church is the most pleasing to the ear and heart of God, and therefore the most powerful. Happy, then, is he who prays with the Church” (Preface to *L’année liturgique*). May the example of Dom Guéranger inspire in the hearts of all the baptised not only love for Christ and his Bride, but also filial trust and docile collaboration *cum Petro et sub Petro*, so that the Church, faithful to her living Tradition, may continue to raise “one and the same prayer capable of expressing her unity” (Apostolic Letter *[Desiderio desideravi](https://www.vatican.va/content/francesco/en/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html)*, no. 61).
+
+I would also like to evoke another aspect of the charism of Dom Guéranger: spiritual paternity. Attentive to the work of the Holy Spirit in souls, Dom Guéranger wanted only one thing: to help them in their search for God. Shaped by the Benedictine Rule and divine praise, his gentle and joyful confidence in God touched the hearts of the monks who came to gather around him, the nuns who benefited from his teachings, but also the men and women with responsibilities in the Church and society, and above all the fathers and mothers of families, the children, the little ones and the humble who sought his spiritual advice. In times of peace, as in times of adversity, they all found in him the strengthening or renewal of their faith, a taste for prayer and love of the Church. May his example of docility to the Holy Spirit and of service inspire and guide many of the faithful in the ways of the Lord, “meek and humble of heart” (*Mt* 11:29).
+
+I pray that the work of the Servant of God Dom Guéranger may never cease to produce fruits of holiness in all the faithful, and that it may also remain a living witness to the fruitfulness of monastic life at the heart of the Church.
+
+It is with this wish that I impart my Blessing to you, Reverend Father, and to your brothers of the Abbey of Saint-Pierre, to those of the Congregation of Solesmes, and to all those who will take part in the commemorations of the return to God of Dom Prosper Guéranger.
+
+*From Saint John Lateran, 2 January 2025*
+
+FRANCIS
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*[Holy See Press Office Bulletin](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/01/30/250130a.html)*, 30 January 2025

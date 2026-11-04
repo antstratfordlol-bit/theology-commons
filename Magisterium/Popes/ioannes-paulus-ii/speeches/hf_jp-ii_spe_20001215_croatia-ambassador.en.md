@@ -1,0 +1,81 @@
+---
+id: jp2-spe-20001215-croatia-ambassador.en
+work: jp2-spe-20001215-croatia-ambassador
+title: "To the Ambassador of Croatia accredited to the Holy See on the occasion of the presentation of Credentials (December 15, 2000)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2000-12-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2000/oct-dec/documents/hf_jp-ii_spe_20001215_croatia-ambassador.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, fr, it, pt"
+anchors: "{#jp2-spe-20001215-croatia-ambassador.N} — numbered paragraphs 1..7 (7 anchors), shared with "
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Ambassador of Croatia accredited to the Holy See on the occasion of the presentation of Credentials (December 15, 2000)
+***ADDRESS OF THE HOLY FATHER JOHN PAUL II\
+TO THE NEW AMBASSADOR\
+OF*** ***CROATIA TO THE HOLY SEE\*****
+
+Friday, 15 December 2000*
+
+*Mr Ambassador,*
+
+### 1 {#jp2-spe-20001215-croatia-ambassador.1}
+
+As I cordially welcome you, I receive with pleasure the Letters accrediting you as Ambassador Extraordinary and Plenipotentiary of the Republic of Croatia to the Holy See. I thank you for your kind words to me, recalling the commitments and hopes of the country you represent.
+
+First of all, I would like to convey through you my respectful and cordial greeting to President Stjepan Mesic and to all the inhabitants of the beautiful, hospitable land of Croatia, which I have been able to visit twice:  in September 1994 and in [October 1998](http://www.vatican.va/holy_father/john_paul_ii/travels/sub_index/trav_croatia-1998.htm). These visits were special opportunities which permitted me to perceive at close hand the Croatian people's spiritual strength and their rich religious and cultural inheritance. This enables them, as a sovereign nation, to help in building an international community oriented to a stable peace on the basis of effective equality, reciprocal respect and active solidarity in the various social contexts, from the economic and technological to the cultural and political.
+
+### 2 {#jp2-spe-20001215-croatia-ambassador.2}
+
+Ten years ago Croatia, an ancient and noble nation, joined the great family of European nations that enjoy freedom and democracy, and with them it looks to the future with optimism and hope.
+
+The dictatorships to which it was subjected in the last century remain as a severe warning not to be forgotten. The disastrous consequences produced by these negative ideologies are a pressing invitation not to let tragic experiences of this kind be repeated in any part of the world in the future.
+
+May these pages of history, scarred by unforgettable human and social tragedies, help European countries to be ever more aware of the need to overcome together the tragic inheritance of the various totalitarian regimes, thereby making Europe a common home, an area of effective solidarity, steeped in the Gospel values that have shaped its history. Today, more than ever, the European nations are called to an ever greater collaboration, characterized by reciprocal esteem, constructive understanding and an ennobling interdependence.
+
+### 3 {#jp2-spe-20001215-croatia-ambassador.3}
+
+Croatia is walking on the path of democracy. But this is not always an easy route because of the experiences that marked the past and the recent war which has impeded the orderly progress of the country and the region. It must continue on the path it has taken, giving proof of great patience, wisdom, willingness to make sacrifices, generous solidarity and a spirit of reconciliation. This commitment challenges individual citizens, but even more their leaders. Understanding, constancy, careful consideration are demanded of all, so that Croatia may overcome its problems and attain the noble goals to which it aspires.
+
+The progress of the last 10 years is an encouragement to work for an ever better future for the country. I hope that this process will continue, thanks to the concrete and generous solidarity of the more developed countries. Only in this way can the prospects of an improvement in living conditions become reality, in a context of lasting peace and national reconciliation, without which a nation can make no progress.
+
+### 4 {#jp2-spe-20001215-croatia-ambassador.4}
+
+Freedom and democracy with equal rights and duties should be guaranteed to all the European nations, whether large or small. This is the way towards a future of stable peace and authentic development, for the benefit not only of Europe. Democracy, in fact, is not imposed nor improvised, but on the contrary demands education and support. This requires a constant growth in the civil and social conscience and uninterrupted participation by all the country's members in building the common good, never losing sight of the truth about man and woman created by God in his image and likeness (cf. *Gn* 1:26-27).
+
+Democracy demands of State structures that they serve all citizens, not only individual groups, and that a stable dialogue be developed among all the political and social components, sharing in the search for the common good and with respect for each and every one. Those who are called to serve the community are bound to refer in all circumstances to the ethical principles and moral norms on which any society must be based. Those who have the honour to be political representatives cannot but refer to this patrimony of values: they must be constructively committed to the effective advancement of the person, the family and all society. This implies the constant awareness that they must act as wise and prudent defenders and stewards of the common good.
+
+### 5 {#jp2-spe-20001215-croatia-ambassador.5}
+
+In facing the difficult challenges of the current time it is particularly important that all who have leadership positions in the context of State administration know how to imbue in the people hope and trust, with special attention to the weaker and needier persons and classes. It is indispensable to take into account the legitimate and just demands of families and young people, in the economic and social as well as juridical and political contexts; the individual person and human life in all its phases must be protected, from the moment of conception to its natural end.
+
+Families and youth rightly expect to be able to live by honest work in order to build a serene future confidently. The dignity of human work requires legislation that prevents abuse and, by encouraging an equitable sharing of wealth, creates a favourable general atmosphere for promoting employment, social peace and the achievement of true progress.
+
+### 6 {#jp2-spe-20001215-croatia-ambassador.6}
+
+The Church, for her part and keeping within her own sphere, will not fail to make her contribution, primarily by witnessing to those values which by their nature are not subject to the changes of social or historical circumstances, since they are rooted in human reality itself. This service is wholly for the benefit of people, families and all of civil society.
+
+In her commitment to advancing the human cause, the Church recognizes vast areas of collaboration with the State. Within this framework, how can the Agreements stipulated between the Holy See and the Republic of Croatia be forgotten? They are very important instruments of collaboration which, with respect for the reciprocal autonomy and competence of each, encourage a harmonious relationship between the Church and the State entirely for the benefit of Croatian citizens.
+
+### 7 {#jp2-spe-20001215-croatia-ambassador.7}
+
+Mr Ambassador, I express the wish that the fulfilment of the lofty task entrusted to you will further intensify the already good and cordial relations that exist between the Holy See and the Republic of Croatia. I wish you a pleasant stay in this city of Rome, rich in history, culture and Christian faith. I am certain that those who work with me will not fail in their contact with you, to have an attitude of open availability, in order to deal with the problems and difficulties as they arise.
+
+As I implore the intercession of the most holy Mother of God, venerated as *Advocata Croatiae fidelissima,* and of St Joseph, Patron of Croatia, for you, for your distinguished family, for the leaders of your noble country and for all the sons and daughters of this beloved nation, I cordially impart my Apostolic Blessing to you, to your loved ones and to all those whom you represent as ambassador.
+
+\*
+
+*L'Osservatore Romano. Weekly edition in English 2001* n.1 pp. 8, 10.

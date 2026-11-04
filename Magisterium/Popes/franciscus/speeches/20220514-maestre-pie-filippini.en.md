@@ -1,0 +1,56 @@
+---
+id: francis-spe-20220514-maestre-pie-filippini.en
+work: francis-spe-20220514-maestre-pie-filippini
+title: "Pilgrims from the Institute of the Maestre Pie Filippini, and of the dioceses of Viterbo and Civitavecchia-Tarquinia, on the occasion of the 350th anniversary of the birth of Saint Lucy Filippini (14 May 2022)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2022-05-14
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2022/may/documents/20220514-maestre-pie-filippini.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, it, pt"
+anchors: "{#francis-spe-20220514-maestre-pie-filippini} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Pilgrims from the Institute of the Maestre Pie Filippini, and of the dioceses of Viterbo and Civitavecchia-Tarquinia, on the occasion of the 350th anniversary of the birth of Saint Lucy Filippini (14 May 2022) {#francis-spe-20220514-maestre-pie-filippini}
+***ADDRESS OF HIS HOLINESS POPE FRANCIS TO PILGRIMS FROM THE INSTITUTE OF THE MAESTRE PIE FILIPPINI, AND OF THE DIOCESES OF VITERBO AND CIVITAVECCHIA-TARQUINIA, ON THE OCCASION OF THE 350th ANNIVERSARY OF THE BIRTH OF SAINT LUCY FILIPPINI***
+
+*Paul VI Audience Hall\
+Saturday, 14 May 2022*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2022/5/14/maestre-pie-filippini.html)\]
+
+Dear brothers and sisters,
+
+Welcome! I greet the Sisters of the Maestre Pie Filippini, the Mother General and all of you, faithful of the dioceses of Viterbo and Civitavecchia-Tarquinia, accompanied by your respective bishops and priests. A cordial greeting also to the mayors and other authorities present here. And to you, children of the First Communion!
+
+I take part in your joy for the 350^th^ anniversary of the birth of Saint Lucy Filippini. This jubilee Year is a valuable time for each one of you: it is like a return to the sources to draw new energies for the future; but it is also an opportunity to thank the Lord and also to ask him to be channels of that same grace that Saint Lucy gathered and distributed generously to so many people. I would like to share two brief thoughts with you: one more directly addressed to the Institute of the Maestra Pie Filippini; the other for all of you, devotees of Saint Lucy.
+
+Dear Maestre Pie, your mission is demanding, starting right from your name, *Maestre.*
+
+A *maestro* is someone who teaches. However, a proverb says that one does not teach what one says, but what one is. We transmit to others what we have within ourselves. It is not enough to fill heads with ideas, this is not educating; educating is transmitting life. And being *maestri* means living a mission. Besides, if we give good speeches but our lives point in another direction, we risk merely being actors playing a part, not educators.
+
+The example of your founder can help you in living this mission. Saint Lucy is usually represented with the crucifix in her hand, or in the act of pointing to it. She knew how to teach many people, primarily because she herself never ceased to be a disciple of Jesus the Master, and to stand before his chair, the cross. She kept God who gives life before her eyes and felt called to make life a gift. Thus, to others she transmitted what she kept in her heart: not sermons, not theories, but content and life. Her mission as an educator was no different from her mystical experience.
+
+Dear sisters, all this reminds us that one cannot be satisfied with “teaching” Jesus; Jesus is first of all witnessed to. This is how faith is transmitted. God is only communicated if he dwells in our lives, if he fills our affections, if he unites our thoughts and inspires our actions. And what is the proof of this? Our openness to others: those who know the Lord do not shut themselves away in the sacristy, but live to serve, without caring where or what they are asked to do. Living service, because service is the great teaching of the Master, who came to serve and not to be served (cf. *Mk* 10:45).
+
+We often speak about the difficulties of religious life, of the lack of vocations and so on. I would like to give you some advice, that does not represent an immediate solution to these problems, but the way to address them: we are not required primarily to “put Jesus in the centre”, as though we were the protagonists; we are required, first and foremost, to *remove ourselves from the centre*, which belongs to him. To live consecration as a call to service. It is this which enables Jesus to work in us as he wishes and to teach us how to defeat resignation and nostalgia, to interpret our complex era, and to set out courageously on new paths in step with the times. It will do you good to remember the image of Saint Lucy with the crucifix in her hand: the centre belongs not to us, but to him, and we will be good teachers if we remain disciples, called every day to serve, with joy!
+
+A second thought, addressed to all of you who are celebrating Saint Lucy Filippini. This woman had a secret: she lived with a constant trust in God, because he, she said, “*cannot cease to be my father*”. I would like to repeat these words to you: He cannot let go of being my father. Often, in life, we worry because we have to leave many things behind: some of our securities, the years of youth, our health, perhaps loved ones, and so on... Well, if in life there are people and things that, sooner or later, we have to leave behind, there is a presence that will never leave us, a fundamental certainty that will always accompany us and that nothing and no one will ever be able to erase: *God cannot cease to be my father*. This is beautiful! Shall we all repeat it together? God cannot cease to be my father. One more time, louder: God cannot cease to be my father. Carry it in your heart, this thought. Everything can leave us, but not God’s tenderness. Let us always remember it, especially in dark times: God never abandons us, because he cannot cease to be our father. Let us repeat together: God cannot cease to be my father.
+
+Let us keep in our hearts this good news, that nurtures faith. I hope you will be able to announce it to those you meet, to rekindle hope in them. There is a great need for it today; it is a mission that affects every one of us. I wish you a good mission, then: I give you all my blessing, and I ask you, please, to pray for me. Thank you!
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*[Bulletin of the Holy See Press Office](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2022/05/14/220514g.html)*, 14 May 2022

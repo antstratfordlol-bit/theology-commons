@@ -1,0 +1,58 @@
+---
+id: b16-ang-20060305.en
+work: b16-ang-20060305
+title: "Angelus, 5 March 2006"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2006-03-05
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2006/documents/hf_ben-xvi_ang_20060305.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20060305} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 5 March 2006 {#b16-ang-20060305}
+BENEDICT XVI
+
+## ANGELUS
+
+*Saint Peter's Square\
+First Sunday of Lent, 5 March 2006*
+
+*Dear Brothers and Sisters,*
+
+This past Wednesday we began Lent, and today we are celebrating the first Sunday of this liturgical season that encourages Christians to set out on a path of preparation for Easter.
+
+Today, the Gospel reminds us that Jesus, after being baptized in the River Jordan and impelled by the Holy Spirit who settled upon him and revealed him as the Christ, withdrew for 40 days into the Desert of Judea where he overcame the temptations of Satan (cf. Mk 1: 12-13). Following their Teacher and Lord, Christians also enter the Lenten desert in spirit in order to face with him the "fight against the spirit of evil".
+
+The image of the desert is a very eloquent metaphor of the human condition. The Book of Exodus recounts the experience of the People of Israel who, after leaving Egypt, wandered through the desert of Sinai for 40 years before they reached the Promised Land.
+
+During that long journey, the Jews experienced the full force and persistence of the tempter, who urged them to lose trust in the Lord and to turn back; but at the same time, thanks to Moses' mediation, they learned to listen to God's voice calling them to become his holy People.
+
+In meditating on this biblical passage, we understand that to live life to the full in freedom we must overcome the test that this freedom entails, that is, temptation. Only if he is freed from the slavery of falsehood and sin can the human person, through the obedience of faith that opens him to the truth, find the full meaning of his life and attain peace, love and joy.
+
+For this very reason Lent is a favourable time for a diligent revision of life through recollection, prayer and penance. The Spiritual Exercises, which will begin this evening in accordance with tradition and continue until next Saturday here in the Apostolic Palace, will help me and my collaborators in the Roman Curia to enter with greater awareness into this characteristic Lenten atmosphere.
+
+Dear brothers and sisters, as I ask you to accompany me with your prayers, I assure you of my remembrance to the Lord, so that Lent may be for all Christians an opportunity for conversion and a more courageous effort towards holiness. For this, let us invoke the Virgin Mary's motherly intercession.
+
+## ***
+
+## After the Angelus:
+
+Next Saturday, 11 March, at 5 p.m. in the Paul VI Audience Hall, a Marian Vigil will be held, organized by Rome's young university students. Many students in other European countries and in Africa will also be taking part, thanks to radio and television link-ups. It will be a favourable opportunity to pray to the Blessed Virgin that the Gospel will open new ways for cooperation among the peoples of Europe and Africa. Dear young people, I expect many of you!
+
+To all the English-speaking pilgrims and visitors I extend a warm welcome. In a special way I greet the students from Trondheim Katedralskole in Norway and those from Duquesne University in the United States. As we begin this holy season of Lent, I pray that Almighty God will continue to bless the members of your communities with a vigorous faith and a generous spirit. Upon all of you, I invoke the abundant Blessings of Almighty God.
+
+I wish you all a good Sunday and a good Lent!

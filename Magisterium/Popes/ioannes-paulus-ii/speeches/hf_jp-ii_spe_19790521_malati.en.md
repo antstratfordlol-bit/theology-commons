@@ -1,0 +1,57 @@
+---
+id: jp2-spe-19790521-malati.en
+work: jp2-spe-19790521-malati
+title: "To a group of sick persons (May 22, 1979)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1979-05-21
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/may/documents/hf_jp-ii_spe_19790521_malati.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it, pt"
+anchors: "{#jp2-spe-19790521-malati} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To a group of sick persons (May 22, 1979) {#jp2-spe-19790521-malati}
+## ADDRESS OF HIS HOLINESS JOHN PAUL II TO A GROUP OF SICK PERSONS
+
+*22 May 1979*
+
+*Beloved sons*,
+
+Allow me to manifest to you, without circumlocutions or introductory periphrases, but with immediate spontaneity, the various feelings in my heart, at this meeting. It takes place in such a poetic setting of silence, peace, and prayer, during a limpid and serene evening in May, at the foot of the Grotto of Our Lady, or, better, close to the Heart of the Blessed Mother who looks at us and smiles to us from the grotto constructed in these Vatican Gardens, in devout and perennial memory of that place, near the Pyrenees, where she appeared, last century, as a heavenly vision, a messenger of hope and love for suffering and sinful humanity!
+
+My first thought is of sincere satisfaction and deep gratitude for all those who have promoted and organized this meeting of ours. It could be defined a "family meeting", because we are all gathered round the Blessed Virgin for a simple, spontaneous and affectionate dialogue, as happens between children and their mother, who sees everything, even the deepest secrets; who understands everything, even the longest silences; who enlivens everything, even the most insignificant things.
+
+Thanks to you all, for coming to visit the Pope. Thanks, again, for the delicate sentiments you harbour in your hearts for the Vicar of Christ and which you intend to manifest on this particular occasion. Thanks, finally, for your presence, which can be considered almost a "sacramental presence" of Christ! Yes, you are, in your wounded and painful flesh, the expression of Christ Crucified, and as it were the prolongation of his Passion, so that each of you can repeat with St Paul: "In my flesh I complete what is lacking in Christ's afflictions for the sake of his *body,* that is, the church" (Col 1:24); and again: "we suffer with him in order that we may also be glorified with him" (Rom 4:17). Christ, therefore, chooses you, unites you and assimilates you to himself with the irreplaceable, ineffable means of suffering, through which he imprints in you his painful image and continues to carry out the work of Redemption.
+
+What, then, is the value of our suffering? You have not suffered or do not suffer in vain. Pain matures you in spirit, purifies you in heart, gives you a real sense of the world and of life, enriches you with goodness, patience and endurance, and—hearing the Lord's promise re-echo in your heart: \`"Blessed are those who mourn, for they shall be comforted" (Mt 5:4)—gives you the sensation of deep peace, perfect joy, and happy hope. Succeed, therefore, in giving a Christian value to your suffering, succeed in sanctifying your suffering, with constant and generous trust in him, who comforts and gives strength. I want you to know that you are not alone, or separated, or abandoned in your "Via Crucis"; beside you, each one of you, is the Blessed Virgin, who considers you her most beloved children: Mary, who "is a mother to us in the order of grace... from the consent which she loyally gave at the Annunciation and which she sustained without wavering beneath the cross..." (*[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html),* 61-62), is close to you, because she greatly suffered with Jesus for the salvation of the world.
+
+Look to her with full confidence and filial abandonment: she looks at you with a special glance, she smiles to you with motherly tenderness, she follows you with solicitous care!
+
+May this sweet Mother assist you and protect you always. We pray to her for you, that she may be close to you, comfort you, give you peace and lead to fulfilment in you—for the good of the Church, for the spread of the Gospel, for the peace of the world—that plan of grace and love which unites you more closely to Jesus Christ and configures you to him. I am certain that you will pray for the Pope and offer your sufferings to the Lord also for him, won't you? In this way, our mutual cordial talk will continue beyond this very short space of time.
+
+To all of you, finally, to your relatives, to the doctors and those who assist you and look after you continually and affectionately, I impart the Apostolic Blessing, as a forecast of abundant heavenly favours and a token of my fatherly benevolence.
+
+*To the members of the International Catholic Committee for the Blind:*
+
+I wish to greet also the members of the International Catholic Committee for the Blind, who are preparing their eleventh international Congress.
+
+Dear friends, I know your efforts in the service of the blind, especially in the developing countries where life is even more difficult for them. Receive all my encouragement!
+
+Certainly, nature revolts spontaneously before suffering and infirmity. Is it not necessary, moreover, to reject them in a way in order to succeed in transcending them, in living, in spite of them, as fully as possible? That is, in fact, the meaning of the social action of your Committee.
+
+But faith in the Risen Christ opens to a deeper perspective. The Exultet of Easter tells us that he is "the light which knows no decline", "qui nescit occasum"! Seek this light of the soul. Through it, suffering united with that of Our Lord and of the Virgin Mary at the foot of the cross, opens the way to eternal life, for oneself and for others.
+
+May your Congress, for the third age, work according to this double inspiration. Help the blind to live fully on the human plane. Help them also to progress generously towards this spiritual light "which knows no decline", which can illuminate and warm all old age, in spite of its sorrows, up to the last moment. May the Virgin of Light, who must be invoked every day, guide you herself in your apostolate. Be assured of my prayer for you and for all the blind persons you represent, and receive my blessing.

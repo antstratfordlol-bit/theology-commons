@@ -1,0 +1,50 @@
+---
+id: francis-spe-20150216-pro-petri-sede.en
+work: francis-spe-20150216-pro-petri-sede
+title: "To the delegation of the 'Pro Petri Sede' Association (16 February 2015)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2015-02-16
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2015/february/documents/papa-francesco_20150216_pro-petri-sede.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, fr, it, pt"
+anchors: "{#francis-spe-20150216-pro-petri-sede} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the delegation of the "Pro Petri Sede" Association (16 February 2015) {#francis-spe-20150216-pro-petri-sede}
+.
+
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO THE DELEGATION OF THE "PRO PETRI SEDE" ASSOCIATION
+
+*Consistory Hall\
+Monday, 16 February 2015*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2015/2/16/propetrisede.html)\]
+
+*Dear Friends,*
+
+I welcome you, members of the *Pro Petri Sede* Association, with joy on the occasion of your pilgrimage to the Tombs of the Apostles, with which you nourish your faith and manifest your fidelity to Peter’s Successor.
+
+I express gratitude for your commitment to serving the poor. The growing number of people who are marginalized and live in great insecurity challenge us and ask us for greater solidarity to give them the material and spiritual support they need. At the same time the poor whom we approach and help can give us much.
+
+In contending with their difficulties they are often witnesses of the essential, of family values; they are capable of sharing with those poorer than themselves and they know how to rejoice, as I was also able to observe on my recent Apostolic Visit to Asia. Indifference and selfishness are always lurking. Attention to the poor enriches us, placing us on a path of humility and truth. St Paul wrote to the Corinthians: “What have you that you did not receive?” (1 Cor 4:7). Their presence is a reminder of our common humanity, of the fragility of life, of dependence on God and on brothers and sisters. Therefore, I invite you, particularly on the occasion of Lent, which is about to begin, to ask that the Lord give you a poor and merciful heart, one which realizes its own poverty and gives itself freely for others (cf. *Message for Lent 2015*, n. 3).
+
+With the precious gift that you give today to Peter’s Successor, you come in aid of the peoples harshly tried in various parts of the world. With this solidarity you also offer them spiritual comfort that they may not feel forgotten in their trials, but continue to ceaselessly hope. I heartily thank you for this on their behalf. I also invite you to pray steadfastly for peace, in order that political leaders may find channels for dialogue and reconciliation.
+
+Dear friends, I hope your pilgrimage may increase in each one of you the sense of belonging to the Church, which is a great family, and the joy of proclaiming the Gospel to all. May fraternity be strengthened among you so that you may carry on your mission at the service of the poor and the small ones, for whom Jesus had a preferential love. Entrusting you to the intercession of the Blessed Virgin Mary, to St Peter and the Saints of your countries, I wholeheartedly impart the Apostolic Blessing to you, your families and all the members of your Association. And please, do not forget to pray for me.
+
+*Before taking his leave, the Pontiff added the following words off the cuff:*
+
+Before concluding, I would like to add a few words. I am thinking of Belgium and Holland: these two countries have filled the world with missionaries, and today they are in a vocational crisis. I would like to ask you to knock at Jesus’ heart that the generosity these two countries had in former times may not be forgotten. And that He send vocations there, to Belgium and Holland, so the life of faith may grow stronger. You work with the poor and love the poor, but also think of the poor in faith, who do not have faith because there is no one who preaches. May the Lord send priests to proclaim the faith. And please, pray for vocations in your countries.

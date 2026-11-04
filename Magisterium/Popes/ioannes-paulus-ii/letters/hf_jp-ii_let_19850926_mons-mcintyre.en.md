@@ -1,0 +1,45 @@
+---
+id: jp2-let-19850926-mons-mcintyre.en
+work: jp2-let-19850926-mons-mcintyre
+title: "Message to the General Secretary of the United Nations Conference on Trade and Development (September 26, 1985)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Letter
+url_date: 1985-09-26
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/letters/1985/documents/hf_jp-ii_let_19850926_mons-mcintyre.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it"
+anchors: "{#jp2-let-19850926-mons-mcintyre} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Message to the General Secretary of the United Nations Conference on Trade and Development (September 26, 1985) {#jp2-let-19850926-mons-mcintyre}
+## Message of John Paul II to the General Secretary of the United Nations Conference on Trade and Development (September 26, 1985)
+
+The world economic crisis and various other factors have not permitted the realization of all the objectives defined since the Conference meeting on the Least Developed Countries in Paris, September 1981, and even after the elaboration of the substantial new program of action for the '80s. So, at this half‑way point, a general evaluation of the implementation of this programme of action is very appropriate. Further, it is a cause for satisfaction to see the intergovernmental Group of Experts on the Least Developed Countries meeting within the structure of UNCTAD and with its help. I am very happy to express my warm encouragement to all those who are participating in this session in Geneva. I warmly wish that the political will, based on an objective analysis of the present situation, will be reactivated to adopt more just and effective measures toward the solution of one of the gravest problems of our times.
+
+During my recent pastoral visit to Africa, I did not fail to emphasize, on several occasions, how I cherish the progress of all peoples; responsibility lies with the governments and the peoples in each country, but also in an interdependent way, with the whole community of nations. Therefore, at Yaounde, for example, I spoke to the President of the Republic, to the constituent bodies and to the diplomatic corps. With the active support of the international community in the areas of food, health and investments, the efforts of African countries, certainly conditioned by limited means, would, however, be capable progressively to meet the economic and social challenge which devastates and humiliates the great majority of their inhabitants. During the work of the session, I do not doubt that the participants, considering attentively the technical reports and the statistics, will have their minds and hearts really captured by the human dramas which millions and millions of our fellow human beings live daily in the poorest countries. All these brothers and sisters are worthy of our solidarity. However, isn't it appropriate to grant a certain priority to those youth without work, without a future and sometimes already suffering in their health and their development?
+
+Also, I am anxious to touch a delicate, sad question. I am speaking of the torment of the leaders in several countries who do not know how to face the agonizing problem of debt. Without wishing to enter into technical considerations, I would like however to mention this problem which constitutes one of the most complex aspects of the general situation of the international economy. A structural reform of the world financial system is doubtless one of the most urgent and necessary initiatives.
+
+Nevertheless, allow me to propose two points of reflection for your kind attention. First, it seems to me necessary to search out and to concretize measures capable of helping the indebted and least developed countries to become self‑sufficient, or at least largely self‑sufficient, in the area of food. Then, I would like to emphasize the specifically Christian value of charity. This value would lead, especially in urgent cases, to political and economic decisions which are not only dictated by considerations of strictly human justice, but inspired by a generosity of a superior order, called love of neighbor by Christians and an expression of the love of God. The Gospel gives us enlightening teaching and striking examples on this subject. In this way, technical adjustments will be at the service of a political decision in the most noble sense of the term. Peace is built or rebuilt among nations thanks to this profound understanding of the common good of humanity and to such courageous decisions. In families, love does not contradict justice but gives it a dimension and a quality which allows trials to be overcome and crises to be surmounted. Thus the great community of peoples can help all the human family to progress in the ways of effective solidarity and to consolidate the deep aspirations for peace.
+
+Again, I wish that the important and delicate work of this sixth session of the Intergovernmental Group of Experts on the Least Developed Countries will fully meet all expectations.
+
+The well‑being of two‑thirds of humanity now confronting insupportable poverty depends on it.
+
+The honor and the conscience of the peoples who are living in opulence depends on it. 1 invoke abundant light and divine strength on the governments, the experts, the advisers and all the participants in this humanitarian session who can again give hope to our brothers and sisters in the least advanced countries.
+
+## JOHN PAUL II
+
+\**Paths to Peace* p. 221-222.

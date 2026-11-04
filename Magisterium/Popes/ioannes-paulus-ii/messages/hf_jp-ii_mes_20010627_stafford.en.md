@@ -1,0 +1,58 @@
+---
+id: jp2-mes-20010627-stafford.en
+work: jp2-mes-20010627-stafford
+title: "Message to Cardinal Stafford for the Pastoral Theological Convention regarding: 'The Ecclesial Movements for the New Evangelization' (June 21, 2001)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Message
+url_date: 2001-06-27
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+also_listed_on_vatican_va_as: "jp2/speeches/hf_jp-ii_spe_20010627_stafford — the same work cross-filed under another heading or slug; one file is kept, this one"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/2001/documents/hf_jp-ii_mes_20010627_stafford.html"
+fetch_date: 2026-08-23
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#jp2-mes-20010627-stafford.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-mes-20010627-stafford.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-30
+---
+
+# Message to Cardinal Stafford for the Pastoral Theological Convention regarding: "The Ecclesial Movements for the New Evangelization" (June 21, 2001)
+## MESSAGE OF JOHN PAUL II ON THE OCCASION OF THE THEOLOGICAL PASTORAL CONVENTION ON ECCLESIAL MOVEMENTS
+
+*To my Venerable Brother Cardinal James Francis Stafford \
+President of the Pontifical Council for the Laity*
+
+### 1 {#jp2-mes-20010627-stafford.1}
+
+I learned with pleasure that on the initiative of the Focolari Movement a Theological Pastoral Convention will be held in Castelgandolfo from 26 to 29 June on the theme:  "Ecclesial movements for the new evangelization". To you, who have the responsibility to accompany and guide the "ecclesial movements" in communion and according to the mission of the Church, I ask to convey my cordial greeting to Miss Chiara Lubich, to her collaborators and to the convention's speakers, and to all the priests, permanent deacons and seminarians studying theology who will be taking part.
+
+In the Apostolic Letter *Novo Millennio ineunte,* I pointed out the path that the Church, living out of the abundant outpouring of grace she received during the recent Great Jubilee, is called to take at the dawn of the third millennium. The Church must "start afresh from Christ", with her gaze fixed on him and steeping herself in his mystery. She must strive to be a school of communion and active charity for everyone. Thus, sustained by the power of the Holy Spirit, despite human frailty, the Church will be able to bear witness to God's love in all the areas where human life and the renewal of society are at stake.
+
+This mission involves the entire Christian community and ecclesial movements are a "providential gift" for this process, as I myself recalled at the memorable meeting of 30 May 1998 in St Peter's Square. For this very reason, in the Apostolic Letter on the follow up to the Jubilee, I insisted on the need for the "*promotion of forms of association,* whether of the more traditional kind or the newer ecclesial movements, which continue to give the Church a vitality that is God's gift and a true "springtime of the Spirit'" (n. 46).
+
+### 2 {#jp2-mes-20010627-stafford.2}
+
+Many priests, attracted by the charismatic, pedagogical, community and missionary drive which accompanies the new ecclesial realities participate in many ecclesial movements alongside the laity. These experiences can be very useful because they are "capable of enriching the life of individual priests as well as enlivening the presbyterate with precious spiritual gifts" (*Pastores dabo vobis,* n. 31). It is very clear in the teaching of the Catholic Church that priests are primarily called to live the grace of the Sacrament to the full, which is why they are configured to Christ, Head and Shepherd, for the service of the whole Christian community, in cordial and filial reference to the Bishop and fraternally united in the diocesan presbyterate. They belong to the particular Church and collaborate in her mission. But it is also true that "the charisms of the Spirit always create affinities, destined to be for each one a support for his objective task in the Church" (*Insegnamenti di Giovanni Paolo II,* VIII/2, 1985, p. 660). This is precisely why movements can also be useful to priests.
+
+The positive effectiveness of the movements is revealed when priests find in them "the light and warmth" which help them mature in a true Christian life, and in particular, in a genuine "*sensus Ecclesiae",* spurring them to greater fidelity to their legitimate Pastors, making them attentive to ecclesiastical discipline and helping them to carry out with missionary zeal the tasks inherent in their ministry. The ecclesial movements are also "a source of help and support in the journey of formation towards the priesthood", particularly for those who come from specific group situations, with respect for the norms of discipline prescribed by the Church for seminaries.
+
+It is important to prevent priests, deacons and seminarians who belong to movements or ecclesial associations from becoming narrow or closed-minded. Rather, their participation should open their spirit to accept and respect the other ways in which the faithful can take part in the life of the Church, encouraging them to become ever more persons of communion, "pastors of the whole" (cf. *Pastores dabo vobis,* n. 62).
+
+### 3 {#jp2-mes-20010627-stafford.3}
+
+With these premises, the priests who belong to ecclesial movements will find in them an opportunity for their spiritual and pastoral enrichment. Indeed, by belonging to them, priests can learn better how to live the Church in the rich experience of her sacramental, hierarchical and charismatic gifts, that correspond to the many forms of ministries, states of life and tasks by which she is built up. "Moved" and "attracted" by the same charism, sharing in the same history and belonging to the same group, priests and lay people share in an interesting experience of communion with the faithful who edify one another, but without ever losing their distinct identity.
+
+However, it would be a serious loss if we were to drift towards a "clericalization" of the movements. It would also be harmful if the witness and ministry of priests were in some way to be blurred and gradually assimilated to the lay state. The priest must live within a movement as an outstanding presence of Christ, Head and Shepherd, minister of the Word of God and of the sacraments, educator in the faith, by means of his link with the bishop, over and above the functions and offices he is called to assume. Indeed, the growth of movements in that "ecclesial maturity" can depend on their contribution, as I recalled in the cited Pentecost meeting of 1998.
+
+I therefore encourage this Council to follow the progress of the ecclesial movements attentively, to foster an intense dialogue with them, to accompany them with pastoral wisdom and, when necessary, to make sure that they do not lack appropriate discernment, clarifications and guidelines.\
+I entrust this meeting to Mary, the faithful Virgin, and, as I gladly assure all those who will be taking part my remembrance in prayer, I send everyone a special Apostolic Blessing.
+
+*From the Vatican, 21 June.*

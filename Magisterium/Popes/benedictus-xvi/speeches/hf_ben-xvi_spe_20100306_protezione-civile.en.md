@@ -1,0 +1,50 @@
+---
+id: b16-spe-20100306-protezione-civile.en
+work: b16-spe-20100306-protezione-civile
+title: "To the Board of Directors, personnel and volunteers of the Italian National Civil Defence (March 6, 2010)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2010-03-06
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/march/documents/hf_ben-xvi_spe_20100306_protezione-civile.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20100306-protezione-civile} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Board of Directors, personnel and volunteers of the Italian National Civil Defence (March 6, 2010) {#b16-spe-20100306-protezione-civile}
+## ADDRESS OF HIS HOLINESS BENEDICT XVI TO THE BOARD OF DIRECTORS, PERSONNEL AND VOLUNTEERS OF THE ITALIAN NATIONAL CIVIL DEFENCE
+
+*Paul VI Audience Hall\
+Saturday, 6 March 2010*
+
+**([Video](#){onclick="window.open('http://vod.vatican.va/udienza06032010.mov','','height=260,width=320,left=200,top=200,resizable=0,scrollbars=0,toolbar=0,status=0');"})**
+
+*Dear Friends,*
+
+I am very glad to receive you and to address my cordial welcome to each one of you. I greet my Brothers in the Episcopate and in the Priesthood and all the Authorities. I greet Mr Guido Bertolaso, Undersecretary of the Office of the Prime Minister and Head of the Department for Civil Protection and I thank him for his courteous words to me on behalf of all and for all that he does for civil society and for all of us. I greet Mr Gianni Letta, Undersecretary of the Office of the Prime Minister, present at this meeting. I address my affectionate greeting to the many volunteers and to the representatives of several sections of the National Service for Civil Defence.
+
+This Meeting was preceded by a joyful and festive moment, brightened by the musical performance of the "Istituzione Sinfonica Abruzzese" my grateful thoughts to you all. You have wished to review the Civil Defence's role over the past 10 years, on the occasion of both national and international emergencies and in support activities for important and specific events. How could one fail to mention in this regard the interventions on behalf of the earthquake victims in San Giuliano di Puglia and, above all, in Abruzzo? In [visiting Onna and l'Aquila last April](https://www.vatican.va/content/benedict-xvi/en/travels/2009/index_abruzzo.html) I was able to see for myself how hard you had worked to help those who had lost their loved ones and their homes. The words I addressed to you on that occasion seem to me to be appropriate:  "Thank you for all you have done and especially for the love with which you have done it. Thank you for the example you have given" (Visit to Abruzzo Region, *[Address to the faithful, volunteers, rescue teams, the military and other authorities](https://www.vatican.va/content/benedict-xvi/en/speeches/2009/april/documents/hf_ben-xvi_spe_20090428_sisma-laquila.html),* 28 April 2009). And how can we fail to think with admiration of the many volunteers who provided assistance and security to the immense crowd of young people and not only to them present at the unforgettable [World Youth Day in the year 2000](http://www.vatican.va/gmg/years/gmg_2000_en.html), or to those who came to Rome to pay their last respects to [Pope John Paul II](http://www.vatican.va/holy_father/john_paul_ii/index.htm)?
+
+Dear volunteers of the Civil Defence I know how much you have been looking forward to this Meeting. I can assure you that it is something that I too eagerly awaited. You constitute one of the most recent and mature expressions of the long tradition of solidarity that is rooted in the altruism and generosity of the Italian people. The Civil Defence's voluntary service has become a national phenomenon that has acquired characteristics of participation and organization that are particularly significant and today has about 1,300,000 members, divided into more than 3,000 organizations. Your Association's aim and intentions have been recognized in appropriate legislative norms which have helped to shape the national identity of the Civil Defence's voluntary service which is attentive to the primary needs of the individual and of the common good.
+
+The terms "defence" and "civil" are precise terms and a profound expression of your mission, or I would say your "vocation":  to protect people and their dignity which are central goods to civil society in the tragic cases of calamities and emergencies that threaten the life and security of families or entire communities. This mission does not consist solely in emergency management but also in making a prompt and praiseworthy contribution to achieving the common good, which always constitutes the horizon of human coexistence even, and above all, in times of great trial. Such trials constitute an occasion for *discernment* rather than for desperation. They afford the opportunity to formulate a *new social programme* that focuses more on virtue and on the good of all.
+
+The twofold dimension of protection, which is expressed both during the emergency and after it, is clearly seen in the figure of the Good Samaritan, taken from Luke's Gospel (cf. Lk 10: 30-35). In assisting the unfortunate traveller in the moment of his greatest need the Good Samaritan certainly showed charity, humility and courage. And he did so when everyone else some through indifference, others because they were hard-hearted looked away. The Good Samaritan, however, teaches us to go beyond the emergency and to prepare, we might say, for the return to normality. Indeed, not only did he bind up the wounds of the man who had been left lying on the ground, but he then took the trouble to entrust him to the innkeeper so that once the emergency was past he might recover. As this Gospel passage teaches us, love for neighbour cannot be delegated:  the State and politics, even with the necessary concern for welfare, cannot replace it.
+
+As I wrote in my Encyclical *[Deus Caritas Est](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html): * "Love *caritas* will always prove necessary, even in the most just society. There is no ordering of the State so just that it can eliminate the need for a service of love. Whoever wants to eliminate love is preparing to eliminate man as such. There will always be suffering which cries out for consolation and help. There will always be loneliness. There will always be situations of material need where help in the form of concrete love of neighbour is indispensable" (n. 28, b). This always requires and always will require personal and voluntary commitment. For this very reason volunteers are not "stopgaps" in the social network but people who truly contribute to tracing society's human and Christian features. Without voluntary service the common good and society could not last long, for their progress and dignity depend to a large extent precisely on those people who do more than their duty strictly demands of them.
+
+Dear friends, your commitment is a service to the dignity of the human beings founded on their having been created in God's image and likeness (cf. Gn 1: 26). As the episode of the Good Samaritan has shown us, sometimes seeing can turn to emptiness or even contempt, but a gaze can also express love. In addition to being custodians of the territory, you are, increasingly, living icons of the Good Samaritan, attentive to your neighbour, remembering human dignity and inspiring hope. When a person does not limit himself to doing no more than his professional or family duties require but seeks to help others, his heart expands. Those who love and freely serve others as their neighbour live and act in accordance with the Gospel and take part in the mission of the Church that always looks at the whole person and wants him to feel God's love.
+
+Dear volunteers, the Church and the Pope support your invaluable service. May the Virgin Mary who went "with haste" to her kinswoman Elizabeth to help her (cf. Lk 1: 39), be your model. As I entrust you to the intercession of your Patron, [St Pius of Pietrelcina](http://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20020616_index_padre-pio_en.html), I assure you of my remembrance in prayer and with affection impart the Apostolic Blessing to you and to your dear ones.

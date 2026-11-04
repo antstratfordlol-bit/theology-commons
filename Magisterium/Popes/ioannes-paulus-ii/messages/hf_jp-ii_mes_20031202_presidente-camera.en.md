@@ -1,0 +1,55 @@
+---
+id: jp2-mes-20031202-presidente-camera.en
+work: jp2-mes-20031202-presidente-camera
+title: "Message to Hon. Mr Pier Ferdinando Casini, President of the Chamber of Deputies (November 26, 2003)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Message
+url_date: 2003-12-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+also_listed_on_vatican_va_as: "jp2/speeches/hf_jp-ii_spe_20031202_presidente-camera — the same work cross-filed under another heading or slug; one file is kept, this one"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/2003/documents/hf_jp-ii_mes_20031202_presidente-camera.html"
+fetch_date: 2026-08-23
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, it, pt"
+anchors: "{#jp2-mes-20031202-presidente-camera.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-mes-20031202-presidente-camera.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-30
+---
+
+# Message to Hon. Mr Pier Ferdinando Casini, President of the Chamber of Deputies (November 26, 2003)
+## MESSAGE OF JOHN PAUL II TO HON. MR PIER FERDINANDO CASINI, PRESIDENT OF THE ITALIAN CHAMBER OF DEPUTIES
+
+*To the Honourable Mr Pier Ferdinando Casini\
+President of the Chamber of Deputies*
+
+### 1 {#jp2-mes-20031202-presidente-camera.1}
+
+You have most courteously wished to inform me that a year after my Visit to the Italian Parliament, the Chamber of Deputies plans to commemorate that event with a special initiative. On this occasion, Mr President, I am pleased to convey a respectful greeting to you and your Honourable Colleagues, to whom I once more express my most heartfelt gratitude for the friendly welcome they gave me.
+
+I remember that day when the Hall in the Palazzo Montecitorio welcomed a Successor of the Apostle Peter within its walls for the first time. It was at a special joint session of all the Senators and Deputies of the Republic, with the participation of the Prime Minister and Members of Government and of the highest offices of State, starting with the President of Italy. With emotion, I think back to the sincere attention I received, and the attestation of unanimous support that greeted my words is still a comfort to me today. I believe, despite its brevity, that this intense event marked a milestone in the history of relations between Italy and the Holy See. I express the hope that this distinguished Assembly's celebration of this event may help keep alive the spirit of that meeting.
+
+### 2 {#jp2-mes-20031202-presidente-camera.2}
+
+With the passing of the last century the social features of Italy have profoundly changed. The Country has now begun to face the challenges of the third millennium with a renewed awareness of its mission in the European and global context, also marked by rapid and sometimes massive transformations. In a deeply symbolic way, the Visit of the Bishop of Rome to the Italian Parliament highlighted the determinant role that Christianity has played and still retains in the history and life of the Nation. The Gospel - a proclamation of faith, hope and love - has been a vital sap for the Italian people down the centuries, invigorating in thousands of ways their search for the good, the true and the beautiful. It must be recognized that despite human limitations and errors, the Church has been the leaven of civilization and progress for individuals, families, communities and for the entire Country. The Constitution of the Italian Republic, through its fundamental principles, reflects in an eloquent and ever valid way the Gospel truth about man and about society.
+
+To whatever part of the world Italians emigrated, in addition to their recognized human and professional qualities, they bore witness to the Christian faith inherited from their forefathers in the land of their birth. The Church, for her part, has never ceased to cultivate these deep roots through her work of evangelization, expressed in a multitude of pastoral activities.
+
+### 3 {#jp2-mes-20031202-presidente-camera.3}
+
+May the new generations make this spiritual patrimony their own and witness to it! It is a human and religious treasure to safeguard, for it is a precious good for the whole of the civil community.
+
+The beneficial cooperation that exists between the Holy See and the Republic of Italy will, I am sure, further this demanding task. I raise a special prayer to God for this noble aim, which I entrust to the motherly intercession of Mary, venerated in every corner of this beloved Land of Italy.
+
+With these hopes, as I once again offer my respectful greeting to you, Mr President, and to the Honourable Deputies, I willingly invoke an abundance of heavenly Blessings on the entire Parliament and on all those who are taking part in this important event.
+
+*From the Vatican, 26 November 2003*
+
+## JOHN PAUL II

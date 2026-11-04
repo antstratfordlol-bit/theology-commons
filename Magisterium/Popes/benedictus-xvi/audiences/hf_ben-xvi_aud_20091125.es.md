@@ -1,0 +1,69 @@
+---
+id: b16-aud-20091125.es
+work: b16-aud-20091125
+title: "Audiencia general del 25 de noviembre de 2009: Hugo y Ricardo de San Víctor"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: General audience (catechesis)
+url_date: 2009-11-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/audiences/2009/documents/hf_ben-xvi_aud_20091125.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-aud-20091125} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Audiencia general del 25 de noviembre de 2009: Hugo y Ricardo de San Víctor {#b16-aud-20091125}
+BENEDICTO XVI
+
+## AUDIENCIA GENERAL
+
+*Miércoles 25 de noviembre de 2009*
+
+## Hugo y Ricardo de San Víctor
+
+*Queridos hermanos y hermanas:*
+
+En estas audiencias de los miércoles estoy presentando algunas figuras ejemplares de creyentes que se han esforzado por mostrar la concordia entre la razón y la fe y por testimoniar con su vida el anuncio del Evangelio. Hoy quiero hablaros de Hugo y Ricardo de San Víctor. Ambos se cuentan entre los filósofos y teólogos conocidos con el nombre de *Victorinos*, porque vivieron y enseñaron en la abadía de San Víctor, en París, fundada a principios del siglo XII por Guillermo de Champeaux. Este último fue un maestro famoso, que consiguió dar a su abadía una sólida identidad cultural. De hecho, en San Víctor se inauguró una escuela para la formación de los monjes, abierta también a estudiantes externos, donde se realizó una feliz síntesis entre las dos formas de hacer teología, de las que ya hablé en catequesis anteriores: es decir, la teología monástica, orientada más a la contemplación de los misterios de la fe en la Escritura, y la teología escolástica, que utilizaba la razón para tratar de escrutar esos misterios con métodos innovadores, de crear un sistema teológico.
+
+De la vida de Hugo de San Víctor tenemos pocas noticias. Son inciertos la fecha y el lugar de su nacimiento: quizá en Sajonia o en Flandes. Se sabe que, llegado a París —la capital europea de la cultura de la época—, pasó el resto de sus años en la abadía de San Víctor, donde primero fue discípulo y después maestro. Ya antes de su muerte, acontecida en 1141, alcanzó gran notoriedad y estima, hasta el punto de ser llamado un "segundo san Agustín". En efecto, como san Agustín, meditó mucho sobre la relación entre fe y razón, entre ciencias profanas y teología. Según Hugo de San Víctor, todas las ciencias, además de ser útiles para la comprensión de las Escrituras, tienen un valor en sí mismas y deben cultivarse para aumentar el saber del hombre, como también para corresponder a su anhelo de conocer la verdad. Esta sana curiosidad intelectual lo indujo a recomendar a los estudiantes que no apagaran nunca el deseo de aprender, y en su tratado de metodología del saber y de pedagogía, titulado significativamente *Didascalicon* (*sobre la enseñanza*), recomendaba: "Aprende gustoso de todos lo que no sabes. El más sabio de todos será quien haya querido aprender algo de todos. Quien recibe algo de todos, acaba por ser el más rico de todos" (*Eruditiones Didascalicae*, 3, 14: *PL* 176, 774).
+
+La ciencia de la que se ocupan los filósofos y los teólogos llamados *Victorinos* es especialmente la teología, que requiere ante todo el estudio amoroso de la Sagrada Escritura. Para conocer a Dios no se puede menos de partir de lo que Dios mismo ha querido revelar de sí a través de las Escrituras. En este sentido, Hugo de San Víctor es un representante típico de la teología monástica, totalmente fundada en la exégesis bíblica. Para interpretar la Escritura propone la tradicional articulación patrístico-medieval, es decir, ante todo el sentido histórico-literal; después, el alegórico y anagógico; y, por último, el moral. Se trata de cuatro dimensiones del sentido de la Escritura, que redescubrimos también hoy, por las cuales se ve que en el texto y en la narración ofrecida se esconde una indicación más profunda: el hilo de la fe, que nos conduce hacia lo alto y nos guía en esta tierra, enseñándonos cómo vivir. Con todo, aun respetando estas cuatro dimensiones del sentido de la Escritura, de modo original respecto a sus contemporáneos, insiste —y esto es una novedad— en la importancia del sentido histórico-literal.
+
+En otras palabras, antes de descubrir el valor simbólico, las dimensiones más profundas del texto bíblico, es necesario conocer y profundizar el significado de la historia narrada en la Escritura: de lo contrario —advierte con una comparación eficaz— se corre el riesgo de ser como los estudiosos de gramática que ignoran el alfabeto. A quien conoce el sentido de la historia descrita en la Biblia, las vicisitudes humanas se presentan marcadas por la divina Providencia, según un designio bien ordenado. Así, para Hugo de San Víctor, la historia no es el resultado de un destino ciego o de una casualidad absurda, como podría parecer. Al contrario, en la historia humana actúa el Espíritu Santo, que suscita un maravilloso diálogo de los hombres con Dios, su amigo. Esta visión teológica de la historia pone de relieve la intervención sorprendente y salvífica de Dios, que realmente entra y actúa en la historia, casi se convierte en parte de nuestra historia, pero siempre salvaguardando y respetando la libertad y la responsabilidad del hombre.
+
+Para nuestro autor, el estudio de la Sagrada Escritura y de su significado histórico-literal hace posible la teología verdadera, es decir, la explicación sistemática de las verdades, conocer su estructura, la explicación de los dogmas de la fe, que presenta en sólida síntesis en el tratado *De Sacramentis christianae fidei* (*Los sacramentos de la fe cristiana*), donde se encuentra, entre otras cosas, una definición de "sacramento" que, perfeccionada después por otros teólogos, contiene rasgos aún hoy muy interesantes. "El sacramento —escribe— es un elemento corpóreo o material propuesto de forma externa y sensible, que *representa* con su parecido una gracia invisible y espiritual, la *significa,* porque con este fin ha sido instituido, y la *contiene,* porque es capaz de santificar" (9, 2: *PL* 176, 317). Por una parte, la visibilidad en el símbolo, la "corporeidad" del don de Dios, en el que, sin embargo, por otra parte, se esconde la gracia divina que proviene de una historia: Jesucristo mismo creó los símbolos fundamentales. Tres son, por tanto, los elementos que concurren a definir un sacramento, según Hugo de San Víctor: la institución por parte de Cristo, la comunicación de la gracia, y la analogía entre el elemento visible, material, y el elemento invisible, que son los dones divinos. Se trata de una visión muy cercana a la sensibilidad contemporánea, porque los sacramentos se presentan con un lenguaje lleno de símbolos e imágenes capaces de hablar inmediatamente al corazón de los hombres. Es importante también hoy que los animadores litúrgicos, y de modo especial los sacerdotes, valoren con sabiduría pastoral los signos propios de los ritos sacramentales —la visibilidad y tangibilidad de la Gracia— cuidando con esmero su catequesis, para que todos los fieles vivan cada celebración de los sacramentos con devoción, intensidad y alegría espiritual.
+
+Un discípulo digno de Hugo de San Víctor es Ricardo, procedente de Escocia. Fue prior de la abadía de San Víctor de 1162 a 1173, año de su muerte. También Ricardo, naturalmente, asigna un papel fundamental al estudio de la Biblia pero, a diferencia de su maestro, privilegia el sentido alegórico, el significado simbólico de la Escritura con el que, por ejemplo, interpreta la figura veterotestamentaria de Benjamín, hijo de Jacob, como símbolo de la contemplación y cumbre de la vida espiritual. Ricardo trata este tema en dos textos, *Benjamín menor* y *Benjamín mayor,* en los que propone a los fieles un camino espiritual que invita ante todo a practicar las diversas virtudes, aprendiendo a disciplinar y a ordenar con la razón los sentimientos y los movimientos interiores afectivos y emotivos. Sólo cuando el hombre ha alcanzado equilibrio y madurez humana en este campo, está preparado para acceder a la contemplación, que Ricardo define como "una mirada profunda y pura del alma dirigida a las maravillas de la sabiduría, asociada a un sentido estático de asombro y de admiración"(*Benjamin Maior* 1, 4: *PL* 196, 67).
+
+La contemplación es, por tanto, el punto de llegada, el resultado de un arduo camino, que implica el diálogo entre la fe y la razón, es decir —una vez más— un discurso teológico. La teología parte de las verdades que son objeto de la fe, pero trata de profundizar su conocimiento con el uso de la razón, apropiándose del don de la fe. Esta aplicación del razonamiento a la comprensión de la fe se practica de modo convincente en la obra maestra de Ricardo, uno de los grandes libros de la historia, el *De Trinitate* (*La Trinidad*). En los seis libros que lo componen reflexiona con agudeza sobre el Misterio de Dios uno y trino. Según nuestro autor, dado que Dios es amor, la única sustancia divina conlleva comunicación, oblación y amor entre dos Personas, el Padre y el Hijo, que se encuentran entre sí con un intercambio eterno de amor. Pero la perfección de la felicidad y de la bondad no admite exclusivismos y cerrazones; al contrario, requiere la presencia eterna de una tercera Persona, el Espíritu Santo. El amor trinitario es participativo, concorde, y conlleva sobreabundancia de delicia, goce de alegría incesante. Es decir, Ricardo supone que Dios es amor, analiza la esencia del amor, qué es lo que implica la realidad llamada amor, llegando así a la Trinidad de las Personas, que es realmente la expresión lógica del hecho de que Dios es amor.
+
+Ricardo, sin embargo, es consciente de que el amor, aunque nos revela la esencia de Dios, aunque nos hace "comprender" el Misterio de la Trinidad, es sólo una analogía para hablar de un Misterio que supera la mente humana, y —al ser poeta y místico— recurre también a otras imágenes. Por ejemplo, compara la divinidad a un río, a una ola amorosa que brota del Padre, fluye y vuelve a fluir en el Hijo, para ser después felizmente derramada en el Espíritu Santo.
+
+Queridos amigos, autores como Hugo y Ricardo de San Víctor elevan nuestra alma a la contemplación de las realidades divinas. Al mismo tiempo, la inmensa alegría que nos proporcionan el pensamiento, la admiración y la alabanza de la Santísima Trinidad, funda y sostiene el esfuerzo concreto por inspirarnos en ese modelo perfecto de comunión en el amor para construir nuestras relaciones humanas de cada día. La Trinidad es verdaderamente comunión perfecta. ¡Cómo cambiaría el mundo si en las familias, en las parroquias y en todas las demás comunidades las relaciones se vivieran siguiendo siempre el ejemplo de las tres Personas divinas, cada una de las cuales no sólo vive *con* la otra, sino también *para* la otra y *en* la otra! [Lo recordé hace algunos meses en el Ángelus](https://www.vatican.va/content/benedict-xvi/es/angelus/2009/documents/hf_ben-xvi_ang_20090607.html): "Sólo el amor nos hace felices, porque vivimos en relación, y vivimos para amar y ser amados" (*L'Osservatore Romano*, edición en lengua española, 12 de junio de 2009, p. 11). El amor es lo que realiza este incesante milagro: como en la vida de la Santísima Trinidad, la pluralidad se recompone en unidad, donde todo es complacencia y alegría. Con san Agustín, al que los Victorinos apreciaban tanto, podemos exclamar también nosotros: "*Vides Trinitatem, si caritatem vides",* "Contemplas la Trinidad, si ves la caridad" (*De Trinitate* viii, 8, 12).
+
+## Saludos
+
+Saludo a los fieles de lengua española, en particular a los peregrinos provenientes de España, Costa Rica y otros países de Latinoamérica. A todos os invito a profundizar en la contemplación divina para crecer en la caridad y en la comunión fraterna.
+
+*(A los peregrinos polacos)*
+
+Quiero recordar hoy dos acontecimientos importantes del año litúrgico que está llegando a su fin: ha concluido el Año paulino y estamos viviendo el Año sacerdotal. Que ambos nos ayuden a comprender mejor el misterio de la Iglesia, su historia y la misión evangélica. Encomiendo a vuestra oración las intenciones de la Iglesia y, de modo especial, a los sacerdotes.
+
+*(A los peregrinos eslovacos)*
+
+Queridos hermanos y hermanas, el domingo próximo comenzamos el nuevo año litúrgico. Os deseo que viváis el tiempo de Adviento como la Virgen María en la gozosa espera del Salvador. De corazón os bendigo a vosotros y a vuestras familias.
+
+*(En italiano)*
+
+Me dirijo, por último, a los *jóvenes,* a los *enfermos* y a los *recién casados*. El domingo próximo comienza el tiempo de Adviento. A vosotros, queridos *jóvenes,* os exhorto a vivir este "tiempo fuerte" con oración vigilante y compromiso evangélico generoso. A vosotros, *enfermos*, os animo a sostener con el ofrecimiento de vuestros sufrimientos el camino de preparación del pueblo cristiano para la santa Navidad. Y a vosotros, *recién casados*, os deseo que seáis testigos del Espíritu de amor que anima y sostiene a toda la familia de Dios.

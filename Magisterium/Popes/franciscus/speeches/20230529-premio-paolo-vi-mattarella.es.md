@@ -1,0 +1,59 @@
+---
+id: francis-spe-20230529-premio-paolo-vi-mattarella.es
+work: francis-spe-20230529-premio-paolo-vi-mattarella
+title: "Entrega del “Premio Pablo VI” al Presidente de la República Italiana, Sergio Mattarella (29 de mayo de 2023)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2023-05-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2023/may/documents/20230529-premio-paolo-vi-mattarella.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it, pt"
+anchors: "{#francis-spe-20230529-premio-paolo-vi-mattarella} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Entrega del “Premio Pablo VI” al Presidente de la República Italiana, Sergio Mattarella (29 de mayo de 2023) {#francis-spe-20230529-premio-paolo-vi-mattarella}
+ENTREGA DEL "PREMIO PABLO VI" AL PRESIDENTE DE LA REPÚBLICA ITALIANA, SERGIO MATTARELLA
+
+## DISCURSO DEL SANTO PADRE FRANCISCO
+
+*Sala Clementina\
+Lunes, 29 de mayo de 2023*
+
+\[**[Multimedia](http://www.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2023/5/29/premio-paolo-vi.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Señor presidente de la República,\
+distinguidas autoridades civiles y religiosas,\
+gentiles señoras y señores,\
+queridos hermanos y hermanas:*
+
+Os doy la bienvenida y os saludo cordialmente, gracias por vuestra presencia. Me complace entregar al presidente Sergio Mattarella el Premio Internacional Pablo VI,  que le ha concedido el homónimo Instituto, al cual quisiera expresar reconocimiento por el valioso trabajo que desarrolla en el cuidado de la memoria del Papa Montini: sus escritos y sus discursos son una inagotable mina de pensamiento y dan testimonio de la intensa vida espiritual de la que brotó su acción de gran Pastor de la Iglesia. ¡Gracias a los miembros y colaboradores del Instituto, y gracias a todos los que han venido de la diócesis de Brescia!
+
+El [Concilio Vaticano II](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index_sp.htm), por el que debemos estar tan agradecidos a [san Pablo VI](https://www.vatican.va/content/paul-vi/es.html), subrayó el rol de los fieles laicos, destacando su *carácter secular*.  Los laicos, de hecho, en virtud del bautismo tienen una auténtica misión, que han de desarrollar «*en el siglo*, es decir, en todos y cada uno de los deberes y ocupaciones del mundo, y en las condiciones ordinarias de la vida familiar y social» (*[Lumen gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 31). Y entre estas ocupaciones destaca la política, que es la «forma más alta de caridad» (Pío XI, *A los dirigentes de la Federación Universitaria Católica*, 18 de diciembre de 1927). Pero —nos podemos preguntar— ¿cómo hacer de la acción política una forma de caridad y, por otro lado, cómo vivir la caridad, es decir, el amor en el sentido más alto, dentro de las dinámicas políticas?
+
+Creo que la respuesta reside en una palabra: *servicio*. San Pablo VI dijo que los que ejercen el poder público deben considerarse «*como servidores* de sus compatriotas, con el desinterés y la integridad que corresponden a su alta función» (*A los representantes de la Unión Europea de los Democráticos Cristianos*, 8 de abril de 1972). Y sentenció: «El deber del servicio es inherente a la autoridad; y cuanto mayor es este deber, mayor es esta autoridad» (*Audiencia general*, 1968). Y sin embargo, sabemos bien  lo difícil que es esto y cómo la tentación extendida, en todas las épocas, incluso en los mejores sistemas políticos, es hacer uso de la autoridad en lugar de servir a través de la autoridad. ¡Qué fácil es subir al pedestal y qué difícil ponerse al servicio de los demás!
+
+Cristo a menudo habló de la dificultad de servir y prodigarse por los demás, admitiendo, con un realismo velado de tristeza, que «los que son tenidos como jefes de las naciones, las dominan como señores absolutos y sus grandes las oprimen con su poder». Pero en seguida dijo a los suyos: «no ha de ser así entre vosotros, sino que el que quiera llegar a ser grande entre vosotros, será vuestro servidor» (*Mc* 10,42-43). De ahí en adelante, para el cristiano, grandeza es sinónimo de servicio. Me gusta decir que “no sirve para vivir quien no vive para servir”. Y creo que hoy la entrega del Premio Pablo VI al presidente Mattarella sea precisamente una buena ocasión para celebrar el valor y la dignidad del servicio, el estilo más alto del vivir, que pone primero a los otros antes que las propias expectativas.
+
+Que esto sea verdad para usted, señor presidente, lo testimonia el pueblo italiano que no olvida que su renuncia al merecido descanso hecha en nombre del servicio que le pidió el Estado. Hace una semana ha querido homenajear, con ocasión de los 150 años de la muerte, a ese gran italiano y cristiano que fue Alessandro Manzoni, capaz de tejer con las palabras el precioso tejido de los valores sociales, religiosos y solidarios del pueblo italiano. Pablo VI lo definió «genio universal», «tesoro inagotable de sabiduría moral», «maestro di vida» (*Regina caeli*, 20 mayo 1973). También yo guardo en el corazón a muchos de sus personajes. Pienso en el sastre que narra la buena laboriosidad de quien concibe la vida como el tiempo dado al individuo para hacer crecer el bien de los otros, para «trabajar duro, ayudarse, y después estar contentos» (*Los novios*, cap. XXIV). Y con este trabajo logró expresar uno de los pasos más sabios: «Nunca he encontrado que el Señor haya iniciado un milagro sin terminarlo bien» (*ibid*.). Porque servir da alegría y hace bien sobre todo a quien sirve. Por decirlo de nuevo con palabras de Manzoni: «Se debería pensar más en hacer el bien, que en estar bien: y así se terminaría también estando mejor» (cap. XXVIII).
+
+Pero el servicio corre el riesgo de quedar como un ideal un tanto abstracto sin una segunda palabra que nunca se pueda separar de él: *responsabilidad*. Esta, como indica la palabra misma, es la habilidad de ofrecer respuestas, basándose en el propio esfuerzo, sin esperar a que sean los otros quienes las den. ¡Cuántas veces, señor presidente, con su ejemplo antes que con sus palabras, lo ha recordado usted! También en esto no podemos dejar de observar una fecunda afinidad con Giovanni Battista Montini, que como joven sacerdote fue “educador de responsabilidad”. Y, luego, como Papa, escribió que las palabras sirven de poco «si no van acompañadas en cada persona por una toma de conciencia más viva de su propia responsabilidad» (Cart. ap. *[Octogesima adveniens](https://www.vatican.va/content/paul-vi/es/apost_letters/documents/hf_p-vi_apl_19710514_octogesima-adveniens.html)*, 14 mayo 1971, 48). Porque, explicaba, «resulta demasiado fácil echar sobre los demás la responsabilidad de las presentes injusticias, si al mismo tiempo no nos damos cuenta de que todos somos también responsables, y que, por tanto, la conversión personal» (*ibid.*, 48). Son palabras que me parecen muy actuales hoy, cuando viene casi de forma automática culpabilizar a los otros, mientras la pasión por el conjunto se desvanece y el compromiso común corre el riesgo de eclipsarse frente a las necesidades del individuo; donde, en un clima de incertidumbre, la desconfianza se convierte fácilmente en indiferencia. La responsabilidad, en cambio, como nos están demostrando tantos ciudadanos de Emilia Romaña en los últimos días, llama a todos a ir a contracorriente respecto al clima de derrotismo y de queja, para sentir las necesidades de los demás como propias y a redescubrirse a sí mismos como partes insustituibles del único tejido social y humano al que todos pertenecemos.
+
+También a propósito de responsabilidad, pienso en esa componente esencial de la vida común que es el compromiso por la legalidad. Esta requiere lucha y ejemplo, determinación y memoria, memoria de los que han sacrificado la vida por la justicia; pienso en su hermano Piersanti, señor presidente, y en las víctimas de la masacre mafiosa de Capaci, de la que hace pocos días se conmemoró el 31º aniversario. San Pablo VI notaba que en las sociedades democráticas no faltan instituciones, pactos y estatutos, pero «falta muchas veces la observancia libre y honesta de la legalidad» y que ahí «surge el egoísmo colectivo» (*Ángelus*, 31 agosto 1975). También en este ámbito, señor presidente, con sus palabras y su ejemplo, corroborados por lo que ha vivido, usted representa un maestro coherente de responsabilidad.
+
+San Pablo VI sintió la importancia de la responsabilidad de cada uno por el mundo de todos, por un mundo que se ha vuelto global. Lo hizo hablando de paz —¡qué urgente es hoy! —, lo hizo exhortando a luchar sin resignarse frente a los desequilibrios de las injusticias planetarias, porque la cuestión social es cuestión moral y porque una acción solidaria después de las guerras mundiales es verdaderamente tal solo si es global (cfr. Cart. enc. *[Populorum progressio](https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)*, 26 marzo 1967, 1). Hace más de cincuenta años, advirtió la urgencia de afrontar los desafíos climáticos, ante la amenaza de un ambiente que —escribió— se habría vuelto intolerable para el hombre como consecuencia de la actividad destructiva del hombre mismo que, enseñoreándose de la creación, se encontraría sin poder dominarla. Y especificó: «Hacia otros aspectos nuevos es hacia donde tiene que volverse el hombre o la mujer cristiana para hacerse responsable, en unión con las demás personas, de un destino en realidad ya común» *([Octogesima adveniens](https://www.vatican.va/content/paul-vi/es/apost_letters/documents/hf_p-vi_apl_19710514_octogesima-adveniens.html)*, 21).
+
+Sí, para san Pablo VI el sentido de responsabilidad y el espíritu de servicio estaban en la base de la construcción de la vida social. Nos dejó el legado exigente de construir *comunidades solidarias*. Era su sueño, que chocó con varias pesadillas que se hicieron realidad —estoy pensando en la terrible historia de Aldo Moro—; era el deseo ardiente que llevaba en el corazón y que expresó en términos de «comunidad de participación y de vida», animadas por el compromiso de «afanarse en la realización de solidaridades activas y vividas» (*ibid.*, 47). No son utopías, sino profecías; profecías que exhortan a vivir ideales elevados. Porque los jóvenes necesitan esto hoy. Y me complace, señor presidente, ser instrumento de gratitud en nombre de todos aquellos, jóvenes y menos jóvenes, que ven en usted un maestro, un maestro sencillo, y sobre todo un testimonio coherente y cortés de servicio y responsabilidad. Se alegraría el Papa Montini, de quien me gustaría repetir, finalmente, unas palabras tan conocidas como verdaderas: «El hombre contemporáneo escucha más a gusto a los que dan testimonio que a los que enseñan, o si escuchan a los que enseñan, es porque dan testimonio» (Exhort. ap. *[Evangelii nuntiandi](https://www.vatican.va/content/paul-vi/es/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html)*, 41). Gracias.

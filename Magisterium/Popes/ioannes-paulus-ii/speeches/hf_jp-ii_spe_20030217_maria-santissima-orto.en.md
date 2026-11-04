@@ -1,0 +1,60 @@
+---
+id: jp2-spe-20030217-maria-santissima-orto.en
+work: jp2-spe-20030217-maria-santissima-orto
+title: "To participants in the General Chapter of the Sisters of Our Lady of the Garden (February 17, 2003)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2003-02-17
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/february/documents/hf_jp-ii_spe_20030217_maria-santissima-orto.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#jp2-spe-20030217-maria-santissima-orto.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-spe-20030217-maria-santissima-orto.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To participants in the General Chapter of the Sisters of Our Lady of the Garden (February 17, 2003)
+## ADDRESS OF JOHN PAUL II TO THE DAUGHTERS OF OUR LADY OF THE GARDEN
+
+*Monday, 17 February 2003*
+
+*To Reverend Mother Sr Maria Antonietta Cappelli\
+Superior General of the Institute "Daughters of Our Lady of the Garden"*
+
+### 1 {#jp2-spe-20030217-maria-santissima-orto.1}
+
+I am pleased to address my cordial greetings to you, Reverend Mother, to the General Council and to the sisters, meeting in Rome for the 17th General Chapter of this Institute. To each one I manifest my spiritual closeness and assure you of my remembrance in prayer. I would also like to extend to all the Daughters of Our Lady of the Garden scattered throughout the world a special word of encouragement, inviting them to continue in their witness of consecrated life and to work generously in their various pastoral, educational and charitable activities.
+
+*You have chosen a provocative guiding theme for your reflections and exchange of experiences: "Consecrated and sent out to serve the Kingdom*". It impels you, dear Sisters, to return to the roots of your charism to examine them in the light of the current needs in a world in continuous evolution. The original inspiration which led your Founder in the first half of the 19th century to found a religious institute in Chiavari essentially oriented to the service of the person continues to offer you valid motives for a renewed dedication to your educational and charitable mission today.
+
+### 2 {#jp2-spe-20030217-maria-santissima-orto.2}
+
+With energy and zeal, St Anthony Mary Gianelli lived his mission at the service of the Kingdom of God. He was fond of repeating:  "*God, God, God alone".* All his activity was motivated by his burning desire to belong to Christ. He wanted to serve the Lord in the poor, the sick, the uneducated and in those who did not yet know or had not yet met God in their lives. He opened his heart to welcome his brethren and showed concern for everyone. His teachings are well expressed in your Constitutions which describe the style that identifies your religious family:  fidelity to the charism, living in watchful Gospel charity, forgetting your own interest and comfort, being attentive to the needs of the times, happy to make yourselves all things to all people with a devotion that knows no bounds, other than the impossible or the inopportune (cf. n. 2).
+
+### 3 {#jp2-spe-20030217-maria-santissima-orto.3}
+
+Dear Sisters, continue on this path putting Christ at the centre of your life and mission. I am pleased here to stress what was said to you in a recent Instruction of the Congregation for the Institutes of Consecrated Life and Societies of Apostolic Life: "*One must start afresh from Christ because it was from him that the first disciples started in Galilee; from him, that throughout history men and women of every status and culture, consecrated by the Spirit in the strength of their call, have started out; for him they have left family and homeland, following him unconditionally, making themselves available for the announcement of the Kingdom and doing good for all* (cf. Acts 10,38)" (*[Starting Afresh from Christ](http://localhost/roman_curia/congregations/ccscrlife/documents/rc_con_ccscrlife_doc_20020614_ripartire-da-cristo_en.html)*, 19 May 2002, n. 21; *ORE,* 26 June 2002, p. V). Dear Sisters, put out into the deep in the new millennium conscious that your apostolate is a providential opportunity to make God's glory shine in the world.
+
+Let your activity be founded on that love which for your holy Founder was - and rightly so - a fundamental pedagogical principle. He recommended to his spiritual daughters: "*In the first place see that you are truly loving and show great love to the little girls who are entrusted to you, for no one loves those who do not love; if they are not loved by you, they will not come to school, or they will not want to be with you and will learn only half of what they would learn if they loved their Teachers and realized that their Teachers loved them".*
+
+### 4 {#jp2-spe-20030217-maria-santissima-orto.4}
+
+Poverty, accepted willingly and joyfully, is a condition that makes your witness easier and more fruitful. As St Anthony Mary Gianelli liked to repeat,* let poverty be "*the true badge of your Institute*". Next to faithful love of poverty, let the spirit of sacrifice never be absent in the daily consciousness that a Daughter of Mary "*cannot be without the Cross".
+
+Then be tireless witnesses of hope. Among the virtues that the *Daughters of Our Lady of the Garden should cultivate, St Anthony Mary Gianelli stressed great confidence in God*. Live abandoned to Him:  it is this that will enable you not to be upset by apparent failures and, indeed, will enable you to give support to people who are anxious and confused. In his time, your Founder exhorted your sisters:  "*When something turns out not very well or even badly, do not be disturbed nor think it a real evil; but be humble before God and be confident that from it He will draw some good".*
+
+### 5 {#jp2-spe-20030217-maria-santissima-orto.5}
+
+Reverend Mother, as I express to you and the Chapter Sisters my best wishes for an intense and fruitful outcome for the benefit of the entire Congregation, I urge you all to cherish the rich spiritual experience that distinguishes your religious family. May your gaze, dear Daughters of Mary, remain fixed on the Founder and on your Sisters who preceded you in faithful service to the Church. Rest assured that even in difficult moments Divine Providence does not cease to support you effectively.
+
+May the Blessed Virgin Mary, Our Lady of the Garden, your special Protectress, accompany you on the path of holiness on which you have set out, and help you draw abundant fruit from your Chapter Meeting. I assure you of my prayers, and cordially impart to each of you my Apostolic Blessing, which I gladly extend to your entire religious family and to those you meet in your activities.

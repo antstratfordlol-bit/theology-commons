@@ -1,0 +1,48 @@
+---
+id: b16-spe-20080224-sm-liberatrice.en
+work: b16-spe-20080224-sm-liberatrice
+title: "At the conclusion of the meeting with the parish groups in the Church of Santa Maria Liberatrice at Monte Testaccio in Rome (February 24, 2008)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2008-02-24
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/february/documents/hf_ben-xvi_spe_20080224_sm-liberatrice.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20080224-sm-liberatrice} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# At the conclusion of the meeting with the parish groups in the Church of Santa Maria Liberatrice at Monte Testaccio in Rome (February 24, 2008) {#b16-spe-20080224-sm-liberatrice}
+[PASTORAL VISIT TO THE ROMAN PARISH\
+OF 'SANTA MARIA LIBERATRICE' AT MONTE TESTACCIO](https://www.vatican.va/content/benedict-xvi/en/homilies/2008/documents/hf_ben-xvi_hom_20080224_sm-liberatrice.html)
+
+## ADDRESS OF THE HOLY FATHER BENEDICT XVI AT THE CONCLUSION OF THE MEETING WITH THE MEMBERS OF THE ECCLESIAL COMMUNITY
+
+*Third Sunday of Lent, 24 February 2008*
+
+I am very pleased to be here with you today. Unfortunately, I do not speak "Romanesco", but as Catholics we are all a little Roman and carry Rome in our hearts, so we understand something of the Romanesco dialect. It was very beautiful for me to be greeted in this dialect of yours, for it was clear that these words came from the heart. It is beautiful and encouraging to see the many activities carried out in this parish, the many realities that exist in it, represented here by you: priests, Sisters from various Congregations, catechists and lay people who collaborate in various ways with the parish. And I also see St John Bosco alive among you, continuing his work as well as *Our Lady Liberatrice,* the One who sets us free, who invites us to open the doors to Christ and to give true freedom to others, too.
+
+This means creating the Church and creating the presence of Christ's Kingdom among us.
+
+Today, we read a very timely Gospel passage. The Samaritan woman of whom it speaks, may appear as a representative of modern man, of modern life. She had had five husbands and was living with another man. She made ample use of her freedom, yet this did not make her any more liberated. On the contrary, she became emptier. But we see that within this woman dwelled a great desire to find true happiness, true joy. This is why she was always restless and drifting further and further from true happiness.
+
+However, when Christ spoke to her, even this woman, who lived what seemed to be a life so superficial and even remote from God, showed that in the depths of her heart she was pondering on this question about God: who is God? Where can we find him? How can we worship him? We can see our whole life today mirrored in this woman, with all the problems that involve us; but we also see how the question about God and the expectation that he will show himself in another way always dwell in the depths of our hearts.
+
+Our activity is truly expected; we respond to the expectation of those who are waiting for the Lord's light, and in giving them a response to this expectation, we too grow in faith and can grasp that this faith is the water for which we are thirsting.
+
+In this regard, I want to encourage you to proceed with your pastoral and missionary commitment, with your dynamism to help all of today's people to find true freedom and true joy. They are all, like this woman of the Gospel, on their way to being totally free, to finding full freedom and full joy in it; but often they find themselves on the wrong path. May these people, through the Lord's light and our cooperation with the Lord, discover that true freedom comes from the encounter with the Truth which is love and joy.
+
+Today, I found two comments particularly moving. The first is that of the parish priest: Do we have more future than past? This is our Church's truth; she always has more future than past. Thus, we courageously forge ahead.
+
+The other comment that moved me was the discourse of the representative of the Pastoral Council: "True holiness is being happy". Holiness is expressed with joy. Joy is born from the encounter with Christ. And this is intended as my wish for you all: that this joy in knowing Christ and with it a renewed dynamism in proclaiming him to your brethren may be ever reborn. Thank you for all that you do. Happy Easter!

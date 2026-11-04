@@ -1,0 +1,86 @@
+---
+id: leo14-spe-20250802-veglia-tor-vergata.es
+work: leo14-spe-20250802-veglia-tor-vergata
+title: "Vigilia de oración con los jóvenes (Tor Vergata, 2 de agosto de 2025)"
+creator: "Leo PP. XIV"
+pope: Leo XIV
+document-type: Address
+url_date: 2025-08-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/leo-xiv/es/speeches/2025/august/documents/20250802-veglia-tor-vergata.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#leo14-spe-20250802-veglia-tor-vergata} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Vigilia de oración con los jóvenes (Tor Vergata, 2 de agosto de 2025) {#leo14-spe-20250802-veglia-tor-vergata}
+[VIGILIA CON LOS JÓVENES](https://www.iubilaeum2025.va/es/pellegrinaggio/calendario-giubileo/GrandiEventi/Giubileo-dei-Giovani.html)
+
+## DIÁLOGO DEL SANTO PADRE CON LOS JÓVENES EN LA VIGILIA DEL JUBILEO
+
+*Tor Vergata\
+Sábado, 2 de agosto de 2025*
+
+\[**[Multimedia](https://www.vatican.va/content/leo-xiv/es/events/event.dir.html/content/vaticanevents/es/2025/8/2/veglia-tor-vergata.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Pregunta 1 – Amistad
+
+*Santo Padre, soy Dulce María, tengo veintitrés años y vengo de México. Me dirijo a usted haciéndome portavoz de una realidad que vivimos los jóvenes en tantas partes del mundo. Somos hijos de nuestro tiempo. Vivimos en una cultura que nos pertenece y que, sin darnos cuenta, nos va moldeando; está marcada por la tecnología, especialmente en el ámbito de las redes sociales. Frecuentemente nos ilusionamos de tener muchos amigos y de crear relaciones cercanas, mientras que cada vez más seguido experimentamos diversas formas de soledad. Estamos cerca y conectados con tantas personas y, sin embargo, no son relaciones verdaderas y duraderas, sino efímeras y comúnmente ilusorias.*
+
+*Santo Padre, mi pregunta es: ¿cómo podemos encontrar una amistad sincera y un amor genuino que nos lleven a la verdadera esperanza? ¿Cómo la fe puede ayudarnos a construir nuestro futuro?*
+
+Queridos jóvenes, las relaciones humanas, nuestras relaciones con otras personas son indispensables para cada uno de nosotros, empezando por el hecho de que todos los hombres y mujeres del mundo nacen como hijos de alguien. Nuestra vida comienza con un vínculo y es a través de los vínculos que crecemos. En este proceso, la cultura juega un papel fundamental: es el código con el que nos entendemos a nosotros mismos e interpretamos el mundo. Como un diccionario, cada cultura contiene tanto palabras nobles como palabras vulgares, valores y errores que hay que aprender a reconocer. Buscando con pasión la verdad, no sólo recibimos una cultura, sino que la transformamos a través de elecciones de vida. La verdad, en efecto, es un vínculo que une las palabras a las cosas, los nombres a los rostros. La mentira, en cambio, separa estos aspectos, generando confusión y malentendidos.
+
+Ahora, entre las muchas conexiones culturales que caracterizan nuestra vida, internet y las redes sociales se han convertido en «una extraordinaria oportunidad de diálogo, encuentro e intercambio entre personas, así como de acceso a la información y al conocimiento» (Papa Francisco, *[Christus vivit](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20190325_christus-vivit.html)*, 87). Sin embargo, estos instrumentos resultan ambiguos cuando están dominados por lógicas comerciales e intereses que rompen nuestras relaciones en mil intermitencias. A este respecto, el Papa Francisco recordaba que a veces los «mecanismos de la comunicación, de la publicidad y de las redes sociales pueden ser utilizados para volvernos seres adormecidos, dependientes del consumo» (*[Christus vivit](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20190325_christus-vivit.html#105)*, 105). Entonces nuestras relaciones se vuelven confusas, ansiosas o inestables. Además, como saben hoy en día hay algoritmos que nos dicen lo que tenemos que ver, lo que tenemos que pensar, y quieres deberían ser nuestros amigos. Y entonces nuestras relaciones se vuelven confusas, a veces ansiosas. Es que cuando el instrumento domina al hombre, el hombre se convierte en un instrumento: sí, un instrumento de mercado y a su vez en mercancía. Sólo relaciones sinceras y lazos estables hacen crecer historias de vida buena.
+
+Queridos jóvenes, toda persona desea naturalmente esta vida buena, como los pulmones tienden al aire, ¡pero cuán difícil es encontrarla! Cuán difícil es encontrar una amistad auténtica. Hace siglos, san Agustín captó el profundo deseo de nuestro corazón, es el deseo de todo corazón humano, aun sin conocer el desarrollo tecnológico de hoy. También él pasó por una juventud tempestuosa; pero no se conformó, no silenció el clamor de su corazón. Agustín buscaba la verdad, la verdad que no defrauda, la belleza que no pasa. Y ¿cómo la encontró? ¿Cómo encontró una amistad sincera, un amor capaz de dar esperanza? Encontrando a quien ya lo estaba buscando, encontrando a Jesucristo. ¿Cómo construyó su futuro? Siguiéndolo a Él, su amigo desde siempre. En palabras suyas: “Ninguna amistad es fiel sino en Cristo”. San Agustín nos dice: “No hay amistad que sea fiel si no es en Cristo”. Y la verdadera amistad es siempre en Jesucristo con verdad, amor y respeto. “Y sólo en Él puede ser feliz y eterna” (cf. *Réplica a las dos cartas de los pelagianos*, I, I, 1); «Ama verdaderamente al amigo quien ama a Dios en el amigo» (*Sermón* 336, 2), nos dice san Agustín. La amistad con Cristo, que está en la base de la fe, no es sólo una ayuda entre muchas otras para construir el futuro, es nuestra estrella polar. Como escribía el beato Pier Giorgio Frassati, «vivir sin fe, sin un patrimonio que defender, sin sostener una lucha por la Verdad no es vivir, sino ir tirando» (*Cartas*, 27 de febrero de 1925). Cuando nuestras amistades reflejan este intenso vínculo con Jesús, ciertamente se vuelven sinceras, generosas y verdaderas.
+
+Queridos jóvenes, ámense los unos a los otros. Ámense en Cristo. Sepan ver a Jesús en los demás. La amistad puede cambiar verdaderamente el mundo. La amistad es el camino por la paz. La amistad es el camino por la paz.
+
+## Pregunta 2 – El valor de decidir
+
+*Santo Padre, me llamo Gaia, tengo diecinueve años y soy italiana. Esta noche todos los jóvenes aquí presentes quisiéramos hablar de nuestros sueños, esperanzas y dudas. Nuestros años están marcados por las decisiones importantes que estamos llamados a tomar para orientar nuestra vida futura. Sin embargo, por el clima de incertidumbre que nos circunda, la tentación de ir posponiendo tales decisiones y el miedo a un futuro desconocido nos paraliza. Sabemos que optar equivale a renunciar a algo y esto nos bloquea, a pesar de ello percibimos que la esperanza nos muestra objetivos alcanzables por más que estén marcados por la precariedad del tiempo actual.*
+
+*Santo Padre, le preguntamos: ¿dónde podemos encontrar el valor para decidir? ¿Cómo podemos ser valientes y vivir la aventura de la libertad viva, tomando decisiones radicales y cargadas de significado?*
+
+Gracias por esta pregunta. La pregunta es ¿cómo encontrar la valentía de escoger? ¿Dónde podemos encontrar el valor para elegir y tomar decisiones acertadas? La decisión es un acto humano fundamental. Observándolo con atención, entendemos que no se trata sólo de elegir algo, sino de optar por alguien. Cuando elegimos, en sentido profundo, decidimos qué queremos llegar a ser. La opción por excelencia, en efecto, es la decisión sobre nuestra vida: ¿qué tipo de hombre quieres ser?, ¿qué clase de mujer quieres ser? Queridos jóvenes, se aprende a elegir a través de las pruebas de la vida, y en primer lugar recordando que nosotros hemos sido elegidos. Este recuerdo debe explorarse y educarse. Hemos recibido la vida *gratis*, sin elegirla. No somos fruto de nuestra decisión, sino de un amor que nos ha querido. En el curso de la existencia, se demuestra verdaderamente amigo quien nos ayuda a reconocer y renovar esta gracia en las decisiones que estamos llamados a tomar.
+
+Queridos jóvenes, es cierto lo que han dicho: “optar equivale también a renunciar a algo y esto a veces nos bloquea”. Para ser libres, es necesario partir de un fundamento estable, de la roca que sostiene nuestros pasos. Esta roca es un amor que nos precede, nos sorprende y nos supera infinitamente: el amor de Dios. Por eso, ante Él la decisión es un juicio que no nos quita ningún bien, sino que siempre nos lleva a lo mejor.
+
+La valentía de elegir surge del amor que Dios nos manifiesta en Cristo. Él es quien nos ha amado con todo su ser salvando el mundo y mostrándonos así que el camino para realizarnos como personas es dar la vida. Por eso, el encuentro con Jesús corresponde a las esperanzas más profundas de nuestro corazón, porque Jesús es el Amor de Dios hecho hombre.
+
+A este respecto, hace veinticinco años, precisamente en el lugar donde nos encontramos, [san Juan Pablo II](https://www.vatican.va/content/john-paul-ii/es.html) dijo: «es a Jesús a quien buscáis cuando soñáis la felicidad; es Él quien os espera cuando no os satisface nada de lo que encontráis; es Él la belleza que tanto os atrae; es Él quien os provoca con esa sed de radicalidad que no os permite dejaros llevar del conformismo; es Él quien os empuja a dejar las máscaras que falsean la vida; es Él quien os lee en el corazón las decisiones más auténticas que otros querrían sofocar» (*[Vigilia de oración en la XV Jornada Mundial de la Juventud, ](https://www.vatican.va/content/john-paul-ii/es/speeches/2000/jul-sep/documents/hf_jp-ii_spe_20000819_gmg-veglia.html)*[19 agosto 2000](https://www.vatican.va/content/john-paul-ii/es/speeches/2000/jul-sep/documents/hf_jp-ii_spe_20000819_gmg-veglia.html)). El miedo deja entonces espacio a la esperanza, porque estamos seguros de que Dios lleva a término lo que comienza.
+
+Reconozcamos su fidelidad en las palabras de quien ama de verdad, porque ha sido realmente amado. “Tú eres mi vida, Señor”, es lo que un sacerdote o una consagrada pronuncian llenos de alegría y de libertad. “Tú eres mi vida, Señor”. “Te recibo como mi esposa y como mi esposo” es la frase que transforma el amor del hombre y de la mujer en un signo eficaz del amor de Dios en el matrimonio. Estas opciones radicales, opciones llenas de significado: el matrimonio, el orden sagrado, la consagración religiosa, expresan el don de uno mismo, libre y liberador, que nos hace auténticamente felices. Y ahí encontramos la felicidad, cuando aprendemos a darnos a nosotros mismos. A dar la vida por los demás.
+
+Estas decisiones dan sentido a nuestra vida, transformándola según la imagen del Amor perfecto, que la ha creado y redimido de todo mal, incluso de la muerte. Digo esto esta noche pensando en las dos chicas, María, de veinte años, española, y Pascale, de dieciocho, egipcia. Ambas habían decidido venir a Roma para el Jubileo de los Jóvenes, y en estos días les ha llegado la muerte. Recemos juntos por ellas; recemos también por sus familiares, sus amigos y sus comunidades. Jesús Resucitado las acoja en la paz y en la alegría de su reino. Y quisiera pedirles sus oraciones por otro amigo; un muchacho español, Ignacio Gonzálvez, que ha sido ingresado en el hospital “Bambino Gesù”. Recemos por él, por su salud.
+
+Encontrar el valor de tomar decisiones difíciles y de decir al Jesús: “Tú eres mi vida, Señor”. “Señor, tú eres mi vida”. Gracias.
+
+## Pregunta 3 – Llamada al bien
+
+*Santo Padre, me llamo Will. Tengo veinte años y soy de los Estados Unidos. Me gustaría hacerle una pregunta en nombre de tantos jóvenes que anhelan, en sus corazones, algo más profundo. Nos sentimos atraídos por la vida interior, aunque a primera vista se nos juzgue como una generación superficial e irreflexiva.  En lo más profundo de nuestro ser, nos sentimos atraídos por lo bello y lo bueno como fuentes de verdad. El valor del silencio, como en esta Vigilia, nos fascina, aunque a veces nos infunda temor por la sensación de vacío. Santo Padre, me gustaría preguntarle: ¿cómo podemos encontrar verdaderamente al Señor Resucitado en nuestras vidas y estar seguros de su presencia incluso en medio de las pruebas y las incertidumbres?*
+
+Para dar inicio a [este Año Jubilar](https://www.iubilaeum2025.va/es.html), el Papa Francisco publicó el documento titulado *[Spes non confundit](https://www.vatican.va/content/francesco/es/bulls/documents/20240509_spes-non-confundit_bolla-giubileo2025.html)*, que significa «la esperanza no defrauda». En ese documento, escribió: «En el corazón de toda persona anida la esperanza como deseo y expectativa del bien» (*[Spes non confundit](https://www.vatican.va/content/francesco/es/bulls/documents/20240509_spes-non-confundit_bolla-giubileo2025.html)*, 1). En la Biblia, la palabra “corazón” suele referirse al ser más íntimo de una persona, que incluye nuestra conciencia. Nuestra comprensión de lo que es bueno, entonces, refleja cómo nuestra conciencia ha sido moldeada por las personas que forman parte de nuestra vida; aquellas que fueron amables con nosotros, aquellas que nos escucharon con amor, aquellas que nos ayudaron. Esas personas contribuyeron a modelarte en la bondad y, por lo tanto, a formar tu conciencia para buscar el bien en tus decisiones de cada día.
+
+Queridos jóvenes, Jesús es el amigo que siempre nos acompaña en la formación de nuestra conciencia. Si realmente quieren encontrar al Señor resucitado, escuchen su palabra, que es el Evangelio de la salvación. Reflexionen sobre su forma de vivir, busquen la justicia para construir un mundo más humano. Sirvan a los pobres y den testimonio así del bien que siempre nos gustaría recibir de nuestros vecinos. Estén unidos a Jesucristo en la Eucaristía. Adoren a Cristo en el Santísimo Sacramento, fuente de vida eterna. Estudien, trabajen y amen siguiendo el ejemplo de Jesús, el buen Maestro que siempre camina a nuestro lado.
+
+En cada paso, mientras buscamos lo que es bueno, pidámosle: quédate con nosotros, Señor (cf. *Lc* 24,29). Quédate con nosotros, porque sin ti no podemos hacer el bien que deseamos. Tú quieres nuestro bien; de hecho Señor, tú eres nuestro bien. Quienes te encuentran también quieren que otros te encuentren, porque tu palabra es una luz más brillante que cualquier estrella, que ilumina incluso la noche más oscura. Al [Papa Benedicto XVI](https://www.vatican.va/content/benedict-xvi/es.html) le gustaba decir que quienes creen nunca están solos. En otras palabras, encontramos a Cristo en la Iglesia, es decir, en la comunión de quienes lo buscan sinceramente. El Señor mismo nos reúne para formar comunidad, no cualquier comunidad, sino una comunidad de creyentes que se apoyan mutuamente. ¡Cuánto necesita el mundo misioneros del Evangelio que sean testigos de justicia y paz! ¡Cuánto necesita el futuro hombres y mujeres que sean testigos de esperanza! Queridos jóvenes, ¡esta es la tarea que el Señor resucitado nos confía a cada uno de nosotros!
+
+San Agustín escribió: «Tú mismo lo mueves a ello, haciendo que se deleite en alabarte, porque nos has hecho para ti y nuestro corazón está inquieto hasta que descanse en ti. \[...\] Que yo, Señor, te busque invocándote y te invoque creyendo en ti» (*Confesiones*, I, 1). Siguiendo esas palabras de Agustín, y en respuesta a sus preguntas, me gustaría invitar a cada uno de ustedes a decirle al Señor: “Gracias, Jesús, por llamarme. Mi deseo es seguir siendo uno de tus amigos, para que, abrazándote, yo también pueda ser un compañero de todos los que encuentre en el camino. Concédeme, Señor, que aquellos que me encuentren puedan encontrarte a ti, incluso a través de mis limitaciones y debilidades”. Al rezar con estas palabras, nuestro diálogo continuará cada vez que miremos al Señor crucificado, porque nuestros corazones estarán unidos en Él. Cada vez que adoremos a Cristo en la Eucaristía, nuestros corazones se unirán en Él. Por último, mi oración por ustedes es que perseveren en la fe, con gozo y valentía.Y podemos decir: “Gracias Jesús por amarnos”. “Gracias Jesús por habernos llamado”. “Quédate con nosotros Señor”.
+
+*Saludo al final de la celebración:*
+
+Quisiera agradecer al coro, la música. Gracias por acompañarnos. Gracias a todos ustedes. Gracias. Por favor, descansen un poco. Nos rencontraremos aquí mañana por la mañana para la celebración de la Santa Misa. Felicidades a todos. Buenas noches.

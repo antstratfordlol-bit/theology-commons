@@ -1,0 +1,54 @@
+---
+id: b16-spe-20110605-vespri-croazia.es
+work: b16-spe-20110605-vespri-croazia
+title: "Viaje apostólico a Croacia: Celebración de las Vísperas con obispos, sacerdotes, religiosos, religiosas y seminaristas, y oración ante la tumba del beato Alojzije Viktor Stepinac en la Catedral de la Asunción de la Virgen María y de San Esteban (Zagreb, 5 de junio de 2011)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2011-06-05
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2011/june/documents/hf_ben-xvi_spe_20110605_vespri-croazia.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-spe-20110605-vespri-croazia} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje apostólico a Croacia: Celebración de las Vísperas con obispos, sacerdotes, religiosos, religiosas y seminaristas, y oración ante la tumba del beato Alojzije Viktor Stepinac en la Catedral de la Asunción de la Virgen María y de San Esteban (Zagreb, 5 de junio de 2011) {#b16-spe-20110605-vespri-croazia}
+[VIAJE APOSTÓLICO A CROACIA\
+(4-5 DE JUNIO DE 2011)](https://www.vatican.va/content/benedict-xvi/es/travels/2011/outside/documents/croazia.html)
+
+## CELEBRACIÓN DE LAS VÍSPERAS CON LOS OBISPOS, SACERDOTES, RELIGIOSOS, RELIGIOSAS Y SEMINARISTAS, Y ORACIÓN ANTE LA TUMBA DEL BEATO ALOJZIJE VIKTOR STEPINAC
+
+## DISCURSO DEL SANTO PADRE BENEDICTO XVI
+
+Catedral de la Asunción de la Virgen María y de San Esteban\
+Domingo 5 de junio de 2011*
+
+*Queridos Hermanos en el Episcopado y en el Presbiterado,\
+Queridos hermanos y hermanas*
+
+Doy gracias al Señor en la oración por este encuentro, que me permite vivir un momento especial de comunión con vosotros, Obispos, sacerdotes, personas consagradas, seminaristas, novicios y novicias. Os saludo a todos con afecto y os doy las gracias por el testimonio que dais a la Iglesia, como hicieron a lo largo de los siglos en esta tierra tantos pastores y mártires, desde san Domnio hasta el beato Cardenal Stepinac, el amado Cardenal Kuharić y otros muchos. Agradezco al Cardenal Josip Bozanić las amables palabras que me ha dirigido. Esta tarde queremos conmemorar con devoción y en oración al beato Alojzije Stepinac, valeroso Pastor, ejemplo de celo apostólico y firmeza cristiana, cuya vida heroica ilumina también hoy a los fieles de las diócesis croatas, sosteniendo así la fe y la vida eclesial. Los méritos de este inolvidable obispo derivan esencialmente de su fe: él tuvo en su vida la mirada fija siempre en Jesús, y siempre se configuró con Él, hasta el punto de convertirse en una viva imagen de Cristo, también en sus padecimientos. Precisamente por su firme conciencia cristiana, supo resistir a todo totalitarismo, haciéndose defensor de los judíos, los ortodoxos y todos los perseguidos en el tiempo de la dictadura nazi y fascista, y después, en el período del comunismo, «abogado» de sus fieles, especialmente de tantos sacerdotes perseguidos y asesinados. Sí, llegó a ser «abogado» de Dios en esta tierra, pues defendió tenazmente la verdad y el derecho del hombre a vivir con Dios.
+
+«Con una única ofrenda \[Cristo\] ha perfeccionado definitivamente a los que van siendo santificados» (*Hb* 10,14). Esta expresión de la Carta a los Hebreos que antes se ha proclamado, nos invita a considerar la figura del beato Cardenal Stepinac como la «imagen» de Cristo y de su Sacrificio. En efecto, el martirio cristiano es la más alta medida de santidad, pero lo es siempre y sólo gracias a Cristo, por un don suyo, como respuesta a su oblación que recibimos en la Eucaristía. El Beato Alojzije Stepinac ha respondido con su sacerdocio, con el episcopado, con el sacrificio de su vida: un único «sí» unido al de Cristo. Su martirio indica el culmen de las violencias cometidas contra la Iglesia durante el terrible periodo de la persecución comunista. Los católicos croatas, y el clero en particular, fueron objeto de vejaciones y abusos sistemáticos, que pretendían destruir la Iglesia católica, comenzando por su más alta Autoridad local. Aquel tiempo especialmente duro se caracterizó por una generación de obispos, sacerdotes y religiosos dispuestos a morir por no traicionar a Cristo, a la Iglesia y al Papa. La gente ha visto que los sacerdotes nunca han perdido la fe, la esperanza, la caridad, y así han permanecido siempre unidos. Esta unidad explica lo que humanamente es incomprensible: que un régimen tan duro no haya podido doblegar a la Iglesia.
+
+También hoy la Iglesia en Croacia está llamada a permanecer unida para afrontar los desafíos del nuevo contexto social, descubriendo con osadía misioneras nuevas vías de evangelización, especialmente al servicio de las jóvenes generaciones. Queridos Hermanos en el episcopado, quisiera animaros, sobre todo a vosotros, en el desarrollo de vuestra misión. Cuanto más actuéis en fecunda armonía entre vosotros y en comunión con el Sucesor de Pedro, tanto mejor podréis acometer las dificultades de nuestra época. Es importante, además, que sobre todo los Obispos y sacerdotes trabajen siempre al servicio de la reconciliación entre los cristianos divididos y entre los cristianos y los musulmanes, siguiendo las huellas de Cristo, que es nuestra paz. No dejéis tampoco de ofrecer a los sacerdotes claras directrices espirituales, doctrinales y pastorales. La comunidad eclesial, en efecto, tiene en su seno legítimas diversidades, pero no puede dar un testimonio fiel del Señor si no es en la comunión de sus miembros. Esto exige de vosotros el servicio de la vigilancia, que se ha de ofrecer en el diálogo y con gran amor, pero también con claridad y firmeza.
+
+Queridos Hermanos, la adhesión a Cristo significa «guardar» su palabra en toda circunstancia (cf. *Jn* 14,23). A este respecto, el Beato Cardenal Stepinac se expresaba así: «Uno de los mayores males de nuestro tiempo es la mediocridad en las cuestiones de fe. No nos hagamos ilusiones… O somos católicos o no lo somos. Si lo somos, es preciso que se manifieste en todos los campos de nuestra vida» (*Homilía en la Solemnidad de san Pedro y san Pablo*, 29 junio 1943). La enseñanza moral de la Iglesia, que hoy frecuentemente no es entendida, no se puede desvincular del Evangelio. Corresponde precisamente a los Pastores proponerlo autorizadamente a los fieles, para ayudarlos a valorar sus responsabilidades personales, la armonía entre sus decisiones y las exigencias de la fe. De este modo, se avanzará en ese «cambio cultural» necesario para promover una cultura de la vida y una sociedad a medida del hombre.
+
+Queridos sacerdotes, especialmente vosotros, párrocos, conozco la importancia y la multiplicidad de vuestras tareas, en una época en la que la escasez de presbíteros comienza a percibirse seriamente. Os exhorto a no desalentaros, a permanecer vigilantes en la oración y en la vida espiritual para cumplir con fruto vuestro ministerio: enseñar, santificar y guiar a los que están confiados a vuestro cuidado. Acoged con magnanimidad a quien llama a la puerta de vuestro corazón, ofreciendo a cada uno los dones que la bondad divina os ha confiado. Perseverad en la comunión con vuestro Obispo y en la colaboración recíproca. Alimentad vuestro compromiso en la fuente de la Escritura, los Sacramentos y la constante alabanza a Dios, abiertos y dóciles a la acción del Espíritu Santo; así seréis operadores eficaces de la nueva evangelización, que estáis llamados a llevar a cabo junto con los laicos, de manera coordinada y sin confusión entre lo que depende del ministerio ordenado y lo que pertenece al sacerdocio universal de los bautizados. Preocuparos de cuidar las vocaciones al sacerdocio: esforzaos con vuestro entusiasmo y vuestra fidelidad por transmitir un vivo deseo de responder generosamente y sin titubeos a Cristo, que llama a configurarse más íntimamente a Él, Cabeza y Pastor.
+
+Queridos consagrados y consagradas, la Iglesia espera mucho de vosotros, que tenéis la misión de testimoniar en cada época «la forma de vida que Jesús, supremo consagrado y misionero del Padre para su Reino, abrazó y propuso a los discípulos que lo seguían» (Exhort. ap. *[Vita consecrata](https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_25031996_vita-consecrata.html)*, 22). Que Dios sea siempre vuestra única riqueza: dejaos plasmar por Él para hacer visible al hombre de hoy, sediento de valores verdaderos, la santidad, la verdad, el amor del Padre celestial. Sostenidos por la gracia del Espíritu, hablad a la gente con la elocuencia de una vida transfigurada por la novedad de la Pascua. Toda vuestra vida será así signo y servicio de la consagración que cada bautizado ha recibido cuando se le incorporó a Cristo.
+
+A vosotros, jóvenes que os preparáis para el sacerdocio o la vida consagrada, deseo repetiros que el divino Maestro está actuando constantemente en el mundo, y dice a cada uno de los que ha elegido: «Sígueme» (*Mt* 9,9). Es una llamada que requiere la confirmación cotidiana de una respuesta de amor. Que vuestro corazón esté siempre dispuesto. Que el testimonio heroico del Beato Alojzije Stepinac inspire una renovación de las vocaciones entre los jóvenes croatas. Y vosotros, queridos Hermanos en el episcopado y en el presbiterado, no dejéis de ofrecer a los jóvenes de los seminarios y los noviciados una formación equilibrada, que los prepare para un ministerio bien insertado en la sociedad de nuestro tiempo, gracias a la profundidad de su vida espiritual y a la seriedad de sus estudios.
+
+Querida Iglesia en Croacia, asume con humildad y valentía la tarea de ser la conciencia moral de la sociedad, «sal de la tierra» y «luz del mundo» (cf. *Mt* 5,13-14). Sé siempre fiel a Cristo y al mensaje del Evangelio, en una sociedad que trata de relativizar y secularizar todos los ámbitos de la vida. Sé la morada de la alegría en la fe y en la esperanza. Queridos: Que el beato Cardenal Alojzije Stepinac y todos los santos de vuestra tierra intercedan por vuestro pueblo, y que la Madre del Salvador os proteja. Con gran afecto imparto a vosotros y a toda la Iglesia en Croacia mi Bendición Apostólica. Amén. Alabados sean Jesús y María.

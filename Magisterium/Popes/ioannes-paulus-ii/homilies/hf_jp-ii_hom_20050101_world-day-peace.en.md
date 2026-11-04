@@ -1,0 +1,60 @@
+---
+id: jp2-hom-20050101-world-day-peace.en
+work: jp2-hom-20050101-world-day-peace
+title: "1 January 2005, Solemnity of Mary, Mother of God"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Homily
+url_date: 2005-01-01
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/homilies/2005/documents/hf_jp-ii_hom_20050101_world-day-peace.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-hom-20050101-world-day-peace.N} — numbered paragraphs 1..4 (4 anchors), shared with jp2-hom-20050101-world-day-peace.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 1 January 2005, Solemnity of Mary, Mother of God
+SOLEMNITY OF MARY, MOTHER OF GOD
+
+## HOMILY OF POPE JOHN PAUL II
+
+*38th World Day of Peace\
+Saturday, 1 January 2005*
+
+### 1 {#jp2-hom-20050101-world-day-peace.1}
+
+"Hail, holy Mother! The child to whom you gave birth is the King of heaven and earth for ever" (Entrance Antiphon).
+
+On the first day of the year, the Church gathers in prayer before the image of the Mother of God, honouring with joy the one who *gave to the world the fruit of her womb, Jesus, the "Prince of peace"* (Is 9: 5).
+
+### 2 {#jp2-hom-20050101-world-day-peace.2}
+
+It is already a consolidated tradition to celebrate on this same day the *World Day of Peace*. On this occasion I am pleased to express best wishes to the Ambassadors of the Diplomatic Corps to the Holy See. I address a special greeting to the Ambassadors of the countries particularly hard hit in these days by the tremendous cataclysm that befell them.
+
+My thought is also directed with gratitude to the members of the Secretariat of State, guided by Cardinal Angelo Sodano, as well as to the members of the Pontifical Council for Justice and Peace and especially its President, Cardinal Renato Martino.
+
+### 3 {#jp2-hom-20050101-world-day-peace.3}
+
+The World Day of Peace serves as an invitation to Christians and to all people of good will to renew their decided commitment to *build peace.* This presupposes the welcoming of a fundamental moral demand, well expressed in the words of St Paul:  *"Do not be overcome by evil, but overcome evil with good"* (Rom 12: 21).
+
+In the face of the many manifestations of evil which unfortunately injure the human family, the critical need is to *promote peace using consistent means,* giving importance to dialogue, to works of justice and to educating in forgiveness (cf. *[Message for World Day of Peace 2005](https://www.vatican.va/content/john-paul-ii/en/messages/peace/documents/hf_jp-ii_mes_20041216_xxxviii-world-day-for-peace.html),* n. 1; *L'Osservatore Romano* English Edition, 22/29 December 2004, p. 6).
+
+### 4 {#jp2-hom-20050101-world-day-peace.4}
+
+Overcoming evil with weapons of love* becomes the way in which *each person can contribute to the peace of all.* Christians and believers of different religions are called to walk this path, together with those who accept the *universal moral law.
+
+*Dear brothers and sisters,* promoting peace in the world is *our common mission!*
+
+May the Virgin Mary help us to fulfil the words of the Lord:*  "Blessed are the peacemakers, for they shall be called sons of God"* (Mt 5: 9).
+
+Happy New Year to everyone! Praised be Jesus Christ!

@@ -1,0 +1,59 @@
+---
+id: b16-spe-20090322-promozione-donna.es
+work: b16-spe-20090322-promozione-donna
+title: "Viaje Apostólico a Camerún y Angola: Encuentro con los movimientos católicos para la promoción de la mujer en la parroquia de San Antonio, en Luanda (22 de marzo de 2009)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2009-03-22
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2009/march/documents/hf_ben-xvi_spe_20090322_promozione-donna.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20090322-promozione-donna} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje Apostólico a Camerún y Angola: Encuentro con los movimientos católicos para la promoción de la mujer en la parroquia de San Antonio, en Luanda (22 de marzo de 2009) {#b16-spe-20090322-promozione-donna}
+[VIAJE APOSTÓLICO\
+DEL SANTO PADRE BENEDICTO XVI\
+A CAMERÚN Y ANGOLA***\***
+(17-23 DE MARZO DE 2009)](http://www.vatican.va/content/benedict-xvi/es/travels/2009/outside/documents/camerun-angola.html)
+
+## ENCUENTRO CON LOS MOVIMIENTOS CATÓLICOS PARA LA PROMOCIÓN DE LA MUJER
+
+## DISCURSO DEL SANTO PADRE
+
+*Parroquia de Santo Antonio, Luanda\
+Domingo 22 de marzo de 2009*
+
+*Queridos hermanos y hermanas:*
+
+«No les queda vino», dijo María a Jesús, suplicando para que la boda pudiera continuar en fiesta, como siempre debe ser: «Los invitados a la boda no pueden ayunar mientras tienen al novio con ellos» (cf. *Mc* 2,19). La Madre de Jesús fue después a los sirvientes recomendándoles: «Haced lo que él os diga» (cf. *Jn* 2,1-5). Y aquella mediación materna hizo posible el «vino bueno», premonitor de una nueva alianza entre la omnipotencia divina y el corazón humano pobre pero bien dispuesto. Por lo demás, esto es lo que ya había sucedido en el pasado cuando –como hemos oído en la primera lectura– «todo el pueblo, a una, respondió: “haremos todo cuanto ha dicho el Señor”» (*Ex* 19,8).
+
+Que estas mismas palabras broten del corazón de todos los que estamos aquí reunidos, en esta iglesia de San Antonio, levantada gracias a la benemérita obra misionera de los Frailes menores capuchinos, como una nueva Tienda para el Arca de la Alianza, signo de la presencia de Dios en medio del pueblo en camino. Sobre ellos y cuantos colaboran y se benefician de la asistencia religiosa y social que se presta aquí, el Papa imparte una benévola y alentadora Bendición. Saludo cordialmente a todos los presentes: Obispos, presbíteros, consagrados y consagradas, y de modo particular a vosotros, fieles laicos, que asumís conscientemente los deberes de compromiso y testimonio cristiano que conlleva el sacramento del bautismo y, para los casados, también del sacramento de la matrimonio. Y, dado el motivo principal que nos reúne aquí, dirijo un saludo lleno de afecto y esperanza a las mujeres, a las que Dios ha confiado la fuente de la vida: vivís y apostáis por la vida, porque el Dios vivo ha apostado por vosotras. Saludo con espíritu agradecido a los responsables y animadores de los Movimientos eclesiales que se preocupan entre otras cosas por la promoción de la mujer angoleña. Agradezco a Mons. José de Queirós Alves y a vuestros representantes las palabras que me han dirigido, expresando los afanes y esperanzas de tantas heroínas silenciosas, como son las mujeres en esta querida Nación.
+
+Exhorto a todos a ser realmente conscientes de las condiciones desfavorables a las que han estado sometidas –y lo siguen estando– muchas mujeres, examinando en qué medida esto puede ser causado por la conducta y la actitud de los hombres, a veces por su falta de sensibilidad o responsabilidad. Los designios de Dios son diferentes. Hemos escuchado en la lectura que todo el pueblo contestó al unísono: «Haremos todo cuanto ha dicho el Señor». Dice la Sagrada Escritura que el Creador divino, al ver la obra que había realizado, vio que faltaba algo: todo habría sido bueno si el hombre no hubiera estado solo. ¿Cómo podía el hombre solo ser imagen y semejanza de Dios, que es uno y trino, de Dios que es comunión? «No está bien que el hombre esté solo; voy a hacer alguien como él que le ayude» (cf. *Gn* 2,18-20). Dios se puso de nuevo manos a la obra para crear la ayuda que faltaba, y se la proporcionó de forma privilegiada, introduciendo el orden del amor, que no veía suficientemente representado en la creación.
+
+Como sabéis, hermanos y hermanas, este orden del amor pertenece a la vida íntima de Dios mismo, a la vida trinitaria, siendo el Espíritu Santo la hipóstasis personal del amor. Ahora bien, «sobre el designio eterno de Dios –como dijo el recordado Papa Juan Pablo II–, la mujer es aquella en quien el orden del amor en el mundo creado de las personas halla un terreno para su primera raíz»(Carta ap., *[Mulieris dignitatem](http://www.vatican.va/content/john-paul-ii/es/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html)*, 29). En efecto, al ver el encanto fascinante que irradia de la mujer a causa de la íntima gracia que Dios le ha dado, el corazón del hombre se ilumina y se ve a sí mismo en ella: «Esta sí que es hueso de mis huesos y carne de mi carne» (*Gn* 2,23). La mujer es otro «yo» en la común humanidad. Hay que reconocer, afirmar y defender la misma dignidad del hombre y la mujer: ambos son personas, diferentes de cualquier otro ser viviente del mundo que les rodea.
+
+Los dos están llamados a vivir en profunda comunión, en un recíproco reconocimiento y entrega de sí mismos, trabajando juntos por el bien común con las características complementarias de lo que es masculino y de lo que es femenino. ¿A quién se le oculta hoy la necesidad de dar más espacio a las «razones» del corazón? En un mundo como el actual, dominado por la técnica, se siente la exigencia de esta complementariedad de la mujer, para que el ser humano pueda vivir sin deshumanizarse del todo. Puede pensarse en las tierras donde hay más pobreza, en las regiones devastadas por la guerra, en muchas situaciones trágicas causadas por las migraciones, forzadas o no... En esos casos, casi siempre son las mujeres las que mantienen intacta la dignidad humana, defienden la familia y tutelan los valores culturales y religiosos.
+
+Queridos hermanos y hermanas, la historia habla casi exclusivamente de las conquistas de los hombres, cuando, en realidad, una parte importantísima se debe a la acción determinante, perseverante y beneficiosa de las mujeres. Permitidme que, entre muchas mujeres extraordinarias, os hable de dos: Teresa Gomes y Maria Bonino. Angoleña la primera, fallecida el año 2004 en la ciudad de Sumbe, después de una vida conyugal feliz de la que nacieron 7 hijos; su fe cristiana fue inquebrantable y su celo apostólico admirable, sobre todo en los años 1975 y 1976, cuando una feroz propaganda ideológica y política se abatió sobre la parroquia de Nuestra Señora de las Gracias de Porto Amboim, consiguiendo casi que se cerraran las puertas de la iglesia. Teresa se convirtió entonces en la líder de los fieles que no se rindieron ante dicha situación, animándolos, protegiendo valerosamente las estructuras parroquiales y buscando cualquier modo posible para tener de nuevo la santa Misa. Su amor a la Iglesia la hizo incansable en la obra de la evangelización, bajo la guía de los sacerdotes.
+
+Maria Bonino fue una pediatra italiana, que se ofreció voluntaria para diversas misiones en esta querida África, y llegó a ser en los últimos años de su vida responsable del departamento pediátrico del hospital provincial de Uíje. Dedicada la cura de miles de niños allí hospitalizados, María pagó con el mayor sacrificio el servicio prestado durante una terrible epidemia de fiebre hemorrágica de Marburg, acabando contagiada ella misma; aunque se la trajo a Luanda, aquí murió y reposa desde el 24 de marzo de 2005. Pasado mañana se cumple el cuarto aniversario. La Iglesia y la sociedad humana se han enriquecido enormemente –y lo siguen siendo– por la presencia y las virtudes de las mujeres, particularmente por las que se han consagrado al Señor y, apoyándose en Él, se han puesto al servicio de los otros.
+
+Queridos angoleños, hoy nadie debería dudar que las mujeres, sobre la base de su igual dignidad con los hombres, «tienen pleno derecho a insertarse activamente en todos los ámbitos públicos y su derecho debe ser afirmado y protegido incluso por medio de instrumentos legales donde se considere necesario. Sin embargo, este reconocimiento del papel público de las mujeres no debe disminuir su función insustituible dentro de la familia: aquí su aportación al bien y al progreso social, aunque esté poco considerada, tiene un valor verdaderamente inestimable» ([*Mensaje para la Jornada Mundial de la Paz*, 1995](https://www.vatican.va/content/john-paul-ii/es/messages/peace/documents/hf_jp-ii_mes_08121994_xxviii-world-day-for-peace.html), n. 9). Por lo demás, en el ámbito personal, la mujer siente la propia dignidad no tanto como el resultado de una afirmación de los derechos en el plano jurídico, sino más bien como el resultado directo de las atenciones materiales y espirituales que se reciben en la familia. La presencia materna dentro de la familia es tan importante para la estabilidad y el desarrollo de esta célula fundamental de la sociedad, que debería ser reconocida, alabada y apoyada de todos los modos posibles. Y, por el mismo motivo, la sociedad ha de llamar la atención a los maridos y a los padres sobre sus responsabilidades respecto a su propia familia.
+
+Queridas familias, sin duda os habéis dado cuenta de que ninguna pareja humana puede por sí sola, únicamente con las propias fuerzas, ofrecer a los hijos de manera adecuada el amor y el sentido de la vida. En efecto, para poder decir a alguien: «Tu vida es buena, aunque no se sepa su futuro», hace falta una autoridad y una credibilidad mayor de la que pueden dar los padres por sí solos. Los cristianos saben que esta autoridad mayor se ha dado a esa familia más grande, que Dios, por su Hijo Jesucristo y el don del Espíritu Santo, ha creado en la historia humana, es decir, la Iglesia. Vemos en ello la obra de ese Amor eterno e indestructible que asegura a la vida de cada uno de nosotros un sentido permanente, aunque no conozcamos su futuro. Por este motivo, la edificación de toda familia cristiana se realiza dentro de esa familia más grande que es la Iglesia, la cual la sostiene y la estrecha en su pecho, garantizando que sobre ella, ahora y en el futuro, se pose el «sí» del Creador.
+
+«No les queda vino», dice María a Jesús. Queridas mujeres angoleñas, tenedla como vuestra abogada ante el Señor. Así la conocemos desde aquellas bodas de Caná: como la mujer bondadosa, llena de solicitud maternal y de valor, la mujer que se da cuenta de las necesidades ajenas y, queriendo poner remedio, las lleva ante el Señor. Junto a Ella, todos, hombres y mujeres, podemos recobrar esa serenidad e íntima confianza que nos hace sentirnos bienaventurados en Dios e incansables en la lucha por la vida. Que la Virgen de Muxima sea la estrella de vuestra vida; que Ella os guarde unidos en la gran familia de Dios. Amén.

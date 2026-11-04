@@ -1,0 +1,72 @@
+---
+id: jp2-aud-20010801.en
+work: jp2-aud-20010801
+title: "1 August 2001"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: General audience (catechesis)
+url_date: 2001-08-01
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/audiences/2001/documents/hf_jp-ii_aud_20010801.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-aud-20010801.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-aud-20010801.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 1 August 2001
+## JOHN PAUL II
+
+## GENERAL AUDIENCE
+
+Wednesday 1 August 2001*
+
+*Dear Brothers and Sisters,\
+Dear Young People,*
+
+### 1 {#jp2-aud-20010801.1}
+
+Today St Peter's Square is a square full of young people. About a year ago, in the middle of the Great Jubilee of the Year 2000, young people who came from all over the world for the celebrations of World Youth Day found a warm welcome here. Today this square, which is hosting the 1,000th General Audience since divine Providence called me to be a Successor of the Apostle Peter, is open to the thousands of boys and girls who have come from all over Europe on pilgrimage to the tomb of the Prince of the Apostles.
+
+Dear altar servers! Yesterday you crossed St Peter's Square in a long procession to approach the altar of the *Confessio* in the basilica. Thus, in a certain way, you have prolonged the journey that the world's young people began in the Holy Year. The motto of your pilgrimage in the Eternal City:  "*Towards a new world*", is a sign of your desire to take the Christian vocation seriously.
+
+### 2 {#jp2-aud-20010801.2}
+
+I greet you affectionately, dear young people and I am pleased that we could have this meeting. I thank in particular Auxiliary Bishop Martin Gächter, President of *Coetus internationalis Ministrantium,* for his most cordial words to me on your behalf.
+
+With special joy I address the altar servers of the German-speaking countries, who make up the largest group. It is wonderful that so many young Christians have come from Germany!
+
+Your commitment to the altar is not only a duty but a great honour, a true holy service. Regarding this service, I would like to suggest some points for your reflection.
+
+The *vestments* worn by altar servers are very *special.* They recall a garment that everyone puts on when he is welcomed, in Jesus Christ, into the community. I am referring to the baptismal garment whose deep meaning is explained by St Paul:  "For as many of you as were baptized into Christ have put on Christ" (Gal 3,27).
+
+Even if you no longer fit into your baptismal garment, dear altar servers, you have put on that of an altar server. Yes, Baptism is the starting point of your "authentic liturgical service", which puts you beside your Bishops, priests and deacons (cf. *Sacrosanctum Concilium,* n. 29).
+
+### 3 {#jp2-aud-20010801.3}
+
+The altar server has a *privileged place in liturgical celebrations.* Those who serve at Mass present themselves to a community. They experience from close at hand that Jesus Christ is present and active in every liturgy. Jesus is present whenever the community gathers to pray and give praise to God. Jesus is present in the words of Sacred Scripture. Jesus is present above all in the Eucharist, under the appearances of bread and wine. He acts through the priest who celebrates Holy Mass and administers the sacraments *in persona Christi* \[in the person of Christ\].
+
+Therefore in the liturgy you are far more than mere "helpers of the parish priest". Above all, you are servants of Jesus Christ, the eternal High Priest. Thus you altar servers especially are called to be young friends of Jesus. Strive to deepen and foster this friendship with him. You will discover that in Jesus you have found a true friend for life.
+
+### 4 {#jp2-aud-20010801.4}
+
+The altar server often holds a *candle* in his hand. How can we not think of what Jesus said in the Sermon on the Mount:  "You are the light of the world" (Mt 5,14). Your service cannot be restricted to the inside of a church. It must shine out in your every day life:  at school, in the family and in the different social contexts, for those who want to serve Jesus Christ in a church must be his witnesses everywhere.
+
+Dear young people, your contemporaries are awaiting the true "light of the world" (cf. Jn 1,9). Do not hold your candlestick only inside the church but take the light of the Gospel to all who live in darkness and are going through a difficult time in their lives.
+
+### 5 {#jp2-aud-20010801.5}
+
+I have spoken of friendship with Jesus. How happy I would be if something more sprang from this friendship! How beautiful it would be if some of you could discover a vocation to the priesthood! Jesus Christ urgently needs young people who generously make themselves available to him without reserve. Furthermore, might not the Lord also be calling some of you girls to embrace the consecrated life in order to serve the Church and the brethren? Also for those who would like to be united in marriage, an altar server's service teaches that an authentic union must always include readiness for reciprocal and gratuitous service.
+
+\*\*\*\*\*
+
+I am happy to greet the English-speaking pilgrims and visitors, especially those from England, Scotland, Japan and the United States. Upon you and your families I invoke the grace and peace of our Lord Jesus Christ.

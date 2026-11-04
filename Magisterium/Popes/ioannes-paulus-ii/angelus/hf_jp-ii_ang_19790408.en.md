@@ -1,0 +1,61 @@
+---
+id: jp2-ang-19790408.en
+work: jp2-ang-19790408
+title: "Angelus, 8 April 1979"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Angelus / Regina Caeli
+url_date: 1979-04-08
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/angelus/1979/documents/hf_jp-ii_ang_19790408.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#jp2-ang-19790408.N} — numbered paragraphs 1..4 (4 anchors), shared with jp2-ang-19790408.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 8 April 1979
+JOHN PAUL II
+
+## ANGELUS
+
+*Palm Sunday, 8 April 1979*
+
+### 1 {#jp2-ang-19790408.1}
+
+"Auctor fidei nostrae..."—"the pioneer and perfecter of our faith" (cf. Heb12:2): with these words, which come from the Letter to the Hebrews, we address Christ, at the beginning of Holy Week. Holy Week—the Week of the Lord's Passion—leads us to the very sources of our faith. Christ himself is this source. It was he who gained our salvation in an absolute way precisely through the Cross. Precisely because of the fact that he accepted the testament of Gethsemane and Calvary. Precisely because of the fact that he was bound, tried, scourged, crowned with thorns. Precisely because of the fact that he was condemned, that he fell beneath the weight of the Cross. And what can we say about the terrible torment of the agony on the Cross? Let us follow the traces of his sufferings, let us dwell with the utmost attention on every word spoken by him: in the Upper Room, in the garden of Gethsemane, before the Sanhedrin, before Pilate, and finally on the cross. There exists in all that an amazing consistency: the unity of testimony, of mission.
+
+"Auctor fidei nostrae".
+
+It is this very abasement, this emptying: "kenosis", that speaks to us. He wins our hearts because of the truth he taught. Perhaps he would not have won them if he had not confirmed it with this witness. We believe that he is the Son of God, precisely because in this way, right to the end, he revealed himself as the Son of man.
+
+### 2 {#jp2-ang-19790408.2}
+
+He spoke to us of God, and perhaps with that one sentence of the prayer at Gethsemane, or with the seven words he spoke on the cross, he told us who God is even more than in the whole of the Gospel.
+
+The revelation of God becomes penetrating precisely because of the fact that "though he (Christ) was in the form of God, (he) did not count equality with God a thing to be grasped, but emptied himself, taking the form of a servant, being born in the likeness of men" (Phil 2:68).
+
+The penetrating revelation of justice and, at the same time, of love, which is mercy! Justice, love, mercy would have remained concepts without an ultimate and definitive content, if there had not been this Passion and this Cross.
+
+The revelation of this extreme "weakness" of God was necessary in order that it would be possible to manifest what his power is. It was necessary that "the death of God" should take place in the history of mankind in order that he might continually remain in our souls as source of the Life "welling up to eternal life" (Jn 4:14).
+
+### 3 {#jp2-ang-19790408.3}
+
+These are the thoughts, with which we address Christ today, calling him "the Pioneer and Perfecter of our faith". With these thoughts we begin Holy Week today, Palm Sunday, and we wish to live it during all these days and especially during the Sacred Triduum. Meditating on all this, our faith is deepened even more.
+
+May it become even more alive and vital through love.
+
+Let us be born again from this death on which we shall meditate this week. Let hope live again in us.
+
+### 4 {#jp2-ang-19790408.4}
+
+There occurs in these days the month's mind of the late Cardinal Jean Villot, my Secretary of State, as he had been of my revered predecessors Paul VI and John Paul I. I recommend him to your prayers as brothers, all united in the sacred bond of charity, and I wish to recall today, and present once more to the admiration of all, his exemplary Christian, priestly and Episcopal virtues, among which there shone forth, throughout his life, faithful love for the Church, the Bride of Christ.

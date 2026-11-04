@@ -1,0 +1,54 @@
+---
+id: jp2-ang-20011230.en
+work: jp2-ang-20011230
+title: "Angelus, 30 December 2001, Feast of the Holy Family"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Angelus / Regina Caeli
+url_date: 2001-12-30
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/angelus/2001/documents/hf_jp-ii_ang_20011230.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-ang-20011230.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-ang-20011230.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 30 December 2001, Feast of the Holy Family
+JOHN PAUL II
+
+ANGELUS
+
+*Feast of the Holy Family\
+Sunday, 30 December 2001*
+
+### 1 {#jp2-ang-20011230.1}
+
+Today we shift our gaze from the grotto of Bethlehem where the Saviour was born on Holy Night to the humble house of Nazareth, to contemplate the Holy Family of Jesus, Mary and Joseph, whose feast we celebrate in the festive, family atmosphere of Christmas.
+
+The Redeemer of the world chose the family as the place for his birth and growth, thereby sanctifying this fundamental institution of every society. The time he spent in Nazareth, the greater part of his life, continues to be shrouded in deep silence. Very little information about it has been passed on to us by the Evangelists. However, if we aspire to a deeper understanding of Jesus' life and mission, we must draw close to the mystery of the Holy Family of Nazareth to observe and listen. Today's liturgy offers us a providential opportunity to do so.
+
+### 2 {#jp2-ang-20011230.2}
+
+For every believer, and especially for Christian families, the humble dwelling place in Nazareth is *an authentic school of the Gospel.* Here we admire, put into practice, the divine plan to make the family an *intimate community of life and love;* here we learn that every Christian family is called to be a small "*domestic church*" that must shine with the Gospel virtues. Recollection and prayer, mutual understanding and respect, personal discipline and community asceticism and a spirit of sacrifice, work and solidarity are typical features that make the family of Nazareth a model for every home.
+
+I wanted to highlight these values in the Apostolic Exhortation *[Familiaris consortio](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)* whose 20th anniversary occurred this year. *The future of humanity passes through the family* which in our time has been more marked than any other institution by the profound and rapid changes in culture and society. However, the Church has never ceased "to speak and offer her help to those who are already aware of the value of marriage and the family and seek to live it faithfully, to those who are uncertain and anxious and searching for the truth, and to those who are unjustly impeded from living freely their family lives" (*[Familiaris consortio](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html),* n. 1). She is aware of her responsibility and today too intends to continue "to offer her services to every person who wonders about the destiny of marriage and the family" (*ibid.*).
+
+### 3 {#jp2-ang-20011230.3}
+
+The Church relies especially on the witness and contribution of Christian families to fulfil her urgent mission. Indeed, in the face of the dangers and difficulties that beset the family institution, she invites families to have greater spiritual and apostolic boldness, knowing that the family is called to be "a sign of unity for the world" and thus to bear witness to "the Kingdom and peace of Christ, towards which the whole world is journeying" (*ibid.,* n. 48).
+
+May Jesus, Mary and Joseph bless and protect all the world's families, so that within them may reign the serenity and joy, justice and peace that the newborn Christ has given as a gift to humanity.
+
+*After leading the prayer of the* Angelus, *the Holy Father greeted pilgrims from various regions of Italy, and said:*
+
+Tomorrow at 6.00 p.m. in St Peter's Basilica, I will preside at the celebration of Vespers with the solemn *Te Deum* of thanksgiving. Every year brings its joys and sorrows, problems and new prospects. I invite everyone to end the year 2001 thanking God and leaving behind all enmity, so as to begin 2002 in the peace and love of Christ. This is my wish for everyone, which I entrust to the intercession of the Holy Family of Nazareth.

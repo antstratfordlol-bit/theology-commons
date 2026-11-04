@@ -1,0 +1,42 @@
+---
+id: b16-spe-20071029-catholic-pharmacists.en
+work: b16-spe-20071029-catholic-pharmacists
+title: "To the participants in the 25th International Congress of Catholic Pharmacists (October 29, 2007)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2007-10-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/october/documents/hf_ben-xvi_spe_20071029_catholic-pharmacists.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20071029-catholic-pharmacists} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the participants in the 25th International Congress of Catholic Pharmacists (October 29, 2007) {#b16-spe-20071029-catholic-pharmacists}
+## ADDRESS OF HIS HOLINESS BENEDICT XVI TO MEMBERS OF THE INTERNATIONAL CONGRESS OF CATHOLIC PHARMACISTS
+
+Consistory Hall\
+Monday, 29 October 2007
+
+*Mr President,\
+Dear Friends,*
+
+I am happy to welcome you, members of the International Congress of Catholic Pharmacists, on the occasion of your 25th Congress, whose theme is: ** "The new boundaries of the pharmaceutical act".\
+The current development of an arsenal of medicines and the resulting possibilities for treatment oblige pharmacists to reflect on the ever broader functions they are called to fulfil, particularly as intermediaries between doctor and patient; they have an educational role with patients to teach them the proper dosage of their medication and especially to acquaint them with the ethical implications of the use of certain drugs. In this context, it is not possible to anaesthetize consciences, for example, concerning the effects of particles whose purpose is to prevent an embryo's implantation or to shorten a person's life. The pharmacist must invite each person to advance humanity, so that every being may be protected from the moment of conception until natural death, and that medicines may fulfil properly their therapeutic role. No person, moreover, may be used thoughtlessly as an object for the purpose of therapeutic experimentation; therapeutic experimentation must take place in accordance with protocols that respect fundamental ethical norms. Every treatment or process of experimentation must be with a view to possible improvement of the person's physical condition and not merely seeking scientific advances. The pursuit of good for humanity cannot be to the detriment of people undergoing treatment. In the moral domain, your Federation is invited to address the issue of conscientious objection, which is a right your profession must recognize, permitting you not to collaborate either directly or indirectly by supplying products for the purpose of decisions that are clearly immoral such as, for example, abortion or euthanasia.
+
+It would also be advisable that the different pharmaceutical structures, laboratories at hospital centres and surgeries, as well as our contemporaries all together, be concerned with showing solidarity in the therapeutic context, to make access to treatment and urgently needed medicines available at all levels of society and in all countries, particularly to the poorest people.
+
+Prompted by the Holy Spirit, may you as Catholic pharmacists find in the life of faith and in the Church's teaching elements that will guide you in your professional approach to the sick, who are in need of human and moral support if they are to live with hope and find the inner resources that will help them throughout their lives. It is also your duty to help young people who enter the different pharmaceutical professions to reflect on the increasingly delicate ethical implications of their activities and decisions. To this end, it is important that all Catholic health-care professionals and people of good will join forces to deepen their formation, not only at a technical level but also with regard to bioethical issues, as well as to propose this formation to the profession as a whole. The human being, because he or she is the image of God, must always be the centre of research and choices in the biomedical context. At the same time, the natural principle of the duty to provide care for the sick person is fundamental. The biomedical sciences are at the service of the human being; if this were not the case, they would have a cold and inhuman character. All scientific knowledge in the health sector and every therapeutic procedure is at the service of the sick person, viewed in his integral being, who must be an active partner in his treatment and whose autonomy must be respected.
+
+As I entrust you as well as the sick people you are called to treat to the intercession of Our Lady and of St Albert the Great, I impart my Apostolic Blessing to you and to all the members of your Federation and your families.

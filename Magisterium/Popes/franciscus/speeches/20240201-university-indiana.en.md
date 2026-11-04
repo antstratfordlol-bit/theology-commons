@@ -1,0 +1,50 @@
+---
+id: francis-spe-20240201-university-indiana.en
+work: francis-spe-20240201-university-indiana
+title: "To a Delegation from the 'University of Notre Dame' (Indiana, U.S.A.) (1st February 2024)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2024-02-01
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2024/february/documents/20240201-university-indiana.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, fr, it"
+anchors: "{#francis-spe-20240201-university-indiana} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To a Delegation from the "University of Notre Dame" (Indiana, U.S.A.) (1st February 2024) {#francis-spe-20240201-university-indiana}
+## GREETING OF HIS HOLINESS POPE FRANCIS TO THE PRESIDENT AND BOARD OF TRUSTEES OF THE UNIVERSITY OF NOTRE DAME, INDIANA, U.S.A.
+
+*Clementine Hall\
+Thursday, 1st February 2024*
+
+## \[[Multimedia](https://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2024/2/1/university-indiana.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Dear brothers and sisters, good morning!*
+
+I offer a warm welcome to all of you, to your President, Father John Jenkins, to the members of the Board of Trustees of the University of Notre Dame and to the University officials.
+
+From its foundation, the University of Notre Dame has dedicated itself to advancing the Church’s mission of proclaiming the Gospel through the formation of each person in all his or her dimensions. Indeed, as Blessed Basil Moreau said, “Christian education is the art of helping young people to completeness”. And not only with the head, but with three languages: the head, the heart and the hands. This is the secret of education: that we think what we feel and do, we feel what we think and do, and that we do what we feel and think. Always remember, this is the crux of the matter. And in this regard, I want to reflect briefly upon these three languages: those of the *head*, the *heart* and the *hands*. Together, these provide a horizon within which Catholic academic communities can strive to form strong and well-integrated leaders whose vision of life is animated by the teaching of Christ.
+
+First, *the head*. By their very nature, Catholic universities are committed to pursue the advancement of knowledge through academic study and research. In today’s globalized world, this will involve a collaborative and cross-disciplinary approach, uniting various fields of scholarship and inquiry. Indeed, these educational endeavors undertaken by Catholic institutions are grounded in the firm conviction of *the intrinsic harmony of faith and reason*, from which flows the relevance of the Christian message for all areas of personal and social life. Consequently, educators and students alike are called to a deeper appreciation not only of the value of learning in general, but also of the richness of the Catholic intellectual tradition in particular. That there is an intellectual tradition does not mean being closed in; no, it means being open! There is an intellectual tradition that we must always preserve and develop.
+
+The task of a Catholic university, however, is not only to expand the mind, the head; it must expand the *heart*. If we think and do not feel, we are not human. The whole university community is called to accompany others, especially young people, with wisdom and respect along the paths of life and help them cultivate an openness to all that is *true, good and beautiful*. This involves the establishment of genuine relationships between educators and students so that they can walk together and understand the deepest questions, needs and dreams experienced in human life. I will pose a question, that each of you can answer later: do you help young people to dream? I ask the question. It also means promoting dialogue and a culture of encounter, so that all can learn to acknowledge, appreciate and love each person as a brother or sister, and most fundamentally, as a beloved child of God. Here, we cannot overlook the essential role of religion in educating people’s hearts. Consequently, I am pleased that the University of Notre Dame is marked by an atmosphere that enables students, faculty and staff to grow spiritually and bear witness to the joy of the Gospel, its power to renew society and its capacity to provide the strength to face wisely the challenges of the present time.
+
+Finally, the *hands*. Head, heart and hands. Catholic education commits us, among other things, to the building of a better world by teaching mutual coexistence, fraternal solidarity and peace. We cannot stay within the walls or boundaries of our institutions, but must strive to go out to the peripheries and meet and serve Christ in our neighbor. In this regard, I encourage the University’s continuing efforts to foster in its students zeal for meeting the needs of underprivileged communities.
+
+Dear brothers and sisters, I express my gratitude for your generous service in assisting Notre Dame to remain ever faithful to its unique character and identity as a Catholic institution of higher learning. It is likewise my hope that your contributions to the life of this institution will continue to enhance its legacy of a solid Catholic education and enable the University to be, as your founder Father Edward Sorin desired, “a powerful means for good” in society.
+
+I thank you once more for this visit. Commending the entire Notre Dame community and all who support its mission to the intercession of Our Lady, I invoke upon you and your families the Lord’s gifts of wisdom, joy and peace, and I cordially impart my blessing. And I ask you, please, to remember to pray for me. Thank you!

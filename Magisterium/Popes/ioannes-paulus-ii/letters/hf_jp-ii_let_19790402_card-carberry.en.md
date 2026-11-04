@@ -1,0 +1,43 @@
+---
+id: jp2-let-19790402-card-carberry.en
+work: jp2-let-19790402-card-carberry
+title: "Letter to Cardinal John Carberry for the 50th Anniversary of his Priestly Ordination (April 2, 1979)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Letter
+url_date: 1979-04-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: no
+translation-of: jp2-let-19790402-card-carberry.la
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/letters/1979/documents/hf_jp-ii_let_19790402_card-carberry.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, it, la"
+anchors: "{#jp2-let-19790402-card-carberry} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, la"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Letter to Cardinal John Carberry for the 50th Anniversary of his Priestly Ordination (April 2, 1979) {#jp2-let-19790402-card-carberry}
+## LETTER OF HIS HOLINESS JOHN PAUL II TO CARDINAL JOHN CARBERRY FOR THE FIFTIETH ANNIVERSARY OF HIS PRIESTLY ORDINATION
+
+*To Our Esteemed Brother\
+John Cardinal Carberry\
+Archbishop of Saint Louis*
+
+Calling to mind the singular blessings of God and giving great thanks to the divine donor is for the grateful person a loving duty, and at the same time it is a solace amid one's daily affairs and a source of pleasure in one's anxieties. Therefore, our esteemed brother, while we are present to you with our sincere congratulations, we wish with this letter to share your joy when you commemorate the fiftieth anniversary of your priesthood, which is fast approaching. For we realise that the duty of the Supreme Pastor in the Church is not only to take a loving and fatherly interest in the faithful but also in an even more attentive way to honour those especially whom we rightly consider to be our brothers, the messengers of the Churches and the glory of Christ (cfr. 2 Cor. 8:23). Therefore we are pleased to add our joy to that of the beloved flock to whom you have given yourself completely for the past eleven years and to that of those whom you have previously loved as a Bishop, and we ask the Lord to give you in abundance his choicest gifts.
+
+We well know the position which even now you hold among the bishops of your country as President of the Commissions for the Sacred Liturgy and for Ecumenism. Likewise we are aware of what you have done to show your concern for the advancement of the Churches according to the spirit of the Gospel, to overcome the difficulties and to give effective assistance to the various types of communities—of priests and laity, of teachers and pupils, of young people and of the elderly. Furthermore, in your great zeal you have done much for the continued education and renewal of priests and religious, as also to bring about close links between the priests and religious themselves and with their Ordinary. Moreover, we also know that you arranged courses in Christian education for the laity and that you were responsible in your great wisdom for the success of the apostolate of the Church. Nor are we ignorant of the fact that you gave special attention to fostering ecclesiastical vocations, and that you showed a great interest in Colleges and Seminaries so that the dioceses might not lack ministers to proclaim the word of God and to keep the divine life alight in the hearts of men.
+
+Therefore, given this opportunity, you have good reason to rejoice more deeply with the spiritual joy which springs from divine sources as a pledge of that great reward which is reserved for the good and faithful servants in the kingdom of heaven. And so, together with you we thank God the author and perfecter of our good works, and we ask him to cause that which has been planted and watered to increase.
+
+Finally, upon you for whom we wish a yet long life, we invoke the love of the Virgin Mary, the Mother of God, to whom you have learnt to entrust yourself and all your affairs, and it gives us great pleasure to bestow the Apostolic Blessing, which we desire to extend to the Auxiliary Bishops and to all those who are dear to you.
+
+*From the Vatican on the second day of April in the year 1979, the first of Our Pontificate*.
+
+## IOANNES PAULUS PP. II

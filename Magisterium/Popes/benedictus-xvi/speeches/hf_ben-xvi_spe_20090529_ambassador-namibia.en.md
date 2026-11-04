@@ -1,0 +1,53 @@
+---
+id: b16-spe-20090529-ambassador-namibia.en
+work: b16-spe-20090529-ambassador-namibia
+title: "To the new Ambassador of the Republic of Namibia to the Holy See (May 29, 2009)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2009-05-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/may/documents/hf_ben-xvi_spe_20090529_ambassador-namibia.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, fr, it, pt"
+anchors: "{#b16-spe-20090529-ambassador-namibia} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the new Ambassador of the Republic of Namibia to the Holy See (May 29, 2009) {#b16-spe-20090529-ambassador-namibia}
+## ADDRESS OF HIS HOLINESS BENEDICT XVI TO HIS EXCELLENCY Mr. MELVIN GERTZE NEW AMBASSADOR OF THE REPUBLIC OF NAMIBIA TO THE HOLY SEE
+
+*Friday, 29 May 2009*
+
+*Your Excellency,*
+
+It is my pleasure to welcome you to the Vatican and to receive the Letters of Credence by which you are accredited as Ambassador Extraordinary and Plenipotentiary of the Republic of Namibia to the Holy See. I thank you for the courteous greetings which you have expressed on behalf of the President of the Republic, Mr Hifikepunye Pohamba. Please convey to him my gratitude and my good wishes. I would also ask you kindly to transmit my greetings to the members of the Government, to the civil authorities and to all your fellow citizens.
+
+Diplomatic relations between the Holy See and individual countries serve to create a framework in which mutual interests are provided for and safeguarded, while at the same time giving opportunities to both parties to promote common values at the national and international levels. I am satisfied with the cooperation that in such a short time has produced many positive results for the Holy See and Namibia.
+
+Mr Ambassador, as you are well aware, Africa presents a varied panorama of political, social and economic realities. Some of these are success stories, other have not met the expectations of the peoples that such initiatives were meant to serve. Namibia has a relatively short history as a member of the family of independent nations. Your citizens and their elected officials have benefited from observing examples of other countries. This in time has led to recognize the need to protect the nation’s resources, mineral and agricultural, and to oversee their rational exploitation and use for the common good. Efforts to bring the uranium extraction and diamond industry processes under responsible vigilance are positive initiatives. Indeed transparency, honest business practices and good governance are essential to sustainable economic development. I am pleased to see that the Constitution of your country incorporates a clear awareness of the State’s ecological responsibilities. As you continue to strive towards a balanced distribution of wealth that will offer greater possibilities of improvement for those who are less fortunate, I encourage the nation to continue along the path of strengthening the common good by consolidating democratic institutions and practices and seeking justice for all.
+
+The Holy See is confident, Mr Ambassador, that your country can contribute to positive developments in Africa and in the international community. Because of its history of peaceful independence and integration, its unity in diversity, and its responsible management of natural resources, Namibia can offer an example for the development of other countries. It is important furthermore that the voice of Namibia be expressed in international meetings since the present needs and aspirations of the people of your continent must be presented objectively and from an African perspective, and not solely in accordance with the interests of others.
+
+The Catholic Church is pleased to exercise her mission in a climate of religious freedom. The Church’s contribution to civic life can be seen not only in the achievements of individual Christians or institutions but also in the impact of its message. By preaching the Gospel and encouraging attitudes of faith, hope and love, the Church invites people to a life of virtue supported by that spiritual and moral strength which comes with faith and is expressed in integrity and the responsible use of freedom, respect and tolerance of others. People, especially political, economic and cultural leaders, who are inspired in one way or another by these or similar moral and spiritual perspectives, contribute positively to the good of society in its social, economic and political dimensions.
+
+The Church’s mission of evangelization includes a strong witness to generous initiatives in favour of those in need. As you mentioned in your address Mr Ambassador, the Church in your homeland has developed over the years an extensive presence of communities and institutions of good will, dedicated to pastoral attention, education, professional instruction and concern for those in difficult situations. Through schools and centres of specialized formation, through hospitals and charitable institutions, the Church exercises that love of neighbour expressed clearly in the supreme commandment. I pray that the Catholic institutions of the country will continue to offer their expertise for the promotion and development of the people of Namibia in accordance with present and future needs.
+
+I am aware that one of the priorities on the Government’s agenda is to provide for greater attention to the health of the population and especially the need to care for the number of people afflicted with HIV/Aids. In this area the Church will continue to offer its assistance willingly. She is convinced that only a strategy based on education to individual responsibility in the framework of a moral view of human sexuality, especially through conjugal fidelity, can have a real impact on the prevention of this disease. The Church is pleased to cooperate in this task especially in the field of education where new generations of young people are formed as active and responsible members of society.
+
+Mr Ambassador, I have expressed freely some thoughts inspired by the present situation of your nation, seen with love of your people and confidence in the future of Namibia. I wish you every success in your mission and I invite you to avail yourself of the willing cooperation of the Departments of the Roman Curia. May Almighty God bestow upon Your Excellency, your family and the nation you represent, abundant and lasting blessings of well-being and peace!
+
+\**Insegnamenti di Benedetto XVI*, vol. V, 1 p.942-944.
+
+*L'Osservatore Romano* 30.5.2009, p.9.
+
+*L'Osservatore Romano. Weekly Edition in English* n. 22 p. 11.

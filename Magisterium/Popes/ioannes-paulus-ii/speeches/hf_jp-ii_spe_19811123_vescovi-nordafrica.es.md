@@ -1,0 +1,47 @@
+---
+id: jp2-spe-19811123-vescovi-nordafrica.es
+work: jp2-spe-19811123-vescovi-nordafrica
+title: "A los obispos de África del Norte en visita 'ad limina Apostolorum' (23 de noviembre de 1981)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1981-11-23
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1981/november/documents/hf_jp-ii_spe_19811123_vescovi-nordafrica.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "es, fr, it, pt"
+anchors: "{#jp2-spe-19811123-vescovi-nordafrica} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los obispos de África del Norte en visita "ad limina Apostolorum" (23 de noviembre de 1981) {#jp2-spe-19811123-vescovi-nordafrica}
+***DISCURSO*** ***DEL SANTO PADRE JUAN PABLO II\
+A LA CONFERENCIA EPISCOPAL DE ÁFRICA DEL NORTE\
+EN VISITA «AD LIMINA APOSTOLORUM»\
+\**
+Lunes 23 de noviembre de 1981*
+
+*Queridos hermanos en el Episcopado:*
+
+Permitidme que os diga la alegría que me produce el recibiros a todos juntos de nuevo, reunidos en torno al querido y venerado cardenal Duval, ahora en vuestra visita "ad Limina". Este encuentro me ofrece la ocasión de expresaros lo cerca que me siento de vuestras preocupaciones y de la vida de vuestras diócesis. Quiero que sepáis, sobre todo, que el Papa comprende y aprecia los compromisos espirituales de la Iglesia en el Magreb.
+
+El número de vuestros fieles es hoy bastante reducido en relación a lo que era en el pasado. La mayor parte de ellos son personas, frecuentemente jóvenes, que han venido a vuestros países para trabajar, como mucho, durante algunos años en las administraciones públicas o en el sector privado. Aunque se hayan instalado algunas familias, vosotros, con los sacerdotes y las religiosas, constituís, sin embargo, el elemento permanente de estas comunidades cristianas que reúnen casi solo a extranjeros de todas las nacionalidades que han llegado desde los más diversos horizontes. Vuestra tarea consiste, entre otras cosas, en asegurar a cada uno de ellos con la ayuda de todos los sacerdotes para quienes es éste el ministerio primordial, el acompañamiento pastoral necesario para que su tiempo de presencia en estos países sea, en la medida de lo posible, la ocasión de dar un auténtico testimonio cristiano entre los habitantes que les acogen. Este testimonio se enriquece, sin duda, con el descubrimiento del entorno cultural y espiritual del mundo musulmán. Una de las características esenciales de la vida de la Iglesia en el Magreb es, efectivamente, la de estar invitada a entablar un diálogo islamo-cristiano constructivo. Insisto en animaros a recorrer este camino difícil, en el que pueden sobrevenir fracasos, pero en el que la esperanza es más fuerte todavía. Para mantenerla, son necesarias convicciones cristianas bien templadas. Más que en otras partes es allí deseable que los cristianos participen, como ya les exhortáis a ello, en una catequesis permanente que esté alimentada de la Biblia, o más exactamente una lectura de la Palabra de Dios en la Iglesia, con la ayuda de teólogos y de maestros espirituales realmente competentes. Pero, jamás se repetirá bastante: semejante diálogo es sobre todo una cuestión de amistad; hay que saber darle el tiempo de recorrer las etapas y del discernimiento. Por eso se rodea de discreción, por respeto a la lentitud con que evolucionan las mentalidades. La seriedad del compromiso en este diálogo se mide por la seriedad del testimonio vivido, del testimonio dado de los valores en los que se cree y, para el cristiano, por la seriedad del testimonio dado de Aquel que es el fundamento de todo, Jesucristo. El diálogo implica siempre, por esta razón, una ineluctable tensión entre el profundo respeto debido a la persona y a las convicciones del interlocutor y la firme adhesión a la propia fe. Este diálogo sincero y este exigente testimonio comportan una parte de abnegación espiritual: ¿Cómo no proclamar la esperanza recibida de participar en aquel banquete de las bodas del Cordero en el que un día será reunida la humanidad entera? Para poder mantener tal diálogo en su verdad, es necesario todavía que esa íntima esperanza se conserve firme, sin ceder a pusilanimidad alguna que nazca de una doctrina insegura. Tal espíritu se encarna, primeramente, en el servicio desinteresado con miras a la fraternal participación en el desarrollo de estos países y a la comunión con las aspiraciones de su pueblo. Quiero señalar aquí la calidad de la obra realizada por tantos cooperadores, discretos y generosos, y por quienes les han apoyado.
+
+Querría detenerme ahora sobre tres aspectos de la vida de vuestras comunidades. La estancia temporal en vuestros países puede ser decisiva, sobre todo en los jóvenes, para el futuro de su fe y la actitud que adoptarán luego cuando regresen a su patria. Sé que muchos sacerdotes se desviven por ofrecerles una ayuda pastoral adaptada, orientándoles en su comprensión del Islam y de los habitantes de estos países, suscitando en ellos una conciencia renovada de los compromisos de la vida bautismal en la opción de un estilo de vida evangélico. Es verdad que el contacto con el Islam puede favorecer una más íntima interiorización de la fe, como fue el caso de Raimundo Lullio y, más recientemente, el de Carlos de Foucauld y el de Alberto Peyriguère. No es raro que la vida en estos países vaya acompañada de una gracia de oración y de contemplación. Que vuestros sacerdotes, aun cansados por la renovación casi permanente de los efectivos de sus comunidades, puedan seguir avanzando con la certeza de que no faltará la gracia de Dios que haga crecer lo que ellos hayan sembrado.
+
+Sé también que, en vuestra Conferencia Episcopal habéis abordado en varias ocasiones la situación espiritual de aquellas mujeres cristianas, cuyo número va en aumento, que han elegido unirse con musulmanes para fundar su hogar. Si, por razones diversas, la mayor parte de ellas no han sellado esta unión en la Iglesia, no es raro, sin embargo, que una vez insertadas en el contexto familiar y social musulmán, experimenten una especie de repentino cambio interior causado por la educación de sus hijos y la actitud a tomar ante un modo de vida absolutamente impregnado de usos religiosos islámicos. Sobre todo cuando se trata de los sacramentos, plantea esto algunas cuestiones delicadas a las que os esforzáis por dar solución, con la ayuda de vuestros sacerdotes, dentro de un espíritu de lealtad a las reglas morales y canónicas. Los organismos de la Curia Romana eventualmente están ahí, como sabéis, para ayudaros con su competencia. Deben saber esas personas que cuentan con la solicitud de la Iglesia, y las comunidades cristianas han de estar igualmente persuadidas de ello. Su presencia en el seno de familias musulmanas, marcada por la fidelidad y la rectitud, constituye, a pesar de las incomprensiones a que pueden dar lugar, una contribución, que no se puede subestimar, al desarrollo del diálogo a que me refería hace un momento. ¡Decidles que el Papa reza especialmente por ellas!
+
+Querría finalmente decir una palabra también sobre la vida de las religiosas. Para muchos musulmanes, la Iglesia son ellas: ¡Dichosos los que reconocen en sus rasgos a la Iglesia santa! Habiendo alcanzado ya una edad avanzada y preocupadas por el problema de su relevo —que parece solucionarse aquí o allá—, viven a veces diseminadas por todo el país, lejos unas de otras, dedicadas al servicio de escuelas o dispensarios pobremente equipados. Y sin embargo, conservan la sonrisa, por amor a aquellos a quienes han consagrado su existencia. Vosotros las rodeáis de afecto, y con razón: ellas tienen realmente necesidad de un apoyo pastoral constante y de calidad. Ellas deben, en especial, poder participar lo más frecuentemente posible, a pesar de su aislamiento, en la Eucaristía. Celebrar así la Misa, para dos o tres religiosas, únicas cristianas en un lugar apartado, permite al sacerdote ponderar mejor en este misterio que renueva el de Nazaret, la riqueza de esperanza de la redención. También a ellas decidles que el Papa reza con ellas y por ellas.
+
+Por fin, antes de separarnos, quiero animaros aún a proseguir vuestra tarea. En varías ocasiones he pronunciado la palabra esperanza. En efecto, por pobres que vuestras comunidades sean en medios humanos, por precario que, por las circunstancias, pueda parecer su futuro, son sin embargo fuertes por la libertad espiritual que las anima, por la entrega de sus miembros y sobre todo por su papel privilegiado de embajadores de Cristo y de la Iglesia universal ante los pueblos musulmanes en cuyo seno les ha colocado la Divina Providencia.
+
+Os bendigo invocando el nombre del Señor, y a través de vosotros, a todos los miembros de vuestras Iglesias.

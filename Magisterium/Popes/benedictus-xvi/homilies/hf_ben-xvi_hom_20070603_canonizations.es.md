@@ -1,0 +1,61 @@
+---
+id: b16-hom-20070603-canonizations.es
+work: b16-hom-20070603-canonizations
+title: "3 de junio de 2007: Canonización de los beatos: Jorge Preca, Simón de Lipnica, Carlos de San Andrés Houben y María Eugenia de Jesús Milleret"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Homily
+url_date: 2007-06-03
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/homilies/2007/documents/hf_ben-xvi_hom_20070603_canonizations.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-hom-20070603-canonizations} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 3 de junio de 2007: Canonización de los beatos: Jorge Preca, Simón de Lipnica, Carlos de San Andrés Houben y María Eugenia de Jesús Milleret {#b16-hom-20070603-canonizations}
+## CEREMONIA DE CANONIZACIÓN DE LOS BEATOS:
+
+[JORGE PRECA](http://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20070603_preca_sp.html),\
+[SIMÓN DE LIPNICA](http://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20070603_simone-lipnica_sp.html),\
+[CARLOS DE SAN ANDRÉS HOUBEN](http://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20070603_carlo-andrea_sp.html)\
+[MARÍA EUGENIA DE JESÚS MILLERET](http://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20070603_eugenie-jesus_sp.html)
+
+## HOMILÍA DE SU SANTIDAD BENEDICTO XVI
+
+Plaza de San Pedro\
+Domingo 3 de junio de 2007*
+
+*Queridos hermanos y hermanas:*
+
+Celebramos hoy la solemnidad de la Santísima Trinidad. Después del tiempo pascual, después de haber revivido el acontecimiento de Pentecostés, que renueva el bautismo de la Iglesia en el Espíritu Santo, dirigimos la mirada, por decirlo así, "a los cielos abiertos" para entrar con los ojos de la fe en las profundidades del misterio de Dios, uno en la sustancia y trino en las personas:  Padre, Hijo y Espíritu Santo. Mientras nos dejamos envolver por este supremo misterio, admiramos la gloria de Dios, que se refleja en la vida de los santos; la contemplamos, ante todo, en los que acabo de proponer a la veneración de la Iglesia universal:  [Jorge Preca](http://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20070603_preca_sp.html), [Simón de Lipnica](http://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20070603_simone-lipnica_sp.html), [Carlos de San Andrés Houben](http://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20070603_carlo-andrea_sp.html) y [María Eugenia de Jesús Milleret](http://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20070603_eugenie-jesus_sp.html).
+
+A todos los peregrinos que han venido para rendir homenaje a estos testigos ejemplares del Evangelio les dirijo mi cordial saludo. Saludo en particular a los señores cardenales, a los señores presidentes de Filipinas, Irlanda, Malta y Polonia, a los venerados hermanos en el episcopado, a las delegaciones gubernativas y a las demás autoridades civiles, que participan en esta celebración.
+
+En la primera lectura, tomada del *libro de los Proverbios*, entra en escena *la Sabiduría*, que está junto a Dios como asistente, como "arquitecto" (*Pr* 8, 30). La "panorámica" sobre el cosmos, observado con sus ojos, es estupenda. La Sabiduría misma confiesa:  "Jugaba con la bola de la tierra, gozaba con los hijos de los hombres" (*Pr* 8, 31). Le complace habitar en medio de los seres humanos, porque en ellos reconoce la imagen y la semejanza del Creador. Esta relación preferencial de la Sabiduría con los hombres lleva a pensar en un célebre pasaje de otro libro sapiencial, el *libro de la Sabiduría*:  "La Sabiduría —leemos— es una emanación pura de la gloria del Omnipotente (...); sin salir de sí misma, renueva el universo; en todas las edades, entrando en las almas santas, forma en ellas amigos de Dios y profetas" (*Sb* 7, 25-27). Esta última expresión, sugestiva, invita a considerar la multiforme e inagotable *manifestación de la santidad* en el pueblo de Dios a lo largo de los siglos. La Sabiduría de Dios se manifiesta en el cosmos, en la variedad y belleza de sus elementos, pero *sus obras maestras,* en las que realmente se muestra mucho más su belleza y su grandeza, *son los santos*.
+
+En el pasaje de la carta del apóstol san Pablo a los Romanos encontramos una imagen semejante:  la del *amor de Dios "derramado en los corazones" de los santos*, es decir, de los bautizados, "por medio del Espíritu Santo", que les ha sido dado (cf. *Rm* 5, 5). Por Cristo pasa el don del Espíritu, "Persona-amor, Persona-don", como lo definió el siervo de Dios Juan Pablo II (*[Dominum et vivificantem](http://www.vatican.va/edocs/ESL0035/__P4.HTM)*, 10). Por Cristo el Espíritu de Dios llega a nosotros como principio de vida nueva, "santa". El Espíritu pone el amor de Dios en el corazón de los creyentes, en la forma concreta que tenía en el hombre Jesús de Nazaret. Así se realiza lo que dice san Pablo en la *carta a los Colosenses*:  "Cristo entre vosotros, la esperanza de la gloria" (*Col* 1, 27). Las "tribulaciones" no están en contraste con esta esperanza; más aún, contribuyen a realizarla, a través de la "paciencia" y la "virtud probada" (*Rm* 5, 3-4):  es el camino de Jesús, el camino de la cruz.
+
+Desde esta misma perspectiva de la Sabiduría de Dios encarnada en Cristo y comunicada por el Espíritu Santo, el Evangelio nos ha sugerido que Dios Padre *sigue manifestando su designio de amor mediante los santos*. También aquí sucede lo que ya hemos notado a propósito de la Sabiduría:  el Espíritu de verdad revela el designio de Dios en la multiplicidad de los elementos del cosmos —agradezcamos esta visibilidad de la belleza y de la bondad de Dios en los elementos del cosmos—, y lo hace sobre todo mediante las personas humanas, de modo especial mediante los santos y las santas, en los que se refleja con gran fuerza su luz, su verdad y su amor.
+
+En efecto, "la imagen de Dios invisible" (*Col* 1, 15) es precisamente sólo Jesucristo, "el Santo y el Justo" (*Hch* 3, 14). Él es la Sabiduría encarnada, el *Logos* creador que encuentra su alegría en habitar entre los hijos del hombre, en medio de los cuales ha puesto su morada (cf. *Jn* 1, 14). En él Dios se complació en poner "toda la plenitud" (cf. *Col* 1, 19); o, como dice él mismo en el pasaje evangélico de hoy:  "Todo lo que tiene el Padre es mío" (*Jn* 16, 15). Cada santo participa de la riqueza de Cristo tomada del Padre y comunicada en el tiempo oportuno. Es siempre la misma santidad de Jesús, es siempre él, el "Santo", a quien el Espíritu plasma en las  "almas  santas", formando amigos de  Jesús  y testigos de su santidad. Jesús nos quiere convertir también a nosotros en amigos suyos. Precisamente este día abrimos nuestro corazón para que también en nuestra vida crezca la amistad con Jesús, de forma que podamos testimoniar  su  santidad, su bondad y su verdad.
+
+Amigo de Jesús y testigo de la santidad que viene de él fue *Jorge Preca*, nacido en La Valletta, en la isla de Malta. Fue un sacerdote totalmente dedicado a la evangelización:  con su predicación, con sus escritos, con su guía espiritual y la administración de los sacramentos, y ante todo con el ejemplo de su vida. La expresión del evangelio de san Juan *"Verbum caro factum est"* orientó siempre su alma y su acción; así el Señor pudo servirse de él para dar vida a una obra benemérita, la "Sociedad de la Doctrina Cristiana" —gracias por vuestro compromiso—, que tiene como finalidad garantizar a las parroquias el servicio cualificado de catequistas bien preparados y generosos. Alma profundamente sacerdotal y mística, se sentía fuertemente impulsado a amar a Dios, a Jesús, a la Virgen María y a los santos. Solía repetir:  "Señor Dios, te estoy muy agradecido. ¡Gracias, Señor Dios, y perdóname, Señor Dios!". Una oración que podríamos repetir también nosotros, que podríamos hacer nuestra. Que san Jorge Preca ayude a la Iglesia a ser siempre, en Malta y en el mundo, el eco fiel de la voz de Cristo, Verbo encarnado.
+
+El nuevo santo Simón de Lipnica, gran hijo de la tierra polaca, testigo de Cristo y seguidor de la espiritualidad de san Francisco de Asís, vivió en una época lejana, pero precisamente hoy es propuesto a la Iglesia como modelo actual de un cristiano que, animado por el espíritu del Evangelio, está dispuesto a dedicar su vida a los hermanos. Así, lleno de la misericordia que recibía de la Eucaristía, no dudó en llevar ayuda a los enfermos afectados por la peste, contrayendo esta enfermedad, que lo llevó a la muerte también a él. Hoy, de modo particular, encomendamos a su protección a quienes sufren a causa de la pobreza, la enfermedad, la soledad y la injusticia social. Por su intercesión, pidamos para nosotros la gracia del amor perseverante y activo a Cristo y a los hermanos.
+
+"El amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que se nos ha dado". Verdaderamente, en el caso del sacerdote pasionista *Carlos de San Andrés Houben* vemos cómo ese amor se derramó en una vida dedicada totalmente al cuidado de las almas. Durante sus numerosos años de ministerio sacerdotal en Inglaterra e Irlanda, la gente acudía en gran número a él para buscar su sabio consejo, su atención compasiva y su contacto sanador. En los enfermos y en los que sufrían reconocía el rostro de Cristo crucificado, por quien tuvo devoción durante toda su vida. Bebió a fondo de los manantiales de agua viva que brotan del costado traspasado de Cristo, y con la fuerza del Espíritu Santo testimonió ante el mundo el amor del Padre. En el funeral de este amadísimo sacerdote, conocido afectuosamente como el padre Carlos de Mount Argus, su superior afirmó:  "El pueblo ya lo ha declarado santo".
+
+*María Eugenia Milleret* nos recuerda ante todo la importancia de la Eucaristía en la vida cristiana y en el crecimiento espiritual. En efecto, como afirmó ella misma, su primera Comunión fue un tiempo fuerte, aunque no lo comprendió completamente en ese momento. Cristo, presente en lo más profundo de su corazón, actuaba en ella, dándole tiempo para caminar a su ritmo, para proseguir su búsqueda interior, que la llevaría a entregarse totalmente al Señor en la vida religiosa, respondiendo a las llamadas de su tiempo. Percibió particularmente la importancia de proporcionar a las generaciones jóvenes, en especial a las muchachas, una formación intelectual, moral y espiritual que las hiciera adultas capaces de ocuparse de la vida de su familia, aportando su contribución a la Iglesia y a la sociedad. Durante toda su vida encontró la fuerza para su misión en la vida de oración, uniendo sin cesar contemplación y acción. Que el ejemplo de santa María Eugenia invite a los hombres y a las mujeres de hoy a transmitir a los jóvenes los valores que les ayuden a convertirse en adultos fuertes y en testigos gozosos del Resucitado. Que los jóvenes no tengan miedo de acoger esos valores morales y espirituales, y de vivirlos con paciencia y fidelidad. Así construirán su personalidad y prepararán su futuro.
+
+Queridos hermanos y hermanas, demos gracias a Dios por las maravillas que ha realizado en los santos, en los que resplandece su gloria. Dejémonos atraer por sus ejemplos, dejémonos guiar por sus enseñanzas, para que toda nuestra vida llegue a ser, como la suya, un cántico de alabanza para gloria de la santísima Trinidad. Que nos obtenga esta gracia María, la Reina de los santos, y la intercesión de estos cuatro nuevos "hermanos mayores", a los que hoy veneramos con alegría. Amén.

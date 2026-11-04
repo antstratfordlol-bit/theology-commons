@@ -1,0 +1,78 @@
+---
+id: jp2-spe-19990911-ad-limina-puerto-rico.es
+work: jp2-spe-19990911-ad-limina-puerto-rico
+title: "A los obispos de la Conferencia episcopal de Puerto Rico en visita 'ad limina' (11 de septiembre de 1999)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1999-09-11
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1999/september/documents/hf_jp-ii_spe_11091999_ad-limina-puerto-rico.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it, pt"
+anchors: "{#jp2-spe-19990911-ad-limina-puerto-rico.N} — numbered paragraphs 1..7 (7 anchors), shared with jp2-spe-19990911-ad-limina-puerto-rico.en"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los obispos de la Conferencia episcopal de Puerto Rico en visita "ad limina" (11 de septiembre de 1999)
+## DISCURSO DEL SANTO PADRE JUAN PABLO II A LOS OBISPOS DE LA CONFERENCIA EPISCOPAL DE PUERTO RICO EN VISITA "AD LIMINA"
+
+*Castelgandolo,\
+Sábado 11 de septiembre de 1999*
+
+*Queridos hermanos en el episcopado:*
+
+### 1 {#jp2-spe-19990911-ad-limina-puerto-rico.1}
+
+Con gusto os recibo hoy, pastores de la Iglesia de Dios en Puerto Rico, en vuestra peregrinación a las tumbas de los apóstoles Pedro y Pablo, signo de vuestra comunión con el Obispo de Roma y con la Iglesia universal. La visita "ad limina" ofrece la ocasión para encontraros con el Sucesor de Pedro y sus colaboradores, y recibir de ellos el apoyo necesario para vuestra acción pastoral.
+
+Agradezco cordialmente a mons. Ulises Aurelio Casiano Vargas, obispo de Mayagüez y presidente de la Conferencia episcopal, las amables palabras que me ha dirigido en nombre de todos, para renovar vuestras expresiones de afecto y estima y hacerme partícipe de las preocupaciones y esperanzas de la Iglesia en Puerto Rico. Doy también un caluroso saludo, lleno de agradecimiento, al señor cardenal Luis Aponte Martínez, por el celo con que ha servido durante muchos años la arquidiócesis de San Juan, regida ahora por mons. Roberto Octavio González Nieves. Por medio de vosotros, saludo igualmente a los sacerdotes, religiosos, religiosas y fieles de vuestras diócesis. Llevadles el recuerdo afectuoso del Papa, que los tiene presentes en su oración, para que crezcan en la fe en Cristo y en la caridad con el prójimo.
+
+### 2 {#jp2-spe-19990911-ad-limina-puerto-rico.2}
+
+En vuestra misión de pastores del pueblo que os ha sido confiado debéis ser, ante todo, promotores y modelos de comunión. Así como la Iglesia es una, así también el Episcopado es uno, siendo el Papa, como afirma el concilio Vaticano II, «el principio y fundamento perpetuo y visible de unidad, tanto de los obispos como de la muchedumbre de los fieles» (*[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 23). Por esto la unión colegial del Episcopado es uno de los elementos constitutivos de la unidad de la Iglesia.
+
+Esta unión entre los obispos es particularmente necesaria en nuestros días, ya que las iniciativas pastorales tienen múltiples formas y trascienden los límites de la propia diócesis. La comunión debe concretarse, además, en una cooperación pastoral y en programas y proyectos comunes. Esto se hace cada vez más urgente teniendo en cuenta las dimensiones geográficas de Puerto Rico, la facilidad y multiplicidad de los medios de comunicación e información, y la movilidad de la población que, por motivos de trabajo y otros, se concentra principalmente en la capital, dando lugar al fenómeno de la urbanización con su consiguiente problemática. Este fenómeno presenta grandes retos para la acción pastoral de la Iglesia (cf. *[Ecclesia in America](http://w2.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)*, 21).
+
+Por otro lado, las comunidades eclesiales necesitan pastores que sean hombres de fe y que estén unidos entre sí, capaces de afrontar los desafíos de una sociedad cada vez más propensa a la secularización. En efecto, aunque la mayoría de los puertorriqueños se han bautizado en la Iglesia católica y practican una variada religiosidad popular, carecen a veces de una fe sólida y madura. Por esto muchos, sobre todo los jóvenes, buscan la manera de compensar su vacío interior y la falta de un proyecto de vida con sucedáneos de diverso tipo, dejándose arrastrar por el hedonismo y huyendo de sus propias responsabilidades (cf. *[Pastores dabo vobis](http://w2.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)*, 7). En este sentido, consumismo, hedonismo, falta de ideales positivos e indiferencia ante los valores religiosos y los principios éticos son un fuerte obstáculo para la evangelización. Todo ello se hace aún más difícil por la presencia de sectas y de nuevos grupos pseudorreligiosos cuya expansión tiene lugar en ambientes tradicionalmente católicos. Este fenómeno exige un profundo estudio «para descubrir los motivos por los que no pocos católicos abandonan la Iglesia» (*[Ecclesia in America](http://w2.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)*, 73).
+
+Ante todo esto, y como maestros de la sana doctrina, llamados a indicar el camino seguro que lleva al Padre, y como servidores de la luz que es Cristo, "imagen de Dios invisible" (*Col* 1, 15), no dejéis de dar unidos como Conferencia episcopal vuestra enseñanza sobre los problemas que preocupan a vuestra isla, sin reemplazar la responsabilidad de los políticos y de los laicos, y respetando la libertad de opción de los católicos sobre el "status" y el futuro de Puerto Rico.
+
+### 3 {#jp2-spe-19990911-ad-limina-puerto-rico.3}
+
+En vuestra misión pastoral contáis con la colaboración asidua de los sacerdotes, los cuales, en comunión con vosotros, han de ser siempre y en todas las situaciones ministros creíbles y generosos de Cristo y de su Iglesia. A este respecto exhorta el [Vaticano II](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index_sp.htm):  «Los obispos, a causa de esta comunión en el mismo sacerdocio y ministerio, han de considerar a los presbíteros como hermanos y amigos y han de buscar de corazón, según sus posibilidades, el bien material y sobre todo espiritual de los mismos. En efecto, recae sobre todo en los obispos la grave responsabilidad de que sus sacerdotes sean santos; deben cuidar, por tanto, al máximo la formación continua de los presbíteros. Han de escucharles de buena gana e incluso consultarlos y dialogar con ellos sobre las necesidades del trabajo pastoral y el bien de la diócesis» (*[Presbyterorum ordinis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_sp.html)*, 7). Por eso, tratad de acompañar a vuestros sacerdotes personalmente en el ministerio pastoral, tanto en sus dificultades como en sus alegrías, visitándolos y recibiéndolos frecuentemente, fomentando la amistad con ellos y atendiéndolos con espíritu fraterno, a la vez que los alentáis a ser fieles a sus compromisos sacerdotales, sobre todo en su constancia en la oración personal.
+
+Al ser el clero de vuestras diócesis heterogéneo e insuficiente, adquiere una importancia capital el seminario, centro donde se preparan los futuros sacerdotes. Os animo a seguir promoviendo una intensa pastoral vocacional en las parroquias, a fin de que todos los presbíteros se sientan responsables y comprometidos en el nacimiento y cuidado de nuevas vocaciones. Al mismo tiempo, hay que dedicar la mayor atención y las mejores energías a los nuevos candidatos, formándolos en la comunión fraterna y proporcionándoles una sólida base teológica y cultural, haciendo que sean, sobre todo, hombres de Dios, que deberán dar testimonio constante de caridad y pobreza evangélica, sensibles principalmente a las necesidades de los más pobres y marginados. Para ello es necesario revitalizar los seminarios de San Juan y de Ponce, escogiendo formadores santos e idóneos, que de manera estable acompañen a los jóvenes en su seguimiento de Cristo para servir a la Iglesia. Es de desear que todos los seminaristas puertorriqueños se formen en esos dos centros; de este modo sus obispos podrán visitarlos con frecuencia e instaurar así un clima de más confianza y mutuo conocimiento.
+
+### 4 {#jp2-spe-19990911-ad-limina-puerto-rico.4}
+
+En la pastoral diocesana ocupan un puesto singular los religiosos y religiosas que trabajan en el campo educativo, sanitario o social. Es necesario establecer también con ellos relaciones de comunión, a la vez que se les ayuda a vivir en la santidad y la fidelidad al propio carisma como un enriquecimiento de la vida eclesial, dando testimonio personal en el área donde cada uno desarrolla su misión. También las comunidades contemplativas son una presencia silenciosa pero muy eficaz en la diócesis. Ellas merecen una especial atención porque, desde su opción radical de seguir a Cristo, colaboran a la extensión de su Reino.
+
+### 5 {#jp2-spe-19990911-ad-limina-puerto-rico.5}
+
+Por otro lado, la pastoral diocesana va dirigida principalmente a los laicos, los cuales, por medio de su sacerdocio bautismal, deben sentirse directamente comprometidos en la vida eclesial y social. Sobre este compromiso afirma el Vaticano II: «La misión de la Iglesia no consiste sólo en ofrecer a los hombres el mensaje y la gracia de Cristo, sino también en impregnar y perfeccionar con el espíritu evangélico el orden de las realidades temporales» (*[Apostolicam actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_sp.html)*, 5). Todas las realidades que configuran el orden temporal ―entre las que cabe destacar la familia, la cultura, la economía, las artes, el trabajo, la política y las relaciones internacionales―, deben estar ordenadas a Dios gracias al compromiso de cristianos maduros. La Iglesia, a través de una asidua y profunda formación de los laicos a nivel espiritual, moral y humano, ha de ayudarlos a ser fermento evangélico en la sociedad actual.
+
+Por lo que atañe a la familia, elemento constitutivo de la sociedad, sé que Puerto Rico está atravesando un período de particular dificultad, como evidencia el creciente número de divorcios y el elevado porcentaje de niños que nacen fuera del matrimonio. Esto hace sentir la urgente necesidad de promover una catequesis que ilustre la grandeza y dignidad del amor conyugal según el designio divino, así como sus exigencias por el bien de la pareja y de los hijos. La familia, como "iglesia doméstica", está llamada a ser el ámbito donde los padres transmiten la fe cristiana, siendo «para sus hijos los primeros anunciadores de la fe con su palabra y con su ejemplo» (*[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 11). Os invito, pues, a no ahorrar esfuerzos en la pastoral familiar, preparando núcleos de familias que sean también catequistas de las demás con la palabra y el propio testimonio de vida.
+
+Como consecuencia de lo anterior, hay que cuidar celosamente de la educación de la infancia y de la juventud. En efecto, «los jóvenes son una gran fuerza social y evangelizadora. Constituyen una parte numerosísima de la población en muchas naciones de América. En el encuentro de ellos con Cristo vivo se fundan la esperanza y las expectativas de un futuro de mayor comunión y solidaridad para la Iglesia y las sociedades de América» (*[Ecclesia in America](http://w2.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)*, 47). Procurad, pues, que la nueva evangelización llegue al mundo de los jóvenes a través de grupos, movimientos y asociaciones que les impulsen a participar en la vida eclesial y también en acciones de solidaridad con los más necesitados. La formación de la juventud no debe distanciarse de la educación religiosa y moral que deben ofrecer las escuelas y universidades católicas. Para ello se ha de cuidar con esmero la formación religiosa, humana y cultural de los educadores, para que garanticen y completen la transmisión de los valores que debería iniciarse en cada familia.
+
+### 6 {#jp2-spe-19990911-ad-limina-puerto-rico.6}
+
+En todo este proceso de formación de las personas encontramos, a veces, legislaciones que están en contraste con los principios cristianos. En este sentido, la Iglesia considera que la cultura auténtica debe considerar al hombre integralmente, es decir, en todas sus dimensiones personales, sin olvidar los aspectos éticos y religiosos. Por esto urge también dedicar personas preparadas para atender la pastoral de la cultura. En este sentido son de alabar diversas iniciativas como las Semanas de educación católica, los congresos y otras actividades culturales. Lamentablemente el contexto cultural actual ―y Puerto Rico no es una excepción― tiende a fomentar una cultura y una vida social alejada de Dios. Algunas ideas que se consideran pilares de la cultura moderna o posmoderna son claramente no cristianas. Por lo que se refiere al campo ético, se presenta el divorcio, el aborto, la eutanasia asistida, las relaciones prematrimoniales y el hedonismo como "conquistas" modernas en aras de una mal entendida libertad individual exenta de responsabilidades. Ante esta realidad en cierto modo preocupante, la Asamblea especial para América del Sínodo de los obispos consideró justamente que «la nueva evangelización pide un esfuerzo lúcido, serio y ordenado para evangelizar la cultura» (*[Ecclesia in America](http://w2.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)*, 70).
+
+### 7 {#jp2-spe-19990911-ad-limina-puerto-rico.7}
+
+Queridos hermanos, antes de concluir este encuentro, que tiene lugar a pocos meses del inicio del gran jubileo del 2000, os aseguro mi profunda comunión en la oración junto con mi firme esperanza en la renovación espiritual de vuestras diócesis, a fin de que los fieles católicos puertorriqueños acrecienten su fe, progresen en el cultivo de las virtudes cristianas y den valiente testimonio en el propio ambiente.
+
+Encomiendo todos estos deseos y también vuestro ministerio pastoral a la intercesión de Nuestra Señora de la Providencia, Madre y patrona de Puerto Rico, para que con su solicitud materna acompañe y proteja el crecimiento espiritual de todos sus hijos e hijas en un clima de serenidad y paz social.
+
+En esta circunstancia os pido de nuevo que llevéis mi afectuoso saludo a vuestros sacerdotes, a los religiosos y religiosas, a los seminaristas y sus formadores, a los agentes de pastoral y a todos los fieles diocesanos. A vosotros y a todos ellos imparto con gran afecto la bendición apostólica.

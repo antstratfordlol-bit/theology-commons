@@ -1,0 +1,51 @@
+---
+id: jp2-spe-20011215-univ-wyszynski.es
+work: jp2-spe-20011215-univ-wyszynski
+title: "A los miembros del Senado Académico de la Universidad 'Card. Stefan Wyszynski' de Varsovia (15 de diciembre de 2001)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2001-12-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/2001/december/documents/hf_jp-ii_spe_20011215_univ-wyszynski.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "es, fr, it, pl, pt"
+anchors: "{#jp2-spe-20011215-univ-wyszynski} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los miembros del Senado Académico de la Universidad "Card. Stefan Wyszynski" de Varsovia (15 de diciembre de 2001) {#jp2-spe-20011215-univ-wyszynski}
+***DISCURSO DEL SANTO PADRE JUAN PABLO II\
+AL SENADO ACADÉMICO DE LA UNIVERSIDAD\
+"CARDENAL STEFAN WYSZYNSKI" DE VARSOVIA**
+
+Sábado 15 de diciembre de 2001*
+
+Os doy mi cordial bienvenida a todos vosotros, y os agradezco la benevolencia que me habéis mostrado al conferirme el título de doctor *honoris causa* de vuestra Universidad. Lo acepto con gratitud, en consideración del cordial recuerdo del Primado del milenio, cuyo nombre lleva vuestro Ateneo, especialmente porque este año, con ocasión del centenario de su nacimiento, se reavivan de modo particular los recuerdos de este gran pastor y estadista. Acepto este título también por la esperanza que albergo, a saber, que la Universidad dedicada al cardenal Stefan Wyszynski, cuya historia es breve, pero sus raíces antiguas, se desarrolle en todos sus aspectos y se convierta en un centro científico y cultural cada vez más dinámico y más importante en Polonia.
+
+Antes de compartir con vosotros la reflexión que nace en mi mente con ocasión de este día quiero saludar al señor cardenal primado, gran canciller de la Universidad, y al rector magnífico. Les agradezco las palabras que me han dirigido. Con un cordial saludo os abrazo también a vosotros:  al senado, a los profesores, al personal docente y administrativo, a los estudiantes, a las personas que os acompañan y al coro. Os agradezco vuestra presencia y vuestra cercanía espiritual.
+
+La definición del cardenal Stefan Wyszynski como gran *pastor* se suele asociar a la obra de preparación de la Iglesia en Polonia para entrar en el nuevo milenio del cristianismo. En cambio, cuando hablamos de él como *estadista*, normalmente nos viene a la memoria su firme actitud frente al ateísmo comunista, frente al totalitarismo:  gracias a esta actitud la Iglesia, en condiciones de dura prueba, logró mantener su posición en la nación y la justa dirección de su desarrollo interno. Al parecer, este modo de ver su persona, aunque sea justo desde todos los puntos de vista, requiere hoy una cierta profundización. Es preciso subrayar el hecho, raramente puesto de relieve, de que el cardenal Wyszynski, como pastor y como estadista, *acentuaba el papel de la cultura, entendida en sentido amplio, en la formación del rostro espiritual de la Iglesia y de la nación*. Más aún, no separaba jamás estos dos campos en la influencia ejercida por la cultura. Esta cuestión debía interesarle mucho, porque en 1966, el año del milenio, afirmó:  "Los estudios sobre nuestro pasado cultural, a causa del trabajo de la Iglesia y de la inspiración que la Iglesia da al arte y a todo tipo de creatividad, están siempre abiertos y son recomendables. El actual empobrecimiento del pensamiento (...) muestra una decadencia de la cultura, experimentada como consecuencia del abandono de las inspiraciones religiosas" (Varsovia, 23 de junio de 1966).
+
+El pasado cultural, el patrimonio del esfuerzo creativo del pensamiento y de las manos de generaciones animadas por el espíritu de fe arraigado en el Evangelio *es el fundamento de la identidad de la nación polaca*. El Primado del milenio destacaba justamente la necesidad de estudiar este patrimonio, de conocer los fundamentos que mil años antes fueron puestos bajo la inspiración que de generación en generación lleva consigo la comunidad de la Iglesia, unida en torno a Cristo, impulsada por el Espíritu Santo, en camino hacia la casa del Padre. ¿No es esta la tarea primaria de las universidades? Más aún, ¿no es esta la tarea principal de una universidad que lleva el nombre del Primado del milenio? Del mismo modo que la sede primada de Gniezno salvaguarda la tradición religiosa de san Adalberto, así también vuestra Universidad debe salvaguardar el patrimonio cultural que tiene su fuente en esa tradición. Sed fieles a la llamada del cardenal Stefan Wyszynski a impulsar la cultura.
+
+Recientemente he hablado en varias ocasiones a los representantes de los centros universitarios polacos sobre la urgente necesidad no sólo de formar intelectualmente a la generación joven, sino también de inculcar en ella *el espíritu de un sano patriotismo*, que consiste precisamente en un descubrimiento incesante de las raíces de su identidad humana, nacional y religiosa, y en un esfuerzo por participar en la creación de ese patrimonio, del que nace la realidad actual*. La conciencia de saber quiénes son y la capacidad de asumir su responsabilidad por lo que son* permitirá a las generaciones sucesivas de jóvenes polacos recurrir con gran apertura, pero sin un sentido de extravío, al rico patrimonio de la cultura europea y mundial. Les permitirá discernir los auténticos y perennes valores del espíritu humano, distinguiéndolos de los fugaces sucedáneos del bien, que cobran forma en el imperativo cultural de hoy.
+
+En los tiempos del cardenal Wyszynski se debía subrayar la importancia de la cultura y de la ciencia con vistas a la supervivencia de la nación frente a los peligros del totalitarismo. Al parecer, hoy, continuando esa obra frente a las demás amenazas surgidas en el nuevo siglo, hay que ir más allá. Observamos el proceso de unificación de los países de Europa y de la globalización de numerosos sectores de la vida en el mundo. *Este proceso no puede realizarse sin tomar en consideración las tradiciones espirituales y culturales de las naciones*. Por tanto, es necesario hacer que se lleve a cabo con una participación positiva y creativa de las personas y de los ambientes responsables en la cultura, la conservación y el desarrollo de su herencia secular.
+
+Hace algunos días dije a los estudiantes reunidos en la basílica de San Pedro:  "Europa necesita una nueva vitalidad intelectual. Una vitalidad que proponga proyectos de vida austera, capaz de compromiso y sacrificio, sencilla en sus aspiraciones legítimas, clara en sus realizaciones y transparente en sus comportamientos. Es necesario una nueva valentía del pensamiento, libre y creativo, dispuesto a aceptar, desde la perspectiva de la fe, las exigencias y los desafíos que surgen de la vida, para mostrar con claridad las verdades últimas del hombre. (...) Sois como un símbolo de la Europa que debéis construir juntos" (*[Homilía durante la santa misa con los universitarios](http://www.vatican.va/content/john-paul-ii/es/homilies/2001/documents/hf_jp-ii_hom_20011211_roman-universities.html)*, 11 de diciembre de 2001, n. 4:  *L'Osservatore Romano*, edición en lengua española, 21 de diciembre de 2001, p. 8). Hoy os renuevo estas palabras a vosotros, a los representantes de la universidad "Cardenal Stefan Wyszynski", esperando que, mediante el honrado compromiso científico de los profesores y los alumnos, *no sólo contribuya a formar el rostro espiritual de Polonia, sino también el de toda Europa*. Es una gran tarea —podría parecer incluso demasiado grande—, pero es una misión a la que está llamada toda institución científica europea que se inspire en la tradición cristiana. Aceptad con confianza esta llamada. La juventud de vuestra institución puede ser vuestra fuerza, la fuente de nuevas energías que brotan de un modo nuevo de afrontar los problemas que los ambientes científicos tienen planteados desde hace siglos. *Aprovechad las posibilidades que derivan de la juventud*, de la juventud de la institución y de la juventud del espíritu. De vuestra juventud.
+
+Este es también mi deseo para toda la universidad "Cardenal Stefan Wyszynski":  que se desarrolle y tenga gran vitalidad y creatividad; que se inserte con fuerza en el futuro de Polonia y de Europa, modelando su perfil espiritual y conservando toda la riqueza del patrimonio cristiano. Que la bendición divina acompañe vuestro trabajo creativo y educativo.
+
+Quiero saludar también a los representantes de la juventud de Varsovia, que me han traído un regalo singular:  la foto de los ocho mil participantes en el encuentro de oración que se celebró el 22 de septiembre en los Campos de Wilanów. Os agradezco cordialmente este gesto de recuerdo y benevolencia y, sobre todo, el don de vuestra oración. Os bendigo de corazón a vosotros y a todos los jóvenes de Varsovia y de Polonia.
+
+El cardenal primado me pidió que, con ocasión de nuestro encuentro, bendijera la copia de la imagen de la Virgen de Czestochowa que seguirá la peregrinación por las parroquias de las diócesis de Polonia. Lo hago de buen grado. Sé cuánto bien espiritual produce. Es una referencia particularmente fecunda a la obra del milenio realizada por el cardenal Wyszynski. Bendigo de corazón a todos los que ante esta imagen pidan ser confirmados en la fe, en la esperanza y en la caridad. Que la protección de la Señora de Jasna Góra os acompañe a vosotros y a todos mis compatriotas en Polonia. ¡Que Dios os bendiga!

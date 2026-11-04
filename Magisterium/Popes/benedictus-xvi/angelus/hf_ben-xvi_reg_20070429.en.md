@@ -1,0 +1,60 @@
+---
+id: b16-ang-20070429.en
+work: b16-ang-20070429
+title: "Regina Caeli, 29 April 2007"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2007-04-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2007/documents/hf_ben-xvi_reg_20070429.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20070429} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Regina Caeli, 29 April 2007 {#b16-ang-20070429}
+BENEDICT XVI
+
+## REGINA CÆLI
+
+Saint Peter's Square\
+Fourth Sunday of Easter, 29 April 2007
+
+*Dear Brothers and Sisters,*
+
+Today, the Fourth Sunday of Easter and "Good Shepherd Sunday", is the \[44th\] World Day of Prayer for Vocations. All the faithful are exhorted to pray especially for vocations to the priesthood and consecrated life. This morning [in St Peter's Basilica I had the joy of ordaining 22 new priests](https://www.vatican.va/content/benedict-xvi/en/homilies/2007/documents/hf_ben-xvi_hom_20070429_priestly-ordination.html).
+
+As I greet these new priests with affection together with their relatives, I ask you to remember all those whom the Lord continues to call by name, just as he once called the Apostles on the shores of the Sea of Galilee to become "fishers of men", that is, his closest collaborators in the proclamation of the Gospel and the service of the Kingdom of God in our time.
+
+Let us ask for the gift of perseverance for all priests: may they stay faithful to prayer, celebrate Holy Mass with ever renewed devotion, live listening to the Word of God and day after day assimilate the same sentiments and attitudes as those of Jesus, the Good Shepherd.
+
+Let us then pray for those who are preparing to take on the priestly ministry and for the teachers who form them in the seminaries of Rome, Italy, and the whole world. Let us pray for families, so that the "seed" of the call to the presbyteral ministry may continue to mature and flower.
+
+This year, the theme of the World Day of Prayer for Vocations is: *"The vocation to the service of the Church as communion".* In presenting the mystery of the Church in our time, the Second Vatican Council gave priority to the category of "communion". In this perspective, the rich variety of gifts and ministries acquires great importance for the People of God.
+
+All the baptized are called to contribute to the work of salvation. In the Church, however, there are some vocations which are dedicated especially to the service of communion.
+
+The person primarily responsible for Catholic communion is the Pope, Successor of Peter and Bishop of Rome; with him, the Bishops, successors of the Apostles, are custodians and teachers of unity, assisted by the priests. But consecrated persons and all the faithful are also at the service of communion.
+
+At the heart of Church communion is the Eucharist: the different vocations draw from this supreme Sacrament the spiritual power to build constantly, in charity, the one ecclesial Body.
+
+Let us now turn to Mary, Mother of the Good Shepherd. May she who responded promptly to God's call, saying: "Behold, I am the handmaid of the Lord" (Lk 1: 38), help all of us to accept with joy and willingness Christ's invitation to be his disciples, always motivated to be "of one heart and soul" (cf. Acts 4: 32).
+
+## After the Regina Caeli:
+
+I extend a cordial greeting to the English-speaking pilgrims! Today, on this "Good Shepherd Sunday", the Church observes the World Day of Prayer for Vocations. In my [message](https://www.vatican.va/content/benedict-xvi/en/messages/vocations/documents/hf_ben-xvi_mes_20070210_xliv-vocations.html) for this occasion, I emphasized that the call to ordained and consecrated life in the Church is a call to *communion* - a communion rooted in the unity of Father, Son, and Holy Spirit. As Jesus tells us in the Gospel, "The Father and I are one" (Jn 10: 30).
+
+Today, I invite you to join me in praying that young people will answer this call to communion and the service of the Church by responding generously to Christ's call to priesthood and Religious life. May God bless you all!
+
+I wish you all a good Sunday.

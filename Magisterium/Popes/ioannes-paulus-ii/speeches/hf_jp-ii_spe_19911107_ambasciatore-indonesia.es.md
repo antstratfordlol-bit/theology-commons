@@ -1,0 +1,51 @@
+---
+id: jp2-spe-19911107-ambasciatore-indonesia.es
+work: jp2-spe-19911107-ambasciatore-indonesia
+title: "Al nuevo Embajador de Indonesia ante la Santa Sede (7 de noviembre de 1991)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1991-11-07
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1991/november/documents/hf_jp-ii_spe_19911107_ambasciatore-indonesia.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es"
+anchors: "{#jp2-spe-19911107-ambasciatore-indonesia} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Al nuevo Embajador de Indonesia ante la Santa Sede (7 de noviembre de 1991) {#jp2-spe-19911107-ambasciatore-indonesia}
+## DISCURSO DEL SANTO PADRE JUAN PABLO II AL EMBAJADOR DE INDONESIA ANTE LA SANTA SEDE
+
+*Miércoles 7 de noviembre de 1991*
+
+*Señor Embajador:*
+
+Con gran placer le doy la bienvenida al Vaticano y acepto las Cartas que lo acreditan como Embajador Extraordinario y Plenipotenciario de la República de Indonesia. Nuestro encuentro me recuerda la rica diversidad de su país y de su pueblo, al que conocí durante mi visita de 1989. La experiencia de la hospitalidad de los indonesios está grabada vivamente en mi memoria. Le agradezco las amables palabras que acaba de transmitirme de parte de Su Excelencia el Presidente Suharto y de su Gobierno. Con mucho gusto correspondo a su saludo formulando votos de felicidad y asegurando mis oraciones por la paz y prosperidad de su nación.
+
+La gran extensión de Indonesia, con sus miles de islas, y la variedad de sus grupos étnicos, culturales y lingüísticos, han impulsado a los fundadores de la nación a construir su unidad conforme a principios elevados y universales, que han permitido que todos sus ciudadanos vean apreciadas y respetadas sus diferencias naturales y legítimas en el marco de la ley fundamental que gobierna la vida de la nación. Esos principios están encarnados en su filosofía nacional de Pancasila, que afirma que las bases seguras para una unidad perdurable y un progreso seguro como nación se apoyan en el respeto profundo hacia la vida humana, los derechos inalienables de la persona humana y la libertad de ciudadanos responsables en la elección de su propio destino como pueblo (cf. *[Discurso durante el recibimiento de Estado](http://w2.vatican.va/content/john-paul-ii/es/speeches/1989/october/documents/hf_jp-ii_spe_19891009_pres-indonesia.html)*, Yakarta, 9 de octubre de 1989, n. 2). En ese ámbito todos los ciudadanos pueden trabajar libre y decisivamente en la tarea común de construir una sociedad en armonía y bienestar. Los ciudadanos católicos de Indonesia han desempeñado un papel activo desde la fundación del Estado, favoreciendo su progreso, defendiendo la libertad y la justicia y promoviendo la educación, la asistencia sanitaria y el servicio a los necesitados. Cooperando con los demás y cumpliendo su misión religiosa y humanitaria, la Iglesia en Indonesia robustece los valores espirituales que enriquecen la vida individual y social.
+
+El mundo está viviendo un tiempo de profundos cambios sociales y transformaciones políticas. El colapso del sistema marxista ha modificado la lógica de las relaciones entre las superpotencias y entre los bloques de naciones. Un clima internacional menos conflictivo y más confiado abre el camino a posibilidades de cooperación importantes y nuevas entre las naciones del mundo con el fin de promover el progreso y el desarrollo. Sin embargo, la satisfacción por los aspectos positivos de este período de transición no debe cegarnos frente al grave peligro que se cierne sobre el horizonte del mundo; las rivalidades étnicas y nacionalistas están imponiéndose nuevamente en muchos lugares, a veces con consecuencias trágicas de conflictos y violencia; el creciente desequilibrio económico entre las naciones desarrolladas y las que están en vías de desarrollo, y, en el seno de las mismas naciones, entre el bienestar de unos pocos y las privaciones de muchos, es ya una fuente de tensiones que podría tener consecuencias imprevisibles.
+
+También Indonesia, en su historia reciente, ha tenido que afrontar situaciones dolorosas y complejas que muestran cuántas dificultades existen para hallar un equilibrio dinámico que asegure la protección justa de todos los intereses de la nación y los derechos fundamentales de los individuos y los pueblos. Como nación, Indonesia tiene una clara visión del respeto que se debe a la diversidad objetiva y al carácter específico de cada uno de los grupos. Es de esperar que la sabiduría que ha inspirado los principios básicos de la cultura milenaria del archipiélago favorezca una rápida solución de las restantes tensiones y de un nuevo impulso a los valores del humanismo y de la armonía civil, en el respeto hacia todas las personas.
+
+Con todo, éste es verdaderamente un tiempo de desafíos históricos para la entera familia humana. Los líderes nacionales y sus pueblos reconocen de buena gana que los grandes recursos tienen que orientarse ahora, no hacia la producción de sistemas de muerte y destrucción, sino hacia la construcción de la paz, a fin de aliviar los sufrimientos de los refugiados y de las víctimas del hambre y la enfermedad, y promover el progreso de los habitantes más pobres del planeta. Para que ese esfuerzo pueda dar resultado, ha de aceptarse la realidad de la interdependencia global, de modo que quienes estimen una posición de responsabilidad vayan más allá de los intereses particulares y nacionalistas, gracias a un verdadero sentido de solidaridad y de preocupación por el bien común.
+
+Precisamente en este tiempo, como escribí en mi reciente encíclica, «será necesario un esfuerzo extraordinario para movilizar los recursos, de los que el mundo en su conjunto no carece, hacia objetivos de crecimiento económico y de desarrollo común, fijando de nuevo las prioridades y las escalas de valores, sobre cuya base se deciden las opciones económicas y políticas» (*[Centesimus annus](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)*, 28). Esa definición de los objetivos que han de perseguirse debe encontrar su inspiración y guía en una visión precisa de la naturaleza y en un propósito de desarrollo y progreso social que tienda hacia el pleno bienestar de la persona humana. Me complace su referencia a los esfuerzos de su país por proporcionar a las generaciones presentes y futuras mejores condiciones de vida, no sólo en el ámbito del progreso material, sino también en el terreno espiritual y religioso. Esta elevada visión de las necesidades humanas permitirá a sus compatriotas perseguir un desarrollo que sea sinceramente beneficioso y respetuoso de sus aspiraciones más profundas.
+
+Señor Embajador, la Santa Sede aprecia los esfuerzos que Indonesia y los demás países han hecho con la finalidad de resolver las lamentables situaciones de injusticia y los enfrentamientos existentes en el sudeste de Asia. En estas últimas semanas la comunidad internacional se ha sentido alentada gracias a los pasos dados hacia la creación de condiciones de paz en Camboya. Como miembro del grupo ASEAN (Asociación de Naciones del Sudeste Asiático), su país se ha comprometido activamente en la búsqueda de una solución para ese antiguo conflicto. La trágica historia reciente de ese pueblo, que ama la paz, nos recuerda las consecuencias terribles a las que pueden conducir las rivalidades tradicionales y las diferencias ideológicas cuando se ignora el valor de la vida humana y se pisotean las exigencias de la dignidad humana. Espero fervientemente que del acuerdo de paz firmado en París hace dos semanas nazca una nueva era de estabilidad y desarrollo para ese amado país, con resultados benéficos para la paz de toda la zona. La comunidad internacional puede hacer mucho para ayudar a que el pueblo de Camboya reconstruya su sociedad, respetando los derechos humanos fundamentales y las libertades.
+
+Abrigo la esperanza de que el país de Pancasila desempeñe un papel internacional significativo también en la esfera específica de la promoción de la libertad religiosa, ofreciendo a los demás la contribución de su rica experiencia en este campo. De hecho, su país atribuye gran importancia a la concordia y la cooperación entre las diferentes tradiciones religiosas que, respetando recíprocamente el carácter específico de cada una de ellas, trabajan juntas de buena gana con el fin de asegurar la primacía de los valores del espíritu y la colaboración armoniosa de todos los creyentes en el único y misericordioso Dios. En esta época en que desgraciadamente han vuelto a manifestarse enfrentamientos y formas de extremismo en muchas partes del mundo, que también en Asia han oscurecido la imagen de ciertos grupos religiosos, la experiencia de Indonesia es significativa. Los principios de tolerancia que caracterizan su ley y su vida cívica constituyen un ejemplo positivo para la comunidad internacional, y especialmente para los países que están unidos a Indonesia por lazos culturales e intereses comunes.
+
+Señor Embajador, estoy seguro de que usted buscará fortalecer los lazos de comprensión y amistad entre su país y la Santa Sede. Por mi parte, le aseguro la cooperación de los diversos organismos de la Curia Romana en el cumplimiento de su noble misión diplomática. Ruego a Dios por la felicidad de su nueva responsabilidad, e invoco abundantes bendiciones divinas sobre el amado pueblo indonesio.
+
+\**L'Osservatore Romano*. Edición Semanal en lengua española n. 51 p.21 (p.741).

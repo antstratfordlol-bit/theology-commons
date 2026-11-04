@@ -1,0 +1,88 @@
+---
+id: jp2-spe-19990111-diplomatic-corps.es
+work: jp2-spe-19990111-diplomatic-corps
+title: "Al Cuerpo Diplomático acreditado ante la Santa Sede (11 de enero de 1999)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1999-01-11
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1999/january/documents/hf_jp-ii_spe_11011999_diplomatic-corps.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-spe-19990111-diplomatic-corps.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-spe-19990111-diplomatic-corps.en"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Al Cuerpo Diplomático acreditado ante la Santa Sede (11 de enero de 1999)
+## DISCURSO DEL SANTO PADRE JUAN PABLO II AL CUERPO DIPLOMÁTICO ACREDITADO ANTE LA SANTA SEDE
+
+*11 de enero de 1999*
+
+*Excelencias,\
+Señoras y Señores:*
+
+### 1 {#jp2-spe-19990111-diplomatic-corps.1}
+
+Les estoy muy reconocido por los buenos deseos que, por medio de su decano, el Embajador de la República de San Marino, el Señor Giovanni Galassi, me han presentado en los comienzos de este año, el último antes del 2000. Estos se suman a las numerosas muestras de afectuosa adhesión que me han llegado de parte de las Autoridades de sus países y de sus compatriotas con ocasión del vigésimo aniversario de mi pontificado y del nuevo año. Deseo reiterar a todos mi sentido agradecimiento.
+
+Esta ceremonia anual reviste un carácter de encuentro familiar y, por eso mismo, me es particularmente querida. En primer lugar, porque, por medio de sus personas están representadas casi todas las naciones de la tierra, con sus realidades, sus esperanzas y también con sus interrogantes. Además, porque este encuentro me ofrece la grata oportunidad de expresarles los mejores deseos, que concreto en la oración por sus personas, por sus familias y sus conciudadanos. Pido a Dios que concede a cada uno salud, prosperidad y paz. Ustedes saben que pueden contar con el Papa y sus colaboradores siempre que se trate de apoyar lo que emprende cada país, con sus mejores energías, en pro de la elevación espiritual, moral y cultural de los ciudadanos, o el desarrollo de todo lo que contribuye al buen entendimiento entre los pueblos, en la justicia y la paz.
+
+### 2 {#jp2-spe-19990111-diplomatic-corps.2}
+
+La familia de las naciones, que recientemente ha compartido la alegría propia de la Navidad y que unánimemente ha saludado la llegada del Año nuevo, tiene, sin lugar a dudas, diversos motivos para alegrarse.
+
+En Europa, pienso especialmente en Irlanda, donde el acuerdo firmado el pasado Viernes Santo ha puesto las bases de la tan esperada paz, que deberá fundarse sobre una vida social estable, cimentada en la confianza recíproca y en el principio de la equidad del derecho para todos.
+
+Otro motivo de satisfacción para todos nosotros es el proceso de paz que en España permite por primera vez a las poblaciones del territorio vasco ver como se aleja el espectro de la violencia ciega y pensar seriamente en un proceso de normalización.
+
+El paso a la moneda única y la apertura hacia el Este, van a ofrecer sin duda a la Europa —éste es, en todo caso, nuestro más vivo deseo— la posibilidad de llegar a ser cada vez más una comunidad de destino, una verdadera "comunidad europea". Evidentemente esto requiere que las Naciones que la componen sepan conciliar su historia con un proyecto compartido, permitiendo que todos se consideren socios igualitarios, deseosos únicamente del bien común. Las familias espirituales que han aportado tanto a la civilización de este continente —pienso ciertamente en el cristianismo— tienen un papel que me parece cada vez más decisivo. Ante los problemas sociales que mantienen a grandes sectores de la población en la pobreza, ante las desigualdades sociales que son un fermento de inestabilidad crónica o ante las nuevas generaciones que buscan puntos de referencia en un mundo a menudo incoherente, es importante que las Iglesias puedan proclamar el amor de Dios y la llamada a la fraternidad que la reciente fiesta de la Navidad ha hecho brillar una vez más para toda la humanidad.
+
+Un ulterior motivo de satisfacción sobre el que quisiera llamar su atención, Señoras y Señores, se refiere al Continente americano. Se trata del Acuerdo logrado entre el Ecuador y el Perú, en Brasilia, el pasado 26 de octubre. Gracias a la acción perseverante de la comunidad internacional —y particularmente de los países garantes—, dos pueblos hermanos han tenido el valor de renunciar a la violencia y aceptar un compromiso para resolver pacíficamente sus controversias. Es un ejemplo a proponer a otras naciones aún enfrentadas en sus divisiones y en sus discordias. Tengo la firme convicción de que estos dos pueblos, gracias en particular a su fe cristiana que les une, sabrán aceptar el gran desafío de la fraternidad y de la paz y pasar así una página dolorosa de su historia que, por otro lado, tiene sus raíces en los primeros momentos de su existencia como Estados independientes. Dirijo mi llamado vehemente y paterno a los católicos ecuatorianos y peruanos para que, con la oración y la acción, sean artesanos convencidos de la reconciliación y contribuyan de este modo a que la paz pase desde los tratados hasta el corazón de cada uno.
+
+Nos debemos alegrar igualmente por los esfuerzos realizados por el gran pueblo de China, comprometido con determinación en un diálogo en el que participen las poblaciones de las dos riberas del estrecho. La Comunidad internacional —y la Santa Sede en particular— sigue con gran interés este feliz desarrollo, con la esperanza de progresos significativos que serán, sin duda, beneficiosos para todo el mundo.
+
+### 3 {#jp2-spe-19990111-diplomatic-corps.3}
+
+Pero la cultura de la paz está lejos de estar extendida universalmente, como lo atestiguan las llamas de persistentes conflictos.
+
+No lejos de nosotros, la región de los Balcanes continúa viviendo un período de gran inestabilidad. No se puede hablar aún de normalización en Bosnia-Herzegovina, donde las secuelas de la guerra perviven todavía en las relaciones entre las diversas etnias, donde la mitad de la población vive desplazada y donde las tensiones sociales se mantienen de manera peligrosa. El Kosovo ha sido aun recientemente teatro de enfrentamientos sangrientos por motivos étnicos y políticos, que han impedido tanto un diálogo sereno entre las partes como el desarrollo económico mismo. Debe hacerse todo lo posible para ayudar a los kosovos y a los serbios a encontrarse en torno a una mesa, para resolver sin dilación la amenaza armada que paraliza y que mata. Albania y Macedonia serían las primeras en beneficiarse, pues es sabido que en el territorio de los Balcanes todo está relacionado. También varios otros países de Europa central y oriental, pequeños y grandes, son víctimas de la inestabilidad política y social, recorren con dificultad el camino de la democratización y no consiguen aún vivir en una economía de mercado capaz de ofrecer a cada uno su legítima parte de bienestar y desarrollo.
+
+El proceso de paz relativo al Oriente Medio sigue teniendo un recorrido accidentado y no ha ofrecido a las poblaciones la esperanza y el bienestar que tienen derecho a gozar. No se las puede mantener indefinidamente entre la guerra y la paz sin correr el riesgo de acrecentar peligrosamente las tensiones y violencias. No se puede razonablemente demorar más la cuestión del estatuto de la Ciudad Santa de Jerusalén, hacia la cual los creyentes de las tres religiones monoteístas dirigen su mirada. Las partes interesadas deben afrontar estos problemas con un sentido claro de sus responsabilidades. La reciente crisis acaecida en Irak ha mostrado, una vez más, que la guerra no resuelve los problemas. Más bien los complica y hace recaer sus consecuencias dramáticas sobre las poblaciones civiles. El diálogo leal, el deseo efectivo del bien de las personas y el respeto del orden internacional, son los únicos que pueden conducir a soluciones dignas de una región en la que se arraigan nuestras tradiciones religiosas. Si la violencia es a menudo contagiosa, también puede serlo la paz, y estoy seguro que un Oriente Medio estable contribuirá eficazmente a devolver la esperanza a muchos pueblos. Pienso, por ejemplo, en las martirizadas poblaciones de Argelia y de la isla de Chipre, donde la situación continúa estancada.
+
+Sri Lanka celebraba hace algunos meses el cincuentenario de su independencia, pero todavía hoy se encuentra desgarrado por luchas étnicas que han retrasado la apertura de negociaciones serenas, las únicas que llevarán a la paz.
+
+África sigue siendo un continente en peligro. De los cincuenta y tres Estados que la forman, diecisiete tienen conflictos armados, internos o entre Estados. Pienso, de modo especial, en Sudán, donde a las crueles combates se añade un terrible drama humano; a Eritrea y Etiopía, e nuevo antagonistas; a Sierra Leona, cuya población es víctima, una vez más, de luchas despiadadas. Los países de la región de los Grandes Lagos no han superado aún las llagas de los excesos del etnocentrismo y se debaten entre la pobreza y la inseguridad; así sucede en Ruanda y Burundi, donde un embargo agrava aún más la situación. La República Democrática del Congo está aún lejos de haber completado su transición y de conocer la estabilidad a la que sus gentes legítimamente aspiran, como lo demuestran las matanzas habidas recientemente a comienzos de año cerca de la ciudad de Uvira. Angola sigue en busca de una paz no lograda, y ha visto surgir en estos días un preocupante desarrollo de los acontecimientos, del que no se ha librado la Iglesia católica. Las noticias que me llegan regularmente de esas zonas atormentadas me confirman la convicción de que la guerra supone siempre inhumanidad y que la paz es sin ninguna duda la primera condición para los derechos del hombre. A todas estas poblaciones que a menudo me dirigen llamadas de auxilio, quisiera decirles que estoy a su lado. Han de saber también que la Santa Sede no escatima esfuerzo alguno para que se alivien sus sufrimientos y se encuentren, tanto en el ámbito político como humanitario, soluciones ecuánimes a los graves problemas existentes.
+
+Esta cultura de la paz se ve contrarrestada una vez más por la legitimación y la utilización de armas con fines políticos. Las pruebas nucleares recientemente realizadas en Asia y los intentos de otros países que trabajan en secreto para poner a punto su potencial atómico, podrían conducir poco a poco a una banalización de la fuerza nuclear y, en consecuencia, a un rearme que debilitaría notablemente los esfuerzos loables en favor de la paz, haciendo así vana la política de prevención de los conflictos.
+
+A esto se añade la producción de armas a bajo coste de construcción, como las minas antipersonales, afortunadamente prohibidas por la Convención de Ottawa del mes de diciembre de 1997 (que la Santa Sede se ha apresurado a ratificar el año pasado), y las armas ligeras, que exigen, me parece, una mayor atención por parte de los responsables políticos, con el fin de controlar sus perniciosos efectos. Los conflictos regionales, donde a menudo se recluta a los niños para el combate, adoctrinándolos e incitándolos a matar, requieren un serio examen de conciencia y un verdadero acuerdo entre todos.
+
+En fin, no se debe subestimar el riesgo que supone para la paz las desigualdades sociales y un crecimiento económico artificial. La crisis financiera que ha azotado Asia ha puesto de manifiesto la gran semejanza entre la seguridad económica y la seguridad política y militar, pues también ella exige trasparencia, acuerdos y respeto de ciertos límites éticos.
+
+### 4 {#jp2-spe-19990111-diplomatic-corps.4}
+
+Ante estos problemas que les son familiares, Señoras y Señores, quiero hacerles partícipes de una íntima convicción: en este último año antes del 2000 es necesario un despertar de la conciencia.
+
+Nunca como hoy los protagonistas de la comunidad internacional han tenido en sus manos un conjunto de normas y convenciones tan precisas y completas. Lo que falta es la voluntad de respetarlas y aplicarlas. Ya lo decía en mi [Mensaje para el 1º de enero](http://w2.vatican.va/content/john-paul-ii/es/messages/peace/documents/hf_jp-ii_mes_14121998_xxxii-world-day-for-peace.html) refiriéndome a los derechos del hombre: "Cuando se acepta sin reaccionar la violación de uno cualquiera de los derechos humanos fundamentales, todos los demás están en peligro" (n. 12). Me parece que este principio debe aplicarse a todas las normas jurídicas. El derecho internacional no puede ser el del más fuerte, ni el de una simple mayoría de Estados, ni incluso el de una organización internacional, sino el que sea conforme a los principios del derecho natural y de la ley moral, que se imponen siempre a las partes en causa y en las diferentes cuestiones en litigio.
+
+La Iglesia católica, así como las comunidades de creyentes en general, estará siempre al lado de quienes se esfuerzan en hacer prevalecer el bien supremo del derecho sobre cualquier otra consideración. También es preciso que los creyentes puedan hacerse oír y participen en el diálogo público en las sociedades de las cuales son miembros de pleno derecho. Esto me lleva a compartir con Ustedes, que son representantes cualificados de los Estados, mi dolorosa preocupación ante las demasiadas violaciones de la libertad de religión en el mundo actual.
+
+Muy recientemente, por ejemplo, en Asia, la comunidad católica ha sido probada dramáticamente por episodios de violencia: iglesias destruidas y el personal religioso maltratado e incluso asesinado. Otros hechos lamentables se podrían señalar igualmente en varios países de África. En diversas regiones, en las cuales el Islam es mayoritario, se deben deplorar graves discriminaciones de las cuales son víctimas los creyentes de otras religiones. Hay incluso un país donde el culto cristiano está totalmente prohibido y donde poseer una Biblia es un crimen penalizado por la ley. Esto es aún más doloroso cuando se tiene en cuenta que, en muchos casos, los cristianos han contribuido eficazmente al desarrollo de esos países, especialmente en los campos de la educación y de la salud. En ciertos países de Europa occidental se percibe una evolución igualmente inquietante que, bajo la influencia de una falsa concepción del principio de separación entre el Estado y las Iglesias o de un pertinaz agnosticismo, se tiende a confinar a éstas últimas en el ámbito meramente cultual, aceptando difícilmente que puedan decir una palabra en público. En fin, algunos países de Europa central y oriental tienen mucha dificultad en reconocer el pluralismo religioso propio de las sociedades democráticas y se empeñan en restringir, a través de una práctica administrativa limitativa y cicatera, la libertad de conciencia y de religión que sus Constituciones proclaman solemnemente.
+
+Al recordar las persecuciones religiosas, lejanas o recientes, creo que ha llegado el momento, en este final de siglo, de intentar asegurar por doquier en el mundo las condiciones idóneas para una efectiva libertad de religión. Esto exige, por una parte, que cada creyente sepa reconocer en el otro un poco del amor universal de Dios por sus criaturas, y que, por otra parte, las Autoridades públicas —llamadas por vocación a pensar en lo universal— sepan, también ellas, acoger la dimensión religiosa de sus conciudadanos, con su inevitable expresión comunitaria. Para lograr esto, tenemos ante nosotros no sólo las lecciones de la historia, sino también valiosos instrumentos jurídicos que no requieren sino ser aplicados. En cierto sentido, de esta relación ineluctable entre Dios y la Ciudad depende el futuro de las sociedades, pues, como afirmé con ocasión de [mi visita a la sede del Parlamento europeo el 11 de octubre de 1988](http://w2.vatican.va/content/john-paul-ii/es/speeches/1988/october/documents/hf_jp-ii_spe_19881011_european-parliament.html), “allí donde el hombre no se apoya ya sobre una grandeza que le trasciende, corre el riesgo de entregarse al poder sin freno de lo arbitrario y de los seudo absolutos que lo destruyen” (n. 10).
+
+### 5 {#jp2-spe-19990111-diplomatic-corps.5}
+
+Estos son algunos de los pensamientos que me vienen a la mente y al corazón al contemplar el mundo de este siglo que está finalizando. Si Dios, al enviarnos a su Hijo, se ha interesado tanto por los hombres, hemos de corresponder a un amor tan grande. Él, el Padre universal, a establecido con cada uno de nosotros una alianza que nada podrá romper. Al decirnos y demostrarnos que nos ama, nos da a la vez la esperanza de que nosotros podemos vivir en paz; y es verdad que sólo el que es amado puede a su vez amar. Es bueno que todos los hombres descubran este Amor que les precede y les espera. Este es mi augurio más íntimo para cada uno de Ustedes, así como para todos los pueblos de la tierra.
+
+\**L'Osservatore Romano.* Edición semanal en lengua española, n. 3, pp. 8, 9.

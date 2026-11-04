@@ -1,0 +1,67 @@
+---
+id: francis-spe-20150926-usa-liberta-religiosa.es
+work: francis-spe-20150926-usa-liberta-religiosa
+title: "Viaje apostólico - Estados Unidos de América: Encuentro por la libertad religiosa con la comunidad hispana y otros inmigrantes en el Independence Mall (Filadelfia, 26 de septiembre de 2015)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2015-09-26
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2015/september/documents/papa-francesco_20150926_usa-liberta-religiosa.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#francis-spe-20150926-usa-liberta-religiosa} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje apostólico - Estados Unidos de América: Encuentro por la libertad religiosa con la comunidad hispana y otros inmigrantes en el Independence Mall (Filadelfia, 26 de septiembre de 2015) {#francis-spe-20150926-usa-liberta-religiosa}
+[VIAJE APOSTÓLICO DEL SANTO PADRE FRANCISCO\
+A CUBA, ESTADOS UNIDOS DE AMÉRICA\
+Y VISITA A LA SEDE DE LA ORGANIZACIÓN DE LAS NACIONES UNIDAS](http://w2.vatican.va/content/francesco/es/travels/2015/outside/documents/papa-francesco-cuba-usa-onu-2015.html)\
+(19-28 DE SEPTIEMBRE DE 2015)
+
+## ENCUENTRO POR LA LIBERTAD RELIGIOSA CON LA COMUNIDAD HISPANA Y OTROS INMIGRANTES
+
+## DISCURSO DEL SANTO PADRE
+
+*Independence Mall, Filadelfia\
+Sábado 26 de septiembre de 2015*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2015/9/26/usalibertareligiosa.html)\]
+
+*Queridos amigos:*
+
+Buenas tardes. Uno de los momentos más destacados de mi visita es la presencia aquí, en el *Independence Mall*, el lugar de nacimiento de los Estados Unidos de América. Aquí fueron proclamadas por primera vez las libertades que definen este País. La Declaración de Independencia proclamó que todos los hombres y mujeres fueron creados iguales; que están dotados por su Creador de ciertos derechos inalienables, y que los gobiernos existen para proteger y defender esos derechos. Esas palabras siguen resonando e inspirándonos hoy, como lo han hecho con personas de todo el mundo, para luchar por la libertad de vivir de acuerdo con su dignidad.
+
+La historia también muestra que estas y otras verdades deben ser constantemente reafirmadas, nuevamente asimiladas y defendidas. La historia de esta Nación es también la historia de un esfuerzo constante, que dura hasta nuestros días, para encarnar esos elevados principios en la vida social y política. Recordemos las grandes luchas que llevaron a la abolición de la esclavitud, la extensión del derecho de voto, el crecimiento del movimiento obrero y el esfuerzo gradual para eliminar todo tipo de racismo y de prejuicios contra la llegada posterior de nuevos americanos. Esto demuestra que, cuando un país está determinado a permanecer fiel a sus principios, a esos principios fundacionales, basados en el respeto a la dignidad humana, se fortalece y se renueva. Cuando un país guarda la memoria de sus raíces, sigue creciendo, se renueva y sigue asumiendo en su seno nuevos pueblos y nueva gente que viene a él.
+
+Nos ayuda mucho recordar nuestro pasado. Un pueblo que tiene memoria no repite los errores del pasado; en cambio, afronta con confianza los retos del presente y del futuro. La memoria salva el alma de un pueblo de aquello o de aquellos que quieren dominarlo o quieren utilizarlo para sus propios intereses. Cuando los individuos y las comunidades ven garantizado el ejercicio efectivo de sus derechos, no sólo son libres para realizar sus propias capacidades, sino que también, con estas capacidades, con su trabajo, contribuyen al bienestar y al enriquecimiento de toda la sociedad.
+
+En este lugar, que es un símbolo del modelo de los Estados Unidos, me gustaría reflexionar con ustedes sobre el derecho a la libertad religiosa. Es un derecho fundamental que da forma a nuestro modo de interactuar social y personalmente con nuestros vecinos, que tienen creencias religiosas distintas a la nuestra. El ideal del diálogo interreligioso, donde todos los hombres y mujeres de diferentes tradiciones religiosas pueden dialogar sin pelearse. Eso lo da la libertad religiosa.
+
+La libertad religiosa, sin duda, comporta el derecho de adorar a Dios, individualmente y en comunidad, de acuerdo con la propia conciencia. Pero, por otro lado, la libertad religiosa, por su naturaleza, trasciende los lugares de culto y la esfera privada de los individuos y las familias, porque el hecho religioso, la dimensión religiosa, no es una subcultura, es parte de la cultura de cualquier pueblo y de cualquier nación.
+
+Nuestras distintas tradiciones religiosas sirven a la sociedad sobre todo por el mensaje que proclaman. Ellas llaman a los individuos y a las comunidades a adorar a Dios, fuente de la vida, de la libertad y de la felicidad. Nos recuerdan la dimensión trascendente de la existencia humana y de nuestra libertad irreductible frente a la pretensión de cualquier poder absoluto. Necesitamos acercarnos a la historia –nos hace bien acercarnos a la historia-, especialmente a la historia del siglo pasado, para ver las atrocidades perpetradas por los sistemas que pretendían construir algún tipo de «paraíso terrenal», dominando pueblos, sometiéndolos a principios aparentemente indiscutibles y negándoles cualquier tipo de derechos. Nuestras ricas tradiciones religiosas buscan ofrecer sentido y dirección, «tienen una fuerza motivadora que abre siempre nuevos horizontes, estimula el pensamiento, amplía la mente y la sensibilidad» (*[Evangelii gaudium](http://w2.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 256). Llaman a la conversión, a la reconciliación, a la preocupación por el futuro de la sociedad, a la abnegación en el servicio al bien común y a la compasión por los necesitados. En el corazón de su misión espiritual está la proclamación de la verdad y la dignidad de la persona humana y de todos los derechos humanos.
+
+Nuestras tradiciones religiosas nos recuerdan que, como seres humanos, estamos llamados a reconocer a Otro, que revela nuestra identidad relacional frente a todos los intentos por imponer «una uniformidad a la que el egoísmo de los poderosos, el conformismo de los débiles o la ideología de la utopía quiere imponernos» (M. de Certeau).
+
+En un mundo en el que diversas formas de tiranía moderna tratan de suprimir la libertad religiosa, o, como dije antes, reducirla a una subcultura sin derecho a voz y voto en la plaza pública, o de utilizar la religión como pretexto para el odio y la brutalidad, es necesario que los fieles de las diversas tradiciones religiosas unan sus voces para clamar por la paz, la tolerancia, el respeto a la dignidad y a los derechos de los demás.
+
+Nosotros vivimos en una época sujeta a la «globalización del paradigma tecnocrático» (*[Laudato si'](http://w2.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html#106)*, 106), que conscientemente apunta a la uniformidad unidimensional y busca eliminar todas las diferencias y tradiciones en una búsqueda superficial de la unidad. Las religiones tienen, pues, el derecho y el deber de dejar claro que es posible construir una sociedad en la que «un sano pluralismo que, de verdad respete a los diferentes y los valore como tales» (*[Evangelii gaudium](http://w2.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 255), es un aliado valioso «en el empeño por la defensa de la dignidad humana... y un camino de paz para nuestro mundo tan herido» ([*ibíd*.](http://w2.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 257) por las guerras.
+
+Los cuáqueros que fundaron Filadelfia estaban inspirados por un profundo sentido evangélico de la dignidad de cada individuo y por el ideal de una comunidad unida por el amor fraterno. Esta convicción los llevó a fundar una colonia que fuera un refugio para la libertad religiosa y la tolerancia. El sentido de preocupación fraterna por la dignidad de todos, especialmente de los más débiles y vulnerables, se convirtió en una parte esencial del espíritu norteamericano. [San Juan Pablo II, durante su visita a los Estados Unidos en 1987](http://w2.vatican.va/content/john-paul-ii/es/travels/1987/travels/documents/trav_stati-uniti-canada.html), rindió un conmovedor homenaje al respecto, recordando a todos los americanos que «la prueba definitiva de su grandeza es la manera en que tratan a todos los seres humanos, pero sobre todo a los más débiles e indefensos» (*Ceremonia de despedida*, 19 septiembre 1987).
+
+Aprovecho esta oportunidad para agradecer a todos los que, sea cual fuera su religión, han tratado de servir a Dios, al Dios de la paz, construyendo ciudades de amor fraterno, cuidando del prójimo necesitado, defendiendo la dignidad del don divino, del don de la vida en todas sus etapas, defendiendo la causa de los pobres y los inmigrantes. Con demasiada frecuencia los más necesitados, en todas partes, no son escuchados. Ustedes son su voz, y muchos de ustedes –hombres y mujeres religiosos- han hecho que su grito sea escuchado. Con este testimonio, que frecuentemente encuentra una fuerte resistencia, recuerdan a la democracia norteamericana los ideales que la fundaron, y que la sociedad se debilita cada vez que allí y en donde cualquier injusticia prevalece. Hace un momento, hablé de la tendencia a una globalización. La globalización no es mala. Al contrario, la tendencia a globalizarnos es buena, nos une. Lo que puede ser malo es el modo de hacerlo. Si una globalización pretende igualar a todos, como si fuera una esfera, esa globalización destruye la riqueza y la particularidad de cada persona y de cada pueblo. Si una globalización busca unir a todos, pero respetando a cada persona, a su persona, a su riqueza, a su peculiaridad, respetando a cada pueblo, a cada riqueza, a su peculiaridad, esa globalización es buena y nos hace crecer a todos, y lleva a la paz. Me gusta usar un poco la geometría aquí. Si la globalización es una esfera, donde cada punto es igual, equidistante del centro, anula, no es buena. Si la globalización une como un poliedro, donde están todos unidos, pero cada uno conserva su propia identidad, es buena y hace crecer a un pueblo, y da dignidad a todos los hombres y les otorga derechos.
+
+Entre nosotros hoy hay miembros de la gran población hispana de los Estados Unidos, así como representantes de inmigrantes recién llegados a los Estados Unidos. Gracias por abrir las puertas. Muchos de ustedes han emigrado –los saludo con mucho afecto-, y muchos de ustedes han emigrado a este País con un gran costo personal, pero con la esperanza de construir una nueva vida. No se desanimen por las dificultades que tengan que afrontar. Les pido que no olviden que, al igual que los que llegaron aquí antes, ustedes traen muchos dones a esta nación. Por favor, no se avergüencen nunca de sus tradiciones. No olviden las lecciones que aprendieron de sus mayores, y que pueden enriquecer la vida de esta tierra americana. Repito, no se avergüencen de aquello que es parte esencial de ustedes. También están llamados a ser ciudadanos responsables y a contribuir –como lo hicieron con tanta fortaleza los que vinieron antes-, a contribuir provechosamente a la vida de las comunidades en que viven. Pienso, en particular, en la vibrante fe que muchos de ustedes poseen, en el profundo sentido de la vida familiar y los demás valores que han heredado. Al contribuir con sus dones, no solo encontrarán su lugar aquí, sino que ayudarán a renovar la sociedad desde dentro. No perder la memoria de lo que pasó aquí hace más de dos siglos. No perder la memoria de aquella *Declaración* que proclamó que todos los hombres y mujeres fueron creados iguales, que están dotados por su Creador de ciertos derechos inalienables, y que los gobiernos existen para proteger y defender esos derechos.
+
+Queridos amigos, les doy las gracias por su calurosa bienvenida y por acompañarme hoy aquí. Conservemos la libertad. Cuidemos la libertad. La libertad de conciencia, la libertad religiosa, la libertad de cada persona, de cada familia, de cada pueblo, que es la que da lugar a los derechos. Que este País, y cada uno de ustedes, dé gracias continuamente por las muchas bendiciones y libertades que disfrutan. Que puedan defender estos derechos, especialmente la libertad religiosa, que Dios les ha dado. Que Él los bendiga a todos. Y, por favor, les pido que recen un poquito por mí. Gracias.

@@ -1,0 +1,85 @@
+---
+id: jp2-spe-19990205-ad-limina-greece.es
+work: jp2-spe-19990205-ad-limina-greece
+title: "A la Conferencia episcopal de Grecia en visita 'ad limina Apostolorum' (5 de febrero de 1999)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1999-02-05
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1999/february/documents/hf_jp-ii_spe_19990205_ad-limina-greece.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-spe-19990205-ad-limina-greece.N} — numbered paragraphs 1..9 (9 anchors), shared with jp2-spe-19990205-ad-limina-greece.en"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A la Conferencia episcopal de Grecia en visita "ad limina Apostolorum" (5 de febrero de 1999)
+***DISCURSO DEL PAPA JUAN PABLO II\
+A LA CONFERENCIA EPISCOPAL DE GRECIA EN VISITA «AD LIMINA»***
+
+*Viernes 5 de febrero de 1999*
+
+*Venerados hermanos en el episcopado;\
+amadísimo Ordinario para los católicos griegos de rito armenio:*
+
+### 1 {#jp2-spe-19990205-ad-limina-greece.1}
+
+Con alegría os acojo hoy, con ocasión de vuestra peregrinación a las tumbas de los apóstoles Pedro y Pablo. El primer significado de la visita ad limina es poner de relieve la comunión de las Iglesias particulares esparcidas por el mundo con el Sucesor de Pedro. Agradezco a monseñor Nicolaos Fóscolos, presidente de vuestra Conferencia episcopal, los sentimientos de afectuosa devoción que me ha manifestado y las palabras que me ha dirigido en vuestro nombre.
+
+Como pastores encargados de dirigir al pueblo de Dios, estáis llamados a ayudar a las comunidades a dejarse guiar por el Espíritu Santo en su deber de testimoniar el Evangelio, contribuyendo al mismo tiempo a la paz y a la concordia entre los hombres. Ante todo, quisiera deciros cuánto aprecio el ministerio que desempeñáis con diligencia. En vuestro país, donde los fieles de la Iglesia católica son una minoría, es oportuno que sigáis esforzándoos por organizar vuestra Conferencia episcopal, para realizar mejor los proyectos pastorales que habéis elaborado, respondiendo así más eficazmente a las numerosas exigencias de la misión y, al mismo tiempo, asegurando una gestión administrativa más eficaz. Desde esta perspectiva, sería oportuna la creación de un secretariado permanente, para facilitar una puesta en práctica más rápida de las decisiones adoptadas durante vuestras asambleas, llevando a cabo los proyectos pastorales que conciernen a toda la Iglesia católica en Grecia. Así, podréis sosteneros mutuamente, para responder con eficacia a las diversas exigencias del ministerio episcopal, con la colaboración de personas competentes. Para este fin, es conveniente crear ocasiones regulares de diálogo y reflexión entre todos los miembros de la comunidad católica. Estos encuentros, prosiguiendo vuestra reciente Sinaxis, facilitarán las reuniones eclesiales o los sínodos diocesanos, con vistas a un impulso pastoral que implique a toda la comunidad católica de vuestras diócesis.
+
+A través de vosotros, deseo alentar cordialmente a cuantos colaboran en vuestra misión, en particular a los sacerdotes que llevan el peso del ministerio diario y tienen que afrontar, especialmente a causa de su escaso número, dificultades y tareas cada vez más vastas y arduas. Gracias a los encuentros fraternos con ellos, sabréis sostenerlos en su misión y les ayudaréis a valorar bien las actividades pastorales y a elaborar nuevos proyectos. También saludo con afecto a los fieles de vuestras diócesis, cuya tarea es esencial, puesto que, en virtud del bautismo, participan tanto en la edificación de la Iglesia como en la animación cristiana de las realidades temporales. Transmitid a los jóvenes la llamada de la Iglesia a abrir su corazón a Cristo y la invitación a participar el año próximo en las actividades previstas para la Jornada mundial de la juventud, durante la cual podrán encontrarse con muchos otros coetáneos suyos.
+
+### 2 {#jp2-spe-19990205-ad-limina-greece.2}
+
+La Iglesia católica en Grecia acaba de vivir una segunda Sinaxis, en la que los representantes del clero secular, de los religiosos, de las religiosas y de los laicos, se reunieron con vosotros para dar un nuevo impulso a la vida pastoral. Se trata de una etapa significativa en vuestro itinerario apostólico, que quiere implicar a todos los fieles en una participación más activa en la vida de la Iglesia. Todos están invitados a crecer en su unión con el Salvador, mediante la oración personal, la meditación de la sagrada Escritura, la *lectio divina*, la vida litúrgica y sacramental y una devoción mariana filial. Éstos son los elementos necesarios para el crecimiento y la maduración espiritual y humana del cristiano.
+
+Para poder guiar a todas las personas por el camino de la intimidad con Cristo es indispensable una intensa formación, que no se limite a una etapa inicial de la vida cristiana, sino que se desarrolle mediante un proceso permanente encaminado a sostener al cristiano en su relación diaria con Cristo y en su compromiso misionero. Por eso, animo a cada uno a continuar este camino de renovación espiritual e intelectual, para construir una comunidad de fe dedicada generosamente al anuncio y al testimonio del Evangelio.
+
+Deseo atraer vuestra atención hacia el papel particular que desempeña en la vida de las comunidades cristianas la liturgia, en la cual cada uno descubre la profundidad del misterio divino y experimenta a la Iglesia como Cuerpo de Cristo. A este propósito, la obra de traducción de los diversos textos litúrgicos por parte de los obispos latinos requiere especial atención, para responder a las exigencias de nuestro tiempo. Basándose en los principios enunciados por la instrucción del «Consejo», publicada el 25 de enero de 1969, esta tarea debe respetar las tradiciones latinas y su relativo patrimonio litúrgico, amado por los fieles, que así pueden acercarse con mayor facilidad a Cristo, encontrándolo en los sacramentos y en el esplendor del culto divino.
+
+### 3 {#jp2-spe-19990205-ad-limina-greece.3}
+
+La comunidad católica está extendida en toda Grecia, y está compuesta cada vez más por miembros de orígenes diferentes. Por otra parte, durante los veranos acuden numerosos turistas, a los que deseáis dar vuestro apoyo espiritual. Esta realidad humana dificulta toda acción pastoral que quiera hacer de los fieles una comunidad que tenga un solo corazón y una sola alma (cf. *Hch* 4, 32). En este sentido, ya se ha hecho mucho en los campos de la evangelización, la catequesis, la educación y la asistencia caritativa y social. Algunos fieles, con la ayuda de Dios, están particularmente comprometidos en el ámbito social, en el servicio a los pobres, en la promoción de la comunión y de la solidaridad, en la respuesta a las necesidades de los enfermos y en la importantísima tarea de la educación y del apoyo a las familias.
+
+Esta participación en la vida social, que hoy deseo impulsar con fuerza, es un modo de seguir fielmente a Jesús. Es una forma insigne de testimonio, gracias a la cual se reconoce a la Iglesia como una comunidad abierta, dispuesta a proponer y realizar iniciativas que la acerquen a todas las personas, respetando la legítima libertad. La colaboración activa en el campo social, junto con miembros de otras confesiones religiosas, constituye un aspecto significativo del diálogo ecuménico, dado que la acción común suscita respeto mutuo y amor. Desde este punto de vista, las escuelas católicas dan una contribución esencial a la vida social. Deseo saludar y alentar a los sacerdotes, los religiosos, las religiosas y los laicos que se dedican a la educación de la juventud. En efecto, la acogida de los niños -independientemente de su confesión religiosa-, el descubrimiento y la estima recíproca son elementos que ayudarán a los jóvenes griegos a vivir juntos, respetando su diversidad; esta última es una riqueza, si se pone al servicio de todos. Con una formación integral, los jóvenes recibirán una educación en los valores morales, humanos y civiles fundamentales, con efectos benéficos para toda la sociedad.
+
+### 4 {#jp2-spe-19990205-ad-limina-greece.4}
+
+La situación particular que vive la Iglesia católica en Grecia la impulsa, asimismo, a profundizar incesantemente en la llamada del Señor a caminar cada vez más por el camino de la unidad (cf. *Jn* 17, 21), respondiendo a la exigencia ecuménica que surgió del concilio Vaticano II. «Entre las súplicas más fervientes de este momento excepcional al acercarse un nuevo milenio, la Iglesia implora del Señor que prospere la unidad entre todos los cristianos de las diversas confesiones hasta alcanzar la plena comunión. Deseo que el jubileo sea la ocasión adecuada para una fructífera colaboración en la puesta en común de tantas cosas que nos unen y que son ciertamente más que las que nos separan» (*[Tertio millennio adveniente](https://w2.vatican.va/content/john-paul-ii/es/apost_letters/1994/documents/hf_jp-ii_apl_19941110_tertio-millennio-adveniente.html)*, 16). Con este espíritu, respetando plenamente los programas de las Iglesias y comunidades eclesiales, y el legítimo derecho a la libertad religiosa, es preciso dirigir una mirada positiva y llena de esperanza al diálogo ecuménico, procurando siempre ser instrumentos del Espíritu Santo, para que se alcance la unidad plena, con los medios queridos por Dios.
+
+Con vistas al gran jubileo, ya cercano, el amor de Cristo nos mueve a realizar proyectos ecuménicos que permitan a los discípulos de Cristo conocer mejor las tradiciones propias y las ajenas. Es evidente que estos gestos serían para el mundo un testimonio del amor que nos viene del Salvador y de la firme voluntad de todos los cristianos de alcanzar lo más pronto posible la unidad plena. Toda iniciativa y oración común, todo diálogo respetuoso y toda petición de perdón recíproco pueden acercar a los hermanos en la fe y hacer que los hombres de hoy descubran la ternura y la misericordia del Padre, tema central del último año de preparación para el gran jubileo. Como afirma el Apóstol, el amor viene de Dios, y «si Dios nos amó de esta manera, también nosotros debemos amarnos unos a otros» (*1 Jn* 4, 11). Deseo subrayar una vez más el valor de la oración en las relaciones ecuménicas, pues nos ayuda a vivir como hermanos. «Nuestra participación común en la oración nos habitúa a vivir al lado los unos de los otros, nos lleva a aceptar juntos, y por tanto a poner en práctica, la voluntad del Señor para con su Iglesia» (*[Ut unum sint](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html)*, 53).
+
+### 5 {#jp2-spe-19990205-ad-limina-greece.5}
+
+En vuestros informes quinquenales, habéis señalado la escasez de sacerdotes para el servicio a las comunidades cristianas, manifestando al mismo tiempo vuestra confianza en el Señor, que no abandona jamás a su grey. Es verdad; la pastoral vocacional tiene que ser una de vuestras preocupaciones principales; más aún, debe ser un compromiso de toda la comunidad eclesial. A este respecto, exhorto a las familias a ser siempre muy conscientes de su responsabilidad en relación con el nacimiento y la maduración de las vocaciones sacerdotales y religiosas. Que los padres no tengan miedo del futuro cuando un hijo manifiesta el deseo de consagrarse al Señor. Tienen la misión de ayudarle a realizar plenamente su vocación. A cuantos siguen totalmente a Cristo, se les proporcionan los medios necesarios para cumplir la misión encomendada.
+
+En la Iglesia católica de vuestro país, los religiosos y las religiosas desempeñan un papel insustituible. Los exhorto a continuar su obra con generosidad, incluso en situaciones pastorales difíciles, en estrecha comunión con sus pastores y permaneciendo fieles al propio carisma. Invito a las congregaciones religiosas y demás institutos a enviar nuevos miembros a Grecia, para reforzar las comunidades ya existentes o para crear otras nuevas, capaces de percibir las necesidades de la Iglesia católica en esa tierra y la aportación que la vida religiosa activa y contemplativa está llamada a darle. A este propósito, expreso mi afecto y mi gratitud a las órdenes contemplativas presentes en vuestro país. Son un faro luminoso, un hermoso testimonio de fe y amor a Dios, que los cristianos de las demás confesiones consideran con estima y atención.
+
+### 6 {#jp2-spe-19990205-ad-limina-greece.6}
+
+De igual modo, sería oportuno proyectar soluciones nuevas con vistas a la pastoral vocacional, al discernimiento y a la formación de los candidatos al sacerdocio, quizá incluso dentro de una estructura común al servicio de todas las diócesis. Así, los jóvenes de las diversas diócesis podrían vivir en una comunidad educativa más sólida y crear vínculos importantes para el futuro de la fraternidad sacerdotal en vuestro país. Además, otros coetáneos suyos se sentirían atraídos por una gozosa experiencia, que fortalece el deseo de consagrar la propia vida a Dios y a los hermanos.
+
+También los sacerdotes, los religiosos y las religiosas tienen un papel importante en el camino vocacional de los jóvenes. Deberán preocuparse por testimoniar, en la vida personal y en el ministerio diario, cuán felices los hace el seguimiento de Cristo. Es importante que los jóvenes encuentren en los adultos modelos de vida cristiana, que sepan transmitirles el sentido de Dios, invitándolos claramente a una consagración total en el sacerdocio o en la vida religiosa.
+
+### 7 {#jp2-spe-19990205-ad-limina-greece.7}
+
+Habéis mencionado las dificultades que las familias deben afrontar tanto fuera como dentro de la pareja y en las relaciones entre las generaciones, y también las tensiones que existen en los matrimonios mixtos, en particular por lo que respecta a la educación religiosa de los hijos. Mediante una pastoral familiar apropiada, la Iglesia tiene el deber de recordar la indisolubilidad del matrimonio y la necesidad que tienen los fieles de vivir su vida conyugal en armonía con la fe. Por otra parte, no hay que dejar de brindar asistencia a los matrimonios que atraviesan momentos de crisis, a fin de que puedan volver al fervor de su compromiso inicial, desarrollar su vida espiritual y encontrar en la gracia del sacramento del matrimonio las energías necesarias para cumplir su misión de esposos y padres. En un marco de secularización y materialismo, es importante proponer a los hombres y mujeres de nuestro tiempo un ideal cristiano, que constituya la base de su vida y de su compromiso diario.
+
+### 8 {#jp2-spe-19990205-ad-limina-greece.8}
+
+Si la Iglesia católica se preocupa por sus fieles, éstos, a su vez, desean dar su contribución responsable a la vida social, sirviendo al bien común. Por tanto, es propio de los católicos, como de todos los habitantes del país, trabajar incansablemente en favor de la serena convivencia entre todos los griegos, gozando cada uno de los mismos derechos y de las mismas libertades, en particular de la libertad religiosa. En este ámbito, me alegran los significativos esfuerzos realizados por los diversos protagonistas y la buena voluntad manifestada por todos para encontrar soluciones justas y equitativas a los problemas aún sin resolver, de modo especial el del estatuto jurídico de la Iglesia católica. Ojalá que el diálogo con las diferentes autoridades competentes prosiga y se intensifique, para el bien de la población entera. Esto permitirá a la comunidad católica experimentar una renovada vitalidad, y contribuirá a que todos participen cada vez más activamente en la construcción de la casa común, infundiendo confianza en todos los ciudadanos para la edificación•de una•sociedad pacífica y fraterna.
+
+### 9 {#jp2-spe-19990205-ad-limina-greece.9}
+
+Al término de vuestra visita ad limina, os deseo que volváis a vuestro país confortados en la misión de sucesores de los Apóstoles. Que la experiencia de comunión que habéis vivido durante estos días entre vosotros, obispos, os ayude a intensificar vuestra colaboración, para que vuestras diócesis se sientan hermanas, prosigan la concertación necesaria en el ámbito nacional con la finalidad de afrontar los desafíos de la misión y, en el marco de la gran Europa, continúen manteniendo relaciones con las diversas organizaciones eclesiales. A vosotros, así como a los fieles de vuestras diócesis, os imparto de buen grado la bendición apostólica.

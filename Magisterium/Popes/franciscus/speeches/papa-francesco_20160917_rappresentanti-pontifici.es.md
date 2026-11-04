@@ -1,0 +1,122 @@
+---
+id: francis-spe-20160917-rappresentanti-pontifici.es
+work: francis-spe-20160917-rappresentanti-pontifici
+title: "A los participantes en un Encuentro de Representantes Pontificios (17 de septiembre de 2016)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2016-09-17
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2016/september/documents/papa-francesco_20160917_rappresentanti-pontifici.html"
+fetch_date: 2026-08-26
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, es, fr, it, pt"
+anchors: "{#francis-spe-20160917-rappresentanti-pontifici.N} — numbered paragraphs 1..3 (3 anchors); and {#francis-spe-20160917-rappresentanti-pontifici.prooem} — the text the page prints before its first numbered unit, under a heading minted for it (the dei-filius.prooem precedent)"
+anchor_check: "identical across es; prooem: identical across es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-09-21
+---
+
+# A los participantes en un Encuentro de Representantes Pontificios (17 de septiembre de 2016)
+## DISCURSO DEL SANTO PADRE FRANCISCO A LOS PARTICIPANTES EN UN ENCUENTRO DE REPRESENTANTES PONTIFICIOS
+
+*Sala Clementina\
+Sábado 17 de septiembre de 2016*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2016/9/17/rappresentantipontifici.html)\]
+
+*Queridos hermanos:*
+
+### Proemio {#francis-spe-20160917-rappresentanti-pontifici.prooem}
+
+Me alegra este momento de oración jubilar, que, además de llamarnos como Pastores a redescubrir las raíces de la Misericordia, es ocasión para renovar, a través de vosotros, el vínculo entre el Sucesor de Pedro y las distintas Iglesias locales en las cuales sois portadores y artesanos de la comunión que es savia para la vida de la Iglesia y para el anuncio de su mensaje. Doy las gracias al cardenal Parolin por sus palabras y a la Secretaría de Estado por la generosidad con la que ha preparado estas jornadas de encuentro.
+
+¡Bienvenidos a Roma! Volver a abrazarla en este momento jubilar tiene para vosotros un significado especial. Aquí están muchas de vuestras fuentes y de vuestras memorias. Aquí habéis llegado siendo aún jóvenes con el fin de servir a Pedro, aquí regresáis a menudo para reuniros con él, y desde aquí volvéis a partir como sus enviados llevando su mensaje, su cercanía, su testimonio. En efecto, Pedro está aquí desde los inicios de la Iglesia; Pedro está aquí hoy en el Papa que la providencia ha querido que sea; Pedro estará aquí mañana, estará siempre. Así lo ha querido el Señor: que la humanidad impotente, que por sí misma sería sólo piedra de tropiezo, se convirtiese por disposición divina en roca indestructible.
+
+Agradezco a cada uno de vosotros el servicio que presta a mi ministerio. Gracias por la atención con la cual recogéis de los labios del Papa la confesión sobre la que se funda la Iglesia de Cristo. Gracias por la fidelidad con la cual interpretáis con el corazón indiviso, con la mente íntegra y con la palabra sin ambigüedad lo que el Espíritu Santo pide a Pedro que diga a la Iglesia en este momento. Gracias por la delicadeza con la cual «auscultate» mi corazón de Pastor universal y tratáis de que todo ello llegue a las Iglesias que estoy llamado a presidir en la caridad.
+
+Os agradezco la entrega y la pronta y generosa disponibilidad de vuestra vida llena de compromisos y marcada por ritmos a menudo difíciles. Vosotros tocáis con la mano la carne de la Iglesia, el esplendor del amor que la hace gloriosa, pero también las llagas y las heridas que la hacen mendicante de perdón. Con genuino sentido eclesial y humilde búsqueda para llegar a conocer los diversos problemas y temáticas, hacéis que la Iglesia y el mundo estén presentes en el corazón del Papa. Leo diariamente, principalmente muy temprano por la mañana y por la tarde, vuestras «*comunicaciones*» con las noticias sobre las realidades de las Iglesias locales, las situaciones de los países en los cuales estáis acreditados y los debates que incumben a la vida de la Comunidad internacional. ¡Os agradezco mucho por todo esto! Sabedlo, os acompaño cada día —a menudo con nombre y rostro— con el recuerdo amistoso y la oración confiada. Os tengo presente en la Eucaristía. Como no sois Pastores diocesanos y vuestro nombre no se pronuncia en ninguna Iglesia particular, sabed que el Papa en cada Plegaria eucarística os recuerda como extensión de la propia persona, como enviados suyos para servir con sacrificio y competencia, acompañando a la Esposa de Cristo y a los pueblos en los cuales ella vive.
+
+Quisiera deciros algunas cosas.
+
+### 1 {#francis-spe-20160917-rappresentanti-pontifici.1}
+
+Servir con sacrificio como humildes enviados
+
+El beato Pablo VI, al reformar el servicio diplomático de la Santa Sede, escribía así: «La actividad del representante pontificio presta ante todo un precioso servicio a los obispos, a los sacerdotes, a los religiosos y a todos los católicos del lugar, quienes encuentran en él apoyo y protección, en cuanto que él representa a una Autoridad superior, que es un beneficio para todos. Su misión no se sobrepone al ejercicio de los poderes de los obispos, ni lo sustituye u obstaculiza, sino que lo respeta y, aún más, lo favorece y sostiene con el consejo fraterno y discreto» (Carta ap. *Sollicitudo omnium Ecclesiarum*: AAS 61 \[1969\], 476).
+
+En vuestro obrar, por lo tanto, estáis llamados a llevar a cada uno la caridad atenta de quien representáis, convirtiéndoos así en quien sostiene y protege, en quien está dispuesto a sostener y no sólo a corregir, en quien está dispuesto a escuchar antes de decidir, a dar el primer paso para eliminar tensiones y favorecer la comprensión y la reconciliación.
+
+Sin humildad ningún servicio es posible o fecundo. La humildad de un nuncio pasa a través del amor por el país y por la Iglesia donde está llamado a servir. Pasa por la actitud serena de estar donde el Papa lo ha querido y no con el corazón distraído esperando el próximo destino. Estar allí con todo el ser, con mente y corazón indivisos; deshacer las propias maletas para compartir las riquezas que se llevan consigo, pero también para recibir lo que aún no se posee.
+
+Sí, es necesario evaluar, confrontar, detectar aquellos que pueden ser los límites de un itinerario eclesial, de una cultura, de una religiosidad, de la vida social y política para formarse y poder expresar una idea exacta de la situación. Mirar, analizar e informar son verbos esenciales pero no suficientes en la vida de un nuncio. Es necesario también ir al encuentro, escuchar, dialogar, compartir, proponer y trabajar juntos, para que se transparente un amor sincero, simpatía y empatía con la población y la Iglesia local. Lo que los católicos, pero también la sociedad civil en sentido lato, quieren y deben percibir es que, en su país, el nuncio está bien, como en su casa; se siente libre y feliz de entablar relaciones constructivas, compartir la vida cotidiana del lugar (cocina, lengua, costumbres), expresar sus opiniones e impresiones con gran respeto y sentido de cercanía, acompañar con la mirada que ayuda a crecer.
+
+No es suficiente señalar con el dedo o agredir a quien no piensa como nosotros. Esto es una mísera táctica de las actuales guerras políticas y culturales, pero no puede ser el método de la Iglesia. Nuestra mirada debe ser amplia y profunda. La formación de las conciencias es nuestro primordial deber de caridad, y esto requiere delicadeza y perseverancia al llevarlo a la práctica.
+
+Ciertamente es aún actual la amenaza del lobo que desde fuera secuestra y agrede al rebaño, lo confunde, crea desorden, lo dispersa y lo destruye. El lobo tiene las mismas semblanzas: incomprensión, enemistad, maldad, persecución, eliminación de la verdad, resistencia a la bondad, cerrazón al amor, hostilidad cultural inexplicable, desconfianza, etc. Vosotros bien sabéis de qué material está hecha la insidia de los lobos de todo tipo. Pienso en los cristianos de Oriente, hacia quienes el asedio violento parece estar orientado, con el silencio cómplice de muchos, a su erradicación.
+
+No se pide la ingenuidad de los corderos, sino la magnanimidad de las palomas y la astucia y la prudencia del siervo sabio y fiel. Es bueno tener los ojos abiertos para reconocer de dónde vienen las hostilidades y para discernir los caminos posibles para contrarrestar sus causas y afrontar sus insidias. Así, pues, os aliento a no quedarse en un clima de asedio, a no ceder a la tentación de deprimirse, de convertirse en víctimas de quien nos critica, nos atormenta y algunas veces también nos denigra. Emplead vuestras mejores energías para hacer resonar también hoy en el alma de las Iglesias que servís la alegría y la potencia de las bienaventuranzas proclamadas por Jesús (cf. *Mt* 5, 11).
+
+Permanecer disponibles y felices de emplear (algunas veces también perder) tiempo con obispos, sacerdotes, religiosos, parroquias, instituciones culturales y sociales, en definitiva es lo que «hace el trabajo» del nuncio. En estas ocasiones se crean las condiciones para aprender, escuchar, hacer pasar mensajes, conocer problemas y situaciones personales o de gobiernos eclesiales que se deben afrontar y resolver. Y no hay nada que facilite el discernimiento y la posible corrección más que la cercanía, la disponibilidad y la fraternidad. Por ello para mí es muy importante: cercanía, disponibilidad y fraternidad con las Iglesias locales. No se trata de una supina estrategia para recoger informaciones y manipular realidades o personas, sino de una actitud de quien no es sólo un diplomático de carrera, o simplemente un instrumento de la solicitud de Pedro, sino también un Pastor dotado de la capacidad interior de testimoniar a Jesucristo. Superad la lógica de la burocracia que a menudo puede adueñarse de vuestro trabajo —se entiende, es natural— haciéndolo cerrado, indiferente e impermeable.
+
+Que la sede de la nunciatura apostólica sea verdaderamente la «*Casa del Papa*», no sólo para su tradicional fiesta anual, sino como lugar permanente, donde todo el equipo eclesial pueda encontrar apoyo y consejo, y las autoridades públicas un punto de referencia, no sólo para la función diplomática, sino por el carácter propio y único de la diplomacia pontificia. Vigilad a fin de que vuestras nunciaturas nunca se conviertan en refugio de los «amigos y amigos de los amigos». Huid de los chismosos y de los trepas.
+
+Que vuestra relación con la comunidad civil se inspire en la imagen evangélica del Buen Pastor, capaz de conocer y de representar las exigencias, las necesidades y la condición del rebaño, especialmente cuando los únicos criterios que los determinan son el desprecio, la precariedad y el descarte. No tengáis miedo de lanzaros hasta fronteras complejas y difíciles, porque sois Pastores a quienes importa de verdad el bien de las personas.
+
+En la ingente tarea de garantizar la libertad de la Iglesia ante toda forma de poder que quiera hacer callar la Verdad, no os ilusionéis con que esta libertad sea sólo fruto de arreglos, acuerdos y negociaciones diplomáticas, por más que sean perfectos y bien logrados. La Iglesia será libre sólo si sus instituciones pueden actuar para «anunciar el Evangelio a todos, en todos los lugares, en todas las ocasiones, sin demoras, sin asco y sin miedo» (Exhort. ap. *[Evangelii gaudium](http://w2.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html),* 23), incluso si se manifestara como verdadero signo de contradicción respecto a las modas actuales, a la negación de la Verdad evangélica y a las fáciles comodidades que con frecuencia contagian también a los Pastores y a su rebaño.
+
+Recordad que representáis a Pedro, roca que sobrevive al desbordamiento de las ideologías, a la reducción de la Palabra por conveniencia, a la sumisión a los poderes de este mundo que pasa. Por lo tanto, no pactéis con líneas políticas o batallas ideológicas, porque la permanencia de la Iglesia no se funda en los acuerdos de los salones o de las plazas, sino en la fidelidad a su Señor que, al contrario de los zorros y los pájaros, no tiene guarida ni nido para apoyar su cabeza (Cf. *Mt* 8, 18-22).
+
+La Iglesia esposa sólo puede apoyar su cabeza sobre el pecho traspasado de su Esposo. De allí brota su verdadero poder, el de la Misericordia. No tenemos el derecho de privar al mundo, también en los fórum de la acción diplomática bilateral y multilateral y en los grandes ámbitos del debate internacional, de esta riqueza que ningún otro puede donar. Ser conscientes de ello nos impulsa a dialogar con todos, y en muchos casos a hacernos voz profética de los marginados por su fe o su condición étnica, económica, social o cultural: «Que su grito se vuelva el nuestro y juntos podamos romper la barrera de la indiferencia que suele reinar campante para esconder la hipocresía y el egoísmo» (Bula *[Misericordiae vultus](http://w2.vatican.va/content/francesco/es/bulls/documents/papa-francesco_bolla_20150411_misericordiae-vultus.html),* 15).
+
+### 2 {#francis-spe-20160917-rappresentanti-pontifici.2}
+
+Acompañar a las Iglesias con el corazón de Pastores
+
+La multiplicidad y complejidad de los problemas que se han de afrontar en la vida diaria no os debe distraer del corazón de vuestra misión apostólica, que consiste en acompañar a las Iglesias con la mirada del Papa, que no es otra que la de Cristo, Buen Pastor.
+
+Y para acompañar hay que moverse. No es suficiente el frío papel de las misivas o de los informes. No es suficiente aprender de oídas. Es necesario ver *in loco* cómo se va difundiendo la buena semilla del Evangelio. No esperéis a que las personas vengan a vosotros para exponeros un problema o deseosas de resolver una cuestión. Visitad las diócesis, los institutos religiosos, las parroquias, los seminarios, para entender lo que vive, piensa y pide el Pueblo de Dios. Es decir, sed auténtica expresión de una Iglesia «en salida», de una Iglesia «hospital de campaña», capaces de vivir la dimensión de la Iglesia local, del país y de la institución a la cual sois enviados. Conozco la gran dimensión del trabajo que os espera, pero no dejéis que se ahogue vuestra alma de Pastores generosos y cercanos. Precisamente esta cercanía —¡cercanía!— es hoy condición esencial para la fecundidad de la Iglesia. Las personas necesitan ser acompañadas. Ellos necesitan una mano sobre los hombros para no equivocarse de camino o no desalentarse.
+
+Acompañar a los obispos sosteniendo sus mejores fuerzas e iniciativas. Ayudarles a afrontar los desafíos y a encontrar las soluciones que no se encuentran en los manuales, sino que son fruto del discernimiento paciente y difícil. Alentar todo esfuerzo para la cualificación del clero. La *profundidad* es un desafío decisivo para la Iglesia: profundidad de la fe, de la adhesión a Cristo, de la vida cristiana, del seguimiento y del discipulado. No son suficiente vagas prioridades y programas pastorales teóricos. Hay que apostar por la realidad concreta de la presencia, de la compañía, de la cercanía, del acompañamiento.
+
+Una seria preocupación mía es la selección de los futuros obispos. Os he mencionado esto en el año 2013. Hablando a la Congregación para los obispos hace poco, he trazado el perfil de los Pastores que considero necesarios para la Iglesia de hoy: testigos del Resucitado y no portadores de curriculum; obispos orantes, familiarizados con las cosas de lo «alto» y no aplastados por el peso de lo que viene desde «abajo»; obispos capaces de entrar «con paciencia» en la presencia de Dios, para poseer así la libertad de no traicionar el *Kerygma* que se les ha confiado; obispos pastores y no príncipes y funcionarios. ¡Por favor!
+
+En la compleja tarea de buscar en medio de la Iglesia aquellos que Dios ya ha identificado en su corazón para guiar a su Pueblo, una parte sustancial os toca a vosotros. Sois los primeros en tener que explorar los campos para aseguraros acerca del lugar donde están escondidos los pequeños David (cf. *1 Sam* 16, 11-13): están, Dios no permite que falten. Pero si vamos siempre a pescar en la pecera, no los encontraremos.
+
+Hay que moverse para buscarlos. Dar vueltas por los campos con el corazón de Dios y no con algún preestablecido perfil de cazadores de cabezas. La mirada con la cual se busca, los criterios para evaluar, los rasgos de la fisonomía buscada no pueden ser establecidos por los vanos intentos con los cuales pensamos poder programar en nuestras mesas de trabajo la Iglesia que soñamos. Por ello, hay que lanzar las redes mar adentro. No nos podemos conformar con pescar en las peceras, en la reserva o en el criadero de los «amigos de los amigos». Está en juego la confianza en el Señor de la historia y de la Iglesia, que nunca descuida el bien de la misma, y es por ello que no debemos irnos por las ramas. La pregunta práctica, que ahora se me ocurre decir, es: pero, ¿no hay nadie más? Es la pregunta de Samuel al padre de David: «¿No hay nadie más?» (cf. *1 Sam* 16, 11). Salir a buscar. ¡Y están! ¡Hay más!
+
+### 3 {#francis-spe-20160917-rappresentanti-pontifici.3}
+
+Acompañar a los pueblos donde está presente la Iglesia de Cristo
+
+Vuestro servicio diplomático es el ojo atento y lúcido del Sucesor de Pedro sobre la Iglesia y sobre el mundo. Os pido estar a la altura de tan noble misión, para la cual debéis prepararos continuamente. No se trata sólo de adquirir contenidos sobre temas, entre otras cosas cambiantes, sino de una disciplina de trabajo y de un estilo de vida que permita apreciar también las situaciones de rutina, de percibir los cambios actuales, de evaluar las novedades, saber interpretarlas con cautela y sugerir acciones concretas.
+
+Es la velocidad de los tiempos lo que pide una formación permanente, sin dar nada por supuesto. A veces la repetición del trabajo, los numerosos compromisos, la ausencia de nuevos estímulos alimenta una pereza intelectual que no tarda en producir sus frutos negativos. Una profundización seria y continua aportaría como beneficio superar esa fragmentación por la cual se busca realizar individualmente lo mejor posible el propio trabajo, pero sin alguna, o bien poca, coordinación e integración con los demás. No creáis que el Papa no es consciente de la soledad (no siempre «bienaventurada» como lo es para los eremitas y los santos) en la que viven no pocos representantes pontificios. Pienso siempre en vuestro estado de «exiliados», y en mis oraciones pido continuamente que no se debilite en vosotros esa piedra angular que permite la unidad interior y el sentido de profunda paz y fecundidad.
+
+La exigencia que deberíamos hacer cada vez más nuestra es la de trabajar en una red unitaria y coordinada, necesaria para evitar una visión personal que a menudo no se sostiene ante la realidad de la Iglesia local, del país o de la comunidad internacional. Se corre el riesgo de proponer una visión individual que ciertamente puede ser fruto de un carisma, de un profundo sentido eclesial y de capacidad intelectual, pero no es inmune a una cierta personalización, emotividad, sensibilidades diferentes y, también, situaciones personales que condicionan inevitablemente el trabajo y la colaboración.
+
+Son grandes los desafíos que nos esperan en nuestros días y no quiero hacer una lista. Vosotros los conocéis. Tal vez es incluso más sabio intervenir en sus raíces. El modo en el cual se va progresivamente plasmando, la diplomacia pontificia no puede estar ajena a la urgencia de hacer palpable la misericordia en este mundo herido y destrozado. La misericordia debe ser la cifra de la misión diplomática de un nuncio apostólico, quien, además del esfuerzo ético personal, tiene que contar con la firme convicción de que la misericordia de Dios se introduce en las vicisitudes de este mundo, en las vicisitudes de la sociedad, de los grupos humanos, de las familias, de los pueblos, de las naciones. También en el ámbito internacional, ella comporta el hecho de no considerar jamás perdido nada ni nadie. El ser humano nunca es irrecuperable. Ninguna situación es impermeable al sutil e irresistible poder de la bondad de Dios que nunca desiste respecto al hombre y su destino.
+
+Esta radical novedad de percepción de la misión diplomática libera al representante pontificio de intereses geopolíticos, económicos o militares inmediatos, llamándolo a discernir en sus primeros interlocutores gubernamentales, políticos y sociales y en las instituciones públicas el anhelo de servir el bien común y sacar lo mejor de este tramo, incluso si algunas veces se presenta obcecado o mortificado por intereses personales y corporativos o por derivas ideológicas, populistas o nacionalistas.
+
+La Iglesia, incluso sin desvalorizar el hoy, está llamada a trabajar a largo plazo, sin la obsesión de los resultados inmediatos. Debe soportar con paciencia situaciones difíciles y adversas o los cambios de proyecto que le impone el dinamismo de la realidad. Existirá siempre la tensión entre plenitud y límite, pero la Iglesia no necesita ocupar espacios de poder y de autoafirmación, sino hacer nacer y crecer la semilla buena, acompañar pacientemente su desarrollo, gozar con la cosecha precaria que se puede obtener, sin desalentarse cuando una inesperada y gélida tempestad arruina lo que parecía dorado y listo para la siega (cf. *Jn* 4, 35). Volver a comenzar con confianza nuevos procesos; reiniciar desde los pasos ya realizados, sin dar marcha atrás, favoreciendo lo que hace emerger lo mejor de las personas y de las instituciones, sin «nada de ansiedad, pero sí convicciones claras y tenacidad» (Exhort. ap. *[Evangelii gaudium](http://w2.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 223).
+
+No tengáis miedo de dialogar con confianza con las personas y las instituciones públicas. Afrontamos un mundo en el cual no es siempre fácil identificar los centros de poder y muchos se desalientan pensando que son anónimos e inalcanzables. Estoy convencido, en cambio, de que las personas aún son accesibles. Subsiste en el hombre el espacio interior donde puede resonar la voz de Dios. Dialogad con claridad y no tengáis miedo de que la misericordia pueda confundir o disminuir la belleza y la fuerza de la verdad. Sólo en la misericordia la verdad se realiza en plenitud. Y estad seguros de que la palabra última de la historia y de la vida no es el conflicto sino la unidad, la que anhela el corazón de todo hombre. Unidad conquistada transformando el dramático conflicto de la Cruz en la fuente de nuestra paz, porque allí fue derribado el muro de separación (cf. *Ef* 2, 14).
+
+Queridos hermanos:
+
+al enviaros de nuevo a vuestra misión, después de estos días de fraternos y gozosos encuentros, mi palabra conclusiva quiere encomendaros a la *alegría del Evangelio*. Nosotros no somos empleados del miedo y de la noche, sino custodios del alba y de la luz del Resucitado.
+
+El mundo tiene mucho miedo —¡mucho miedo!— y lo difunde. A menudo hace de él la clave de lectura de la historia y no pocas veces lo adopta como estrategia para construir un mundo fundado en muros y fosas. Podemos incluso comprender las razones del miedo, pero no podemos abrazarlo, porque «no nos dio el Señor a nosotros un espíritu de timidez, sino de fortaleza, de caridad y de templanza» (*2 Tm* 1, 7).
+
+Recurrid a ese espíritu, y poneos en marcha: abrid puertas; construid puentes; estrechad vínculos; cultivad amistades; promoved unidad. Sed hombres de oración: no la descuidéis nunca, sobre todo la adoración silenciosa, verdadera fuente de todo vuestro trabajo.
+
+El miedo habita siempre en la oscuridad del pasado, pero tiene una debilidad: es provisional. El futuro pertenece a la luz. El futuro es nuestro, porque pertenece a Cristo. ¡Gracias!
+
+Os invito a rezar juntos el Ángelus. Es mediodía. \[*Angelus*... Bendición...\]

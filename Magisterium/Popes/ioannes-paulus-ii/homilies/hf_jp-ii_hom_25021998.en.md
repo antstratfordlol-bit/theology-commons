@@ -1,0 +1,81 @@
+---
+id: jp2-hom-19980225.en
+work: jp2-hom-19980225
+title: "25 February 1998, Ash Wednesday"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Homily
+url_date: 1998-02-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/homilies/1998/documents/hf_jp-ii_hom_25021998.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it, pt"
+anchors: "{#jp2-hom-19980225.N} — numbered paragraphs 1..4 (4 anchors), shared with jp2-hom-19980225.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 25 February 1998, Ash Wednesday
+LENTEN STATION PRESIDED OVER BY THE HOLY FATHER\
+IN THE BASILICA OF ST. SABINA ON THE AVENTINE HILL
+
+## EUCHARISTIC CELEBRATION
+
+## HOMILY OF JOHN PAUL II
+
+*Ash Wednesday, 25 February 1998*
+
+### 1 {#jp2-hom-19980225.1}
+
+*“Return to me with all your heart, with fasting, with weeping, and with mourning.... Return to the Lord, your God”* (*Jl* 2:12-13).
+
+With the ancient prophet’s words today’s Ash Wednesday liturgy, preceded by the penitential procession, introduces us into Lent, a season of grace and spiritual rebirth: *“Return ... repent”.* At the beginning of the 40 days, these pressing appeals seek to establish a unique dialogue between God and man. Before the Lord who invites him to conversion, man makes his own the prayer of David by humbly confessing his sins:
+
+*“Have mercy on me, O God,\
+according to your steadfast love;\
+according to your abundant mercy\
+blot out my transgressions.\
+Wash me thoroughly from my iniquity,\
+and cleanse me from my sin!\
+For I know my transgressions,\
+and my sin is ever before me,\
+Against you, you alone, have I\
+sinned, and done that which is evil in your sight ...\
+Hide your face from my sins,\
+and blot out all my iniquities”* (*Ps* 50 \[51\]:1-4, 9).
+
+### 2 {#jp2-hom-19980225.2}
+
+The psalmist does not stop at confessing his own sins and asking forgiveness for them; he especially hopes for interior renewal from the Lord’s goodness: *“Create in me a clean heart, O God, and put a new and right spirit within me”* (*Ps* 50 \[51\]:10). Illumined by the Spirit about the devastating power of sin, he asks to become a new creature, to be, in a certain sense, created anew.
+
+This is the grace of Redemption! Faced with the sin that defiles the human heart, the Lord bends over his creature to renew the saving dialogue and to open for him new prospects of life and hope. Particularly during the Lenten season the Church reflects deeply on this mystery of salvation.
+
+To the sinner who wonders about his situation and whether he can still obtain God’s mercy, today’s liturgy replies with the Apostle’s words from the Second Letter to the Corinthians: *“For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God”* (5:21). In Christ, the heavenly Father’s boundless love for each person is proclaimed and offered to believers.
+
+### 3 {#jp2-hom-19980225.3}
+
+Here resounds the echo of what Isaiah announced from afar about the Servant of the Lord: *“All we like sheep have gone astray; we have turned every one to his own way; and the Lord has laid on him the iniquity of us all”* (*Is* 53:6).
+
+God hears the pleas of sinners who entreat him with David: *“Create in me a clean heart, O God”.* Jesus, the suffering servant, takes upon his shoulders the Cross, which represents the weight of all humanity’s sins, and starts out for Calvary, to fulfil by his death the work of Redemption. Jesus crucified is the image of God’s boundless mercy for every man.
+
+To remind us that *“with his stripes we are healed”* (*Is* 53:5), and to instil in us a horror of sin, the Church asks us to have frequent recourse to the devotion of the Via Crucis. For us here in Rome, the Via Crucis on Good Friday at the Colosseum is very significant: it gives us the opportunity of tangibly experiencing the powerful truth of the Redemption through the Cross, retracing in spirit the steps of the city’s first martyrs.
+
+### 4 {#jp2-hom-19980225.4}
+
+*“Hide your face from my sins, and blot out all my iniquities ... a broken and contrite heart, O God you will not despise”* (*Ps* 50 \[51\]:9, 17). This Lenten prayer is very moving!
+
+Man, created by God in his image and likeness, proclaims: *“Against you, you only, have I sinned, and done that which is evil in your sight”* (*Ps* 51 \[50\]: 4). Illumined by the grace of this penitential season, he feels the burden of the evil he has done and understands that God alone can deliver him. Then, from the depths of his misery, he exclaims in David’s words: *“Wash me thoroughly from my iniquity, and cleanse me from my sin!”*. Oppressed by sin, he implores God’s mercy, calls on his fidelity to the covenant, and asks him to fulfil his promise: *“Blot out all my iniquities”* (*Ps* 50 \[51\]:9).
+
+At the beginning of Lent, we pray that in the “favourable” season of these 40 days we may accept the Church’s invitation to conversion. We pray that during this journey towards Easter the memory of the saving dialogue between God and man, which the Ash Wednesday liturgy sets before us, may be renewed in the Church and in humanity.
+
+We pray that hearts will be prepared for the dialogue with God. For each individual he has a special word of forgiveness and salvation. May every heart willingly listen to God, to rediscover in his words the reasons for the hope that does not disappoint.
+
+Amen!

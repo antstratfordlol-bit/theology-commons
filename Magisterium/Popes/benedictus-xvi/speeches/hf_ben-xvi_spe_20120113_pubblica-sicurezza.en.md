@@ -1,0 +1,44 @@
+---
+id: b16-spe-20120113-pubblica-sicurezza.en
+work: b16-spe-20120113-pubblica-sicurezza
+title: "To members of the General Inspectorate for Public Security at the Vatican (January 13, 2012)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2012-01-13
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2012/january/documents/hf_ben-xvi_spe_20120113_pubblica-sicurezza.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, it, pt"
+anchors: "{#b16-spe-20120113-pubblica-sicurezza} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To members of the General Inspectorate for Public Security at the Vatican (January 13, 2012) {#b16-spe-20120113-pubblica-sicurezza}
+## ADDRESS OF HIS HOLINESS BENEDICT XVI TO THE INSPECTORATE OF PUBLIC SECURITY AT THE VATICAN
+
+*Clementine Hall\
+Friday, 13 January 2012*
+
+*\
+Distinguished Ladies and Gentlemen*,\
+*Dear Officials and Officers*,
+
+I am very pleased to welcome you this morning on the occasion of the exchange of greetings for the New Year 2012. I extend my greeting to your families and to those of your colleagues who have been unable to take part in this meeting because they are on duty in St Peter’s Square and in the neighbourhood of the Apostolic See. I address a special welcome to Dr Raffaele Aiello, the General Coordinator of the Police Inspectorate, whom I thank for his courteous words on your behalf and also on behalf of the representatives of the central and peripheral structures of the Ministry of the Interior with whom you work. I address my greeting to Prefect Salvatore Festa, and in a special way to you, Officials and Officers who offer your appreciated service “in the field”, I express my personal gratitude and that of my co-workers to all of you, for the valuable and discreet work you carry out.
+
+The service of public security, especially in an area visited by so many tourists and pilgrims from every part of the world, is no simple task. In fact, the See of Peter constitutes the centre of Christianity and the world’s Catholics wish to come, at least once in their life, to pray at the tombs of the Apostles. This presence, both of the Holy See and of the great number of cosmopolitan people who come to visit the centre of the Catholic Church, is certainly not a problem for the City of Rome nor for Italy as a whole; on the contrary it constitutes a treasure, and is a reason to boast! My hope is that while you observe the faithful who go to St Peter’s Basilica with joy, emotion and a profound Christian soul, your faith too may become increasingly robust and that your spirit may benefit from it, helping you to face life with conduct worthy of authentic Christians and mature citizens.
+
+Unfortunately the year that has just ended was also marked by episodes of violence and intolerance. In different parts of the world, the reprisals and attacks have often been aimed at Christians themselves, who have paid with their life for belonging to Christ and to the Church. In the Message on the occasion of the World Day of Peace, this 1 January, I wanted to stress the importance of educating young people in justice and in peace. These two terms are frequently used in our world but all too often in an equivocal manner. Justice is not simply a human convention; when in the name of a presumed justice the criteria of utility, profit and material possessions dominate, the value and dignity of the human person may be trampled upon (cf. [*Message for the World Day of Peace* 2012](https://www.vatican.va/content/benedict-xvi/en/messages/peace/documents/hf_ben-xvi_mes_20111208_xlv-world-day-peace.html), n. 4).
+
+Justice, in reality, is a virtue that directs the human will because it gives to the other what is “his” by reason of his being or his acting (cf. Encyclical Letter *[Caritas in Veritate](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html)*, n. 6). In the same way, peace is not merely the absence of war or solely the result of the human action to avoid it; it is first of all a gift of God that must be asked for with faith and that in Jesus Christ finds the way to achieve it. True peace, then, is a task to be undertaken daily with the contribution of compassion, solidarity, fraternity and the collaboration of each one (cf. [*Message for the World Day of Peace* 2012](https://www.vatican.va/content/benedict-xvi/en/messages/peace/documents/hf_ben-xvi_mes_20111208_xlv-world-day-peace.html), n. 5). It is profoundly linked to justice — motivated by truth in charity — that men and women are able to achieve by starting from the context in which they customarily live: the family, work, friendly relations.
+
+Dear friends, on your part, as a police force you are always authentic promoters of justice and sincere builders of peace. Let us pray the Mother of God, Queen of Peace, that she may support with her motherly intercession our resolutions and our work. Let us entrust to her the whole of the year 2012 so that it may be lived by all under the banner of reciprocal respect and the common good, hoping that no act of violence will be committed in the name of God, a supreme guarantee of justice and peace. With these sentiments, while I renew my gratitude to all of you and invoke upon each one of you and upon your work an abundance of heavenly favours, I very willingly impart a special Apostolic Blessing, that I extend with all my heart to your relatives and your loved ones. A Happy New Year to you all! Thank you. Please excuse the weakness of my voice.

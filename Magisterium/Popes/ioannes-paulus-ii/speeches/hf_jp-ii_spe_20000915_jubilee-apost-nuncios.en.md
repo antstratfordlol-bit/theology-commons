@@ -1,0 +1,83 @@
+---
+id: jp2-spe-20000915-jubilee-apost-nuncios.en
+work: jp2-spe-20000915-jubilee-apost-nuncios
+title: "To Apostolic Nuncios on their Jubilee (September 15, 2000)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2000-09-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2000/jul-sep/documents/hf_jp-ii_spe_20000915_jubilee-apost-nuncios.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-spe-20000915-jubilee-apost-nuncios.N} — numbered paragraphs 1..6 (6 anchors), shared with jp2-spe-20000915-jubilee-apost-nuncios.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To Apostolic Nuncios on their Jubilee (September 15, 2000)
+## JUBILEE OF APOSTOLIC NUNCIOS AND PAPAL REPRESENTATIVES
+
+## ADDRESS OF THE HOLY FATHER JOHN PAUL II*
+
+*Friday, 15 September 2000*
+
+*Dear Brothers in the Episcopate.*
+
+### 1 {#jp2-spe-20000915-jubilee-apost-nuncios.1}
+
+"Peace be with you" (*Jn* 20:19). I welcome you with Christ's Easter greeting to his Apostles, which harmonizes well with your Jubilee celebration today. Indeed, it aims at reconciliation and peace with God and with our brothers and sisters. This is true for all the faithful, but particularly for us Bishops, who are called to be "examples to the flock" (1 *Pt* 5:3).
+
+Everyone needs peace. In a special way, however, each of those who, like you, are participating in the "sollicitudo omnium ecclesiarum" proper to the Bishop of Rome, has the task of contributing with all his energy to the ministry of communion that Christ entrusted to Peter and to his Successors, and thus must be a "man in peace" and a "man of peace".
+
+This demanding task means that I feel particularly close to you even when you are in your offices, located in various parts of the world. Because of this closeness which is daily nourished and strengthened by prayer, I am pleased to extend my very cordial greetings to you today, in the context of the Great Jubilee. I would then like to offer a special word of affection to those among you who are more advanced in age and service, and have generously faced the "pondus diei et aestus" in places that are often difficult due to their sociopolitical situation or climate.
+
+### 2 {#jp2-spe-20000915-jubilee-apost-nuncios.2}
+
+You are, in fact, the Pope's representatives to national governments or supranational institutions, but, first and foremost, you are witnesses of his ministry of unity in the local Churches, to whose Pastors you assure the possibility of constant contact with the Apostolic See. Another task, which under the impetus of the Second Ecumenical Vatican Council has been growing in importance in recent years, is your service to that full unity of all Christians, the desire of Christ's heart and, consequently, also ardently desired by the Pope and by the Episcopal College. Moreover, we should not forget the great contribution you are called to make in the search for and consolidation of a harmonious relationship with all believers in God, and of sincere dialogue with people of good will.
+
+In this service you are following in the footsteps of many famous figures, some of whom shone for their authentic holiness of life. And how can we not forget with deep joy that the two Popes just recently presented as models of Christian virtue to the whole Church, Bl. Pius IX and Bl. John XXIII, were both, as it were, your "colleagues" in the diplomatic service of the Holy See? Certainly you feel them especially close and this encourages you in spiritual communion with them and in your desire to imitate their example.
+
+### 3 {#jp2-spe-20000915-jubilee-apost-nuncios.3}
+
+For each of you, the motto of Pope John XXIII in particular can be a very valid programme: *Oboedientia et pax.* Letting one's own deepest feelings be inspired by this will certainly be *an effective antidote* against the discouragement or sadness which could overwhelm you when a long-cherished initiative does not produce the desired results, when a step taken with the noblest of objectives is misunderstood, or even when less pleasant human aspects emerge in the situations of life or in the actual organization of your work. The Lord permits many things ... and we sometimes find it hard to recognize the threads of grace of which our lives and the events of history are woven.
+
+May the words of the Apostle Paul to the Romans then come to our rescue: "In everything God works for good with those who love him" (Rm 8:28). The spiritual secret of Bl. John XXIII consisted in his ability to *turn every situation into an opportunity for good,* with the inner power of prayer: his day, his anxieties, his joys and his sadnesses, the passing of the years.... In fact, anyone who reads his daily journal can only be fascinated by the richness of his spiritual life, nourished by constant dialogue with God in every circumstance, in daily fidelity even to obscure, monotonous or burdensome duties.
+
+This is a significant aspect of his holiness, together with respect for his collaborators for whom he had sentiments of paternal and fraternal affection. I am speaking here of a characteristic dimension of your experience in the Nunciatures where a small group of people lives in close, daily contact.
+
+Collaboration can sometimes be difficult, because of differences in age, nationality, upbringing and mentality. May the Lord grant that you create *a good working community,* for the benefit and edification of each one, as well as for the service entrusted to you.
+
+### 4 {#jp2-spe-20000915-jubilee-apost-nuncios.4}
+
+Here I would like to emphasize the Nuncio's commitment to the Church in the country to which he is sent as Papal Representative. It is an important and delicate service, to be carried out *in the ecclesiological perspective of communion,* emphasized by the Second Vatican Council (cf. *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html),* 9; [*CIC,* can. 364](http://www.vatican.va/archive/ENG1104/__P1B.HTM)). In fact it is a *service of communion* that you are called to render: a service that by its nature cannot be confined to cold bureaucratic intermediation but must be an *authentic pastoral presence.* The Nuncio - do not forget - *is also a Pastor,* and must make his own the spirit of Christ the "Good Shepherd"!
+
+If on the one hand he expresses this "pastorality" as a representative of Peter's Successor, on the other, he must feel himself fraternally close to the Pastors of the local Churches, sharing in their apostolic concern with prayer, witness and those forms of presence and ministry that are timely and useful to the People of God, with respect for each Bishop's individual responsibility.
+
+When lived in this way, dear Nuncios, your ministry will clearly create the necessary bond between the particular and universal dimensions of the Church. By helping the Successor of Christ to tend Christ's flock, you help the particular Churches to grow and to develop. In this service you may often find yourselves facing problems, difficulties and tensions. I warmly thank you for the very valuable contribution of your experience, through which you combine sensitivity for the Churches and societies in which you work with fidelity to the inspiring guidelines of the action of the Holy See, in both the ecclesial and civil sectors.
+
+### 5 {#jp2-spe-20000915-jubilee-apost-nuncios.5}
+
+Actually, the possibility of having a direct experience of *legitimate diversity* in the Church while respecting *the rightful unity* is a gift that is certainly a cause of human and spiritual enrichment for you and compensates you in some way for the sacrifices you have faced in changes of climate, language, mentality, culture and living conditions. During my apostolic journeys, I have had opportunities to know you better, visiting you in your respective work places. I remember that I once said to one of you, when I was about to take my leave: "Today is the day of liberation for you". With that playful remark I intended to show that I had understood what the preparation and organization of an Apostolic Visit means for a Nuncio; it was a way of expressing my appreciation, which I reiterate here to each of you.
+
+I have great esteem for your commitment to acting as intermediaries between the Holy See and the local Episcopates, as well as for all the work of mediation that you carry out with regard to the political and social institutions of the countries in which you work, or in the relationship with the international organizations to which you are sent. Your constant goal is to promote peace, genuine peace, which only exists when it rests on pillars of truth, justice, freedom and solidarity (cf. Encyclical *[Pacem in terris](http://www.vatican.va/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem_en.html),* 49-55; 64). This commitment, as you well know, is expressed in practice in the fight against poverty and the promotion of integral human development, because it is only on these premises that true and lasting peace can be founded among the earth's peoples, with respect for the fundamental rights of the human person who is an image of God.
+
+### 6 {#jp2-spe-20000915-jubilee-apost-nuncios.6}
+
+In your work you can count on the prestige of a diplomacy with a centuries-old history which has been enriched by the contribution of men celebrated for their balance, wisdom and keen sense of Church. May their example remain for each of you as a paradigm to look to for direction and support.
+
+However, over and above every even noble human reference, the true light comes to you from Christ and from his Gospel. The gifts of human prudence, intelligence and sensitivity must be wedded, in each of you, to the spirit of the Beatitudes. In a certain sense the "diplomacy of the Gospel" must be yours! Here, *in this spiritual aspiration,* your strength and secret lie. For this reason faith in Christ must be the flame that brightens and warms each one of your days.
+
+You have wished to confirm and strengthen this faith with your Jubilee pilgrimage. You have made it, in some cases, with many sacrifices. In expressing my gratitude to you also for this testimony of faith and communion, I assure you of my constant remembrance in prayer. Today I also celebrated Mass for all the Nuncios.
+
+I entrust each of you and your work to the maternal protection of the Most Holy Virgin and, in also asking you for the kindness of remembering me and my ministry frequently, especially in the celebration of Holy Mass, I affectionately impart to each one of you my Apostolic Blessing, which I willingly extend to those who work with you and to your loved ones.
+
+\**L'Osservatore Romano. Weekly Edition in English* n. 38 p. 3.

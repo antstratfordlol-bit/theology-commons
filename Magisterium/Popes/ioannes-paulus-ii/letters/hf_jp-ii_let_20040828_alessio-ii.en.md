@@ -1,0 +1,48 @@
+---
+id: jp2-let-20040828-alessio-ii.en
+work: jp2-let-20040828-alessio-ii
+title: "Letter to His Holiness Aleksij II on the occasion of the return to Russia of the Icon of Our Lady of Kazan' (August 28, 2004)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Letter
+url_date: 2004-08-28
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/letters/2004/documents/hf_jp-ii_let_20040828_alessio-ii.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt, ru"
+anchors: "{#jp2-let-20040828-alessio-ii} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Letter to His Holiness Aleksij II on the occasion of the return to Russia of the Icon of Our Lady of Kazan' (August 28, 2004) {#jp2-let-20040828-alessio-ii}
+## LETTER OF THE HOLY FATHER JOHN PAUL II TO HIS HOLINESS ALEKSIJ II
+
+## on the occasion of the return to Russia of the Icon of Our Lady of Kazan
+
+*To His Holiness Aleksij II\
+Patriarch of Moscow and All Russia*
+
+After a lengthy period of trials and sufferings endured by the Russian Orthodox Church and the Russian people in the last century, the Lord of history, who disposes all things in accordance with his will, today gives us common joy and hope as the Icon of the Mother of God of Kazan returns to her native land.
+
+In the joy and the sentiments of communion which I have always felt, together with my Predecessors who were ever concerned for the Russian people, I rejoice that Your Holiness today receives the Delegation which I have sent to you.  Led by Cardinals Walter Kasper and Theodore Edgar McCarrick, the Delegation has been charged with consigning to you this sacred Icon, so closely linked to the faith and the history of Christians in Russia.
+
+By a mysterious design of Divine Providence, during the long years of her pilgrimage the Mother of God in her sacred Icon known as *Kazanskaya* has gathered about her the Orthodox faithful and their Catholic brethren from other parts of the world, who have fervently prayed for the Church and the people whom she has protected down the centuries.  More recently, Divine Providence made it possible for the people and the Church in Russia to recover their freedom and for the wall separating Eastern Europe from Western Europe to fall.  Despite the division which sadly still persists between Christians, this sacred Icon appears as a symbol of the unity of the followers of the Only-begotten Son of God, the One to whom she herself leads us.
+
+The Bishop of Rome has prayed before this sacred Icon, asking that the day may come when we will all be united and able to proclaim to the world, with one voice and in visible communion, the salvation of our one Lord and his triumph over the evil and impious forces which seek to damage our faith and our witness of unity.
+
+Today I join you in prayer, dear Brother, along with the Bishops of the Russian Orthodox Church, the priests, monks and nuns, and the People of God in the land of Russia.  United in this prayer are all the sons and daughters of the Catholic Church in their profound devotion and veneration for the Holy Mother of God.  May this venerable image guide us along the path of the Gospel in the footsteps of Christ, protecting the people to whom she now returns, and all humanity.  May the Holy Mother of God turn her maternal gaze towards the men and women of our time; may she help believers not to stray from the path which God has set before them: the proclamation of Jesus Christ, *the Way, and the Truth and the Life*, and a courageous testimony to their faith before society and before all the nations.  Today we pray with confidence to the Most Holy Virgin, knowing that she implores for us and for all nations the gift of peace.
+
+With these sentiments of charity, in the joy of the event which we today celebrate, and with our eyes lifted to the Holy Mother of God, I exchange with Your Holiness a fraternal kiss in our Lord.
+
+*From the Vatican, 25 August 2004*
+
+## JOHN PAUL II

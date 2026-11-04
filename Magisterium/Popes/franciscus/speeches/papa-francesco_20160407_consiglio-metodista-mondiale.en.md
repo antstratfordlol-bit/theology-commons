@@ -1,0 +1,43 @@
+---
+id: francis-spe-20160407-consiglio-metodista-mondiale.en
+work: francis-spe-20160407-consiglio-metodista-mondiale
+title: "To the delegation of the World Methodist Council (7 April 2016)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2016-04-07
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2016/april/documents/papa-francesco_20160407_consiglio-metodista-mondiale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#francis-spe-20160407-consiglio-metodista-mondiale} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the delegation of the World Methodist Council (7 April 2016) {#francis-spe-20160407-consiglio-metodista-mondiale}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO THE DELEGATION OF THE WORLD METHODIST COUNCIL
+
+*Thursday, 7 April 2016*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2016/4/7/consigliometodista.html)\]
+
+*Dear brothers and sisters*,
+
+I offer warm greetings to you in this Easter season, as we celebrate the resurrection of our Lord who enlightens the whole world. I wish to thank you for the kind words addressed to me. We come together united in the faith that Jesus is Lord and that God has raised him from the dead.  This baptismal faith makes us truly brothers and sisters.  I greet also the bodies that you represent: the World Methodist Council, the Methodist Council of Europe and the Methodist Church in Britain.
+
+I was pleased to learn of the opening of the Methodist Ecumenical Office in Rome. It is a sign of our growing closeness, and particularly of our shared desire to overcome all that stands in the way of our full communion. May the Lord bless the work of the office and make it a place where Catholics and Methodists can encounter one another and grow in appreciation of one another’s faith, whether they be groups of pilgrims, those training for ministry, or those who guide their communities. May it also be a place where the progress achieved through our theological dialogue is made known, celebrated, and advanced.
+
+Almost fifty years have passed since our joint commission began its work. Although differences remain, ours is a dialogue based on respect and fraternity, one which enriches both our communities. The document currently being prepared, which should be published later this year, clearly witnesses to this. Building on the Methodist acceptance of the Joint Declaration on the Doctrine of Justification, it has as its theme “The Call to Holiness”. Catholics and Methodists have much to learn from one another in how we understand holiness and how it can be lived out. We both must do what we can to ensure that members of our respective congregations meet regularly, come to know one another, and encourage one another to seek the Lord and his grace. When we read the Scriptures, either alone or in a group, but always in an atmosphere of prayer, we open ourselves to the Father’s love, given in his Son and in the Holy Spirit. Even where differences remain between our communities, these can and must become the impetus for reflection and dialogue.
+
+John Wesley, in his *Letter to a Roman Catholic*, wrote that Catholics and Methodists are called to “help each other on in whatever … leads to the Kingdom”. May the new common statement encourage Methodists and Catholics to help one another in our lives of prayer and devotion.  In the same letter, Wesley also wrote, “if we cannot as yet think alike in all things, at least we may love alike”.  It is true that we do not as yet think alike in all things, and that on issues regarding ordained ministries and ethics, much work remains to be done. However, none of these differences constitute such an obstacle as to prevent us from loving in the same way and offering a common witness to the world. Our lives of holiness must always include a loving service to the world; Catholics and Methodists together are bound to work in different ways in order to give concrete witness to the love of Christ. When we serve those in need, our communion grows.
+
+In today’s world, afflicted by so much evil, it is more than ever vital that as Christians we offer a joint witness inspired by the light of Easter, becoming a sign of the love of God, which in the resurrection of Jesus is victorious.  May this love, also through our humble and courageous service, reach the hearts and lives of our many brothers and sisters who are looking for such love even without knowing it. “Thanks be to God, who gives us the victory through our Lord Jesus Christ” (1 Cor 15: 57).

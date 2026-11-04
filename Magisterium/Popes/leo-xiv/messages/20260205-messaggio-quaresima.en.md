@@ -1,0 +1,81 @@
+---
+id: leo14-mes-20260205-quaresima.en
+work: leo14-mes-20260205-quaresima
+title: "Lent 2026: Listening and Fasting: Lent as a Time of Conversion"
+creator: "Leo PP. XIV"
+pope: Leo XIV
+document-type: Message
+url_date: 2026-02-05
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/leo-xiv/en/messages/lent/documents/20260205-messaggio-quaresima.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt, zh_cn, zh_tw"
+anchors: "{#leo14-mes-20260205-quaresima} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Lent 2026: Listening and Fasting: Lent as a Time of Conversion {#leo14-mes-20260205-quaresima}
+## MESSAGE OF POPE LEO XIV FOR LENT 2026
+
+\[[**Multimedia**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/2/13/messaggio-quaresima.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Listening and Fasting: Lent as a Time of Conversion
+
+*Dear brothers and sisters,*
+
+Lent is a time in which the Church, guided by a sense of maternal care, invites us to place the mystery of God back in the center of our lives, in order to find renewal in our faith and keep our hearts from being consumed by the anxieties and distractions of daily life.
+
+Every path towards conversion begins by allowing the word of God to touch our hearts and welcoming it with a docile spirit. There is a relationship between the word, our acceptance of it and the transformation it brings about. For this reason, the Lenten journey is a welcome opportunity to heed the voice of the Lord and renew our commitment to following Christ, accompanying him on the road to Jerusalem, where the mystery of his passion, death and resurrection will be fulfilled.
+
+*Listening*
+
+This year, I would first like to consider the importance of making room for the word through *listening*. The willingness to listen is the first way we demonstrate our desire to enter into relationship with someone.
+
+In revealing himself to Moses in the burning bush, God himself teaches us that listening is one of his defining characteristics: “I have observed the misery of my people who are in Egypt; I have heard their cry” (*Ex* 3:7). Hearing the cry of the oppressed is the beginning of a story of liberation in which the Lord calls Moses, sending him to open a path of salvation for his children who have been reduced to slavery.
+
+Our God is one who seeks to involve us. Even today he shares with us what is in his heart. Because of this, listening to the word in the liturgy teaches us to listen to the truth of reality. In the midst of the many voices present in our personal lives and in society, Sacred Scripture helps us to recognize and respond to the cry of those who are anguished and suffering. In order to foster this inner openness to listening, we must allow God to teach us how to listen *as he does*. We must recognize that “the condition of the poor is a cry that, throughout human history, constantly challenges our lives, societies, political and economic systems, and, not least, the Church.” [\[1\]](#_ftn1){#_ftnref1 .cleaner} ^^\[\]^^
+
+*Fasting*
+
+If Lent is a time for listening, *fasting* is a concrete way to prepare ourselves to receive the word of God. Abstaining from food is an ancient ascetic practice that is essential on the path of conversion. Precisely because it involves the body, fasting makes it easier to recognize what we “hunger” for and what we deem necessary for our sustenance. Moreover, it helps us to identify and order our “appetites,” keeping our hunger and thirst for justice alive and freeing us from complacency. Thus, it teaches us to pray and act responsibly towards our neighbor.
+
+With spiritual insight, Saint Augustine helps us to understand the tension between the present moment and the future fulfilment that characterizes this custody of the heart. He observes that: “In the course of earthly life, it is incumbent upon men and women to hunger and thirst for justice, but to be satisfied belongs to the next life. Angels are satisfied with this bread, this food. The human race, on the other hand, hungers for it; we are all drawn to it in our desire. This reaching out in desire expands the soul and increases its capacity.” [\[2\]](#_ftn2){#_ftnref2 .cleaner} Understood in this way, fasting not only permits us to govern our desire, purifying it and making it freer, but also to expand it, so that it is directed towards God and doing good.
+
+However, in order to practice fasting in accordance with its evangelical character and avoid the temptation that leads to pride, it must be lived in faith and humility. It must be grounded in communion with the Lord, because “those who are unable to nourish themselves with the word of God do not fast properly.” [\[3\]](#_ftn3){#_ftnref3 .cleaner} As a visible sign of our inner commitment to turn away from sin and evil with the help of grace, fasting must also include other forms of self-denial aimed at helping us to acquire a more sober lifestyle, since “austerity alone makes the Christian life strong and authentic.” [\[4\]](#_ftn4){#_ftnref4 .cleaner}
+
+In this regard, I would like to invite you to a very practical and frequently unappreciated form of abstinence: that of refraining from words that offend and hurt our neighbor. Let us begin by disarming our language, avoiding harsh words and rash judgement, refraining from slander and speaking ill of those who are not present and cannot defend themselves. Instead, let us strive to measure our words and cultivate kindness and respect in our families, among our friends, at work, on social media, in political debates, in the media and in Christian communities. In this way, words of hatred will give way to words of hope and peace.
+
+*Together*
+
+Finally, Lent emphasizes the communal aspect of listening to the word and fasting. The Bible itself underlines this dimension in multiple ways. For example, the Book of Nehemiah recounts how the people gathered to listen to the public reading of the Law, preparing to profess their faith and worship through fasting, so as to renew the covenant with God (cf. 9:1-3).
+
+Likewise, our parishes, families, ecclesial groups and religious communities are called to undertake a shared journey during Lent, in which listening to the word of God, as well as to the cry of the poor and of the earth, becomes part of our community life, and fasting a foundation for sincere repentance. In this context, conversion refers not only to one’s conscience, but also to the quality of our relationships and dialogue. It means allowing ourselves to be challenged by reality and recognizing what truly guides our desires — both within our ecclesial communities and as regards humanity’s thirst for justice and reconciliation.
+
+Dear friends, let us ask for the grace of a Lent that leads us to greater attentiveness to God and to the least among us. Let us ask for the strength that comes from the type of fasting that also extends to our use of language, so that hurtful words may diminish and give way to a greater space for the voice of others. Let us strive to make our communities places where the cry of those who suffer finds welcome, and listening opens paths towards liberation, making us ready and eager to contribute to building a civilization of love.
+
+I impart my heartfelt blessing upon all of you and your Lenten journey.
+
+*From the Vatican, 5 February 2026, Memorial of Saint Agatha, Virgin and Martyr*
+
+LEO PP. XIV
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+[\[1\]](#_ftnref1){#_ftn1 .cleaner} Apostolic Exhortation *[Dilexi Te](https://www.vatican.va/content/leo-xiv/fr/apost_exhortations/documents/20251004-dilexi-te.html)* (4 October 2025), 9.
+
+[\[2\]](#_ftnref2){#_ftn2 .cleaner} Augustine *The Usefulness of Fasting*, 1, 1.
+
+[\[3\]](#_ftnref3){#_ftn3 .cleaner} Benedict XVI, *[Catechesis](https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110309.html)* (9 March 2011).
+
+[\[4\]](#_ftnref4){#_ftn4 .cleaner} Paul VI, *Catechesis* (8 February 1978).

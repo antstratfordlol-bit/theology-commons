@@ -1,0 +1,48 @@
+---
+id: b16-hom-20130125-vespri.es
+work: b16-hom-20130125-vespri
+title: "25 de enero de 2013: Fiesta de la conversión del apóstol san Pablo - Celebración de las Vísperas"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Homily
+url_date: 2013-01-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/homilies/2013/documents/hf_ben-xvi_hom_20130125_vespri.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-hom-20130125-vespri} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 25 de enero de 2013: Fiesta de la conversión del apóstol san Pablo - Celebración de las Vísperas {#b16-hom-20130125-vespri}
+[CELEBRACIÓN DE LAS VÍSPERAS\
+AL FINAL DE LA SEMANA DE ORACIÓN\
+POR LA UNIDAD DE LOS CRISTIANOS](http://www.vatican.va/news_services/liturgy/libretti/2013/20130125.pdf)
+
+## HOMILÍA DEL SANTO PADRE BENEDICTO XVI
+
+Fiesta de la conversión de san Pablo\
+Basílica de San Pablo Extramuros, viernes 25 de enero de 2013*
+
+*Queridos hermanos y hermanas:*
+
+Es siempre una alegría y una gracia especial reencontrarnos juntos, en torno a la tumba del apóstol Pablo, para concluir la Semana de oración por la unidad de los cristianos. Saludo con afecto a los cardenales presentes, en primer lugar al cardenal Harvey, arcipreste de esta basílica, y con él al abad de la comunidad de los monjes que nos acogen. Saludo al cardenal Koch, presidente del Consejo pontificio para la promoción de la unidad de los cristianos, y a todos los colaboradores del dicasterio. Dirijo mis cordiales y fraternos saludos a su eminencia el metropolita Gennadios, representante del patriarca ecuménico, al reverendo canónigo Richardson, representante personal en Roma del arzobispo de Canterbury, y a todos los representantes de las distintas Iglesias y Comunidades eclesiales, llegados aquí esta tarde. Además, me es particularmente grato saludar a los miembros de la Comisión mixta para el diálogo teológico entre la Iglesia católica y las Iglesias ortodoxas orientales, a quienes deseo un fructífero trabajo en la sesión plenaria que se está celebrando estos días en Roma, así como a los estudiantes del *Ecumenical Institute of Bossey*, de visita en Roma para profundizar en su conocimiento de la Iglesia católica, y a los jóvenes ortodoxos y ortodoxos orientales que estudian aquí. Saludo finalmente a todos los presentes, reunidos para orar por la unidad de todos los discípulos de Cristo.
+
+Esta celebración se enmarca en el contexto del *[Año de la fe](http://www.vatican.va/special/annus_fidei/index_sp.htm)*, iniciado el pasado 11 de octubre, cincuentenario de la apertura del Concilio Vaticano II. La comunión en la misma fe es la base para el ecumenismo. La unidad, de hecho, la dona Dios como inseparable de la fe; lo expresa de manera eficaz san Pablo: «Un solo cuerpo y un solo Espíritu, como una sola es la esperanza de la vocación a la que habéis sido convocados. Un Señor, una fe, un bautismo. Un Dios, Padre de todos, que está sobre todos, actúa por medio de todos y está en todos» (*Ef* 4, 4-6). La profesión de la fe bautismal en Dios, Padre y Creador, que se ha revelado en el Hijo Jesucristo, infundiendo el Espíritu que vivifica y santifica, ya une a los cristianos. Sin la fe —que es primariamente don de Dios, pero también respuesta del hombre— todo el movimiento ecuménico se reduciría a una forma de «contrato» al que adherirse por un interés común. El Concilio Vaticano IIrecuerda que los cristianos, «cuanto más estrecha sea su comunión con el Padre, el Verbo y el Espíritu, más íntima y fácilmente podrán aumentar la fraternidad mutua» (Decr. *[Unitatis redintegratio](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html)*, 7). Las cuestiones doctrinales que aún nos dividen no deben descuidarse o minimizarse. Antes bien hay que afrontarlas con valentía, en un espíritu de fraternidad y de respeto recíproco. El diálogo, cuando refleja la prioridad de la fe, permite abrirse a la acción de Dios con la firme confianza de que solos no podemos construir la unidad, sino que es el Espíritu Santo quien nos guía hacia la plena comunión, y permite percibir la riqueza espiritual presente en las diversas Iglesias y Comunidades eclesiales.
+
+En la sociedad actual parece que el mensaje cristiano incide cada vez menos en la vida personal y comunitaria; y esto representa un desafío para todas las Iglesias y las Comunidades eclesiales. La unidad es en sí misma un medio privilegiado, casi un presupuesto para anunciar de manera cada vez más creíble la fe a quienes no conocen aún al Salvador, o que, incluso habiendo recibido el anuncio del Evangelio, casi han olvidado este don precioso. El escándalo de la división que mellaba la actividad misionera fue el impulso que dio inicio al movimiento ecuménico como hoy lo conocemos. La comunión plena y visible entre los cristianos se debe entender, de hecho, como una característica fundamental para un testimonio más claro todavía. Mientras estamos en camino hacia la unidad plena, es necesario entonces perseguir una colaboración concreta entre los discípulos de Cristo por la causa de la transmisión de la fe al mundo contemporáneo. Hoy existe gran necesidad de reconciliación, de diálogo y de comprensión recíproca, en una perspectiva no moralista, sino precisamente en nombre de la autenticidad cristiana por una presencia más incisiva en la realidad de nuestro tiempo.
+
+La verdadera fe en Dios además es inseparable de la santidad persona, igual que de la búsqueda de la justicia. En la Semana de oración por la unidad de los cristianos, que hoy concluye, el tema ofrecido a nuestra meditación era: «¿Qué exige el Señor de nosotros?», inspirado en las palabras del profeta Miqueas que hemos escuchado (cf. 6, 6-8). Lo propuso el *Student Christian Movement in India*, en colaboración con la *All India Catholic University Federation* y el *National Council of Churches in India*, que han preparado también los materiales para la reflexión y la oración. A cuantos han colaborado deseo expresar mi viva gratitud y, con gran afecto, aseguro mi oración a todos los cristianos de la India, que a veces están llamados a dar testimonio de su fe en condiciones difíciles. «Caminar humildemente con Dios» (cf. *Miq* 6, 8) significa ante todo caminar en la radicalidad de la fe, como Abrahán, fiándose de Dios, más aún, poniendo en Él toda nuestra esperanza y aspiración; pero significa también caminar más allá de las barreras, más allá del odio, del racismo y de la discriminación social y religiosa que dividen y perjudican a toda la sociedad. Como afirma san Pablo, los cristianos deben ofrecer los primeros un luminoso ejemplo en la búsqueda de la reconciliación y de la comunión en Cristo, que supere todo tipo de división. En la *Carta a los Gálatas*, el apóstol de los gentiles afirma: «Todos sois hijos de Dios por la fe en Cristo Jesús. Cuantos habéis sido bautizados en Cristo, os habéis revestido de Cristo. No hay judío y griego, esclavo y libre, hombre y mujer, porque todos vosotros sois uno en Cristo Jesús» (3, 26-28).
+
+Nuestra búsqueda de unidad en la verdad y en el amor, finalmente, jamás debe perder de vista la percepción de que la unidad de los cristianos es obra y don del Espíritu Santo y va mucho más allá de nuestros esfuerzos. Por lo tanto, el ecumenismo espiritual, especialmente la oración, es el corazón del compromiso ecuménico (cf. decr. *[Unitatis redintegratio](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html)*, 8). Sin embargo, el ecumenismo no dará frutos duraderos si no se acompaña de gestos concretos de conversión que muevan a las conciencias y favorezcan la sanación de los recuerdos y de las relaciones. Como afirma el Decreto sobre el ecumenismo, del Concilio Vaticano II, «el auténtico ecumenismo no se da sin la conversión interior» (n. 7). Una auténtica conversión, como la que sugiere el profeta Miqueas y de la que el apóstol Pablo es un ejemplo significativo, nos acercará más a Dios, al centro de nuestra vida, de manera que nos acerquemos más también los unos a los otros. Es este un elemento fundamental de nuestro compromiso ecuménico. La renovación de la vida interior de nuestro corazón y de nuestra mente, que se refleja en la vida cotidiana, es crucial en todo diálogo y camino de reconciliación, haciendo del ecumenismo un compromiso recíproco de comprensión, respeto y amor, «para que el mundo crea» (*Jn* 17, 21).
+
+Queridos hermanos y hermanas, invoquemos con confianza a la Virgen María, modelo incomparable de evangelización, para que la Iglesia, «signo e instrumento de la unión íntima con Dios y de la unidad de todo el género humano» (const. *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 1), anuncie con franqueza, también en nuestro tiempo, a Cristo Salvador. Amén.

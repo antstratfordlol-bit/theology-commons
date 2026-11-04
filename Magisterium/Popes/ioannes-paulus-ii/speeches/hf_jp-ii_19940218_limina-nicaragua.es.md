@@ -1,0 +1,90 @@
+---
+id: jp2-spe-19940218-limina-nicaragua.es
+work: jp2-spe-19940218-limina-nicaragua
+title: "A los obispos de Nicaragua en visita «ad limina» (18 de febrero de 1994)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1994-02-18
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1994/february/documents/hf_jp-ii_19940218_limina-nicaragua.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "es, it"
+anchors: "{#jp2-spe-19940218-limina-nicaragua.N} — numbered paragraphs 1..9 (9 anchors), shared with "
+anchor_check: "identical across es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los obispos de Nicaragua en visita «ad limina» (18 de febrero de 1994)
+***DISCURSO DEL SANTO PADRE JUAN PABLO II\
+A LOS OBISPOS DE NICARAGUA EN VISITA «AD LIMINA»**
+
+Viernes 18 de febrero de 1994*
+
+*Venerables hermanos en el episcopado*:
+
+### 1 {#jp2-spe-19940218-limina-nicaragua.1}
+
+Os doy mi más cordial bienvenida a este encuentro con el que culmina vuestra visita “ ad limina Apostolorum ”, que me permite renovaros la expresión de mi profundo afecto, que extiendo de corazón a los queridos sacerdotes, religiosos, religiosas y fieles de vuestras respectivas diócesis. Con esta venida a Roma, centro de la catolicidad, queréis poner aún más de manifiesto la íntima comunión en la fe y en la caridad con la Sede Apostólica. Por ello, con palabras de san Pablo, “doy gracias a Dios sin cesar por vosotros, por el favor que os ha concedido mediante Cristo Jesús, pues en Él habéis sido enriquecidos en todo...” (*1Co* 1, 4-5).
+
+Tras agradecer vivamente las amables palabras que, en nombre de todos, ha tenido a bien dirigirme el Señor Cardenal Miguel Obando Bravo, Arzobispo de Managua y Presidente de la Conferencia Episcopal, deseo expresar mi aprecio por vuestra voluntad y esfuerzo en mantener y acrecentar vuestra unión como Pastores de la Iglesia en Nicaragua; bien sabéis la importancia de este testimonio que edifica al Pueblo de Dios y que ha de surgir de motivaciones profundas y sobrenaturales. La plegaria del Señor “que todos sean uno” (*Jn* 17, 21) ha de hacerse vida en vuestros presbiterios, en las comunidades religiosas, parroquias y movimientos apostólicos.
+
+Los coloquios personales con cada uno de vosotros, junto con las relaciones quinquenales, me han servido para acercarme con mayor conocimiento a la realidad de la Iglesia nicaragüense, con sus luces y sombras, pero siempre animada por el celo pastoral para conseguir en vuestras comunidades una profunda renovación de toda la vida cristiana, siguiendo las directrices del Concilio Vaticano II. Movido por mi deseo de confirmar vuestros esfuerzos y alentar vuestras tareas, he aquí algunas reflexiones sobre temas que vosotros mismos, como Pastores de la Iglesia, habéis compartido conmigo y que forman parte de los objetivos prioritarios del ministerio episcopal.
+
+### 2 {#jp2-spe-19940218-limina-nicaragua.2}
+
+La *IV Conferencia General del Episcopado Latinoamericano*, que tuvo lugar en Santo Domingo, ha puesto particularmente de relieve los graves desafíos pastorales de nuestro tiempo y “ha querido perfilar las líneas fundamentales de un nuevo impulso evangelizador que ponga a Cristo en el corazón y la vida de todos los latinoamericanos. Ésta es nuestra tarea: hacer que la verdad sobre Cristo, la Iglesia y el hombre penetre cada vez más profundamente en todos los estratos de la sociedad en búsqueda de su progresiva transformación” (Patrum IV Confer. Gen. Episc. Americae Latinae, *Nuntius ad gentes Americae Latinae*, 3). Y ésta es la meta que también vosotros, queridos Hermanos, os habéis propuesto, haciendo propias las Conclusiones de la Asamblea de Santo Domingo. Tal y no otro ha de ser vuestro objetivo, pues la Iglesia está llamada a iluminar, desde el Evangelio, todos los ámbitos de la vida del hombre y de la sociedad. Y ha de hacerlo desde su fin propio, que “es de orden religioso. Pero precisamente de esta misma misión religiosa –enseña el Concilio Vaticano II– derivan funciones, luces y energías que pueden servir para establecer y consolidar la comunidad humana según la ley divina” (*[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)*, 42). En efecto, la Iglesia, por su vocación de servicio al hombre en todas sus dimensiones, alienta todo aquello que pueda favorecer el bien común de la sociedad y se esfuerza por ser siempre “signo y salvaguardia del carácter transcendente de la persona humana” (*Ibíd*., 76). Por eso, como pone de relieve el mismo documento conciliar, “la Iglesia... por razón de su misión y de su competencia, no se confunde en modo alguno con la comunidad política ni está ligada a sistema político alguno” (*Ibíd.*). Sin embargo, ella tiene que iluminar también las realidades temporales con los valores y criterios del Evangelio (cf. *Ibíd.*).
+
+### 3 {#jp2-spe-19940218-limina-nicaragua.3}
+
+En las actuales circunstancias por las que atraviesa vuestro país es preciso dedicar gran atención a la formación de los laicos, abriéndoles caminos para que colaboren más intensamente en la vida y misión de la Iglesia. A ellos les corresponde “impregnar y perfeccionar todo el orden temporal con el espíritu evangélico” (*[Apostolicam actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_sp.html)*, 5), ejerciendo “su apostolado en el mundo a manera de fermento” (*Ibíd*., 2).
+
+Su vocación cristiana debe impulsar a los laicos a vivir en medio de las realidades temporales como constructores de paz y armonía, y como decididos colaboradores en el bien común. Ellos han de promover la justicia y la solidaridad en el terreno de sus responsabilidades concretas: en la actividad económica, en la acción sindical o política, en el campo educativo y cultural, en los medios de comunicación social, en las familias, asociaciones, instancias públicas; en una palabra, en los múltiples campos de la actividad humana.
+
+### 4 {#jp2-spe-19940218-limina-nicaragua.4}
+
+Mirando la realidad de Nicaragua, es motivo de preocupación los antagonismos que persisten en el panorama social y que ponen en entredicho la convivencia pacífica y solidaria entre todos los nicaragüenses. A pesar de las tensiones y diferencias, toca a vosotros, Pastores de la Iglesia, ser siempre los primeros “signos e instrumentos de comunión”, como el Concilio Vaticano II os recomienda (*[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 4), para que el “ministerio de reconciliación que os fue confiado” (*2Co* 5, 18) sea capaz de vencer la dialéctica de los enfrentamientos en favor de la civilización del amor (cf. *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)*, 73).
+
+Bien sabéis cómo la Sede Apostólica ve con aprecio y esperanza todas las iniciativas encaminadas a superar las divisiones y a fomentar el diálogo y un mayor entendimiento, que puedan satisfacer las legítimas aspiraciones de justicia y libertad de todos los ciudadanos. Movido por mi solicitud de Pastor, en esta circunstancia, deseo dirigir un apremiante llamado para que todos, líderes políticos y sindicales, empresarios y trabajadores, hombres de cultura y de ciencia, padres y madres de familia, se unan en la construcción de una sociedad más justa, fraterna y responsable; una sociedad en la que sean superadas las descalificaciones y enfrentamientos; una sociedad en la que se consolide el proceso democrático y se instauren verdaderas condiciones de justicia y de paz a las que aspira y tiene derecho el pueblo de Nicaragua.
+
+A este respecto, es de particular importancia fomentar y poner en práctica la *doctrina social de la Iglesia*, la cual “forma parte de la misión evangelizadora” (*[Sollicitudo rei socialis](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html)*, 41) y tiene el valor de ser también “instrumento de evangelización” (*[Centesimus annus](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)*, 54), porque ilumina la vivencia concreta de la fe cristiana. Como he señalado en la encíclica *[Redemptoris Missio](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html)*, “con el mensaje evangélico la Iglesia ofrece una fuerza liberadora y promotora del desarrollo precisamente porque lleva a la conversión del corazón y de la mentalidad; ayuda a reconocer la dignidad de cada persona; dispone a la solidaridad, al compromiso, al servicio de los hermanos” (n. 59), “salvando siempre la prioridad de las realidades transcendentes y espirituales, que son premisas de la salvación escatológica” (*Ibíd*., 20).
+
+### 5 {#jp2-spe-19940218-limina-nicaragua.5}
+
+Pero sabéis bien, amados Hermanos, que para poder dar un testimonio claro y convincente de la propia fe en medio de la sociedad, es presupuesto indispensable que Jesucristo sea el centro y la fuente de donde el cristiano reciba gracia e inspiración para hacer vida la ley del amor. Cristo es “el Camino, la Verdad y la Vida” (*Jn* 14, 6).
+
+La nueva evangelización necesita, ante todo, testigos, es decir, personas que hayan experimentado la transformación real de su existencia por la fe en Jesucristo y sean capaces de transmitir esa experiencia a otros. La nueva evangelización ha de tener como primer objetivo el *hacer vida el ideal de santidad*. Por ello, primera tarea del Obispo es hacer fructificar la gracia de Dios para que resplandezca la santidad. Como “moderadores, promotores y custodios de toda la vida litúrgica” (*[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_sp.html)*, 15) en las comunidades eclesiales que os han sido confiadas, habéis de velar para que se observen diligentemente las normas y directrices relacionadas con su celebración. Una equivocada interpretación de la espontaneidad no debe llevar a que se altere el sentido de las acciones litúrgicas y, en concreto, de la Santa Misa.
+
+### 6 {#jp2-spe-19940218-limina-nicaragua.6}
+
+En este “Año de la Familia”, os invito a intensificar vuestros desvelos apostólicos en favor de la familia en Nicaragua. Como pone de relieve la *IV Conferencia General del Episcopado Latinoamericano*, “la Iglesia anuncia con alegría y convicción la Buena Nueva sobre la familia en la cual se fragua el futuro de la humanidad y se concreta la frontera decisiva de la nueva evangelización. Así lo proclamamos aquí, en América Latina y el Caribe, en un momento histórico en el que la familia es víctima de muchas fuerzas que tratan de destruirla o deformarla” (*Conclusiones*, 210). En efecto, son muchos los factores que, también en vuestro país, han contribuido y contribuyen a debilitar los valores humanos y cristianos que han de sostener la vida del hogar. No se os oculta que los divorcios, abortos, campañas anticoncepcionales –en contraposición a la verdadera paternidad responsable (cf. *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)*, 50-51)–, uniones consensuales libres y la mentalidad “ laicista ”, puntualmente fomentada por ciertos medios de comunicación social, son otras tantas causas que afectan seriamente a los principios morales, y no sólo en las conciencias de los individuos sino también en el orden social.
+
+Se hace, pues, apremiante la necesidad de intensificar en los cristianos la *formación religiosa*. Vosotros mismos no habéis dejado de manifestar abiertamente vuestra preocupación ante las actitudes secularizadoras que promueven ciertas ideologías, que ponen en entredicho los valores irrenunciables de la fe de vuestro pueblo y que pretenden arrinconar el mensaje evangélico o vaciarlo de sus contenidos espirituales y transcendentes. Por todo ello, una profunda formación religiosa de los cristianos, y en particular de los niños y de los jóvenes, ha de ser un objetivo prioritario en la acción evangelizadora en Nicaragua, para lo cual contáis, como precioso instrumento, con el “Catecismo de la Iglesia Católica”.
+
+### 7 {#jp2-spe-19940218-limina-nicaragua.7}
+
+En los sacerdotes hallaréis los próvidos cooperadores de vuestro ministerio episcopal (cf. *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 28) para la realización de esta tarea apostólica, que ha de encontrar en la catequesis a todos los niveles, la pastoral litúrgica, los sacramentos de la iniciación cristiana, la preparación al sacramento del matrimonio, la celebración de la Eucaristía en el día del Señor, otros tantos elementos esenciales para llevar a todos el mensaje de salvación eterna que viene de Jesucristo.
+
+Por otra parte, al sacerdote se le pide una adecuada preparación doctrinal, espiritual y pastoral, que ha de reflejar siempre el mensaje íntegro de Jesús, respondiendo a las exigencias de nuestro tiempo. Esto será posible si el pastor de almas está unido a Dios mediante una intensa vida espiritual, alimentada con la oración asidua, la acogida de la Palabra de Dios y la celebración de sus misterios, para ser así testimonio vivo de caridad y entrega generosa a la comunidad a la que sirve.
+
+En estrecha relación con la vida de los presbíteros está la problemática concerniente a *las vocaciones sacerdotales y religiosas*, que, según me consta, son objeto de vuestra paternal solicitud por la trascendencia que esto tiene para el presente y el futuro de la Iglesia en Nicaragua. En efecto, sin las suficientes vocaciones toda la acción evangelizadora se vería seriamente comprometida, especialmente en nuestros días, en que sectas fundamentalistas y nuevos grupos religiosos llevan a cabo una agresiva campaña proselitista, sembrando la confusión entre los fieles y diluyendo la coherencia y unidad del mensaje evangélico.
+
+### 8 {#jp2-spe-19940218-limina-nicaragua.8}
+
+Por eso, el Seminario, como afirma el Concilio Vaticano II, ha de ser “el corazón de la diócesis” (*[Optatam totius](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_sp.html)*, 5). Dedicad, pues, sacerdotes debidamente preparados para la importante obra de formación de los futuros presbíteros. Como señala un reciente documento de la Congregación para la Educación Católica, “el formador que vive de la fe educa más por lo que es que por lo que dice. Su fe se traduce en un coherente testimonio de vida sacerdotal, animada por el celo apostólico y un vivo sentido misionero” (*Directrices sobre la preparación de los formadores de los Seminarios*, 27). Procurad, pues, que los formadores y profesores de vuestros Seminarios y de las casas de formación sean ejemplarmente fieles a las normas establecidas por la Santa Sede, a fin de que la riqueza doctrinal, el espíritu de servicio eclesial y el celo por la salvación de las almas preparen adecuadamente a los seminaristas para ser un día “ministros de Cristo y administradores de los misterios de Dios” (*1Co* 4, 1). Los centros de formación de los candidatos al sacerdocio han de ser modelos de preparación integral de la persona, con una sólida base espiritual, moral e intelectual; con una adecuada disciplina y espíritu de sacrificio. Sólo así podrá responderse a las necesidades de las comunidades eclesiales de Nicaragua, que esperan que sus sacerdotes sean, ante todo, maestros en la fe y testigos del amor a Dios y al prójimo.
+
+### 9 {#jp2-spe-19940218-limina-nicaragua.9}
+
+Por vuestra parte, a*tended con solicitud a los sacerdotes*, unidos a vosotros “en el honor del sacerdocio” (*[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 28), viviendo con ellos en amistad y fraternidad, ayudándoles a desempeñar, con gozo y fidelidad, el ministerio que han recibido de Cristo en favor de los hombres. Animad con vuestra palabra y vuestro ejemplo a todos los miembros de la comunidad cristiana, religiosos y seglares, para que sientan la alegría de formar parte del Pueblo de Dios, germen de unidad, de esperanza y salvación para toda la sociedad.
+
+Quiero concluir este coloquio fraterno pidiéndoos que llevéis mi saludo afectuoso a todos los miembros de vuestras Iglesias particulares: a los sacerdotes, religiosos, religiosas; a los catequistas y cristianos comprometidos en el apostolado; a los jóvenes y padres; a los ancianos, a los enfermos y a los que sufren. De manera especial, decid a vuestros sacerdotes, personas consagradas, demás agentes de pastoral y seminaristas, que el Papa les agradece sus trabajos por el Señor y por la causa del Evangelio y que espera y tiene confianza en su fidelidad.
+
+Al agradeceros, en el nombre del Señor Jesús, la entrega y solicitud pastoral por la grey que se os ha sido confiada, os encomiendo a vosotros, así como a vuestras comunidades eclesiales a la maternal intercesión de la Santísima Virgen, a la que el querido pueblo nicaragüense invoca como la “Purísima”, mientras os imparto con gran afecto una especial Bendición Apostólica.

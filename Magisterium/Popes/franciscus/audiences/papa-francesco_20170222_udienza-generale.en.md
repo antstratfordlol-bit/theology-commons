@@ -1,0 +1,56 @@
+---
+id: francis-aud-20170222.en
+work: francis-aud-20170222
+title: "General Audience of 22 February 2017: Christian hope - 12. For in this hope, we were saved (cf Rom 8:19-27)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: General audience (catechesis)
+url_date: 2017-02-22
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/audiences/2017/documents/papa-francesco_20170222_udienza-generale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt"
+anchors: "{#francis-aud-20170222} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# General Audience of 22 February 2017: Christian hope - 12. For in this hope, we were saved (cf Rom 8:19-27) {#francis-aud-20170222}
+POPE FRANCIS
+
+## GENERAL AUDIENCE
+
+*Saint Peter's Square\
+Wednesday, 22 February 2017*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2017/2/22/udienzagenerale.html)\]
+
+## Christian hope - 12. For in this hope, we were saved (cf *Rom* 8:19-27)
+
+*Dear Brothers and Sisters, Good morning!*
+
+We are often tempted to think that Creation is our property, a possession that we can exploit as we please, and for which we must account to no one. In the passage of the Letter to the Romans (8:19-27), a part of which we have just heard, the Apostle Paul reminds us that instead, Creation is a wondrous gift that God has placed in our hands, so that we may enter a relationship with him and we may recognize in it the imprint of his loving plan, the fulfillment of which calls us all to work together, day after day.
+
+However, when a human being allows himself to succumb to selfishness, he ends up defacing even the most beautiful things that have been entrusted to him. And this has also happened with Creation. Let us think about water. Water is something beautiful and very important. Water gives us life; it helps us in everything, but, in order to exploit minerals, water is contaminated; Creation is sullied and Creation is destroyed. This is just one example. There are many others. With the tragic experience of sin, our broken communion with God, we have shattered the original communion with all that surrounds us and we have ended by corrupting Creation, thereby rendering it a slave, subjugated to our shortsightedness. Unfortunately the result of all this is dramatically before our eyes, every day. When communion with God is broken, man loses his original beauty and ends up disfiguring everything around him; and whereas before everything referred to the Father Creator and his infinite love, all is now marked by the sad and desolate sign of pride and of human greed. Human pride, in exploiting Creation, destroys.
+
+The Lord, however, does not leave us on our own and even in this distressing context, he offers us a new prospect of freedom, of universal salvation. It is what Paul highlights joyfully, inviting us to listen to the groans of the whole of Creation. Indeed, if we pay attention, around us everything is groaning: Creation itself groans; we human beings groan and the Holy Spirit groans within us, in our heart. Now, these groans are not a barren, disconsolate lament, but — as the Apostle explains — they are the groaning of a woman in labour; they are the groans of those who suffer, but know that a new life is about to be born. And in our case, it is truly so. We are still gripped by the consequences of our sin and everything, around us, still bears the sign of our weariness, of our shortcomings, of our closure. At the same time, however, we know we have been saved by the Lord and that we have already been able to contemplate and to foretaste, in ourselves and in what surrounds us, the signs of the Resurrection, of Easter, which brings about a new Creation.
+
+This is the content of our hope. The Christian does not live outside of the world; he knows how to recognize in his life and in what surrounds him the signs of evil, of selfishness and of sin. He is in solidarity with those who suffer, with those who weep, with those who are marginalized, with those who despair.... However, at the same time, the Christian has learned to read all of this with the eyes of Easter, with the eyes of the Risen Christ. Thus, he knows that we are living in the time of waiting, the time of longing which transcends the present, the time of fulfillment. In hope we know that the Lord wants to definitively heal with his mercy the wounded and humiliated hearts and all that man has spoiled by his impiety, and that in this way, He regenerates a new world and a new humanity, finally reconciling them in his love.
+
+How often are we Christians tempted to give in to disappointment, to pessimism.... At times we allow ourselves to resort to pointless complaining, or we remain speechless and do not even know what to ask for, what to hope for.... Yet once more, however, the Holy Spirit — the breath of our hope, who keeps the groans and the expectation alive in our heart — comes to help us. The Spirit sees for us beyond the negative semblance of the present; he already reveals to us the new heavens and the new earth that the Lord is preparing for mankind.
+
+## Special greetings:
+
+Particular apprehension is aroused by the painful news arriving from war-torn South Sudan, where a fratricidal conflict coincides with a serious food crisis that afflicts the region of the Horn of Africa and that condemns millions of people, among them many children, to die of hunger. At this time the commitment of everyone is more necessary than ever in order to transcend mere declarations and to enable concrete food aid to reach the suffering populations. May the Lord sustain these brothers and sisters of ours and those working to help them.
+
+I greet the English-speaking pilgrims and visitors taking part in today’s Audience, particularly those from England, Ireland, Norway, India and the United States of America. Upon all of you, I invoke the gifts of mercy and peace, and I pray to the Lord that they may help you to care for Creation and one another. May God bless you!
+
+I address a special thought to *young people*, to *the sick* and to *newlyweds*. Today we are celebrating the Feast of the Chair of Saint Peter, a day of special communion of believers with the Successor of Saint Peter Apostle, and with the Holy See. Dear *young people*, I encourage you to intensify your prayer in favour of my Petrine Ministry; dear *sick people*, I thank you for the witness of life given in suffering for the edification of the ecclesial community; and you, dear *newlyweds*, build your family on the same love that binds the Lord Jesus to his Church.

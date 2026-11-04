@@ -1,0 +1,50 @@
+---
+id: b16-spe-20090802-concerto.en
+work: b16-spe-20090802-concerto
+title: "Address at the conclusion of the Concert offered in his honour by the Bayerisches Kammerorchester Bad Brückenau (August 2, 2009)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2009-08-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/august/documents/hf_ben-xvi_spe_20090802_concerto.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20090802-concerto} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Address at the conclusion of the Concert offered in his honour by the Bayerisches Kammerorchester Bad Brückenau (August 2, 2009) {#b16-spe-20090802-concerto}
+## ADDRESS OF HIS HOLINESS BENEDICT XVI AT THE END OF THE CONCERT OFFERED BY THE "BAVARIAN BAD BRÜCKENAU CHAMBER ORCHESTRA"
+
+*Courtyard of the Papal Summer Residence, Castel Gandolfo\
+Sunday, 2 August 2009*
+
+*Dear Deacon Kemmer,\
+Dear Musicians,\
+Dear Friends,*
+
+Today, after such a beautiful concert, for the first time I was unable to clap vigorously! I am therefore especially pleased to be able to express to Mr Albrecht Mayer and the musicians of the "Bayerischen Kammerorchester Bad Brückenau" the thanks and the admiration of everyone present. I likewise thank Deacon Cilian Kemmer for his words of greeting and all those who organized this concert at Castel Gandolfo and made it possible.
+
+For us, of course, the great fascination this evening was the sound of the oboe that you, dear Mr Mayer, masterfully offered to us.
+
+It was moving to observe that from a piece of wood, from this instrument, an entire universe of music flows: the unfathomable and the joyful, the serious and the humorous, the grandiose and the humble, an inner dialogue of melodies.
+
+I thought how magnificent it is that such promise is hidden in a small creative piece which the conductor can liberate, and this means that the whole creation is full of promises and that the human being receives the gift of leafing through this book of promises, at least for a while. I think that this evening we are not only invited to cherish the natural forces that help us to express our physical energy that is a promise of creation, but also to cherish the deepest, greatest promises that this music has pointed out to us, in the vigilance of our hearts which also enables us to understand this piece of creation.
+
+The programme with the description of the concert has as it were introduced us to the works of the composers. I believe that it is moving for all of us that these maestros acted like the good father of a family in the Gospel of which the Lord speaks. They not only draw the old and the new from their riches. With the incentive of their tasks, not only can they always create new things, but they can also take old things into consideration and therefore new potentials, which were present in the earlier work, become visible. This concert with the oboe solos has fulfilled the task of expressing new potentials in which the music continues, lives on and is reborn at every performance, just as it is now.
+
+It springs to my mind that today, in the Church, is the Day of the Porziuncola Indulgence, which commemorates St Francis' miraculous vision. In the little church of the Porziuncola at Assisi, he saw the Lord and his mother surrounded by Angels. The Lord granted him to express a desire and St Francis asked to be able to take a pardon home. The request was accepted, the Saint went home and announced joyfully to his brethren: "friends, the Lord wants to have us all in Heaven". Today I think we should spend this moment as an hour of paradise, observing and listening to paradise, and the incorrupt beauty and goodness of the creation. It is not an escape from the miseries of this world and of daily life, because we can continue to counter evil and darkness only if we ourselves believe in goodness and we can believe in goodness only if we experience and live it as reality. Here, our hearts have brushed against the beautiful.
+
+Dear friends, I have spoken in German because the musicians and the majority of the participants are German. Unfortunately after the events of the Tower of Babel languages separate us, they create barriers. But we have just seen and felt that a part of the world exists that was not destroyed, even after the Tower and the pride of Babel, and it is music: the language we can all understand, because it moves all our hearts. This is not only a guarantee to us that goodness and beauty of God's creation have not been destroyed but that we are called and are capable of working for the good and the beautiful, and they are also a promise that the future world will see that God wins, that the beautiful and the good win.
+
+For this consolation, for this comfort in our daily work we are grateful to you musicians. Our thanks to you all, and I wish you a good evening and a good week.

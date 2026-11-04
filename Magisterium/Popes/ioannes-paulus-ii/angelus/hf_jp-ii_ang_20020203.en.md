@@ -1,0 +1,58 @@
+---
+id: jp2-ang-20020203.en
+work: jp2-ang-20020203
+title: "Angelus, 3 February 2002"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Angelus / Regina Caeli
+url_date: 2002-02-03
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/angelus/2002/documents/hf_jp-ii_ang_20020203.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-ang-20020203.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-ang-20020203.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 3 February 2002
+JOHN PAUL II
+
+ANGELUS
+
+Sunday, 3 February 2002
+
+*Dear Brothers and Sisters,*
+
+### 1 {#jp2-ang-20020203.1}
+
+Today, the first Sunday of February, Italy is celebrating "*Pro-Life Day"*, a wonderful occasion to reflect on the fundamental value of human life.
+
+Recognize means to guarantee the right of the human person to lifelong development\
+The subject that the bishops proposed this year is: "*Recognize Life*". To recognize means, above all, to rediscover with renewed wonder what reason itself and science do not hesitate to call a "mystery". Life, especially human life, inspires a fundamental question that the Psalmist expresses so well:  "What is man that you are mindful of him; the son of man that you care for him?" (Ps 8,5).
+
+Moreover, to recognize means to *guarantee* to every human being the right to *develop* according to his own potential, ensuring his *inviolability* from conception until natural death. No one is master of life; no one has the right to manipulate, oppress or even take life, neither that of others nor his own. Much less can he do so in the name of God, who is the only Lord and the most sincere lover of life. The* martyrs* themselves* do not take their own lives* but, in order to remain faithful to God and to his commandments, they allow themselves to *be killed*.
+
+### 2 {#jp2-ang-20020203.2}
+
+To recognize the value of life implies *consistent measures from the legal point of view*, especially the protection of human beings who are unable to defend themselves, such as the unborn, the mentally handicapped, and the most critically or terminally ill. In particular, in the study of the *human embryo*, science has now demonstrated that it is a human individual who possesses his own identity from the moment of fertilization. Therefore, it is logical to call for this identity to be legally recognized, above all, in its fundamental right to life, as the Italian "Pro-Life Movement" demands with praiseworthy initiative.
+
+### 3 {#jp2-ang-20020203.3}
+
+We entrust to the Holy Mother of Christ and of all human beings, the commitment in Italy and the whole world in favour of life, especially, wherever it is despised, marginalized or violated. May Mary teach us to "recognize life" as a mystery and responsibility, remembering that "*gloria Dei vivens homo",* "the glory of God is living man" *(*St Irenaeus).
+
+*After the Angelus, the Holy Father greeted in Italian and in English special groups who were present. Here is the English speaking greeting and a further Pro-Life greeting.*
+
+I warmly greet the group of families of the Diocese of Rome with the Auxiliary Bishop in charge of family life concerns, and I give a special blessing to the mothers who are expecting a child. I am pleased that in Rome the Pro-Life Day has taken the form of *a Diocesan Week for Life and for the Family,* at the end of which next Sunday, parishes will reflect on the welcome they give to new families who have come to live in their neighbourhood.
+
+I am particularly pleased with the initiative of some university professors, who these days at the University of Rome "*La Sapienza*" have been studying in depth the theme "The embryo as patient", putting into a "declaration" the conclusions they reached about the dignity of the human being in the first phase of his existence.
+
+I welcome all the English-speaking visitors, especially the pilgrims from St Pius the Tenth Parish in Tachikawa, Japan. Upon you and your families I cordially invoke God's blessings of joy and peace.

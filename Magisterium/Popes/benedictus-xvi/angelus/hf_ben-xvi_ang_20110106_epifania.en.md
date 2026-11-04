@@ -1,0 +1,58 @@
+---
+id: b16-ang-20110106-epifania.en
+work: b16-ang-20110106-epifania
+title: "Angelus, 6 January 2011, Solemnity of the Epiphany of the Lord"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2011-01-06
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2011/documents/hf_ben-xvi_ang_20110106_epifania.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20110106-epifania} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 6 January 2011, Solemnity of the Epiphany of the Lord {#b16-ang-20110106-epifania}
+SOLEMNITY OF THE EPIPHANY OF THE LORD
+
+## BENEDICT XVI
+
+## ANGELUS
+
+*Saint Peter's Square*\
+*Thursday, 6 January 2011*
+
+**([Video](#){onclick="window.open('http://vod.vatican.va/angelus06012011.mov','','height=260,width=320,left=200,top=200,resizable=0,scrollbars=0,toolbar=0,status=0');"})**
+
+*Dear Brothers and Sisters,*
+
+[We have celebrated in the Basilica the Feast of the Epiphany](https://www.vatican.va/content/benedict-xvi/en/homilies/2011/documents/hf_ben-xvi_hom_20110106_epifania.html) — excuse me for being late — Epiphany means the manifestation of Jesus to all peoples, today represented by the Magi, who arrived in Bethlehem from the East to pay homage to the King of the Jews, whose birth they had learned about by the appearance of a new star in the sky (*cf*. Mt 2:1-12). In fact, before the arrival of the Magi, this event was little known beyond the family circle, other than to Mary and Joseph, and probably to other relatives, it was known by the shepherds of Bethlehem. Having heard the joyful announcement, they had hastened to see the baby while he was still lying in the manger. The coming of the Messiah, the expectation of the people foretold by the Prophets, remained thus initially remained hidden.
+
+Until, that is, those mysterious figures — the Magi — arrived in Jerusalem to ask for news of the “King of the Jews,” who had just been born. Obviously, as it had to do with a king, they went to the royal palace where Herod resided. But he did not know anything about this birth and, very worried, immediately summoned the priests and scribes who, based on Micah’s famous prophecy (*cf*. 5:1), affirmed that the Messiah was to be born in Bethlehem. And in fact, setting out in that direction, the Magi saw the star again, which led them to the place where Jesus was. Having entered, they prostrated themselves and adored him, offering him symbolic gifts: gold, frankincense and myrrh.
+
+This is the Epiphany, the manifestation: the coming and the adoration of the Magi is the first sign of the unique identity of the Son of God who is also Son of the Virgin Mary. From that moment the question began to be asked that would accompany the whole life of Christ, and that in different ways passes through the centuries: who is this Jesus?
+
+Dear friends, this is the question that the Church wishes to awaken in the hearts of all: who is Jesus? This is the spiritual concern that drives the mission of the Church: to make known Jesus, his Gospel, so that every man may discover in his human face the Face of God, and be illumined by his mystery of love.
+
+The Epiphany foretells the universal openness of the Church, her call to evangelize all peoples. But the Epiphany also tells us how the Church realizes this mission: by reflecting the light of Christ and proclaiming his Word. Christians are called to imitate the service that the star rendered to the Magi. We must shine out as children of light, so as to attract all people to the beauty of the Kingdom of God. And to those who seek the truth, we must offer the Word of God, which leads us to recognize in Jesus “the true God and eternal life” (1 Jn 5:20).
+
+Once again, we feel within us profound gratitude to Mary, the Mother of Jesus. She is the perfect image of the Church which gives the light of Christ to the world: she is the Star of evangelization. "*Respice Stellam*," St Bernard says to us: look to the Star, you who go in search of truth and peace; turn your gaze to Mary, and she will show you Jesus, light for every person and for all peoples.
+
+## After the Angelus :
+
+I address my heartfelt greeting and most fervent good wishes to the brothers and sisters of the Eastern Churches who will celebrating Holy Christmas tomorrow. May the goodness of God, which appeared in Jesus Christ, the Word Incarnate, reinforce faith, hope and charity in all, and give comfort to the communities that are sorely tried.
+
+I then remind you that the Epiphany is the Mission Day of Children, proposed by the Pontifical Society of the Holy Childhood. Many children and young people, organized in parishes and schools, form a spiritual network of solidarity in order to help their contemporaries in the greatest difficulty. It is very beautiful and important that children grow with an open mind to the world, with the sentiments of love and brotherhood, overcoming egocentrism and consumerism. Dear children and young people, with your prayers and your commitment you collaborate with the mission of the Church. I thank you for this and I bless you!
+
+I greet all the English-speaking visitors gathered for this *Angelus* prayers. On this, the Solemnity of the Epiphany, the Church rejoices in the revelation of Jesus Christ as the light of all peoples. May the light of Christ's glory fill you and your families with joy, strengthen Christians everywhere in their witness to the Gospel, and lead all mankind to the fullness of truth and life which God alone can give. Upon all of you, and in a special way upon the children present, I invoke the Lord's abundant blessings! I wish everyone a happy Feast of the Epiphany!

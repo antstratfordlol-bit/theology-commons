@@ -1,0 +1,58 @@
+---
+id: b16-ang-20060326.en
+work: b16-ang-20060326
+title: "Angelus, 26 March 2006"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2006-03-26
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2006/documents/hf_ben-xvi_ang_20060326.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20060326} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 26 March 2006 {#b16-ang-20060326}
+BENEDICT XVI
+
+## ANGELUS
+
+*Saint Peter's Square\
+Fourth Sunday of Lent, 26 March 2006*.
+
+*Dear Brothers and Sisters,*
+
+The Consistory held in the past few days for the appointment of 15 new Cardinals was an intense ecclesial experience that enabled us to sample the spiritual riches of collegiality, of being together with brothers from various provenances, all of us sharing in one love for Christ and for his Church.
+
+In a certain way we relived the reality of the first Christian community, gathered round Mary, Mother of Jesus, and Peter, to receive the gift of the Spirit and to commit themselves to spreading the Gospel throughout the world.
+
+Fidelity to this mission to the point of sacrificing their life is a distinctive feature of Cardinals, as their oath attests, and is, as it were, symbolized by scarlet, which is the colour of blood.
+
+By a providential coincidence, the Consistory took place on 24 March, when we commemorated the missionaries who died during the past year on the frontiers of evangelization and in the service of humanity in various parts of the globe.
+
+Thus, the Consistory was an opportunity to feel closer than ever to all those Christians who suffer persecution in the cause of the faith. Their witness, news of which we receive every day, and especially the sacrifice of those who were killed, is edifying to us and spurs us to make an ever more sincere and generous commitment to evangelize.
+
+My thoughts go in particular to those communities who live in countries where religious freedom is lacking or where, despite the fact that it is allowed on paper, it is actually restricted in many ways. I send them warm encouragement to persevere patiently in the love of Christ, a seed of the Kingdom of God that is coming, indeed, already exists in the world.
+
+On behalf of the entire Church, I would like to express the warmest solidarity to all who work at the service of the Gospel in these difficult situations, and at the same time I assure them of my daily remembrance in prayer.
+
+The Church moves on in history and spreads throughout the earth accompanied by Mary, Queen of the Apostles. For Christians, as in the Upper Room, the Blessed Virgin always constitutes the living memorial of Jesus. It is she who enlivens their prayers and sustains their hope. Let us ask her to guide us on our daily journey and to protect with special love those Christian communities that live in conditions of greater difficulty and suffering.
+
+\*\*\*
+
+## After the Angelus:
+
+I am pleased to greet the English-speaking visitors gathered here today. On this Laetare Sunday, we are filled with joyful hope as we look forward to our celebration of the Lord's Resurrection, and we deepen our commitment to live these final weeks of Lent following closely in the footsteps of Christ our Saviour. I welcome especially those who have come to Rome in order to be present at the recent Consistory, in which I had the joy of creating 15 new Cardinals. I ask you to remember them in your prayers. Upon all of you and upon your families and loved ones I invoke God's abundant Blessings of joy and peace.
+
+I wish you all a good Sunday!

@@ -1,0 +1,77 @@
+---
+id: b16-quaerit-semper.en
+work: b16-quaerit-semper
+title: "Apostolic Letter issued 'Motu Proprio' Quaerit semper (August 30, 2011)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Motu proprio
+url_date: 2011-08-30
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: no
+translation-of: b16-quaerit-semper.la
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20110830_quaerit-semper.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, la, pt"
+anchors: "{#b16-quaerit-semper.art.N} — the document is organised in articles, anchored by article (4 articles), shared with b16-quaerit-semper.es, b16-quaerit-semper.la; and {#b16-quaerit-semper.prooem} — the text the page prints before its first numbered unit, under a heading minted for it (the dei-filius.prooem precedent)"
+anchor_check: "identical across en, es, la; prooem: identical across en, es, la"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Apostolic Letter issued "Motu Proprio" Quaerit semper (August 30, 2011)
+APOSTOLIC LETTER\
+ IN THE FORM OF 'MOTU PROPRIO'
+
+## QUAERIT SEMPER
+
+OF THE SUPREME PONTIFF\
+## BENEDICT XVI
+
+**with which the Apostolic Constitution** ***[Pastor Bonus](https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index.html)*** **is amended and certain competences transferred from the Congregation for Divine Worship and the Discipline of the Sacraments to the new Office set up at the Tribunal of the Roman Rota for processes of dispensation from ratified and non-consummated marriage and for cases concerning the nullity of sacred ordination.**
+
+### Proem {#b16-quaerit-semper.prooem}
+
+The Holy See has always sought to adapt its structures of governance to the pastoral needs that arise in the life of the Church in every period of history, thereby modifying the structure and competence of the Dicasteries of the Roman Curia.
+
+The Second Vatican Council moreover confirmed this criterion, reaffirming the need to adapt the Dicasteries to the needs of our time and of different regions and rites, especially with regard to their number, their titles, their competence, their procedures and how they coordinate their activities (cf. Decree *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*, 9).
+
+Following these principles, my Predecessor, Blessed John Paul II, proceeded to an overall reorganization of the Roman Curia through the Apostolic Constitution *[Pastor Bonus](https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index.html)*, promulgated on 28 June 1988 (*AAS* 80 \[1988\] 841-930), defining the competence of the different Dicasteries, taking into account the *Code of Canon Law*, promulgated five years earlier, and the norms that were then being drawn up for the Eastern Churches. Later, both my Predecessor and I intervened with further measures, modifying the structure and competence of certain Dicasteries, the better to respond to changed needs.
+
+In present circumstances it has seemed appropriate for the Congregation for Divine Worship and the Discipline of the Sacraments to focus mainly on giving a fresh impetus to promoting the Sacred Liturgy in the Church, in accordance with the renewal that the Second Vatican Council desired, on the basis of the Constitution *[Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html).*
+
+I have therefore deemed it opportune to transfer to a new Office, set up at the Tribunal of the Roman Rota, the competence for processes of dispensation from ratified and non-consummated marriage and cases concerning the nullity of sacred ordination.
+
+Consequently, on the advice of the Cardinal Prefect of the Congregation for Divine Worship and the Discipline of the Sacraments and with the favourable opinion of the Dean of the Tribunal of the Roman Rota, having heard the opinion of the Supreme Tribunal of the Apostolic Signatura and of the Pontifical Council for Legislative Texts, I decree the following:
+
+### Art. 1 {#b16-quaerit-semper.art.1}
+
+Articles 67 and 68 of the above-mentioned Apostolic Constitution *[Pastor Bonus](https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index.html)* are abrogated.
+
+### Art. 2 {#b16-quaerit-semper.art.2}
+
+Article 126 of the Apostolic Constitution *[Pastor Bonus](https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index.html)* is amended as follows:
+
+“Article 126 § 1. The Roman Rota is a court of higher instance at the Apostolic See, usually at the appellate stage, with the purpose of safeguarding rights within the Church; it fosters unity of jurisprudence and, by virtue of its own decisions, provides assistance to lower tribunals.
+
+§ 2. An Office has been set up at this Tribunal to examine the fact of non-consummation in a marriage and the existence of a just cause for granting a dispensation. It therefore receives all the acts, together with the *votum* of the Bishop and the remarks of the Defender of the Bond, weighs them according to its own special procedure and, if the case warrants it, submits a petition to the Supreme Pontiff requesting the dispensation.
+
+§ 3. This Office is also competent to examine cases concerning the nullity of sacred ordination, in accordance with both universal and proper law, *congrua congruis referendo*”.
+
+### Art. 3 {#b16-quaerit-semper.art.3}
+
+The Office for processes of dispensation from ratified and non-consummated marriage and for cases concerning the nullity of sacred ordination is presided over by the Dean of the Roman Rota, assisted by Officials, Delegated Commissioners and Consultors.
+
+### Art. 4 {#b16-quaerit-semper.art.4}
+
+On the day of the entry into force of these regulations, any processes of dispensation from ratified and non-consummated marriage and cases concerning the nullity of sacred ordination still pending at the Congregation for Divine Worship and the Discipline of the Sacraments will be transferred to the new Office at the Tribunal of the Roman Rota and will be decided by the latter.
+
+I order that everything established by this Apostolic Letter *Motu Proprio data* be fully observed in all its parts, notwithstanding anything to the contrary, even if worthy of particular mention, and I establish that it be promulgated through publication in the daily newspaper *L’Osservatore Romano* and that it come into force on 1 October 2011.
+
+*Given in Castel Gandolfo, on 30 August in the year 2011, the seventh of my Pontificate.*
+
+## BENEDICTUS PP. XVI

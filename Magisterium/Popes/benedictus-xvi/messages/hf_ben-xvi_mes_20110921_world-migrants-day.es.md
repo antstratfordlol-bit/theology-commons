@@ -1,0 +1,59 @@
+---
+id: b16-mes-20110921-world-migrants-day.es
+work: b16-mes-20110921-world-migrants-day
+title: "Mensaje para la 98ª Jornada mundial del emigrante y del refugiado 2012 (21 de septiembre de 2011)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Message
+url_date: 2011-09-21
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/messages/migration/documents/hf_ben-xvi_mes_20110921_world-migrants-day.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#b16-mes-20110921-world-migrants-day} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Mensaje para la 98ª Jornada mundial del emigrante y del refugiado 2012 (21 de septiembre de 2011) {#b16-mes-20110921-world-migrants-day}
+## MENSAJE DEL SANTO PADRE BENEDICTO XVI PARA LA JORNADA MUNDIAL DEL EMIGRANTE Y DEL REFUGIADO 2012
+
+(Tema: ***Migraciones y nueva evangelización***)
+
+*Queridos hermanos y hermanas:*
+
+Anunciar a Jesucristo, único Salvador del mundo, «constituye la misión esencial de la Iglesia; una tarea y misión que los cambios amplios y profundos de la sociedad actual hacen cada vez más urgentes» (Exhortación apostólica *[Evangelii nuntiandi](https://www.vatican.va/content/paul-vi/es/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html)*, 14). Más aún, hoy notamos la urgencia de promover, con nueva fuerza y modalidades renovadas, la obra de evangelización en un mundo en el que la desaparición de las fronteras y los nuevos procesos de globalización acercan aún más las personas y los pueblos, tanto por el desarrollo de los medios de comunicación como por la frecuencia y la facilidad con que se llevan a cabo los desplazamientos de individuos y de grupos. En esta nueva situación debemos despertar en cada uno de nosotros el entusiasmo y la valentía que impulsaron a las primeras comunidades cristianas a anunciar con ardor la novedad evangélica, haciendo resonar en nuestro corazón las palabras de san Pablo: «El hecho de predicar no es para mí motivo de orgullo. No tengo más remedio y, ¡ay de mí si no anuncio el Evangelio!» (*1 Co* 9,16).
+
+El tema que he elegido este año para la Jornada mundial del emigrante y del refugiado —*Migraciones y nueva evangelización*— nace de esta realidad. En efecto, el momento actual llama a la Iglesia a emprender una nueva evangelización también en el vasto y complejo fenómeno de la movilidad humana, intensificando la acción misionera, tanto en las regiones de primer anuncio como en los países de tradición cristiana.
+
+El beato Juan Pablo II nos invitaba a «alimentarnos de la Palabra para ser “servidores de la Palabra” en el compromiso de la evangelización…, \[en una situación\] que cada vez es más variada y comprometedora, en el contexto de la globalización y de la nueva y cambiante mezcla de pueblos y culturas que la caracteriza» (Carta apostólica *[Novo millennio ineunte](http://www.vatican.va/content/john-paul-ii/es/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html)*, 40). En efecto, las migraciones internas o internacionales realizadas en busca de mejores condiciones de vida o para escapar de la amenaza de persecuciones, guerras, violencia, hambre y catástrofes naturales, han producido una mezcla de personas y de pueblos sin precedentes, con problemáticas nuevas no solo desde un punto de vista humano, sino también ético, religioso y espiritual. Como escribí en el Mensaje del año pasado para esta Jornada mundial, las consecuencias actuales y evidentes de la secularización, la aparición de nuevos movimientos sectarios, una insensibilidad generalizada con respecto a la fe cristiana y una marcada tendencia a la fragmentación hacen difícil encontrar una referencia unificadora que estimule la formación de «una sola familia de hermanos y hermanas en sociedades que son cada vez más multiétnicas e interculturales, donde también las personas de diversas religiones se ven impulsadas al diálogo, para que se pueda encontrar una convivencia serena y provechosa en el respeto de las legítimas diferencias». Nuestro tiempo está marcado por intentos de borrar a Dios y la enseñanza de la Iglesia del horizonte de la vida, mientras crece la duda, el escepticismo y la indiferencia, que querrían eliminar incluso toda visibilidad social y simbólica de la fe cristiana.
+
+En este contexto, los inmigrantes que han conocido a Cristo y lo han acogido son inducidos con frecuencia a no considerarlo importante en su propia vida, a perder el sentido de la fe, a no reconocerse como parte de la Iglesia, llevando una vida que a menudo ya no está impregnada de Cristo y de su Evangelio. Crecidos en el seno de pueblos marcados por la fe cristiana, a menudo emigran a países donde los cristianos son una minoría o donde la antigua tradición de fe ya no es una convicción personal ni una confesión comunitaria, sino que se ha visto reducida a un hecho cultural. Aquí la Iglesia afronta el desafío de ayudar a los inmigrantes a mantener firme su fe, aun cuando falte el apoyo cultural que existía en el país de origen, buscando también nuevas estrategias pastorales, así como métodos y lenguajes para una acogida siempre viva de la Palabra de Dios. En algunos casos se trata de una ocasión para proclamar que en Jesucristo la humanidad participa del misterio de Dios y de su vida de amor, se abre a un horizonte de esperanza y paz, incluso a través del diálogo respetuoso y del testimonio concreto de la solidaridad, mientras que en otros casos existe la posibilidad de despertar la conciencia cristiana adormecida a través de un anuncio renovado de la Buena Nueva y de una vida cristiana más coherente, para ayudar a redescubrir la belleza del encuentro con Cristo, que llama al cristiano a la santidad dondequiera que se encuentre, incluso en tierra extranjera.
+
+El actual fenómeno migratorio es también una oportunidad providencial para el anuncio del Evangelio en el mundo contemporáneo. Hombres y mujeres provenientes de diversas regiones de la tierra, que aún no han encontrado a Jesucristo o lo conocen solamente de modo parcial, piden ser acogidos en países de antigua tradición cristiana. Es necesario encontrar modalidades adecuadas para ellos, a fin de que puedan encontrar y conocer a Jesucristo y experimentar el don inestimable de la salvación, fuente de «vida abundante» para todos (cf. *Jn* 10,10); a este respecto, los propios inmigrantes tienen un valioso papel, puesto que pueden convertirse a su vez en «anunciadores de la Palabra de Dios y testigos de Jesús resucitado, esperanza del mundo» (Exhortación apostólica *[Verbum Domini](https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html#Palabra_de_Dios_y_compromiso_en_el_mundo)*, 105).
+
+En el comprometedor itinerario de la nueva evangelización en el ámbito migratorio, desempeñan un papel decisivo los agentes pastorales —sacerdotes, religiosos y laicos—, que trabajan cada vez más en un contexto pluralista: en comunión con sus Ordinarios, inspirándose en el Magisterio de la Iglesia, los invito a buscar caminos de colaboración fraterna y de anuncio respetuoso, superando contraposiciones y nacionalismos. Por su parte, las Iglesias de origen, las de tránsito y las de acogida de los flujos migratorios intensifiquen su cooperación, tanto en beneficio de quien parte como, de quien llega y, en todo caso, de quien necesita encontrar en su camino el rostro misericordioso de Cristo en la acogida del prójimo. Para realizar una provechosa pastoral de comunión puede ser útil actualizar las estructuras tradicionales de atención a los inmigrantes y a los refugiados, asociándolas a modelos que respondan mejor a las nuevas situaciones en que interactúan culturas y pueblos diversos.
+
+Los refugiados que piden asilo, tras escapar de persecuciones, violencias y situaciones que ponen en peligro su propia vida, tienen necesidad de nuestra comprensión y acogida, del respeto de su dignidad humana y de sus derechos, así como del conocimiento de sus deberes. Su sufrimiento reclama de los Estados y de la comunidad internacional que haya actitudes de acogida mutua, superando temores y evitando formas de discriminación, y que se provea a hacer concreta la solidaridad mediante adecuadas estructuras de hospitalidad y programas de reinserción. Todo esto implica una ayuda recíproca entre las regiones que sufren y las que ya desde hace años acogen a un gran número de personas en fuga, así como una mayor participación en las responsabilidades por parte de los Estados.
+
+La prensa y los demás medios de comunicación tienen una importante función al dar a conocer, con exactitud, objetividad y honradez, la situación de quienes han debido dejar forzadamente su patria y sus seres queridos y desean empezar una nueva vida.
+
+Las comunidades cristianas han de prestar una atención particular a los trabajadores inmigrantes y a sus familias, a través del acompañamiento de la oración, de la solidaridad y de la caridad cristiana; la valoración de lo que enriquece recíprocamente, así como la promoción de nuevos programas políticos, económicos y sociales, que favorezcan el respeto de la dignidad de toda persona humana, la tutela de la familia y el acceso a una vivienda digna, al trabajo y a la asistencia.
+
+Los sacerdotes, los religiosos y las religiosas, los laicos y, sobre todo, los hombres y las mujeres jóvenes han de ser sensibles para ofrecer apoyo a tantas hermanas y hermanos que, habiendo huido de la violencia, deben afrontar nuevos estilos de vida y dificultades de integración. El anuncio de la salvación en Jesucristo será fuente de alivio, de esperanza y de «alegría plena» (cf. *Jn* 15,11).
+
+Por último, deseo recordar la situación de numerosos estudiantes internacionales que afrontan problemas de inserción, dificultades burocráticas, inconvenientes en la búsqueda de vivienda y de estructuras de acogida. De modo particular, las comunidades cristianas han de ser sensibles respecto a tantos muchachos y muchachas que, precisamente por su joven edad, además del crecimiento cultural, necesitan puntos de referencia y cultivan en su corazón una profunda sed de verdad y el deseo de encontrar a Dios. De modo especial, las Universidades de inspiración cristiana han de ser lugares de testimonio y de irradiación de la nueva evangelización, seriamente comprometidas a contribuir en el ambiente académico al progreso social, cultural y humano, además de promover el diálogo entre las culturas, valorizando la aportación que pueden dar los estudiantes internacionales. Estos se sentirán alentados a convertirse ellos mismos en protagonistas de la nueva evangelización si encuentran auténticos testigos del Evangelio y ejemplos de vida cristiana.
+
+Queridos amigos, invoquemos la intercesión de María, *Virgen del Camino*, para que el anuncio gozoso de salvación de Jesucristo lleve esperanza al corazón de quienes se encuentran en condiciones de movilidad por los caminos del mundo. Aseguro todos mi oración, impartiendo la Bendición Apostólica.
+
+*Vaticano, 21 de septiembre de 2011*
+
+## BENEDICTO PP. XVI

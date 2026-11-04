@@ -1,0 +1,45 @@
+---
+id: francis-hom-20200518-100anni-gpii.en
+work: francis-hom-20200518-100anni-gpii
+title: "Holy Mass for the 100th anniversary of Saint John Paul II's birth (18 May 2020)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2020-05-18
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/homilies/2020/documents/papa-francesco_20200518_omelia-100anni-gpii.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-hom-20200518-100anni-gpii} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Holy Mass for the 100th anniversary of Saint John Paul II's birth (18 May 2020) {#francis-hom-20200518-100anni-gpii}
+HOLY MASS FOR THE 100th ANNIVERSARY OF SAINT JOHN PAUL II' S BIRTH
+
+## HOMILY OF THE HOLY FATHER FRANCIS
+
+*Monday, 18 May 2020*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2020/5/18/100anni-gpii.html)**\]
+
+“The Lord loves His people” (cf. *Ps* 149:4), we sang, was the refrain of the Responsorial Psalm. And was also a truth that the people of Israel would repeat; they liked to repeat: “The Lord loves his people”. And in difficult moments, always “the Lord loves”; one must wait for how this love will manifest itself. When, out of this love, the Lord would sent a prophet, a man of God, the people’s reaction was: “The Lord *has visited his people*“ (see *Ex* 4:31); because He loves them, He has visited them. And the multitude who followed Jesus, seeing the things that Jesus did, said the same: “The Lord has visited His people” (see *Lk* 7:16).
+
+And here today we can say: 100 years ago the Lord *visited* His people. He sent a man; he prepared him to be a  bishop and lead the Church. Remembering Saint John Paul II, we spick this up again: “The Lord loves His people”; “the Lord has visited His people”; He sent a pastor.
+
+And what are the "traits", let us say, of a good pastor that we can find in Saint John Paul II? So many! But we shall only speak of three. Given that persons say Jesuits always say things in threes, we shall say three: prayer, closeness to the people, and love of justice. Saint John Paul II was a man of God because he *prayed*, and he prayed a lot. But how did a man who had so much to do, so much work to lead the Church..., have so much time to pray? He was well aware that a bishop’s first task is to pray. And Vatican II did not say this; Saint Peter said it. When they made the deacons they said: “And to us bishops, prayer and the proclamation of the Word” (cf. *Acts* 6:4). A bishop’s first task is to pray, and he knew this, he did this. A model bishop who prays, the first task. And he taught us that when a bishop examines his conscience in the evening he must ask himself: how many hours did I pray today? A man of prayer.
+
+The second trait: a man of *closeness*. He was not a man detached from people, but instead he went to find people; and he travelled the entire world, finding his people, seeking his people, drawing near. And closeness is one of the features of God with His people. Let us recall that the Lord said to the people of Israel: “‘For what people has its gods so near as I am to you?’” (see *Deut* 4:7). A closeness of God with His people which then becomes even closer  in Jesus, is strenghtened in Jesus. A pastor is close to the people. If, on the contrary, he is not so, he is not a pastor,  he is a hierarch, he is an administrator, perhaps a good one, but he is not a pastor. Closeness to the people. And Saint John Paul II gave us the example of this closeness. Close to those who were more important and less important, close to those who were near and far, always close. He made himself close.
+
+The third trait, love of *justice*. But complete justice! A man who wanted justice, social justice, the justice for all  people, the justice that drives away wars. But total justice! For this reason Saint John Paul II was a man of mercy, because justice and mercy go together; they cannot be distinguished \[separated\], they go together: justice is justice, mercy is mercy, but one is not found without the other. And speaking of the man of justice and mercy, let us consider how much Saint John Paul II did so that people could understand God’s mercy. Let us think about how he promoted devotion to Saint Faustina \[Kowalska\], whose liturgical memory *beginning today* will be extended to the entire Church. He had heard that God’s justice had this face of mercy, this attitude of mercy. And this is a gift that he left us: *mercy-justice* and *justice-mercy*.
+
+Let us pray to him today, that he give to all of us, especially to the Church's pastors, but to everyone, the grace of prayer, the grace of closeness and the grace of justice-mercy, mercy-justice.

@@ -1,0 +1,54 @@
+---
+id: francis-hom-20170507-ordinazioni-presbiteriali.en
+work: francis-hom-20170507-ordinazioni-presbiteriali
+title: "Holy Mass for Ordinations to the Sacred Priesthood (7 May 2017)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2017-05-07
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/homilies/2017/documents/papa-francesco_20170507_omelia-ordinazioni-presbiteriali.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#francis-hom-20170507-ordinazioni-presbiteriali} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Holy Mass for Ordinations to the Sacred Priesthood (7 May 2017) {#francis-hom-20170507-ordinazioni-presbiteriali}
+[HOLY MASS FOR ORDINATIONS TO THE SACRED PRIESTHOOD](http://www.vatican.va/news_services/liturgy/libretti/2017/20170507-libretto-ordinazione-presbiterale.pdf)
+
+## HOMILY OF HIS HOLINESS POPE FRANCIS
+
+*Vatican Basilica\
+Fourth Sunday of Easter, 7 May 2017*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2017/5/7/ordinazioni-presbiteriali.html)\]
+
+*Dearest Brothers and Sisters,*
+
+Our sons have been called to the order of priests. Let us consider the position to which they are to be promoted in the Church. It is true, brothers and sisters, that God has made his entire people a royal priesthood in Christ. But our High Priest, Jesus Christ, also chose some of his followers to carry out publicly in the Church a priestly ministry in his name on behalf of mankind. They were elected by the Lord Jesus, not to further their careers, but to offer this service.
+
+He was sent by the Father, and he in turn sent the apostles into the world; through them and their successors, the bishops, he continues his work as Teacher, Priest, and Shepherd. Priests are co-workers of the order of bishops. They are joined to the bishops in the priestly office and are called to serve God’s people.
+
+Our brothers have seriously prayed and considered this step, and are now to be ordained to priesthood in the presbyteral order. They are to serve Christ the Teacher, Priest, and Shepherd in his ministry which is to make his own body, the Church, into the people of God, a holy temple of the Holy Spirit.
+
+They are called to share in the priesthood of the bishops and to be molded into the likeness of Christ, the supreme and eternal Priest. By consecration, they will be made true priests of the New Testament, to preach the Gospel, sustain God’s people, and celebrate the Liturgy, above all, the Lord’s sacrifice.
+
+My beloved sons and brothers, you are now to be advanced to the order of the presbyterate. You must apply your energies to the duty of teaching in the name of Christ, the chief Teacher. Share with all mankind the Word of God you received with joy as children. Meditate on the law of God, believe what you read, teach what you believe, and put into practice what you teach.
+
+Let the doctrine you teach be nourishment for the people of God; let it be simple, as the Lord spoke, so as to touch the heart. Do not preach homilies that are too intellectual and elaborate. Speak in a simple way; speak to hearts. And this preaching will be true nourishment. Let the example of your life — because the Word without the example of life is ineffective. It is better to turn back. A double life is a serious disease in the Church — attract the followers of Christ so that by word and action you may build up the house which is God’s Church. In the same way you must carry out your mission of sanctifying in the power of Christ. Your ministry will perfect the spiritual sacrifice of the faithful by uniting it to Christ’s sacrifice, the sacrifice which is offered sacramentally through your hands.
+
+Know what you are doing and imitate the mystery you celebrate. In the memorial of the Lord’s death and resurrection, make every effort to die to sin and to walk in the new life of Christ. A presbyter who has studied perhaps a lot of theology and has one, two, three degrees, but has not learned to carry Christ’s Cross, is ineffective. He will be a good scholar, a good professor, but not a priest.
+
+When you baptize, you will bring new men and women into the people of God. In the sacrament of penance, you will forgive sins in the name of Christ and the Church. I ask you, please, in the name of Christ and the Church, to always be merciful; do not encumber the faithful, nor yourselves, with unbearable burdens. For this Jesus reproached the doctors of the law and called them hypocrites. With holy oil you will relieve and console the sick. One of the tasks — perhaps the most tedious, even painful one — is to visit the sick. Do this. Yes, it is good that the lay faithful and deacons go, but do not neglect to touch the flesh of the suffering Christ in the sick. This sanctifies you; it brings you closer to Christ. You will celebrate the liturgy and offer thanks and praise to God throughout the day, praying not only for the people of God but for the whole world.
+
+Remember that you are chosen from among God’s people and appointed to act for them in relation to God. Do your part in the work of Christ the Priest with genuine joy and love. Be joyful, never sad. Joyful, with the joy of Christ’s service, even amid suffering, misunderstandings, and your own sins. Keep your gaze ever fixed on the example of the Good Shepherd who did not come to be served but to serve. Please, do not be “lords”. Do not be “state clerics”, but rather shepherds of the people of God.

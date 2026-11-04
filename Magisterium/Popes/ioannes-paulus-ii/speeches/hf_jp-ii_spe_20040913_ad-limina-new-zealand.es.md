@@ -1,0 +1,71 @@
+---
+id: jp2-spe-20040913-ad-limina-new-zealand.es
+work: jp2-spe-20040913-ad-limina-new-zealand
+title: "A los obispos de Nueva Zelanda en visita 'ad limina Apostolorum' (13 de septiembre de 2004)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2004-09-13
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/2004/september/documents/hf_jp-ii_spe_20040913_ad-limina-new-zealand.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-spe-20040913-ad-limina-new-zealand.N} — numbered paragraphs 1..7 (7 anchors), shared with jp2-spe-20040913-ad-limina-new-zealand.en"
+anchor_check: "MISMATCH: en: 6 anchors to 7; es: 7 anchors to 7"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los obispos de Nueva Zelanda en visita "ad limina Apostolorum" (13 de septiembre de 2004)
+***DISCURSO DEL SANTO PADRE JUAN PABLO II\
+A LOS OBISPOS DE NUEVA ZELANDA EN VISITA "AD LIMINA"\**
+
+Lunes 13 de septiembre de 2004*
+
+*Eminencia;\
+queridos hermanos en el episcopado:*
+
+### 1 {#jp2-spe-20040913-ad-limina-new-zealand.1}
+
+"No nos predicamos a nosotros mismos, sino a Cristo Jesús como Señor, y a nosotros como servidores vuestros" (*2 Co* 4, 5). Con estas significativas palabras de san Pablo os doy cordialmente la bienvenida a vosotros, *obispos de Nueva Zelanda*, y agradezco a monseñor Browne los cordiales sentimientos que ha manifestado en vuestro nombre. Correspondo a ellos con afecto y os aseguro mis oraciones por vosotros y por los fieles confiados a vuestro cuidado pastoral. Vuestra primera visita *ad limina Apostolorum* en este nuevo milenio constituye una ocasión para dar gracias a Dios por el inmenso don de la fe en Jesucristo, tan apreciado por los pueblos de vuestro país (cf. *[Ecclesia in Oceania](http://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_20011122_ecclesia-in-oceania.html)*, 1). Esa misma fe, por la que san Pedro y san Pablo derramaron su sangre, vio desde los primeros siglos a la Iglesia de Roma como "la referencia última de la comunión" (*[Pastores gregis](http://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 57). Al venir a ver a Pedro (cf. *Ga* 1, 18) desde una nación insular tan distante, testimoniáis la fuerza de esta comunión que "tutela las legítimas diversidades y, al mismo tiempo, vigila para que la particularidad no sólo no dañe a la unidad, sino que la sirva" (*[Pastores gregis](http://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 57).
+
+### 2 {#jp2-spe-20040913-ad-limina-new-zealand.2}
+
+Nueva Zelanda posee una gloriosa herencia, impregnada de una rica diversidad cultural, pero, como muchos otros países, hoy sufre los efectos de un secularismo desenfrenado. Esta radical "ruptura entre Evangelio y cultura" (*[Evangelii nuntiandi](http://www.vatican.va/holy_father/paul_vi/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi_sp.html)*, 20) se manifiesta como "crisis de sentido" (cf.* [Fides et ratio](http://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html)*, 81):  la distorsión de la razón por grupos con intereses particulares y el individualismo exagerado son ejemplos de esta perspectiva de vida que descuida la búsqueda del fin último y el significado de la existencia humana. En efecto, vuestros informes indican claramente la necesidad urgente del mensaje liberador de Cristo en una sociedad que experimenta las trágicas consecuencias del eclipse del sentido de Dios:  el alejamiento de la Iglesia; el debilitamiento de la vida familiar; la facilitación del aborto y de la prostitución; una visión errónea de la vida, que busca el placer y el "éxito" más bien que la bondad y la sabiduría.
+
+Ante esta inquietante situación, los neozelandeses esperan que *seáis hombres de esperanza, que anuncien y enseñen con celo el esplendor de la verdad de Cristo que disipa las tinieblas e ilumina el verdadero camino de vida.* Sabed que el Señor mismo está cerca de vosotros.
+
+Escuchad su voz:  "¡Ánimo!, soy yo, no temáis" (*Mc* 6, 50). Confío en que, con vuestro corazón y vuestra mente firmemente fijos en Cristo, conduciréis a los demás de las limitaciones del pensamiento superficial a la luminosidad del amor de Dios. En efecto, sólo mediante la contemplación de la belleza insondable del destino final de la humanidad —la vida eterna en el cielo— pueden explicarse adecuadamente las numerosas alegrías y tristezas diarias, permitiendo a las personas afrontar los desafíos de la vida con la confianza que brota de la fe y de la esperanza.
+
+### 3 {#jp2-spe-20040913-ad-limina-new-zealand.3}
+
+Todos los fieles de Aotearoa, por su vocación bautismal, están llamados a compartir vuestro testimonio de la esperanza que tiene la Iglesia (cf. *1 P* 3, 15). No existe mejor modo de hacerlo que la participación alegre en el culto. La *misa dominical*, más que cumplimiento de una solemne obligación, *es una epifanía gloriosa de la Iglesia* en la que el pueblo santo de Dios, participando activa y plenamente en la misma celebración litúrgica (cf. *[Dies Domini](http://www.vatican.va/content/john-paul-ii/es/apost_letters/1998/documents/hf_jp-ii_apl_05071998_dies-domini.html)*, 34), testimonia "el día de la fe por excelencia", "un día indispensable", "el día de la esperanza cristiana".
+
+El debilitamiento de la observancia de la misa dominical, del que cada uno de vosotros ha hablado con profunda preocupación, disminuye la luz del testimonio de la presencia de Cristo en vuestro país. Cuando el domingo se subordina al concepto popular de "fin de semana" y queda indebidamente dominado por la diversión y el deporte, las personas, en vez de ser verdaderamente santificadas y revitalizadas, quedan atrapadas en una búsqueda incesante, y a menudo sin sentido, de novedad, y no experimentan la frescura del "agua viva" de Cristo (*Jn* 4, 11). A este respecto, citando las palabras de la carta a los Hebreos, me uno a vosotros para exhortar a los laicos de Nueva Zelanda, y de modo especial a los jóvenes, a que permanezcan fieles a la celebración de la misa dominical:  "Mantengamos firme la confesión de la esperanza, (...) sin abandonar vuestra propia asamblea, antes bien, animándonos" (*Hb* 10, 23-25).
+
+### 4 {#jp2-spe-20040913-ad-limina-new-zealand.4}
+
+En su sagrada liturgia la Iglesia encuentra fuerza e inspiración para su misión evangelizadora. Esto se expresó con gran claridad durante el Sínodo para Oceanía:  "La finalidad por la que se está *con* Jesús es partir *desde* Jesús, contando siempre con su fuerza y su gracia" (*[Ecclesia in Oceania](http://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_20011122_ecclesia-in-oceania.html)*, 3). Esta dinámica, articulada durante la oración después de la comunión y el rito de conclusión de toda misa (cf. *[Dies Domini](http://www.vatican.va/content/john-paul-ii/es/apost_letters/1998/documents/hf_jp-ii_apl_05071998_dies-domini.html)*, 45), lleva a todo cristiano a la tarea de la evangelización de la cultura. Es un deber que ningún creyente puede descuidar. Los discípulos de Cristo, enviados por el Señor mismo a la viña, es decir, a los hogares, las escuelas, los lugares de trabajo y las organizaciones civiles, no tienen tiempo para "estar en la plaza ociosos" (*Mt* 20, 3), ni pueden estar tan absorbidos por los aspectos internos de la vida parroquial, que descuiden el mandato de evangelizar activamente a los demás (cf. *[Christifideles laici](http://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici_sp.html)*, 2). Estimulados por la palabra y fortalecidos por los sacramentos, los seguidores de Jesús deben volver a su "viña" con el deseo de "hablar" de Cristo y "mostrarlo" al mundo (cf. *[Novo millennio ineunte](http://www.vatican.va/content/john-paul-ii/es/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html)*, 16).
+
+Queridos hermanos, vuestras cartas pastorales son un excelente testimonio de que buscáis presentar seriamente la verdad de Cristo en el ámbito público. Las relaciones cordiales que habéis entablado diligentemente con las autoridades gubernamentales os permiten permanecer firmes, cuando es necesario, en vuestra valoración de sus deliberaciones. A este respecto, os animo a seguir asegurando que vuestras declaraciones transmitan con claridad toda la enseñanza del magisterio de la Iglesia. Entre los numerosos desafíos que debéis afrontar en la actualidad a este respecto está la necesidad de *defender la santidad y unicidad del matrimonio*. La institución del matrimonio, establecido por el Creador con una naturaleza y una finalidad propias, preservado por la ley moral natural, y presente en todas las culturas, implica necesariamente la complementariedad del marido y de la mujer, que participan en la actividad creadora de Dios procreando y educando a sus hijos. Los esposos merecen justamente un reconocimiento legal específico y categórico por parte del Estado, mientras que cualquier intento de equiparar con el matrimonio otras formas de cohabitación viola su papel único en el plan de Dios para la humanidad.
+
+### 5 {#jp2-spe-20040913-ad-limina-new-zealand.5}
+
+Dentro del contexto de la evangelización de la cultura, deseo destacar la notable contribución de vuestras escuelas católicas. Su crecimiento ha enriquecido la fe de la comunidad cristiana y ha contribuido a la promoción de la excelencia de la nación. Sin embargo, la calidad de nuestras escuelas no se puede medir sólo en cifras. Las *escuelas católicas hoy deben ser agentes activos de evangelización en el centro de la vida parroquial*. Con este fin, me dirijo en particular a los generosos y sinceros fieles jóvenes de Nueva Zelanda:  Afrontad vuestra educación religiosa con entusiasmo. Escuchad la voz de Jesús, que os llama a participar en la vida de su familia, la Iglesia. Ocupad el lugar que os corresponde en la vida parroquial.
+
+La catequesis y la educación religiosa hoy es un apostolado arduo. Doy las gracias y animo a los numerosos laicos, hombres y mujeres que, junto con los religiosos, se esfuerzan con entrega incondicional por asegurar que "los bautizados (...) sean cada vez más conscientes del don recibido de la fe" (*[Gravissimum educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_sp.html)*, 2). Como obispos, tenéis la grave obligación *de ayudar a los profesores a profundizar en su testimonio personal de Jesucristo entre los jóvenes y a aumentar su disponibilidad a enseñar a los alumnos a orar*, haciendo así aún mayor su contribución a la naturaleza y a la misión específicas de la educación católica. Eso exige, sobre todo en los profesores especializados, una sólida formación teológica y espiritual que esté en armonía con la de vuestros sacerdotes; eso pone también de manifiesto la necesidad de *asegurar que vuestras capellanías de educación superior sean fuentes vibrantes de catequesis eficaz*. En esta ocasión deseo, asimismo, hacer un llamamiento en particular a los religiosos de vida apostólica:  fortaleced vuestro compromiso en favor del apostolado educativo y escolar. En los lugares donde los jóvenes se alejan fácilmente del camino de la verdad y de la libertad auténtica, el testimonio que dan las personas consagradas de los consejos evangélicos es un don maravilloso e insustituible.
+
+### 6 {#jp2-spe-20040913-ad-limina-new-zealand.6}
+
+Queridos hermanos, habéis promovido asiduamente la colaboración en vuestra guía de la Iglesia en Nueva Zelanda, haciendo lo posible por "recorrer juntos el camino común de fe y misión" (*[Pastores gregis](http://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 44). *La colaboración auténtica no debilita nunca el derecho y el deber claros e inequívocos de gobierno que pertenecen al "munus" episcopal; al contrario, es uno de los frutos de su plenitud*. Sé que contáis con la ayuda desinteresada de vuestros sacerdotes y, juntamente con vosotros, doy gracias a Dios por su generosidad y su compromiso pastoral. Aseguradles que los fieles cristianos dependen de ellos y los aprecian mucho. Del mismo modo, es preciso animar a los sacerdotes religiosos, a los hermanos y las hermanas, en su esfuerzo por fomentar la comunión eclesial con su presencia, su servicio y su apostolado en vuestras diócesis. La vida consagrada, un don concedido a la Iglesia, está en su mismo corazón y manifiesta la profunda belleza de la vocación cristiana al amor desinteresado y abnegado. En sintonía con vuestros esfuerzos encaminados a promover una "cultura de la vocación", exhorto a los religiosos a proponer de nuevo a los jóvenes el ideal de consagración y misión que se encuentra en los diversos estados de vida eclesial, que existen "para que el mundo crea" (*Jn* 17, 21).
+
+### 7 {#jp2-spe-20040913-ad-limina-new-zealand.7}
+
+Con afecto y gratitud fraterna os ofrezco estas reflexiones y os animo a compartir los frutos del carisma de la verdad que el Espíritu os ha concedido. Unidos en el anuncio de la buena nueva de Jesucristo y guiados por el ejemplo de los santos, proseguid con esperanza. Invocando sobre vosotros la intercesión de María, "Estrella de la nueva evangelización", os imparto cordialmente mi bendición apostólica a vosotros y a los sacerdotes, a los religiosos y a los fieles laicos de vuestras diócesis.

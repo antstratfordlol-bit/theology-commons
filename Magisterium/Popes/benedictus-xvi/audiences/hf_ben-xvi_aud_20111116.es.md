@@ -1,0 +1,78 @@
+---
+id: b16-aud-20111116.es
+work: b16-aud-20111116
+title: "Audiencia general del 16 de noviembre de 2011: Salmo 110 (109)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: General audience (catechesis)
+url_date: 2011-11-16
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/audiences/2011/documents/hf_ben-xvi_aud_20111116.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-aud-20111116} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Audiencia general del 16 de noviembre de 2011: Salmo 110 (109) {#b16-aud-20111116}
+BENEDICTO XVI
+
+## AUDIENCIA GENERAL
+
+*Plaza de San Pedro\
+Miércoles 16 de noviembre de 2011*
+
+## Salmo 110 (109)
+
+*Queridos hermanos y hermanas:*
+
+Quiero concluir hoy mis catequesis sobre la oración del Salterio meditando uno de los famosos «Salmos reales», un Salmo que Jesús mismo citó y que los autores del Nuevo Testamento retomaron ampliamente y leyeron en relación al Mesías, a Cristo. Se trata del Salmo 110 según la tradición judía, 109 según la tradición greco-latina; un Salmo muy apreciado por la Iglesia antigua y por los creyentes de todas las épocas. Esta oración, en los comienzos, tal vez estaba vinculada a la entronización de un rey davídico; sin embargo, su sentido va más allá de la contingencia específica del hecho histórico, abriéndose a dimensiones más amplias y convirtiéndose de esta forma en celebración del Mesías victorioso, glorificado a la derecha de Dios.
+
+El Salmo comienza con una declaración solemne: «Oráculo del Señor a mi Señor: “Siéntate a mi derecha, y haré de tus enemigos estrado de tus pies”» (v. 1).
+
+Dios mismo entroniza al rey en la gloria, haciéndolo sentar a su derecha, un signo de grandísimo honor y de absoluto privilegio. De este modo, el rey es admitido a participar en el señorío divino, del que es mediador ante el pueblo. Ese señorío del rey se concretiza también en la victoria sobre los adversarios, que Dios mismo coloca a sus pies; la victoria sobre los enemigos es del Señor, pero el rey participa en ella y su triunfo se convierte en testimonio y signo del poder divino.
+
+La glorificación regia expresada al inicio de este Salmo fue asumida por el Nuevo Testamento como profecía mesiánica; por ello el versículo es uno de los más usados por los autores neotestamentarios, como cita explícita o como alusión. Jesús mismo menciona este versículo a propósito del Mesías para mostrar que el Mesías es más que David, es el Señor de David (cf. *Mt* 22, 41-45; *Mc* 12, 35-37; *Lc* 20, 41-44); y Pedro lo retoma en su discurso en Pentecostés anunciando que en la resurrección de Cristo se realiza esta entronización del rey y que desde ahora Cristo está a la derecha del Padre, participa en el señorío de Dios sobre el mundo (cf. *Hch* 2, 29-35). En efecto, Cristo es el Señor entronizado, el Hijo del hombre sentado a la derecha de Dios que viene sobre las nubes del cielo, como Jesús mismo se define durante el proceso ante el Sanedrín (cf. *Mt* 26, 63-64; *Mc* 14, 61-62; cf. también *Lc* 22, 66-69). Él es el verdadero rey que con la resurrección entró en la gloria a la derecha del Padre (cf. *Rm* 8, 34; *Ef* 2, 5; *Col* 3, 1; *Hb* 8, 1; 12, 2), hecho superior a los ángeles, sentado en los cielos por encima de toda potestad y con todos sus adversarios a sus pies, hasta que la última enemiga, la muerte, sea definitivamente vencida por él (cf. *1 Co* 15, 24-26; *Ef* 1, 20-23; *Hb* 1, 3-4.13; 2, 5-8; 10, 12-13; *1 P* 3, 22). Y se comprende inmediatamente que este rey, que está a la derecha de Dios y participa de su señorío, no es uno de estos hombres sucesores de David, sino nada menos que el nuevo David, el Hijo de Dios, que ha vencido la muerte y participa realmente en la gloria de Dios. Es nuestro rey, que nos da también la vida eterna.
+
+Entre el rey celebrado por nuestro Salmo y Dios existe, por tanto, una relación inseparable; los dos gobiernan juntos un único gobierno, hasta el punto de que el salmista puede afirmar que es Dios mismo quien extiende el cetro del soberano dándole la tarea de dominar sobre sus adversarios, come reza el versículo 2: «Desde Sión extenderá el Señor el poder de tu cetro: somete en la batalla a tus enemigos».
+
+El ejercicio del poder es un encargo que el rey recibe directamente del Señor, una responsabilidad que debe vivir en la dependencia y en la obediencia, convirtiéndose así en signo, dentro del pueblo, de la presencia poderosa y providente de Dios. El dominio sobre los enemigos, la gloria y la victoria son dones recibidos, que hacen del soberano un mediador del triunfo divino sobre el mal. Él domina sobre sus enemigos, transformándolos, los vence con su amor.
+
+Por eso, en el versículo siguiente, se celebra la grandeza del rey. El versículo 3, en realidad, presenta algunas dificultades de interpretación. En el texto original hebreo se hace referencia a la convocación del ejército, a la cual el pueblo responde generosamente reuniéndose en torno a su rey el día de su coronación. En cambio, la traducción griega de los lXX, que se remonta al siglo III-II antes de Cristo, hace referencia a la filiación divina del rey, a su nacimiento o generación por parte del Señor, y esta es la elección interpretativa de toda la tradición de la Iglesia, por lo cual el versículo suena de la siguiente forma: «Eres príncipe desde el día de tu nacimiento entre esplendores sagrados; yo mismo te engendré, desde el seno, antes de la aurora».
+
+Este oráculo divino sobre el rey afirmaría, por lo tanto, una generación divina teñida de esplendor y de misterio, un origen secreto e inescrutable, vinculado a la belleza arcana de la aurora y a la maravilla del rocío que a la luz de la mañana brilla sobre los campos y los hace fecundos. Se delinea así, indisolublemente vinculada a la realidad celestial, la figura del rey que viene realmente de Dios, del Mesías que trae la vida divina al pueblo y es mediador de santidad y de salvación. También aquí vemos que todo esto no lo realiza la figura de un rey davídico, sino el Señor Jesucristo, que viene realmente de Dios; él es la luz que trae la vida divina al mundo.
+
+Con esta imagen sugestiva y enigmática termina la primera estrofa del Salmo, a la que sigue otro oráculo, que abre una nueva perspectiva, en la línea de una dimensión sacerdotal conectada con la realeza. El versículo 4 reza: «El Señor lo ha jurado y no se arrepiente: “Tú eres sacerdote eterno, según el rito de Melquisedec”».
+
+Melquisedec era el sacerdote rey de Salem que había bendecido a Abrán y había ofrecido pan y vino después de la victoriosa campaña militar librada por el patriarca para salvar a su sobrino Lot de las manos de los enemigos que lo habían capturado (cf. *Gn* 14). En la figura de Melquisedec convergen poder real y sacerdotal, y ahora el Señor los proclama en una declaración que promete eternidad: el rey celebrado por el Salmo será sacerdote para siempre, mediador de la presencia divina en medio de su pueblo, a través de la bendición que viene de Dios y que en la acción litúrgica se encuentra con la respuesta de bendición del hombre.
+
+La *Carta a los Hebreos* hace referencia explícita a este versículo (cf. 5, 5-6.10; 6, 19-20) y en él centra todo el capítulo 7, elaborando su reflexión sobre el sacerdocio de Cristo. Jesús —así dice la *Carta a los Hebreos* a la luz del Salmo 110 (109)— es el verdadero y definitivo sacerdote, que lleva a cumplimiento los rasgos del sacerdocio de Melquisedec, haciéndolos perfectos.
+
+Melquisedec, come dice la *Carta a los Hebreos*, no tenía «ni padre, ni madre, ni genealogía» (cf. 7, 3a); por lo tanto, no era sacerdote según las reglas dinásticas del sacerdocio levítico. Así pues, «es sacerdote perpetuamente» (7, 3c), prefiguración de Cristo, sumo sacerdote perfecto «que no ha llegado a serlo en virtud de una legislación carnal, sino en fuerza de una vida imperecedera» (7, 16). En el Señor Jesús, que resucitó y ascendió al cielo, donde está sentado a la derecha del Padre, se realiza la profecía de nuestro Salmo y el sacerdocio de Melquisedec llega a cumplimiento, porque se hace absoluto y eterno, se convierte en una realidad que no conoce ocaso (cf. 7, 24). Y el ofrecimiento del pan y del vino, realizado por Melquisedec en tiempos de Abrán, encuentra su realización en el gesto eucarístico de Jesús, que en el pan y en el vino se ofrece a sí mismo y, vencida la muerte, conduce a la vida a todos los creyentes. Sacerdote perpetuamente, «santo, inocente, sin mancha» (7, 26), él, como dice una vez más la *Carta a los Hebreos*, «puede salvar definitivamente a los que se acercan a Dios por medio de él, pues vive para siempre para interceder a favor de ellos» (7, 25).
+
+Después de este oráculo divino del versículo 4, con su juramento solemne, la escena del Salmo cambia y el poeta, dirigiéndose directamente al rey, proclama: «El Señor está a tu derecha» (v. 5a). Si en el versículo 1 quien se sentaba a la derecha de Dios, como signo de sumo prestigio y de honor, era el rey, ahora es el Señor quien se coloca a la derecha del soberano para protegerlo con el escudo en la batalla y salvarlo de todo peligro. El rey está a salvo, Dios es su defensor y juntos combaten y vencen todo mal.
+
+Así los versículos finales del Salmo comienzan con la visión del soberano triunfante que, apoyado por el Señor, habiendo recibido de él poder y gloria (cf. v. 2), se opone a los enemigos dispersando a los adversarios y juzgando a las naciones. La escena está dibujada con colores intensos, para significar el dramatismo del combate y la plenitud de la victoria real. El soberano, protegido por el Señor, derriba todo obstáculo y avanza seguro hacia la victoria. Nos dice: sí, en el mundo hay mucho mal, hay una batalla permanente entre el bien y el mal, y parece que el mal es más fuerte. No, más fuerte es el Señor, nuestro verdadero rey y sacerdote Cristo, porque combate con toda la fuerza de Dios y, no obstante todas las cosas que nos hacen dudar sobre el desenlace positivo de la historia, vence Cristo y vence el bien, vence el amor y no el odio.
+
+Es aquí donde se inserta la sugestiva imagen con la que se concluye nuestro Salmo, que también es una palabra enigmática: «En su camino beberá del torrente; por eso levantará la cabeza» (v. 7).
+
+En medio de la descripción de la batalla, se perfila la figura del rey que, en un momento de tregua y de descanso, bebe de un torrente de agua, encontrando en él fuerza y nuevo vigor, para poder reanudar su camino triunfante, con la cabeza alta, como signo de victoria definitiva. Es obvio que esta palabra tan enigmática era un desafío para los Padres de la Iglesia por las diversas interpretaciones que se podían hacer. Así, por ejemplo, san Agustín dice: este torrente es el ser humano, la humanidad, y Cristo bebió de este torrente haciéndose hombre, y así, entrando en la humanidad del ser humano, levantó su cabeza y ahora es la cabeza del Cuerpo místico, es nuestra cabeza, es el vencedor definitivo (cf. *Enarratio in Psalmum* CIX, 20: pl 36, 1462).
+
+Queridos amigos, siguiendo la línea interpretativa del Nuevo Testamento, la tradición de la Iglesia ha tenido en gran consideración este Salmo como uno de los textos mesiánicos más significativos. Y, de forma eminente, los Padres se refirieron continuamente a él en clave cristológica: el rey cantado por el salmista es, en definitiva, Cristo, el Mesías que instaura el reino de Dios y vence las potencias del mundo; es el Verbo engendrado por el Padre antes de toda criatura, antes de la aurora; el Hijo encarnado, muerto, resucitado y elevado a los cielos; el sacerdote eterno que, en el misterio del pan y del vino, dona la remisión de los pecados y la reconciliación con Dios; el rey que levanta la cabeza triunfando sobre la muerte con su resurrección. Bastaría recordar una vez más un pasaje también del comentario de san Agustín a este Salmo donde escribe: «Era necesario conocer al Hijo único de Dios, que estaba a punto de venir entre los hombres, para asumir al hombre y para convertirse en hombre a través de la naturaleza asumida: él murió, resucitó, subió al cielo, está sentado a la derecha del Padre y realizó entre las naciones cuanto había prometido... Todo esto, por lo tanto, tenía que ser profetizado, tenía que ser anunciado, tenía que ser indicado como destinado a suceder, para que, al suceder de improviso, no provocara temor, sino que más bien fuera aceptado con fe. En el ámbito de estas promesas se inserta este Salmo, el cual profetiza, en términos tan seguros como explícitos, a nuestro Señor y Salvador Jesucristo, que nosotros no podemos dudar ni siquiera mínimamente que en él está realmente anunciado el Cristo» (cf. *Enarratio in Psalmum* CIX, 3: pl 35, 1447).
+
+El acontecimiento pascual de Cristo se convierte de este modo en la realidad a la que nos invita a mirar el Salmo: mirar a Cristo para comprender el sentido de la verdadera realeza, para vivir en el servicio y en la donación de uno mismo, en un camino de obediencia y de amor llevado «hasta el extremo» (cf. *Jn* 13, 1 y 19, 30). Rezando con este Salmo, por tanto, pedimos al Señor poder caminar también nosotros por sus sendas, en el seguimiento de Cristo, el rey Mesías, dispuestos a subir con él al monte de la cruz para alcanzar con él la gloria, y contemplarlo sentado a la derecha del Padre, rey victorioso y sacerdote misericordioso que dona perdón y salvación a todos los hombres. Y también nosotros, por gracia de Dios convertidos en «linaje elegido, sacerdocio real, nación santa» (cf. *1 P* 2, 9), podremos beber con alegría en las fuentes de la salvación (cf. *Is* 12, 3) y proclamar a todo el mundo las maravillas de aquel que nos «llamó de las tinieblas a su luz maravillosa» (cf. *1 P* 2, 9).
+
+Queridos amigos, en estas últimas catequesis quise presentaros algunos Salmos, oraciones preciosas que encontramos en la Biblia y que reflejan las diversas situaciones de la vida y los distintos estados de ánimo que podemos tener respecto de Dios. Por eso, quiero renovar a todos la invitación a rezar con los Salmos, tal vez acostumbrándose a utilizar la Liturgia de las Horas de la Iglesia, Laudes por la mañana, Vísperas por la tarde, Completas antes de ir a dormir. Nuestra relación con Dios se verá enriquecida en el camino cotidiano hacia él y realizada con mayor alegría y confianza. Gracias.
+
+## Saludos
+
+Saludo cordialmente a los peregrinos de lengua española, en particular a los fieles de la Diócesis de San Cristóbal, Venezuela, acompañados por su Obispo, Monseñor Mario Moronta, a las religiosas Hijas de María Inmaculada, así como a los grupos provenientes de España, México, Chile, Colombia, El Salvador y otros países latinoamericanos. Invito a todos a enriquecer vuestra relación con Dios con el rezo piadoso de los salmos, especialmente en la liturgia de las horas. Muchas gracias por vuestra visita.

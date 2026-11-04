@@ -1,0 +1,49 @@
+---
+id: b16-spe-20111120-congedo-benin.en
+work: b16-spe-20111120-congedo-benin
+title: "Apostolic Journey to Benin: Farewell ceremony at Cardinal Bernardin Gantin International Airport (Cotonou, 20 November 2011)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2011-11-20
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/november/documents/hf_ben-xvi_spe_20111120_congedo-benin.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#b16-spe-20111120-congedo-benin} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Apostolic Journey to Benin: Farewell ceremony at Cardinal Bernardin Gantin International Airport (Cotonou, 20 November 2011) {#b16-spe-20111120-congedo-benin}
+[APOSTOLIC JOURNEY TO BENIN\
+18-20 NOVEMBER 2011](https://www.vatican.va/content/benedict-xvi/en/travels/2011/outside/documents/benin.html)
+
+## DEPARTURE CEREMONY
+
+## ADDRESS OF HIS HOLINESS BENEDICT XVI
+
+*"Card. Bernardin Gantin" International Airport, Cotonou\
+Sunday, 20 November 2011*
+
+*Mr President,\
+Your Eminences, Your Excellencies,\
+Distinguished Authorities and Dear Friends,*
+
+My Apostolic Journey to Africa has now come to an end. I thank God for these days spent among you in joy and friendship. I thank you, Mr President, for your gracious words and for the many efforts made to make my stay pleasant. I thank the various civil authorities and all the volunteers who generously contributed to the success of these days. Nor can I fail to thank all the people of Benin for their warm and enthusiastic welcome. I also thank the members of the Catholic Church, the Presidents of the various National and Regional Episcopal Conferences who joined us, and naturally, in a very particular way, the bishops of Benin.
+
+I wanted to visit Africa once more; it is a continent for which I have a special regard and affection, for I am deeply convinced that it is a land of hope. I have already said this many times. Here are found authentic values which have much to teach our world; they need only to spread and blossom with God’s help and the determination of Africans themselves. The Post-Synodal Apostolic Exhortation *[Africae Munus](https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20111119_africae-munus.html)* can greatly assist in this, for it opens up pastoral horizons and will lead to creative initiatives. I entrust it to the faithful of Africa as a whole, to study carefully and to translate into concrete actions in daily life. Cardinal Gantin, that eminent son of Benin whose greatness was so widely acknowledged that this Airport bears his name, took part with me in a number of Synods. He made a vital and much-appreciated contribution to them. May he accompany the implementation of this document!
+
+During my visit I was able to meet various components of Benin’s society and many members of the Church. These numerous meetings, very different in nature, testify to the possibility of a harmonious coexistence within the nation, and between Church and State. Good will and mutual respect not only aid dialogue, but are essential for building unity between individuals, ethnic groups and peoples. The word “Fraternity” is the first of the three words found on your national emblem. Living in unity as brethren, while respecting legitimate differences, is not something utopian. Why should an African country not show the rest of the world the path to be taken towards living an authentic fraternity in justice, based on the greatness of the family and of labour? May Africans be able to experience reconciliation in peace and justice! These are the prayerful good wishes which I express to you, with confidence and hope, before I leave Benin and the African continent.
+
+Mr President,
+
+I express once more my heartfelt gratitude, which I extend to all your fellow citizens, to the bishops of Benin and to all the faithful of your country. Let me also encourage the entire continent to be the salt of the earth and the light of the world. May God bless you all, through the intercession of Our Lady of Africa. ACƐ MAWU TƆN NI KƆN DO BENIN TO Ɔ BI JI \[*in Fon: God bless Benin!*\]

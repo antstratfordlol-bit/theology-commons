@@ -1,0 +1,65 @@
+---
+id: b16-mes-20111018-xlix-vocations.es
+work: b16-mes-20111018-xlix-vocations
+title: "XLIX Jornada Mundial de oración por las Vocaciones, 2012"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Message
+url_date: 2011-10-18
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/messages/vocations/documents/hf_ben-xvi_mes_20111018_xlix-vocations.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt, sq"
+anchors: "{#b16-mes-20111018-xlix-vocations} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# XLIX Jornada Mundial de oración por las Vocaciones, 2012 {#b16-mes-20111018-xlix-vocations}
+## MENSAJE DEL SANTO PADRE BENEDICTO XVI PARA LA XLIX JORNADA MUNDIAL DE ORACIÓN POR LAS VOCACIONES
+
+29 DE ABRIL DE 2012 – IV DOMINGO DE PASCUA
+
+**Tema**: ***Las vocaciones don de la caridad de Dios***
+
+*Queridos hermanos y hermanas*
+
+La XLIX Jornada Mundial de Oración por las Vocaciones, que se celebrará el 29 de abril de 2012, cuarto domingo de Pascua, nos invita a reflexionar sobre el tema: *Las vocaciones don de la caridad de Dios.*
+
+La fuente de todo don perfecto es Dios Amor -*Deus caritas est-:* «*quien* permanece en el amor permanece en Dios y Dios en él» (*1 Jn* 4,16). La Sagrada Escritura narra la historia de este vínculo originario entre Dios y la humanidad, que precede a la misma creación. San Pablo, escribiendo a los cristianos de la ciudad de Éfeso, eleva un himno de gratitud y alabanza al Padre, el cual con infinita benevolencia dispone a lo largo de los siglos la realización de su plan universal de salvación, que es un designio de amor. En el Hijo Jesús –afirma el Apóstol– «nos eligió antes de la fundación del mundo para que fuésemos santos e irreprochables ante Él por el amor» *(Ef* 1,4). Somos amados por Dios incluso “antes” de venir a la existencia. Movido exclusivamente por su amor incondicional, él nos “creó de la nada” (cf. *2M* 7,28) para llevarnos a la plena comunión con Él.
+
+Lleno de gran estupor ante la obra de la providencia de Dios, el Salmista exclama: «Cuando contemplo el cielo, obra de tus dedos, la luna y las estrellas que has creado, ¿qué es el hombre para que te acuerdes de él, el ser humano, para que te cuides de él?» (*Sal* 8,4-5). La verdad profunda de nuestra existencia está, pues, encerrada en ese sorprendente misterio: toda criatura, en particular toda persona humana, es fruto de un pensamiento y de un acto de amor de Dios, amor inmenso, fiel, eterno (cf. *Jr* 31,3). El descubrimiento de esta realidad es lo que cambia verdaderamente nuestra vida en lo más hondo. En una célebre página de las *Confesiones,* san Agustín expresa con gran intensidad su descubrimiento de Dios, suma belleza y amor, un Dios que había estado siempre cerca de él, y al que al final le abrió la mente y el corazón para ser transformado: «¡Tarde te amé, Hermosura tan antigua y tan nueva, tarde te amé! Y tú estabas dentro de mí y yo afuera, y así por fuera te buscaba; y, deforme como era, me lanzaba sobre estas cosas hermosas que tú creaste. Tú estabas conmigo, más yo no estaba contigo. Reteníanme lejos de ti aquellas cosas que, si no estuviesen en ti, no existirían. Me llamaste y clamaste, y quebrantaste mi sordera; brillaste y resplandeciste, y curaste mi ceguera; exhalaste tu perfume, y lo aspiré, y ahora te anhelo; gusté de ti, y ahora siento hambre y sed de ti; me tocaste, y deseé con ansia la paz que procede de ti» (X, 27,38). Con estas imágenes, el Santo de Hipona intentaba describir el misterio inefable del encuentro con Dios, con su amor que transforma toda la existencia.
+
+Se trata de un amor sin reservas que nos precede, nos sostiene y nos llama durante el camino de la vida y tiene su raíz en la absoluta gratuidad de Dios. Refiriéndose en concreto al ministerio sacerdotal, mi predecesor, el beato Juan Pablo II, afirmaba que «todo gesto ministerial, a la vez que lleva a amar y servir a la Iglesia, ayuda a madurar cada vez más en el amor y en el servicio a Jesucristo, Cabeza, Pastor y Esposo de la Iglesia; en un amor que se configura siempre como respuesta al amor precedente, libre y gratuito, de Dios en Cristo» (Exhort. ap. *[Pastores dabo vobis](https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)*, 25).  En efecto, toda vocación específica nace de la iniciativa de Dios; *es don de la caridad de Dios.* Él es quien da el “primer paso” y no como consecuencia de una bondad particular que encuentra en nosotros, sino en virtud de la presencia de su mismo amor «derramado en nuestros corazones por el Espíritu» (*Rm* 5,5).
+
+En todo momento, en el origen de la llamada divina está la iniciativa del amor infinito de Dios, que se manifiesta plenamente en Jesucristo. Como escribí en mi primera encíclica *[Deus caritas est](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html),* «de hecho, Dios es visible de muchas maneras. En la historia de amor que nos narra la Biblia, Él sale a nuestro encuentro, trata de atraernos, llegando hasta la Última Cena, hasta el Corazón traspasado en la cruz, hasta las apariciones del Resucitado y las grandes obras mediante las que Él, por la acción de los Apóstoles, ha guiado el caminar de la Iglesia naciente. El Señor tampoco ha estado ausente en la historia sucesiva de la Iglesia: siempre viene a nuestro encuentro a través de los hombres en los que Él se refleja; mediante su Palabra, en los Sacramentos, especialmente la Eucaristía» (n. 17).
+
+El amor de Dios permanece para siempre, es fiel a sí mismo, a la «palabra dada por mil generaciones» (*Sal* 105,8). Es preciso por tanto volver a anunciar, especialmente a las nuevas generaciones, la belleza cautivadora de ese amor divino, que precede y acompaña: es el resorte secreto, es la motivación que nunca falla, ni siquiera en las circunstancias más difíciles.
+
+Queridos hermanos y hermanas, tenemos que abrir nuestra vida a este amor; cada día Jesucristo nos llama a la perfección del amor del Padre (cf. *Mt* 5,48). La grandeza de la vida cristiana consiste en efecto en amar “como” lo hace Dios; se trata de un amor que se manifiesta en el don total de sí mismo fiel y fecundo. San Juan de la Cruz, respondiendo a la priora del monasterio de Segovia, apenada por la dramática situación de suspensión en la que se encontraba el santo en aquellos años, la invita a actuar de acuerdo con Dios: «No piense otra cosa sino que todo lo ordena Dios. Y donde no hay amor, ponga amor, y sacará amor» (*Epistolario*, 26).
+
+En este terreno oblativo, en la apertura al amor de Dios y como fruto de este amor, nacen y crecen todas las vocaciones. Y bebiendo de este manantial mediante la oración, con el trato frecuente con la Palabra y los Sacramentos, especialmente la Eucaristía, será posible vivir el amor al prójimo en el que se aprende a descubrir el rostro de Cristo Señor (cf. *Mt* 25,31-46). Para expresar el vínculo indisoluble que media entre estos “dos amores”  –el amor a Dios y el amor al prójimo– que brotan de la misma fuente divina y a ella se orientan, el Papa san Gregorio Magno se sirve del ejemplo de la planta pequeña: «En el terreno de nuestro corazón, \[Dios\] ha plantado primero la raíz del amor a él y luego se ha desarrollado, como copa, el amor fraterno» (*Moralium Libri, sive expositio in Librum B. Job,* Lib. VII, cap. 24, 28; *PL* 75, 780D).
+
+Estas dos expresiones del único amor divino han de ser vividas con especial intensidad y pureza de corazón por quienes se han decidido a emprender un camino de discernimiento vocacional en el ministerio sacerdotal y la vida consagrada; constituyen su elemento determinante. En efecto, el amor a Dios, del que los presbíteros y los religiosos se convierten en imágenes visibles –aunque siempre imperfectas– es la motivación de la respuesta a la llamada de especial consagración al Señor a través de la ordenación presbiteral o la profesión de los consejos evangélicos. La fuerza de la respuesta de san Pedro al divino Maestro: «Tú sabes que te quiero» (*Jn* 21,15), es el secreto de una existencia entregada y vivida en plenitud y, por esto, llena de profunda alegría.
+
+La otra expresión concreta del amor, el amor al prójimo, sobre todo hacia los más necesitados y los que sufren, es el impulso decisivo que hace del sacerdote y de la persona consagrada alguien que suscita comunión entre la gente y un sembrador de esperanza. La relación de los consagrados, especialmente del sacerdote, con la comunidad cristiana es vital y llega a ser parte fundamental de su horizonte afectivo. A este respecto, al Santo Cura de Ars le gustaba repetir: «El sacerdote no es sacerdote para sí mismo; lo es para vosotros»(*Le curé d’Ars. Sa pensée – Son cœur*, Foi Vivante, 1966, p. 100).
+
+Queridos Hermanos en el episcopado, queridos presbíteros, diáconos, consagrados y consagradas, catequistas, agentes de pastoral y todos los que os dedicáis a la educación de las nuevas generaciones, os exhorto con viva solicitud a prestar atención a todos los que en las comunidades parroquiales, las asociaciones y los movimientos advierten la manifestación de los signos de una llamada al sacerdocio o a una especial consagración. Es importante que se creen en la Iglesia las condiciones favorables para que puedan aflorar tantos “sí”, en respuesta generosa a la llamada del amor de Dios.
+
+Será tarea de la pastoral vocacional ofrecer puntos de orientación para un camino fructífero. Un elemento central debe ser el amor a la Palabra de Dios, a través de una creciente familiaridad con la Sagrada Escritura y una oración personal y comunitaria atenta y constante, para ser capaces de sentir la llamada divina en medio de tantas voces que llenan la vida diaria. Pero, sobre todo, que la Eucaristía sea el “centro vital” de todo camino vocacional: es aquí donde el amor de Dios nos toca en el sacrificio de Cristo, expresión perfecta del amor, y es aquí donde aprendemos una y otra vez a vivir la «gran medida» del amor de Dios. Palabra, oración y Eucaristía son el tesoro precioso para comprender la belleza de una vida totalmente gastada por el Reino.
+
+Deseo que las Iglesias locales, en todos sus estamentos, sean un “lugar” de discernimiento atento y de profunda verificación vocacional, ofreciendo a los jóvenes un sabio y vigoroso acompañamiento espiritual. De esta manera, la comunidad cristiana se convierte ella misma en manifestación de la caridad de Dios que custodia en sí toda llamada. Esa dinámica, que responde a las instancias del mandamiento nuevo de Jesús, se puede llevar a cabo de manera elocuente y singular en las familias cristianas, cuyo amor es expresión del amor de Cristo que se entregó a sí mismo por su Iglesia (cf. *Ef* 5,32). En las familias, «comunidad de vida y de amor» (*[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html),* 48), las nuevas generaciones pueden tener una admirable experiencia de este amor oblativo. Ellas, efectivamente, no sólo son el lugar privilegiado de la formación humana y cristiana, sino que pueden convertirse en «el primer y mejor seminario de la vocación a la vida de consagración al Reino de Dios» (Exhort. ap. *[Familiaris consortio](https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)*,53), haciendo descubrir, precisamente en el seno del hogar, la belleza e importancia del sacerdocio y de la vida consagrada. Los pastores y todos los fieles laicos han de colaborar siempre para que en la Iglesia se multipliquen esas «casas y escuelas de comunión» siguiendo el modelo de la Sagrada Familia de Nazaret, reflejo armonioso en la tierra de la vida de la Santísima Trinidad.
+
+Con estos deseos, imparto de corazón la Bendición Apostólica a vosotros, Venerables Hermanos en el episcopado, a los sacerdotes, a los diáconos, a los religiosos, a las religiosas y a todos los fieles laicos, en particular a los jóvenes que con corazón dócil se ponen a la escucha de la voz de Dios, dispuestos a acogerla con adhesión generosa y fiel.
+
+*Vaticano, 18 de octubre de 2011*
+
+## BENEDICTO XVI

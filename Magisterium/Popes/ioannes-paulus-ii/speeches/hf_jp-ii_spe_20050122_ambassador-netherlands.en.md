@@ -1,0 +1,73 @@
+---
+id: jp2-spe-20050122-ambassador-netherlands.en
+work: jp2-spe-20050122-ambassador-netherlands
+title: "To the Ambassador of the Netherlands to the Holy See (January 22, 2005)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2005-01-22
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2005/january/documents/hf_jp-ii_spe_20050122_ambassador-netherlands.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, pt"
+anchors: "{#jp2-spe-20050122-ambassador-netherlands} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "MISMATCH: en: 0 anchors to 0; es: 7 anchors to 7"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Ambassador of the Netherlands to the Holy See (January 22, 2005) {#jp2-spe-20050122-ambassador-netherlands}
+## ADDRESS OF POPE JOHN PAUL II TO H.E. Ms. Monique Patricia Antoinette Frank, AMBASSADOR OF THE KINGDOM OF THE NETHERLANDS TO THE HOLY SEE
+
+*Saturday, 22 January 2005*
+
+*Madam Ambassador*,
+
+I am pleased to welcome you, Your Excellency, for the presentation of the Letters accrediting you as Ambassador Extraordinary and Plenipotentiary of the Kingdom of The Netherlands to the Holy See.
+
+I cordially thank you for conveying Her Majesty Queen Beatrix's courteous message to me, and I would be grateful if you would kindly reciprocate by expressing to her my very best wishes for herself, the royal family and all the People of The Netherlands.
+
+Every day, world news reminds everyone of the pressing need to build a future of peace among human beings and, if they are to succeed, to consolidate a stable international order which is guaranteed in particular by a fairer distribution of resources among nations and an active development aid policy.
+
+As you stressed, Madam Ambassador, your Country has recently had to face new tensions that result from the rapid transformation of our societies in a world more and more open to cultural diversity. People there are also becoming aware of the urgent need for a deeper dialogue between the different groups that make up the Nation, so that they may all learn to know and respect one another. This openness to others is indispensable in order to cross the frontiers of each group, as I recalled in my *[Message for the World Day of Peace](http://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_20001208_xxxiv-world-day-for-peace_en.html)* of 1 January 2001:  "In order to prevent the sense of belonging to one particular culture from turning into isolation, an effective antidote is a serene and unprejudiced knowledge of other cultures" (n. 7).
+
+On this condition, it will be possible to establish peaceful relations between the different communities with a view to building together the common edifice of the Nation.
+
+To ensure that the Catholic Church makes a powerful contribution to this process that prepares as it were "a new political culture" ([*Message for World Day of Peace* *2005*](http://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_20041216_xxxviii-world-day-for-peace_en.html)*,* n. 10), I once again took the initiative more than three years ago of gathering the leaders of the great world religions at Assisi, to demonstrate together our common desire for peace. I appealed to them to initiate a profound dialogue between all religions, and I asked them in particular to give up once and for all any legitimization of recourse to violence for religious reasons and further, to explicitly condemn it.
+
+Ever since, the Holy See has endeavoured to encourage authentic interreligious dialogue at all levels, inviting Christians in all the societies in which they live to act in the spirit of artisans of peace and dialogue, especially with the faithful of other religions with whom they co-exist. I know that the Catholic Church in The Netherlands has recently expressed her opinion on this subject through the voice of her Bishops, and I assure them on this occasion of my full support.
+
+Your Excellency, you emphasized your Country's important role in the fight against hunger and poverty in the world. You also mentioned its involvement in development projects and health-care assistance for peoples particularly at risk in the drama of pandemics such as that of AIDS, which has spread so rapidly in Africa, claiming countless victims.
+
+As you know, the Holy See considers that in order to combat this disease responsibly, it is first necessary to increase its prevention, in particular by teaching respect for the sacred value of life and the correct practice of sexuality. This implies chastity and fidelity.
+
+At my request, the Church has also mobilized projects for the victims, especially to ensure that they are guaranteed access to the preventive treatment and medicines they need at numerous health-care centres.
+
+The Netherlands has just taken over the presidency of the European Union, at a time when it is accepting new member countries and when other new applications for memberships are being made. The Holy See has always followed and encouraged the European project as a constructive contribution to peace, on this Continent but also beyond it, considering it a prospect of cooperation for other regions of the world. As I asked outright in my recent *[Message for the celebration of World Day of Peace, 1 January 2005](http://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_20041216_xxxviii-world-day-for-peace_en.html)* (cf. n. 10), I appeal to the Governments of the European Union to join forces to make new efforts for development by working on agreements of true cooperation and partnership, especially in Africa, a neighbouring Continent that has become so close to Europe because of the historical connections of cooperation and partnership.
+
+For several years, Dutch society, marked by the phenomenon of secularization, has been committed to a new policy with regard to legislation concerning the beginning and end of human life. The Holy See, therefore, has not failed to make known its clear position and to ask Catholics in The Netherlands to witness ever more forcefully to their attachment to unqualified respect for the human person, from conception until natural death.
+
+I once again ask the Authorities and medical personnel and those who have an educational role to ponder on the gravity of these issues and thus on the importance of their decisions, so as to build a society that will be more and more attentive to individuals and their dignity.
+
+Several generations of young people in your Country have been fortunate enough to live peacefully in the heart of the European Union and aspire to legitimate fulfilment and happiness. To prepare themselves for their future responsibilities, they require a sound education that will develop and unify their personality, strengthening the "inner man" within them, to use the Apostle Paul's beautiful expression (Eph 3: 16), and that will open them very specially to the encounter with others in an increasingly cosmopolitan and multicultural society.
+
+For her part, the Catholic Church, which has always been attentive to youth, will continue to be concerned with the integral education of the young. She will also be ready to contribute with her own endeavours to ensuring that the whole Nation makes an effort in this area.
+
+Through you, Your Excellency, I am pleased to greet the Catholic community of The Netherlands and its Pastors. I know that Catholics are deeply involved in the life of the Country, attentive to social developments and determined to make a full contribution to the common good. They do so by witnessing to their beliefs and hopes and seeking to live in conformity with the commandment of love received from the Lord.
+
+I encourage the Catholic community to take special care every day to foster dialogue between the people and groups that make up society, especially in the sprawling urban agglomerations where the complexity of human relations can give rise to deep loneliness.
+
+I also appeal to Catholics to devote themselves without reserve to serving the weakest who are often marginalized in modern societies, marked by financial and social rivalry.
+
+Madam Ambassador, today you are inaugurating the noble mission of representing your Country to the Holy See. Please accept my very best wishes for its success and rest assured that you will always find among my collaborators the understanding and support you may need.
+
+I wholeheartedly invoke upon you, Your Excellency, upon your family, upon all your collaborators and upon all your compatriots an abundance of divine Blessings.
+
+\**L'Osservatore Romano. Weekly Edition in English* n. 5 p.8.

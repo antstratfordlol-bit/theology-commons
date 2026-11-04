@@ -1,0 +1,70 @@
+---
+id: jp2-aud-20040421.en
+work: jp2-aud-20040421
+title: "21 April 2004"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: General audience (catechesis)
+url_date: 2004-04-21
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/audiences/2004/documents/hf_jp-ii_aud_20040421.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#jp2-aud-20040421.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-aud-20040421.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 21 April 2004
+## JOHN PAUL II
+
+## GENERAL AUDIENCE
+
+*Wednesday, 21 April 2004*
+
+*Psalm* [27\[26\]: 1-6](http://www.vatican.va/archive/ENG0839/__PGJ.HTM)\
+## "The Lord is my light and my help!'
+
+### 1 {#jp2-aud-20040421.1}
+
+Today we continue on our journey through **** *Vespers* with Psalm 27\[26\], which the liturgy separates into two different passages. Let us now follow the first part of this poetical and spiritual diptych (vv. 1-6) whose background is the Temple of Zion, Israel's place of worship. Indeed, the Psalmist speaks explicitly of the "house of the Lord", his "temple" (v. 4) of "safety, a dwelling, a house" (cf. vv. 5-6). Indeed, in the original Hebrew, a more precise meaning of these terms is "tabernacle" and "tent", that is, the inner sanctuary of the temple where the Lord reveals himself with his presence and his words. The "rock" of Zion (cf. v. 5) is also recalled, a place of safety and shelter, and an allusion is made to the celebration of thanksgiving sacrifices (cf. v. 6).
+
+If, therefore, the liturgy is the spiritual atmosphere in which this Psalm is steeped, the guiding thread of prayer is trust in God, both on the day of rejoicing and in time of fear.
+
+### 2 {#jp2-aud-20040421.2}
+
+The first part of the Psalm we are now meditating upon is marked by a deep tranquillity, based on trust in God on the dark day of the evildoers' assault. Two types of images are used to describe these adversaries, symbols of the evil that contaminates history. On the one hand, we seem to have the imagery of a ferocious hunt; the evildoers are like wild beasts stalking their prey to pounce on it and tear away its flesh, but they stumble and fall (cf. v. 2). On the other hand, there is the military symbol of an assault by a whole army:  a raging battle is waged, sowing terror and death (cf. v. 3).
+
+The believer's life is often subjected to tension and disputes, sometimes also rejection and even persecution. The conduct of the righteous person is troubling, for it conveys tones of reproof to the arrogant and the perverse. The ungodly described in the *Book of Wisdom* recognize this without mincing their words:  "He became to us a reproof of our thoughts; the very sight of him is a burden to us, because his manner of life is unlike that of others, and his ways are strange" (Wis 2: 14-15).
+
+### 3 {#jp2-aud-20040421.3}
+
+The faithful know that being consistent creates ostracism and even provokes contempt and hostility in a society that often chooses to live under the banner of personal prestige, ostentatious success, wealth, unbridled enjoyment. They are not alone, however, and preserve a surprising interior peace in their hearts because, as the marvellous "antiphon" that opens the Psalm says, "the Lord is light and salvation... the stronghold of life" (cf. Ps 27\[26\]: 1) of the just. He continuously repeats: "Whom shall I fear?", "Of whom shall I be afraid?", "My heart shall not fear", "Yet I will trust" (cf. vv. 1, 3).
+
+It almost seems as though we were hearing the voice of St Paul proclaiming: "If God is for us, who is against us?" (Rom 8: 31). But inner calm, strength of soul and peace are gifts obtained by seeking shelter in the temple, that is, by recourse to personal and communal prayer.
+
+### 4 {#jp2-aud-20040421.4}
+
+Indeed, the person praying entrusts himself to God's embrace, and another Psalm also expresses that person's dream: "I shall dwell in the house of the Lord for ever" (cf. Ps 23\[22\]: 6). There he will be able to "savour the sweetness of the Lord" (Ps 27\[26\]: 4), to contemplate and admire the divine mystery, to take part in the sacrificial liturgy and sing praise to God who sets him free (cf. v. 6). The Lord creates around his faithful a horizon of peace that blocks out the clamour of evil. Communion with God is a source of serenity, joy and tranquillity; it is like reaching an oasis of light and love.
+
+### 5 {#jp2-aud-20040421.5}
+
+To conclude our reflection, let us now listen to the words of the Syrian monk Isaiah who lived in the Egyptian desert and died in Gaza around the year 491. In his *Asceticon* he applies our Psalm to prayer during temptation:
+
+"If we see our foes surrounding us with their cunning, their spiritual sloth, weakening our souls with pleasure, or failing to contain our anger against our neighbour when he acts contrary to his duty, or tempting our eyes with concupiscence, or if they want to entice us to taste the pleasures of gluttony, if they make our neighbour's words to us like poison, if they incite us to belittle what others say or if they induce us to distinguish between our brethren by saying:  "This one is good, this one is bad'; therefore, even if all these things surround us, let us not lose heart but cry out bravely like David:  "The Lord is the stronghold of my life!' (Ps 27\[26\]: 1)" (*Recueil Ascétique,* Bellefontaine, 1976, p. 211).
+
+\*\*\*
+
+*To special groups*
+
+I am pleased to greet the English-speaking visitors present at this Audience, particularly the pilgrims from England, Norway, Sweden, Finland, Ghana, New Zealand, Indonesia, Canada and the United States of America. Upon you and your families I cordially invoke the Risen Lord's gifts of grace and peace.
+
+Lastly, I greet the *young people,* the *sick* and the *newly-weds*. May the Spirit of the risen Christ spur you, dear *young people,* to be courageous apostles of his Gospel; may he encourage you, dear *sick people,* peacefully to hold fast to the divine designs of salvation; and may he make you, dear *newly-weds*, more and more faithful to the mission entrusted to you in the Church and in society.

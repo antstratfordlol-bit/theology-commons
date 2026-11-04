@@ -1,0 +1,73 @@
+---
+id: jp2-spe-20050310-ambassador-senegal.en
+work: jp2-spe-20050310-ambassador-senegal
+title: "To the Ambassador of Senegal to the Holy See (March 10, 2005)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2005-03-10
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2005/march/documents/hf_jp-ii_spe_20050310_ambassador-senegal.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, pt"
+anchors: "{#jp2-spe-20050310-ambassador-senegal.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-spe-20050310-ambassador-senegal.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Ambassador of Senegal to the Holy See (March 10, 2005)
+## MESSAGE OF POPE JOHN PAUL II TO H.E. MR FÉLIX OUDIANE, AMBASSADOR OF SENEGAL TO THE HOLY SEE
+
+*From the Gemelli Polyclinic, 10 March 2005*
+
+*Mr Ambassador,*
+
+### 1 {#jp2-spe-20050310-ambassador-senegal.1}
+
+I am pleased to accredit you, Your Excellency, as Ambassador Extraordinary and Plenipotentiary of Senegal to the Holy See. I am grateful to you for conveying to me the cordial wishes of H.E. Mr Abdoulaye Wade, President of the Republic. I have pleasant memories of his visit to me at the Vatican several months ago. In return be so kind as to convey to him my very high opinion and esteem.
+
+Thank you for your courteous words. They are a sign that relations of reciprocal trust have not ceased to develop between Senegal and the Apostolic See, and thus show the importance that your Country gives to the spiritual dimension of the human being and of the people as a whole.
+
+Lastly, I offer all your compatriots my warm greetings and the assurance of my prayers for the material and spiritual prosperity of the entire Nation.
+
+### 2 {#jp2-spe-20050310-ambassador-senegal.2}
+
+Senegal has a long tradition of friendly coexistence among all the communities of which it consists. I am delighted, therefore, with the promising results of the efforts made in your Country to reinforce civil peace at home and to eliminate all possible causes of violent disputes and confrontations. Indeed, it is essential that the inhabitants be able to live in security and peace.
+
+As I have often had the opportunity of stressing, *"Peace... is a supreme good and the condition for attaining many other essential goods*" (*[Address to the Diplomatic Corps](https://www.vatican.va/content/john-paul-ii/en/speeches/2005/january/documents/hf_jp-ii_spe_20050110_diplomatic-corps.html),* 10 January 2005, n. 7:  *L'Osservatore Romano* English edition, 12 January, p. 3).
+
+Peace is indispensable if a people is to achieve its just aspiration to a dignified life in solidarity. Besides, it is necessary more than ever to teach the young generations the ideals of brotherhood, justice and solidarity.
+
+Senegal's commitment to seeking and reinforcing peace in Africa is known and appreciated by the international community. In this perspective, I warmly encourage the efforts made to recover understanding and brotherhood in various countries of the region, while strengthening bonds of solidarity between the neighbouring peoples.
+
+Africa is in urgent need of peace and stability. Violence is never a satisfactory solution for settling disagreements between human groups; courage and perseverance are the most effective means to achieve genuine reconciliation.
+
+As for the Catholic Church, she is totally convinced that there is no peace without justice and no justice without forgiveness (cf. *[Message for World Day of Peace](https://www.vatican.va/content/john-paul-ii/en/messages/peace/documents/hf_jp-ii_mes_20011211_xxxv-world-day-for-peace.html),* 1 January 2002, n. 15). She therefore hopes that everyone will allow themselves to be guided by the light of the true good of men and women, in a constant search for the common good.
+
+### 3 {#jp2-spe-20050310-ambassador-senegal.3}
+
+However, the many testimonies of friendly coexistence among the members of the different religions, and Muslims and Christians in particular, deserve to be highlighted in our world that is all too often darkened by vast shadow areas, a consequence of the sometimes violent opposition which people seek to justify with religious reasons. And I am pleased to note that your Country has been committed to moving in this direction for some time and is thereby showing that dialogue between believers and between cultures is an essential element for building peace among peoples.
+
+Senegal is particularly sensitive to the need to live the diversity of religious affiliation in the unity of the Nation. The full development of society depends on this. Despite the inevitable difficulties inherent in the coexistence of different human communities, dialogue makes it possible to recognize the riches of their diversity. The different communities will discover that dialogue is the best way to safeguard their own particular features, as well as to reach true reciprocal understanding, founded on respect and friendship.
+
+This dialogue, however, must first of all be expressed in the authentic friendly coexistence of all the communities, at the service of the common good of the one human family. The communities still have a long way to go together, the way of mutual knowledge, forgiveness, reconciliation and openness to regular cooperation that will help build a peaceful and brotherly society. As you know, Mr Ambassador, the Catholic Church has set out with determination on this path. It is up to believers to make it a hope for the world.
+
+### 4 {#jp2-spe-20050310-ambassador-senegal.4}
+
+On this solemn occasion, Mr Ambassador, I would also like to offer a cordial greeting through you to the Catholic community in Senegal. I ask this Catholic community always to be united around their Bishops so that it will shine out increasingly with Christ's love, sharing with everyone the joy and peace that it never ceases to receive from him. The Gospel calls all Christ's disciples to work tirelessly with all people of good will to build the unity of the human family, whose source is God!
+
+### 5 {#jp2-spe-20050310-ambassador-senegal.5}
+
+At the moment when you are beginning your mission to the Apostolic See, I offer you my very best wishes for its success. You may rest assured that you will always find in my collaborators an attentive welcome and the cordial understanding you may need.
+
+I wholeheartedly invoke an abundance of divine Blessings upon you, Your Excellency, and upon your collaborators, your family, the Senegalese People and their Leaders.
+
+\**L'Osservatore Romano. Weekly Edition in English* n.14 pp.17, 18.

@@ -1,0 +1,35 @@
+---
+id: leo13-optimae-quidem.la
+work: leo13-optimae-quidem
+title: "Optimae quidem (21 Iulii 1891)"
+creator: "Leo PP. XIII"
+pope: Leo XIII
+document-type: Apostolic letter
+url_date: 1891-07-21
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: la
+original-language: yes
+original-note: "the Latin text as published by the Holy See; for the modern magisterium the Latin is the editio typica where one exists"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/leo-xiii/la/apost_letters/documents/hf_l-xiii_apl_18910721_optimae-quidem.html"
+fetch_date: 2026-09-15
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "la"
+anchors: "{#leo13-optimae-quidem} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across la"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-09-15
+---
+
+# Optimae quidem (21 Iulii 1891) {#leo13-optimae-quidem}
+## LITTERAE APOSTOLICAE SSMI D.N. LEONIS XIII QUIBUS DEIPARA VIRGO IN PATRONAM COELESTEM CONGI INDEPENDENTIS ELIGITUR
+
+Ad perpetuam rei memoriam. Optimae quidem spei, quam, recenti Congi Independentis statu sub carissimi in Christo Filii Nostri Leopoldi II Belgarum Regis auctoritate constituto, iure meritoque conceperamus, fore nimirum ut vastissimis illis Africae tractibus, erroris adhuc caligine circumfusis, Evangelicae veritatis lumen affulgeret, exitus iam respondisse satis prosperos non mediocriter delectamur. Post quam enim in iis regionibus Vicariatum Apostolicum per Nostras litteras constituimus, constitutumque Congregationi ab Immaculato Corde Mariae vulgo « de Scheutveld-lez-Bruxelles » nuncupatae gerendum tradidimus, silvestris illa atque inculta vineae Domini pars, operariorum culturae, ut Nobis significatum est, se facilem praebuit, laetosque de se fructus atque uberes coepit polliceri. Nunc vero spes Nostra maxime confirmatur atque augetur ex eo, quod ipse Belgarum Rex probe intelligens in catholica religione originem et fontes humanitatis inesse, illius propagationi per populos ditioni suae recens additos ita favit, ut eiusdem propagationis auspex extiterit et patrocinium libens susceperit. Ex quo quidem illud obtigit auspicato, quod Belgae complures Regis in exemplum ad nova provehendi per africam gentem catholici nominis studia statim exarserint, et salutare opus alacri animo aggressi iam multa perfecerint, quae Nos illis merito gratulemur. Quibus in rebus dum singularia divinae providentiae beneficia agnoscimus, non minus miramur studium et constantiam tot lectissimorum virorum, qui primaevos evangelii nuntios aemulati, et non aliam sibi deposcentes mercedem, quam salutem animarum, per africanas regiones serunt verbum Dei, easque nobili sudore fecundant. Itaque cum bonorum omnium Datori Deo gratias agimus, tum meritis laudibus libenter prosequimur praestantes viros, qui christianae afrorum culturae praesunt; et placet in primis memorare dilectum filium Oswaldum Mariam van den Berghe, Ecclesiae Sancti Iosephi Antuerpiae Parochum, qui primas Stationes Religiosas, utile quidem ac fructuosum opus, studio sumptuque suo constituendas curavit. Participes cum eo sicut operis, ita gloriae novimus esse dilectos filios Comites Mauritium de Ramaix et Florimundum de Bergeyck egregie et ipsos de Fidei per Congum propagatione merentes, unaque cum iis Leonem van Ockerhout, qui hospitalem domum in egenorum subsidium sua impensa excitavit. Verum Nos non ita Belgarum studio in Congi regionibus evangelii luce collustrandis permovemur, quam iucunde afficimur singulari eorum pietate, ac summa fide et spe, quam in Deo positam habent. Ipsorum enim plurimi, haud ignari labores suos in colendo agro Dominico tam deserto atque aspero haudquaquam pares futuros, nisi coelestis vineae Dominus vires suppeditant, divinam Eius opem implorandam et interpretem votorum adiutricemque adhibendam Immaculatam Mariam Virginem concordi studio censuerunt. Nihil immo fore aptius atque opportunius iis visum est, quam ut in abducendis ab errorum superstitione gentibus Congi, iisque ad veram Christi sapientiam advocandis, itemque in servitute Nigritarum delenda, eandem sibi coelestem Patronam adsciscerent Genitricem Filii Dei, a quo lumen mentium et filiorum libertatem accepimus. Quibus e rebus Dilectus Filius Noster Petrus Lambertus S. R. E. Presbyter Cardinalis Goossens ex dispensatione Apostolica Archiepiscopus Mechliniensis et Praeses honorarius illius coetus, qui opus fidei in Congo Belgico dilatandae omnimode promovet, et Venerabiles Fratres Belgici Antistites una cum Clero et supremis Moderatoribus Congi, nec non illustres alii pietate et munifica liberalitate viri, quos inter Iubet commendare dilectum filium Comitem Iosephum de Hemptinne memorati coetus solertissim um Praesidem, supplices ad Nos dedere litteras, quibus petitur, ut Immaculata Dei Genitrix Maria Independentis Congi status praecipua apud Deum Patrona auctoritate Nostra Apostolica renuncietur. Nos piis hisce precibus eo libentius annuendum censuimus, quo impensiori religionis studio Nobis sunt exhibitae; ceterum non sumus dubii quin consilium a memorato van den Berghe patefactum longius perducatur, adeoque confidimus fore ut in libero Congi statu dignum pietate Belgarum, dignum maiestate atque amplitudine augustae Patronae templum quamprimum assurgat. Quare, quod bonum felixque sit et africae gentis saluti bene vertat, Nos Apostolica auctoritate Nostra per has litteras Immaculatam Virginem Dei Genitricem Mariam Congi Independentis praecipuam in Coelis Patronam perpetuum in modum constituimus, renuntiamus; Eique honores omnes ac privilegia attribuimus, quae principibus locorum Patronis de iure competunt : ac propterea festum Assumptionis Deiparae die decimaquinta mensis Augusti quotannis occurrens, tamquam patronale ibidem haberi et recoli volumus, iubemus. Decernentes has Nostras litteras firmas, validas et efficaces existere et fore, suosque plenarios et integros effectus sortiri et obtinere, illisque ad quos spectat et spectare poterit in omnibus plenissime suffragari, sicque per quoscumque Iudices ordinarios et delegatos iudicari et definiri debere, atque irritum et inane, si secus super his a quoquam quavis auctoritate scienter vel ignoranter contigerit attentari. Non obstantibus in contrarium facientibus quibuscumque.
+
+*Datum Romae apud S. Petrum sub Annulo Piscatoris die XXI Iulii MDCCCXCI, Pontificatus Nostri Anno Decimoquarto.*
+
+M. CARD. LEDÒCHOWSKI.
+
+\**ASS*, vol. XXIV (1891-1892), pp. 129-134.

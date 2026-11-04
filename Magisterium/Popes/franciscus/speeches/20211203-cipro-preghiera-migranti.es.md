@@ -1,0 +1,66 @@
+---
+id: francis-spe-20211203-cipro-preghiera-migranti.es
+work: francis-spe-20211203-cipro-preghiera-migranti
+title: "Viaje apostólico a Chipre y Grecia: Oración ecuménica con los migrantes (Iglesia parroquial de la Santa Cruz, Nicosia, 3 de diciembre de 2021)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2021-12-03
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2021/december/documents/20211203-cipro-preghiera-migranti.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#francis-spe-20211203-cipro-preghiera-migranti} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje apostólico a Chipre y Grecia: Oración ecuménica con los migrantes (Iglesia parroquial de la Santa Cruz, Nicosia, 3 de diciembre de 2021) {#francis-spe-20211203-cipro-preghiera-migranti}
+[VIAJE APOSTÓLICO DE SU SANTIDAD EL PAPA FRANCISCO\
+A CHIPRE Y GRECIA](https://www.vatican.va/content/francesco/es/travels/2021/outside/documents/cipro-grecia-2021.html)\
+(2-6 DE DICIEMBRE DE 2021)
+
+## ORACIÓN ECUMÉNICA CON LOS MIGRANTES
+
+*Iglesia parroquial de la Santa Cruz, Nicosia\
+Viernes, 3 de diciembre de 2021*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2021/12/3/nicosia-migranti.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Queridos hermanos y hermanas:*
+
+Es una gran alegría estar aquí con ustedes y concluir mi visita a Chipre con este encuentro de oración. Agradezco a los Patriarcas Pizzaballa y Béchara Raï, así como también a la señora Elisabeth de Cáritas. Saludo con afecto y gratitud a los Representantes de las diversas confesiones cristianas presentes en Chipre.
+
+A ustedes, jóvenes migrantes que han dado sus testimonios, deseo decirles un enorme “gracias” de corazón. Había recibido los testimonios con anticipación, hace aproximadamente un mes, y me habían emocionado mucho, y también hoy me han conmovido nuevamente al escucharlos. Pero no es sólo emoción, es mucho más, es la conmoción que viene de la belleza de la verdad, como la de Jesús cuando exclamó: «Yo te alabo, Padre, Señor del cielo y de la tierra, porque has revelado todo esto a los pequeños y lo has ocultado a los sabios y a los astutos» (*Mt* 11,25). También yo alabo al Padre celestial porque esto sucede hoy, aquí —como también en todo el mundo—, Dios revela su Reino a los pequeños: Reino de amor, de justicia y de paz.
+
+Después de escucharlos a ustedes comprendemos mejor toda la fuerza profética de la Palabra de Dios que, por medio del apóstol Pablo, dice: «Ustedes ya no son extraños ni forasteros, sino conciudadanos de los santos y familia de Dios» (*Ef* 2,19). Fueron palabras escritas a los cristianos de Éfeso —no lejos de aquí—; muy distantes en el tiempo, pero palabras tan cercanas, que son más actuales que nunca, como si hubieran sido escritas hoy para nosotros: “Ustedes *no son forasteros, sino conciudadanos*”. Esta es la profecía de la Iglesia, una comunidad que encarna —con todos los límites humanos— el sueño de Dios. Porque también Dios sueña, como tú, Mariamie, que vienes de la República Democrática del Congo y te has definido “llena de sueños”. Como tú, Dios sueña un mundo de paz, en el que sus hijos viven como hermanos y hermanas. Dios *quiere* esto, Dios *sueña* esto. Somos nosotros los que no lo queremos.
+
+Su presencia, hermanos y hermanas migrantes, es muy significativa en esta celebración. Sus testimonios son como un “espejo” para nosotros, comunidades cristianas. Cuando tú, Thamara, que vienes de Sri Lanka, dices: “A menudo me preguntan *quién soy*”: la brutalidad de la migración pone en juego la propia identidad. “Pero, ¿este soy yo? No lo sé. ¿Dónde están mis raíces? ¿Quién soy?”. Y cuando dices esto, nos recuerdas que también a nosotros se nos hace a veces esta pregunta: “¿Quién eres tú?”. Y, lamentablemente, con frecuencia lo que se quiere decir es: “¿De qué parte estás? ¿A qué grupo perteneces?”. Pero como tú nos has dicho, no somos números, no somos individuos que haya que catalogar: somos “hermanos”, “amigos”, “creyentes” y “prójimos” los unos de los otros. Pero cuando los intereses de grupo o los intereses políticos, también de las naciones, presionan, muchos de entre nosotros son apartados y, sin quererlo, se ven esclavos. Porque el interés siempre esclaviza, siempre crea esclavos. El amor que es amplio y que es contrario al odio, nos hace libres.
+
+Cuando tú, Maccolins, que vienes de Camerún, dices que a lo largo de tu vida has sido “*herido por el odio*”, tú estás hablando de esto, de estas heridas de los intereses; y nos recuerdas que el odio también ha contaminado nuestras relaciones entre cristianos. Y esto, como tú has dicho, deja una marca, una marca profunda que dura mucho tiempo: es un veneno. Sí, lo has expresado con tu pasión: el odio es un veneno del que resulta difícil desintoxicarse. Y el odio es una mentalidad distorsionada que, en vez de hacer que nos reconozcamos hermanos, lleva a que nos veamos como adversarios, como rivales, o si no como objetos que se venden o se explotan.
+
+Cuando tú, Rozh, que vienes de Irak, dices que eres “una persona *en camino*”, nos recuerdas que también nosotros somos una comunidad en camino, que estamos en marcha *del conflicto a la comunión*. En este camino, que es largo y está formado por subidas y bajadas, no nos deben asustar las diferencias entre nosotros, sino más bien, sí deben darnos miedo nuestras cerrazones, y nuestros prejuicios, que impiden que nos encontremos realmente y que caminemos juntos. Las cerrazones y los prejuicios vuelven a construir entre nosotros ese muro de separación que Cristo ha derribado, es decir, la enemistad (cf. *Ef* 2,14). Y entonces nuestro viaje hacia la unidad plena podrá avanzar en la medida en que tengamos todos juntos la mirada fija en Jesús, en Él, que es «nuestra paz» (*ibíd.*), que es la «piedra principal» (v. 20). Y Él, el Señor Jesús, viene a nuestro encuentro en el rostro del hermano marginado y descartado, en el rostro del migrante despreciado, rechazado, oprimido, explotado. Pero también —como has dicho tú—, en el rostro del migrante que está en camino hacia algo, hacia una esperanza, hacia una convivencia más humana.
+
+Y así Dios nos habla a través de sus sueños. El peligro es que muchas veces no dejamos entrar los sueños dentro de nosotros, preferimos dormir y no soñar. Es más fácil mirar a otra parte. Y en este mundo nos acostumbramos a la cultura de la indiferencia, a la cultura de mirar a otro lado, y dormirnos así, tranquilos. Pero por este camino nunca se puede soñar. Es duro. Dios habla por medio de sus sueños. Dios no habla por medio de las personas que no pueden soñar nada, porque tienen todo o porque su corazón se ha endurecido. Dios también a nosotros nos llama a no resignarnos a vivir en un mundo dividido, a no resignarnos a comunidades cristianas divididas, sino a caminar en la historia atraídos por el sueño de Dios, que es una humanidad sin muros de separación, liberada de la enemistad, sin más forasteros sino sólo conciudadanos, como nos decía Pablo en el pasaje que he citado. Diferentes, es verdad, y orgullosos de nuestras peculiaridades; orgullosos de ser diferentes, de estas peculiaridades que son un don de Dios, Diferentes, orgullosos de serlo, pero siempre reconciliados, siempre hermanos.
+
+Que esta isla, marcada por una dolorosa división —estoy mirando el muro, allí \[a través de la puerta abierta de la Iglesia\]—, pueda convertirse con la gracia de Dios en *taller de fraternidad*. Yo agradezco a todos los que trabajan por esto. Pensar que esta isla es generosa, pero no puede hacerlo todo, porque el número de gente que llega es superior a sus posibilidades de incorporar, de integrar, de acompañar, de promover. Su cercanía geográfica facilita, pero no es fácil. Debemos entender los límites que tienen los gobernantes de esta isla. Pero siempre está presente en esta isla, y lo he visto en los responsables que he visitado, \[el compromiso\] de convertirse, con la gracia de Dios, en taller de fraternidad. Y podrá serlo con dos condiciones: la primera es el reconocimiento efectivo de la dignidad de cada persona humana (cf. Carta enc. *[Fratelli tutti](https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html#8)*, 8). Nuestra dignidad no se vende, no se alquila, no se pierde. La frente alta: yo soy *digno* hijo de Dios. El reconocimiento efectivo de la dignidad de toda persona humana: este es el fundamento ético, un fundamento universal que está también en el centro de la doctrina social cristiana. La segunda condición es la apertura confiada a Dios, Padre de todos, y este es el “fermento” que estamos llamados a ser como creyentes (cf. *[ibíd](https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html#272)*., 272).
+
+Con estas condiciones es posible que el *sueño* se traduzca en un *viaje* cotidiano, hecho de pasos concretos que van del conflicto a la comunión, del *odio* al *amor*, de la huida al encuentro. Un camino paciente que, día tras día, nos hace entrar en la tierra que Dios ha preparado para nosotros, la tierra donde, si te preguntan: “*¿Quién eres?*”, puedes responder a cara descubierta: “*Mira, soy tu hermano, ¿no me conoces?*”. Y andar así, lentamente.
+
+Escuchándolos a ustedes, mirándolos a la cara, la memoria va más allá, va a los sufrimientos. Ustedes llegaron aquí, pero, ¿cuántos de sus hermanos y hermanas se quedaron en el camino? ¿Cuántos, desesperados, empezaron el viaje en condiciones muy difíciles, incluso precarias, y no pudieron llegar? Podemos decir que este mar se ha convertido en un gran cementerio. Mirándolos a ustedes veo los sufrimientos del camino, tantos que han sido secuestrados, vendidos, explotados; todavía están en camino, no sabemos dónde. Es la historia de una esclavitud, una esclavitud universal. Nosotros miramos lo que sucede, y lo peor es que *nos estamos acostumbrando* a esto: “Ah, sí, hoy se hundió un barco, allí, muchos desaparecidos”. Pero mira que este *acostumbrarse* es una enfermedad grave, es una enfermedad muy grave y no hay antibiótico para esta enfermedad. Debemos reaccionar contra este vicio de acostumbrarse a leer estas tragedias en los periódicos o escucharlas en otros medios de comunicación. Mirándolos a ustedes, pienso en tantos que tuvieron que regresar porque los rechazaron y terminaron en los campos de refugiados, verdaderos campos de concentración, donde las mujeres son vendidas, los hombres torturados, esclavizados. Nosotros nos lamentamos cuando leemos las historias de los campos de concentración del siglo pasado, los de los nazis, los de Stalin, nos lamentamos cuando vemos eso y decimos: “Pero, ¿cómo es posible que haya sucedido eso?”. Hermanos y hermanas: está sucediendo hoy, en las costas cercanas. Lugares de esclavitud. He visto algunos testimonios grabados de eso: lugares de tortura, de venta de personas. Esto lo digo porque es mi responsabilidad ayudar a que abramos los ojos. La migración forzada no es una costumbre casi turística, ¡por favor! Y el pecado que tenemos dentro nos impulsa a pensar así: “Pobre gente, pobre gente”. Y con ese “pobre gente” borramos todo. Es la guerra de este momento, es el sufrimiento de hermanos y hermanas que nosotros no podemos callar. Aquellos que han dado todo lo que tenían para subir a un barco, de noche sin saber si llegarían. Y después, tantos de ellos son rechazados y terminan en los campos de concentración, verdaderos lugares de confinamiento, de tortura y de esclavitud.
+
+Esta es la historia de esta *civilización desarrollada*, que nosotros llamamos *Occidente*. Y después —perdónenme, pero quisiera decir lo que tengo en el corazón, al menos para rezar unos por otros y hacer algo—, después los alambres de púas. Uno lo veo aquí: esta es una guerra de odio que divide a un país. Pero los alambres de púas, en otros lugares donde están, se ponen para no dejar entrar al refugiado, al que viene a pedir libertad, pan, ayuda, hermandad, alegría, que está huyendo del odio y se encuentra ante un odio que se llama *alambre de púas*. Que el Señor despierte las conciencias de todos nosotros frente a estas cosas.
+
+Y perdónenme si he dicho las cosas como son, pero no podemos callar y mirar a otro lado, en esta cultura de la indiferencia.
+
+Que el Señor los bendiga a todos. Gracias.

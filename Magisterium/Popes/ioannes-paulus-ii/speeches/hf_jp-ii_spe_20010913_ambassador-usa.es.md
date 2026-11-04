@@ -1,0 +1,48 @@
+---
+id: jp2-spe-20010913-ambassador-usa.es
+work: jp2-spe-20010913-ambassador-usa
+title: "Al Embajador de los Estados Unidos de América ante la Santa Sede con motivo de la presentación de las Cartas credenciales (13 de septiembre de 2001)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2001-09-13
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/2001/september/documents/hf_jp-ii_spe_20010913_ambassador-usa.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-spe-20010913-ambassador-usa} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Al Embajador de los Estados Unidos de América ante la Santa Sede con motivo de la presentación de las Cartas credenciales (13 de septiembre de 2001) {#jp2-spe-20010913-ambassador-usa}
+***DISCURSO DEL SANTO PADRE JUAN PABLO II\
+AL EMBAJADOR DE LOS ESTADOS UNIDOS DE AMÉRICA**\*
+
+Jueves 13 de septiembre de 2001*
+
+*Señor embajador:*
+
+Me complace aceptar las cartas credenciales que lo acreditan como embajador extraordinario y plenipotenciario de Estados Unidos ante la Santa Sede. Usted comienza su misión en un momento inmensamente trágico para su país. En este tiempo de luto nacional por las víctimas de los ataques terroristas en Washington y Nueva York, deseo asegurarle personalmente mi profunda participación en el dolor del pueblo estadounidense y mis oraciones cordiales por el presidente y las autoridades civiles, por todas las personas que trabajan en las operaciones de rescate y ayuda a los supervivientes y, de modo especial, por las víctimas y sus familias. Ruego para que ese acto inhumano suscite en el corazón de todos los pueblos del mundo una firme decisión de rechazar el camino de la violencia, combatir todo lo que siembra odio y división dentro de la familia humana, y trabajar para que nazca una nueva era de cooperación internacional, inspirada en los ideales más altos de solidaridad, justicia y paz.
+
+En mi reciente encuentro con el presidente Bush manifesté mi profunda estima por el rico patrimonio de valores humanos, religiosos y morales que ha forjado históricamente el carácter de los estadounidenses. Expresé mi convicción de que el constante liderazgo moral de Estados Unidos en el mundo depende de su fidelidad a sus principios fundacionales. En la base del compromiso de su nación en favor de la libertad, la autodeterminación y la igualdad de oportunidades se hallan verdades universales heredadas de sus raíces religiosas. De ellas brotan el respeto a la santidad de la vida y a la dignidad de cada persona humana creada a imagen y semejanza de Dios; la responsabilidad compartida por el bien común; la preocupación por la educación de la juventud y el futuro de la sociedad; y la necesidad de una sabia administración de los recursos naturales concedidos tan liberalmente por la generosidad de Dios. Al afrontar los desafíos del futuro, Estados Unidos está llamado a cultivar y vivir los valores más profundos de su herencia nacional: la solidaridad y la cooperación entre los pueblos; el respeto a los derechos humanos; y la justicia, que es condición indispensable para la auténtica libertad y la paz duradera.
+
+En el siglo que acaba de comenzar, la humanidad tiene la oportunidad de dar grandes pasos contra algunos de sus enemigos tradicionales: la pobreza, la enfermedad y la violencia. Como [dije en la sede de las Naciones Unidas en 1995](http://www.vatican.va/content/john-paul-ii/es/speeches/1995/october/documents/hf_jp-ii_spe_05101995_address-to-uno.html), tenemos el deber de lograr que a un siglo de lágrimas, el siglo XX, le siga el XXI con una "primavera del espíritu humano". Las posibilidades de la familia humana son inmensas, aunque no siempre sean evidentes en un mundo donde muchos de nuestros hermanos y hermanas sufren hambre, desnutrición, no pueden acceder a la asistencia sanitaria y a la educación, o se hallan oprimidos por gobiernos injustos, conflictos armados, desplazamientos forzados y nuevas formas de esclavitud. Para aprovechar las oportunidades hacen falta clarividencia y generosidad, especialmente de parte de quienes han sido bendecidos con libertad, riqueza y abundantes recursos. Las urgentes cuestiones éticas planteadas por la división entre los que gozan de los beneficios de la globalización de la economía mundial y los que están excluidos de los mismos exigen respuestas nuevas y creativas de toda la comunidad internacional. A este respecto deseo recalcar una vez más lo que dije en mi reciente encuentro con el presidente Bush, o sea, que la revolución de la libertad en el mundo debe completarse con una "revolución de oportunidades" que permita a todos los miembros de la familia humana gozar de una existencia digna y participar en los beneficios de un desarrollo verdaderamente global.
+
+En este marco, no puedo menos de mencionar, entre las numerosas situaciones preocupantes del mundo, la trágica violencia que sigue afectando a Oriente Próximo y que pone en peligro el proceso de paz iniciado en Madrid. También gracias al compromiso de Estados Unidos, el proceso ha suscitado la esperanza en el corazón de todos los que consideran la Tierra Santa como un lugar único de encuentro y oración entre los pueblos. Estoy seguro de que su país no dudará en promover un diálogo realista que permita a las partes implicadas alcanzar la seguridad, la justicia y la paz, respetando plenamente los derechos humanos y el derecho internacional.
+
+Señor embajador, la clarividencia y la fuerza moral que Estados Unidos debe poseer al inicio de este nuevo siglo y en un mundo en rápida transformación, exigen el reconocimiento de las raíces espirituales de la crisis que están atravesando las democracias occidentales, una crisis caracterizada por el avance de una concepción del mundo materialista, utilitaria y en definitiva inhumana, que se aparta trágicamente de los fundamentos morales de la civilización occidental. Para sobrevivir y prosperar, la democracia y sus correspondientes estructuras económicas y políticas deben guiarse por una visión centrada en la dignidad dada por Dios y los derechos inalienables de todo ser humano, desde el momento de su concepción hasta su muerte natural. Cuando algunas vidas, incluyendo la de los niños por nacer, quedan sujetas a la elección personal de los demás, ya no se puede garantizar ningún valor o derecho, y la sociedad se verá gobernada inevitablemente por intereses y conveniencias particulares. La libertad no puede apoyarse en un clima cultural en el que la dignidad humana se mide en términos meramente utilitarios. Nunca ha sido tan urgente como ahora fortalecer la visión moral y la decisión fundamental de salvaguardar una sociedad justa y libre.
+
+En este ámbito, pienso en los jóvenes estadounidenses, la esperanza de la nación. En mis visitas pastorales a Estados Unidos y sobre todo durante [mi visita a Denver en 1993](http://www.vatican.va/content/john-paul-ii/es/travels/1993/travels/documents/trav_america-1993.html) con ocasión de la [celebración de la Jornada mundial de la juventud](http://www.vatican.va/gmg/years/gmg_1993_sp.html), pude comprobar personalmente las reservas de generosidad y buena voluntad de la juventud de su país. Los jóvenes son ciertamente el tesoro más valioso de su nación. Por eso necesitan urgentemente una educación completa, que les permita rechazar el cinismo y el egoísmo, y llegar a ser miembros informados, prudentes y moralmente responsables de la comunidad. Al inicio de un nuevo milenio, hay que dar a los jóvenes la oportunidad de desempeñar su papel como "artífices de una nueva humanidad, donde hermanos y hermanas, todos miembros de una misma familia, puedan vivir finalmente en paz" (*[Mensaje para la Jornada mundial de la paz de 2001](https://w2.vatican.va/content/john-paul-ii/es/messages/peace/documents/hf_jp-ii_mes_20001208_xxxiv-world-day-for-peace.html)*, n. 22: *L'Osservatore Romano*, edición en lengua española, 15 de diciembre de 2000, p. 11).
+
+Señor embajador, al comenzar su misión como representante de su país ante la Santa Sede, le reitero mi esperanza de que el pueblo estadounidense, al afrontar los desafíos del presente y del futuro, aproveche los grandes recursos espirituales y morales que han inspirado y guiado el desarrollo de la nación, y que siguen siendo la prenda más segura de su grandeza. Confío en que la comunidad católica de Estados Unidos, que ha desempeñado históricamente un papel crucial en la educación de ciudadanos responsables y en la asistencia a los pobres, los enfermos y los necesitados, esté presente de forma activa en el proceso de discernimiento del rumbo futuro de su país. Sobre usted, sobre su familia y sobre todo el pueblo estadounidense invoco cordialmente las bendiciones de alegría y paz de Dios.
+
+\**L'Osservatore Romano.* Edición semanal en lengua española, n.38, p. 9, 10 (p. 485, 486).

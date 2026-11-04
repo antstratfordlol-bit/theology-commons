@@ -1,0 +1,103 @@
+---
+id: jp2-spe-19800829-vescovi-india.es
+work: jp2-spe-19800829-vescovi-india
+title: "A los Obispos indios de rito malabar y malankar en visita 'ad limina' (29 de agosto de 1980)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1980-08-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1980/august/documents/hf_jp-ii_spe_19800829_vescovi-india.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it, pt"
+anchors: "{#jp2-spe-19800829-vescovi-india.N} — numbered paragraphs 1..7 (7 anchors), shared with jp2-spe-19800829-vescovi-india.en"
+anchor_check: "MISMATCH: en: 9 anchors to 9; es: 7 anchors to 7"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los Obispos indios de rito malabar y malankar en visita "ad limina" (29 de agosto de 1980)
+## DISCURSO DE SU SANTIDAD JUAN PABLO II A LOS OBISPOS INDIOS DE RITO MALABAR Y MALANCAR EN VISITA «AD LIMINA»
+
+*Viernes 29 de agosto de 1980*
+
+*Venerables y queridos hermanos en nuestro Señor Jesucristo:*
+
+### 1 {#jp2-spe-19800829-vescovi-india.1}
+
+Os estoy muy agradecido por vuestra visita de hoy; dirijo mi afectuoso saludo, con gran alegría, a todos vosotros que. junto con el cardenal Joseph Parecattil, arzobispo de Ernakulam y Presidente de la Pontificia Comisión para la Revisión del Código de Derecho Canónico Oriental, habéis venido de diferentes lugares de India para realizar esta visita *ad Limina* y para llevar a cabo un encuentro colegial.
+
+### 2 {#jp2-spe-19800829-vescovi-india.2}
+
+En vosotros percibo la presencia, aquí, de *toda la Iglesia sirio-malabar,* esa Iglesia oriental y auténticamente india que, durante siglos, ha sido un maravilloso ejemplo de testimonio cristiano en su fidelidad a su fe primigenia y a sus legítimas tradiciones. De ahí que mi saludo de hoy vaya dirigido a toda vuestra Iglesia: a sacerdotes, religiosos y religiosas, miembros de institutos seculares, a los jóvenes, a los ancianos, a los padres y madres de familia, a los obreros, a los niños y a los fieles en general, especialmente a los que sufren o padecen enfermedades.
+
+Mi saludo y buenos deseos van dirigidos también a los fieles y Pastores de las restantes Iglesias que viven junto a vosotros en las diferentes partes de Kerala y en el resto de India, así como a los hermanos de las comunidades cristianas que aún no están en plena comunión con nosotros. Los hago asimismo extensivos a todos los miembros de las religiones no cristianas.
+
+### 3 {#jp2-spe-19800829-vescovi-india.3}
+
+En esta visita colegial, deseo oficialmente expresar mi gratitud por los diligentes informes que habéis puesto* *a mi disposición y a disposición de mis colaboradores en la Sede Apostólica, en orden a un mayor conocimiento de vuestras eparquías, tan numerosas en clero y en religiosos. Esas eparquías rebosan de actividad pastoral y misionera; sus actividades se manifiestan también en el campo de la cultura a través de colegios y escuelas, en el campo de la asistencia caritativa y social mediante hospitales y dispensarios, y en cualquier lugar donde haya necesidad de trabajar por el progreso humano, social y espiritual de vuestras comunidades o de cualquier otra sin distinción de credo, raza o rito. He observado *vuestra entrega, llena de dedicación y de amor hacia todos.* Esto constituye un honor y un deber de toda la Iglesia católica, y también debe constituir la tarea de vuestra Iglesia. Siempre ha sido así, pero especialmente hoy esta entrega brilla con nuevo esplendor. Me siento feliz de poder dar testimonio de vuestro celo.
+
+### 4 {#jp2-spe-19800829-vescovi-india.4}
+
+Esta perspectiva de apertura a todos los pueblos sin distinción es un reto a mi propio servicio apostólico, descrito por la *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)* con estas palabras: "universo caritatis coetui praesidet, legitimas varietates tuetur et simul invigilet ut particularia, nedum unitati noceant, ei potius inserviant" (núm. 13).
+
+He anhelado este encuentro con vosotros, y deseo agradeceros la responsabilidad digna de encomio con la que habéis aceptado la invitación de la Sagrada Congregación a participar en una reunión de estudio sobre la reforma de la sagrada liturgia de vuestra propia Iglesia. Es éste un encuentro del que parece correcto poder esperar los más felices resultados respecto a *una clara disciplina litúrgica* y a *una renovación litúrgica conforme a las directrices y al espíritu del Concilio Vaticano II.* Podéis estar seguros de que el Sucesor de Pedro, en toda ocasión, al igual que en este fraternal encuentro, tiene un solo deseo y propósito: el de ser lo que el Concilio ha llamado "unitatis tum Episcoporum tum fidelium multitudinis, perpetuum ac visibile principium et fundamentum" (*[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html),* 23).
+
+### 5 {#jp2-spe-19800829-vescovi-india.5}
+
+¿A dónde va dirigido fundamentalmente este encuentro nuestro y vuestra reunión colegial con la competente Congregación de la Santa Sede sino a la realización de la perfecta comunión *in vinculo pacis? La liturgia manifiesta y realiza la unidad de un modo totalmente especial.* «Las acciones litúrgicas no son acciones privadas, sino celebraciones de la Iglesia, que es "sacramento de unidad", es decir, pueblo santo congregado y ordenado bajo la dirección de los obispos. Por eso pertenecen a todo el cuerpo de la Iglesia, lo manifiestan y lo implican» (*[Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html),* 26).
+
+Además de establecer con semejante vigor ese fundamental concepto teológico de carácter general, el Concilio hace que dirijamos nuestra atención a otros principios de la mayor importancia: la Iglesia desea respetar y fomentar de un modo especial "el genio y las cualidades peculiares de las distintas razas y pueblos. Estudia con simpatía y, si puede, preserva íntegro lo que en las costumbres de los pueblos encuentra que no esté indisolublemente vinculado a supersticiones y errores y aun, a veces, los acepta en la misma liturgia, con tal que se pueda armonizar con el verdadero y autentico espíritu litúrgico" *(ib.,* 37). Más aún, la *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)* afirma: "La divina Providencia ha hecho que varias Iglesias fundadas en diversas regiones por los Apóstoles y sus Sucesores, al correr de los tiempos, se hayan reunido en numerosos grupos estables, orgánicamente unidos, los cuales, quedando a salvo la unidad de la fe y la única constitución divina de la Iglesia universal, tienen una disciplina propia, unos ritos litúrgicos y un patrimonio teológico y espiritual propios... Esta variedad de las Iglesias locales tiende a la unidad, manifiesta con mayor evidencia la catolicidad de la Iglesia indivisa" (núm. 23).
+
+Pero, al mismo tiempo, el Concilio desea que estas Iglesias sean fieles a sus tradiciones: "Es deseo de la Iglesia católica que las tradiciones de cada Iglesia particular o rito se conserven y mantengan íntegras, y quiere igualmente adaptar su propia forma de vida a las diferentes circunstancias de tiempo y lugar" (*[Orientalium Ecclesiarum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_sp.html),* 2). Este mismo Decreto proclama también: "Sepan y tengan por cierto todos los orientales, que pueden y deben conservar siempre sus legítimos ritos litúrgicos y su organización, y que no deben introducir cambios, sino por razón de su propio y orgánico desarrollo" *(ib.,* 6).
+
+Para conseguir su objetivo es necesario que apliquen con rigor y severidad las directrices conciliares sobre *fidelidad a las tradiciones del propio rito:* "Todo esto deben cumplirlo con la máxima fidelidad los mismos orientales, quienes deben adquirir un conocimiento cada día mayor y una práctica cada vez más perfecta de estas cosas; y si se hubiesen apartado indebidamente de ellas por diversas circunstancias de tiempo o de personas, procuren con empeño volver a las antiguas tradiciones" *(ib.,* 6). Dificultades no faltarán en el camino de vuelta a las genuinas fuentes del propio rito. Sin embargo, se trata de dificultades a las que hay que dar la cara *viribus unitis* y *Deo adiuvante.*
+
+*De ahí que la renovación litúrgica sea el elemento fundamental para la siempre fecunda vida de vuestra Iglesia*: una renovación fundada en la fidelidad a vuestras genuinas tradiciones eclesiales y abierta a las necesidades de vuestro pueblo, a vuestra cultura y a los posibles cambios que se deriven de vuestro propio progreso orgánico. Os proporcionarán una útil ayuda los principios fundamentales establecidos en la Carta *[Dominicae cenae](http://www.vatican.va/holy_father/john_paul_ii/letters/documents/hf_jp-ii_let_24021980_dominicae-cenae_sp.html)*; ellos os asistirán para que no erréis en asunto tan delicado e importante.
+
+### 6 {#jp2-spe-19800829-vescovi-india.6}
+
+Tras estas reflexiones sobre la liturgia, me complace hablar sobre el memorándum que habéis querido darme a conocer a través de la Sagrada Congregación para las Iglesias Orientales. El contenido de este documento, a pesar de la brevedad debida a las circunstancias, me invita a reflexionar sobre la historia de vuestra gloriosa Iglesia, la más numerosa y floreciente de las Iglesias Orientales del mundo libre, la de mayor número de sacerdotes, religiosos y religiosas, seminaristas y laicos.
+
+¿Cómo voy a dejar de poner de relieve con alegría y auténtica satisfacción la contribución de vuestra Iglesia a la causa de las misiones, no sólo en India, sino también en otras latitudes, a la promoción de vocaciones sacerdotales y religiosas, a las actividades educativas y a la asistencia caritativa, etc.? No se trata de subestimar los numerosos factores humanos que han dejado sentir su influencia en estos fenómenos, sino más bien de destacar que estos factores son también deudores de la fe cristiana de vuestras familias siro-malabares, que siempre han estado dispuestas a entregar sus hijos a la causa de la Iglesia universal, incluso más allá de los límites de vuestra Iglesia particular. Deseo expresar mi sincero agradecimiento a vosotros, los obispos, a vuestros sacerdotes, a los religiosos, a los miembros de institutos seculares, a los seminaristas y a las generosas familias, por cuanto habéis hecho y seguís haciendo por la Iglesia universal. Lo mismo que en su tiempo hicieron y continúan haciendo los misioneros de Europa y América *in auxilium orientalium,* lo habéis hecho vosotros y lo seguís haciendo *in auxilium Ecclesiae latinae.* Os lo agradezco sinceramente. Todo esto está en perfecta armonía con el espíritu del Concilio, que desea que las Iglesias particulares sientan en su corazón la responsabilidad por las otras Iglesias y por la Iglesia universal.
+
+### 7 {#jp2-spe-19800829-vescovi-india.7}
+
+Tras esta breve mirada a vuestra Iglesia, mi pensamiento vuelve a los *desiderata* que habéis presentado. La importancia de cuanto exponéis, así como las implicaciones canónicas, eclesiológicas, pastorales, doctrinales y prácticas que de ello deriva, explica por qué no es posible en esta ocasión dar una inmediata y completa respuesta a vuestras propuestas.
+
+Cuando se trata de asuntos que conciernen a toda la Iglesia y de la creación de estructuras supra-episcopales en las que se ven implicados los intereses de diferentes obispos y de Iglesias particulares, la Santa Sede adopta serios y sabios procedimientos, sancionados por la práctica durante muchos siglos. Deseo haceros patente mi felicidad al ver vuestro empeño por afirmar y profundizar vuestra identidad como Iglesia oriental particular. Deseo citar aquí el pensamiento de mi gran predecesor Pablo VI, en su discurso de clausura del Sínodo de los Obispos de 1974: "Eodem tamen tempore exoptamus, ut sedulo caveatur ne altior pervestigatio essentialis huius aspectus rerum, quae Ecclesiae sunt, ullo modo noceant firmitati 'communionis' cum ceteris particularíbus Ecclesiis et Petri successore, cui Christus Dominus grave, perenne atque amoris plenum hoc officium commisit, *ut agnos et oves pasceret* (*Jn* 21, 13-17), *ut fratres confirmaret (Lc* 22, 32), ut fundamentum esset et signum unitatis Ecclesiae" (26 de octubre de 1974: *AAS* 66, pág. 636).
+
+Por lo que respecta a algunas frases de vuestro memorándum, desearía rememorar un aspecto de la doctrina colegial del Concilio Vaticano II: "Romanus enim Pontifex habet in Ecclesiam, vi muneris sui, Vicarii scilicet Christi et totius Ecclesiae Pastoris, pienam, supremam et universalem potestatem, quam semper libere exercere valet" (*[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html),* 22). Con ocasión del anteriormente mencionado Sínodo, Pablo VI añadió: "unum potius adest propositum, quo videlicet omnes —pro suo quisque munere suscepto fideliterque impleto— Dei voluntati respondeant, maxima impulsi dilectione" *(ib.).* Deseo, no obstante, aseguraros que todo se hará, de modo que sea compatible con el bien de la Iglesia universal y se lleve a cabo gradualmente.
+
+En el mismo orden de ideas, existe también el problema de la asistencia a vuestros fieles que se hallan fuera de vuestras eparquías. Por una parte, mi inolvidable predecesor Juan Pablo I, en su breve pontificado, tuvo la oportunidad y el gozo de poder nombrar al arzobispo Anthony Padiyara visitador apostólico de los fieles malabares que viven en distintas regiones de India, fuera de los territorios de la jurisdicción de las Iglesias orientales. El arzobispo se ha esforzado con ejemplar solicitud por realizar la tarea que le fue confiada, y deseo expresarle mi gratitud *coram vobis.*
+
+Implicados en este asunto se hallan también, por otra parte, el Representante Papal en India y los Ordinarios de la Iglesia latina de aquellos lugares en los que viven esos fieles malabares. Puedo aseguraros que se harán llegar a esos fieles todas las ayudas previstas por las leyes de la Iglesia, particularmente por las prescripciones, que vosotros mismos habéis citado, del Decreto *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_sp.html).* Bien sabido es cómo, después del Concilio, la Iglesia deseó revisar la Constitución Apostólica *Exsul familia,* y cómo mi predecesor Pablo VI, en *Pastoralis migratorum cura,* no ahorró esfuerzo alguno por poner todo tipo de ayuda espiritual a disposición de los emigrantes. La común solicitud de los obispos de los lugares de origen de los emigrantes y de los obispos de sus nuevas residencias requiere una armonía de relaciones y un espíritu de colaboración fraterna. Es mi más ardiente deseo, y mi convicción, que las Conferencias Episcopales, bien sea la de India o las regionales, encuentren una vía que garantice el desarrollo del modo más justo de cubrir estas necesidades.
+
+En este esfuerzo por socorrer a los fieles más necesitados, sea espiritual sea materialmente, los obispos malabares encontrarán en la Santa Sede un sincero apoyo y una animosa energía que, en una perspectiva eclesial que abarca las necesidades de las individuales Iglesias particulares y el bien común de la Iglesia universal, trata de crear un clima de mutuo conocimiento y estima entre todos los pueblos, en especial entre los fieles de diferentes razas, naciones y ritos.
+
+Me gustaría, sin embargo, añadir unas palabras sobre vuestras eparquías. No pienso en vuestra Iglesia sólo en términos de números, estadísticas y actividades sobresalientes de cada una de vuestras eparquías, sino que contemplo la riqueza de vida espiritual existente en ellas.
+
+Pienso en vuestros sacerdotes, tan numerosos y generosos. Pienso en los religiosos, miembros de institutos orientales, así como de órdenes y congregaciones de origen, latino, tan dóciles a la llamada de Cristo y situados en la vanguardia de la vida de la Iglesia. Pienso en el gran número de religiosas de vida contemplativa y activa, cuya oblación consagrada es un reflejo de la de María y constituye la base de un servicio desinteresado que retrata la maternal preocupación de toda la Iglesia, especialmente por los- pequeños, los débiles, los pobres y los que sufren.
+
+Pienso en vuestros jóvenes, especialmente en los seminaristas: cada uno de vosotros tenéis un seminario menor destinado a los candidatos al sacerdocio, y existen dos seminarios mayores —el Pontificio Seminario de Alwaye y el Seminario Apostólico de Kottayam—, aparte del escolasticado de los carmelitas de María Inmaculada, con dos facultades teológicas y una tercera ya en perspectiva. A este respecto es de gran utilidad recordar la siguiente exhortación;'. "La formación de futuros sacerdotes debería ser considerada como uno de los ministerios más importantes en una diócesis y, de algún modo, el más exigente. De hecho, la tarea de la enseñanza une estrechamente al profesor con la obra de Nuestro Señor y Maestro, que preparó a sus Apóstoles para ser testigos del Evangelio y dispensadores de los misterios de Dios" (Sagrada Congregación para la Educación Católica: "La formación teológica de los futuros sacerdotes", IV,1, 3).
+
+Concluyendo, presento a vuestra reflexión un profundo deseo de mi corazón: os halláis unidos aquí con Pedro, "communione fraternae caritatís atque studio permoti universalis missionis Apostolis traditae" (*[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_sp.html),* 36). Esta es una ocasión propicia para rememorar el supremo tema de la unidad: unidad fraterna entre los obispos, unidad entre los diferentes ritos, unidad entre el obispo y los sacerdotes, entre el obispo y los religiosos, entre el obispo, sacerdotes y laicos, entre los pobres y los acomodados. La unidad que en estos días de gracia habéis buscado en el campo litúrgico y en el pastoral debe constituir el primer fruto de esta particular experiencia de armonía y colaboración.
+
+Mis pensamientos van ahora hacia los obispos de otros ritos que trabajan en el mismo territorio y que deben ser no sólo hermanos que coexisten con vosotros, sino hermanos que viven a vuestro lado en profunda comunión eclesial con vosotros y con toda la Iglesia. Mis pensamientos van dirigidos también a los distintos grupos y comunidades de hermanos separados que admiran sinceramente vuestro vínculo con el Sucesor de Pedro.
+
+Mi última palabra es de esperanza y de plegaria dirigida a María, Madre de la Iglesia. Que ella os proteja siempre y que, mediante su intercesión, continúen vuestras eparquías floreciendo en vocaciones y en santidad de vida. Que Ella nos ayude a mantener nuestra mirada constantemente fija en su Hijo Jesucristo, Sumo Sacerdote y Supremo Pastor de la Iglesia de Dios.
+
+Y ahora, una palabra a los obispos malancares, asociados fraternalmente al grupo de prelados malabares.
+
+Deseo dirigiros un saludo muy especial. dado que este año se celebra el aniversario de un extraordinario acontecimiento en vuestra Iglesia. Estáis celebrando las bodas de oro de aquel Movimiento espiritual del que fue pionero el último y estimado Mar Ivanios, y que llevó a la plena comunión con Roma a él mismo, a otros prelados y a las comunidades por él fundadas: los Hermanos de la Imitación de Cristo y las Hermanas de Betania.
+
+Como signo de mi propia participación en estas bodas de oro, me complazco en anunciaros mi decisión de enviar como mi Representante y como portador de mi mensaje al cardenal Wladyslaw Rubin, Prefecto de la Sagrada Congregación para las Iglesias Orientales, que estará presente en las solemnes celebraciones previstas para los días 26-28 de diciembre próximo. .
+
+Os prometo mis oraciones, mi bendición y mi fraternal afecto en Jesucristo Nuestro Señor.

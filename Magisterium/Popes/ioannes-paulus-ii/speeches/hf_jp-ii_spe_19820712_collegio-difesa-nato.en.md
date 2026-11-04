@@ -1,0 +1,71 @@
+---
+id: jp2-spe-19820712-collegio-difesa-nato.en
+work: jp2-spe-19820712-collegio-difesa-nato
+title: "To members of the NATO Defense College (July 12, 1982)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1982-07-12
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1982/july/documents/hf_jp-ii_spe_19820712_collegio-difesa-nato.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it, pt"
+anchors: "{#jp2-spe-19820712-collegio-difesa-nato.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-spe-19820712-collegio-difesa-nato.es; and {#jp2-spe-19820712-collegio-difesa-nato.prooem} — the text the page prints before its first numbered unit, under a heading minted for it (the dei-filius.prooem precedent)"
+anchor_check: "identical across en, es; prooem: identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To members of the NATO Defense College (July 12, 1982)
+## ADDRESS OF JOHN PAUL II TO THE MEMBERS OF THE NATO DEFENSE COLLEGE
+
+*Monday, 12 July 1982*
+
+*Dear friends,*
+
+### Proem {#jp2-spe-19820712-collegio-difesa-nato.prooem}
+
+I am happy to extend once again a cordial welcome to the members of the NATO Defense College. As you pursue your course of studies here in Rome, it is a pleasure for me to be able to reflect with you on some aspects of world peace.
+
+### 1 {#jp2-spe-19820712-collegio-difesa-nato.1}
+
+You have been given a special opportunity in your programme to consider various issues facing the world, and to assess them *within the broader context of defence and world peace*. Coming as you do from a dozen countries, you appreciate the value of international solidarity, both in its positive expression, which is international peace, and in its negation, which is discord and war.
+
+### 2 {#jp2-spe-19820712-collegio-difesa-nato.2}
+
+Peace in its highest form is the full expression of fraternal love. In turn, peace brings forth its own fruits which are so necessary for society: it offers security to people’s lives and gives to mankind the possibility of fruitful exchange; it constitutes *the only really effective defence* for the cultural patrimony of nations, as well as for a number of other human values.
+
+War, too, has its own proper fruits. Only yesterday I spoke of some of them in relation to the strife in Lebanon: bombings, privations, the threat of famine and epidemics, and the nightmare of further victims and still greater suffering.
+
+### 3 {#jp2-spe-19820712-collegio-difesa-nato.3}
+
+Peace is indeed the only setting in which adequate defence is possible. Peace has its requirements and brings its blessings. If you want *to ensure defence*, promote peace. Yes, peace is the new name for defence.
+
+In all her pronouncements on peace, the Catholic Church has not failed to speak about defence. In his [Peace Message for 1974](https://www.vatican.va/content/paul-vi/en/messages/peace/documents/hf_p-vi_mes_19731208_vii-world-day-for-peace.html), Paul VI warned about confusing “Peace with weakness (not just physical but also moral), with the renunciation of genuine right and equitable justice, with the evasion of risk and sacrifice, with cowardice and supine submission to others’ arrogance, and hence with acquiescence to enslavement”. He further explained: “This is not real Peace. Repression is not peace. Cowardice is not peace. A settlement which is purely external and imposed by fear is not peace”.
+
+### 4 {#jp2-spe-19820712-collegio-difesa-nato.4}
+
+At the same time there is emerging ever more clearly *the absurdity of war* as a means of promoting peace. This concept I too endeavoured to emphasize during my recent visit to Britain, pointing out that “the horror of modern warfare - whether nuclear or not - makes it totally unacceptable as a means of settling differences between nations” (Coventry, 30 May 1982).
+
+The relevance of these statements is seen in practical applications: the unacceptability of the arms race and the need to face the issues behind it; the need to substitute positive values that will engage people’s attention and orient them to the building of a peaceful world founded on human solidarity.
+
+### 5 {#jp2-spe-19820712-collegio-difesa-nato.5}
+
+I have recently proposed at length for the world’s reflection, during my visit to Geneva, the vital concept of *solidarity in work and the “humanization” of all work*. There are many considerations of this nature, and all of this is worthy of your attention and relevant to the cause you are striving to serve, for here is a way in which the progress of humanity is truly achieved and the defence of nations ensured.
+
+Ladies and gentlemen, it is up to your ingenuity to relate these great issues, day after day, to your own programmes, for they offer you insights and means to achieve the defence of your countries, your homes and all your cherished values.
+
+May the God of peace bless you and your families and defend you from all evil.
+
+\**Insegnamenti di Giovanni Paolo II*, vol. V, 3 pp. 65-66.
+
+*L'Osservatore Romano* 13.7.1982 pp.1, 2.
+
+*L'Osservatore Romano. Weekly Edition in English* n.31 p.2.

@@ -1,0 +1,55 @@
+---
+id: b16-mes-20080824-world-migrants-day.es
+work: b16-mes-20080824-world-migrants-day
+title: "Mensaje para la 95ª Jornada mundial del emigrante y del refugiado 2009 (24 de agosto de 2008)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Message
+url_date: 2008-08-24
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/messages/migration/documents/hf_ben-xvi_mes_20080824_world-migrants-day.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#b16-mes-20080824-world-migrants-day} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Mensaje para la 95ª Jornada mundial del emigrante y del refugiado 2009 (24 de agosto de 2008) {#b16-mes-20080824-world-migrants-day}
+## MENSAJE DEL SANTO PADRE BENEDICTO XVI PARA LA 95ª JORNADA MUNDIAL DEL EMIGRANTE Y DEL REFUGIADO (18 de enero de 2009)
+
+***San Pablo migrante, Apóstol de los*** ***pueblos***
+
+*Queridos hermanos y hermanas:*
+
+Este año el Mensaje para la Jornada Mundial del Emigrante y el Refugiado tiene por tema «San Pablo migrante, ‘Apóstol de los pueblos’», y toma como punto de partida la feliz coincidencia del Año Jubilar que he convocado en honor del Apóstol con ocasión del bimilenario de su nacimiento. En efecto, la predicación y la obra de mediación entre las diversas culturas y el Evangelio, que realizó san Pablo «emigrante por vocación», constituyen un punto de referencia significativo también para quienes se encuentran implicados en el movimiento migratorio contemporáneo.
+
+Saulo, nacido en una familia de judíos que habían emigrado de Tarso de Cilicia, fue educado en la lengua y en la cultura judía y helenística, valorando el contexto cultural romano. Después de su encuentro con Cristo, que tuvo lugar en el camino de Damasco (cf. *Ga* 1, 13-16), sin renegar de sus «tradiciones» y albergando estima y gratitud hacia el judaísmo y hacia la Ley (cf. *Rm* 9, 1-5; 10, 1; *2 Co* 11, 22; *Ga* 1, 13-14; *Flp* 3, 3-6), sin vacilaciones ni retractaciones, se dedicó a la nueva misión con valentía y entusiasmo, dócil al mandato del Señor: «Yo te enviaré lejos, a los gentiles» (*Hch* 22, 21). Su existencia cambió radicalmente (cf. *Flp* 3, 7-11): para él Jesús se convirtió en la razón de ser y el motivo inspirador de su compromiso apostólico al servicio del Evangelio. De perseguidor de los cristianos se transformó en apóstol de Cristo.
+
+Guiado por el Espíritu Santo, se prodigó sin reservas para que se anunciara a todos, sin distinción de nacionalidad ni de cultura, el Evangelio, que es «fuerza de Dios para la salvación de todo el que cree: del judío primeramente y también del griego» (*Rm* 1, 16). En sus viajes apostólicos, a pesar de repetidas oposiciones, proclamaba primero el Evangelio en las sinagogas, dirigiéndose ante todo a sus compatriotas en la diáspora (cf. *Hch* 18, 4-6). Si estos lo rechazaban, se volvía a los paganos, convirtiéndose en auténtico «misionero de los emigrantes», emigrante él mismo y embajador itinerante de Jesucristo, para invitar a cada persona a ser, en el Hijo de Dios, «nueva criatura» (*2 Co* 5, 17).
+
+La proclamación del *kerygma* lo impulsó a atravesar los mares del Cercano Oriente y recorrer los caminos de Europa, hasta llegar a Roma. Partió de Antioquía, donde se anunció el Evangelio a poblaciones que no pertenecían al judaísmo y donde a los discípulos de Jesús por primera vez se les llamó «cristianos» (cf. *Hch* 11, 20. 26). Su vida y su predicación estuvieron totalmente orientadas a hacer que Jesús fuera conocido y amado por todos, porque en él todos los pueblos están llamados a convertirse en un solo pueblo.
+
+También en la actualidad, en la era de la globalización, esta es la misión de la Iglesia y de todos los bautizados, una misión que con atenta solicitud pastoral se dirige también al variado universo de los emigrantes —estudiantes fuera de su país, inmigrantes, refugiados, prófugos, desplazados—, incluyendo los que son víctimas de las esclavitudes modernas, como por ejemplo en la trata de seres humanos. También hoy es preciso proponer el mensaje de la salvación con la misma actitud del Apóstol de los gentiles, teniendo en cuenta las diversas situaciones sociales y culturales, y las dificultades particulares de cada uno como consecuencia de su condición de emigrante e itinerante. Formulo el deseo de que cada comunidad cristiana tenga el mismo fervor apostólico de san Pablo, el cual, con tal de anunciar a todos el amor salvífico del Padre (cf. *Rm* 8, 15-16; *Ga* 4, 6) a fin de «ganar para Cristo al mayor número posible» (*1 Co* 9, 19) se hizo «débil con los débiles..., todo a todos, para salvar a toda costa a algunos» (*1 Co* 9, 22). Que su ejemplo nos sirva de estímulo también a nosotros para que seamos solidarios con estos hermanos y hermanas nuestros, y promovamos, en todas las partes del mundo y con todos los medios posibles, la convivencia pacífica entre las diversas etnias, culturas y religiones.
+
+Pero, ¿cuál fue el secreto del Apóstol de los gentiles? El celo misionero y la pasión del luchador, que lo caracterizaron, brotaban del hecho de que él, «conquistado por Cristo» (*Flp* 3, 12), permaneció tan íntimamente unido a él que se sintió partícipe de su misma vida, a través de «la comunión en sus padecimientos» (*Flp* 3, 10; cf. también *Rm* 8, 17; *2 Co* 4, 8-12; *Col* 1, 24). Aquí está la fuente del celo apostólico de san Pablo, el cual narra: «Aquel que me separó desde el seno de mi madre y me llamó por su gracia, tuvo a bien revelarme a mí a su Hijo, para que lo anunciara entre los gentiles» (*Ga* 1, 15-16; cf. también *Rm* 15, 15-16). Se sintió «crucificado con Cristo» hasta el punto de poder afirmar: «Ya no vivo yo, sino que es Cristo quien vive en mí» (*Ga* 2, 20). Y ninguna dificultad le impidió proseguir su valiente acción evangelizadora en ciudades cosmopolitas como Roma y Corinto, que en aquel tiempo estaban pobladas por un mosaico de etnias y culturas.
+
+Al leer los Hechos de los Apóstoles y las Cartas que san Pablo dirige a varios destinatarios, se aprecia un modelo de Iglesia no exclusiva, sino abierta a todos, formada por creyentes sin distinción de cultura y de raza, pues todo bautizado es miembro vivo del único Cuerpo de Cristo. Desde esta perspectiva, cobra un relieve singular la solidaridad fraterna, que se traduce en gestos diarios de comunión, de participación y de solicitud gozosa por los demás. Sin embargo, como enseña también san Pablo, no es posible realizar esta dimensión de acogida fraterna recíproca sin estar dispuestos a la escucha y a la acogida de la Palabra predicada y practicada (cf. *1* Ts 1, 6), Palabra que impulsa a todos a la imitación de Cristo (cf. *Ef* 5, 1-2) imitando al Apóstol (cf. *1 Co* 11, 1). Por tanto, cuanto más unida a Cristo está la comunidad, tanto más solicita se muestra con el prójimo, evitando juzgarlo, despreciarlo o escandalizarlo, y abriéndose a la acogida recíproca (cf. *Rm* 14, 1-3; 15, 7). Los creyentes, configurados con Cristo, se sienten en Él «hermanos» del mismo Padre (cf. *Rm* 8, 14-16; *Ga* 3, 26; 4, 6). Este tesoro de fraternidad los hace «practicar la hospitalidad» (*Rm* 12, 13), que es hija primogénita del *agapé* (cf. *1 Tm* 3, 2; 5, 10; *Tt* 1, 8; *Flm* 17).
+
+Así se realiza la promesa del Señor: «Yo os acogeré y seré para vosotros padre, y vosotros seréis para mí hijos e hijas» (*2 Co* 6, 17-18). Si somos conscientes de esto, ¿cómo no hacernos cargo de las personas que se encuentran en penurias o en condiciones difíciles, especialmente entre los refugiados y los prófugos? ¿Cómo no salir al encuentro de las necesidades de quienes, de hecho, son más débiles e indefensos, marcados por precariedad e inseguridad, marginados, a menudo excluidos de la sociedad? A ellos es preciso prestar una atención prioritaria, pues, parafraseando un conocido texto paulino, «Dios eligió lo necio del mundo para confundir a los sabios, (...), lo plebeyo y despreciable del mundo, y lo que no es, para que ningún mortal se gloríe en la presencia de Dios» (*1 Co* 1, 27-29).
+
+Queridos hermanos y hermanas, la Jornada Mundial del Emigrante y del Refugiado, que se celebrará el día 18 de enero de 2009, ha de ser para todos un estímulo a vivir en plenitud el amor fraterno sin distinciones de ningún tipo y sin discriminaciones, con la convicción de que nuestro prójimo es cualquiera que tiene necesidad de nosotros y a quien podemos ayudar (cf. *[Deus caritas est](http://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html),* 15). Que la enseñanza y el ejemplo de san Pablo, humilde y gran Apóstol y emigrante, evangelizador de pueblos y culturas, nos impulse a comprender que el ejercicio de la caridad constituye el culmen y la síntesis de toda la vida cristiana. Como sabemos bien, el mandamiento del amor se alimenta cuando los discípulos de Cristo participan unidos en la mesa de la Eucaristía que es, por excelencia, el Sacramento de la fraternidad y del amor. Y, del mismo modo que Jesús en el Cenáculo unió el mandamiento nuevo del amor fraterno al don de la Eucaristía, así sus «amigos», siguiendo las huellas de Cristo, que se hizo «siervo» de la humanidad, y sostenidos por su gracia, no pueden menos de dedicarse al servicio recíproco, ayudándose unos a otros según lo que recomienda el mismo san Pablo: «Ayudaos mutuamente a llevar vuestras cargas y cumplid así la ley de Cristo» (*Ga* 6, 2). Sólo de este modo crece el amor entre los creyentes y el amor a todos (cf. *1 Ts* 3, 12).
+
+Queridos hermanos y hermanas, no nos cansemos de proclamar y testimoniar esta «Buena Nueva» con entusiasmo, sin miedo y sin escatimar esfuerzos. En el amor está condensado todo el mensaje evangélico, y los auténticos discípulos de Cristo se reconocen por su amor mutuo y por acoger a todos. Que nos obtenga este don el Apóstol san Pablo y especialmente María, Madre de la acogida y del amor. A la vez que invoco la protección divina sobre todos los que están comprometidos en ayudar a los emigrantes y, más en general, en el vasto mundo de la emigración, aseguro un constante recuerdo en la oración por cada uno e imparto con afecto a todos la Bendición Apostólica.
+
+*Castelgandolfo, 24 de agosto de 2008*
+
+## BENEDICTO XVI

@@ -1,0 +1,51 @@
+---
+id: jp2-spe-19800321-ambasciatore-uganda.en
+work: jp2-spe-19800321-ambasciatore-uganda
+title: "To the new Ambassador of Uganda accredited to the Holy See (March 21, 1980)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1980-03-21
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/march/documents/hf_jp-ii_spe_19800321_ambasciatore-uganda.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, pt"
+anchors: "{#jp2-spe-19800321-ambasciatore-uganda} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the new Ambassador of Uganda accredited to the Holy See (March 21, 1980) {#jp2-spe-19800321-ambasciatore-uganda}
+## ADDRESS OF JOHN PAUL II TO JOHN BERNARD MOLI AMBASSADOR OF UGANDA
+
+*Friday, 21 March 1980*
+
+*Mr Ambassador,*
+
+I gladly welcome you to the Vatican and, in accepting the Letters by which you are accredited as Ambassador Extraordinary and Plenipotentiary of the Republic of Uganda to the Holy See, I would ask that you transmit to His Excellency President Binaisa and to the Government and people of Uganda my own greetings and best wishes.
+
+In receiving Your Excellency today, I assure you that the Holy See is following closely the developments which are taking place in your country, and is sincerely interested in the welfare of all the Ugandan people. For this reason I willingly reaffirm the Church’s commitment to continue to provide both material and spiritual assistance through the local clergy and the missionaries and through her schools and many other institutions.
+
+I am very glad to hear you make reference to the Ugandan martyrs who courageously laid down their lives for Christ. In this regard I am happy that in the near future a new church will be consecrated to their memory here in Rome. I hope that this church will serve as a symbol of the deep esteem of the Bishop of Rome for the beloved people of Uganda. It is also my fervent wish that the Ugandan martyrs, while witnessing to the supreme values of the spirit, will always remind us of the inviolable dignity of every human being.
+
+It gives me pleasure to hear you express satisfaction with your assignment as Ambassador to the Holy See, and to hear of your desire to contribute to the search for international peace and harmony. I wish you success in your mission and, for its accomplishment, you are assured of all necessary assistance on the part of the Holy See.
+
+I am appreciative of the desires of the President of Uganda to visit the Holy See, and I look forward to having the opportunity to receive him. In the meantime I kindly request that you convey to His Excellency my heartfelt wishes and prayers for the spiritual and material progress of the beloved people of Uganda.
+
+\*AAS 72 (1980), p. 297-298.
+
+*Insegnamenti di Giovanni Paolo II*, vol. III, 1 pp. 669-670.
+
+*L’Attività della Santa Sede* 1980 p. 182.
+
+*L'Osservatore Romano* 22.3.1980 p.2.
+
+*L'Osservatore Romano. Weekly Edition in English* n.16 p.16.

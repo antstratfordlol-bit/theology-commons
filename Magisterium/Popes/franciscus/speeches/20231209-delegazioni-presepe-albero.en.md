@@ -1,0 +1,54 @@
+---
+id: francis-spe-20231209-delegazioni-presepe-albero.en
+work: francis-spe-20231209-delegazioni-presepe-albero
+title: "To the donors of the Nativity scene and Christmas Tree in Saint Peter’s Square (9 December 2023)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2023-12-09
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2023/december/documents/20231209-delegazioni-presepe-albero.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, fr, it, pt"
+anchors: "{#francis-spe-20231209-delegazioni-presepe-albero} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the donors of the Nativity scene and Christmas Tree in Saint Peter’s Square (9 December 2023) {#francis-spe-20231209-delegazioni-presepe-albero}
+## GREETING OF HIS HOLINESS POPE FRANCIS TO THE DONORS OF THE NATIVITY SCENE AND CHRISTMAS TREE IN SAINT PETER’S SQUARE
+
+*Paul VI Audience Hall\
+Saturday, 9 December 2023*
+
+## \[[Multimedia](https://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2023/12/9/delegazioni-presepe-albero.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Dear brothers and sisters, good morning!*
+
+I welcome you with joy on the day in which the tree and the Nativity scenes decorating Saint Peter’s Square and this hall are officially donated and inaugurated.
+
+I greet the delegation from Rieti, the area where the representations of the Nativity were produced, and that of the municipality of Macra, in the province of Cuneo, from which, precisely from the Maira Valley, comes the silver fir chosen as the Christmas tree. I greet the civil and ecclesial authorities, in particular the Bishops of Rieti and Saluzzo and the President of the Piedmont Region, and all of you, priests and faithful gathered here.
+
+The Nativity scene set up in Saint Peter’s Square aims to recall, after 800 years, the Christmas atmosphere of 1223 in the Rieti Valley, where Saint Francis stopped. His journey to the Holy Land was still vivid in his mind and the caves of Greccio reminded him of the landscape of Bethlehem. He thus asked to depict the Christmas scene in that small village: many friars arrived from various places, and men and women also came from the cottages in the area, creating a living Nativity scene. This is how the tradition of the Nativity scene as we understand it was born.
+
+This year, then, from Saint Peter’s Square we will think of Greccio, which in turn takes us back to Bethlehem. And as we contemplate Jesus, God made man, small, poor, defenceless, we cannot but think of the tragedy that the inhabitants of the Holy Land are living, expressing to those brothers and sisters of ours, especially the children and their parents, our closeness and our spiritual support. They are the ones who pay the true price of war.
+
+Before every Nativity scene, even those we make in our own homes, we relive what happened in Bethlehem more than 2,000 years ago; and this should reawaken in us a longing for silence and prayer, in our often so hectic daily lives. Silence, so as to be able to listen to what Jesus tells us from the unique “cathedra” of the manger. Prayer, to express grateful wonder, tenderness, perhaps the tears that the Nativity scene stirs in us. And in all this, there is the example of Mary: she says nothing, but contemplates and adores.
+
+In the Square, next to the Nativity scene, there is the tree, whose lights will be lit at the end of the ceremony this evening. It is adorned with Edelweiss flowers cultivated on the plain, to protect those that grow in the high mountains. This too is a choice that makes us reflect, highlighting the importance of caring for our common home: small gestures are essential in ecological conversion, gestures of respect and gratitude for God’s gifts.
+
+Dear brothers and sisters, thanks to all of you, as well as to the Infrastructure and Services Directorate of the Governorate, for the creative and generous effort with which you have carried out this initiative. I bless you, your families and your fellow citizens from my heart. And please, do not forget to pray for me. Thank you!
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*L'Osservatore Romano,* Weekly Edition in English, Friday, 15 December 2023, p. 10.

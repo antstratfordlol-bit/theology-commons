@@ -1,0 +1,89 @@
+---
+id: jp2-spe-20020227-pont-acad-life.en
+work: jp2-spe-20020227-pont-acad-life
+title: "To the General Assembly of the Pontifical Academy for Life (February 27, 2002)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2002-02-27
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/february/documents/hf_jp-ii_spe_20020227_pont-acad-life.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-spe-20020227-pont-acad-life.N} — numbered paragraphs 1..7 (7 anchors), shared with jp2-spe-20020227-pont-acad-life.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the General Assembly of the Pontifical Academy for Life (February 27, 2002)
+* **ADDRESS OF JOHN PAUL II\
+TO THE PARTICIPANTS IN THE GENERAL ASSEMBLY\
+OF THE PONTIFICAL ACADEMY FOR LIFE***
+
+*Wednesday 27 February 2002*
+
+### 1 {#jp2-spe-20020227-pont-acad-life.1}
+
+Dear and Illustrious Members of the Pontifical Academy for Life, once again we hold a meeting that is always for me a source of hope and joy.
+
+I warmly and personally greet each of you. I want to thank your President, Juan de Dios Vial Correa for his kind words of homage on behalf of all of you. I want to greet your Vice-President, Bishop Sgreccia, and thank him for being the force behind the activity of your Academy.
+
+### 2 {#jp2-spe-20020227-pont-acad-life.2}
+
+This week you are participating in your eighth General Assembly and for this reason, coming together from many countries, to address a crucial subject, in the context of a broader reflection on the dignity of human life:  "The nature and dignity of the human person as the foundation of the right to life. The challenges raised by the approach of contemporary culture".
+
+You have chosen to deal with one of the connecting links at the foundation of any further discussion, either of ethical applications in the field of bio-ethics or of socio-cultural thought for the promotion of a new pro-life mentality.
+
+For many contemporary thinkers, the concepts of "nature" and of "natural law" appear to apply only to the physical and biological world, or, as a way of expressing the order of the cosmos, in scientific research and in the field of ecology. Unfortunately, in such a view, it becomes difficult to use natural law to mean human nature in a *metaphysical* sense and to use natural law for the *moral order.*
+
+What makes it more difficult to *see the depth of reality* is the fact that our culture has greatly restricted the concept of creation, a concept that refers to the entire cosmic reality, and that takes on a particular meaning in relation to man. We see in this change the influence of the weakening of confidence in reason, so much a part of contemporary philosophy, as I pointed out in the Encyclical *[Fides et ratio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_15101998_fides-et-ratio.html)* (cf. n. 61).
+
+What is needed, therefore, is a conscious effort that returns to its original meaning, with all its force, namely, to the anthropological and ethical meaning of natural law and of the related concept of natural right. In fact, we are discussing *if* and *how* it is possible to "recognize" the distinguishing characteristics of the human being, which form the basis of the right to life in its various historical formulations. Only on this basis, can there be a true dialogue and authentic collaboration between believers and non-believers.
+
+### 3 {#jp2-spe-20020227-pont-acad-life.3}
+
+Daily experience reveals the existence of a fundamental reality common to all human beings by which they can recognize each other as such. It is necessary to refer always "to man's proper and primordial nature, the "nature of the human person', that is *the person himself in the unity of soul and body*, in the unity of his spiritual and biological inclinations and of all the other specific characteristics necessary for the pursuit of his end" (*[Veritatis splendor](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html)*, n. 50; cf. also *[Gaudium et spes](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*, n. 14).
+
+This distinctive nature is the foundation for the rights of every human individual, who has the dignity of personhood from the moment of his conception. This objective dignity, that has its origin in God the Creator, is founded on the spiritual nature that belongs to the soul, but also extends to the corporeality that is an essential component. No one can take human dignity away, rather all must respect it in themselves and in others. It is this dignity that is equal for all and that remains entire at every stage of the individual human life.
+
+The recognition of such natural dignity is the foundation of the social order, as Vatican II reminds us:  "Furthermore, while there are rightful differences between people, their equal dignity as persons demands that we strive for fairer and more humane conditions" (*[Gaudium et spes](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html),* n. 29).
+
+The human person, with his reason, is capable of recognizing both this profound and objective dignity of his own being, and the ethical requirements that derive from it. In other words, man can *discern in himself the value and the moral requirements of his own dignity*. It is a discernment that entails a discovery open to further refinement following the coordinates of the "historicity" that are typical of human knowledge.
+
+This is what I pointed out in the Encyclical *[Veritatis splendor](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html)* on the subject of the natural moral law, that, according to the words of St Thomas Aquinas, "is nothing else than the light of understanding infused in us by God. As a result of it we know what must be done and what must be avoided. God has given this light and this law to man at creation" (n. 40, cf. *[Catechism of the Catholic Church](http://localhost/archive/catechism/ccc_toc.htm),* nn. 1954-1955).
+
+### 4 {#jp2-spe-20020227-pont-acad-life.4}
+
+It is important to help our contemporaries understand *the positive and humanizing value of the natural moral law*, clarifying a number of misunderstandings and false interpretations.
+
+The first misunderstanding to be eliminated is "the alleged conflict between freedom and nature" that "has repercussions on the interpretation of certain specific aspects of the natural law, especially its *universality and immutability* (*[Veritatis splendor](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html),* n. 51). In fact, freedom belongs to the rational nature of the human being and can and should be guided by reason:  "Precisely because of this "truth' *the natural law involves universality.* Inasmuch as it is inscribed in the rational nature of the person, it makes itself felt to all beings endowed with reason and living in history (*ibid*.).*\
+\*
+### 5 {#jp2-spe-20020227-pont-acad-life.5}
+
+Another point to be clarified is the presumed static and fixed connotation given to the notion of natural moral law, that is perhaps prompted by an erroneous analogy with the concept of nature used for physical reality. In truth, the fact of its universality and obligatory nature is what incites and urges the person to develop. *"In order to perfect himself in his specific order, the person must do good and avoid evil, be concerned for the transmission and preservation of life, refine and develop the riches of the material world, cultivate social life, seek truth, practise good and contemplate beauty"* (*[Veritatis splendor](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html),* n. 51; cf. *St Thomas I-II,* q. 94, a. 2).
+
+In fact, the magisterium of the Church appeals to the *universality and to the dynamic and perfective character of the natural law* when referring to the transmission of life, whether it be to maintain the fullness of the spousal union in the procreative act, and to preserve the openness to life in the conjugal act (cf. *[Humanae vitae](https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html),* n. 10; *[Instruction Donum Vitae](http://localhost/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_en.html),* II. 1-8). In the same way the magisterium speaks on the subject of the respect for innocent human life:  our thought goes to abortion, euthanasia, the suppression and destructive experimentation on embryos and human fetuses (cf. *[Evangelium vitae](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html),* nn. 52-67).
+
+### 6 {#jp2-spe-20020227-pont-acad-life.6}
+
+The natural law, in so far as it regulates human social relationships is defined as "natural rights" and as such requires complete respect for the dignity of individuals in the realization of the common good. An authentic conception of the natural right, understood as the protection of the illustrious and inalienable dignity of every human being, is the guarantee of equality and gives real substance to those "rights of man" that serve as the foundation of international declarations.
+
+The rights of man, in fact, should refer to what man is by nature and by force of his own dignity and not to the expression of the subjective choices of those who are able to participate in social life or of those who obtain the consensus of the majority. In the Encyclical *[Evangelium vitae](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html)* I warned against the serious threat that such a false interpretation of the rights of man seen as the subjective rights of an individual or a group, free from any reference to the truth of human nature, can pose, leading even democratic systems of government to turn into an effective totalitarianism (cf. nn. 19-20).
+
+Particularly, among the fundamental rights of man, the Catholic Church claims for every human being the right to life as *the primary right*. She does it in the name of the truth about man and to protect his freedom, that cannot be sustained without respect for the right to life. The Church affirms the right to life of every innocent human being and at every moment of his existence. The distinction sometimes implied in international documents between "human being" and "human person", so as to limit the right to life and to physical integrity to persons already born is an artificial distinction, *without any scientific or philosophical foundation*: every human being, from the moment of his conception until the moment of his natural death, possesses an inviolable right to life and deserves all the respect owed to the human person (cf.* [Donum vitae](http://localhost/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_en.html),* n. 1).
+
+### 7 {#jp2-spe-20020227-pont-acad-life.7}
+
+My dear friends, in conclusion, I want to encourage your reflection on the natural moral law and natural rights with the hope that from your discussions will come fresh zeal for establishing the true good of the human being and a just and peaceful social order. It is always by returning to the deep roots of human dignity and of the true good of the human being, and by building on the foundation of what exists as everlasting and essential in man, that a *fruitful dialogue can take place with men of every culture* in order to build a society inspired by the values of justice and brotherhood.
+
+With gratitude for your collaboration, I entrust the activity of the Pontifical Academy for Life to the Mother of Jesus, Word made flesh in her virginal womb so that she may be with you as you fulfil the mission that the Church has entrusted to you for the defence and promotion of the gift of life and of the dignity of every human being.
+
+With this prayerful wish, I grant you and your loved ones my heartfelt Blessing.

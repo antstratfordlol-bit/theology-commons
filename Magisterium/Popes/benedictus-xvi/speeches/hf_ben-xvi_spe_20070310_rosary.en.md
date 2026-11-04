@@ -1,0 +1,89 @@
+---
+id: b16-spe-20070310-rosary.en
+work: b16-spe-20070310-rosary
+title: "Meeting with the university students at the end of the recitation of the Rosary (March 10, 2007)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2007-03-10
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/march/documents/hf_ben-xvi_spe_20070310_rosary.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20070310-rosary} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Meeting with the university students at the end of the recitation of the Rosary (March 10, 2007) {#b16-spe-20070310-rosary}
+RECITATION OF THE HOLY ROSARY WITH THE UNIVERSITY STUDENTS
+
+## ADDRESS OF HIS HOLINESS BENEDICT XVI
+
+*Paul VI Audience Hall\
+Saturday, 10 March 2007*
+
+*Dear Young University Students,*
+
+I am very pleased to address my cordial greeting to you at the end of the Marian Vigil which the Vicariate of Rome has organized on the occasion of the European University Students' Day.
+
+I thank Cardinal Camillo Ruini and Mons. Lorenzo Leuzzi, as well as those who have cooperated in the initiative:  the Academic Institutions, the Conservatories, the Ministry for Universities and Research and the Ministry for Communications.
+
+I congratulate the conductors of the orchestra and of the large choir, as well as you, dear musicians and choir members. As I welcome you, Roman friends, my thoughts turn with equal affection to your peers who, thanks to radio and television link-ups, have been able to take part in this moment of prayer and reflection in several Cities of Europe and Asia:  Prague, Calcutta, Hong Kong, Bologna, Krakow, Turin, Manchester, Manila, Coimbra, Tirana and Islamabad-Rawalpindi. This "network", set up with the collaboration of the Vatican Television Centre, Vatican Radio and Telespazio, is truly a sign of the times, a sign of hope.
+
+It is a "network" which demonstrates its  full  value  if  we reflect on the theme of today's vigil: "*Intellectual charity for a new Europe-Asia cooperation".*
+
+It is evocative to think of intellectual charity as a force of the human spirit capable of bringing together the formation processes of the new generations.
+
+More globally, intellectual charity can unite the existential journey of young people who, while living very far away from one another, succeed in feeling bound to one another on the level of interior inquiry and witness.
+
+This evening, we will build a spiritual bridge between Europe and Asia, a Continent of very rich spiritual traditions where several of humanity's oldest and most noble cultural traditions developed. Consequently, how important this meeting is!
+
+The young university students of Rome have made themselves champions of brotherhood under the banner of intellectual love; they seek a solidarity that is not motivated by financial or political interests but by study and the search for truth.
+
+In brief, we are in a true "university" perspective, that is, a perspective of the community of knowledge that is one of the constitutive elements of Europe. Thank you, dear young people.\
+I now address those who are connected with us in the different cities and nations.
+
+*In Czech:*
+
+Dear young people who have gathered together in Prague, may friendship with Christ always enlighten your studies and your personal growth!
+
+*In English:*
+
+Dear university students from Calcutta, Hong Kong, Islamabad-Rawalpindi, Manchester and Manila, may you bear witness to the fact that Jesus Christ takes nothing away from us but brings to fulfilment our deepest longings for life and truth!
+
+*In Polish:*
+
+Dear friends in Krakow, always treasure the teachings that venerable Pope John Paul II bequeathed to young people, and in a special way, to university students!
+
+*In Portuguese:*
+
+Dear university students of Coimbra, may the Virgin Mary, Seat of Wisdom, be your guide so that you will become true disciples and witnesses of Christian wisdom!
+
+*In Albanian:*
+
+Dear young people of Tirana, strive to build the new Albania as protagonists, drawing on the Christian roots of Europe!
+
+*In Italian:*
+
+Dear university students of Bologna and Turin, ensure that the construction of the new humanism, based on creative dialogue between faith and reason, does not lack your original and creative contribution!
+
+Dear friends, we are living the Lenten Season and the liturgy continually urges us to strengthen the way in which we follow Christ. This Vigil too, in accordance with the tradition of the World Youth Days, can be considered a stage in the spiritual pilgrimage guided by the Cross.
+
+And the mystery of the Cross is not unconnected with the theme of intellectual charity, indeed, it illumines it.
+
+Christian wisdom is the wisdom of the Cross:  may Christian students and especially Christian teachers interpret every reality in the light of the mystery of God's love, whose loftiest and fullest revelation is the Cross.
+
+Once again, dear young people, I entrust to you the Cross of Christ:  welcome it, embrace it, follow it. It is the tree of life!
+
+At its foot you will always find Mary, Mother of Jesus. With her, Seat of Wisdom, turn your gaze to the One who was pierced for our sake (cf. Jn 19: 37), contemplate the inexhaustible source of love and truth, and you too will be able to become joyful disciples and witnesses.
+
+This is the wish that I express to each one of you. I accompany it wholeheartedly with prayer and with my Blessing, which I willingly extend to all your loved ones.

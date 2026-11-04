@@ -1,0 +1,56 @@
+---
+id: francis-ang-20200719.en
+work: francis-ang-20200719
+title: "Angelus, 19 July 2020"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Angelus / Regina Caeli
+url_date: 2020-07-19
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/angelus/2020/documents/papa-francesco_angelus_20200719.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt"
+anchors: "{#francis-ang-20200719} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 19 July 2020 {#francis-ang-20200719}
+POPE FRANCIS
+
+## ANGELUS
+
+*Saint Peter's Square\
+Sunday, 19 July 2020*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2020/7/19/angelus.html)**\]
+
+*Dear Brothers and Sisters, Good morning,*
+
+In today’s Gospel (cf. *Mt* 13:24-43) we once again encounter Jesus who is intent on speaking to the crowd in parables about the Kingdom of Heaven. I will reflect only on the first one, that of the weeds, through which Jesus helps us understand *God’s patience*, opening our hearts to *hope*.
+
+Jesus narrates that, in the field where the good seed was sown, weeds also sprouted. This term sums up all the toxic vegetation that infests the soil. Among us, we can say that even today the soil has been devastated by so many herbicides and pesticides that, in the end, harm the grass, the soil and our health. But this is parenthetical. The servants then go to the master to understand where the weeds come from. He responds: “An enemy has done this!” (v. 28). Because we sowed good seed! An enemy, someone who is in competition, came to do this. The servants want to go right away to pull the weeds that are growing. However, the master says no, because there could be a risk of pulling the wheat along with it — the weeds. It is necessary to wait for harvest time: only then will the weeds be separated and burned. This is also a common-sense narrative.
+
+We can read in this parable a way of looking at history. Alongside God — the master of the field — who only and always sows good seed, there is an adversary, who sows weeds to impede the wheat’s growth. The master acts in the open, in broad daylight, and his goal is a good harvest. Instead, the other, the adversary, takes advantage of the darkness of night and works out of envy and hostility to ruin everything. The adversary whom Jesus refers to has a name: it is the devil, God’s quintessential opponent. His intention is to hinder the work of salvation, to stonewall the Kingdom of God through wicked workers, sowers of scandal. Indeed, the good seed and the weeds do not represent good and bad in the abstract, but we human beings, who can follow God or the devil. Many times we have heard of a peaceful family, and then war or envy begins... a neighbourhood that was peaceful, then nasty things begin to happen... And we are used to saying: “someone went and sowed weeds there”, or “that person in the family sows weeds by gossiping”. Destruction always happens by sowing evil. It is always the devil who does this or our own temptations: when we fall into the temptation to gossip to destroy others.
+
+The servants’ intention is to eliminate evil immediately, that is, evil people. But the master is wiser, he sees farther. They must learn to wait because enduring persecution and hostility is part of the Christian vocation. Certainly, evil must be rejected, but those who do evil are people with whom it is necessary to be patient. This does not mean that type of hypocritical tolerance that hides ambiguity; but rather, justice tempered by mercy. If Jesus came to seek sinners more than the righteous, to cure the sick first before the healthy (cf. *Mt* 9:12-13), then our actions too as his disciples should be focused not on suppressing the wicked, but on saving them. Patience lies here.
+
+Today’s Gospel presents two ways of acting and of experiencing history: on the one hand, the vision of the master who sees far; on the other, the perspective of the servants who see the problem. The servants care about a field without weeds; the master cares about good wheat. The Lord invites us to adopt his vision, one that is focused on good wheat, that knows how to protect it even amid the weeds. It is not those who are always searching for others’ limitations and flaws who cooperate well with God but, rather, those who know how to recognize the good that silently grows in the field of the Church and history, cultivating it until it becomes mature. And then, God, and he alone, will reward the good and punish the wicked. May the Virgin Mary help us to understand and imitate the patience of God, who does not want the loss of any of his children, whom he loves with a Father’s love.
+
+## After praying the Angelus, the Holy Father continued:
+
+*Dear brothers and sisters*,
+
+At this time when the pandemic shows no signs of coming to an end, I want to assure my closeness to all those suffering from the illness and its economic and social repercussions. My thoughts go out especially to the populations whose sufferings are heightened due to situations of conflict. Drawing from a recent United Nations resolution, I renew the appeal for a global and immediate ceasefire that would allow the peace and safety that are indispensable in order to provide the necessary humanitarian assistance.
+
+In particular, I am following with concern the past few days’ renewed intensification of armed clashes in the Caucasus region between Armenia and Azerbaijan. While ensuring my prayers for the families of those who lost their lives during the clashes, I hope that, with the dedication of the international community, and through dialogue and the good will of the parties, a lasting peaceful solution for the good of those beloved peoples may be reached.
+
+I offer my heartfelt greeting to you, the faithful from Rome and pilgrims who have come from Italy and other countries. I wish all of you a happy Sunday. Please, do not forget to pray for me. Enjoy your lunch. *Arrivederci*.

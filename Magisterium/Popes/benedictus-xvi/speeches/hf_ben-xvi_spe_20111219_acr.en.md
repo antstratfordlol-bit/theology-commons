@@ -1,0 +1,49 @@
+---
+id: b16-spe-20111219-acr.en
+work: b16-spe-20111219-acr
+title: "To a delegation of boys and girls of the Children's Italian Catholic Action (A.C.R.) (December 19, 2011)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2011-12-19
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/december/documents/hf_ben-xvi_spe_20111219_acr.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#b16-spe-20111219-acr} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To a delegation of boys and girls of the Children's Italian Catholic Action (A.C.R.) (December 19, 2011) {#b16-spe-20111219-acr}
+## ADDRESS OF HIS HOLINESS BENEDICT XVI TO MEMBERS OF THE CHILDREN'S ITALIAN CATHOLIC ACTION
+
+*Monday, 19 December 2011*
+
+*Dear Children and Educators of ACR,*
+
+I too am really glad to welcome you and to see the joy and the life that you bring to the Pope’s house. Thank you so much for your greetings on behalf of the whole Italian Catholic Action. I would then sincerely like to say “Well done!” to you, for the initiative you promoted in the month of January; in this way too you show that you are a group of good and attentive children, because your concern is not limited solely to your classmates or to the friends you play with but reaches out to those of your peers who cannot flourish or be happy as you are because they lack what they need to live a dignified life.
+
+Always be sensitive to those who need help; do as Jesus did, who left no one alone with his or her problems but welcomed all, shared their difficulties, helped them and gave them God’s strength and peace.
+
+I know that this year you are reflecting on Bartimaeus’ invitation: “Rise, he is calling you” \[Mk 10:49\]. You too must listen to this invitation every day. When your mother or your father wakes you up in the morning to go to school, *Rise*! At times, true, it is not so easy to listen and the answer is not always immediate. I am not only inviting you to be quick but also to see that within this everyday word there is a call from someone who loves you, there is God’s call to life, to be Christian children, to begin a new day that is his great gift in order to meet many friends, as you are, so as to learn, to do good and also to say to Jesus, “thank you” for everything you give me.
+
+When you wake up in the morning remember your Friend, who is Jesus, with a prayer. I hope you do it every day. This invitation: “rise, he is calling” has been repeated many times in your life and is repeated today. You received the first call with the gift of life; always be careful with this great gift, treasure it, be grateful to the Lord for it, ask him to give the gift of a joyful life to every child in the world: may all of them always be respected and may none of them lack what they need to live.
+
+Another important day was the day on which you received baptism, even if you do not remember it; at that moment you became a brother or a sister of Jesus, who cares for you more than anyone and wants to help you grow. Lastly, another call was when you received Holy Communion: on that day your friendship with Jesus became very close, and he accompanies you always on your life’s journey. Dear ACRchildren, respond generously to the Lord who is asking for your friendship: he will never disappoint you! He might call you to be the gift of love to someone in order to form a family, or he might ask you to make your life a gift to him and to others as priests, religious or missionaries. Be courageous in answering him; as you said, “aim high”; you will be happy about it for the rest of your life!
+
+However at this moment, I would also like to take the opportunity to thank all your educators, especially those of Catholic Action, and your parents, they are precious because they have helped and will help you to respond to the Lord, to make this journey; indeed, they will travel it with you!
+
+I am particularly glad that our Bishop Sigalini has returned: he had fallen — as you know — and was very ill. But the Lord needs him. Thus we are grateful for his return.
+
+Dear friends, I would like to ask to you to do one thing: take to your companions too this lovely invitation — rise, he is calling you — and tell them: Look I have answered Jesus’ call and I am happy because in him I have found a great Friend, one whom I meet in my prayers, whom I see in my friends, and whom listen to in the Gospel. The Christmas that I wish for you is this: while you are setting up the crib, imagine that you are saying to Jesus: come into my life and I will always listen to you.
+
+Happy Christmas to you, to your Chaplain, who is recovering — as I said — from a serious accident, to your president and to the whole of Italian Catholic Action.

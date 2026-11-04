@@ -1,0 +1,54 @@
+---
+id: jp2-ang-19971019.en
+work: jp2-ang-19971019
+title: "Angelus, 19 October 1997- St Thérèse of Lisieux"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Angelus / Regina Caeli
+url_date: 1997-10-19
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/angelus/1997/documents/hf_jp-ii_ang_19971019.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#jp2-ang-19971019} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 19 October 1997- St Thérèse of Lisieux {#jp2-ang-19971019}
+JOHN PAUL II
+
+## ANGELUS - PROCLAMATION OF ST THÉRÈSE OF THE CHILD JESUS AND THE HOLY FACE AS A "DOCTOR OF THE CHURCH"
+
+World Mission Sunday\
+Sunday, 19 October1997
+
+Today, World Mission Sunday, we turn our attention especially to *St Thérèse of the Child Jesus and the Holy Face,* whom this morning I had the joy of proclaiming a doctor of the universal Church. She is a model of missionary commitment and the *patroness of the missions,* although she never left the cloister of the Lisieux Carmel.
+
+It could be said that *Thérèse* made her own the exceptional missionary vision of *Mary most holy,* who inspired the first apostolic community with her prayerful presence and perfect charity, so that the dynamism instilled by the Holy Spirit at Pentecost would carry the proclamation of the Gospel to the very ends of the earth.
+
+From early childhood *there was a deep bond between St Thérèse of the Child Jesus and Mary.* She attributed her miraculous healing at the age of 10 to the unforgettable experience of *Mary’s smile,* seen on the face of the statue placed in her room (cf. *Ms A,* 30rº). The "Madonna of the Smile" would also stand in front of the infirmary bed where the saint ended her brief life consumed by illness.
+
+The spirit of filial abandonment to Our Lady, which marked little Thérèse’s whole life, is offered to us today as an example to imitate.
+
+May St Thérèse of the Child Jesus help us to love, follow and imitate the Blessed Virgin, Mother and Queen of All Saints.
+
+The Holy Father then greeted the various groups in their languages.
+
+I greet the Italian-speaking pilgrims who have come to take part in this solemn celebration. In particular, I wish to extend a cordial greeting to the professors and students of the Roman ecclesiastical universities at the start of the new academic year. Dear friends, the "lesson" that little Thérèse offers the Christian people is particularly significant for you: indeed, all who are called to contemplate and transmit the truths of the faith must cultivate that deep intimacy with God which belongs to the "little" and the "humble". Treasure this teaching!
+
+I warmly greet the French-speaking pilgrims, especially those from the Lisieux region where St Thérèse of the Child Jesus lived. Her spiritual figure and message have inspired many institutes involved in proclaiming the Gospel, particularly the *Mission de France* founded in 1941 by Cardinal Suhard, who started many missionary activities among the poor and in the scientific world. May everyone take the new doctor of the Church as a model of spiritual life and apostolic courage!
+
+I welcome the English-speaking pilgrims who are here to honour St Thérèse, patroness of the missions and now a doctor of the Church. I commend to you her example of a life dedicated to the love of God, which she expressed in contemplative prayer, in community life and in her concern for the spread of the Gospel to the ends of the earth. Through the intercession of St Thérèse, may God grant you and your families every grace and blessing.
+
+I cordially greet the Spanish-speaking pilgrims attending this celebration in which St Thérèse of the Child Jesus was proclaimed a doctor of the Church. May the Virgin Mary help us to see ourselves as the beloved children of God and to come before him with the simplicity and trust that the new doctor of the Church taught us in her spiritual way. My heartfelt blessing to all.
+
+Lastly, I greet all the Carmelites present here and throughout the world.

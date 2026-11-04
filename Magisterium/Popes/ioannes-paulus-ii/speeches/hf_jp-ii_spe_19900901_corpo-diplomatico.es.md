@@ -1,0 +1,66 @@
+---
+id: jp2-spe-19900901-corpo-diplomatico.es
+work: jp2-spe-19900901-corpo-diplomatico
+title: "Viaje apostólico: A los miembros del Cuerpo Diplomático en la «State House» de Dar-es-Salaam, Tanzania (1 de septiembre de 1990)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1990-09-01
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1990/september/documents/hf_jp-ii_spe_19900901_corpo-diplomatico.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it"
+anchors: "{#jp2-spe-19900901-corpo-diplomatico.N} — numbered paragraphs 1..5 (4 anchors), shared with jp2-spe-19900901-corpo-diplomatico.en"
+anchor_check: "MISMATCH: en: 5 anchors to 5; es: 4 anchors to 5"
+unnumbered_on_page: "2 — these paragraphs carry no number on the vatican.va page in this language; no anchor is emitted for them"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje apostólico: A los miembros del Cuerpo Diplomático en la «State House» de Dar-es-Salaam, Tanzania (1 de septiembre de 1990)
+[VIAJE APOSTÓLICO A TANZANIA, BURUNDI, RUANDA Y YAMOUSSOUKRO\
+(1 - 10 DE SEPTIEMBRE DE 1990)](http://w2.vatican.va/content/john-paul-ii/es/travels/1990/travels/documents/trav_est-africa.html)
+
+## DISCURSO DEL SANTO PADRE JUAN PABLO II A LOS MIEMBROS DEL CUERPO DIPLOMÁTICO EN TANZANIA
+
+*Sábado 1 de septiembre de 1990*
+
+*Excelencias, señoras y señores*:
+
+### 1 {#jp2-spe-19900901-corpo-diplomatico.1}
+
+Al inicio de mi séptima visita pastoral a África me alegra encontrarme con vosotros, ilustres jefes de misión y personal diplomático acreditado ante el Gobierno de Tanzania, así como representantes de las organizaciones internacionales presentes aquí en Dar es Salam. Doy gracias al pro-nuncio apostólico por las palabras de bienvenida que me ha dirigido en nombre vuestro, y os saludo a todos con profundos sentimientos de amistad y de estima. La mejor prerrogativa de vuestra vocación y la auténtica razón de su prestigio está en vuestro generoso empeño profesional por mejorar la comprensión y promover el desarrollo y la paz entre los pueblos del mundo.
+
+Del mismo modo, a la Iglesia su divino Fundador le ha confiado una misión religiosa y humanitaria, diversa por su naturaleza a la vuestra, pero abierta a muchas formas de cooperación y de mutuo apoyo. En efecto, la presencia de la Santa Sede en la comunidad internacional corresponde a lo que se puede llamar una "pasión" por el bien de la familia humana, —por la paz, la defensa de la dignidad humana y de los derechos humanos, y el bienestar integral de los individuos y de los pueblos—, una "pasión" que deriva necesariamente y desde siempre del Evangelio de Jesucristo, y que espero que vosotros compartáis.
+
+La Iglesia dirige su más viva atención al mundo, teatro de la historia humana (cf. *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)*, 2), en el que contempla al género humano admirado de sus propios descubrimientos y de su propio poder, pero a la vez inquieto por la actual evolución del mundo y cada vez más seriamente preocupado por los más profundos interrogantes, como son: el papel del hombre en el universo, el sentido de sus esfuerzos individuales y colectivos, y el destino ultimo de la misma familia humana (cf. ib., 3). La Iglesia quiere entablar con los hombres y mujeres de buena voluntad de todo el mundo un diálogo sobre esos problemas fundamentales y ofrecerles la luz de la revelación que ha recibido y la luz de su reflexión teológica y antropológica. En esta perspectiva deseo afrontar brevemente dos problemas que tienen enormes repercusiones en los pueblos de África. . 2. El primero de estos problemas brota de una estadística dramática. Se suele dar por cierto el hecho de que en África existen cerca de cinco millones de refugiados y unos trece millones de prófugos. Eso significa que millones de hermanos y hermanas nuestros no tienen casa o se hallan en el exilio, privados de dignidad y de esperanza. Algunos son víctimas de calamidades naturales, pero la mayoría son víctimas inocentes de conflictos étnicos, de luchas de poder, o del fracaso de políticas de desarrollo. Esta inmensa tragedia human de ordinario ejerce sobre la opinión pública mundial un influjo más débil que el de muchas otras causas de crisis del planeta. Por esta razón, no puedo menos de aprovechar esta oportunidad para recordaros a vosotros y a los Gobiernos que representáis, que esa situación exige que la comunidad internacional tome unas medidas urgentes para ayudar a esta gente no sólo a sobrevivir, a alimentarse y a recibir asistencia sanitaria y cuidados médicos, sino también a vivir una existencia útil y respetable, y a conservar esperanzas de un futuro mejor para sí mismos y para sus hijos.
+
+Los países de África o de Asia que reciben un gran aflujo de refugiados se encuentran en una situación difícil en la que no pueden hacer eso por sí solos. Todos estamos de acuerdo en el hecho de que las naciones más favorecidas y las organizaciones internacionales que se ocupan de ayudar a los refugiados, están haciendo mucho, y hay que agradecérselo. Pero hace falta hacer mucho más; y los repetidos llamamientos a las conciencias de quienes pueden hacer más, son necesarios, sobre todo teniendo en cuenta que existe una disminución de los recursos encaminados a ese objetivo. El país que os acoge, Tanzania, forma parte de aquellas naciones que han tratado de ofrecer hospitalidad a los refugiados de las áreas limítrofes usando sus propios recursos, tan necesarios, y por ello se halla ella también necesitada del apoyo de la comunidad internacional a este respecto. El aspecto humanitario inmediato de todo el problema exige una respuesta igualmente inmediata y generosa por parte de las naciones más desarrolladas.
+
+### 3 {#jp2-spe-19900901-corpo-diplomatico.3}
+
+Al mismo tiempo, la compleja naturaleza de todo el problema de los refugiados y de los prófugos pone de manifiesto la necesidad de llevar a cabo una acción en muchos otros frentes si se quiere que la situación mejore. Las causas fundamentales pueden eliminarse sólo si existe un crecimiento en la pacificación y en la democratización de la vida africana, con una participación cada vez mayor de todos los grupos en un ordenamiento de la vida pública representativo y tutelado jurídicamente. Hace falta un gran esfuerzo para elevar el nivel de la instrucción a fin de que un número mayor de personas pueda desempeñar un papel responsable en la determinación de los programas políticos, económicos, socia1es y culturales que conviene llevar a cabo. Hay que promover la conciencia de la dignidad humana y de los derechos humanos. El diálogo y las negociaciones deben tomar el lugar de los conflictos para resolver las tensiones. Los pueblos de África cada vez se convencen más de que deben ser ellos mismos los artífices de su propio destino. Las naciones desarrolladas, por su parte, tras haber superado la tentación de mirar a África simplemente como a una fuente de recursos para explotar en beneficio propio, deben ciertamente comprender que a todos interesa ver a este continente convertirse en un interlocutor capaz y vigoroso en los intercambios económicos y culturales.
+
+Todo ello exige que la interdependencia de los pueblos y de las naciones sea reconocida como una categoría moral, cuya respuesta correlativa es una solidaridad que no se reduzca sólo a una bien intencionada bondad o compasión —que tienen ciertamente su justo lugar en las relaciones humanas— sino que llegue a ser una firme y perseverante determinación de trabajar por el bien común de toda la familia humana (cf. *[Sollicitudo rei socialis](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html)*, 38). En la raíz de esta actitud de solidaridad se halla la convicción de que todos somos responsables de todos, es decir, que cada uno está ligado por un imperativo moral universal a reconocer a los demás como beneficiarios de iguales derechos humanos y dignos de un trato igual. Lo que se aplica a los individuos vale también para las naciones: las más ricas y más fuertes deben tener con respecto a las demás naciones un sentido de responsabilidad moral que lleve a establecer un sistema internacional basado en la equidad hacia todos los pueblos y en el necesario respeto a sus legítimas diferencias (cf. ib., 39).
+
+El problema de los refugiados y de los prófugos es una dramática urgencia que requiere la responsabilidad moral de la comunidad internacional. Señoras y señores, trabajemos juntos para ofrecer una respuesta adecuada: la Iglesia en su campo, educando a sus miembros en el fundamento religioso de sus deberes y animándolos a proseguir en el servicio desinteresado y generoso a sus hermanos y hermanas que se hallan en necesidad; vosotros, en calidad de diplomáticos y representantes de organizaciones internacionales, haciendo lo más posible para promover una respuesta adecuada a las calamidades de tantos millones de seres humanos y, sobre todo, trabajando por lograr un nuevo orden internacional basado en los principios morales más elevados de la responsabilidad, la justicia y la fraternidad.
+
+### 4 {#jp2-spe-19900901-corpo-diplomatico.4}
+
+El otro problema del que quiero hablaros brevemente también subraya la realidad de la interdependencia del globo. El drama del SIDA amenaza no sólo a algunas naciones o sociedades, sino también a toda la humanidad. No conoce fronteras de geografía, raza, edad o condición social. Esta epidemia, a diferencia de las otras, va acompañada de una inquietud cultural única, que deriva del impacto del simbolismo que sugiere: las funciones generadoras de la sexualidad humana y la sangre, que representa la salud y la vida misma, se convierten en vehículos de muerte. Sólo una respuesta que tenga en cuenta a la vez el aspecto médico de la enfermedad y las dimensiones humanas, culturales, éticas y religiosas de la vida, puede ofrecer a sus víctimas una completa solidaridad y acrecentar la esperanza de que la epidemia puede ser controlada y reducida.
+
+La epidemia del SIDA exige un esfuerzo supremo de cooperación internacional por parte de los Gobiernos, de la comunidad médica y científica mundial, y de todos los que pueden influir para que se desarrolle el sentido de responsabilidad moral en la sociedad. La amenaza es tan grande que la indiferencia por parte de las autoridades públicas, las actitudes de condena y discriminación con respecto a los que se hallan afectados por el virus de inmunodeficiencia adquirida, o las rivalidades egoístas en la búsqueda de una respuesta médica a este síndrome, deben considerarse como formas de colaborar con este terrible mal que ha caído sobre la humanidad.
+
+Los miembros de la Iglesia seguirán desempeñando su papel en el cuidado de los que sufren, como Jesús pidió a sus seguidores que hicieran (cf. *Mt* 25, 36), y promoviendo una prevención que respete la dignidad de la persona humana y su destino trascendente. La Iglesia está convencida de que, sin un renacimiento de la responsabilidad moral y una reafirmación de los valores morales fundamentales, todo programa de prevención basado sólo en la información será ineficaz o incluso contraproducente. Aún más perjudiciales —por su falta de contenido moral y la falsa seguridad que ofrecen— son las campañas que implícitamente promueven unos modelos de comportamiento que han contribuido en gran medida a la expansión de esa enfermedad.
+
+### 5 {#jp2-spe-19900901-corpo-diplomatico.5}
+
+Distinguidos señores y señoras, he hablado de los refugiados y de los enfermos, dos de las categorías de personas más necesitadas de nuestro planeta. Nuestra preocupación individual y colectiva por ellos es la medida definitiva de nuestra humanidad, en el sentido más noble de la palabra. Como un hermano en nuestra común humanidad, hago un llamamiento a vosotros a fin de que uséis todo vuestro influjo para orientar los esfuerzos y los recursos del mundo hacia la promoción del verdadero bienestar de la familia humana. Una nueva era de desarrollo y de solidaridad, ya no guiada por el egoísmo, sino más bien por un profundo y convencido respeto. a la dignidad human a y a los derechos humanos, es la gran oportunidad y el desafío que la situación mundial tan cambiada nos permite contemplar y afrontar. Ojalà que Dios conceda a los líderes de los pueblos la sabiduría y la bondad que estos momentos requieren. Dios os bendiga a vosotros, a vuestras familias y a los países que representáis. Muchas gracias.
+
+\**L'Osservatore Romano*. Edición semanal en lengua española, n.36, p.3 (p.483).

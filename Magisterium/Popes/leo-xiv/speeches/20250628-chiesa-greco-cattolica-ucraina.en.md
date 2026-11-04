@@ -1,0 +1,62 @@
+---
+id: leo14-spe-20250628-chiesa-greco-cattolica-ucraina.en
+work: leo14-spe-20250628-chiesa-greco-cattolica-ucraina
+title: "To Pilgrims of the Ukrainian Greek-Catholic Church (28 June 2025)"
+creator: "Leo PP. XIV"
+pope: Leo XIV
+document-type: Address
+url_date: 2025-06-28
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/leo-xiv/en/speeches/2025/june/documents/20250628-chiesa-greco-cattolica-ucraina.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, fr, it, pt, uk"
+anchors: "{#leo14-spe-20250628-chiesa-greco-cattolica-ucraina} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To Pilgrims of the Ukrainian Greek-Catholic Church (28 June 2025) {#leo14-spe-20250628-chiesa-greco-cattolica-ucraina}
+## ADDRESS OF THE HOLY FATHER LEO XIV TO PILGRIMS OF THE UKRAINIAN GREEK-CATHOLIC CHURCH
+
+*St. Peter's Basilica\
+Saturday, 28 June 2025*
+
+\[**[Multimedia](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/it/2025/6/28/chiesa-greco-cattolica-ucraina.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_
+
+In the name of the Father, of the Son, and of the Holy Spirit.
+
+Peace be with you.
+
+*Dear brothers in the Episcopate,\
+Dear priests, women and men religious,\
+Dear sisters, dear brothers!*
+
+I cordially greet you, dear faithful of the Greek-Catholic Ukrainian Church, who have come to the tomb of the Apostle Peter on the occasion of the Jubilee year. I greet His Beatitude Shevchuk, major archbishop of Kyiv-Halyč, the bishops, the priests, consecrated women and men, and all the lay faithful.
+
+Your pilgrimage is a sign of the desire to renew the faith, to strengthen the bond and the communion with the Bishop of Rome, and to bear witness to the hope that does not disappoint, since it is born from the love of Christ that was poured into our hearts by the Holy Spirit (cf. *Rm* 5:5). The Jubilee calls us to become pilgrims of this hope in our entire life, despite the adversities of the current moment. The journey to Rome, with the passage through the Holy Doors and the visits to the tombs of the Apostles and the Martyrs, is the symbol of this daily journey, striving towards eternity, where the Lord will dry every tear and there will be no more death, no more mourning, no more sorrow, no more pain (cf. *Rev* 21:4).
+
+Many of you, in order to arrive here, departed from your beautiful land, rich in Christian faith, rendered fruitful by the evangelical witness of so many saints, and irrigated with the blood of many martyrs, who throughout the centuries, with the gift of their life, sealed their fidelity to the Apostle Peter and his Successors.
+
+Faith, dear friends, is a treasure to be shared. Every time brings with it difficulties, hardships and challenges, but also opportunities to grow in trust and in surrender to God.
+
+The faith of your people is now being sorely tested. Many of you, since the large-scale invasion of Ukraine began, have surely asked: Lord, why all this? Where are you? What must we do to save our families, our homes and our homeland? To believe does not mean to have all the answers, but to trust that God is with us and gives us His grace, that He will have the last word, and life will conquer death.
+
+The Virgin Mary, so dear to the Ukrainian people, with her humble and courageous “yes”, opened the door to the redemption of the world; she assures us that our “yes”, simple and sincere, can also become a tool in God’s hands, to realize something great. Confirmed in faith by the Successor of Peter, I urge you to share it with your loved ones, your compatriots and all those whom the Lord will lead you to meet. To say “yes” today can enable new horizons of faith, hope and peace to be opened up, especially to all those who are suffering.
+
+Sisters and brothers, as I meet you here, I would like to express my closeness to tormented Ukraine, to the children, the young people, the elderly and, in a special way, to the families who mourn their loved ones. I share your sorrow for the prisoners and victims of this senseless war. I entrust to the Lord your intentions, your daily hardships and tragedies, and above all, the desires for peace and serenity.
+
+I encourage you to walk together, pastors and faithful, keeping your eyes fixed on Jesus, our salvation. May the Virgin Mary, who precisely because of her union with the passion of her Son is Mother of Hope, guide and protect you. I bless all of you, your families, your Church and your people, from my heart. Thank you.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*[Daily Bulletin of the Holy See Press Office](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/06/28/250628f.html)*, 28 June 2025

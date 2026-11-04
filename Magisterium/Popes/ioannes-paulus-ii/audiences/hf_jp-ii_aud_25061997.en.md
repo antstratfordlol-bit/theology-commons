@@ -1,0 +1,69 @@
+---
+id: jp2-aud-19970625.en
+work: jp2-aud-19970625
+title: "25. Juni 1997"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: General audience (catechesis)
+url_date: 1997-06-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/audiences/1997/documents/hf_jp-ii_aud_25061997.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-aud-19970625.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-aud-19970625.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 25. Juni 1997
+POPE JOHN PAUL II
+
+## GENERAL AUDIENCE
+
+*Wednesday, 25 June 1997*
+
+## Mary and the human drama of death
+
+### 1 {#jp2-aud-19970625.1}
+
+Concerning the end of Mary’s earthly life, the Council uses the terms of the Bull defining the dogma of the Assumption and states: “The Immaculate Virgin, preserved free from all stain of original sin, was taken up body and soul into heavenly glory, when her earthly life was over” (*[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, n. 59). With this formula, the Dogmatic Constitution *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, following my Venerable Predecessor Pius XII, made no pronouncement on the question of Mary’s death. Nevertheless, Pius XII did not intend to deny the fact of her death, but merely did not judge it opportune to affirm solemnly the death of the Mother of God as a truth to be accepted by all believers.
+
+Some theologians have in fact maintained that the Blessed Virgin did not die and and was immediately raised from earthly life to heavenly glory. However, this opinion was unknown until the 17th century, whereas a common tradition actually exists which sees Mary's death as her entry into heavenly glory.
+
+### 2 {#jp2-aud-19970625.2}
+
+Could Mary of Nazareth have experienced the drama of death in her own flesh? Reflecting on Mary’s destiny and her relationship with her divine Son, it seems legitimate to answer in the affirmative: since Christ died, it would be difficult to maintain the contrary for his Mother.
+
+The Fathers of the Church, who had no doubts in this regard, reasoned along these lines. One need only quote St Jacob of Sarug (†521), who wrote that when the time came for Mary “to walk on the way of all generations”, the way, that is, of death, “the group of the Twelve Apostles” gathered to bury “the virginal body of the Blessed One” (*Discourse on the burial of the Holy Mother of God*, 87-99 in C. Vona, *Lateranum* 19 \[1953\], 188). St Modestus of Jerusalem (†634), after a lengthy discussion of “the most blessed dormition of the most glorious Mother of God”, ends his eulogy by exalting the miraculous intervention of Christ who “raised her from the tomb”, to take her up with him in glory (*Enc. in dormitionem Deiparae semperque Virginis Mariae*, nn. 7 and 14: PG 86 bis, 3293; 3311). St John Damascene (†704) for his part asks: “Why is it that she who in giving birth surpassed all the limits of nature should now bend to its laws, and her immaculate body be subjected to death?”. And he answers: “To be clothed in immortality, it is of course necessary that the mortal part be shed, since even the master of nature did not refuse the experience of death. Indeed, he died according to the flesh and by dying destroyed death; on corruption he bestowed incorruption and made death the source of resurrection” (*Panegyric on the Dormition of the Mother of God*, n. 10: SC 80, 107).
+
+### 3 {#jp2-aud-19970625.3}
+
+It is true that in Revelation death is presented as a punishment for sin. However, the fact that the Church proclaims Mary free from original sin by a unique divine privilege does not lead to the conclusion that she also received physical immortality. The Mother is not superior to the Son who underwent death, giving it a new meaning and changing it into a means of salvation.
+
+Involved in Christ’s redemptive work and associated in his saving sacrifice, Mary was able to share in his suffering and death for the sake of humanity’s Redemption. What Severus of Antioch says about Christ also applies to her: “Without a preliminary death, how could the Resurrection have taken place?” (*Antijulianistica*, Beirut 1931, 194f.). To share in Christ’s Resurrection, Mary had first to share in his death.
+
+### 4 {#jp2-aud-19970625.4}
+
+The New Testament provides no information on the circumstances of Mary’s death. This silence leads one to suppose that it happened naturally, with no detail particularly worthy of mention. If this were not the case, how could the information about it have remained hidden from her contemporaries and not have been passed down to us in some way?
+
+As to the cause of Mary’s death, the opinions that wish to exclude her from death by natural causes seem groundless. It is more important to look for the Blessed Virgin’s spiritual attitude at the moment of her departure from this world. In this regard, St Francis de Sales maintains that Mary’s death was due to a transport of love. He speaks of a dying “in love, from love and through love”, going so far as to say that the Mother of God died of love for her Son Jesus (*Treatise on the Love of God*, bk. 7, ch. XIII-XIV).
+
+Whatever from the physical point of view was the organic, biological cause of the end of her bodily life, it can be said that for Mary the passage from this life to the next was the full development of grace in glory, so that no death can ever be so fittingly described as a “dormition” as hers.
+
+### 5 {#jp2-aud-19970625.5}
+
+In some of the writings of the Church Fathers we find Jesus himself described as coming to take his Mother at the time of her death to bring her into heavenly glory. In this way they present the death of Mary as an event of love which conducted her to her divine Son to share his immortal life. At the end of her earthly life, she must have experienced, like Paul and more strongly, the desire to be freed from her body in order to be with Christ for ever (cf. Phil 1:23).
+
+The experience of death personally enriched the Blessed Virgin: by undergoing mankind’s common destiny, she can more effectively exercise her spiritual motherhood towards those approaching the last moment of their life.
+
+*To the English-speaking pilgrims and visitors, the Holy Father said*:
+
+I am pleased to welcome the professors and students of the Theological Seminary of the Reformed Church in America. I also thank the choirs for the praise of God in song. Upon all the English-speaking visitors, especially the pilgrims from Scotland, South Africa, Indonesia, Thailand, Japan, the Philippines and the United States, I cordially invoke the joy and peace of our Lord Jesus Christ.

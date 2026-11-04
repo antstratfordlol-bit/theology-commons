@@ -1,0 +1,53 @@
+---
+id: francis-hom-20140629-pallio.en
+work: francis-hom-20140629-pallio
+title: "Solemnity of the Holy Apostles Peter and Paul - Holy Mass and imposition of the Pallium on new Metropolitan Archbishops (29 June 2014)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2014-06-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/homilies/2014/documents/papa-francesco_20140629_omelia-pallio.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#francis-hom-20140629-pallio} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Solemnity of the Holy Apostles Peter and Paul - Holy Mass and imposition of the Pallium on new Metropolitan Archbishops (29 June 2014) {#francis-hom-20140629-pallio}
+[PAPAL MASS\
+ON THE SOLEMNITY OF SAINTS PETER AND PAUL](http://www.vatican.va/news_services/liturgy/libretti/2014/20140629-libretto-santi-pietro-paolo.pdf)
+
+## HOLY MASS AND IMPOSITION OF THE SACRED PALLIUM ON NEW METROPOLITAN ARCHBISHOPS
+
+## HOMILY OF POPE FRANCIS
+
+*Vatican Basilica\
+Sunday, 29 June 2014*
+
+**[Video](http://player.rv.va/vaticanplayer.asp?language=it&tic=VA_6QLLTG9J) [Photo Gallery](http://www.photogallery.va/content/photogallery/en/celebrazioni-liturgiche/pietro-paolo2014.html)**
+
+On this Solemnity of Saints Peter and Paul, the principal patrons of Rome, we welcome with joy and gratitude the Delegation sent by the Ecumenical Patriarch, our venerable and beloved brother Bartholomaios, and led by Metropolitan Ioannis. Let us ask the Lord that this visit too may strengthen our fraternal bonds as we journey toward that full communion between the two sister Churches which we so greatly desire.
+
+“Now I am sure that the Lord has sent his angel and rescued me from the hand of Herod” (*Acts* 12:11). When Peter began his ministry to the Christian community of Jerusalem, great fear was still in the air because of Herod’s persecution of members of the Church. There had been the killing of James, and then the imprisonment of Peter himself, in order to placate the people. While Peter was imprisoned and in chains, he heard the voice of the angel telling him, “Get up quickly… dress yourself and put on your sandals… Put on your mantle and follow me!” (*Acts* 12:7-8). The chains fell from him and the door of the prison opened before him. Peter realized that the Lord had “rescued him from the hand of Herod”; he realized that the Lord had freed him from fear and from chains. Yes, the Lord *liberates us from every fear and from all that enslaves us*, so that we can be truly free. Today’s liturgical celebration expresses this truth well in the refrain of the Responsorial Psalm: “The Lord has freed me from all my fears”.
+
+The problem for us, then, is fear and looking for refuge in our pastoral responsibilities.
+
+I wonder, dear brother bishops, are we afraid? *What are we afraid of?* And if we are afraid, *what forms of refuge do we seek*, in our pastoral life, to find security? Do we look for support from those who wield worldly power? Or do we let ourselves be deceived by the pride which seeks gratification and recognition, thinking that these will offer us security? Dear brother bishops, where do we find our security?
+
+The witness of the Apostle Peter reminds us that *our true refuge is trust in God*. Trust in God banishes all fear and sets us free from every form of slavery and all worldly temptation. Today the Bishop of Rome and other bishops, particularly the metropolitans who have received the pallium, feel challenged by the example of Saint Peter to assess to what extent each of us puts his trust in the Lord.
+
+Peter recovered this trust when Jesus said to him three times: “Feed my sheep” (*Jn* 21: 15,16,17). Peter thrice confessed his love for Jesus, thus making up for his threefold denial of Christ during the passion. Peter still regrets the disappointment which he caused the Lord on the night of his betrayal. Now that the Lord asks him: “Do you love me?”, Peter does not trust himself and his own strength, but instead entrusts himself to Jesus and his mercy: “Lord, you know everything; you know that I love you” (*Jn* 21:17). Precisely at this moment fear, insecurity and cowardice dissipate.
+
+Peter experienced how God’s fidelity is always greater than our acts of infidelity, stronger than our denials. He realizes that the God’s fidelity dispels our fears and exceeds every human reckoning. Today Jesus also asks us: “Do you love me?”. He does so because he knows our fears and our struggles. Peter shows us the way: we need to trust in the Lord, who “knows everything” that is in us, not counting on our capacity to be faithful, but on his unshakable fidelity. Jesus never abandons us, for he cannot deny himself (cf. *2 Tim* 2:13). He is faithful. The fidelity which God constantly shows to us pastors, far in excess of our merits, is the source of our confidence and our peace. The Lord’s fidelity to us keeps kindled within us the desire to serve him and to serve our sisters and brothers in charity.
+
+The love of Jesus must suffice for Peter. He must no longer yield to the temptation to curiosity, jealousy, as when, seeing John nearby, he asks Jesus: “Lord, what about this man?” (*Jn* 21:21). But Jesus, before such temptations, says to him in reply: “What is it to you? Follow me” (*Jn* 21:22). This experience of Peter is a message for us too, dear brother archbishops. Today the Lord repeats to me, to you, and to all pastors: Follow me! Waste no time in questioning or in useless chattering; do not dwell on secondary things, but look to what is essential and follow me. Follow me without regard for the difficulties. Follow me in preaching the Gospel. Follow me by the witness of a life shaped by the grace you received in baptism and holy orders. Follow me by speaking of me to those with whom you live, day after day, in your work, your conversations and among your friends. Follow me by proclaiming the Gospel to all, especially to the least among us, so that no one will fail to hear the word of life which sets us free from every fear and enables us to trust in the faithfulness of God. Follow me!

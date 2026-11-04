@@ -1,0 +1,77 @@
+---
+id: jp2-aud-19990217.en
+work: jp2-aud-19990217
+title: "17 February 1999"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: General audience (catechesis)
+url_date: 1999-02-17
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/audiences/1999/documents/hf_jp-ii_aud_17021999.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-aud-19990217.N} — numbered paragraphs 1..4 (4 anchors), shared with jp2-aud-19990217.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 17 February 1999
+JOHN PAUL II
+
+## GENERAL AUDIENCE
+
+*Wednesday 17 February 1999*
+
+### 1 {#jp2-aud-19990217.1}
+
+Today, with the austere ceremony of the distribution of ashes, the penitential journey of Lent begins. This year is particularly marked by the call to divine mercy: in fact we are in the Year of the Father, which prepares us directly for the Great Jubilee of the Year 2000.
+
+“Father, I have sinned ... before you” (*Lk* 15:18). In the season of Lent these words inspire strong feeling, since this is a time when the ecclesial community is invited to profound conversion. If it is true that sin closes man to God, on the other hand, a sincere confession of sins reawakens his conscience to the regenerating action of God's grace. In effect, man is not restored to friendship with God until the words “Father, I have sinned” flow from his lips and his heart. His efforts are then made effective by the encounter with salvation which takes place through Christ's Death and Resurrection. It is in the paschal mystery, the heart of the Church, that the penitent receives the gift of the forgiveness of his sins and the joy of being born again to eternal life.
+
+### 2 {#jp2-aud-19990217.2}
+
+In the light of this extraordinary spiritual reality, the parable of the prodigal son, in which Jesus wanted to tell us of the heavenly Father's tender mercy, becomes powerfully eloquent. There are three key stages in the story of this young man with whom, in a certain sense, each of us can identify when we yield to temptation and fall into sin.
+
+*The first stage: the distancing.* We distance ourselves from God, like that son from his father, when we forget that the goods and talents we possess were given to us by God as a task and we thoughtlessly squander them. Sin is always a waste of our humanity, a waste of very precious values such as the dignity of the person and the inheritance of divine grace.
+
+*The second stage* is the *process of conversion.* Man, who by sin voluntarily left his Father's house, realizes what he lost and gradually makes the decisive step of coming to himself: “I will arise and go to my Father” (*Lk* 15:18). The certainty that God “is good and loves me” is stronger than shame and discouragement: it sheds new light on one’s sense of guilt and personal unworthiness.
+
+Lastly, *the third stage: the return.* The one important thing for the father is that his son has been found. The embrace between him and the prodigal son becomes a celebration of forgiveness and joy. This is a moving Gospel scene that reveals in full detail the attitude of our Father in heaven, who is “rich in mercy” (cf. *Eph* 2:4).
+
+### 3 {#jp2-aud-19990217.3}
+
+How many people throughout the ages have recognized in this parable the basic elements of their own story! The way that leads back to the Father's house after the bitter experience of sin comes through an examination of conscience, repentance and the firm intention to be converted. It is an interior process which changes the way one looks at reality; it makes a person realize his own frailty and it spurs the believer to throw himself into God's arms. When man, supported by grace, goes over these steps in his mind, he feels an acute need to rediscover himself and his own dignity as a son in the Father's embrace.
+
+Therefore, this parable, so dear to the Church's tradition, expresses in a simple and profound way the reality of conversion, giving us the most concrete expression of the work of divine mercy in the human world. God's merciful love “promotes and draws good from all the forms of evil existing in the world and in man ... mercy constitutes the fundamental content of the messianic message of Christ and the constitutive power of his mission” (cf. *Dives in misericordia,* n. 6).
+
+### 4 {#jp2-aud-19990217.4}
+
+At the start of Lent, it is important to prepare our spirit to receive abundantly the gift of divine mercy. The Word of God warns us to repent and believe in the Gospel, and the Church indicates that prayer, penance, fasting and generous aid to our brethren are the means to enter into the atmosphere of authentic interior and community renewal. In this way we can experience the superabundant love of the heavenly Father, given in fullness to all humanity in the paschal mystery. We can say that Lent is the time of a particular concern on God's part to pardon and forgive our sins: it is the time of reconciliation. For this reason it is a most appropriate time for the fruitful reception of the sacrament of Penance.
+
+Dear brothers and sisters, knowing that our reconciliation with God takes place through authentic conversion, let us begin our Lenten pilgrimage with our eyes fixed on Christ, our only Redeemer.
+
+Lent will help us return to ourselves and courageously renounce whatever prevents us from faithfully following the Gospel. Especially in these days let us contemplate the image of the Father embracing the son who returned to his paternal home, which well symbolizes the theme this year that leads us into the Great Jubilee of the Year 2000.
+
+The embrace of reconciliation between the Father and all sinful humanity took place on Calvary. May the Crucifix, sign of the love of Christ who sacrificed himself for our salvation, instil in the hearts of every man and woman of our time that same trust which prompted the prodigal son to say: “I will arise and go to my father, and I will say to him, 'Father, I have sinned'”. He received the gift of forgiveness and joy.
+
+\* \* \* \* \*
+
+*Dear Brothers and Sisters,*
+
+The beginning of the season of Lent invites us to turn to God our Father with great trust in his mercy and love.
+
+The parable of the Prodigal Son speaks to us of sin and conversion. As in the case of the Prodigal Son, every sin creates a distance between ourselves and the Father. But the Father, who is “rich in mercy”, continually calls us to examine our conscience, to repent and to be converted.
+
+Lent is a time for us to seek the gift of the Father’s mercy through authentic personal and community renewal. This renewal involves prayer, fasting and charitable acts, and is most intensely experienced in the Sacrament of Penance. As we look forward to Easter, may our Lenten journey help us to put aside whatever hinders our friendship with God.
+
+\*\*\*\*\*\*
+
+I am happy to welcome all the English-speaking visitors and pilgrims, especially those from England, Ireland, Japan and the United States of America. Upon you and your families, I invoke the strength and joy of our Lord Jesus Christ.

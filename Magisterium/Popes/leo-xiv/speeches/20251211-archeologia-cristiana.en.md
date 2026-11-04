@@ -1,0 +1,63 @@
+---
+id: leo14-spe-20251211-archeologia-cristiana.en
+work: leo14-spe-20251211-archeologia-cristiana
+title: "To the Faculty and the Students of the Pontifical Institute for Christian Archaeology (11 December 2025)"
+creator: "Leo PP. XIV"
+pope: Leo XIV
+document-type: Address
+url_date: 2025-12-11
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/leo-xiv/en/speeches/2025/december/documents/20251211-archeologia-cristiana.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pl, pt"
+anchors: "{#leo14-spe-20251211-archeologia-cristiana} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Faculty and the Students of the Pontifical Institute for Christian Archaeology (11 December 2025) {#leo14-spe-20251211-archeologia-cristiana}
+## ADDRESS OF POPE LEO XIV TO THE FACULTY AND THE STUDENTS OF THE PONTIFICAL INSTITUTE FOR CHRISTIAN ARCHAEOLOGY
+
+*Clementine Hall\
+Thursday, 11 December 2025*
+
+\[[**Multimedia**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2025/12/11/archeologia-cristiana.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+In the name of the Father, and of the Son, and of the Holy Spirit.\
+Peace be with you!
+
+*Your Eminence,\
+Monsignor Rector, Monsignor Secretary,\
+dear teachers, staff and students!*
+
+Today marks the centenary of the day when my venerable predecessor [Pius XI](https://www.vatican.va/content/vatican/it/holy-father/pio-xi.html), in his Motu proprio *I primitivi cemeteri di Roma cristiana* (“The Early Cemeteries of Christian Rome”), recalled how “the Roman Pontiffs always considered it their strict duty to protect and preserve” the sacred heritage, in particular the “underground cemeteries commonly called Catacombs”, without neglecting “the basilicas that flourished within the walls of the City of Rome with their magnificent mosaics, countless inscriptions, paintings, sculptures, and cemetery and liturgical furnishings”. In the same document, [Pius XI](https://www.vatican.va/content/vatican/it/holy-father/pio-xi.html) mentioned the “never sufficiently praised Giovanni Battista de Rossi” and “the tireless researcher of sacred Roman antiquities Antonio Bosio”, the initiators of Christian archaeology.
+
+On that occasion, the Pope decided to add the Pontifical Institute of Christian Archaeology to [the Pontifical Commission for Sacred Archaeology](https://www.vatican.va/roman_curia/pontifical_commissions/archeo/index.htm) and [the Pontifical Roman Academy of Archaeology](https://www.cultura.va/content/cultura/en/collegamenti/accademie-pontificie/archeologia.html), in order to ‘direct willing young people from every country and nation to the study and scientific research of Christian antiquities.’ A century later, this mission is more alive than ever, thanks in part to international conferences on Christian archaeology, through which the Institute promotes studies in a discipline that is characteristic not only of the historical sciences, but also of the Christian faith and identity.
+
+On this anniversary, with [today's Apostolic Letter](https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20251211-nel-centenario-piac.html), I wanted to propose some reflections on the importance of archaeology. Now I would simply like to offer some clarifications.
+
+Firstly, the teaching of “Christian archaeology”, understood as the study of the monuments of the first century of Christianity, has its own epistemological status due to its specific chronological, historical and thematic parameters. Nevertheless, we note that in other contexts, such teaching is incorporated in the field of medieval archaeology. In this regard, I suggest that you become advocates of the specific nature of your discipline, in which the adjective “Christian” is not intended to be an expression of a confessional perspective, but rather qualifies the discipline itself with its own scientific and professional dignity.
+
+Furthermore, Christian archaeology is a field of study that relates to the historical period of the united Church, and can therefore be a useful tool for ecumenism: indeed, the various denominations can recognize their common origins through the study of Christian antiquities and can thus foster the aspiration to full communion. In this regard, I was able to have this experience [during my recent Apostolic Journey](https://www.vatican.va/content/leo-xiv/en/speeches/2025/november/documents/20251128-turchia-clero.html), [when in İznik, ancient Nicaea, I commemorated the first ecumenical Council together with the representatives of other Churches and ecclesial communities](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2025/11/28/turchia-incontro-ecumenico.html). The presence of the remains of ancient Christian buildings was exciting and motivating for all of us. On this theme, I appreciated the study day you organized in collaboration with the Dicastery for Evangelization.
+
+I also call on you to take part, through your studies, in that “diplomacy of culture” that the world so urgently needs these days. Through culture, the human spirit transcends national boundaries and overcomes the barriers of prejudice to serve the common good. You too can contribute to building bridges, fostering encounters and nurturing harmony.
+
+As I recalled in the Apostolic Letter, in 1925 the “Jubilee of Peace” was celebrated; now we are celebrating the “Jubilee of Hope”. Therefore, your Institute, in a certain sense, is ideally situated between peace and hope. And indeed, you are bearers of peace and hope wherever you work, with your excavations and your research, so that, when your red and white banner with the image of the Good Shepherd is recognized, doors may be opened wide to you not only as bearers of knowledge and science, but also as heralds of peace.
+
+Finally, I would like to evoke a passage from [Saint John Paul II](https://www.vatican.va/content/john-paul-ii/en.html)’s address *On the common Christian roots of European Nations*, in which he said: “Europe needs Christ and the Gospel, because the roots of all her peoples are there. You too, listen to this message!” (6 November 1981). Christianity is certainly among the roots of European societies and nations, with its literary and monumental sources; and the work of archaeologists is an answer to the appeal I have just mentioned.
+
+Thank you, dear friends, for your work! May the Pontifical Institute of Christian Archaeology continue its valuable service to the Church and to culture with renewed vigour. I entrust this wish to the intercession of Mary Most Holy and cordially impart my Apostolic Blessing to you. Thank you
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*[Holy See Press Office Bulletin](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/12/11/251211d.html)*, 11 December 2025

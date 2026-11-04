@@ -1,0 +1,71 @@
+---
+id: jp2-spe-19960615-ad-limina-colombia.es
+work: jp2-spe-19960615-ad-limina-colombia
+title: "A los obispos de la Conferencia Episcopal de Colombia en visita 'ad limina Apostolorum' (15 de junio de 1996)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1996-06-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1996/june/documents/hf_jp-ii_spe_19960615_ad-limina-colombia.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "es, it"
+anchors: "{#jp2-spe-19960615-ad-limina-colombia.N} — numbered paragraphs 1..7 (5 anchors), shared with "
+anchor_check: "identical across es"
+unnumbered_on_page: "2, 3 — these paragraphs carry no number on the vatican.va page in this language; no anchor is emitted for them"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los obispos de la Conferencia Episcopal de Colombia en visita "ad limina Apostolorum" (15 de junio de 1996)
+## DISCURSO DEL SANTO PADRE JUAN PABLO II A LOS OBISPOS DE COLOMBIA EN VISITA "AD LIMINA APOSTOLORUM"
+
+*Sábado 15 de junio de 1996*
+
+*Amados Hermanos:*
+
+### 1 {#jp2-spe-19960615-ad-limina-colombia.1}
+
+Con gran gozo os recibo hoy, Pastores de la Arquidiócesis de Cali y de los Vicariatos y prefecturas Apostólicas de Colombia, en este encuentro final de la visita «ad limina», en la que habéis renovado vuestra comunión y la de vuestras comunidades eclesiales con el Sucesor de Pedro, estrechando los lazos de unidad, de amor y de paz» (*[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 22). En este espíritu agradezco las deferentes palabras, que en nombre de todos vosotros, me ha dirigido Monseñor Héctor Julio López Hurtado, Vicario Apostólico de Ariari.
+
+Sé bien que son muchas las dificultades que encontráis en el ejercicio de vuestro ministerio pastoral en el momento presente de la historia y de la sociedad colombiana. Por eso, quiero expresaros mi aprecio por la abnegada labor que lleváis a cabo, al tiempo que os aliento a perseverar en el empeño de ser heraldos, apóstoles y maestros del Evangelio (cf. *2Tm* 1, 11). Mi reconocimiento se dirige asimismo a los sacerdotes, diáconos, comunidades religiosas y laicos que colaboran con vosotros eficazmente en la actividad misionera de la Iglesia.
+
+La misión que habéis recibido y que, como expresión de vuestra caridad pastoral, debéis asumir con audacia y generosidad es la de anunciar a Cristo Redentor del hombre. Anunciarlo en la concreta realidad social y cultural de vuestras comunidades y pueblos, y también en todas las naciones de la tierra, mostrando una especial solicitud pastoral hacia «aquellas regiones del mundo en las que todavía no se ha anunciado la palabra de Dios..., aquellas en las que, sobre todo a causa del escaso número de sacerdotes, los cristianos se encuentran en peligro de alejarse de los mandamientos cristianos e incluso de perder la fe misma» (*[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_sp.html)*, 6).
+
+En efecto, Dios « quiere que todos los hombres se salven y lleguen al conocimiento pleno de la verdad » (*1Tm* 2, 4), y para ello ha llevado a cabo en Cristo la obra de redención universal. La primera beneficiaria de esta salvación es la Iglesia, llamada a profesar ante todos los pueblos que Dios ha constituido a Cristo como único salvador y mediador, y que ella misma ha sido constituida como sacramento universal de salvación (cf. *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 48). Por tanto, la actividad misionera es en la Iglesia una tarea primaria, esencial y nunca concluida, ya que sin ella la Iglesia estaría privada de su significado fundamental y de su actuación ejemplar (cf *[Redemptoris Missio](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html)*, 33-34).
+
+Tanto la misión « ad gentes » como la nueva evangelización a la que vengo convocando a toda la Iglesia brotan de la certeza de que en Cristo hay una «riqueza insondable» (*Ef* 3, 8), que no anula la cultura de ninguna época y a la cual los hombres pueden siempre acudir para enriquecerse espiritualmente. Esa riqueza es, ante todo, el propio Cristo, su persona, porque Él mismo es nuestra salvación (*[Discurso inaugural de la IV Conferencia General del Episcopado Latinoamericano](http://www.vatican.va/holy_father/john_paul_ii/speeches/1992/october/documents/hf_jp-ii_spe_19921012_iv-conferencia-latinoamerica_sp.html)*, 12 de octubre de 1992, n. 6). Él es la imagen viviente del Padre (cf. *Col* 1, 15), Verdad eterna, Amor infinito, Bien supremo; y, al mismo tiempo, es la imagen viviente del hombre, de su salvación y de su verdadera grandeza, a pesar de los dramas que acechan sobre la humanidad. En Cristo el hombre descubre plenamente su dignidad de persona, llamada a un desarrollo integral en la verdad y abierta a la trascendencia.
+
+Por eso, es urgente que resuene con renovada energía en Colombia, y hasta los confines de la tierra, el nombre de Jesucristo, enviado del Padre, y que se proclame la salvación realizada por Él mediante el sacrificio de la Cruz y el triunfo de la Resurrección. Es preciso que la Iglesia hoy, a las puertas del Tercer Milenio del cristianismo, dé un gran paso adelante en su evangelización, entrando en una nueva etapa histórica de su dinamismo misionero (cf. *[Christifideles laici](https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)*, 35). En este sentido, como escribí en la Encíclica *[Redemptoris Missio](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html)*: «La Iglesia debe afrontar otros desafíos, proyectándose hacia nuevas fronteras, tanto en la primera misión "ad gentes", como en la nueva evangelización de pueblos que han recibido ya el anuncio de Cristo. Hoy se pide a todos los cristianos, a las Iglesias particulares y a la Iglesia universal la misma valentía que movió a los misioneros del pasado y la misma disponibilidad para escuchar la voz del Espíritu » (*[Redemptoris Missio](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html)*, 30).
+
+### 4 {#jp2-spe-19960615-ad-limina-colombia.4}
+
+Un signo esperanzador de esta renovación eclesial en Colombia es la creciente apertura de vuestras comunidades a la cooperación misionera. En efecto, toda Iglesia particular debe abrirse generosamente a las necesidades de las demás, colaborando entre sí mediante una reciprocidad real que las prepare a dar y a recibir, como fuente de enriquecimiento para todos los sectores de la vida eclesial. Por ello, os animo a seguir infundiendo en el pueblo cristiano un verdadero espíritu universal, y a mostrar una solicitud peculiar por la tarea misional, sobre todo suscitando, fomentando y sosteniendo iniciativas misioneras en la propia comunidad eclesial (cf. *CIC*, can. 782, 2).
+
+De esta encomiable tarea vuestra dependerá en gran medida que los sacerdotes —conscientes de que «el don espiritual que recibieron en la ordenación los prepara no para una misión limitada y reducida, sino para una misión amplísima y universal de salvación hasta los extremos del mundo» (*[Presbyterorum ordinis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_sp.html)*, 10)— trabajen con auténtico celo pastoral, e incluso se ofrezcan voluntariamente para ser enviados a evangelizar fuera de su propia región. Asimismo, ayudará a los religiosos y religiosas, llama-dos a desempeñar una importante misión en el momento actual de la Iglesia, a escribir nuevas páginas de santidad y de abnegada entrega de acuerdo con el ideal de vida evangélica que han abrazado; y favorecerá la participación eficaz de los laicos en la obra evangelizadora, mediante una renovada pastoral atenta a la vitalidad misionera laical. De este modo haréis realidad en vuestra amada tierra colombiana la declaración de los Obispos en Puebla: «Finalmente, ha llegado para América Latina la hora... de proyectarse más allá de sus propias fronteras, "ad gentes". Es verdad que nosotros mismos necesitamos misioneros. Pero debemos dar desde nuestra pobreza» (*Puebla*, 368) .
+
+### 5 {#jp2-spe-19960615-ad-limina-colombia.5}
+
+Ante el avance de las sectas y la acción proselitista de grupos pseudorreligiosos, que instigan a la sociedad colombiana con falsas propuestas de salvación, sin que se pueda garantizar en todos los casos la claridad de sus fines y la legitimidad de sus métodos, se hace urgente un continuo esfuerzo por revitalizar la formación y la catequesis a todos los niveles. La labor catequética ha de estar centrada en la persona de Jesucristo, sirviéndose, como instrumento muy útil, del *[Catecismo de la Iglesia Católica](http://www.vatican.va/archive/catechism_sp/index_sp.html),* a fin de dar una respuesta integral, pronta y ágil, que fortalezca la fe católica en sus verdades fundamentales y en sus dimensiones individuales, familiares y sociales.
+
+A este respecto, me complace saber que vuestros esfuerzos están dando frutos abundantes, sobre todo en la catequesis de preparación a los sacramentos. Es preciso, pues, seguir trabajando además en la creación y mejora de estructuras parroquiales destinadas a la catequización de adultos. Igualmente debéis aprovechar responsablemente el espacio dedicado a la enseñanza religiosa en las escuelas y colegios de vuestra Nación. Esto exige, entre otros aspectos, capacitar adecuadamente a los profesores de religión, actualizar los programas de enseñanza, crear estructuras de ayuda y control, y ofrecer un buen material pedagógico adaptado a sus destinatarios. No hay que olvidar que el futuro de Colombia depende en gran medida de la formación que hoy están recibiendo las generaciones más jóvenes.
+
+### 6 {#jp2-spe-19960615-ad-limina-colombia.6}
+
+Otro tema importante de cara a la nueva evangelización en la que estáis generosamente comprometidos es la creación de pequeñas comunidades cristianas, donde los fieles puedan profesar con alegría y coherencia su fe, congregarse con asiduidad para la oración y alentarse mutuamente en el testimonio del Evangelio. Estas comunidades, que permanecen siempre unidas a la gran comunidad parroquial, se con-vierten en instrumentos eficaces de evangelización y de primer anuncio y, al evitar toda forma de cerrazón e instrumentalización ideológica desde una sincera comunión con los Pastores, dan una gran esperanza a la vida de la Iglesia (cf. *[Redemptoris Missio](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html)*, 51).
+
+La vivencia de la dimensión comunitaria de la Iglesia, fomentada desde estas pequeñas agrupaciones, favorece la formación de verdaderos hogares cristianos y la transmisión de la fe a las nuevas generaciones, creando un ambiente adecuado que permita a muchos jóvenes escuchar y seguir el llamado del Señor a la vida sacerdotal o religiosa, para beneficio no sólo de vuestro País sino de otras naciones del mundo. Así, pues, conviene alentar pastoralmente esta floreciente expresión de vida eclesial para que el Evangelio penetre, con mayor profundidad y eficacia, en los corazones de todos los hombres y mujeres, en las estructuras sociales y políticas, en los ambientes del saber y del trabajo, así como en los diversos grupos étnicos y entre los indígenas. De este modo, la Iglesia en Colombia podrá reflejar más nítidamente los cuatro «rostros» de los que habláis en vuestro *Plan Global de Pastoral*: la santidad, la ministerialidad, la solidaridad y la misionalidad.
+
+### 7 {#jp2-spe-19960615-ad-limina-colombia.7}
+
+La historia dos veces milenaria de la Iglesia muestra amplia-mente que el anuncio del Evangelio y la extensión del Reino de Dios van siempre acompañados de dificultades. Sin embargo, el Espíritu Santo conduce y sostiene a la Iglesia entera a través de todos los tiempos,  vivificando como el alma a las instituciones eclesiásticas y derramando en el corazón de los fieles el mismo espíritu de misión que impulsó a Cristo» (*[Ad gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_sp.html)*, 4) .
+
+Por ello, mis últimas palabras quieren ser de aliento y de profunda esperanza para todo el pueblo de Dios que peregrina en Colombia y, especialmente, para sus Pastores. Pedid con insistencia al Espíritu Paráclito la santidad auténtica, el celo ardiente, la generosidad constante, la prudencia previsora y la decisión intrépida que necesitáis en el momento presente para llevar a cabo una acción pastoral eficaz en vuestras jurisdicciones eclesiásticas, haciéndoos solidarios con las necesidades de todas las Iglesias. El Sucesor de Pedro está muy cerca de vosotros, con su pensamiento y su oración, para animaros a combatir el buen combate de la fe» (cf *1Tm* 6, 12).
+
+Al concluir este encuentro os pido que llevéis a vuestros fieles, en particular a los sacerdotes, las personas consagradas y los colaboradores en el apostolado, mi aliento paterno, mi saludo cordial y mi recuerdo afectuoso. A todos os pongo bajo la protección de Nuestra Señora de Chiquinquirá, a la vez que os imparto la Bendición Apostólica como prenda de la constante asistencia divina para el futuro.

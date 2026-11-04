@@ -1,0 +1,51 @@
+---
+id: pius12-deiparae-virginis-mariae.en
+work: pius12-deiparae-virginis-mariae
+title: "Deiparae Virginis Mariae (May 1, 1946)"
+creator: "Pius PP. XII"
+pope: Pius XII
+document-type: Encyclical
+url_date: 1946-05-01
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: no
+translation-of: pius12-deiparae-virginis-mariae.la
+printed_numbering: "the vatican.va page in this language prints only 4 paragraph-like number(s) (2, 3, 4, 5) — too few to be a paragraph numbering, and in this corpus such runs are often a footnote or a list; kept visible, NOT anchored: this file is cited whole"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_01051946_deiparae-virginis-mariae.html"
+fetch_date: 2026-09-14
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, it, la, pt"
+anchors: "{#pius12-deiparae-virginis-mariae} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, la"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-09-14
+---
+
+# Deiparae Virginis Mariae (May 1, 1946) {#pius12-deiparae-virginis-mariae}
+***DEIPARAE VIRGINIS MARIAE***\*
+
+ENCYCLICAL OF POPE PIUS XII\
+ON THE POSSIBILITY OF DEFINING THE ASSUMPTION\
+OF THE BLESSED VIRGIN MARY AS A DOGMA OF FAITH\
+TO THE PATRIARCHS, PRIMATES,\
+ARCHBISHOPS, AND OTHER ORDINARIES\
+AT PEACE AND IN COMMUNION WITH THE APOSTOLIC SEE.
+
+The Christian people have never ceased to invoke and experience the Blessed Virgin Mary's assistance, and therefore they have, at all times, venerated her with ever growing devotion.
+
+**2.** And so, because love when it is true and deeply felt tends of its own nature to manifest itself through ever renewed demonstrations, the faithful have vied with one another all through the centuries in expressing at all times their ardent piety toward the Queen of Heaven. In our opinion, this is the reason why, for a long time past, numerous petitions (those received from 1849 to 1940 have been gathered in two volumes which, accompanied with suitable comments, have been recently printed), from cardinals, patriarchs, archbishops, bishops, priests, religious of both sexes, associations, universities and innumerable private persons have reached the Holy See, all begging that the bodily Assumption into heaven of the Blessed Virgin should be defined and proclaimed as a dogma of faith. And certainly no one is unaware of the fact that this was fervently requested by almost two hundred fathers in the Vatican Council.
+
+**3.** But We, who are charged with the care of defending and developing the Kingdom of Christ, have at the same time to exercise continual care and vigilance to keep away everything adverse to this Kingdom, and to support whatsoever may promote it. Therefore, from the beginning of Our Pontificate, we had to examine most carefully whether it would be lawful, convenient and useful to support with Our authority the above mentioned petitions. We have not neglected and do not at present neglect to offer insistent prays to God that He might clearly manifest the will of His ever-adorable goodness in this instance.
+
+**4.** In order that We may receive the gift of heavenly light, do you, Venerable Brethren, in pious competition, unite your entreaties with Ours. But, while paternally exhorting you to do this, thus following the example of Our Predecessors, and particularly that of Pius IX when about to define the dogma of the Mother of God's Immaculate Conception, we earnestly beg you to inform us about the devotion of your clergy and people (taking into account their faith and piety) toward the Assumption of the most Blessed Virgin Mary. More especially We wish to know if you, Venerable Brethren, with your learning and prudence consider that the bodily Assumption of the Immaculate Blessed Virgin can be proposed and defined as a dogma of faith, and whether in addition to your own wishes this is desired by your clergy and people.
+
+**5.** We shall be most grateful for your prompt response and we entreat an abundance of divine favors and the favorable assistance of the heavenly Virgin upon you, venerable brothers, and upon yours, while we most lovingly impart our apostolic blessing in the Lord as a token of our fatherly affection to you and to the flocks committed to your care.
+
+*Given at Rome at St. Peter's on the first day of May in the year 1946, the eighth of our pontificate.*
+
+## PIUS XII
+
+\* In view of worldwide request, Pope Pius XII sent this letter *in forma del tutto reservata*, under date of May 1, 1946, to all the bishops of the world asking what their clergy and people thought about the Assumption and whether they themselves judged it "wise and prudent" that the dogma should be defined. The document was originally printed in *Il Monitore Ecclesiastico* (fasc. 7-12, 1946; pp. 97-98) as a letter but was published in the *Acta Apostolicae Sedis* in 1950 as an encyclical.

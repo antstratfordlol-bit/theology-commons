@@ -1,0 +1,78 @@
+---
+id: francis-mes-20220509-world-migrants-day-2022.en
+work: francis-mes-20220509-world-migrants-day-2022
+title: "Message for the 108th World Day of Migrants and Refugees 2022"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Message
+url_date: 2022-05-09
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/messages/migration/documents/20220509-world-migrants-day-2022.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt, zh_cn, zh_tw"
+anchors: "{#francis-mes-20220509-world-migrants-day-2022} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Message for the 108th World Day of Migrants and Refugees 2022 {#francis-mes-20220509-world-migrants-day-2022}
+## MESSAGE OF HIS HOLINESS POPE FRANCIS FOR THE 108th WORLD DAY OF MIGRANTS AND REFUGEES 2022
+
+(25 September 2022)
+
+## Building the Future with Migrants and Refugees
+
+“Here we have no lasting city, but we seek the city that is to come.” (*Heb* 13:14)
+
+Dear brothers and sisters!
+
+The ultimate meaning of our “journey” in this world is the search for our true homeland, the Kingdom of God inaugurated by Jesus Christ, which will find its full realization when he comes in glory. His Kingdom has not yet been brought to fulfilment, though it is already present in those who have accepted the salvation he offers us. “God’s Kingdom is in us. Even though it is still eschatological, in the future of the world and of humanity, at the same time it is found in us.” [\[1\]](#_ftn1){#_ftnref1 .cleaner}
+
+The city yet to come is a “city that has foundations, whose architect and builder is God” (*Heb* 11:10). His plan calls for an intense work of construction, in which all of us must be personally involved. It involves a meticulous effort aimed at personal conversion and the transformation of reality, so that it can correspond ever more fully to the divine plan. The tragedies of history remind us how far we are from arriving at our goal, the new Jerusalem, “the dwelling place of God with men” (*Rev* 21:3). Yet this does not mean that we should lose heart. In the light of what we have learned in the tribulations of recent times, we are called to renew our commitment to building a future that conforms ever more fully to God’s plan of a world in which everyone can live in peace and dignity.
+
+“We wait for new heavens and a new earth, where righteousness is at home” (*2 Pet* 3:13). Righteousness is one of the building blocks of God’s Kingdom. In our daily efforts to do the Lord’s will, justice needs to be built up with patience, sacrifice, and determination, so that all those who hunger and thirst for it may be satisfied (cf. *Mt* 5:6). The righteousness of the Kingdom must be understood as the fulfilment of God’s harmonious plan, whereby in Christ, who died and rose from the dead, all creation returns to its original goodness, and humanity becomes once more “very good” (cf. *Gen* 1:1-31). But for this wondrous harmony to reign, we must accept Christ’s salvation, his Gospel of love, so that the many forms of inequality and discrimination in the present world may be eliminated.
+
+No one must be excluded. God’s plan is essentially inclusive and gives priority to those living on the existential peripheries. Among them are many migrants and refugees, displaced persons, and victims of trafficking. The Kingdom of God is to be built *with them*, for without them it would not be the Kingdom that God wants. The inclusion of those most vulnerable is the necessary condition for full citizenship in God’s Kingdom. Indeed, the Lord says, “Come, you who are blessed by my Father. Inherit the Kingdom prepared for you from the foundation of the world. For I was hungry and you gave me food, I was thirsty and you gave me a drink, a stranger and you welcomed me, naked and you clothed me, sick and you took care of me, in prison and you visited me” (*Mt* 25:34-36).
+
+*Building the future with migrants and refugees* also means recognizing and valuing how much each of them can contribute to the process of construction. I like to see this approach to migration reflected in a prophetic vision of Isaiah, which considers foreigners not invaders or destroyers, but willing labourers who rebuild the walls of the new Jerusalem, that Jerusalem whose gates are open to all peoples (cf. *Is* 60:10-11).
+
+In Isaiah’s prophecy, the arrival of foreigners is presented as a source of enrichment: “The abundance of the sea shall be brought to you, and the wealth of the nations shall come to you” (*Is* 60:5). Indeed, history teaches us that the contribution of migrants and refugees has been fundamental to the social and economic growth of our societies. This continues to be true in our own day. Their work, their youth, their enthusiasm and their willingness to sacrifice enrich the communities that receive them. Yet this contribution could be all the greater were it optimized and supported by carefully developed programs and initiatives. Enormous potential exists, ready to be harnessed, if only it is given a chance.
+
+In Isaiah’s prophecy, the inhabitants of the new Jerusalem always keep the gates of the city wide open, so that foreigners may come in, bringing their gifts: “Your gates shall always be open; day and night they shall not be shut, so that nations shall bring you their wealth” (*Is* 60:11). The presence of migrants and refugees represents a great challenge, but at the same time an immense opportunity for the cultural and spiritual growth of everyone. Thanks to them, we have the chance to know better our world and its beautiful diversity. We can grow in our common humanity and build together an ever greater sense of togetherness. Openness to one another creates spaces of fruitful exchange between different visions and traditions, and opens minds to new horizons. It also leads to a discovery of the richness present in other religions and forms of spirituality unfamiliar to us, and this helps us to deepen our own convictions.
+
+In the new Jerusalem of all peoples, the temple of the Lord is made more beautiful by the offerings that come from foreign lands: “All the flocks of Kedar shall be gathered to you, the rams of Nebaioth shall minister to you, they shall be acceptable on my altar, and I will glorify my glorious house” (*Is* 60:7). As we have seen, the arrival of Catholic migrants and refugees can energize the ecclesial life of the communities that welcome them. Often they bring an enthusiasm that can revitalize our communities and enliven our celebrations. Sharing different expressions of faith and devotions offers us a privileged opportunity for experiencing more fully the catholicity of the People of God.
+
+Dear brothers and sisters, and, in a special way, young people! If we want to cooperate with our heavenly Father in building the future, let us do so together with our brothers and sisters who are migrants and refugees. Let us build the future today! For the future begins today and it begins with each of us. We cannot leave to future generations the burden of responsibility for decisions that need to be made now, so that God’s plan for the world may be realized and his Kingdom of justice, fraternity, and peace may come.
+
+## Prayer
+
+Lord, make us bearers of hope,\
+so that where there is darkness,\
+your light may shine,\
+and where there is discouragement,\
+confidence in the future may be reborn.
+
+Lord, make us instruments of your justice,\
+so that where there is exclusion, fraternity may flourish,\
+and where there is greed, a spirit of sharing may grow.
+
+Lord, make us builders of your Kingdom,\
+together with migrants and refugees\
+and with all who dwell on the peripheries.
+
+Lord, let us learn how beautiful it is\
+to live together as brothers and sisters. Amen.
+
+*Rome, Saint John Lateran, 9 May 2022*
+
+FRANCIS
+
+[\[1\]](#_ftnref1){#_ftn1 .cleaner} Saint John Paul II, *Address during the Visit to the Roman Parish of Saints Francis of Assisi and Catherine of Siena, Patrons of Italy*, 26 November 1989.

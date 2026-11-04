@@ -1,0 +1,49 @@
+---
+id: b16-ang-20090301.en
+work: b16-ang-20090301
+title: "Angelus, 1st March 2009"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2009-03-01
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2009/documents/hf_ben-xvi_ang_20090301.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20090301} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 1st March 2009 {#b16-ang-20090301}
+## BENEDICT XVI
+
+## ANGELUS
+
+*Saint Peter's Square\
+First Sunday of Lent, 1 March 2009*
+
+*\
+Dear Brothers and Sisters,*
+
+Today is the First Sunday of [Lent](http://www.vatican.va/liturgical_year/lent/2009/index_lent2009_en.html) and the Gospel, in the sober and concise style of St Mark, introduces us into the atmosphere of this liturgical season: "The Spirit drove Jesus out into the desert, and he remained in the desert for forty days, tempted by Satan" (Mk 1: 12). In the Holy Land the Judean desert, which lies to the west of the River Jordan and the Oasis of Jericho, rises over stony valleys to reach an altitude of about 1,000 metres at Jerusalem. After receiving Baptism from John, Jesus entered that lonely place, led by the Holy Spirit himself who had settled upon him, consecrating him and revealing him as the Son of God. In the desert, a place of trial as the experience of the People of Israel shows, the dramatic reality of the *kenosis,* the self-emptying of Christ who had stripped himself of the form of God (cf. Phil 2: 6-7), appears most vividly. He who never sinned and cannot sin submits to being tested and can therefore sympathize with our weaknesses (cf. Heb 4: 15). He lets himself be tempted by Satan, the enemy, who has been opposed to God's saving plan for humankind from the outset.
+
+In the succinct account, angels, luminous and mysterious figures, appear almost fleetingly before this dark, tenebrous figure who dares to tempt the Lord. Angels, the Gospel says, "ministered" to Jesus (Mk 1: 13); they are the antithesis of Satan. "Angel" means "messenger". Throughout the Old Testament we find these figures who help and guide human beings on God's behalf. It suffices to remember the Book of Tobit, in which the figure of the Angel Raphael appears and assists the protagonist in every vicissitude. The reassuring presence of the angel of the Lord accompanies the People of Israel in all of their experiences, good and bad. On the threshold of the New Testament, Gabriel is dispatched to announce to Zechariah and to Mary the joyful events at the beginning of our salvation; and an angel we are not told his name warns Joseph, guiding him in that moment of uncertainty. A choir of angels brings the shepherds the good news of the Saviour's birth; and it was also to be angels who announced the joyful news of his Resurrection to the women. At the end of time, angels will accompany Jesus when he comes in his glory (cf. Mt 25: 31). Angels minister to Jesus, who is certainly superior to them. This dignity of his is clearly, if discreetly, proclaimed here in the Gospel. Indeed, even in the situation of extreme poverty and humility, when he is tempted by Satan he remains the Son of God, the Messiah, the Lord.
+
+Dear brothers and sisters, we would be removing an important part of the Gospel were we to leave out these beings sent by God, who announce and are a sign of his presence among us. Let us invoke them frequently, so that they may sustain us in our commitment to follow Jesus to the point of identifying with him. Let us ask them, especially today, to watch over me and my collaborators in the Roman Curia; this afternoon we shall be beginning a week of Spiritual Exercises, as we do every year. Mary, Queen of Angels, pray for us!
+
+## After the Angelus:
+
+I am happy to greet all the English-speaking visitors present at today's *Angelus* prayer. On this First Sunday of Lent, the Gospel of St Mark speaks of Jesus being led into the desert by the Holy Spirit, tempted by Satan and assisted by the angels. Let us pray that our Lenten journey will strengthen us in the struggle against all forms of temptation. Upon all of you I invoke God's abundant Blessings, and I wish you a pleasant Sunday and a happy stay in Rome!
+
+*After the Angelus the Holy Father made a special appeal for the workers of the Fiat factory in Pomigliano d'Arco:*
+
+Priority should be given to workers and their families.

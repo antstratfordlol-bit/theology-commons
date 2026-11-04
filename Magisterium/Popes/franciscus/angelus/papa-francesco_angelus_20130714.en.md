@@ -1,0 +1,58 @@
+---
+id: francis-ang-20130714.en
+work: francis-ang-20130714
+title: "Angelus, 14 July 2013"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Angelus / Regina Caeli
+url_date: 2013-07-14
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/angelus/2013/documents/papa-francesco_angelus_20130714.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pt"
+anchors: "{#francis-ang-20130714} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 14 July 2013 {#francis-ang-20130714}
+POPE FRANCIS
+
+***ANGELUS*****
+
+*Castel Gandolfo*\
+*Sunday, 14 July 2013*
+
+\[**[Multimedia](https://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2013/7/14/papa-francesco_angelus_20130714.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Dear Brothers and Sisters, Good morning,*
+
+Today our Sunday meeting for the Angelus is taking place here in Castel Gandolfo. I greet the inhabitants of this beautiful little town! Above all, I would like to thank you for your prayers, and I do this with all of you who have come here in large numbers as pilgrims.
+
+Today’s Gospel — we are at Chapter 10 of Luke — is the famous Parable of the Good Samaritan. Who was this man? He was an ordinary person coming down from Jerusalem on his way to Jericho on the road that crosses the Judean Desert. A short time before, on that road a man had been attacked by brigands, robbed, beaten and left half dead by the wayside. Before the Samaritan arrived, a priest as well as a Levite had passed by, that is, two people associated with worship in the Lord’s Temple. They saw the poor man, but passed him by without stopping. Instead, when the Samaritan saw that man, “he had compassion” (Lk 10:33), the Gospel says. He went to him and bound up his wounds, pouring oil and wine on them; then he set him on his own mount, took him to an inn and paid for his board and lodging... in short, he took care of him: this is the example of love of neighbour. However, why does Jesus choose a Samaritan to play the lead in the parable? Because Samaritans were despised by Jews on account of their different religious traditions; and yet Jesus shows that the heart of that Samaritan was good and generous and that — unlike the priest and the Levite — he puts into practice the will of God who wants mercy rather than sacrifices (cf. Mk 12:33). God always wants mercy and does not condemn it in anyone. He wants heartfelt mercy because he is merciful and can understand well our misery, our difficulties and also our sins. He gives all of us this merciful heart of his! The Samaritan does precisely this: he really imitates the mercy of God, mercy for those in need.
+
+A man who lived to the full this Gospel of the Good Samaritan is the Saint we are commemorating today: St Camillus de Lellis, Founder of the Clerks Regular Ministers to the Sick, Patron of ill people and health-care workers. St Camillus died on 14 July 1614: this very day his fourth centenary is being inaugurated and will end in a year. I greet with deep affection all the spiritual sons and daughters of St Camillus who live by his charism of charity in daily contact with the sick. Be “Good Samaritans” as he was! And I hope that doctors, nurses and all those who work in hospitals and clinics may also be inspired by the same spirit. Let us entrust this intention to the intercession of Mary Most Holy.
+
+Moreover I would like to entrust another intention to Our Lady, together with you all. The [World Youth Day in Rio de Janeiro](http://www.vatican.va/gmg/documents/gmg_2013_en.html) is now at hand. One can see that there are many young people here, but you are all young at heart! I shall leave in a week, but many young people will set out for Brazil even sooner. Let us therefore pray for this great pilgrimage which is beginning, that Our Lady of Aparecida, Patroness of Brazil, may guide the footsteps of the participants and open their hearts to accepting the mission that Christ will give them.
+
+## After the Angelus
+
+Dear Brothers and Sisters, I join in prayer the Prelates and faithful of the Church in Ukraine, gathered in the Cathedral of Lutsk for a Holy Mass of suffrage on the 70th anniversary of the Volhynia massacres. These acts, incited by the nationalist ideology in the tragic context of the Second World War, took a toll of tens of thousands of victims and wounded the brotherhood of two peoples, the Polish and the Ukrainian. I entrust the victims’ souls to God’s mercy and for their peoples I ask the grace of profound reconciliation and a serene future in hope and in sincere collaboration for the common edification of the Kingdom of God.
+
+I am also thinking of the Pastors and faithful who are taking part in the pilgrimage of the Family of Radio Maria to Jasna Góra, Cz?stochowa. I entrust you to the protection of the Mother of God and impart to you a heartfelt blessing.
+
+I greet with affection the faithful of the Diocese of Albano! I invoke upon them the protection of St Bonaventure, their Patron, whose feast the Church will be celebrating tomorrow. May it be a beautiful feast with my good wishes! I should like to send you a cake, but I do not know whether such a big one can be made. I greet all the pilgrims who are present here: the parish groups, the families, the young people, especially those who have come from Ireland; and the deaf young people who are taking part in an international meeting in Rome.
+
+I greet the Sisters of St Elizabeth, to whom I wish a fruitful spiritual renewal; the Apostles of the Sacred Heart of Jesus, with families from various nations; the Daughters of Divine Charity, celebrating their General chapter; and the Superiors of the Daughters of Our Lady, Help of Christians.
+
+I wish you all a good Sunday and a good lunch!

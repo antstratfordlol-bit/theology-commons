@@ -1,0 +1,55 @@
+---
+id: jp2-ang-20031221.en
+work: jp2-ang-20031221
+title: "Angélus, 21 December 2003 - Fourth Sunday of Advent 2003"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Angelus / Regina Caeli
+url_date: 2003-12-21
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/angelus/2003/documents/hf_jp-ii_ang_20031221.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-ang-20031221.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-ang-20031221.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angélus, 21 December 2003 - Fourth Sunday of Advent 2003
+JOHN PAUL II
+
+## ANGELUS
+
+*Fourth Sunday of Advent, 21 December 2003*
+
+*Dear Brothers and Sisters,*
+
+### 1 {#jp2-ang-20031221.1}
+
+Christmas is almost here. As the final touches are being given to the Nativity scene and the Christmas tree - in St Peter's Square as well - it is necessary to prepare the soul to live intensely this great mystery of faith.
+
+During the final days of Advent, the Liturgy puts particular emphasis on the figure of Mary. The beginning of the Incarnation of the Redeemer took place *in her heart,* from her *"Here I am"* full of faith, in reply to the divine call. If we wish to understand the genuine meaning of Christmas, *we must look at her,* call upon her.
+
+### 2 {#jp2-ang-20031221.2}
+
+Mary, Mother *par excellence,* helps us to understand the key words of the mystery of the birth of her divine Son:  *humility, silence, wonder, joy*.
+
+*She exhorts us, first of all, to humility,* so that God can find space in our heart, not darkened by pride and arrogance. She points out to us the value of *silence,* which knows how to listen to the song of the Angels and the crying of the Child, not stifling them by noise and confusion. Together with her, we stop before the Nativity scene with intimate *wonder,* savouring the simple and pure *joy* that this Child gives to humanity.
+
+### 3 {#jp2-ang-20031221.3}
+
+In the Holy Night the rising Star, "splendour of eternal light, sun of justice" (cf. *Antiphon of the Magnificat,* 21 December), comes to enlighten whoever dwells in darkness and in the shadow of death. Guided by today's Liturgy, we make the sentiments of the Virgin our own, remaining in anxious expectation for the Birth of Christ.
+
+*After leading the recitation of the Angelus, the Holy Father said:*
+
+I greet the Italian-speaking pilgrims, especially the "For an added hope" Association of Verona whose name is in tune with the spirit of Christmas nearly here: indeed, Jesus comes to give hope to every man and woman and to the entire human family.
+
+I wish everyone a pleasant Sunday.

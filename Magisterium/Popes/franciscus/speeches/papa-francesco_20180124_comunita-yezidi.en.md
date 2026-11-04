@@ -1,0 +1,46 @@
+---
+id: francis-spe-20180124-comunita-yezidi.en
+work: francis-spe-20180124-comunita-yezidi
+title: "To representatives of the Yazidi community (24 January 2018)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2018-01-24
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2018/january/documents/papa-francesco_20180124_comunita-yezidi.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20180124-comunita-yezidi} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To representatives of the Yazidi community (24 January 2018) {#francis-spe-20180124-comunita-yezidi}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO REPRESENTATIVES OF THE YAZIDI COMMUNITY LIVING IN GERMANY
+
+*Room adjacent to Paul VI Audience Hall\
+Wednesday, 24 January 2018*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2018/1/24/comunita-yezidi.html)\]
+
+*Dear Brothers,*
+
+I greet you fraternally and I thank you for this encounter, through which I embrace in spirit all the members of the Yazidi community, in particular those who live in Iraq and Syria. My prayer and supportive thoughts go to the innocent victims of senseless and inhuman barbarity. It is unacceptable that human beings should be persecuted and killed due to their religious membership! Every person has the right to profess his or her own religious creed freely and without constraint.
+
+Your history, rich in spirituality and culture, has sadly been marked by unspeakable violations of fundamental rights of the human person: kidnapping, slavery, torture, forced conversion, killing. Your sanctuaries and places of worship have been destroyed. The most fortunate among you were able to escape, but leaving behind all that you had, even your dearest and most sacred possessions.
+
+In so many parts of the world there are still religious and ethnic minorities, including Christians who are persecuted on account of faith. The Holy See does not tire of intervening to denounce these situations, requesting recognition, protection and respect. At the same time, it calls for dialogue and reconciliation so as to heal every wound.
+
+In the face of the tragedy that is being committed to the detriment of your community, it appears, as the Gospel says, that the darkest forces can be unleashed from the heart of man, capable of planning the annihilation of brothers and sisters, of considering them an enemy, an adversary, or even an individual without human dignity itself. Once more I raise my voice in favour of the rights of Yazidis, above all the right to exist as a religious community: no one can claim the right to erase a religious group for not being among the so-called “tolerated”.
+
+I am also thinking of the members of your community who are still in the hands of terrorists: I earnestly hope that everything possible may be done to save them, as well as to find those who have disappeared and to identify and ensure an appropriate burial for those who have been killed. The international community cannot remain a silent and inactive spectator in the face of your crisis. Therefore I encourage the institutions and people of good will who belong to other communities to contribute to the rebuilding of your houses and your places of worship. May no concrete effort be spared to create the necessary conditions for refugees to return to their homes and to preserve the identity of the Yazidi community.
+
+May God help us to build together a world where it is possible to live in peace and fraternity.

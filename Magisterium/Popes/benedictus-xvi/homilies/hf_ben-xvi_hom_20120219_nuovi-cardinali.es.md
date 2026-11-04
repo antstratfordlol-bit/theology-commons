@@ -1,0 +1,60 @@
+---
+id: b16-hom-20120219-nuovi-cardinali.es
+work: b16-hom-20120219-nuovi-cardinali
+title: "19 de febrero de 2012: Santa Misa con los nuevos cardenales"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Homily
+url_date: 2012-02-19
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/homilies/2012/documents/hf_ben-xvi_hom_20120219_nuovi-cardinali.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#b16-hom-20120219-nuovi-cardinali} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 19 de febrero de 2012: Santa Misa con los nuevos cardenales {#b16-hom-20120219-nuovi-cardinali}
+[CONSISTORIO ORDINARIO PÚBLICO\
+PARA LA CREACIÓN DE NUEVOS CARDENALES\
+Y PARA EL VOTO SOBRE ALGUNAS CAUSAS DE CANONIZACIÓN](http://www.vatican.va/news_services/liturgy/2012/documents/ns_lit_doc_20120218_index-concistoro_sp.html)
+
+## SANTA MISA EN LA SOLEMNIDAD DE LA CÁTEDRA DEL APÓSTOL SAN PEDRO
+
+## HOMILÍA DEL SANTO PADRE BENEDICTO XVI
+
+*Basílica Vaticana\
+Domingo 19 de febrero de 2012*
+
+*Señores Cardenales,\
+Venerados hermanos en el Episcopado y en el Sacerdocio\
+Queridos hermanos y hermanas:*
+
+En la solemnidad de la Cátedra del apóstol san Pedro, tenemos la alegría de reunirnos alrededor del Altar del Señor junto con los nuevos Cardenales, que ayer he agregado al colegio cardenalicio. Les saludo ante todo a ellos muy cordialmente, y agradezco al Cardenal Fernando Filoni las amables palabras me ha dirigido en su nombre. Extiendo mi saludo a los demás purpurados y a todos los obispos presentes, así como a las distinguidas autoridades, a los señores embajadores, a los sacerdotes, a los religiosos y a todos los fieles, venidos de varias partes del mundo para esta feliz circunstancia que reviste una carácter especial de universalidad.
+
+En la segunda lectura que se acaba de proclamar, el apóstol Pedro exhorta a los «presbíteros» de la Iglesia a ser pastores diligentes y solícitos del rebaño de Cristo (cf. *1 Pe* 5,1-2). Estas palabras están dirigidas sobre todo a vosotros, queridos y venerados hermanos, que ya tenéis muchos meritos ante el Pueblo de Dios por vuestra generosa y sapiente labor desarrollada en el ministerio pastoral en diócesis exigentes, en la dirección de los Dicasterios de la Curia Romana o en el servicio eclesial del estudio y de la enseñanza. La nueva dignidad que se os ha conferido quiere manifestar el aprecio por vuestro trabajo fiel en la viña del Señor, honrar a las comunidades y naciones de las cuales procedéis y de las que sois dignos representantes de la Iglesia, confiaros nuevas y más importantes responsabilidades eclesiales y, finalmente, pediros mayor disponibilidad para Cristo y para toda la comunidad cristiana. Esta disponibilidad al servicio del Evangelio está solidamente fundada en la certeza de la fe. En efecto, sabemos que Dios es fiel a sus promesas y permanecemos en la esperanza de que se cumplan las palabras del apóstol Pedro: «Y cuando aparezca el Supremo Pastor, recibiréis la corona de gloria que no se marchita» (*1 Pe* 5,4).
+
+El pasaje del Evangelio de hoy presenta a Pedro que, movido por una inspiración divina, expresa la propia fe fundada en Jesús, el Hijo de Dios y el Mesías prometido. En respuesta a esta límpida profesión de fe, que Pedro confiesa también en nombre de los otros apóstoles, Cristo les revela la misión que pretende confiarles, la de ser la «piedra», la «roca», el fundamento visible sobre el que está construido todo el edificio espiritual de la Iglesia (cf. *Mt* 16,16-19). Esta expresión de «roca-piedra» no se refiere al carácter de la persona, sino que sólo puede comprenderse partiendo de un aspecto más profundo, del misterio: mediante el cargo que Jesús les confía, Simón Pedro se convierte en algo que no es por «la carne y la sangre». El exegeta Joaquín Jeremías ha hecho ver cómo en el trasfondo late el lenguaje simbólico de la «roca santa». A este respecto, puede ayudarnos un texto rabínico que reza así: «El Señor dijo: “¿Cómo puedo crear el mundo cuando surgirán estos sin-Dios y se volverán contra mi?”. Pero cuando Dios vio que debía nacer Abraham, dijo: “Mira, he encontrado una roca, sobre la cual puedo construir y fundar el mundo”. Por eso él llamó Abrahán una roca». El profeta Isaías se refiere a eso cuando recuerda al pueblo: «Mirad la roca de donde os tallaron,… mirad a Abrahán vuestro padre» (51,1-2). Se ve a Abrahán, el padre de los creyentes, que por su fe es la roca que sostiene la creación. Simón, que es el primero en confesar a Jesús como el Cristo, y es el primer testigo de la resurrección, se convierte ahora, con su fe renovada, en la roca que se opone a la fuerza destructiva del mal.
+
+Queridos hermanos y hermanas. Este pasaje evangélico que hemos escuchado encuentra una más reciente y elocuente explicación en un elemento artístico muy notorio que embellece esta Basílica Vaticana: el altar de la Cátedra. Cuando se recorre la grandiosa nave central, una vez pasado el crucero, se llega al ábside y nos encontramos ante un grandioso trono de bronce que parece suelto, pero que en realidad está sostenido por cuatro estatuas de grandes Padres de la Iglesia de Oriente y Occidente. Y, sobre el trono, circundado por una corona de ángeles suspendidos en el aire, resplandece en la ventana ovalada la gloria del Espíritu Santo. ¿Qué nos dice este complejo escultórico, fruto del genio de Bernini? Representa una visión de la esencia de la Iglesia y, dentro de ella, del magisterio petrino.
+
+La ventana del ábside abre la Iglesia hacia el externo, hacia la creación entera, mientras la imagen de la paloma del Espíritu Santo muestra a Dios como la fuente de la luz. Pero se puede subrayar otro aspecto: en efecto, la Iglesia misma es como una ventana, el lugar en el que Dios se acerca, se encuentra con el mundo. La Iglesia no existe por sí misma, no es el punto de llegada, sino que debe remitir más allá, hacia lo alto, por encima de nosotros. La Iglesia es verdaderamente ella misma en la medida en que deja trasparentar al Otro –con la «O» mayúscula– del cual proviene y al cual conduce. La Iglesia es el lugar donde Dios «llega» a nosotros, y desde donde nosotros «partimos» hacia él; ella tiene la misión de abrir más allá de sí mismo ese mundo que tiende a creerse un todo cerrado y llevarle la luz que viene de lo alto, sin la cual sería inhabitable.
+
+La gran cátedra de bronce contiene un sitial de madera del siglo IX, que por mucho tiempo se consideró la cátedra del apóstol Pedro, y que fue colocada precisamente en ese altar monumental por su alto valor simbólico. Ésta, en efecto, expresa la presencia permanente del Apóstol en el magisterio de sus sucesores. El sillón de san Pedro, podemos decir, es el trono de la verdad, que tiene su origen en el mandato de Cristo después de la confesión en Cesarea de Filipo. La silla magisterial nos trae a la memoria de nuevo las palabras del Señor dirigidas a Pedro en el Cenáculo: «Yo he pedido por ti, para que tu fe no se apague. Y tú, cuando te recobres, da firmeza a tus hermanos» (*Lc* 22,32).
+
+La Cátedra de Pedro evoca otro recuerdo: la celebra expresión de san Ignacio de Antioquia, que en su carta a los Romanos llama a la Iglesia de Roma «aquella que preside en la caridad» (*Inscr.*: *PG* 5, 801). En efecto, el presidir en la fe está inseparablemente unido al presidir en el amor. Una fe sin amor nunca será una fe cristiana autentica. Pero las palabras de san Ignacio tienen también otra connotación mucho más concreta. El término «caridad», en efecto, se utilizaba en la Iglesia de los orígenes para indicar también la Eucaristía. La Eucaristía es precisamente *Sacramentum caritatis Christi*, mediante el cual él continua a atraer a todos hacia sí, como lo hizo desde lo alto de la cruz (cf. *Jn* 12,32). Por tanto, «presidir en la caridad» significa atraer a los hombres en un abrazo eucarístico, el abrazo de Cristo, que supera toda barrera y toda exclusión, creando comunión entre las múltiples diferencias. El ministerio petrino, pues, es primado de amor en sentido eucarístico, es decir, solicitud por la comunión universal de la Iglesia en Cristo. Y la Eucaristía es forma y medida de esta comunión, y garantía de que ella se mantenga fiel al criterio de la tradición de la fe.
+
+La gran Cátedra está apoyada sobre los Padres de la Iglesia. Los dos maestros de oriente, san Juan Crisóstomo y san Atanasio, junto con los latinos, san Ambrosio y san Agustín, representando la totalidad de la tradición y, por tanto, la riqueza de las expresiones de la verdadera fe en la santa y única Iglesia. Este elemento del altar nos dice que el amor se asienta sobre la fe. Y se resquebraja si el hombre ya no confía en Dios ni le obedece. Todo en la Iglesia se apoya sobre la fe: los sacramentos, la liturgia, la evangelización, la caridad. También el derecho, también la autoridad en la Iglesia se apoya sobre la fe. La Iglesia no se da a sí misma las reglas, el propio orden, sino que lo recibe de la Palabra de Dios, que escucha en la fe y trata de comprender y vivir. Los Padres de la Iglesia tienen en la comunidad eclesial la función de garantes de la fidelidad a la Sagrada Escritura. Ellos aseguran una exegesis fidedigna, sólida, capaz de formar con la Cátedra de Pedro un complejo estable y unitario. Las Sagradas Escrituras, interpretadas autorizadamente por el Magisterio a la luz de los Padres, iluminan el camino de la Iglesia en el tiempo, asegurándole un fundamento estable en medio a los cambios históricos.
+
+Tras haber considerado los diversos elementos del altar de la Cátedra, dirijamos una mirada al conjunto. Y veamos cómo está atravesado por un doble movimiento: de ascensión y de descenso. Es la reciprocidad entre la fe y el amor. La Cátedra está puesta con gran realce en este lugar, porque aquí está la tumba del apóstol Pedro, pero también tiende hacia el amor de Dios. En efecto, la fe se orienta al amor. Una fe egoísta no es una fe verdadera. Quien cree en Jesucristo y entra en el dinamismo del amor que tiene su fuente en la Eucaristía, descubre la verdadera alegría y, a su vez, es capaz de vivir según la lógica de este don. La verdadera fe es iluminada por el amor y conduce al amor, hacia lo alto, del mismo modo que el altar de la Cátedra apunta hacia la ventana luminosa, la gloria del Espíritu Santo, que constituye el verdadero punto focal para la mirada del peregrino que atraviesa el umbral de la Basílica Vaticana. En esa ventana, la corona de los ángeles y los grandes rayos dorados dan una espléndido realce, con un sentido de plenitud desbordante, que expresa la riqueza de la comunión con Dios. Dios no es soledad, sino amor glorioso y gozoso, difusivo y luminoso.
+
+Queridos hermanos y hermanas, a cada cristiano y a nosotros, se nos confía el don de este amor: un don que ha de ofrecer con el testimonio de nuestra vida. Esto es, en particular, vuestra tarea, venerados Hermanos Cardenales: dar testimonio de la alegría del amor de Cristo. Confiemos ahora vuestro nuevo servicio eclesial a la Virgen María, presente en la comunidad apostólica reunida en oración en espera del Espíritu Santo (cf. *Hch* 1,14). Que Ella, Madre del Verbo encarnado, proteja el camino de la Iglesia, sostenga con su intercesión la obra de los Pastores y acoja bajo su manto a todo el colegio cardenalicio. Amén.

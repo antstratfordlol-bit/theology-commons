@@ -1,0 +1,53 @@
+---
+id: jp2-spe-19980528-uganda.en
+work: jp2-spe-19980528-uganda
+title: "To the Ambassador of the Republic of Uganda accredited to the Holy See (May 28, 1998)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1998-05-28
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/may/documents/hf_jp-ii_spe_19980528_uganda.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, fr, pt"
+anchors: "{#jp2-spe-19980528-uganda} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Ambassador of the Republic of Uganda accredited to the Holy See (May 28, 1998) {#jp2-spe-19980528-uganda}
+## ADDRESS OF THE HOLY FATHER POPE JOHN PAUL II TO H.E. MR TIBAMANYA MWENE MUSHANGA NEW AMBASSADOR OF THE REPUBLIC OF UGANDA TO THE HOLY SEE
+
+*28 May 1998*
+
+*Mr Ambassador,*
+
+I am pleased to welcome you to the Vatican and to accept the Letters of Credence by which you are appointed Ambassador Extraordinary and Plenipotentiary of the Republic of Uganda to the Holy See. Deeply grateful for the good wishes which you have expressed on behalf of your President, His Excellency Yoweri Museveni, I ask you kindly to convey to him my own cordial greetings. With vivid memories of my Pastoral Visit to your country in 1993 and of the generous hospitality that was shown me, I take this opportunity to renew to the beloved people of Uganda the assurance of my prayers that they will continue to work wisely for the development of their own land and for peace and justice throughout Africa.
+
+With satisfaction we can note many signs of progress and stability on your continent as a whole; there has indeed been considerable success in leaving behind much of the unrest, tension and bloodshed of former times. Yet we cannot overlook the fact that certain parts of Africa continue to languish under the cruel and destructive shadow of conflict and aggression, making it evident that not all threats to peace have yet been overcome. Not even your own country has been spared the new outbreaks of violence which, flaring up again and again, continue to afflict individual populations and States. Thus we see that the desire to keep alive former enmities, the temptation to nurture past grievances, remains strong. It is for this reason that peoples, governments and international organizations must join forces and work together to replace discord with dialogue and reconciliation. A great contribution to this task would be the development of practical mechanisms for promoting an honest exchange between the different parties to a dispute, by bringing opposing factions together and working with determination to help people divided by resentment and ill-will to rediscover the advantages of peaceful and harmonious coexistence.
+
+Perhaps the greatest challenge here is to be found at the level of education: for a society which seeks to be truly civilized and which desires to contribute to the advance ment of peoples must cultivate in all its members an objective and open understanding of others. Such an understanding is invaluable in helping people to accept social, cultural and religious traditions which are different from their own. Moreover, this is actually the first step towards reconciliation, since “respect for differences is an inherently necessary condition for genuine relationships between individuals and between groups” (*[Message for the 1997 World Day of Peace](https://www.vatican.va/content/john-paul-ii/en/messages/peace/documents/hf_jp-ii_mes_08121996_xxx-world-day-for-peace.html)*, 3). Bitter conflicts and armed aggression, even when seeming to resolve the problems at hand, succeed only in exacerbating the difficulties and disseminating further tragedy and destruction.
+
+It is for this reason that in every part of the world the Holy See encourages peoples and their governments to rise above the “culture of war” and to reject the vicious circle of death and violence. The Church herself is deeply concerned about the social dimension of human life, which is an essential part of the Christian message (cf. *[Centesimus Annus](http://www.vatican.va/edocs/ENG0214/_INDEX.HTM)*, 5); thus she invites her members to take an active part in the political, economic and social life of their respective countries, to imbue these areas with the light of faith and with the Gospel message of reconciliation and forgiveness.
+
+Now, the requirements of justice are such that, whenever a wrong has been committed, whenever evil has been done, it must be acknowledged and, as far as possible, reparation made. But human justice finds its ultimate foundation in the law of God and in his plan of salvation for humanity (cf. *[Dives in Misericordia](http://www.vatican.va/edocs/ENG0215/_INDEX.HTM)*, 14). Therefore justice is not limited to establishing what is right between the parties in conflict but looks above all to re- establishing authentic relationships with God, with others and with oneself. For this reason, there is no contradiction between forgiveness and justice; forgiveness does not lessen the requirements of justice but seeks to reintegrate individuals and groups into society, and States into the community of Nations, through a renewed sense of responsibility and, where possible, solidarity with the victims of past injustices.
+
+This is why all people are called to seek reconciliation and to work together to build a society in which the dignity of the human person and respect for human rights is the norm of conduct for all — for individuals, governments and international bodies. Africa itself, drawing on its noblest values and traditions, has the strength and inspiration to grow in solidarity, justice and reconciliation; Africans themselves can help one another to progress towards a better life, building a freer and more brotherly society on their continent.
+
+Your Excellency has presented various priorities which your Government has set for itself as it seeks to bring Uganda into a new era of peace and prosperity. You will find in the Catholic faithful of your country eager participants in securing the concrete realization of these priorities, particularly the promotion and safeguarding of human rights, the democratization of government institutions, the relief of poverty, and the increased availability of educational services. Through the Church’s network of schools and social assistance programmes, the priests, Religious and laity will continue to work in Uganda for the well- being of all their fellow citizens — especially the younger generation, your country’s greatest resource.
+
+Mr Ambassador, at the beginning of your mission I offer you my best wishes and I assure you that the various departments of the Holy See will cooperate in whatever way they can as you discharge your high responsibilities. Upon you and all the people of Uganda I invoke the abundant blessings of Almighty God.
+
+\**Insegnamenti di Giovanni Paolo II*, vol. XXI, 1 p. 1072-1075.
+
+*L'Osservatore Romano* 29.5. 1998 p.6.
+
+*L'Osservatore Romano. Weekly edition in English* n.22 p.13.

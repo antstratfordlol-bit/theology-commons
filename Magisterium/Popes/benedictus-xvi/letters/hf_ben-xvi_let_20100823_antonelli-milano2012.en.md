@@ -1,0 +1,50 @@
+---
+id: b16-let-20100823-antonelli-milano2012.en
+work: b16-let-20100823-antonelli-milano2012
+title: "Letter to Card. Ennio Antonelli, President of the Pontifical Council for the Family in preparation for the seventh World Encounter of Families (August 23, 2010)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Letter
+url_date: 2010-08-23
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/letters/2010/documents/hf_ben-xvi_let_20100823_antonelli-milano2012.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-let-20100823-antonelli-milano2012} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Letter to Card. Ennio Antonelli, President of the Pontifical Council for the Family in preparation for the seventh World Encounter of Families (August 23, 2010) {#b16-let-20100823-antonelli-milano2012}
+***LETTER OF HIS HOLINESS BENEDICT XVI TO CARDINAL ENNIO ANTONELLI, PRESIDENT OF THE PONTIFICAL COUNCIL FOR THE FAMILY ON THE OCCASION OF THE SEVENTH WORLD MEETING OF FAMILIES***
+
+## 
+Venerable Brother\
+Cardinal Ennio Antonelli\
+President of the Pontifical Council for the Family*
+
+At the end of the Sixth World Meeting of Families in Mexico City in January 2009, I announced that the next Meeting of Catholic families from all over the world would take place with the Successor of Peter in Milan in 2012 on the theme "The Family: Work and Celebration". Now wishing to begin the preparations for this important event, I am glad to announce that, God willing, it will take place from 30 May to 3 June. At the same time I will provide further details concerning the theme and the arrangements.
+
+Work and celebration are closely connected with the lives of families: they condition decisions, influence relations between spouses and between parents and children and affect the relationship of the family with society and with the Church. Sacred Scripture (cf. Gen 1-2) tells us that the family, work and holidays are gifts and blessings to help us to live a fully human life. Daily experience shows that the authentic development of the person includes both the individual, family and community dimensions and functional activities and relations, as well as openness to hope and to unlimited Good.
+
+In our day, unfortunately, the organization of work, conceived of and implemented in terms of market competition and the greatest profit, and the conception of a holiday as an opportunity to escape and to consume commodities, contribute to dispersing the family and the community and spreading an individualistic lifestyle. It is therefore necessary to promote reflection and commitment which aim at reconciling the needs and schedule of work with those of the family. They must also aim at recovering the true meaning of celebration, especially on Sunday, the weekly Easter, the day of the Lord and the day of man, the day of the family, of the community and of solidarity.
+
+The upcoming World Meeting of Families affords a privileged opportunity to rethink work and celebration in the perspective of a family that is united and open to life, thoroughly integrated in society and in the Church, attentive to the quality of relationship in addition to the economy of the family nucleus itself. The event, to be truly fruitful, must not, therefore, remain isolated, but must fit into an adequate process of ecclesial and cultural preparation. I therefore hope that during 2011, the 30th anniversary of the Apostolic Exhortation *[Familiaris Consortio](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html),* the "magna carta" of the pastoral care of families, a worthwhile journey may be undertaken, promoting initiatives at parish, diocesan and national levels, which aims to shed light on experiences of work and of celebration in their truest and most positive aspects, with particular concern for their effect on the practical life of families. May Christian families and ecclesial communities of the whole world therefore feel challenged and involved, and set out promptly on their way towards "Milan 2012".
+
+The Seventh World Meeting, like the previous ones will last for five days and will culminate with the "Feast of Testimonies" on Saturday evening and with solemn Mass on Sunday morning. These two celebrations, at both of which I shall preside, will be a gathering of the "family of families". The overall event will be especially arranged to ensure that the various dimensions complement each other: community prayer, theological and pastoral reflection, moments of brotherhood and exchanges between guest families and those that live in the area, as well as media coverage.
+
+From this moment may the Lord reward St Ambrose' Archdiocese of Milan with heavenly favours for its generous availability and commitment to organization, at the service of the universal Church and of families from so many nations.
+
+As I invoke the intercession of the Holy Family of Nazareth, dedicated to daily work and assiduous in celebrating the feasts of its people, I warmly impart the Apostolic Blessing to you Venerable Brother and to your collaborators and with special affection willingly extend it to all the families involved in the preparation of the important Meeting in Milan.
+
+*From Castel Gandolfo, 23 August 2010*
+
+## BENEDICT XVI

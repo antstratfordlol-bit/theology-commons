@@ -1,0 +1,48 @@
+---
+id: francis-spe-20170915-associazione-anesv.en
+work: francis-spe-20170915-associazione-anesv
+title: "To members of the Italian Showmen´s Association ANESV (15 September 2017)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2017-09-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2017/september/documents/papa-francesco_20170915_associazione-anesv.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20170915-associazione-anesv} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To members of the Italian Showmen´s Association ANESV (15 September 2017) {#francis-spe-20170915-associazione-anesv}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO MEMBERS OF THE ITALIAN SHOWMEN\>ʼS ASSOCIATION (ANESV)
+
+*Clementine Hall\
+Friday, 15 September 2017*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2017/9/15/associazione-anesv.html)\]
+
+*Dear brothers and sisters,*
+
+I cordially welcome you, members of the world of the itinerant show, represented here by your National Association (ANESV), and I thank the President for his kind words. I extend my greeting to your families and colleagues who are unable to be present, with a special thought for children, the elderly and the sick.
+
+I am well aware that the life of the itinerant worker is not an easy life. I know the *discomforts* that you encounter with your families, in continually travelling from place to place. There is difficulties in finding places for the attractions to stop; to find spaces suitable for your convoy, often having to stay in places outside the city; stopping in communities that do not always appreciate the social value of this type of show. Do not be discouraged, but continue your path, so that our cities and our countries do not lose the taste for this particular beauty through your presence, your art, your joy.
+
+Yours is a path that, thanks to God, is illuminated by *faith*, a faith that you live above all in your *families*, and this is very important: the family journeying with God, inspired by trust in Providence. A faith that also finds places of references for *spiritual rest* in the various *parishes* that you pass through: for participation in the Eucharist, preparation of the celebration of the Sacraments, for counsel and fraternal assistance from the community. Therefore, I hope that between your travelling communities and the parish communities there may always be openness, encounter, the desire to know each other and to share moments of life and prayer together.
+
+[In my encounter with all the world of travelling performers in June last year](http://w2.vatican.va/content/francesco/en/speeches/2016/june/documents/papa-francesco_20160616_giubileo-spettacolo-viaggiante-popolare.html), I highlighted that you are “artisans of celebration, of astonishment; you are artisans of beauty… with the aspiration to nourish feelings of hope and trust”. It is true: yours is *an “artisanal” beauty*, different to that produced by the major powers of entertainment, which can seem a little aseptic, I would say less human. I confess that I prefer yours, which evokes wonder and charm, yet which is the fruit of hours and hours of hard work. A carousel never ceases to astonish, to generate a gentle joy, in young and old. Even adults rediscover the joy of childhood; there, they become a bit like children again and grow by returning to the roots of the memory of their childhood.
+
+Indeed, the vocation of your life and your work is joy. I think that, if we return to the origin of your shows, your “caravanseries”, we always find someone – a grandfather, a grandmother, a great-grandfather – who was passionate about this type of spectacle, and felt a *joyful vocation*, and was therefore willing even to make great sacrifices. It is a vocation that immediately becomes a *mission*: the mission of offering to people, to children but also to adults and the elderly, opportunities for healthy and clean entertainment. It is a healthy and clean entertainment, without the need to stoop low to find material to entertain people. Healthy and clean entertainment. And within this vocation and mission, how can there not be the hand of God? God loves us and wants us to be happy. Wherever there is simple, clean joy, there is His imprint. Therefore, if you know how to conserve these values, this authenticity and simplicity, you are messengers of the joy that is pleasing to God, and that comes from Him.
+
+Dear brothers and sisters, I entrust you to the maternal protection of Mary, our Mother; may she accompany you always on your travels and in your rest. And I ask you, please, do not forget to pray for me.
+
+\*[*Bulletin of the Holy See Press Office,* 15 September 2017](http://press.vatican.va/content/salastampa/en/bollettino/pubblico/2017/09/15/170915d.html)

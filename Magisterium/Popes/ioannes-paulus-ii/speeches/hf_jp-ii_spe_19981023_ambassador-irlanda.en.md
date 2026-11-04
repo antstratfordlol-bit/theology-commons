@@ -1,0 +1,51 @@
+---
+id: jp2-spe-19981023-ambassador-irlanda.en
+work: jp2-spe-19981023-ambassador-irlanda
+title: "To the new Ambassador of Ireland accredited to the Holy See (October 23, 1998)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1998-10-23
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/october/documents/hf_jp-ii_spe_19981023_ambassador-irlanda.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, fr, pt"
+anchors: "{#jp2-spe-19981023-ambassador-irlanda} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the new Ambassador of Ireland accredited to the Holy See (October 23, 1998) {#jp2-spe-19981023-ambassador-irlanda}
+## ADDRESS OF JOHN PAUL II TO H.E. MR EAMON O’ TUATHAIL AMBASSADOR OF IRELAND TO THE HOLY SEE
+
+*23 October 1998*
+
+*Mr Ambassador,*
+
+I am very pleased to welcome you to the Vatican today and to accept the Letters of Credence by which you are appointed Ambassador Extraordinary and Plenipotentiary of Ireland. I thank you for the expression of good wishes which you convey from Her Excellency President McAleese and I gladly reciprocate with good wishes and the assurance of my prayers for the beloved Irish people, with whom the Holy See has had a long and special bond of faith and friendship since the fifth century.
+
+The history of your country testifies to a deep-rooted commitment to the Christian faith. That commitment inspired the monks who brought the light of faith and learning to so many parts of Europe in the centuries after the fall of the Roman Empire; it sustained the many priests, religious and lay people who shed their blood in a supreme testimony of fidelity to the Church in times of persecution; and it heartened the countless Irish missionaries who carried the Gospel to the ends of the earth in more recent times. Ireland's impressive Christian heritage has contributed in no small way to deepening the sense of concern which the Irish have always shown for other peoples striving for freedom, justice and development. Today it underlies their willingness to play an active role in promoting progress and peace among the peoples of the world.
+
+You have mentioned that Ireland and the Holy See participate and cooperate in many International Organizations and in important International Meetings. One of the international community's most significant initiatives in recent years has been the 1995 World Summit for Social Development, held in Copenhagen. At that meeting countries of differing cultures and economic levels were able to reach a broad consensus on the principles to be followed for the development of society and the achievement of better living conditions for all. It was encouraging to note the commitment to place the human person at the centre of development efforts and to strive for a human advancement that would take into account and respect ethical, cultural and religious values. A country's progress in fact can never be reduced to the simple accumulation of wealth and the greater availability of goods and services. A deep-rooted sense of the inviolable dignity of the human person must be the basis of social, economic and educational projects which aim at bettering people's lives and at meeting genuine human needs more effectively. To recognise every man and woman as the subject of inalienable rights and freedoms means that nations and the international community must effectively guarantee that the social, cultural and spiritual dimensions of life are always and everywhere respected and promoted.
+
+To bring about authentic human and social development, it is essential to defend the family and promote its well-being. It is the family that is the first school of the social virtues which are the animating principle of society's development and progress (cf. Apostolic Exhortation *[Familiaris Consortio](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)*, 42). Secure and united families train their members to respect the rights and dignity of others, to recognise the sacredness of all human life, especially of the most vulnerable, and to practise those qualities and virtues which foster and build up the common good. Whatever undermines the fabric of family life or reduces the family's distinctive responsibilities inflicts grave harm on society as a whole. In my *[Letter to Families](https://www.vatican.va/content/john-paul-ii/en/letters/documents/hf_jp-ii_let_02021994_families.html)*, written on the occasion of the 1994 International Year of the Family, I emphasised the importance of family life for the well-being of nations: “A truly sovereign and spiritually vigorous nation is always made up of strong families who are aware of their vocation and mission in history” (No. 17). Appreciation of the family's indispensable contribution to the welfare of your country prompted the framers of the Irish Constitution to place great emphasis on the family as the primary and fundamental grouping in society, possessing "inalienable and imprescriptible rights, antecedent and superior to all positive law" (*Bunreacht na hÉireann*, Art. 41, 1, 1·). It led them to defend the right of parents to be the principal agents of the religious, moral, intellectual, physical and social education of their children (cf. *ibid*., Art. 42, 1). Drawing on these basic principles, which reflect your country's precious cultural and religious heritage, Ireland can continue to be a convincing voice in the international forum whenever it is a question of safeguarding and strengthening an international culture of respect for the human person, the family and the transcendent dimension of human existence.
+
+As we approach the end of the twentieth century, a period which has witnessed so much violence, warfare, ideologically fuelled persecution and attempts by totalitarian regimes to annihilate whole peoples, it should be clear that efforts to bring about a renewed social order at the national and international levels will succeed only by guaranteeing in law universal and unchanging moral norms, founded in human nature and accessible to reason. The Christian view is that fundamental human rights are consequent upon human nature, deriving ultimately from God and not simply conferred by human authorities. The failure to recognise the existence of a truth which transcends social and cultural realities is a fast path towards the exclusive dominion of the State over every aspect of life. The way is then open to totalitarian impositions of all kinds (cf. Encyclical Letter *[Centesimus Annus](http://www.vatican.va/edocs/ENG0214/_INDEX.HTM)*, 44). When sure moral reference points are removed and moral relativism takes over, the threat to fundamental rights and fundamental freedoms exists even in a society which appears to be democratic (cf. Encyclical Letter *[Veritatis Splendor](http://www.vatican.va/edocs/ENG0222/_INDEX.HTM)*, 101). “If there is no ultimate truth to guide and direct political activity, then ideas and convictions can easily be manipulated for reasons of power. As history demonstrates, a democracy without values easily turns into open or thinly disguised totalitarianism” (Encyclical Letter *[Centesimus Annus](http://www.vatican.va/edocs/ENG0214/_INDEX.HTM)*, 46). As we prepare to enter the new Millennium, the nations of Europe in particular are faced with the challenge of determining the principles of their future development. Your own country, Mr Ambassador, whose experience is based on a deeply rooted sense of the presence of God in all human affairs (cf. *Bunreacht na hÉireann*, Preamble) is well placed to make an invaluable contribution to the establishment of the new Europe on its authentic spiritual and cultural foundations.
+
+I always remember with affection my [Pastoral Visit to your country in 1979](http://www.vatican.va/holy_father/john_paul_ii/travels/sub_index1979/trav_ireland.htm), when I witnessed at first hand the wonderful human and spiritual qualities of the Irish people. At that time Northern Ireland was immersed in the violence which has caused so much suffering in past decades. A new era of hope has opened with the signing of the so-called Good Friday Agreement, establishing a new basis for government and co-operation between all parts of the population. Permanent peace always remains a fragile reality and requires the diligent efforts of everyone. The way forward demands of all concerned not only a willingness to compromise but above all a positive commitment to creating "the sum of those conditions by which individuals, families and groups can achieve their fulfilment" (Second Vatican Council, *[Gaudium et Spes](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*, 74). I pray that the future of all the people of Ireland, without distinction, will be grounded in justice, equity and harmony.
+
+Mr Ambassador, as you begin your mission, following a long line of distinguished Irish Ambassadors, I assure you of my prayers for its success. You may be certain that the various departments of the Roman Curia will be only too willing to assist you in the discharge of your duties. *Guím beannacht Dé ar phobal na hÉireann*.
+
+\**Insegnamenti di Giovanni Paolo II*, vol. XXI, 2 p. 790-794.
+
+*L'Osservatore Romano* 24.10. 1998 p.4.
+
+*L'Osservatore Romano. Weekly edition in English* n. 43 p.4.

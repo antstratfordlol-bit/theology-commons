@@ -1,0 +1,44 @@
+---
+id: francis-hom-20140328-liturgia-penitenziale.en
+work: francis-hom-20140328-liturgia-penitenziale
+title: "28 March 2014: Penitential Celebration"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2014-03-28
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/homilies/2014/documents/papa-francesco_20140328_omelia-liturgia-penitenziale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-hom-20140328-liturgia-penitenziale} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 28 March 2014: Penitential Celebration {#francis-hom-20140328-liturgia-penitenziale}
+[CELEBRATION OF PENANCE](http://www.vatican.va/news_services/liturgy/libretti/2014/20140328-libretto-liturgia-penitenziale.pdf)\
+COMMUNAL RECONCILIATION SERVICE\
+WITH INDIVIDUAL CONFESSION AND  ABSOLUTION
+
+## HOMILY OF POPE FRANCIS
+
+*Vatican Basilica\
+Friday, 28 March 2014*
+
+## [Video](http://player.rv.va/vaticanplayer.asp?language=it&tic=VA_C4YD96ZB)
+
+During the time of Lent, the Church, in the name of God, renews her appeal to repentance. It is the call to change one’s life. Conversion is not the question of a moment or a time of the year, it is an undertaking that lasts one’s entire lifetime. Who among us can presume not to be a sinner? No one. We are all sinners. The Apostle John writes: “If we say we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just, and will forgive our sins and cleanse us from all unrighteousness” (1 Jn 1:8-9). And that is what is happening during this celebration and throughout this day of penance. The Word of God that we heard introduces us to two essential elements of Christian life.
+
+The first: *putting on the new nature*. The new man, “created after the likeness of God” (Eph 4:24), is born in Baptism, when one receives the very life of God, which renders us his children and incorporates us into Christ and his Church. This new life permits us to look at reality with different eyes, without being distracted by things that don't matter and cannot last long, from things that perish with time. For this we are called to abandon the behaviour of sin and fix our gaze on what is essential. “A man is more precious for what he is than for what he has” (*[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)*, n. 35). This is the difference between life deformed by sin and life illumined by grace. From the heart of the person renewed in the likeness of God comes good behaviour: to speak always the truth and avoid all deceit; not to steal, but rather to share all you have with others, especially those in need; not to give in to anger, resentment and revenge, but to be meek, magnanimous and ready to forgive; not to gossip which ruins the good name of people, but to look more at the good side of everyone. It is a matter of clothing oneself in the new man, with these new attitudes.
+
+The second element: *abiding in love*. The love of Jesus Christ lasts forever, it has no end because it is the very life of God. This love conquers sin and gives the strength to rise and begin again, for through forgiveness the heart is renewed and rejuvenated. We all know it: our Father never tires of loving and his eyes never grow weary of watching the road to his home to see if the son who left and was lost is returning. We can speak of God’s hope: our Father expects us always, he doesn’t just leave the door open to us, but he awaits us. He is engaged in the waiting for his children. And this Father also does not tire of loving the other son who, though staying at home with him the whole time, does not share in his mercy, in his compassion. God is not only at the origin of love, but in Jesus Christ he calls us to imitate his own way of loving: “as I have loved you, that you also love one another” (Jn 13:34). To the extent to which Christians live this love, they become credible disciples of Christ to the world. Love cannot bear being locked up in itself. By its nature it is open, it spreads and bears fruit, it always kindles new love.
+
+Dear brothers and sisters, after this celebration, many of you will be made missionaries to offer to others the experience of reconciliation with God. “24 hours for the Lord” is an initiative to which many dioceses have adhered in every part of the world. To the many you will meet, you can communicate the joy of receiving the forgiveness of the Father and of rediscovering full friendship with him. And you will tell them that our Father expects us, our Father forgives us, and furthermore that he rejoices. If you go to him with your whole life, even with the many sins, instead of reproaching you, he will rejoice: this is our Father. This you must say, say it to many people, today. Whoever experiences divine mercy, is impelled to be an architect of mercy among the least and the poor. In these “littlest brothers” Jesus awaits us (cf. Mt 25:40); let us receive mercy and let us give mercy! Let us go to the encounter and let us celebrate Easter in the joy of God!

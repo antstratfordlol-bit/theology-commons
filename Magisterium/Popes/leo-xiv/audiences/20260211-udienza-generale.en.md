@@ -1,0 +1,70 @@
+---
+id: leo14-aud-20260211.en
+work: leo14-aud-20260211
+title: "General Audience of 11 February 2026 - Catechesis. The Documents of Vatican Council II. I. Dogmatic Constitution Dei Verbum. 5. The Word of God in the life of the Church"
+creator: "Leo PP. XIV"
+pope: Leo XIV
+document-type: General audience (catechesis)
+url_date: 2026-02-11
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/leo-xiv/en/audiences/2026/documents/20260211-udienza-generale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt, zh_tw"
+anchors: "{#leo14-aud-20260211} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# General Audience of 11 February 2026 - Catechesis. The Documents of Vatican Council II. I. Dogmatic Constitution Dei Verbum. 5. The Word of God in the life of the Church {#leo14-aud-20260211}
+LEO XIV
+
+## GENERAL AUDIENCE
+
+*Audience Hall\
+Wednesday, 11 February 2026*
+
+\[[**Multimedia**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/2/11/udienza-generale.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Catechesis. The Documents of Vatican Council II. I. Dogmatic Constitution Dei Verbum 5. The Word of God in the life of the Church
+
+*Dear brothers and sisters, good morning and welcome!*
+
+In today’s catechesis we will look at the profound and vital link that exists between the Word of God and the Church, a bond expressed by the Conciliar Constitution *[Dei Verbum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*, in the sixth chapter. The Church is the rightful home of Sacred Scripture. Under the inspiration of the Holy Spirit, the Bible arose from the people of God, and is destined for the people of God. In the Christian community it has, so to speak, its *habitat*: indeed, in the life and the faith of the Church it finds the space where it can reveal its meaning and manifest its power.
+
+[Vatican Council II](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm) reminds us that “the Church has always venerated the divine Scriptures just as she venerates the body of the Lord, since especially in the sacred liturgy, she unceasingly receives and offers to the faithful the bread of life from the table both of God’s word and of Christ’s body”. Furthermore, “she has always maintained them, and continues to do so, together with sacred tradition, as the supreme rule of faith” (*[Dei Verbum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*, 21).
+
+The Church never ceases to reflect on the value of the Sacred Scriptures. After [the Council](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), a very important moment in this regard was the [Ordinary General Assembly of the Synod of Bishops](https://www.vatican.va/news_services/press/sinodo/documents/bollettino_22_xii-ordinaria-2008/02_inglese/b04_02.html) on the theme “The Word of God in the life and mission of the Church” in October 2008. [Pope Benedict XVI](https://www.vatican.va/content/benedict-xvi/en.html) gathered its fruit in the post-Synodal Exhortation *[Verbum Domini](https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html)* (30 September 2010), in which he affirms: “The intrinsic link between the word and faith makes clear that authentic biblical hermeneutics can only be had within the faith of the Church, which has its paradigm in Mary’s *fiat*… the primary setting for scriptural interpretation is the life of the Church” ([no. 29](https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html)).
+
+In the ecclesial community, Scripture therefore finds the sphere in which to carry out its particular task and achieve its purpose: to make Christ known and to open dialogue with God. Indeed, “ignorance of the Scriptures is ignorance of Christ”. [\[1\]](#_ftn1){#_ftnref1 .cleaner} This well-known expression of Saint Jerome reminds us of the ultimate purpose of reading and meditating on the Scriptures: to get to know Christ and, through Him, to enter into a relationship with God, a relationship that can be understood as a conversation, a dialogue. And the Constitution *[Dei Verbum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)* presented the Revelation to us precisely as a dialogue, in which God speaks to humans as though to friends (cf. *[DV](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html),* 2). This occurs when we read the Bible with an inner attitude of prayer: God then comes towards us and enters into conversation with us.
+
+The Sacred Scripture, entrusted to the Church and preserved and explained by her, performs an active role: indeed, with its efficacy and power it sustains and invigorates the Christian community. All the faithful are called to drink from this wellspring, first and foremost in the celebration of the Eucharist and the other Sacraments. Love for the Sacred Scriptures and familiarity with them must guide those who carry out the ministry of the Word: bishops, priests, deacons, catechists. The work of exegetes and those who practise biblical sciences is invaluable, and Scriptures have a central place in theology, which finds its foundation and soul in the Word of God.
+
+The Church ardently desires that the Word of God may reach every one of her members and nurture their journey of faith. But the Word of God also propels the Church beyond herself; it opens her continually to the mission towards everyone. Indeed, we live surrounded by so many words, but how many of these are empty! At times we even listen to wise words, which do not however affect our ultimate destiny. On the contrary, the Word of God responds to our thirst for meaning, for the truth about our life. It is the only Word that is always new: revealing the mystery of God to us, it is inexhaustible, it never ceases to offer its riches.
+
+Dear friends, living in the Church one learns that the Sacred Scripture is totally relative to Jesus Christ, and one experiences that this is the deep reason for its value and its power. Christ is the living Word of the Father, the Word of God made man. All the Scriptures proclaim his Person and his saving presence, for each one of us and for all humanity. Let us therefore open our hearts and minds in order to receive this gift, following the example of Mary, Mother of the Church.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+[\[1\]](#_ftnref1){#_ftn1 .cleaner} S. Girolamo,  *Comm. in Is.*, Prol.:  *PL* 24, 17 B.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Special greetings
+
+I greet the English speaking pilgrims and visitors taking part in today’s audience, in particular the groups from England, the Netherlands, Sweden, Israel and the United States of America, Next Wednesday, the season of Lent begins. It is a time for deepening our knowledge and love of the Lord, for examining our hearts and our lives, as well as refocusing our gaze on Jesus and his love for us. May these coming days of prayer, fasting and almsgiving be a source of strength as we daily strive to take up our own crosses and follow Christ. Upon you and your families, I invoke the joy and peace of our Lord Jesus Christ. God bless you!
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Summary of the Holy Father's words
+
+Dear brothers and sisters, in our catechesis on the Dogmatic Constitution *[Dei Verbum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*, today we considered the profound and vital connection between the Word of God and the Church. Sacred Scripture, which has been entrusted to the Church and is guarded by her, reveals its meaning and manifests its strength in the life and faith of the Church, above all in the celebration of the Holy Eucharist. For this reason, the Church continually meditates upon and interprets Scripture because it is the means by which we come to know the incarnate living Word of God who is Jesus Christ. Indeed, praying with Scripture opens the door for an intimate relationship with God who through these sacred writings invites us into conversation with him. As Saint Jerome rightly points out, ignorance of Scripture is ignorance of God. With this in mind, I encourage you to read and contemplate the inspired word of God daily. May the Word of God nourish our hearts and minds and lead us to the fullness of life.

@@ -1,0 +1,92 @@
+---
+id: francis-hom-20240328-crisma.es
+work: francis-hom-20240328-crisma
+title: "Jueves Santo - Santa Misa Crismal (28 de marzo de 2024)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2024-03-28
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/homilies/2024/documents/20240328-omelia-crisma.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#francis-hom-20240328-crisma} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Jueves Santo - Santa Misa Crismal (28 de marzo de 2024) {#francis-hom-20240328-crisma}
+[SANTA MISA CRISMAL](https://www.vatican.va/news_services/liturgy/libretti/2024/20240328-libretto-messa-crismale.pdf)
+
+## HOMILÍA DEL SANTO PADRE FRANCISCO
+
+*Basílica de San Pedro\
+Jueves Santo, 28 de marzo de 2024*
+
+## \[[Multimedia](https://www.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2024/3/28/crisma.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+«Todos en la sinagoga tenían los ojos fijos en él» (*Lc* 4,20). Llama la atención este pasaje del Evangelio, pues nos lleva a visualizar la escena, a imaginar ese momento de silencio en el que todas las miradas estaban concentradas en Jesús, en una mezcla de estupor y desconfianza. Sabemos sin embargo cómo terminaría: después de que Jesús hubo desenmascarado las falsas expectativas de sus compaisanos, estos «se enfurecieron» (*Lc* 4,28), salieron y lo echaron fuera de la ciudad. Sus ojos habían estado fijos en Jesús, pero sus corazones no estaban dispuestos a cambiar a causa de su palabra. De ese modo, perdieron la oportunidad de sus vidas.
+
+Pero hoy, en esta tarde de Jueves Santo, se produce un *cruce de miradas* alternativo. El protagonista es el primer Pastor de nuestra Iglesia, Pedro. Al principio, tampoco él dio fe a la palabra “desenmascarante” que el Señor le había dirigido: «Me habrás negado tres veces» (*Mc* 14,30). Por eso, “perdió de vista” a Jesús y lo negó cuando cantó el gallo. Pero después, cuando “el Señor, dándose vuelta, lo miró, este recordó las palabras que él le había dicho. Y saliendo afuera, lloró amargamente” (cf. *Lc* 22,61-62). Sus ojos se llenaron de lágrimas que, nacidas de un corazón herido, lo liberaron de convicciones y justificaciones falsas. Aquel llanto amargo le cambió la vida.
+
+Las palabras y los gestos de Jesús durante tantos años no habían logrado mover a Pedro de sus expectativas, parecidas a las de la gente de Nazaret. También él esperaba un Mesías político y poderoso, fuerte y resolutivo, y frente al escándalo de un Jesús débil, arrestado sin oponer resistencia, declaró: «No lo conozco» (*Lc* 22,57). Y es verdad, no lo conocía, comenzó a conocerlo cuando, en la oscuridad de la negación, dio cabida a lágrimas de vergüenza, a las lágrimas de arrepentimiento. Y lo conocerá de verdad cuando, entristecido «de que por tercera vez le preguntara si lo quería», se dejó atravesar sin reservas por la mirada de Jesús. Entonces, del «no lo conozco» pasará a decir: «Señor, tú lo sabes todo» (*Jn* 21,17).
+
+Queridos hermanos sacerdotes, la curación del corazón de Pedro, la curación del Apóstol y la curación del Pastor son posibles cuando, heridos y arrepentidos, nos dejamos perdonar por Jesús; estas curaciones pasan a través de las lágrimas, del llanto amargo y del dolor que permite redescubrir el amor. Por eso, desde hace tiempo siento la necesidad de compartir con ustedes, algunos pensamientos sobre un aspecto de la vida espiritual bastante descuidado, pero esencial. Lo propongo hoy con una palabra tal vez pasada de moda, pero que creo que nos haga bien redescubrir: la *compunción.*
+
+¿Qué es la compunción? La palabra evoca el *punzar*. La compunción es “una punción en el corazón”, un pinchazo que lo hiere, haciendo brotar lágrimas de arrepentimiento. Nos ayuda a explicarlo otro episodio relacionado también con san Pedro. Él, traspasado por la mirada y las palabras de Jesús resucitado el día de Pentecostés, purificado y lleno del fuego del Espíritu, proclamó a los habitantes de Jerusalén: «a ese Jesús que ustedes crucificaron, Dios lo ha hecho Señor y Mesías» (*Hch* 2,36). Los que escuchaban advirtieron a la vez el mal que habían hecho y la salvación que el Señor derramaba sobre ellos, y «al oír estas cosas —dice el texto—, todos se conmovieron profundamente» (*Hch* 2,37).
+
+Esta es la compunción, no es un sentimiento de culpa que nos tumba por tierra, no es el escrúpulo que paraliza, sino que es un aguijón benéfico que quema por dentro y cura, porque el corazón, cuando ve el propio mal y se reconoce pecador, se abre, acoge la acción del Espíritu Santo, agua viva que lo sacude haciendo correr las lágrimas sobre el rostro. Quien se quita la máscara y deja que Dios mire su corazón recibe el don de estas lágrimas, que son las aguas más santas después de las del Bautismo [\[1\]](#_ftn1){#_ftnref1 .cleaner}. Queridos hermanos sacerdotes, hoy les deseo esto.
+
+Pero es necesario comprender bien qué significan *las lágrimas de compunción*. No se trata de *sentir lástima de uno mismo*, como frecuentemente nos vemos tentados a hacer. Esto sucede, por ejemplo, cuando estamos desilusionados o preocupados por nuestras expectativas frustradas, por la falta de comprensión por parte de los demás, tal vez hermanos de comunidad o superiores. También cuando, a causa de un extraño y malsano gusto de nuestro espíritu, nos regodeamos en los agravios recibidos para autocompadecernos, pensando que no nos han dado lo que merecíamos e imaginando que el futuro no nos depara otra cosa que continuas desilusiones. Esta —nos enseña san Pablo— es la tristeza según el mundo, opuesta a la tristeza que es según Dios [\[2\]](#_ftn2){#_ftnref2 .cleaner}.
+
+Tener *lágrimas de compunción*, en cambio, es arrepentirse seriamente de haber entristecido a Dios con el pecado; es reconocer estar siempre en deuda y no ser nunca acreedores; es admitir haber perdido el camino de la santidad, no habiendo creído en el amor de Aquel que dio su vida por mí [\[3\]](#_ftn3){#_ftnref3 .cleaner}. Es mirarme dentro y dolerme por mi ingratitud y mi inconstancia; es considerar con tristeza mi doblez y mis falsedades; es bajar a los recovecos de mi hipocresía. La hipocresía clerical, queridos hermanos, es aquella hipocresía en la que nos resbalamos tanto, tanto. Tengan cuidado con la hipocresía clerical. Para después, fijar la mirada en el Crucificado y dejarme conmover por su amor que siempre perdona y levanta, que nunca defrauda las esperanzas de quien confía en Él. Así las lágrimas siguen derramándose y purifican el corazón.
+
+La compunción, claro está, requiere esfuerzo pero restituye la paz; no provoca angustia, sino que aligera el alma de las cargas, porque actúa en la herida del pecado, disponiéndonos a recibir precisamente allí la caricia del Señor, que trasforma el corazón cuando está «contrito y humillado» (*Sal* 51,19), suavizado por las lágrimas. La compunción es por tanto el antídoto contra la *esclerosis del corazón*, contra esa dureza del corazón que tanto denunció Jesús (cf. *Mc* 3,5; 10,5). El corazón sin arrepentimiento ni llanto se vuelve rígido. Primero se afianza en sus rutinas, después es intolerante con los problemas y las personas le son indiferentes, luego se torna frío y casi impasible, como envuelto en una coraza inquebrantable, y finalmente se vuelve un corazón de piedra. Pero, como una gota excava la piedra, así las lágrimas excavan lentamente los corazones endurecidos. Se asiste de esta manera al milagro de la tristeza, de la buena tristeza que lleva a la dulzura.
+
+Comprendemos entonces por qué los maestros espirituales insisten sobre la compunción. San Benito invitaba cada día a «confesar diariamente a Dios en la oración, con lágrimas y gemidos, las culpas pasadas» [\[4\]](#_ftn4){#_ftnref4 .cleaner}, y afirmaba que al rezar no seríamos escuchados «por hablar mucho, sino por la pureza de corazón y compunción de lágrimas» [\[5\]](#_ftn5){#_ftnref5 .cleaner}. Y si para san Juan Crisóstomo una sola lágrima es capaz de apagar un brasero de culpas [\[6\]](#_ftn6){#_ftnref6 .cleaner}, en la *Imitación de Cristo* se recomienda: «Date a la compunción del corazón», en cuanto «por la liviandad del corazón y por el descuido de nuestros defectos no sentimos los males de nuestra alma» [\[7\]](#_ftn7){#_ftnref7 .cleaner}. La compunción es el remedio, porque nos muestra la verdad de nosotros mismos, de modo que la profundidad de nuestro ser *pecadores* revela la realidad infinitamente más grande de nuestro ser *perdonados*, la alegría de ser perdonados. Por eso no nos debe extrañar la afirmación de Isaac de Nínive: «El que olvida la medida de sus propios pecados, olvida la medida de la gracia de Dios hacia él» [\[8\]](#_ftn8){#_ftnref8 .cleaner}.
+
+Es verdad, queridos hermanos y hermanas, cada uno de nuestros renacimientos interiores brotan siempre del encuentro entre nuestra miseria y la misericordia del Señor —se encuentran nuestra miseria y su misericordia—, cada renacimiento interior pasa a través de nuestra pobreza de espíritu, que permite que el Espíritu Santo nos enriquezca. Con esta luz se comprenden las fuertes afirmaciones de tantos maestros espirituales. Detengámonos otra vez en las afirmaciones paradójicas de san Isaac: «Aquel que conoce sus pecados \[…\] es más grande de aquel que con la oración resucita muertos. Aquel que llora una hora sobre sí mismo es más grande que quien sirve el mundo entero con la contemplación \[…\]. Aquel al que ha sido dado conocerse a sí mismo es más grande que aquel a quien le fue dado ver a los ángeles» [\[9\]](#_ftn9){#_ftnref9 .cleaner}.
+
+Hermanos, volvamos a nosotros sacerdotes y preguntémonos cuán presentes están la compunción y las lágrimas en nuestro examen de conciencia y en nuestra oración. Interroguémonos si con el pasar de los años las lágrimas aumentan. Bajo este aspecto sería bueno que ocurriese al revés de como sucede en la vida biológica, en la que cuando crecemos lloramos menos que cuando éramos niños. Sin embargo, en la vida espiritual, en la que cuenta hacerse como niños (cf. *Mt* 18,3), quien no llora retrocede, envejece por dentro, mientras que quien alcanza una oración más sencilla e íntima, hecha de adoración y conmoción ante Dios, madura. Se liga menos a sí mismo y más a Cristo, y se hace pobre de espíritu. De ese modo se siente más cercano a los pobres, los predilectos de Dios, que —como escribe san Francisco en su testamento— antes, “como estaba en mis pecados”, los tenía lejos, pero cuya compañía, después, de amarga se convirtió en dulce [\[10\]](#_ftn10){#_ftnref10 .cleaner}. Y, de ese modo, quien se compunge de corazón se siente más hermano de todos los pecadores del mundo, se siente más hermano sin un atisbo de superioridad o de aspereza de juicio, sino siempre con el deseo de amar y reparar.
+
+Y esta, queridos hermanos, es otra característica de la compunción, la *solidaridad.* Un corazón dócil, liberado por el espíritu de las Bienaventuranzas, se inclina naturalmente a hacer compunción por los demás; en vez de enfadarse o escandalizarse por el mal que cometen los hermanos, llora por sus pecados. No se escandaliza. Se realiza entonces una especie de vuelco, donde la tendencia natural a ser indulgentes consigo mismo e inflexibles con los demás se invierte y, por gracia de Dios, uno se vuelve severo consigo mismo y misericordioso con los demás. Y el Señor busca, especialmente entre los consagrados a Él, a quienes lloren los pecados de la Iglesia y del mundo, haciéndose instrumento de intercesión por todos. Cuántos testigos heroicos en la Iglesia nos indican este camino. Pensemos en los monjes del desierto, en Oriente y en Occidente; en la intercesión continua, entre gemidos y lágrimas, de san Gregorio de Narek; en la ofrenda franciscana por el Amor no amado; en sacerdotes, como el cura de Ars, que vivían en penitencia por la salvación de los demás. Queridos hermanos, esto no se trata de poesía, esto es el sacerdocio.
+
+Queridos hermanos, a nosotros, sus Pastores, el Señor no nos pide juicios despectivos sobre los que no creen, sino amor y lágrimas por los que están alejados. Las situaciones difíciles que vemos y vivimos, la falta de fe, los sufrimientos que tocamos, al entrar en contacto con un corazón compungido, no suscitan la determinación en la polémica, sino la perseverancia en la misericordia. Cuánto necesitamos liberarnos de resistencias y recriminaciones, de egoísmos y ambiciones, de rigorismos e insatisfacciones, para encomendarnos e interceder ante Dios, encontrando en Él una paz que salva de cualquier tempestad. Adoremos, intercedamos y lloremos por los demás. Permitamos al Señor que realice maravillas. No temamos, Él nos sorprenderá.
+
+Nuestro ministerio lo agradecerá. Hoy, en una sociedad secularizada, corremos el riesgo de mostrarnos muy activos y al mismo tiempo de sentirnos impotentes, con el resultado de perder el entusiasmo y de caer en la tentación de “tirar los remos en la barca”, de encerrarnos en la queja y de hacer prevalecer la magnitud de los problemas sobre la inmensidad de Dios. Si esto sucede, nos volvemos amargos y sarcásticos, siempre chismorreando, siempre encontrando una ocasión para quejarse. Pero si, por el contrario, la amargura y la compunción, en vez de dirigirse hacia el mundo, se dirigen hacia el propio corazón, el Señor no dejará de visitarnos y de alzarnos de nuevo. Como nos exhorta la *Imitación de Cristo*: «No te ocupes en cosas ajenas ni te entremetas en las causas de los mayores. Mira siempre primero por ti, y amonéstate a ti mismo más especialmente que a todos cuantos quieres bien. Si no eres favorecido de los hombres, no te entristezcas por eso, sino aflígete de que no te portas con el cuidado y circunspección que convienen» [\[11\]](#_ftn11){#_ftnref11 .cleaner}.
+
+Por último, quisiera señalar un aspecto esencial: la compunción no es el fruto de nuestro trabajo, sino que es una *gracia* y como tal ha de *pedirse en la oración*. El arrepentimiento es don de Dios, es fruto de la acción del *Espíritu Santo*. Para facilitar su crecimiento, comparto con ustedes dos pequeños consejos. El primero es el de no mirar la vida y la llamada en una perspectiva de eficacia y de inmediatez, ligada sólo al hoy y a sus urgencias y expectativas, sino en el conjunto del pasado y del futuro. Del pasado, recordando la fidelidad de Dios —Dios es fiel—, haciendo memoria de su perdón, anclándonos en su amor; y del futuro, pensando en el destino eterno al que estamos llamados, en el fin último de nuestra existencia. Ampliar los horizontes queridos hermanos, ampliar los horizontes ayuda a dilatar el corazón, estimula a entrar en uno mismo con el Señor y a experimentar la compunción. Un segundo consejo, que es consecuencia de esto: es redescubrir la necesidad de dedicarnos a una oración que no sea de compromiso y funcional, sino gratuita, serena y prolongada. Hermano, ¿cómo está tu oración? Volvamos a la adoración y volvamos a la oración del corazón. ¿Te has olvidado de adorar? Repitamos: *Jesús, Hijo de Dios, ten piedad de mí, pecador*. Sintamos la grandeza de Dios en nuestra bajeza de pecadores, para mirarnos dentro y dejarnos atravesar por su mirada. Redescubriremos la sabiduría de la Santa Madre Iglesia, que nos introduce siempre en la oración con la invocación del pobre que grita: *Dios mío, ven en mi auxilio.*
+
+Queridos hermanos, volvamos ahora a san Pedro y a sus lágrimas. El altar puesto sobre su tumba nos debe hacer pensar cuántas veces nosotros, que allí decimos cada día: «*Tomen y coman todos de él, porque esto es mi Cuerpo, que será entregado por ustedes*», cuántas veces decepcionamos y entristecemos a Aquel que nos ama hasta el punto de hacer de nuestras manos los instrumentos de su presencia. Está bien por tanto hacer nuestras aquellas palabras con las que nos preparamos en voz baja: «*Lava del todo mi delito, Señor*, *y limpia mi pecado*» (cf. *Sal* 50). En todo, hermanos, nos consuela la certeza que hoy nos ha sido entregada en la Palabra: el Señor, consagrado con la unción (cf. *Lc* 4,18), ha venido «a vendar los corazones heridos» (*Is* 61,1). Por tanto, si el corazón se rompe podrá ser vendado y curado por Jesús. Gracias, queridos sacerdotes, gracias por sus corazones abiertos y dóciles; gracias por sus fatigas y gracias por sus lágrimas, gracias por llevar la maravilla de la misericordia. Perdonen siempre, sean misericordiosos y lleven esta misericordia, lleven a Dios a los hermanos y a las hermanas de nuestro tiempo. Queridos sacerdotes, que el Señor los consuele, los confirme y los recompense. Gracias.
+
+[\[1\]](#_ftnref1){#_ftn1 .cleaner} «En la Iglesia, existen el agua y las lágrimas: el agua del Bautismo y las lágrimas de la Penitencia» (S. Ambrosio, *Epistula extra collectionem*, I, 12).
+
+[\[2\]](#_ftnref2){#_ftn2 .cleaner} «Esa tristeza produce un arrepentimiento que lleva a la salvación y no se debe lamentar; en cambio, la tristeza del mundo produce la muerte» ( *2 Co* 7,10).
+
+[\[3\]](#_ftnref3){#_ftn3 .cleaner} Cf. S. Juan Crisóstomo, *De compunctione*, I, 10.
+
+[\[4\]](#_ftnref4){#_ftn4 .cleaner}  *Regla*, IV, 57.
+
+[\[5\]](#_ftnref5){#_ftn5 .cleaner}  *Ibíd.*, XX, 3.
+
+[\[6\]](#_ftnref6){#_ftn6 .cleaner} Cf. *De paenitentia*, VII, 5.
+
+[\[7\]](#_ftnref7){#_ftn7 .cleaner} Cap. XXI, 2.
+
+[\[8\]](#_ftnref8){#_ftn8 .cleaner} *Discursos espirituales* (III Colección), XII.
+
+[\[9\]](#_ftnref9){#_ftn9 .cleaner}  *Discursos espirituales* (I Colección), XXXIV (versión griega).
+
+[\[10\]](#_ftnref10){#_ftn10 .cleaner} Cf. *Testamento*, 1-3.
+
+[\[11\]](#_ftnref11){#_ftn11 .cleaner} Cap. XXI.

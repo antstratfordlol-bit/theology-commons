@@ -1,0 +1,44 @@
+---
+id: b16-spe-20100311-penitenzieria.es
+work: b16-spe-20100311-penitenzieria
+title: "A los participantes en un Curso sobre el fuero interno organizado por la Penitenciaría Apostólica (11 de marzo de 2010)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2010-03-11
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2010/march/documents/hf_ben-xvi_spe_20100311_penitenzieria.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20100311-penitenzieria} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los participantes en un Curso sobre el fuero interno organizado por la Penitenciaría Apostólica (11 de marzo de 2010) {#b16-spe-20100311-penitenzieria}
+## DISCURSO DEL SANTO PADRE BENEDICTO XVI A LOS PARTICIPANTES EN UN CURSO SOBRE EL FUERO INTERNO ORGANIZADO POR LA PENITENCIARÍA APOSTÓLICA
+
+*Sala Clementina\
+Jueves, 11 de marzo de 2010*
+
+*Queridos amigos:*
+
+Me alegra encontrarme con vosotros y daros mi bienvenida a cada uno, con ocasión del curso anual sobre el fuero interno, organizado por la [Penitenciaría apostólica](http://www.vatican.va/roman_curia/tribunals/apost_penit/index_sp.htm). Saludo cordialmente a monseñor Fortunato Baldelli, que, por primera vez como penitenciario mayor, ha guiado vuestras sesiones de estudio, y le agradezco las palabras que me ha dirigido. Saludo también a monseñor Gianfranco Girotti, regente, al personal de la Penitenciaría y a todos vosotros que, con la participación en esta iniciativa, manifestáis la fuerte exigencia de profundizar una temática esencial para el ministerio y la vida de los presbíteros.
+
+Vuestro curso se realiza, providencialmente, durante el [Año sacerdotal](http://www.vatican.va/special/anno_sac/index_sp.html), que convoqué con ocasión del 150° aniversario del nacimiento al cielo de san Juan María Vianney, quien ejerció de modo heroico y fecundo el ministerio de la Reconciliación. Como afirmé en la [carta de proclamación](https://www.vatican.va/content/benedict-xvi/es/letters/2009/documents/hf_ben-xvi_let_20090616_anno-sacerdotale.html): "Todos los sacerdotes hemos de considerar como dirigidas personalmente a nosotros las palabras que él \[el cura de Ars\] ponía en boca de Jesús: "Encargaré a mis ministros que anuncien a los pecadores que estoy siempre dispuesto a recibirlos, que mi misericordia es infinita". Los sacerdotes no sólo podemos aprender del santo cura de Ars una confianza infinita en el sacramento de la Penitencia, que nos impulse a ponerlo en el centro de nuestras preocupaciones pastorales, sino también el método del "diálogo de la salvación" que en él se debe entablar" (*L'Osservatore Romano,* edición en lengua española, 19 de junio de 2009, p. 7). ¿Dónde hunden sus raíces la heroicidad y la fecundidad con las cuales san Juan María Vianney vivió su ministerio de confesor? Ante todo en una intensa dimensión penitencial personal. La conciencia de su propia limitación y la necesidad de recurrir a la Misericordia divina para pedir perdón, para convertir el corazón y para ser sostenidos en el camino de santidad, son fundamentales en la vida del sacerdote: sólo quien ha experimentado personalmente su grandeza puede ser un anunciador y administrador convencido de la Misericordia de Dios. Todo sacerdote se convierte en ministro de la Penitencia por su configuración ontológica a Cristo, sumo y eterno Sacerdote, que reconcilia a la humanidad con el Padre; sin embargo, la fidelidad al administrar el sacramento de la Reconciliación se confía a la responsabilidad del presbítero.
+
+Vivimos en un contexto cultural marcado por la mentalidad hedonista y relativista, que tiende a eliminar a Dios del horizonte de la vida, no favorece la adquisición de un marco claro de valores de referencia y no ayuda a discernir el bien del mal y a madurar un sentido correcto del pecado. Esta situación hace todavía más urgente el servicio de administradores de la Misericordia divina. No debemos olvidar que existe una especie de círculo vicioso entre el ofuscamiento de la experiencia de Dios y la pérdida del sentido del pecado. Sin embargo, si nos fijamos en el contexto cultural en el que vivió san Juan María Vianney, vemos que, en varios aspectos, no era muy distinto del nuestro. De hecho, también en su tiempo existía una mentalidad hostil a la fe, expresada por fuerzas que incluso querían impedir el ejercicio del ministerio. En esas circunstancias, el santo cura de Ars hizo "de la iglesia su casa", para llevar a los hombres a Dios. Vivió con radicalidad el espíritu de oración, la relación personal e íntima con Cristo, la celebración de la santa misa, la adoración eucarística y la pobreza evangélica; así fue para sus contemporáneos un signo tan evidente de la presencia de Dios, que impulsó a numerosos penitentes a acercarse a su confesionario. En las condiciones de libertad en las que hoy se puede ejercer el ministerio sacerdotal, es necesario que los presbíteros vivan "de modo alto" su respuesta a la vocación, porque sólo quien es cada día presencia viva y clara del Señor puede suscitar en los fieles el sentido del pecado, infundir valentía y despertar el deseo del perdón de Dios.
+
+Queridos hermanos, es preciso volver al confesionario, como lugar en el cual celebrar el sacramento de la Reconciliación, pero también como lugar en el que "habitar" más a menudo, para que el fiel pueda encontrar misericordia, consejo y consuelo, sentirse amado y comprendido por Dios y experimentar la presencia de la Misericordia divina, junto a la presencia real en la Eucaristía. La "crisis" del sacramento de la Penitencia, de la que se habla con frecuencia, interpela ante todo a los sacerdotes y su gran responsabilidad de educar al pueblo de Dios en las exigencias radicales del Evangelio. En particular, les pide que se dediquen generosamente a la escucha de las confesiones sacramentales; que guíen el rebaño con valentía, para que no se acomode a la mentalidad de este mundo (cf. *Rm* 12, 2), sino que también sepa tomar decisiones contracorriente, evitando acomodamientos o componendas. Por esto es importante que el sacerdote viva una tensión ascética permanente, alimentada por la comunión con Dios, y se dedique a una actualización constante en el estudio de la teología moral y de las ciencias humanas.
+
+San Juan María Vianney sabía instaurar un verdadero "diálogo de salvación" con los penitentes, mostrando la belleza y la grandeza de la bondad del Señor y suscitando el deseo de Dios y del cielo que los santos son los primeros en llevar. Afirmaba: "El buen Dios lo sabe todo. Antes incluso de que se lo confeséis, sabe ya que pecaréis nuevamente y sin embargo os perdona. ¡Qué grande es el amor de nuestro Dios que le lleva incluso a olvidar voluntariamente el futuro, con tal de perdonarnos!" (Monnin A., *Il Curato d'Ars. Vita di Gian-Battista-Maria Vianney*, vol. I, Torino 1870, p. 130). El sacerdote tiene la tarea de favorecer la experiencia del "diálogo de salvación", que nace de la certeza de ser amados por Dios y ayuda al hombre a reconocer su pecado y a introducirse, progresivamente, en la dinámica estable de conversión del corazón que lleva a la renuncia radical al mal y a una vida según Dios (cf. *[Catecismo de la Iglesia católica](http://www.vatican.va/archive/catechism_sp/p2s2c2a4_sp.html#IV%20La%20penitencia%20interior)*, n. 1431).
+
+Queridos sacerdotes, ¡qué extraordinario ministerio nos ha confiado el Señor! Como en la celebración eucarística él se pone en manos del sacerdote para seguir estando presente en medio de su pueblo, de forma análoga en el sacramento de la Reconciliación se confía al sacerdote para que los hombres experimenten el abrazo con el que el padre acoge al hijo pródigo, restituyéndole la dignidad filial y la herencia (cf. *Lc* 15, 11-32). Que la Virgen María y el santo cura de Ars nos ayuden a experimentar en nuestra vida la anchura, la longitud, la altura y la profundidad del amor de Dios (cf. *Ef* 3, 18-19), para que seamos administradores fieles y generosos de este amor. Os doy las gracias a todos de corazón y os imparto de buen grado mi bendición.

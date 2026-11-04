@@ -1,0 +1,51 @@
+---
+id: jp2-ang-19970622.en
+work: jp2-ang-19970622
+title: "Angelus, 22 June 1997"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Angelus / Regina Caeli
+url_date: 1997-06-22
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/angelus/1997/documents/hf_jp-ii_ang_19970622.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it, pt"
+anchors: "{#jp2-ang-19970622.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-ang-19970622.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 22 June 1997
+JOHN PAUL II
+
+## ANGELUS
+
+*Sunday, 22 June 1997*
+
+### 1 {#jp2-ang-19970622.1}
+
+“Reconciliation, gift of God and source of new life”. This is the deep and significant theme of the Ecumenical Assembly of European Christians, which will take place in the next few days in Austria’s beautiful and historic city of Graz. To reflect on and pray for reconciliation is all the more timely in a world that is still suffering so many forms of division. As disciples of Christ, we feel particularly committed to this, also in view of the Jubilee of the Year 2000, when we will commemorate the coming of the Word of God among men. This is what all Christians profess in the Nicene-Constantinopolitan Creed: “For us men and for our salvation he came down from heaven; he was born of the Virgin Mary, and became man”.
+
+Reconciliation is a gratuitous gift of God. It is grace, as the Apostle Paul explains to the first Christians of this city of Rome, and through them, to the whole world: “For, if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life” (Rom 5:10). We have been reconciled because we were forgiven, we were forgiven because we were loved. “For God so loved the world that he gave his only Son” (Jn 3:16).
+
+### 2 {#jp2-ang-19970622.2}
+
+Reconciliation with God deeply renews man. Immersed in Christ’s death through Baptism, he rises with him to new life and is called to realize fully in himself the image and likeness of God. In the community relationships are also transformed: reconciliation seeks to extend itself to all our brothers and sisters.
+
+Such a decisive salvation event cannot be contained within a single person or within the narrow circle of a group. Reconciliation must involve everyone: individuals, families, peoples. All the peoples of Europe, from the Atlantic to the Urals, from East to West need it. All humanity needs it.
+
+In this context, the call to reconciliation among Christians is particularly urgent. By the grace of God, the ecumenical movement has already yielded beneficial fruit: it has created a new situation among Christ’s disciples. But there are still unresolved problems and sometimes unexpected upsets occur, new fears arise and unconscious worries creep in. With its programme of meeting, exchange and prayer, the Graz Assembly for Europe is meant to reinforce the dialogue of love, the only one that can really promote the theological dialogue, which still has a very demanding path to follow.
+
+### 3 {#jp2-ang-19970622.3}
+
+I invite everyone present here and those listening to me to join in prayer with the delegates to the European Ecumenical Assembly, convoked in Graz by the Council of European Episcopal Conferences and the Conference of European Churches. For my part, I assure you of a constant remembrance for the success of this important meeting.
+
+May the Lord accompany us on the way to full communion, as he did the pilgrims on the road to Emmaus. May the Mother of God, who prayed with the Apostles in the Upper Room as they waited for the gift of the Spirit, support your journey. It would be a cause of very great joy if, at the dawn of the third millennium, we Christians could proclaim, with greater harmony and unity, that Christ is the one Saviour of the world.

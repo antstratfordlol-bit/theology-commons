@@ -1,0 +1,50 @@
+---
+id: francis-spe-20240826-familiari-vittime-beirut.en
+work: francis-spe-20240826-familiari-vittime-beirut
+title: "To Families of the Victims of the Beirut Port Explosion (Lebanon, 2020) (26 August 2024)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2024-08-26
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2024/august/documents/20240826-familiari-vittime-beirut.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20240826-familiari-vittime-beirut} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To Families of the Victims of the Beirut Port Explosion (Lebanon, 2020) (26 August 2024) {#francis-spe-20240826-familiari-vittime-beirut}
+## GREETING OF HIS HOLINESS POPE FRANCIS TO FAMILIES OF THE VICTIMS OF THE BEIRUT PORT EXPLOSION (LEBANON, 2020)
+
+*Consistory Hall\
+Monday, 26 August 2024*
+
+## \[[Multimedia](https://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2024/8/26/familiari-vittime-beirut.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Dear brothers and sisters*,
+
+It is very moving for me to meet with you, the family members of those who lost their lives in the Beirut port explosion four years ago. I continue to keep you and your loved ones in my prayers, and I join my tears to your own.  Today I thank God that I am able to spend this time with you, and to express personally my closeness to you.
+
+Together with you, I think of all those whose lives were taken by that enormous explosion. Our heavenly Father knows each of them; their faces are before him. I think of the tiny face of little Alexandra. From heaven, they see your struggles and they are praying that they may soon come to an end.
+
+Together with you, I ask for truth and justice, which have not yet arrived. All of us know that the issues are complex and difficult, and that opposing powers and interests make their influence felt. Yet truth and justice must prevail over all else. Four years have now gone by. The Lebanese people, and you above all, have a right to words and actions that manifest responsibility and transparency.
+
+With you, I also feel the pain of witnessing once again the great number of innocent people daily losing their lives because of the war in your region, in Palestine and Israel, for which Lebanon is paying a price. Every war leaves our world worse than it was before. War is always a failure, a failure of politics, a failure of humanity, a shameful capitulation, a stinging defeat before the forces of evil. (Cf. *[Fratelli Tutti](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html#261)*, 261).
+
+With you, I implore from heaven the peace that we find so hard to build on earth. I implore it for Lebanon and for the entire Middle East. Lebanon is, and must remain, a project for peace. Let us not forget that a Pope previously said that “Lebanon is a message, and this message is a project for peace” (cf. SAINT JOHN PAUL II, *Message to all the Bishops of the Catholic Church on the situation in Lebanon*, 7 September 1989). Lebanon’s vocation is to be a land where diverse communities live together in concord, setting the common good above individual advantage, a land where different religions and confessions encounter one another in a spirit of fraternity.
+
+Dear sisters and brothers, I would like each of you to feel my personal affection, but also that of the entire Church. We think and feel that Lebanon is a war-torn country. I know that your Bishops and priests, your men and women religious, are close to you. I thank them from the bottom of my heart for all that they have done and continue to do. You are not alone, and we will never abandon you, but express our solidarity with you through prayer and concrete works of charity.
+
+I thank you, dear friends, for being here today. In you, I see the dignity of faith and the nobility of hope, much like the dignity and nobility of the cedar tree that is the symbol of your country. Cedars invite us to lift our gaze on high, to heaven, to God, who is our hope, a hope that does not disappoint. Our hope never disappoints! May the Virgin Mary from her shrine in Harissa, continue to watch over you and all the Lebanese people. I cordially impart my blessing. I assure you of my prayers, and I ask you, please, to pray for me. Thank you.

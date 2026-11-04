@@ -1,0 +1,47 @@
+---
+id: francis-hom-20190616-visita-camerino.es
+work: francis-hom-20190616-visita-camerino
+title: "Visita del Santo Padre a las zonas afectadas por el terremoto de 2016 en la Diócesis de Camerino-Sanseverino Marche: Celebración de la Santa Misa (Camerino, 16 de junio de 2109)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2019-06-16
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/homilies/2019/documents/papa-francesco_20190616_omelia-visita-camerino.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, it, pt"
+anchors: "{#francis-hom-20190616-visita-camerino} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Visita del Santo Padre a las zonas afectadas por el terremoto de 2016 en la Diócesis de Camerino-Sanseverino Marche: Celebración de la Santa Misa (Camerino, 16 de junio de 2109) {#francis-hom-20190616-visita-camerino}
+[VISITA DEL SANTO PADRE FRANCISCO\
+A LAS ZONAS AFECTADAS POR EL TERREMOTO DE 2016 EN LA DIÓCESIS DE CAMERINO-SANSEVERINO MARCHE](http://w2.vatican.va/content/francesco/es/travels/2019/inside/documents/papa-francesco-camerino-sanseverinomarche_2019.html)
+
+## HOMILÍA DEL SANTO PADRE
+
+*Plaza Cavour, Camerino\
+Domingo, 16 de junio de 2019*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2019/6/16/messa-camerino.html)\]
+
+«¿Qué es el hombre para que de él te acuerdes?» hemos rezado en el Salmo (8, 5). Me han venido a la mente estas palabras pensando en vosotros. Ante lo que habéis visto y sufrido, ante casas derrumbadas y edificios reducidos a escombros, surge esta pregunta: ¿Qué es el hombre? ¿Qué es, si lo que levanta puede colapsar en un instante? ¿Qué es, si su esperanza puede terminar en escombros? ¿Qué es el hombre? La respuesta parece venir de la continuación de la oración: ¿qué es el hombre para que de él te acuerdes? De nosotros, tal y como somos, con nuestras debilidades, Dios se acuerda. En la incertidumbre que sentimos fuera y dentro, el Señor nos da una certeza: nos recuerda. Él re-cuerda, es decir, regresa con su corazón a nosotros, porque se preocupa por nosotros. Y mientras aquí abajo muchas cosas se olvidan rápidamente, Dios no nos deja en el olvido. Nadie es despreciable en sus ojos, cada uno tiene un valor infinito para Él: somos pequeños bajo el cielo e impotentes cuando la tierra tiembla, pero para Dios somos más valiosos que cualquier otra cosa.
+
+*Recuerdo* es una palabra clave para la vida. Pidamos la gracia de recordar cada día que no somos olvidados por Dios, que somos sus hijos amados, únicos e irremplazables: recordarlo nos da la fuerza para no rendirnos ante los reveses de la vida. Recordemos cuánto valemos, frente a la tentación de entristecernos y continuar moviendo ese peor que parece no acabar nunca. Los malos recuerdos llegan, incluso cuando no pensamos en ellos; pero pagan mal: solo dejan melancolía y nostalgia. ¡Pero qué difícil es liberarse de los malos recuerdos! Es válido aquel dicho por el cual era más fácil para Dios sacar a Israel de Egipto que a Egipto del corazón de Israel. Para liberar el corazón del pasado que regresa, de los recuerdos negativos que nos aprisionan, de las añoranzas que lo paralizan, se necesita a alguien que nos ayude a llevar el peso que tenemos dentro. Hoy Jesús nos dice: «no podéis con ello» (cf. *Jn* 16,12). ¿Y qué hace frente a nuestra debilidad? No nos quita las cargas, como nos gustaría a nosotros, que siempre estamos buscando soluciones rápidas y superficiales; no, el Señor nos da al Espíritu Santo. Lo necesitamos porque él es el Consolador, el que no nos deja solos bajo las cargas de la vida. Es Él quien transforma nuestra memoria de esclavos en memoria libre, las heridas del pasado en recuerdos de salvación. Él hace en nosotros lo que hizo por Jesús: sus llagas, esas feas heridas talladas por el mal, se han convertido por el poder del Espíritu Santo en canales de misericordia, heridas luminosas en las que brilla el amor de Dios, un amor que eleva, que resucita. Esto es lo que hace el Espíritu Santo cuando lo invitamos a nuestras heridas. Él unge los malos recuerdos con el bálsamo de la esperanza, porque el Espíritu Santo es el reconstructor de la esperanza.
+
+*Esperanza*. ¿Qué esperanza es esta? No es una esperanza pasajera. Las esperanzas terrenales son fugaces, siempre tienen fecha de caducidad: están hechas de ingredientes terrosos, que tarde o temprano se estropean. La del Espíritu es una esperanza duradera. No caduca, porque se basa en la fidelidad de Dios. La esperanza del Espíritu tampoco es optimismo. Nace más en profundidad, reaviva en el fondo del corazón la certeza de ser preciosos porque somos amados. Infunde la confianza de no estar solos. Es una esperanza que deja dentro paz y alegría, sin importar lo que pase fuera. Es una esperanza que tiene raíces fuertes, que ninguna tormenta de la vida puede arrancar. Es una esperanza, dice San Pablo hoy, que «no falla» (*Rm* 5, 5) —¡la esperanza no defrauda!—, que da la fuerza para superar todas las tribulaciones (cf. vv. 2-3). Cuando estamos atribulados o heridos, y vosotros sabéis bien lo que significa estar atribulados, heridos, somos propensos a «anidar» alrededor de nuestra tristeza y nuestros miedos. El Espíritu, en cambio, nos libera de nuestros nidos, nos hace volar, nos revela el maravilloso destino para el cual nacimos. El Espíritu nos alimenta con esperanza viva. Invitadle. Pidámosle que venga a nosotros y se acercará. ¡Ven, Espíritu Consolador! Ven y danos algo de luz, danos el sentido de esta tragedia, danos la esperanza que no defrauda. ¡Ven, Espíritu Santo!
+
+*Proximidad* es la tercera y última palabra que me gustaría compartir con vosotros. Hoy celebramos la Santísima Trinidad. La Trinidad no es un enigma teológico, sino el espléndido misterio de la cercanía de Dios. La Trinidad nos dice que no tenemos un Dios solitario en el cielo, distante e indiferente; no, él es Padre que nos dio a su Hijo, que se hizo hombre como nosotros, y que, para estar aún más cerca de nosotros, para ayudarnos a llevar las cargas de la vida, nos envía su propio Espíritu. Él, que es Espíritu, entra en nuestro espíritu y así nos consuela desde dentro, nos trae la ternura de Dios. Con Dios, la carga de la vida no permanece sobre nuestros hombros: el Espíritu, a quien nombramos cada vez que hacemos la señal de la cruz, justo cuando nos tocamos los hombros, viene a darnos fuerza, a alentarnos, a soportar los pesos. En efecto, es un especialista en resucitar, levantar, reconstruir. Se necesita más fuerza para reparar que para construir, para recomenzar que para comenzar, para reconciliarse que para llevarse bien. Esta es la fuerza que Dios nos da. Por eso el que se acerca a Dios no se abate, sale adelante: comienza de nuevo, intenta de nuevo, reconstruye. También sufre, pero se las arregla para volver a empezar, para intentarlo de nuevo, para reconstruir.
+
+Queridos hermanos y hermanas, hoy he venido simplemente para estar cerca de vosotros. Estoy aquí para rezar con vosotros a Dios que se acuerda de nosotros, para que nadie se olvide de quién está en problemas. Ruego al Dios de la esperanza, para que lo que es inestable en la tierra no sacuda la certeza que tenemos dentro. Ruego al Dios Cercano, que despierte gestos concretos de proximidad. Han pasado casi tres años y el riesgo es que, después de la primera participación emocional y mediática, la atención disminuya y las promesas caigan en el olvido, aumentando la frustración de los que ven que el territorio se despuebla cada vez más. El Señor, en cambio, empuja a recordar, a reparar, a reconstruir y a hacerlo juntos, sin olvidar nunca a los que sufren.
+
+¿Qué es el hombre para que te acuerdes de él? Dios que se acuerda de nosotros, Dios que sana nuestros recuerdos heridos ungiéndolos con esperanza, Dios que está cerca de nosotros para levantarnos desde dentro, este Dios nos ayuda a ser constructores del bien, consoladores de corazones. Cada uno puede hacer un poco de bien, sin esperar a que otros comiencen. «Empiezo yo, empiezo yo, empiezo yo»: tiene que decirlo cada uno. Cada uno puede consolar a alguien, sin esperar a que se resuelvan sus problemas. Incluso cargando con mi cruz, trato de acercarme para consolar a otros. ¿Qué es el hombre? Es tu gran sueño, Señor, del que siempre te acuerdas. El hombre es tu gran sueño, Señor, del que siempre te acuerdas. No es fácil entenderlo en estas circunstancias, Señor. Los hombres se olvidan de nosotros, no recuerdan esta tragedia. Pero tú, Señor, no te olvidas. El hombre es tu gran sueño Señor, del que siempre te acuerdas. Señor, haz que también nosotros nos acordemos de que estamos en el mundo para dar esperanza y cercanía, porque somos tus hijos, “Dios de toda consolación” (*2 Co* 1, 3).

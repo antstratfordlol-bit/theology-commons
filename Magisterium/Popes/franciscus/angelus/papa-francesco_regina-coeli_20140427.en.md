@@ -1,0 +1,50 @@
+---
+id: francis-ang-20140427.en
+work: francis-ang-20140427
+title: "Regina Caeli, 27 April 2014"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Angelus / Regina Caeli
+url_date: 2014-04-27
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/angelus/2014/documents/papa-francesco_regina-coeli_20140427.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#francis-ang-20140427} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Regina Caeli, 27 April 2014 {#francis-ang-20140427}
+POPE FRANCIS
+
+## REGINA CAELI
+
+*Saint Peter's Square\
+Divine Mercy Sunday, 27 April 2014*
+
+## [Video](http://player.rv.va/vaticanplayer.asp?language=it&tic=VA_6DKB2IIO){target="_blank"}
+
+*Dear Brothers and Sisters*,
+
+Before concluding this celebration of faith, I wish to greet and thank all of you!
+
+I thank my brother cardinals and the many bishops and priests from every part of the world.
+
+My appreciation goes to the official delegations from many countries, who have come to pay tribute to two pontiffs who contributed in an indelible way to the cause of human development and peace. A special thank you goes to the Italian authorities for their precious collaboration.
+
+With great affection, I greet the pilgrims from the dioceses of Bergamo and Krakow! Dear ones, honour the memory of these two holy Popes by following their teachings faithfully.
+
+I am grateful to all those who, with great generosity, prepared these memorable days: the Diocese of Rome with Cardinal Vallini, the City of Rome with its Mayor Ignazio Marino, the law enforcement officers and various organizations, the associations and the numerous volunteers. Thanks to all!
+
+I extend my greetings to all the pilgrims — here in St Peter’s Square, in the adjacent streets and in other places in Rome — as well as to those who are united to us through radio and television; and thank you to the media directors and personnel, who have given many people the possibility to participate. For the sick and the aged, to whom the new saints were particularly close, I add a special greeting.
+
+And now, we turn in prayer to the Virgin Mary, whom [St John XXIII](http://www.vatican.va/holy_father/john_xxiii/index.htm) and [St John Paul II](http://www.vatican.va/holy_father/john_paul_ii/index.htm) loved as her true sons.

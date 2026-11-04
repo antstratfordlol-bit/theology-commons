@@ -1,0 +1,53 @@
+---
+id: jp2-spe-20041129-associazione-giovanni-xxiii.en
+work: jp2-spe-20041129-associazione-giovanni-xxiii
+title: "To the members of the Pope John XXIII Communities' Association (November 29, 2004)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2004-11-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/november/documents/hf_jp-ii_spe_20041129_associazione-giovanni-xxiii.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-spe-20041129-associazione-giovanni-xxiii.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-spe-20041129-associazione-giovanni-xxiii.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the members of the Pope John XXIII Communities' Association (November 29, 2004)
+## ADDRESS OF JOHN PAUL II TO THE MEMBERS OF THE POPE JOHN XXIII COMMUNITIES' ASSOCIATIONS
+
+*Monday, 29 November 2004*
+
+*Your Eminences,\
+Venerable Brothers in the Episcopate and in the Priesthood,\
+Dear Brothers and Sisters,*
+
+### 1 {#jp2-spe-20041129-associazione-giovanni-xxiii.1}
+
+I am delighted to welcome and greet each one of you. You have gathered here on the occasion of this special Audience for the representatives of the numerous members of the Pope John XXIII Communities' Association that has spread far and wide in Italy and in another 20 countries of the world.
+
+I greet your Founder and Director General, dear Fr Oreste Benzi, with special affection and thank him for his words on behalf of you all. I greet his collaborators, the priests, consecrated persons and all the various members of your praiseworthy sodality, which is celebrating its 30th anniversary in these days.
+
+### 2 {#jp2-spe-20041129-associazione-giovanni-xxiii.2}
+
+From the outset, that is, ever since Fr Oreste Benzi opened his first family-house, your Community, which a few months ago acquired recognition as a private international Association of the Faithful of Pontifical Right, has distinguished itself by its special service to the lowliest and a style of true sharing that aspires to give new life and love to those who for various reasons have no family.
+
+It has been constantly encouraged by your Pastors and continues to maintain cordial and harmonious relations with the Dioceses and parishes in which it works. In addition, your activities seek to fulfil a role in the area by cooperating with the public and private social structures as well as by measuring up to the characteristic Christian inspiration that constantly guides and enlivens them.
+
+### 3 {#jp2-spe-20041129-associazione-giovanni-xxiii.3}
+
+You are well aware that charitable activity for our brothers and sisters acquires its full value when it is based on the primacy of God's love. If we are to show genuine love to our brethren, we must find it in God. It is therefore fitting that you spend long periods in prayer, in listening to God's Word and basing the whole of your lives on Christ.
+
+Dear brothers and sisters, continue to care for your spiritual formation and to have frequent recourse to the sacraments. In particular, ensure that the Eucharist is the heart of your family-houses and of all your other social and educational activities. During this year dedicated to the Sacrament of the Altar, revive your contemplative fervour and love for the divine Redeemer, who makes himself in the Eucharist our food for immortal life. Draw from him the spiritual energy to be tireless Gospel workers, witnessing to tenderness among all who live in situations of hardship and neglect.
+
+The Novena of Our Lady of the Immaculate Conception begins precisely today. I entrust you to her, the Virgin Mother of God, so that she may make you sowers of hope, love and peace for ever. With these sentiments, I impart a special Apostolic Blessing to those of you present here, to the entire Association and to all who in any way support your important work.

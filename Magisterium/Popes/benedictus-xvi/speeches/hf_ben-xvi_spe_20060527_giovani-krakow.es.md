@@ -1,0 +1,71 @@
+---
+id: b16-spe-20060527-giovani-krakow.es
+work: b16-spe-20060527-giovani-krakow
+title: "Viaje Apostólico a Polonia: Encuentro con los jóvenes en el parque Błonie de Cracovia (27 de mayo de 2006)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2006-05-27
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2006/may/documents/hf_ben-xvi_spe_20060527_giovani-krakow.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#b16-spe-20060527-giovani-krakow} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje Apostólico a Polonia: Encuentro con los jóvenes en el parque Błonie de Cracovia (27 de mayo de 2006) {#b16-spe-20060527-giovani-krakow}
+[VIAJE APOSTÓLICO\
+DE SU SANTIDAD BENEDICTO XVI\
+A POLONIA](http://www.vatican.va/content/benedict-xvi/es/travels/2006/outside/documents/polonia.html)
+
+## ENCUENTRO CON LOS JÓVENES
+
+## SALUDO DEL SANTO PADRE
+
+*Cracovia-Błonia, sábado 27 de mayo de 2006*
+
+*Queridos jóvenes amigos:*
+
+¡Os doy mi cordial bienvenida! Vuestra presencia me alegra. Doy gracias al Señor por este encuentro con el calor de vuestra cordialidad. Sabemos que "donde están dos o tres reunidos en el nombre de Jesús, él está en medio de ellos" (cf. *Mt* 18, 20). ¡Pero vosotros sois hoy aquí muchos más! Por esto os doy las gracias a cada uno de vosotros. Así pues, Jesús está aquí con nosotros. Está presente entre los jóvenes de la tierra polaca, para hablar con ellos de una casa que no se desplomará jamás, porque está edificada sobre roca. Es la palabra evangélica que acabamos de escuchar (cf. *Mt* 7, 24-27).
+
+Amigos míos, en el corazón de cada hombre existe el deseo de una casa. En un corazón joven existe con mayor razón el gran anhelo de una casa propia, que sea sólida, a la que no sólo se pueda  volver  con alegría, sino también en la que se pueda acoger con alegría a todo huésped que llegue. Es la nostalgia de una casa en la que el pan de cada día sea el amor, el perdón, la necesidad de comprensión, en la que la verdad sea la fuente de la que brota la paz del corazón.
+
+Es la nostalgia de una casa de la que se pueda estar orgulloso, de la que no se deba avergonzar y por cuya destrucción jamás se deba llorar. Esta nostalgia no es más que el deseo de una vida plena, feliz, realizada. No tengáis miedo de este deseo. No lo evitéis. No os desaniméis a la vista de las casas que se han desplomado, de los deseos que no se han realizado, de las nostalgias que se han disipado. Dios Creador, que infunde en un corazón joven el inmenso deseo de felicidad, no lo abandona después en la ardua construcción de la casa que se llama vida.
+
+Amigos míos, se impone una pregunta:  "¿Cómo construir esta casa?". Es una pregunta que seguramente ya os habéis planteado muchas veces en vuestro corazón y que volveréis a plantearos muchas veces. Es una pregunta que es preciso hacerse a sí mismos no solamente una vez. Cada día debe estar ante los ojos del corazón:  ¿cómo construir la casa llamada vida? Jesús, cuyas palabras hemos escuchado en el pasaje del evangelio según san Mateo, nos exhorta a construir sobre roca. En efecto, solamente así la casa no se desplomará.
+
+Pero ¿qué quiere decir construir la casa sobre roca? Construir sobre roca quiere decir ante todo:  construir sobre Cristo y con Cristo. Jesús dice:  "Así pues, todo el que oiga estas palabras mías y las ponga en práctica, será como el hombre prudente que construyó su casa sobre roca" (*Mt* 7, 24). Aquí no se trata de palabras vacías, dichas por una persona cualquiera, sino de las palabras de Jesús. No se trata de escuchar a una persona cualquiera, sino de escuchar a Jesús. No se trata de cumplir cualquier cosa, sino  de cumplir las palabras de Jesús.
+
+Construir sobre Cristo y con Cristo significa construir sobre un fundamento que se llama amor crucificado. Quiere decir construir con Alguien que, conociéndonos mejor que nosotros mismos, nos dice:  "Eres precioso a mis ojos, ... eres estimado, y yo te amo" (*Is* 43, 4). Quiere decir construir con Alguien que siempre es fiel, aunque nosotros fallemos en la fidelidad, porque él no puede negarse a sí mismo (cf. *2 Tm* 2, 13). Quiere decir construir con Alguien que se inclina constantemente sobre el corazón herido del hombre, y dice:  "Yo no te condeno. Vete, y en adelante no peques más" (cf. *Jn* 8, 11). Quiere decir construir con Alguien que desde lo alto de la cruz extiende los brazos para repetir por toda la eternidad:  "Yo doy mi vida por ti, hombre, porque te amo".
+
+Por último, construir sobre Cristo quiere decir fundar sobre su voluntad todos nuestros deseos, expectativas, sueños, ambiciones, y todos nuestros proyectos. Significa decirse a sí mismo, a la propia familia, a los amigos y al mundo entero y, sobre todo, a Cristo:  "Señor, en la vida no quiero hacer nada contra ti, porque tú sabes lo que es mejor para mí. Sólo tú tienes palabras de vida eterna" (cf. *Jn* 6, 68). Amigos míos, no tengáis miedo de apostar por Cristo. Tened nostalgia de Cristo, como fundamento de la vida. Encended en vosotros el deseo de construir vuestra vida con él y por él. Porque no puede perder quien lo apuesta todo por el amor crucificado del Verbo encarnado.
+
+Construir sobre roca significa construir sobre Cristo y con Cristo, que es la roca. En la primera carta a los Corintios san Pablo, hablando del camino del pueblo elegido a través del desierto, explica que todos "bebieron... de la roca espiritual que los acompañaba; y la roca era Cristo" (*1 Co* 10, 4). Ciertamente, los padres del pueblo elegido no sabían que esa roca era Cristo. No eran conscientes de que los acompañaba Aquel que, cuando llegaría la plenitud de los tiempos, se encarnaría, asumiendo un cuerpo humano. No necesitaban comprender que apagaría su sed el Manantial mismo de la vida, capaz de ofrecer el agua viva para saciar la sed de todo corazón. Sin embargo, bebieron de esta roca espiritual que es Cristo, porque sentían nostalgia del agua de la vida, la necesitaban.
+
+Mientras caminamos por las sendas de la vida, a veces quizá no somos conscientes de la presencia de Jesús. Pero precisamente esta presencia viva y fiel, la presencia en la obra de la creación, la presencia en la palabra de Dios y en la Eucaristía, en la comunidad de los creyentes y en todo hombre redimido por la preciosa sangre de Cristo, esta presencia es la fuente inagotable de la fuerza humana. Jesús de Nazaret, Dios que se hizo hombre, está a nuestro lado en los momentos felices y en las adversidades, y desea esta relación, que es en realidad el fundamento de la auténtica humanidad. En el Apocalipsis leemos estas significativas palabras:  "Mira que estoy a la puerta y llamo; si alguno oye mi voz y me abre la puerta, entraré en su casa y cenaré con él y él conmigo" (*Ap* 3, 20).
+
+Amigos míos, ¿qué quiere decir construir sobre roca? Construir sobre roca significa también construir sobre Alguien che fue rechazado. San Pedro habla a sus fieles de Cristo como de una "piedra viva, desechada por los hombres, pero elegida, preciosa ante Dios" (*1 P* 2, 4). El hecho innegable de la elección de Jesús por parte de Dios no esconde el misterio del mal, a causa del cual el hombre es capaz de rechazar a Aquel que lo ha amado hasta el extremo. Este rechazo de Jesús por parte de los hombres, mencionado por san Pedro, se prolonga en la historia de la humanidad y llega también a nuestros días.
+
+No se necesita una gran agudeza para descubrir las múltiples manifestaciones del rechazo de Jesús, incluso donde Dios nos ha concedido crecer. Muchas veces Jesús es ignorado, es escarnecido, es proclamado rey del pasado, pero no del hoy y mucho menos del mañana; es arrumbado en el armario de cuestiones y de personas de las que no se debería hablar en voz alta y en público. Si en la construcción de la casa de vuestra vida os encontráis con los que desprecian el fundamento sobre el que estáis construyendo, no os desaniméis. Una fe fuerte debe superar las pruebas. Una fe viva debe crecer siempre. Nuestra fe en Jesucristo, para seguir siendo tal, debe confrontarse a menudo con la falta de fe de los demás.
+
+Queridos amigos, ¿qué quiere decir construir sobre roca? Construir sobre roca quiere decir ser conscientes de que habrá contrariedades. Cristo dice:  "Cayó la lluvia, vinieron los torrentes, soplaron los vientos, y embistieron contra aquella casa..." (*Mt* 7, 25). Estos fenómenos naturales no sólo son la imagen de las múltiples contrariedades de la condición humana; normalmente también son previsibles. Cristo no promete que sobre una casa en construcción no caerá jamás un aguacero; no promete que una ola violenta no derribará lo que para nosotros es más querido; no promete que vientos impetuosos no arrastrarán lo que hemos construido a veces a costa de enormes sacrificios. Cristo no sólo comprende la aspiración del hombre a una casa duradera, sino que también es plenamente consciente de todo lo que puede arruinar la felicidad del hombre. Por eso, no debéis sorprenderos de que surjan contrariedades, cualesquiera que sean. No os desaniméis a causa de ellas. Un edificio construido sobre roca no queda exento de la acción de las fuerzas de la naturaleza, inscritas en el misterio del hombre. Haber construido sobre roca significa tener la certeza de que en los momentos difíciles existe una fuerza segura en la que se puede confiar.
+
+Amigos míos, permitidme que insista:  ¿qué quiere decir construir sobre roca? Quiere decir construir con sabiduría. Con razón Jesús compara a quienes oyen sus palabras y las ponen en práctica con un hombre sabio que ha construido su casa sobre roca. En efecto, es insensato construir sobre arena cuando se puede hacer sobre roca, teniendo así una casa capaz de resistir a cualquier tormenta. Es insensato construir la casa sobre un terreno que no ofrece garantías de resistir en los momentos más difíciles. Tal vez sea más fácil fundar nuestra vida sobre las arenas movedizas de nuestra visión del mundo, construir nuestro futuro lejos de la palabra de Jesús, y a veces incluso contra ella. Sin embargo, es evidente que quien construye de este modo no es prudente, porque quiere convencerse a sí mismo y a los demás de que en su vida no se desatará ninguna tormenta, de que ninguna ola se estrellará contra su casa. Ser sabio significa tener en cuenta que la solidez de la casa depende de la elección del fundamento. No tengáis miedo de ser sabios; es decir, no tengáis miedo de construir sobre roca.
+
+Amigos míos, una vez más:  ¿qué quiere decir construir sobre roca? Construir sobre roca quiere decir también construir sobre Pedro y con Pedro, pues a él el Señor le dijo:  "Tú eres Pedro, y sobre esta piedra edificaré mi Iglesia, y las puertas del infierno no prevalecerán contra ella" (*Mt* 16, 18). Si Cristo, la Roca, la piedra viva y preciosa, llama a su Apóstol piedra, significa que quiere que Pedro, y con él toda la Iglesia, sean signo visible del único Salvador y Señor.
+
+Ciertamente aquí, en Cracovia, la ciudad predilecta de mi predecesor Juan Pablo II, a nadie sorprenden las palabras acerca de construir con Pedro y sobre Pedro. Por eso os digo:  no tengáis miedo de construir vuestra vida en la Iglesia y con la Iglesia. Sentíos orgullosos del amor a Pedro y a la Iglesia a él encomendada. No os dejéis engañar por quienes quieren contraponer a Cristo y a la Iglesia. Sólo hay una roca sobre la cual vale la pena construir la casa. Esta roca es Cristo. Sólo hay una piedra sobre la cual vale la pena apoyarlo todo. Esta piedra es aquel a quien Cristo dijo:  "Tú eres Pedro, y sobre esta piedra edificaré mi Iglesia" (*Mt* 16, 18). Vosotros, los jóvenes, habéis conocido bien al Pedro de nuestro tiempo. Por eso, no olvidéis que ni aquel Pedro que está observando nuestro encuentro desde la ventana de Dios Padre, ni este Pedro que ahora está delante de vosotros, ni ningún Pedro sucesivo estará nunca contra vosotros, ni contra la construcción de una casa duradera sobre roca. Al contrario, con su corazón y con sus manos os ayudará a construir la vida sobre Cristo y con Cristo.
+
+Queridos amigos, meditando en las palabras de Cristo sobre la roca como fundamento adecuado para la casa, no podemos menos de notar que la última palabra es una palabra de esperanza. Jesús dice que, a pesar de la furia de los elementos, la casa no se desplomó, porque estaba fundada sobre roca. Con estas palabras nos infunde una extraordinaria confianza en la fuerza del fundamento, la fe que no teme ser desmentida porque está confirmada por la muerte y resurrección de Cristo. Esta es la fe que, años después, confesará san Pedro en su carta:  "He aquí que coloco en Sión una piedra angular, elegida, preciosa, y el que crea en ella no será confundido" (*1 P* 2, 6). Ciertamente "no será confundido...".
+
+Queridos jóvenes amigos, el miedo al fracaso a veces puede frenar incluso los sueños más hermosos. Puede paralizar la voluntad e impedir creer que pueda existir una casa construida sobre roca. Puede persuadir de que la nostalgia de la casa es solamente un deseo juvenil y no un proyecto de vida. Como Jesús, decid a este miedo:  "¡No puede caer una casa fundada sobre roca!". Como san Pedro, decid a la tentación de la duda:  "Quien cree en Cristo, no será confundido". Sed testigos de la esperanza, de la esperanza que no teme construir la casa de la propia vida, porque sabe bien que puede apoyarse en el fundamento que le impedirá caer:  Jesucristo, nuestro Señor.

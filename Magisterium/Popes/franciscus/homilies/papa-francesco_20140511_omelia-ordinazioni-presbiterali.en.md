@@ -1,0 +1,58 @@
+---
+id: francis-hom-20140511-ordinazioni-presbiterali.en
+work: francis-hom-20140511-ordinazioni-presbiterali
+title: "Priestly Ordinations in the Vatican Basilica - World Day of Prayer for Vocations (11 May 2014)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2014-05-11
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/homilies/2014/documents/papa-francesco_20140511_omelia-ordinazioni-presbiterali.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-hom-20140511-ordinazioni-presbiterali} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Priestly Ordinations in the Vatican Basilica - World Day of Prayer for Vocations (11 May 2014) {#francis-hom-20140511-ordinazioni-presbiterali}
+[HOLY MASS WITH PRIESTLY ORDINATIONS](http://www.vatican.va/news_services/liturgy/libretti/2014/20140511-libretto-ordinazione-presbiterale.pdf)
+
+## HOMILY OF POPE FRANCIS
+
+*Vatican Basilica\
+Fourth Sunday of Easter, 11 May 2014*
+
+**[Video](http://player.rv.va/vaticanplayer.asp?language=it&tic=VA_OO7O3KRR) [Photo Gallery](http://www.photogallery.va/content/photogallery/en/celebrazioni-liturgiche/ordinazioni-sac20140511.html)**
+
+*Beloved Brothers*,
+
+These our sons and brothers have been called to the dignity of the Priesthood. As you well know, the Lord Jesus is the one and only Great High Priest of the New Testament; but in him, God has made his entire holy people a royal priesthood. Nevertheless, among his disciples, the Lord Jesus wills to choose certain ones to carry out a priestly office publicly in the Church, in his name and on behalf of mankind, in order that they may continue his personal mission as Teacher, Priest and Shepherd.
+
+After mature deliberation, we are about to elevate these, our brothers, to the Order of the Presbyterate, so that in service to Christ the Teacher, Priest and Shepherd, they may cooperate in building up the Body of Christ, which is the Church, into the People of God, a holy temple of the Spirit.
+
+Indeed, in being configured to Christ the eternal High Priest, and joined to the priesthood of their Bishop, they will be consecrated as true priests of the New Testament, to preach the Gospel, to shepherd God’s people, to preside at worship, and especially to celebrate the Lord’s Sacrifice.
+
+For your part, most beloved brothers and sons, who are about to be raised to the Order of the Priesthood, consider that in exercising the ministry of sacred doctrine you will share in the mission of Christ, the one Teacher. Impart to everyone the Word which you have received from your mothers, from your catechists. Diligently read and meditate on the Word of the Lord that you may believe what you read, teach what you have learned in faith, and practice what you teach. May the People of God be nourished by your teaching, which is not your own: you are not masters of doctrine! It is the Lord’s doctrine, and you must be faithful to the doctrine of the Lord!
+
+In this way, may what you teach be nourishment for the People of God. Let the delightful fragrance of your life be a joy and support to Christ’s faithful, so that by word and example you may build up God’s house which is the Church.
+
+Likewise you will continue the sanctifying work of Christ. For by your ministry the spiritual sacrifice of the faithful will be made perfect, being united to the Sacrifice of Christ, which will be offered through your hands on behalf of the whole Church in an unbloody manner on the altar, in the celebration of the sacred mysteries.
+
+Understand, therefore, what you do and imitate what you celebrate so that, participating in the Mystery of the Lord’s death and Resurrection, you may bear the death of Christ in your members and walk with him in newness of life.
+
+Through Baptism you gather new faithful into the People of God; through the Sacrament of Penance you forgive sins in the name of Christ and the Church. And here I want to pause to ask you, for the love of Jesus Christ: never tire of being merciful! Please! Have the ability to forgive that the Lord had, who came not to condemn but to forgive! Be greatly merciful! And if you have scruples about being too “*forgiving*”, think of that holy priest about whom I have told you, who went before the Tabernacle and said: “Lord, pardon me if I have forgiven too much, but it is you who have set me a bad example!”. And I tell you, truly: it grieves me when I come across people who no longer confess because they have been beaten and scolded. They have felt as though the church doors were being closed in their faces! Please, do not do this: mercy, mercy! The Good Shepherd enters through the door, and the doors of mercy are the wounds of the Lord: if you do not enter into your ministry through the Lord’s wounds, you will not be good shepherds.
+
+With Chrism oil you will comfort the sick; in celebrating the sacred rites and raising up the prayer of praise and supplication at various hours of the day, you will become the voice of the People of God and of all humanity.
+
+Remembering that you have been chosen from among men and constituted on their behalf to attend to the things of God, exercise the priestly ministry of Christ with joy and genuine love, with the sole intention of pleasing God and not yourselves.
+
+And consider what St Augustine said regarding pastors who seek to please themselves, who use God’s sheep to feed and clothe themselves, to invest themselves with the majesty of a ministry they knew not whether it was of God. Finally, participating in the mission of Christ, Head and Shepherd, in filial communion with your Bishop, seek to bring the faithful together into one single family, so that you may lead it to God the Father through Christ in the Holy Spirit. Keep always before your eyes the example of the Good Shepherd who came not to be served but to serve, and who came to seek out and save those that were lost.

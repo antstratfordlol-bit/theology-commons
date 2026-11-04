@@ -1,0 +1,57 @@
+---
+id: jp2-mes-20010103-unhcr.en
+work: jp2-mes-20010103-unhcr
+title: "Message to the United Nations High Commissioner for Refugees (January 3, 2001)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Message
+url_date: 2001-01-03
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+also_listed_on_vatican_va_as: "jp2/speeches/hf_jp-ii_spe_20010103_unhcr — the same work cross-filed under another heading or slug; one file is kept, this one"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/2001/documents/hf_jp-ii_mes_20010103_unhcr.html"
+fetch_date: 2026-08-23
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, it, pt"
+anchors: "{#jp2-mes-20010103-unhcr} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-30
+---
+
+# Message to the United Nations High Commissioner for Refugees (January 3, 2001) {#jp2-mes-20010103-unhcr}
+## MESSAGE OF JOHN PAUL II ON THE 50th ANNIVERSARY OF THE OFFICE OF THE UNITED NATIONS HIGH COMMISSIONER FOR REFUGEES
+
+To Mrs Sadako Ogata\
+United Nations High Commissioner for Refugees
+
+I am writing to thank you for your kind letter regarding the celebration of the Fiftieth Anniversary of the Office of the United Nations High Commissioner for Refugees.
+
+On this important occasion I extend my warmest congratulations to yourself, your staff in Geneva, and your co-operators throughout the world, most of them, as you wrote, "in the frontline". For many people forced to flee from war or persecution these dedicated men and women of the UNHCR are often the only source of hope and help.
+
+For many reasons the Holy See feels close to the anniversary event. Over the past fifty years, the Catholic Church and its organizations have often worked with the UNHCR in difficult and even dangerous situations around the world. The Holy See has shared many of UNHCR's joys and sorrows, including the tragic events which have marred this anniversary year.
+
+The anniversary coincides with the Great Jubilee being celebrated by Catholics and other Christians in all parts of the world. The Jubilee's biblical roots recall the "year of the Lord's favour" proclaimed by Jesus when he announced the Good News to the poor by his words and deeds (cf. *Lk* 4:16-30; *Tertio Millennio Adveniente*, 11). Today we must count refugees and other forcibly displaced persons among the poorest members of the human family, and to their service the Church and the UNHCR are both unremittingly committed.
+
+Some years ago I referred to the plight of refugees in the world as "a shameful wound of our times". Since then their number has unfortunately increased and their situation has become more tragic. The dawn of a new millennium calls all responsible men and women to fresh efforts to implement the great humanitarian ideal which is at the heart of the UNHCR's mission: the protection of refugees and the defence and promotion of their dignity. The Holy See fully shares the UNHCR's concerns in this respect, and will continue to do all it can to ensure that refugees and displaced persons are not forgotten in the midst of the profound transformations affecting international life. It will continue to encourage support for those countries that bear the heavy and often prolonged burden of sheltering displaced populations.
+
+This Fiftieth Anniversary year is also a moment of transition for yourself, Madam High Commissioner, as you hand over the administration of the UNHCR to your successor. Your presence and activity have left an indelible mark on the past decade of the history of the UNHCR, one of its most difficult periods so far. Your contacts with various agencies of the Holy See and with myself personally have been much appreciated, and have shown how close the cause of refugees is to your heart. A sign of the importance you have attributed to our cooperation is the appointment of a IINHCR Delegate to the Holy See during your mandate.
+
+You have carried out your demanding task with discretion and sensitivity to the political, philosophical and religious convictions of the many people and States with which you have dealt. At the same time, your dedicated personal commitment to the great humanitarian concerns of the UNHCR has been inseparable from your witness to the fact that promoting the good of the human person and society is intimately linked to living out our faith in Jesus Christ.
+
+As you celebrate this Fiftieth Anniversary, please be assured of the Holy See's lasting commitment to upholding the dignity and rights of refugees, and to contributing to the search for just solutions to the challenge posed by the forced migrants of the world. Upon you and all those who dedicate themselves to the noble mission of the UNHCR I cordially invoke an abundance of divine blessings.
+
+*From the Vatican, 22 November 2000*
+
+## IOANNES PAULUS II
+
+\**Insegnamenti di Giovanni Paolo II*, vol. XXIII, 2 p. 942-944.
+
+*L'Osservatore Romano* 4.1.2001 p.10.
+
+*L'Osservatore Romano. Weekly Edition in English* 2001 n.3 p.5.

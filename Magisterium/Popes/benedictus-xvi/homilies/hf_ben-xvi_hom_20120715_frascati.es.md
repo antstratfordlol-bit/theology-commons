@@ -1,0 +1,50 @@
+---
+id: b16-hom-20120715-frascati.es
+work: b16-hom-20120715-frascati
+title: "15 de julio de 2012: Visita pastoral a Frascati"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Homily
+url_date: 2012-07-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/homilies/2012/documents/hf_ben-xvi_hom_20120715_frascati.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-hom-20120715-frascati} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 15 de julio de 2012: Visita pastoral a Frascati {#b16-hom-20120715-frascati}
+VISITA PASTORAL A FRASCATI
+
+## SANTA MISA
+
+## HOMILÍA DEL SANTO PADRE BENEDICTO XVI
+
+*Plaza de San Pedro, Frascati\
+Domingo 15 de julio de 2012*
+
+*Queridos hermanos y hermanas:*
+
+Estoy muy contento de hallarme entre vosotros hoy para celebrar esta Eucaristía y para compartir gozos y esperanzas, fatigas y empeños, ideales y aspiraciones de esta comunidad diocesana. Saludo al señor cardenal Tarcisio Bertone, mi secretario de Estado y titular de esta diócesis. Saludo a vuestro pastor, monseñor Raffaello Martinelli, y al alcalde de Frascati, agradeciéndoles las corteses palabras de bienvenida con las que me han acogido en nombre de todos vosotros. Me alegra saludar al señor ministro, a los presidentes de la Región y de la Provincia, al alcalde de Roma, a los demás alcaldes presentes y a todas las distinguidas autoridades. Y estoy muy feliz por celebrar hoy con vuestro obispo esta misa. Como él ha dicho, durante más de veinte años fue para mí un fidelísimo y muy capaz colaborador en la Congregación para la doctrina de la fe, donde trabajó sobre todo en el sector del catecismo y de la catequesis; con gran silencio y discreción contribuyó al Catecismo de la Iglesia Católica y al Compendio del Catecismo. En esta gran sinfonía de la fe también su voz está muy presente.
+
+En el Evangelio de este domingo, Jesús toma la iniciativa de enviar a los doce apóstoles en misión (cf. *Mc* 6, 7-13). En efecto, el término «apóstoles» significa precisamente «enviados, mandados». Su vocación se realizará plenamente después de la resurrección de Cristo, con el don del Espíritu Santo en Pentecostés. Sin embargo, es muy importante que desde el principio Jesús quiere involucrar a los Doce en su acción: es una especie de «aprendizaje» en vista de la gran responsabilidad que les espera. El hecho de que Jesús llame a algunos discípulos a colaborar directamente en su misión, manifiesta un aspecto de su amor: esto es, Él no desdeña la ayuda que otros hombres pueden dar a su obra; conoce sus límites, sus debilidades, pero no los desprecia; es más, les confiere la dignidad de ser sus enviados. Jesús los manda de dos en dos y les da instrucciones, que el evangelista resume en pocas frases. La primera se refiere al espíritu de desprendimiento: los apóstoles no deben estar apegados al dinero ni a la comodidad. Jesús además advierte a los discípulos de que no recibirán siempre una acogida favorable: a veces serán rechazados; incluso puede que hasta sean perseguidos. Pero esto no les tiene que impresionar: deben hablar en nombre de Jesús y predicar el Reino de Dios, sin preocuparse de tener éxito. El éxito se lo dejan a Dios.
+
+La primera lectura proclamada nos presenta la misma perspectiva, mostrándonos que los enviados de Dios a menudo no son bien recibidos. Este es el caso del profeta Amós, enviado por Dios a profetizar en el santuario de Betel, un santuario del reino de Israel (cf. *Am* 7, 12-15). Amós predica con gran energía contra las injusticias, denunciando sobre todo los abusos del rey y de los notables, abusos que ofenden al Señor y hacen vanos los actos de culto. Por ello Amasías, sacerdote de Betel, ordena a Amós que se marche. Él responde que no ha sido él quien ha elegido esta misión, sino que el Señor ha hecho de él un profeta y le ha enviado precisamente allí, al reino de Israel. Por lo tanto, ya se le acepte o rechace, seguirá profetizando, predicando lo que Dios dice y no lo que los hombres quieren oír decir. Y esto sigue siendo el mandato de la Iglesia: no predica lo que quieren oír decir los poderosos. Y su criterio es la verdad y la justicia aunque esté contra los aplausos y contra el poder humano.
+
+Igualmente, en el Evangelio Jesús advierte a los Doce que podrá ocurrir que en alguna localidad sean rechazados. En tal caso deberán irse a otro lugar, tras haber realizado ante la gente el gesto de sacudir el polvo de los pies, signo que expresa el desprendimiento en dos sentidos: desprendimiento moral —como decir: el anuncio os ha sido hecho, vosotros sois quienes lo rechazáis— y desprendimiento material —no hemos querido y nada queremos para nosotros (cf. *Mc* 6, 11). La otra indicación muy importante del pasaje evangélico es que los Doce no pueden conformarse con predicar la conversión: a la predicación se debe acompañar, según las instrucciones y el ejemplo de Jesús, la curación de los enfermos; curación corporal y espiritual. Habla de las sanaciones concretas de las enfermedades, habla también de expulsar los demonios, o sea, purificar la mente humana, limpiar, limpiar los ojos del alma que están oscurecidos por las ideologías y por ello no pueden ver a Dios, no pueden ver la verdad y la justicia. Esta doble curación corporal y espiritual es siempre el mandato de los discípulos de Cristo. Por lo tanto la misión apostólica debe siempre comprender los dos aspectos de predicación de la Palabra de Dios y de manifestación de su bondad con gestos de caridad, de servicio y de entrega.
+
+Queridos hermanos y hermanas: doy gracias a Dios que me ha enviado hoy a re-anunciaros esta Palabra de salvación. Una Palabra que está en la base de la vida y de la acción de la Iglesia, también de esta Iglesia que está en Frascati. Vuestro obispo me ha informado del empeño pastoral que más le importa, que en esencia es un empeño formativo, dirigido ante todo a los formadores: formar a los formadores. Es precisamente lo que hizo Jesús con sus discípulos: les instruyó, les preparó, les formó también mediante el «aprendizaje» misionero, para que fueran capaces de asumir la responsabilidad apostólica en la Iglesia. En la comunidad cristiana éste es siempre el primer servicio que ofrecen los responsables: a partir de los padres, que en la familia cumplen la misión educativa con los hijos; pensemos en los párrocos, que son responsables de la formación en la comunidad; en todos los sacerdotes, en los distintos ámbitos de trabajo: todos viven una dimensión educativa prioritaria; y los fieles laicos, además del ya recordado papel de padres, están involucrados en el servicio formativo con los jóvenes o los adultos, como responsables en Acción Católica y en otros movimientos eclesiales, o comprometidos en ambientes civiles y sociales, siempre con una fuerte atención en la formación de las personas. El Señor llama a todos, distribuyendo diversos dones para diversas tareas en la Iglesia. Llama al sacerdocio y a la vida consagrada, y llama al matrimonio y al compromiso como laicos en la Iglesia misma y en la sociedad. Importante es que la riqueza de los dones encuentre plena acogida, especialmente por parte de los jóvenes; que se sienta la alegría de responder a Dios con uno mismo por entero, donando esa alegría en el camino del sacerdocio y de la vida consagrada o en el camino del matrimonio, dos caminos complementarios que se iluminan entre sí, se enriquecen recíprocamente y juntos enriquecen a la comunidad. La virginidad por el Reino de Dios y el matrimonio son en ambos casos vocaciones, llamadas de Dios a las que responder con y para toda la vida. Dios llama: es necesario escuchar, acoger, responder. Como María: «Heme aquí, que se cumpla en mí según tu palabra» (cf. *Lc* 1, 38).
+
+Aquí también, en la comunidad diocesana de Frascati, el Señor siembra con largueza sus dones, llama a seguirle y a extender en el hoy su misión. También aquí hay necesidad de una nueva evangelización, y por ello os propongo que viváis intensamente el Año de la fe que empezará en octubre, a los 50 años de la apertura del concilio Vaticano II. Los documentos del Concilio contienen una riqueza enorme para la formación de las nuevas generaciones cristianas, para la formación de nuestra conciencia. Así que leedlos, leed el Catecismo de la Iglesia católica y así redescubrid la belleza de ser cristianos, de ser Iglesia, de vivir el gran «nosotros» que Jesús ha formado en torno a sí, para evangelizar el mundo: el «nosotros» de la Iglesia, jamás cerrado, sino siempre abierto y orientado al anuncio del Evangelio.
+
+Queridos hermanos y hermanas de Frascati: estad unidos entre vosotros y al mismo tiempo abiertos, misioneros. Permaneced firmes en la fe, arraigados en Cristo mediante la Palabra y la Eucaristía; sed gente que ora para estar siempre unidos a Cristo, como sarmientos a la vid, y al mismo tiempo id, llevad su mensaje a todos, especialmente a los pequeños, a los pobres, a los que sufren. En cada comunidad quereos entre vosotros; no estéis divididos, sino vivid como hermanos, para que el mundo crea que Jesús está vivo en su Iglesia y el Reino de Dios está cerca. Los patronos de la diócesis de Frascati son dos apóstoles: Felipe y Santiago, dos de los Doce. A su intercesión encomiendo el camino de vuestra comunidad, para que se renueve en la fe y dé de ella claro testimonio con las obras de la caridad. Amén.

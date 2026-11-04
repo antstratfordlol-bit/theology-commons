@@ -1,0 +1,61 @@
+---
+id: francis-mes-20150123-comunicazioni-sociali.es
+work: francis-mes-20150123-comunicazioni-sociali
+title: "XLIX Jornada Mundial de las Comunicaciones Sociales, 2015 - Comunicar la familia: ambiente privilegiado del encuentro en la gratuidad del amor"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Message
+url_date: 2015-01-23
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/messages/communications/documents/papa-francesco_20150123_messaggio-comunicazioni-sociali.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pl, pt"
+anchors: "{#francis-mes-20150123-comunicazioni-sociali} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# XLIX Jornada Mundial de las Comunicaciones Sociales, 2015 - Comunicar la familia: ambiente privilegiado del encuentro en la gratuidad del amor {#francis-mes-20150123-comunicazioni-sociali}
+## MENSAJE DEL SANTO PADRE FRANCISCO PARA LA XLIX JORNADA MUNDIAL DE LAS COMUNICACIONES SOCIALES
+
+## Comunicar la familia: ambiente privilegiado del encuentro en la gratuidad del amor
+
+El tema de la familia está en el centro de una profunda reflexión eclesial y de un proceso sinodal que prevé dos sínodos, uno extraordinario –apenas celebrado– y otro ordinario, convocado para el próximo mes de octubre. En este contexto, he considerado oportuno que el tema de la próxima Jornada Mundial de las Comunicaciones Sociales tuviera como punto de referencia la familia. En efecto, *la familia es el primer lugar donde aprendemos a comunicar*. Volver a este momento originario nos puede ayudar, tanto a comunicar de modo más auténtico y humano, como a observar la familia desde un nuevo punto de vista.
+
+Podemos dejarnos inspirar por el episodio evangélico de la visita de María a Isabel (cf. *Lc* 1,39-56). «En cuanto Isabel oyó el saludo de María, la criatura saltó en su vientre, e Isabel, llena del Espíritu Santo, exclamó a voz en grito: “¡Bendita tú entre las mujeres y bendito el fruto de tu vientre!”» (vv. 41-42).
+
+Este episodio nos muestra ante todo la comunicación como *un diálogo que se entrelaza con el lenguaje del cuerpo*. En efecto, la primera respuesta al saludo de María la da el niño saltando gozosamente en el vientre de Isabel. Exultar por la alegría del encuentro es, en cierto sentido, el arquetipo y el símbolo de cualquier otra comunicación que aprendemos incluso antes de venir al mundo. El seno materno que nos acoge es la primera «escuela» de comunicación, hecha de escucha y de contacto corpóreo, donde comenzamos a familiarizarnos con el mundo externo en un ambiente protegido y con el sonido tranquilizador del palpitar del corazón de la mamá. Este encuentro entre dos seres a la vez tan íntimos, aunque todavía tan extraños uno de otro, es un encuentro lleno de promesas, es nuestra primera experiencia de comunicación. Y es una experiencia que nos acomuna a todos, porque todos nosotros hemos nacido de una madre.
+
+Después de llegar al mundo, permanecemos en un «seno», que es la familia. *Un seno hecho de personas diversas en relación*; la familia es el «lugar donde se aprende a convivir en la diferencia» (Exort. ap. *[Evangelii gaudium](http://w2.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 66): diferencias de géneros y de generaciones, que comunican antes que nada porque se acogen mutuamente, porque entre ellos existe un vínculo. Y cuanto más amplio es el abanico de estas relaciones y más diversas son las edades, más rico es nuestro ambiente de vida. Es el *vínculo* el que fundamenta la *palabra*, que a su vez fortalece el vínculo. Nosotros no inventamos las palabras: las podemos usar porque las hemos recibido. En la familia se aprende a hablar la *lengua materna*, es decir, la lengua de nuestros antepasados (cf. *2 M* 7,25.27). En la familia se percibe que otros nos han precedido, y nos han puesto en condiciones de existir y de poder, también nosotros, generar vida y hacer algo bueno y hermoso. Podemos dar porque hemos recibido, y este círculo virtuoso está en el corazón de la capacidad de la familia de comunicarse y de comunicar; y, más en general, es el paradigma de toda comunicación.
+
+La experiencia del vínculo que nos «precede» hace que la familia sea también el contexto en el que se transmite esa *forma fundamental de comunicación* que es la *oración*. Cuando la mamá y el papá acuestan para dormir a sus niños recién nacidos, a menudo los confían a Dios para que vele por ellos; y cuando los niños son un poco más mayores, recitan junto a ellos oraciones simples, recordando con afecto a otras personas: a los abuelos y otros familiares, a los enfermos y los que sufren, a todos aquellos que más necesitan de la ayuda de Dios. Así, la mayor parte de nosotros ha aprendido en la familia la *dimensión religiosa de la comunicación*, que en el cristianismo está impregnada de amor, el amor de Dios que se nos da y que nosotros ofrecemos a los demás.
+
+Lo que nos hace entender en la familia lo que es verdaderamente la comunicación como *descubrimiento y construcción de proximidad* es la capacidad de abrazarse, sostenerse, acompañarse, descifrar las miradas y los silencios, reír y llorar juntos, entre personas que no se han elegido y que, sin embargo, son tan importantes las unas para las otras. Reducir las distancias, saliendo los unos al encuentro de los otros y acogiéndose, es motivo de gratitud y alegría: del saludo de María y del salto del niño brota la bendición de Isabel, a la que sigue el bellísimo canto del *Magnificat*, en el que María alaba el plan de amor de Dios sobre ella y su pueblo. De un «sí» pronunciado con fe, surgen consecuencias que van mucho más allá de nosotros mismos y se expanden por el mundo. «Visitar» comporta abrir las puertas, no encerrarse en uno mismo, salir, ir hacia el otro. También la familia está viva si respira abriéndose más allá de sí misma, y las familias que hacen esto pueden comunicar su mensaje de vida y de comunión, pueden dar consuelo y esperanza a las familias más heridas, y hacer crecer la Iglesia misma, que es familia de familias.
+
+La familia es, más que ningún otro, el lugar en el que, viviendo juntos la cotidianidad, se experimentan los *límites* propios y ajenos, los pequeños y grandes problemas de la convivencia, del ponerse de acuerdo. No existe la familia perfecta, pero no hay que tener miedo a la imperfección, a la fragilidad, ni siquiera a los conflictos; hay que aprender a afrontarlos de manera constructiva. Por eso, la familia en la que, con los propios límites y pecados, todos se quieren, se convierte en una *escuela de perdón*. El perdón es una *dinámica de comunicación*: una comunicación que se desgasta, se rompe y que, mediante el arrepentimiento expresado y acogido, se puede reanudar y acrecentar. Un niño que aprende en la familia a escuchar a los demás, a hablar de modo respetuoso, expresando su propio punto de vista sin negar el de los demás, será un constructor de diálogo y reconciliación en la sociedad.
+
+A propósito de límites y comunicación, tienen mucho que enseñarnos *las familias con hijos afectados por una o más discapacidades*. El déficit en el movimiento, los sentidos o el intelecto supone siempre una tentación de encerrarse; pero puede convertirse, gracias al amor de los padres, de los hermanos y de otras personas amigas, en un *estímulo para abrirse, compartir, comunicar de modo inclusivo*; y puede ayudar a la escuela, la parroquia, las asociaciones, a que sean más acogedoras con todos, a que no excluyan a nadie.
+
+Además, en un mundo donde tan a menudo se maldice, se habla mal, se siembra cizaña, se contamina nuestro ambiente humano con las habladurías, la familia puede ser una escuela de *comunicación como bendición*. Y esto también allí donde parece que prevalece inevitablemente el odio y la violencia, cuando las familias están separadas entre ellas por muros de piedra o por los muros no menos impenetrables del prejuicio y del resentimiento, cuando parece que hay buenas razones para decir «ahora basta»; el único modo para romper la espiral del mal, para testimoniar que el bien es siempre posible, para educar a los hijos en la fraternidad, es en realidad bendecir en lugar de maldecir, visitar en vez de rechazar, acoger en lugar de combatir.
+
+Hoy, los *medios de comunicación más modernos*, que son irrenunciables sobre todo para los más jóvenes, *pueden tanto obstaculizar como ayudar* a la comunicación en la familia y entre familias. La pueden *obstaculizar* si se convierten en un modo de sustraerse a la escucha, de aislarse de la presencia de los otros, de saturar cualquier momento de silencio y de espera, olvidando que «el silencio es parte integrante de la comunicación y sin él no existen palabras con densidad de contenido» (Benedicto XVI, *[Mensaje para la XLVI Jornada Mundial de las Comunicaciones Sociales](http://www.vatican.va/holy_father/benedict_xvi/messages/communications/documents/hf_ben-xvi_mes_20120124_46th-world-communications-day_sp.html)*, 24 enero 2012). La pueden *favorecer* si ayudan a contar y compartir, a permanecer en contacto con quienes están lejos, a agradecer y a pedir perdón, a hacer posible una y otra vez el encuentro. Redescubriendo cotidianamente este centro vital que es el encuentro, este «inicio vivo», sabremos orientar nuestra relación con las tecnologías, en lugar de ser guiados por ellas. También en este campo, los padres son los primeros educadores. Pero no hay que dejarlos solos; la comunidad cristiana está llamada a ayudarles para vivir en el mundo de la comunicación según los criterios de la dignidad de la persona humana y del bien común.
+
+El desafío que hoy se nos propone es, por tanto, *volver a aprender a narrar*, no simplemente a producir y consumir información. Esta es la dirección hacia la que nos empujan los potentes y valiosos medios de la comunicación contemporánea. La información es importante pero no basta, porque a menudo simplifica, contrapone las diferencias y las visiones distintas, invitando a ponerse de una u otra parte, en lugar de favorecer una visión de conjunto.
+
+La familia, en conclusión, no es un campo en el que se comunican opiniones, o un terreno en el que se combaten batallas ideológicas, sino *un ambiente en el que se aprende a comunicar* en la proximidad y un sujeto que comunica, una «*comunidad comunicante*». Una comunidad que sabe acompañar, festejar y fructificar. En este sentido, es posible restablecer una mirada capaz de reconocer que la familia sigue siendo un gran recurso, y no sólo un problema o una institución en crisis. Los medios de comunicación tienden en ocasiones a presentar la familia como si fuera un modelo abstracto que hay que defender o atacar, en lugar de una realidad concreta que se ha de vivir; o como si fuera una ideología de uno contra la de algún otro, en lugar del espacio donde todos aprendemos lo que significa comunicar en el amor recibido y entregado. Narrar significa más bien comprender que nuestras vidas están entrelazadas en una trama unitaria, que las voces son múltiples y que cada una es insustituible.
+
+La familia más hermosa, protagonista y no problema, es la que sabe comunicar, partiendo del testimonio, la belleza y la riqueza de la relación entre hombre y mujer, y entre padres e hijos. No luchamos para defender el pasado, sino que trabajamos con paciencia y confianza, en todos los ambientes en que vivimos cotidianamente, para construir el futuro.
+
+*Vaticano, 23 de enero de 2015*
+
+*Vigilia de la fiesta de San Francisco de Sales.*
+
+## Francisco

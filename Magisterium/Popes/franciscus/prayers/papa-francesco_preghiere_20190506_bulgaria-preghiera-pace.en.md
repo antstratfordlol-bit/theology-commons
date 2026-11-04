@@ -1,0 +1,54 @@
+---
+id: francis-pra-20190506-bulgaria-preghiera-pace.en
+work: francis-pra-20190506-bulgaria-preghiera-pace
+title: "Apostolic Journey to Bulgaria: Prayer for Peace presided at by the Holy Father in the presence of Leaders of the various Religious Confessions in Bulgaria in Nezavisimost Square in Sofia (6 May 2019)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Prayer
+url_date: 2019-05-06
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/prayers/documents/papa-francesco_preghiere_20190506_bulgaria-preghiera-pace.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#francis-pra-20190506-bulgaria-preghiera-pace} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Apostolic Journey to Bulgaria: Prayer for Peace presided at by the Holy Father in the presence of Leaders of the various Religious Confessions in Bulgaria in Nezavisimost Square in Sofia (6 May 2019) {#francis-pra-20190506-bulgaria-preghiera-pace}
+[APOSTOLIC JOURNEY OF HIS HOLINESS POPE FRANCIS\
+TO BULGARIA AND NORTH MACEDONIA](http://w2.vatican.va/content/francesco/en/travels/2019/outside/documents/papa-francesco-bulgaria-macedoniadelnord-2019.html)\
+\[5-7 MAY 2019\]
+
+## PRAYER FOR PEACE PRESIDED AT BY THE HOLY FATHER IN THE PRESENCE OF LEADERS OF THE VARIOUS RELIGIOUS CONFESSIONS IN BULGARIA
+
+## PRAYER OF THE HOLY FATHER
+
+*Nezavisimost Square in Sofia\
+Monday, 6 May 2019*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2019/5/6/preghiera-bulgaria.html)**\]
+
+## Following the Prayer for Peace
+
+*Dear Brothers and Sisters*,
+
+We have prayed for peace in words inspired by Saint Francis of Assisi, who was so greatly in love with God the Creator and Father of all. A love that he showed with similar passion and deep respect for the beauty of creation and for all those whom he encountered on his pilgrim way. A love that changed his way of seeing things and helped him to realize that in everyone there is “a flicker of light born of our personal certainty that, when everything is said and done, we are infinitely loved” (*[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#I.%E2%80%82A_joy_ever_new,_a_joy_which_is_shared)*, 6).
+
+That love also led Saint Francis to become a true peacemaker. Each of us is called to follow in his footsteps by becoming a peacemaker, an “artisan” of peace. Peace is both a gift and a task; it must be implored and worked for, received as a blessing and constantly sought as we strive daily to build a culture in which peace is respected as a fundamental right. An active peace, “fortified” against all those forms of selfishness and indifference that make us put the petty interests of a few before the inviolable dignity of each person.
+
+Peace requires and demands that we adopt dialogue as our path, mutual understanding as our code of conduct, and reciprocal understanding as our method and standard (cf. [*Document on Human Fraternity*, Abu Dhabi, 4 February 2019](http://w2.vatican.va/content/francesco/en/travels/2019/outside/documents/papa-francesco_20190204_documento-fratellanza-umana.html)). In this way, we can focus on what unites us, show mutual respect for our differences, and encourage one another to look to a future of opportunity and dignity, especially for future generations.
+
+This evening, we have gathered to pray before these lamps brought by our children. They symbolize the fire of love that burns within us and that is meant to become a beacon of mercy, love and peace wherever we find ourselves. A beacon that can cast light upon our entire world. With the fire of love, we can melt the icy chill of war and conflict. Our celebration of peace takes place on the ruins of ancient Serdika, here in Sofia, the heart of Bulgaria. From here, we can see the places of worship of the different Churches and religious Confessions: Saint Nedelya of our Orthodox brothers and sisters, Saint Joseph of us Catholics, the synagogue of our older brothers, the Jews, the mosque of our Muslim brothers and sisters and, closer to us, the Armenian church.
+
+For many centuries, the Bulgarians of Sofia belonging to different cultural and religious groups gathered in this place for meetings and discussions. May this symbolic place become a witness to peace. Tonight our voices blend in expressing our ardent desire for peace. Let there be peace on earth: in our families, in our hearts, and above all in those places where so many voices have been silenced by war, stifled by indifference and ignored due to the powerful complicity of interest groups. May all work together to make this dream come true: religious, political and cultural leaders. May each of us, wherever we may be, in all that we do, be able to say: “Lord, make me an instrument of your peace”.
+
+It is a plea that the dream of [Pope Saint John XXIII](http://w2.vatican.va/content/john-xxiii/en.html) will come true: the dream of an earth where peace is always at home. Let us share in that aspiration and, by the witness of lives, let us say: *Pacem in terris*! Let there be peace on earth to all those whom the Lord loves.

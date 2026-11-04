@@ -1,0 +1,44 @@
+---
+id: b16-spe-20090211-malati.en
+work: b16-spe-20090211-malati
+title: "Meeting with the sick people on the liturgical memory of the Blessed Virgin Mary of Lourdes on the occasion of the 17th World Day of the Sick (February 11, 2009)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2009-02-11
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/february/documents/hf_ben-xvi_spe_20090211_malati.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20090211-malati} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Meeting with the sick people on the liturgical memory of the Blessed Virgin Mary of Lourdes on the occasion of the 17th World Day of the Sick (February 11, 2009) {#b16-spe-20090211-malati}
+## ADDRESS OF HIS HOLINESS BENEDICT XVI AT THE END OF THE EUCHARISTIC CELEBRATION FOR THE SICK AND THEIR CAREGIVERS
+
+*Memorial of Our Lady of Lourdes\
+Wednesday, 11 February 2009*
+
+*Dear Sick People,\
+Dear Brothers and Sisters,*
+
+Our meeting has a special value and significance: it is taking place on the occasion of the World Day of the Sick which occurs today, the Memorial of Our Lady of Lourdes. My thoughts turn to that Shrine which I too visited on the occasion of the 150th anniversary of the Apparitions to St Bernadette. And I have kept a vivid memory of that [pilgrimage](https://www.vatican.va/content/benedict-xvi/en/travels/2008/index_francia.html) which was focused in particular on the contact I had with the sick gathered at the Grotto of Massabielle. I have come very gladly to greet you at the end of the Eucharistic celebration at which Cardinal Javier Lozano Barragán, President of the Pontifical Council for Health Pastoral Care, has presided. I address a cordial thought to him. Together with him I greet the Prelates present and the priests, men and women religious, volunteers, pilgrims and especially the beloved sick people and those who care for them daily. It is always moving to relive in this circumstance, here, in St Peter's Basilica, that typical atmosphere of prayer and Marian spirituality which characterizes the Shrine of Lourdes. Thank you, therefore, for this expression of your faith and love for Mary; I thank all those who have sponsored and organized this event, especially UNITALSI \[the Italian National Union for Transporting the Sick to Lourdes and International Shrines\] and the *Opera Romana Pellegrinaggi* \[Roman Society for Pilgrimages\].
+
+This Day invites us to feel with greater intensity the spiritual closeness to the Church's sick which, as I wrote in the Encyclical *[Deus caritas est](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html),* is the family of God in the world within which no one must go without the necessities of life (cf. n. 25b). At the same time, today we are given the opportunity to reflect on the experience of illness, suffering, and more generally, on the meaning of life to be lived to the full even in suffering. In the [Message for today's event](https://www.vatican.va/content/benedict-xvi/en/messages/sick/documents/hf_ben-xvi_mes_20090202_world-day-of-the-sick-2009.html), I wished to focus attention on sick children who are the weakest and most defenceless of creatures. It is true! If we are left speechless before an adult who is suffering, what can we say when illness affects an innocent child?
+
+How is it possible to perceive the merciful love of God, who never abandons his children in trial, even in these difficult situations? Such questions are frequent and at times disturbing. Truly, they find no adequate answers on the merely human level since the meaning of pain, illness and death remains incomprehensible to the human mind. However, the light of faith comes to our aid. The Word of God reveals to us that even these ills are mysteriously "embraced" by the divine plan of salvation; faith helps us to consider human life beautiful and worthy of living to the full, even when it is undermined by evil. God created the human being for happiness and for life, while illness and death entered the world as a consequence of sin. However, the Lord has not left us to ourselves. He, the Father of life, is the physician of man par excellence who ever lovingly bends over suffering humanity. The Gospel shows Jesus who "cast out the spirits... and healed all who were sick" (Mt 8: 16), pointing out the way of conversion and faith as conditions for obtaining healing of body and mind. With his passion and his death he took our weakness upon himself and totally transformed it. This is why according to what the Servant of God John Paul ii wrote in his Apostolic Letter *[Salvifici doloris](https://www.vatican.va/content/john-paul-ii/en/apost_letters/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html) "To suffer* means to become particularly *susceptible,* particularly *open to the working of the salvific powers of God,* offered to humanity in Christ" (n. 23).
+
+Dear brothers and sisters, we are increasingly realizing that human life is not a disposable good but a precious coffer to be preserved and looked after with every possible attention, from the moment of its origin to its ultimate natural end. Life is a mystery that in itself demands responsibility, love, patience and charity, on the part of each and every one. It is especially necessary to surround those who are sick and suffering with care and respect. This is not always easy; yet we know where to find the courage and patience to face the vicissitudes of earthly existence, and in particular sickness and every kind of suffering. For us Christians, it is in Christ that the answer is found to the enigma of pain and death. By participating in Holy Mass, as you have just done, we are immersed in the mystery of his death and Resurrection. Every Eucharistic celebration is the perennial memorial of the Crucified and Risen Christ, who defeated the power of evil with the omnipotence of his love.\
+It is therefore at the "school" of the Eucharistic Christ that we are granted to learn and to love life always and to accept our apparent powerlessness in the face of illness and death.
+
+My venerable Predecessor John Paul II wished the World Day of the Sick to coincide with the Feast of the Immaculate Virgin of Lourdes. In that sacred place, our heavenly Mother came to remind us that on this earth we are only passing through and that the human being's true and definitive dwelling place is Heaven. We must all strive for this goal. May the light that comes "from on High" help us to understand and to give meaning and value to the experience of suffering and death too. Let us ask Our Lady to turn her motherly gaze on every sick person and on his or her family, to help each one to carry the weight of the Cross with Christ. Let us entrust to her, the Mother of humanity, the poor, the suffering, the sick of the whole world, with a special thought for suffering children. With these sentiments, I encourage you to trust in the Lord always and I warmly bless you all.

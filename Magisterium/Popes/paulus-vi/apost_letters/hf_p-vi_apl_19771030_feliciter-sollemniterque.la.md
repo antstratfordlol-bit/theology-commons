@@ -1,0 +1,50 @@
+---
+id: paul6-feliciter-sollemniterque.la
+work: paul6-feliciter-sollemniterque
+title: "Feliciter sollemniterque, Litterae Apostolicae, Venerabili Dei famulo Muciano Mariae Wiaux honores Beatorum decernuntur, d. 30 m. Octobris a. 1977, Paulus PP. VI"
+creator: "Paulus PP. VI"
+pope: Paul VI
+document-type: Apostolic letter
+url_date: 1977-10-30
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: la
+original-language: yes
+original-note: "the Latin text as published by the Holy See; for the modern magisterium the Latin is the editio typica where one exists"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19771030_feliciter-sollemniterque.html"
+fetch_date: 2026-09-15
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "la"
+anchors: "{#paul6-feliciter-sollemniterque} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across la"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-09-15
+---
+
+# Feliciter sollemniterque, Litterae Apostolicae, Venerabili Dei famulo Muciano Mariae Wiaux honores Beatorum decernuntur, d. 30 m. Octobris a. 1977, Paulus PP. VI {#paul6-feliciter-sollemniterque}
+## PAULUS PP. VI
+
+**LITTERAE** **APOSTOLICAE**
+
+## FELICITER SOLLEMNITERQUE*
+
+VENERABILI DEI FAMULO MUCIANO MARIAE WIAUX\
+HONORES BEATORUM DECERNUNTUR.
+
+*Ad perpetuam rei memoriam.* — Feliciter sollemniterque absoluta Synodus Episcoporum quinta, ubi scilicet Catholica catechesis puerorum maxime et iuvenum funditus erat a Patribus pertractata, vix pulchriore ullo aptioreve ritu potuit quasi coronari ipsa aut cumulari quam isto hodierno, quo nempe placuit Nobis hoc die sodales Instituti Fratrum Scholarum Christianarum geminos simul in Beatorum Caelitum fastos referre videlicet Mucianum Mariam Wiaux ac Michaëlem Febres Cordero ; nam idem Institutum illud nuncupaverat quondam Decessor Noster Sanctus Pius Decimus communitatem « apostolorum catechismi » et illi duo Beati suo uterque pacto clari enituerant tum ratione tum actione religiosae vitae, tota nimirum ad puerorum scholas ad iuvenum catechesim ad didascaliam Iesu Christi eiusque Ecclesiae testificationem conformata. Frater Mucianus Maria eodem, uti fiebat, die Martii mensis vicesimo anni MDCCCXLI enatus filius piorum parentum Wiaux confestim lavacro salutari renatus est Aloisius Iosephus in Belgarum oppidulo Namurcensis dioecesis nomine Mellet. Hic cum puer manifesta prae se tulisset documenta probabilis ingenii constantis fidei singularis magnificentiae, nihil igitur adulescens cunctatus postea est ipsi Deo alacriter obsequi ad perfectiorem invitanti se vitam inter Fratres Scholarum Christianarum, quorum Namurcense tirocinium novicius amplexus est anno MDCCCLVI statimque ingressus longum cursum sanctimoniae morum ac virtutum excellentiae secundum illius Congregationis suae indolem. Sumpto titulo novo, ita iam Fratri Muciano Mariae penitus persuadebatur omnem interioris hominis sanitatem ac spiritalis aedificii soliditatem adniti debere ad germanam animi humilitatem ut cunctis dein viribus adipisci contenderet hinc necessariam sui ipsius cognitionem illinc demissam ante Deum adiectionem quippe cui attribuenda soli universa testaretur quaecumque is quoquo modo efficere valeret.
+
+Perspiciebat cum illa humilitate nexam esse oboedientiam, Regulae praescriptis ac legitimis divinae voluntatis interpretibus pareri oporteret. Duplici proin hac armatura miles Christi munitus, adiit Frater Mucianus praestabilia opera iuvenes sibi créditos docendi non tantum ingenuas artes et disciplinas sed etiam laetificum Evangelii nuntium et catechesim ipsam, primum in urbe Chimay, deinde Bruxellis ac demum per reliquum vitae sanctae tempus — id est duodesexaginta annorum intervallum — in loco Malonne nominatim apud collegium illud amplissimum Sancto Bertuino sacrum. Ideo per primas educationis suae et navitatis scholasticae difficultates, immo per singulas exinde vel adversissimas vitae res, securus deducebatur humilitate et oboedientia. Campum autem, in quo certius poterat tam ingenium bonum exerceri quam forma optima religiosae vitae ab eo expleri, occupabant musica quibus pro oboedientia humili sua iussus invigilabat et quibus, Deo adiuvante, luculentius usque praestabat cum in variis laudabiliter instrumentis versaretur. At fieri divina ex providentia non potuit quin etiam in ista regione propria tentaretur ipse nihilo minus ob crebrius fractas spes, infecta consilia, negatam aestimationem. Utcumque res iudicatur, ab initiis suis ac deinceps liquido patet consecratam Beati huius vitam pulchre processisse inter eventus perquam simplices, modestos, communes, verum refertos omne genus impedimentis et probrosis quidem experimentis molliorique animo eius peracerbis. Cum dulcissimam ipse Iesu Nazareni vocem multo antea percepit suaeque ducem menti constituit : « discite a me quia mitis sum et humilis corde » *(Mt.* 11, 29), tum aeque comprehendit, quam gravia tandem essent votorum religiosorum officia quantumque ergo haec indigerent eiusdem evangelici adfectus ut in vitae perpetuitate sustinerentur et in variis communitatis adiunctis prospere perficeretur.
+
+Sic videlicet motus non detrectabat Frater Mucianus quidquam antistitum auctoritate mandatum utpote quod a Deo ipso praecipi sentiret. Necesse similiter haud existimabat ut evidentes antiquorum paenitentiae longe repeterentur quoniam prope laetior usurpabat earum loco cotidianas operum suorum condiciones ac vicissitudines vitae quas probe intellegebat minimum omnino spatium immodico sui relinquere amori. Quin eximie gaudebat scholastica sua munera tanto inferioris esse ordinis: sicut vigilias ludorum diuturnas molestasque puerorum custodias, occulta plane ministeria neque ullius gratiarum actionem merentia . Talibus igitur cotidie in negotiis asperis et ingratis perlibenter suapte natura delitescebat nec de se umquam foris quidpiam dicebat. Tametsi valde interdum religiosorum moderatorum ratio erga eum variabatur, numquam tamen in Fratre Muciano non idem deprehendebatur sensus docilitatis, servitutis, alacritatis, quandoquidem intra et ultra eos semper dispiciebat Principem auctorum omnium humanorum, Deum, qui secus atque isti perstaret immutatus. Quanto praeterea studio obtemperare hic Beatus festi nabat voci ac voluntati praefectorum sui Instituti, tanto scriptas quoque Regulae normas observare curabat; quod cum sua prorsus sponte faceret, interea nesciens vere reliquos incitabat Fratres ad impensiorem usque fidelitatem, et cunctos sibi amicitia perenni conciliabat.
+
+Sexaginta itaque annos continuos genus laudabile illud vitae consecratae extraxit quod, ne ulla parte deficeret, perpetua dies noctes precatione aluit, cotidiana Verbi Dei consideratione docuit, fervida in Christi matrem Mariam pietate sustinuit cuius suave nomen ipsum pridem sibi novicius adsciverat. Immo vero mensis Ianuarii tricesimo die anni MCMXVII exhalaturus animam, confessus esse traditur summo se illo consolari solacio quod appropinquante morte eandem cogitare posset Matrem quam per totam vitam amavisset. Virtutum autem multarum laudes, quae in ipso erant iam certissime comprobatae, nec non gratiarum divinarum concessiones plures huic Servo Dei adsignatae rectores Instituti Fratrum Scholarum Christianarum simulque Ecclesiae auctoritates adduxerunt ut die undevicesimo mensis Decembris anno MCMXXIII processum informativum super eius vita et opera in dioecesi Namurcensi instituerent. Suo dein tempore apud Sedem Apostolicam incohata est Beatificationis causa die octavo Iulii mensis anno MCMXXXVI. Singulis tunc exactis rite pervestigationibus, die IV Maii mensis anno MCMLXX sollemniter ediximus Fratrem Mucianum Mariam heroum in modum vivendo exsecutum esse tum virtutes théologales fidei, spei, caritatis erga Deum ac proximum, tum cardinales prudentiae, iustitiae, fortitudinis, temperantiae. Illuc mox accessit quod decretum super miraculis eius deprecationi tributis coram Nobis recitatum foras emitti iussimus die XIII mensis Novembris anno MCMLXXIV.
+
+Hoc denique tandem felici ipso die inter Eucharistica Sacra extulimus personam Fratris Muciani Mariae, quem praedicavimus plus dimidium saeculum in communitate, in vita scholastica ac religiosa, omnibus velut exemplar praefulsisse discipulis, parentibus, magistris, quotquot auditorium illius frequentarent; quod insuper exemplum eis hodie praesertim prodesse qui Dominum vocantem secuti, eniterentur ex suo docendi munere non quamlibet vitae professionem efficere sed certam quandam vocationem religiosam. Subinde nulla interposita mora Beatificationis utriusque simul Venerabilis Servi Dei formulam haec ipsa persolvimus in verba: « Nos, vota Fratrum nostrorum Roberti Mathen, Episcopi Namurcensis, et Pauli Muñoz Vega, Archiepiscopi Quitensis, necnon plurium aliorum Fratrum in Episcopatu, multorumque Christifidelium explentes, de Sacrae Congregationis pro Causis Sanctorum consulto, auctoritate Nostra Apostolica facultatem facimus, ut Venerabiles Servi Dei Mucianus Maria Wiaux et Michael Febres Cordero Instituti Fratrum Scholarum Christianarum, Beatorum nomine in posterum appellentur, eorumque festum die ipsorum natali: Beati Muciani Mariae die XXX Ianuarii, Beati Michaelis Febres Cordero die ix Februarii, in locis et modis iure statutis, quotannis celebrari possit. In nomine Patris et Filii et Spiritus Sancti ». Apostolicas autem has Litteras ut nunc sic posthac ratas esse volumus suamque exserere vim, contrariis quibuslibet rebus neutiquam obstantibus.
+
+Datum Romae, apud Sanctum Petrum, sub anulo Piscatoris, die XXX mensis Octobris anno ** **MCMLXXVII, Pontificatus Nostri quinto decimo.
+
+IOANNES Card. VILLOT, *Secretarius Status*
+
+\*A.A.S., vol. LXX (1978), n. 11, pp. 780-783

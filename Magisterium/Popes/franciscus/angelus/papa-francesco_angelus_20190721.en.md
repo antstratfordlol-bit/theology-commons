@@ -1,0 +1,56 @@
+---
+id: francis-ang-20190721.en
+work: francis-ang-20190721
+title: "Angelus, 21 July 2019"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Angelus / Regina Caeli
+url_date: 2019-07-21
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/angelus/2019/documents/papa-francesco_angelus_20190721.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pt"
+anchors: "{#francis-ang-20190721} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 21 July 2019 {#francis-ang-20190721}
+POPE FRANCIS
+
+## ANGELUS
+
+*Saint Peter's Square\
+Sunday, 21 July 2019*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2019/7/21/angelus.html)**\]
+
+*Dear Brothers and Sisters, Good morning!*
+
+In this Sunday’s Gospel passage Luke the Evangelist narrates Jesus’ visit to the house of Martha and Mary, Lazarus’ sisters (cf. Lk 10:38-42). They receive him, and Mary sits at his feet to listen to him; she leaves what she was doing in order to be close to Jesus: she does not want to miss any of his words. Everything is to be set aside when he comes to visit us in our lives; his presence and his words come before all else.
+
+The Lord always surprises us: when we truly focus on listening to him, clouds disappear, doubts give way to truth, fears to serenity, and life’s various situations find the right placement. When the Lord comes, he always puts things in order, even us.
+
+In this scene of Mary of Bethany at Jesus’ feet, Saint Luke shows the prayerful attitude of the believer, who is able to be in the Teacher’s presence to listen to him and be in harmony with him. It means pausing a few minutes during the day to gather yourself in silence, to make room for the Lord who ‘is passing’ and to find the courage to stay somewhat ‘on the sidelines’ with him, in order to return later with serenity and strength, to everyday matters. Commending the conduct of Mary, who “has chosen the good portion” (v. 42), Jesus seems to repeat to each of us: “Do not allow yourselves to be overwhelmed by things to do, but first and foremost listen to the Lord’s voice, in order to properly carry out the tasks that life assigns to you”.
+
+Then there is the other sister, Martha. Saint Luke says that it is she who receives Jesus (cf. v. 38). Perhaps Martha was the older of the two sisters; we do not know. But surely this woman had the charism of hospitality. Indeed, while Mary listened to Jesus, Martha is completely caught up in many services. That is why Jesus says to her: “Martha, Martha, you are anxious and troubled about many things” (v. 41). With these words he certainly does not condemn the attitude of service, but rather the stress with which one lives at times. We too share Saint Martha’s worries and, after her example, we recommend ensuring — in our families and in our communities — that one may experience the sense of welcome, of fraternity, so that each one may feel ‘at home’, especially the little ones and the poor when they knock at our door.
+
+Thus, today’s Gospel passage reminds us that the wisdom of the heart lies precisely in knowing how to *combine* these two elements: *contemplation and action*. Martha and Mary indicate the path to us. If we want to savour life with joy, we must associate these two approaches: on the one hand, ‘being at the feet’ of Jesus, in order to listen to him as he reveals to us the secret of every thing; on the other, being attentive and ready in hospitality, when he passes and knocks at our door, with the face of a friend who needs a moment of rest and fraternity. This hospitality is needed.
+
+May Mary Most Holy, Mother of the Church, give us the grace to love and serve God and brethren with the hands of Martha and the heart of Mary, so that, in always listening to Christ, we may be artisans of peace and hope. And this is interesting: with these two approaches we will be artisans of peace and hope.
+
+## After the Angelus the Holy Father continued:
+
+Dear brothers and sisters, 50 years ago, as if yesterday, man set foot on the Moon, fulfilling an extraordinary dream. May the memory of that great step for humankind kindle the desire to advance together toward even greater aims: more dignity for the weak, more justice among peoples, more future for our common home.
+
+I offer a cordial greeting to all of you, people of Rome and pilgrims! In particular I greet the novitiates of the Daughters of Mary Help of Christians, who have come from various countries. I greet you in a special way and I hope that some of you will go to Patagonia: there is a need to work there! I greet the students from the *Colegio Cristo Rey* of Asunción, Paraguay, the seminarians and formators from the *Opera Don Guanella* of Iaşi, Romania, the young people from Chiry-Ourscamp, France and the faithful from Cantù, Italy.
+
+I wish everyone a happy Sunday and, please, do not forget to pray for me. Enjoy your lunch. *Arrivederci*!

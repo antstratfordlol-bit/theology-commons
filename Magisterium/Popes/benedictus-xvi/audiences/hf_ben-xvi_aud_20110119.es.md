@@ -1,0 +1,58 @@
+---
+id: b16-aud-20110119.es
+work: b16-aud-20110119
+title: "Audiencia general del 19 de enero de 2010: Semana de Oración por la Unidad de los Cristianos"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: General audience (catechesis)
+url_date: 2011-01-19
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/audiences/2011/documents/hf_ben-xvi_aud_20110119.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-aud-20110119} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Audiencia general del 19 de enero de 2010: Semana de Oración por la Unidad de los Cristianos {#b16-aud-20110119}
+BENEDICTO XVI
+
+## AUDIENCIA GENERAL
+
+*Sala Pablo VI\
+Miércoles 19 de enero de 2011*
+
+## Semana de Oración por la Unidad de los Cristianos
+
+*Queridos hermanos y hermanas:*
+
+Estamos celebrando la Semana de oración por la unidad de los cristianos, en la cual se invita a todos los creyentes en Cristo a unirse en oración para testimoniar el profundo vínculo que existe entre ellos y para invocar el don de la comunión plena. Es providencial que en el camino para construir la unidad se ponga como centro la oración: esto nos recuerda, una vez más, que la unidad no puede ser simplemente producto de la acción humana; es ante todo un don de Dios, que conlleva un crecimiento en la comunión con el Padre, el Hijo y el Espíritu Santo. El concilio Vaticano II dice: «Estas oraciones en común son un medio sumamente eficaz para pedir la gracia de la unidad y expresión auténtica de los vínculos que siguen uniendo a los católicos con los hermanos separados: "Donde hay dos o tres reunidos en mi nombre —dice el Señor—, allí estoy yo en medio de ellos" (*Mt* 18, 20)» (*[Unitatis redintegratio](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html)*, 8). El camino hacia la unidad visible entre todos los cristianos *habita* en la oración, porque fundamentalmente la unidad no la «construimos» nosotros, sino que la «construye» Dios, viene de él, del Misterio trinitario, de la unidad del Padre con el Hijo en el diálogo de amor que es el Espíritu Santo, y nuestro compromiso ecuménico debe abrirse a la acción divina, debe hacerse invocación diaria de la ayuda de Dios. La Iglesia es suya y no nuestra.
+
+El tema elegido este año para la Semana de oración hace referencia a la experiencia de la primera comunidad cristiana de Jerusalén, tal como la describen los *Hechos de los Apóstoles;* hemos escuchado el texto: «Perseveraban en la enseñanza de los apóstoles, en la comunión, en la fracción del pan y en las oraciones» (*Hch* 2, 42). Debemos considerar que ya en el momento de Pentecostés el Espíritu Santo desciende sobre personas de distinta lengua y cultura: lo cual significa que la Iglesia abraza desde sus comienzos a gente de diversa proveniencia y, sin embargo, precisamente a partir de esas diferencias, el Espíritu crea un único cuerpo. Pentecostés como inicio de la Iglesia marca la ampliación de la Alianza de Dios a todas las criaturas, a todos los pueblos y a todos los tiempos, para que toda la creación camine hacia su verdadero objetivo: ser lugar de unidad y de amor.
+
+En el versículo citado de los *Hechos de los Apóstoles*, cuatro características definen a la primera comunidad cristiana de Jerusalén como lugar de unidad y de amor, y san Lucas no quiere describir sólo algo del pasado. Nos ofrece esto como modelo, como norma de la Iglesia presente, porque estas cuatro características deben constituir siempre la vida de la Iglesia. Primera característica: estar unida y firme en la escucha de las enseñanzas de los Apóstoles; luego en la comunión fraterna, en la fracción del pan y en las oraciones. Como he dicho, estos cuatro elementos siguen siendo hoy los pilares de la vida de toda comunidad cristiana y constituyen también el único fundamento sólido sobre el cual progresar en la búsqueda de la unidad visible de la Iglesia.
+
+Ante todo tenemos la escucha de las enseñanzas de los apóstoles, o sea, la escucha del testimonio que estos dan de la misión, la vida, la muerte y la resurrección del Señor. Es lo que san Pablo llama sencillamente el «Evangelio». Los primeros cristianos recibían el Evangelio de labios de los Apóstoles, los unía su escucha y su proclamación, puesto que el Evangelio, como afirma san Pablo, «es fuerza de Dios para la salvación de todo el que cree» (*Rm* 1, 16). Todavía hoy, la comunidad de los creyentes reconoce en la referencia a las enseñanzas de los Apóstoles la norma de su fe: por lo tanto, todo esfuerzo para la construcción de la unidad entre todos los cristianos pasa por la profundización de la fidelidad al *depositum fidei* que nos transmitieron los Apóstoles. La firmeza en la fe es el fundamento de nuestra comunión, es el fundamento de la unidad cristiana.
+
+El segundo elemento es la comunión fraterna. En el tiempo de la primera comunidad cristiana, así como en nuestros días, esta es la expresión más tangible, sobre todo para el mundo externo, de la unidad entre los discípulos del Señor. Leemos en los *Hechos de los Apóstoles* que los primeros cristianos lo tenían todo en común y quien tenía posesiones y bienes los vendía para repartirlos entre los necesitados (cf. *Hch* 2, 44-45). Este compartir los propios bienes ha encontrado, en la historia de la Iglesia, modalidades siempre nuevas de expresión. Una de estas, peculiar, es la de las relaciones de fraternidad y amistad construidas entre cristianos de diversas confesiones. La historia del movimiento ecuménico está marcada por dificultades e incertidumbres, pero también es una historia de fraternidad, de cooperación y de compartir humana y espiritualmente, que ha cambiado de manera significativa las relaciones entre quienes creen en Jesús, nuestro Señor: todos estamos comprometidos a seguir por este camino. El segundo elemento es, pues, la comunión, que ante todo es comunión con Dios mediante la fe; pero la comunión con Dios crea la comunión entre nosotros y se expresa necesariamente en la comunión concreta de la que hablan los *Hechos de los Apóstoles,* es decir, el compartir. Nadie en la comunidad cristiana debe pasar hambre, nadie debe ser pobre: se trata de una obligación fundamental. La comunión con Dios, realizada como comunión fraterna, se expresa, en concreto, en el compromiso social, en la caridad cristiana, en la justicia.
+
+Tercer elemento: en la vida de la primera comunidad de Jerusalén era esencial el momento de la fracción del pan, en el que el Señor mismo se hace presente con el único sacrificio de la cruz en su entrega total por la vida de sus amigos: «Este es mi cuerpo entregado en sacrificio por vosotros... Este es el cáliz de mi sangre... derramada por vosotros». «La Iglesia vive de la Eucaristía. Esta verdad no expresa solamente una experiencia cotidiana de fe, sino que encierra en síntesis *el núcleo del misterio de la Iglesia*» (*[Ecclesia de Eucharistia](https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html)*, 1). La comunión en el sacrificio de Cristo es el culmen de nuestra unión con Dios y, por lo tanto, representa también la plenitud de la unidad de los discípulos de Cristo, la comunión plena. Durante esta Semana de oración por la unidad se siente de modo especial la aflicción por la imposibilidad de compartir la misma mesa eucarística, signo de que todavía estamos lejos de la realización de la unidad por la que Cristo rezó. Esta dolorosa experiencia, que también confiere una dimensión penitencial a nuestra oración, debe llegar a ser motivo de un compromiso todavía más generoso por parte de todos, a fin de que, al quitar los obstáculos a la comunión plena, llegue el día en que será posible reunirse en torno a la mesa del Señor, partir juntos el pan eucarístico y beber del mismo cáliz.
+
+Por último, la oración —o, como dice san Lucas, las oraciones— es la cuarta característica de la Iglesia primitiva de Jerusalén descrita en el libro de los *Hechos de los Apóstoles*. La oración es desde siempre la actitud constante de los discípulos de Cristo, lo que acompaña su vida cotidiana en obediencia a la voluntad de Dios, como nos lo muestran también las palabras del apóstol san Pablo, que escribe a los Tesalonicenses en su primera carta: «Estad siempre alegres, sed constantes en orar, dad gracias en toda ocasión: esta es la voluntad de Dios en Cristo Jesús respecto de vosotros» (*1 Ts* 5, 16-18; cf. *Ef* 6, 18). La oración cristiana, participación en la oración de Jesús, es por excelencia experiencia filial, como lo confirman las palabras del Padrenuestro, oración de la familia —el «nosotros» de los hijos de Dios, de los hermanos y hermanas— que habla al Padre común. Ponerse en actitud de oración significa, por tanto, abrirse también a la fraternidad. Sólo en el «nosotros» podemos decir Padre nuestro. Abrámonos pues a la fraternidad, que deriva del ser hijos del único Padre celestial, y estar dispuestos al perdón y a la reconciliación.
+
+Queridos hermanos y hermanas, como discípulos del Señor tenemos una responsabilidad común hacia el mundo, debemos prestar un servicio común: como la primera comunidad cristiana de Jerusalén, partiendo de lo que ya compartimos, debemos dar un testimonio fuerte, fundado espiritualmente y sostenido por la razón, del único Dios que se ha revelado y nos habla en Cristo, para ser portadores de un mensaje que oriente e ilumine el camino del hombre de nuestro tiempo, a menudo privado de puntos de referencia claros y válidos. Así pues, es importante crecer cada día en el amor recíproco, esforzándose por superar las barreras que todavía existen entre los cristianos; sentir que existe una verdadera unidad interior entre todos los que siguen al Señor; colaborar tanto como sea posible, trabajando juntos sobre las cuestiones que quedan abiertas; y, sobre todo, ser conscientes de que en este itinerario el Señor debe socorrernos, debe ayudarnos mucho todavía, porque sin él, solos, sin «permanecer en él» no podemos hacer nada (cf. *Jn* 15, 5).
+
+Queridos amigos, una vez más, nos encontramos reunidos en la oración —de modo especial en esta semana— junto a todos aquellos que confiesan su fe en Jesucristo, Hijo de Dios: perseveremos en la oración, seamos hombres de oración, implorando de Dios el don de la unidad, a fin de que se cumpla para todo el mundo su designio de salvación y de reconciliación. Gracias.
+
+## Saludos
+
+Saludo cordialmente a los peregrinos de lengua española, en particular a los grupos provenientes de España, México y otros países latinoamericanos. Junto a aquellos que confiesan la fe en Cristo, os invito a implorar de Dios el don de la unidad, con el fin de que se cumpla para el mundo entero su plan de salvación y reconciliación. Muchas gracias.

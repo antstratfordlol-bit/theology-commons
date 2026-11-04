@@ -1,0 +1,52 @@
+---
+id: francis-spe-20221114-partita-pace.en
+work: francis-spe-20221114-partita-pace
+title: "To the participants in the third edition of the 2022 'Match for Peace' organized by the Scholas Occurrentes Foundation (14 November 2022)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2022-11-14
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2022/november/documents/20221114-partita-pace.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, it, pt"
+anchors: "{#francis-spe-20221114-partita-pace} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the participants in the third edition of the 2022 "Match for Peace" organized by the Scholas Occurrentes Foundation (14 November 2022) {#francis-spe-20221114-partita-pace}
+## GREETING OF THE HOLY FATHER FRANCIS TO THE PARTICIPANTS IN THE THIRD EDITION OF THE "MATCH FOR PEACE" ORGANIZED BY THE SCHOLAS OCCURRENTES FOUNDATION
+
+*Paul VI Audience Hall\
+Monday, 14 November 2022*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2022/11/14/partita-pace.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+I thank all of you who have come from different places, and faraway places, to play a match: a match, yes, but it is a match for peace! This is important.
+
+Just think that the biggest expenses in the world today are in the arms industry. Because people always think about waging wars to destroy. You have taken the time to come and “wage” the gratuitousness of peace. And peace carries on like this, with gestures like these: gestures of closeness, gestures of friendship, gestures of a hand always outstretched, not a hand holding a stone to be thrown. I thank you for this. They are small gestures, but they are seeds. They are seeds of peace. They are capable of changing the world because they are seeds of peace.
+
+Thank you, thank you for what you do, for today’s match. Thank you for saying: “We want peace”, in a world that always looks for wars and destruction. Thank you!
+
+And thank you for telling us that a rag ball, with the gratuitousness of the game, is more important, more important than conquering a territory through wars; that’s unnecessary. Thank you for your witness.
+
+I want to bless all of you, your families, your heart: may it be a free heart, a heart that goes forward in the building of friendship. The world needs friendship, gratuitousness.
+
+After imparting his Blessing to those present, the Pope addressed Italian footballer Ciro Immobile.
+
+And many congratulations to you for your fourth child! How old are you? \[The father says 32\]. Thirty-two years and four children; it’s good production! To Italians I say: Italy needs children; we are lacking children! Thank you.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+L'Osservatore Romano, Weekly Edition in English, 18 November 2022

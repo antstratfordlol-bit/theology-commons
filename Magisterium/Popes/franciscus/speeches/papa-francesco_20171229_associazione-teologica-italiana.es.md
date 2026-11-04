@@ -1,0 +1,54 @@
+---
+id: francis-spe-20171229-associazione-teologica-italiana.es
+work: francis-spe-20171229-associazione-teologica-italiana
+title: "A la Asociación Teológica Italiana (29 de diciembre de 2017)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2017-12-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2017/december/documents/papa-francesco_20171229_associazione-teologica-italiana.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, it, pt"
+anchors: "{#francis-spe-20171229-associazione-teologica-italiana} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A la Asociación Teológica Italiana (29 de diciembre de 2017) {#francis-spe-20171229-associazione-teologica-italiana}
+## DISCURSO DEL SANTO PADRE FRANCISCO A LA ASOCIACIÓN TEOLÓGICA ITALIANA
+
+*Sala Clementina\
+Viernes, 29 de diciembre de 2017*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2017/12/29/associazione-teologica-italiana.html)\]
+
+*Queridos hermanos y hermanas:*
+
+Os doy la bienvenida y agradezco las palabras de vuestro presidente. En estos días estamos inmersos en la contemplación gozosa del misterio de nuestro Dios, que se ha involucrado y comprometido tanto con nuestra pobre humanidad, hasta enviarnos a su Hijo y asumir en Él nuestra carne frágil. Cada pensamiento teológico cristiano no puede sino comenzar incesantemente desde aquí, en una reflexión que nunca agotará la fuente viviente del amor divino, que se ha dejado tocar, mirar y gustar en el pesebre de Belén.
+
+En 2017, la Asociación Teológica Italiana cumple medio siglo. Me complace unirme a vosotros para dar gracias al Señor por aquellos que tuvieron el valor, hace cincuenta años, de tomar la iniciativa de dar vida a la Asociación Teológica Italiana; por los que se han unido en este tiempo, ofreciendo su presencia, su inteligencia y el esfuerzo de una reflexión libre y responsable; y sobre todo por la contribución que vuestra Asociación ha dado al desarrollo teológico y a la vida de la Iglesia, con una investigación que siempre se ha propuesto ―con el esfuerzo crítico que le compete― estar en armonía con las etapas y desafíos fundamentales de la vida eclesial italiana.
+
+Es de destacar que la Asociación Teológica Italiana nació, como se afirma en el primer artículo de su Estatuto, «en el espíritu de servicio y comunión indicado por el Concilio Ecuménico Vaticano II». La Iglesia siempre debe referirse a ese evento, con el que comenzó «una nueva etapa de evangelización» (Bula *[Misericordiae vultus](http://w2.vatican.va/content/francesco/es/apost_letters/documents/papa-francesco_bolla_20150411_misericordiae-vultus.html)*, 4) y con el que asumió la responsabilidad de proclamar el Evangelio de una manera nueva, más apropiada a un mundo y una cultura profundamente transformados. Es evidente que este esfuerzo exige que toda la Iglesia, y los teólogos en particular, lo reciban marcados por la “fidelidad creativa”: conscientes de que en estos 50 años ha habido más cambios y de la confianza en que el Evangelio puede seguir tocando también a las mujeres y los hombres de hoy. Por lo tanto, os pido que continuéis siendo fieles y estando anclados, en vuestro trabajo teológico, al Concilio y a la capacidad que la Iglesia mostró allí para dejarse fecundar por la novedad perenne del Evangelio de Cristo; así como habéis hecho, además, en estas décadas, como se evidencia en los temas que habéis elegido y discutido en los congresos y cursos de actualización, así como en el reciente y poderoso trabajo de comentarios sobre todos los [documentos del Vaticano II](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index_sp.htm).
+
+En particular, es un claro fruto del Concilio y una riqueza que no se debe dispersar el hecho de que hayáis advertido y sigáis sintiendo la necesidad de “hacer teología juntos”, como una Asociación, que cuenta hoy con más de 330 teólogos. Este aspecto es un *dato de estilo*, que ya expresa algo esencial de la Verdad al servicio de la cual surge la teología. De hecho, no podemos pensar en servir a la Verdad de un Dios que es Amor, comunión eterna del Padre, del Hijo y del Espíritu Santo y cuyo plan salvador es el de la comunión de los hombres con Él y con los demás, haciéndolo de manera individualista, particularista o, peor aún, en una lógica competitiva. La de los teólogos no puede por menos que ser una búsqueda personal; pero de personas que están inmersas en una comunidad teológica lo más amplia posible, de la cual se sienten y en realidad son parte, involucradas en vínculos de solidaridad y también de amistad auténtica. ¡Este no es un aspecto accesorio del ministerio teológico!
+
+Un ministerio del cual hoy en día sigue habiendo una gran necesidad en la Iglesia. Es cierto que para ser auténticamente creyentes no es necesario haber hecho cursos académicos de teología. Existe un *sentido* de la realidad de la fe que pertenece a todo el pueblo de Dios, incluso a aquellos que no tienen medios intelectuales particulares para expresarla, y que pide ser interceptado y escuchado. Pienso en el famoso infalible *in credendo:* tenemos que ir allí con frecuencia, y también hay personas muy simples que saben cómo aguzar los “ojos de la fe”. Es en esta fe viva del pueblo santo y fiel de Dios que todo teólogo debe sentirse inmerso y de la cual también debe saberse sostenido, transportado y abrazado. Esto no significa, sin embargo, que no haya siempre necesidad de un trabajo teológico específico mediante el cual, como decía el santo doctor Buenaventura, se pueda llegar al *credibile ut intelligibile,* a lo que se cree porque se entiende. Es una exigencia de la plena humanidad de los mismos creyentes, en primer lugar, para que nuestro creer sea plenamente humano y no escape a la sed de conciencia y comprensión, lo más profunda y más amplia posible, de lo que creemos. Y es un requisito de la comunicación de la fe, para que demuestre siempre y en todas partes que no solo no mutila lo que es humano, sino que siempre se presenta como un llamado a la libertad de las personas.
+
+Sobre todo en el deseo y en la perspectiva de una Iglesia en salida misionera el ministerio teológico es particularmente importante y urgente en esta coyuntura histórica. De hecho, una Iglesia que se replantea así se preocupa, como dije en *[Evangelii gaudium](http://w2.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html),* de dejar claro a las mujeres y los hombres cuál es el centro y el núcleo del Evangelio, es decir «la belleza del amor salvador de Dios manifestado en Jesucristo, muerto y resucitado» (n. 36). Esa tarea de esencialidad, en la era de la complejidad y del desarrollo científico y técnico sin precedentes y en una cultura que ha estado impregnada, en el pasado, por el cristianismo pero en la cual hoy pueden serpentear visiones distorsionadas del corazón mismo del Evangelio hace indispensable un gran trabajo teológico . Para que la Iglesia pueda continuar a hacer escuchar el centro del Evangelio a las mujeres y los hombres de hoy, para que el Evangelio llegue verdaderamente a las personas en su singularidad e impregne a la sociedad en todas sus dimensiones, es indispensable la tarea de la teología, con su esfuerzo por repensar los grandes temas de la fe cristiana dentro de una cultura profundamente cambiada.
+
+Necesitamos una teología para ayudar a todos los cristianos a anunciar y mostrar, sobre todo, el rostro salvador de Dios, el Dios misericordioso, especialmente frente a algunos desafíos sin precedentes que atañen hoy a la humanidad: como los de la crisis ecológica, del desarrollo de neurociencias o técnicas que pueden cambiar al hombre; como el de las desigualdades sociales cada vez mayores o las migraciones de pueblos enteros; como el relativismo teórico pero también el práctico. Por eso hace falta una teología que, como forma parte de la mejor tradición de la Asociación Teológica Italiana, esté hecha por cristianas y cristianos que no piensan hablar solo entre ellos, sino que saben que están al servicio de las diferentes Iglesias y de la Iglesia; y que también asumen la tarea de repensar a la Iglesia para que sea conforme al Evangelio que debe anunciar.
+
+Me alegro de saber que tantas veces y de diferentes maneras, incluso recientemente, ya lo habéis hecho abordando explícitamente el tema del anuncio del Evangelio y de *la forma Ecclesiae*, de la sinodalidad, de la presencia eclesial en el contexto de laicidad y democracia, del poder de Iglesia. Por tanto, espero que vuestras investigaciones fertilicen y enriquezcan a todo el pueblo de Dios. Y me gustaría añadir algunas reflexiones que me vinieron en mente mientras hablabas. No perdáis la capacidad de maravillaros; haced teología en la maravilla. La maravilla que Cristo nos trae, el encuentro con Cristo. Es como el aire en el que nuestra reflexión será más fecunda. Y repito otra cosa que dije: el teólogo es quien estudia, piensa, reflexiona, pero lo hace de rodillas. Hacer teología de rodillas, como los grandes Padres. Los grandes Padres que pensaban, rezaban, adoraban, alababan: la teología fuerte, que es la base de todo el desarrollo teológico cristiano. También repito una tercera cosa que ya he dicho pero la voy a repetir porque es importante: hacer teología en la Iglesia, es decir, en el santo pueblo fiel de Dios, que ―voy a decir una palabra no teológica― tiene el “olfato” de la fe. Recuerdo una vez, en una confesión, el diálogo que tuve con una anciana portuguesa que se acusaba de pecados que no existían, ¡pero era muy creyente! Y le hice algunas preguntas y respondía bien; y al final tuve ganas de decirle: “Pero dígame, señora: ¿estudió en la Gregoriana?”. Era sólo una mujer simple, sencilla, pero tenía el “olfato”, tenía el *sensus fidei*, ese que en la fe no puede equivocarse. El Vaticano II retoma esto.
+
+Os bendigo de todo corazón y, por favor, no os olvidéis de rezar por mí.
+
+*[Boletín de la Oficina de Prensa de la Santa Sede](http://press.vatican.va/content/salastampa/es/bollettino/pubblico/2017/12/29/teol.html)*, 29 de diciembre de 2017.

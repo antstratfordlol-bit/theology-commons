@@ -1,0 +1,58 @@
+---
+id: b16-ang-20120701.en
+work: b16-ang-20120701
+title: "Angelus, 1st July 2012"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2012-07-01
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2012/documents/hf_ben-xvi_ang_20120701.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20120701} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 1st July 2012 {#b16-ang-20120701}
+BENEDICT XVI
+
+## ANGELUS
+
+*St. Peter's Square*\
+*Sunday, 1 July 2012*
+
+## \[[Video](https://www.youtube.com/watch?v=hBBOb0pPeZE&list=PLC9tK3J1RlaZGkT-qS3F021VSzUv-YuwO&index=36&ab_channel=TheVatican-Archive){target="_blank"}\]
+
+*Dear Brothers and Sisters*,
+
+This Sunday, the Evangelist Mark presents to us the account of two miraculous cures which Jesus worked for two women: the daughter of one of the elders of the synagogue whose name was Jairus, and a woman who was suffering from a haemorrhage (cf. Mk 5:21-43). These two episodes can be interpreted at two levels; the purely physical — Jesus bends over human suffering and heals the body; and the spiritual level: Jesus came to heal human hearts, to give salvation, and asks for faith in him.
+
+In the first episode, in fact, on hearing that Jairus’ little daughter was dead, Jesus tells the ruler of the Synagogue. “Do not fear, only believe” (v. 36). He takes the child’s father with him to the room where the child is lying and exclaims: “Little girl, I say to you, arise” (v. 41). And she rose and walked.
+
+St Jerome commented on these words, underlining Jesus’ saving power: “Little girl, stand up for my sake, not for your own merit but for my grace. Therefore get up for me: being healed does not depend on your own virtues (*Homily on the Gospel according to Mark*, 3).
+
+The second episode, that of the woman with the haemorrhage, highlights once again that Jesus came to save the human being in his totality. Indeed, the miracle takes place in two phases: first comes the physical healing, but this is closely linked with the deeper healing, the healing which God’s grace gives to those who open themselves to him with faith. Jesus says to the woman: “Daughter, your faith has made you well; go in peace, and be healed of your disease” (Mk 5:34).
+
+These two stories of healing invite us to go beyond a purely horizontal and materialistic vision of life. We ask God to heal so many problems, our practical needs, and this is right, but what we must ask him for insistently is an ever firmer faith, so that the Lord may renew our life, as well as firm trust in his love, in his Providence that never abandons us.
+
+Jesus who is attentive to human suffering also makes us think of all those who help the sick to carry their cross, particularly doctors, health-care workers and all the people who guarantee religious assistance in clinics and hospitals. They are “reserves of love”, who bring serenity and hope to the suffering.
+
+In the Encyclical *[Deus Caritas Est](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)* I remarked: in this invaluable service professional competence is essential... training is a primary, fundamental requirement, but it is not sufficient on its own. We are dealing with human beings... who need humanity. They need heartfelt concern. “Consequently, in addition to their necessary professional training, these charity workers need a ‘formation of the heart’: they need to be led to that encounter with God in Christ which awakens their love and opens their spirits to others” (n. 31).
+
+Let us ask the Virgin Mary to accompany our journey of faith and our commitment of real love, especially for the needy, as we invoke her motherly intercession for our brothers and sisters experiencing suffering in body or in spirit.
+
+## After the Angelus:
+
+I welcome the English-speaking visitors gathered for this Angelus prayer. In today’s Gospel, Jesus restores life to a little girl in response to the faith-filled prayer of her father. In this miracle may we see an invitation to grow in our own faith, to trust in the Lord’s promise of abundant life, and to pray for all those in need of his healing touch. Upon you and your families I invoke God’s blessings of wisdom, joy and peace!
+
+I wish everyone a good Sunday and a peaceful month of July, and good holidays to you all.

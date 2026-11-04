@@ -1,0 +1,49 @@
+---
+id: b16-let-20101103-president-iran.en
+work: b16-let-20101103-president-iran
+title: "Letter to His Excellency Mahmoud Ahmadinejad President of the Islamic Republic of Iran (November 3, 2010)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Letter
+url_date: 2010-11-03
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/letters/2010/documents/hf_ben-xvi_let_20101103_president-iran.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en"
+anchors: "{#b16-let-20101103-president-iran} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Letter to His Excellency Mahmoud Ahmadinejad President of the Islamic Republic of Iran (November 3, 2010) {#b16-let-20101103-president-iran}
+## LETTER OF HIS HOLINESS BENEDICT XVI TO HIS EXCELLENCY MAHMOUD AHMADINEJAD PRESIDENT OF THE ISLAMIC REPUBLIC OF IRAN
+
+*Mr President,*
+
+I am writing to acknowledge the courteous words of greeting and the reflections that Your Excellency kindly sent me by the good offices of His Excellency Mr Hojjat ol Eslam Haj Sayyed Mohammad Reza Mir Tajjadini, Vice President of the Islamic Republic of Iran.
+
+It is my profound conviction that respect for the transcendent dimension of the human person is an indispensable condition for the construction of a just social order and a stable peace. Indeed, one’s relationship with God is the ultimate foundation for the inalienable dignity and sacred character of every human life.
+
+When the promotion of the dignity of the human person is the primary inspiration of political and social activity that is committed to search for the common good, solid and enduring foundations are created for building peace and harmony between peoples.
+
+Peace is, above all, a gift from God, which is sought in prayer, but it is also the result of the efforts of people of good will. In this perspective, believers of every religion have a special responsibility and can play a decisive role, cooperating in common initiatives. Interreligious and intercultural dialogue is a fundamental path to peace.
+
+Strongly convinced of this, the recent [Special Assembly for the Middle East of the Synod of Bishops](http://www.vatican.va/roman_curia/synod/index.htm#Special_Assembly_for_the_Middle_East), which took place in the Vatican from 10 to 24 October 2010, was a significant moment of reflection and sharing on the situation in the Middle East and on the great challenges placed before the Catholic communities present there. In some countries these communities face difficult circumstances, discrimination and even violence and they lack the freedom to live and publicly profess their faith. I am certain that the work of the Synod will bear good fruit for the Church and for the whole of society.
+
+The Catholics present in Iran and those around the world make efforts to collaborate with their fellow citizens to contribute loyally and honestly to the common good of the respective societies in which they live, becoming builders of peace and reconciliation.
+
+In this spirit, I express the hope that the cordial relations already happily existing between the Holy See and Iran will continue to progress, as well as those of the local Church with the civil authorities. I am also convinced that the launch of a bilateral Commission would be especially helpful in addressing questions of common concern, including that of the juridical status of the Catholic Church in the country.
+
+With these sentiments, I avail myself of the occasion to renew to you, Mr President, the assurance of my highest consideration.
+
+*From the Vatican, 3 November 2010*
+
+## BENEDICTUS PP. XVI

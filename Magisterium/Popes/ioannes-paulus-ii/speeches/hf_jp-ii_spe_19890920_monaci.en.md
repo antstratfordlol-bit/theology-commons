@@ -1,0 +1,41 @@
+---
+id: jp2-spe-19890920-monaci.en
+work: jp2-spe-19890920-monaci
+title: "To the monks of the Christian and Buddhist traditions (September 20, 1989)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1989-09-20
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/september/documents/hf_jp-ii_spe_19890920_monaci.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, it"
+anchors: "{#jp2-spe-19890920-monaci} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the monks of the Christian and Buddhist traditions (September 20, 1989) {#jp2-spe-19890920-monaci}
+## ADDRESS OF HIS HOLINESS JOHN PAUL II TO THE MONKS OF THE CHRISTIAN AND BUDDHIST TRADITIONS
+
+*Wednesday, 20 September 1989*
+
+*Dear Friends,*
+
+I am pleased to have this meeting with you, monks of the Christian and Buddhist traditions. I greet you, Rimpoche’, and the monks accompanying you on your peace pilgrimage, present her today with the Benedictine Abbot Primate and the members of the Commission for Monastic Interreligious Dialogue.
+
+In order to deepen your contacts with Christians you wished, during this pilgrimage, to meet with monks of the ancient Benedictine tradition. You have spent some days in the beautiful surroundings of Camaldoli, with those who are engaged in a spiritual search similar to your own in some respects, even though you belong to very different religious traditions.
+
+You were welcomed by Benedictine monks whose motto is precisely PAX – peace. You have encouraged one another to promote this peace of which our world is in such dire need. All human persons, conscious of the realities of today’s world, must commit themselves to the cause of peace, through service, through negotiation. You, as monks, make us of the means that are particular to you: prayer and the search for interior peace. As Saint Benedict says to his monks in the Prologue to his Rule: “Seek peace: pursue it”.
+
+We experienced this truth in Assisi, on the occasion of the World Day of Prayer for Peace. If prayer is neglected, the whole edifice of peace is liable to crumble. Your dialogue at the monastic level is truly a religious experience, a meeting in the depths of the heart, animated by the spirit of poverty, mutual trust and profound respect for your own traditions. It is an experience which cannot always be translated adequately into words, and which often can best be expressed in prayer-filled silence.
+
+I assure you of my prayers and invoke upon all of you abundant divine blessings.

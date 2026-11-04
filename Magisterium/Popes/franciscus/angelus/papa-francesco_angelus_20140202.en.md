@@ -1,0 +1,54 @@
+---
+id: francis-ang-20140202.en
+work: francis-ang-20140202
+title: "Angelus, 2 February 2014"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Angelus / Regina Caeli
+url_date: 2014-02-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/angelus/2014/documents/papa-francesco_angelus_20140202.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pt"
+anchors: "{#francis-ang-20140202} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 2 February 2014 {#francis-ang-20140202}
+POPE FRANCIS
+
+## ANGELUS
+
+*Saint Peter's Square\
+Sunday, 2 February 2014*
+
+## [Video](http://player.rv.va/vaticanplayer.asp?language=it&tic=VA_WI5DGS9H){target="_blank"}
+
+*Dear Brothers and Sisters, Good morning!*
+
+Today we are celebrating the Feast of the Presentation of Jesus in the Temple. This day is also the Day for Consecrated Life, which recalls the importance for the Church of those who have welcomed their vocation to follow Jesus closely on the path of the evangelical counsels. Today’s Gospel recounts that 40 days after the birth of Jesus, Mary and Joseph took the Child to the Temple to offer and consecrate him to God, as was prescribed by Hebrew Law. This Gospel narrative also constitutes an icon of the gift of one’s own life on the part of those who, as a gift of God, take on the characteristic traits of Jesus: virgin, poor and obedient.
+
+This offering of self to God regards every Christian, because we are all consecrated to him in Baptism. We are all called to offer ourselves to the Father with Jesus and like Jesus, making a generous gift of our life, in the family, at work, in service to the Church, in works of mercy. However, this consecration is lived in a special way by religious, by monks and nuns and by consecrated lay people, who by the profession of their vows belong to God in a full and exclusive way. This belonging to the Lord allows those who live it authentically to offer a special kind of witness to the Gospel of the Kingdom of God. Totally consecrated to God, they are totally given to their brothers, to bring the light of Christ wherever the shadows are darkest in order to spread his hope to discouraged hearts.
+
+The consecrated are a sign of God in the different areas of life, they are leaven for the growth of a more just and fraternal society, they are the prophecy of sharing with the least and the poor. Thus understood and lived, consecrated life appears as what it really is: a gift from God, a gift of God to the Church, a gift of God to his People! Every consecrated person is a gift for the People of God on it’s journey. There is a great need for their presence, which strengthens and renews commitment to: spreading the Gospel, Christian education, love for the needy, contemplative prayer; commitment to human formation, the spiritual formation of young people, and families; commitment to justice and peace in the human family. But let us think a little about what would happen if there were no sisters in hospitals, no sisters in missions, no sisters in schools. Think about a Church without sisters! It is unthinkable: they are this gift, this leaven that carries forward the People of God. These women who consecrate their life to God, who carry forward Jesus’ message, are great.
+
+The Church and the world need this testimony of the love and mercy of God. The consecrated, men and women religious, are the testimony that God is good and merciful. Thus it is necessary to appreciate with gratitude the experiences of consecrated life and to deepen our understanding of the different charisms and spiritualities. Prayer is needed so that many young people may answer “yes” to the Lord who is calling them to consecrate themselves totally to him for selfless service to their brothers and sisters; to consecrate one’s life in order to serve God and the brethren.
+
+For all these reasons, as was already announced, next year will be dedicated in a special way to consecrated life. Let us entrust as of now this initiative to the intercession of the Virgin Mary and St Joseph, who, as the parents of Jesus, were the first to be consecrated by him and to consecrate their life to him.
+
+## After the Angelus:
+
+Today Italy celebrates the Day for Life with the theme “Generate the future”. My greetings and encouragement go to the associations, movements and cultural centres working to defend and promote life. I join the Italian Bishops in emphasizing that “every son is the face of the Lord, lover of life, gift to the family and to society” (*Message for the 36th National Day for Life*). May each of us, in our own role and in our own field, feel called to love and serve life, to receive it, respect it and foster it, especially when it is fragile and in need of attention and care, from the womb to its end on this earth.
+
+An affectionate thought goes to the dear people of Rome and Tuscany, struck by the rains which have caused flooding. These brothers, who are facing trials, are not without our concrete solidarity and our prayers. Dear brothers and sisters, I am very close to you!
+
+I wish everyone a good Sunday and a good lunch. Goodbye!

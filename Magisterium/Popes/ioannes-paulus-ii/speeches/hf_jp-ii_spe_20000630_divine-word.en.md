@@ -1,0 +1,61 @@
+---
+id: jp2-spe-20000630-divine-word.en
+work: jp2-spe-20000630-divine-word
+title: "To the Society of the Divine Word (June 30, 2000)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2000-06-30
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2000/apr-jun/documents/hf_jp-ii_spe_20000630_divine-word.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, pt"
+anchors: "{#jp2-spe-20000630-divine-word.N} — numbered paragraphs 1..6 (6 anchors), shared with jp2-spe-20000630-divine-word.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Society of the Divine Word (June 30, 2000)
+## ADDRESS OF THE HOLY FATHER JOHN PAUL II TO THE SOCIETY OF THE DIVINE WORD
+
+*Friday 30 June 2000*
+
+*To the Society of the Divine Word*
+
+### 1 {#jp2-spe-20000630-divine-word.1}
+
+In this year of the Great Jubilee, as the whole Church rejoices in the Word made flesh two thousand years ago, I warmly greet you on the occasion of the Fifteenth General Chapter of the Society of the Divine Word, which takes place as you celebrate the one hundred and twenty-fifth anniversary of your foundation.  In particular I welcome the new Superior General and General Council, and I assure you of my prayers as you undertake your lofty responsibilities. I join you and all the members of the Society in giving thanks to God for the impetus given to the Church's mission down the years through the faithful witness of your religious consecration and your missionary activities.
+
+### 2 {#jp2-spe-20000630-divine-word.2}
+
+Led by the Holy Spirit, Blessed Arnold Janssen with four companions opened a house at Steyl to train priests for foreign mission work; and this led to the emergence of the Society of the Divine Word, whose priests and brothers, consecrated to the Lord's service through the religious vows of poverty, chastity and obedience, "go forth into the whole world to carry out the task of preaching the Gospel and planting the Church among peoples or groups who do not yet believe in Christ" (*[Ad Gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html)*, 6).
+
+From this Society there came men like Blessed Joseph Freinademetz who devoted himself with exemplary zeal and evangelical creativity to the service of the Gospel in China, and the Blessed martyrs Father Ludwik Mzyk, Father Alojzy Liguda, Father Stanislaw Kubista and Brother Grzegorz Frackowiak, who gave glory to God with the supreme sacrifice of their lives .As his spiritual testament from a death-camp Blessed Alojzy bequeathed to his beloved Society an eloquent declaration of the dignity of every human being, created in God's image and likeness: "People may treat me as something base, but cannot make me base .Dachau can rob me of all my rights and titles; the privilege of being a son of God no one can take from me .Forever I shall repeat: 'God will always be and remain my Father .'" The martyrs are the glory of your Society, and the surest sign of the efficacy of his grace, manifested in the spirit and rules which govern the life of your communities.
+
+### 3 {#jp2-spe-20000630-divine-word.3}
+
+The divine word which you are called to speak in the world is the word spoken first by God in the moment of creation when, after breathing into the primeval darkness, emptiness and chaos, he brought to birth the light and fullness and order of Paradise (cf. *Gen* 1:2-3).You too are sent into the darkness, the emptiness and the chaos of the world in order to speak the life-giving word. This means in the end that you are sent to speak the Word which is Jesus Christ. When the Word was made flesh, God entered the very depths of human sin and misery; and this divine embrace of our sinful world is made perfect on Calvary's hill.  From the Cross the Word of God spoken to all times and places and peoples addresses every human need and every human hope. This is the Word which your Society is called to proclaim: the Word of the Cross, which "is foolishness to those who are perishing, but \[which\] to us who are being saved. . . is the power of God" (*1 Cor* 1:18).This means that each one of you is called, like the Apostle Paul, to live the mystery of the Lord's Cross (cf. *Phil* 3:10), in such a way that your ministry may be much more than human service and solidarity. It must always be a communication of the newness of life brought by Christ in the power of the Holy Spirit.
+
+### 4 {#jp2-spe-20000630-divine-word.4}
+
+At the dawn of the new millennium, a rapidly changing world calls you to engage in a profound discernment in order to respond more effectively to God's will and to contemporary needs. It is fitting that the Fifteenth General Chapter of the Society has as its theme: "Listening to the Spirit: Our Missionary Response Today".It is the Holy Spirit who must lead your discernment, just as it is the Spirit who must be the hidden power of all your missionary work, leading you into the depths of contemplation from which the herald's testimony springs. It is the Holy Spirit who ensures that Christ's life "becomes your life, his mission becomes your mission" (*SVD Constitutions*, Prologue).
+
+The urgent task of the mission *ad gentes* and the "new evangelization" requires that you proclaim Christ the Saviour in many different cultural contexts.It can never be forgotten that there are still countless men and women who have not heard the name of Jesus and who have never had the immense gift of his salvation offered to them.Christ is the only Saviour of the world, the Good News for the men and women of every time and place in their search for the meaning of existence and the truth of their own humanity (cf. *[Ecclesia in Asia](http://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_06111999_ecclesia-in-asia_en.html),* 14). All people have a right to hear this Good News, and the Church therefore has a solemn duty to go forth everywhere to proclaim the saving message of Jesus Christ. In this most vital work, your Society has an indispensable role to play in upholding the primacy of explicit proclamation of Jesus as Lord, without which there can be no true evangelization (cf. *ibid.,* 19; *[Evangelii Nuntiandi](http://www.vatican.va/holy_father/paul_vi/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi_en.html),* 22). "Everyone who calls upon the name of the Lord will be saved.  But how are they to call upon him in whom they have not believed?  And how are they to believe in him of whom they have never heard?And how are they to hear without a preacher?" (*Rom* 10:13-14).
+
+At the same time, inculturation and interreligious dialogue have an important role to play in many of the places where you carry out your missionary activity.  Serious and open dialogue with cultures and religions does not dispense from evangelization and should never be seen as opposed to the mission *ad gentes.*  It should also be remembered that this dialogue is what Pope Paul VI called a *colloquium salutis* (cf. *[Ecclesiam Suam](http://www.vatican.va/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_06081964_ecclesiam_en.html),* 58), not a simple exchange of opinions or points of view, but a "saving dialogue" to which the Church brings the truth of the redemption which God has worked in Jesus. It presupposes in the missionary serious personal preparation, mature gifts of discernment, fidelity to the indispensable criteria of doctrinal orthodoxy, moral integrity and ecclesial communion (cf. *[Redemptoris Missio](http://www.vatican.va/edocs/ENG0219/_INDEX.HTM)*, 52-54).
+
+### 5 {#jp2-spe-20000630-divine-word.5}
+
+In recent times, the Society of the Divine Word has experienced considerable growth, with a good number of vocations in different parts of the world. Your missionary activities have spread in Africa, Asia and the former Soviet Union, and today the members of the Society, from more than sixty different nationalities, carry out their apostolate in more than sixty countries.  Your Society has not been slow to take up the challenge of being present as missionaries in the new forms of culture and communications which characterize modern living (cf. *[Redemptoris Missio](http://www.vatican.va/edocs/ENG0219/_INDEX.HTM)*, 37). Convinced that Holy Scripture is a gift which we receive within the Church and is an invitation to communion of life with God, you have devoted significant energies to the fostering of the Biblical apostolate through publications and educational activities.  The promotion of justice, peace and social development represents another essential dimension of your mission to share with all people the "unsearchable riches of Christ" (*Eph* 3:8). In all of this,  your commitment to the life of evangelical poverty, the primary purpose of which is to "attest that God is the true wealth of the human heart" (*[Vita Consecrata](http://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_25031996_vita-consecrata_en.html)*, 90), combined with preferential love for the poor, can make your apostolate, which is often carried out among the forgotten of the earth and the marginalized, bear abundant fruit for the salvation of the world.
+
+### 6 {#jp2-spe-20000630-divine-word.6}
+
+It is my prayer that the General Chapter will contribute above all to a deep renewal of your consecrated life and missionary charism.  May you always be men of hope, able to speak powerfully the word of God which transforms human hearts and the world itself. May many young men continue to hear Christ's call to dedicate themselves generously and joyfully to him as missionaries in your Society.  I entrust the priests, brothers, scholastics and novices of the Society of the Divine Word, as well as your co-workers, students, and benefactors, to the intercession of Mary, Mother of the Redeemer, and the Blessed from your ranks. As a pledge of joy and strength in Jesus Christ, the Word of God, I cordially impart my Apostolic Blessing.

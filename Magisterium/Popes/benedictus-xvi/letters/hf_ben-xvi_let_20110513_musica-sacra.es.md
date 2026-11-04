@@ -1,0 +1,45 @@
+---
+id: b16-let-20110513-musica-sacra.es
+work: b16-let-20110513-musica-sacra
+title: "Carta al Gran Canciller del Pontificio Instituto de Música Sacra con ocasión del Centenario de fundación del Instituto (13 de mayo de 2011)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Letter
+url_date: 2011-05-13
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/letters/2011/documents/hf_ben-xvi_let_20110513_musica-sacra.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#b16-let-20110513-musica-sacra} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Carta al Gran Canciller del Pontificio Instituto de Música Sacra con ocasión del Centenario de fundación del Instituto (13 de mayo de 2011) {#b16-let-20110513-musica-sacra}
+## CARTA DEL SANTO PADRE BENEDICTO XVI CON OCASIÓN DEL CENTENARIO DEL INSTITUTO PONTIFICIO DE MÚSICA SACRA
+
+*Al venerado Hermano\
+cardenal Zenon Grocholewski\
+gran canciller del [Instituto pontificio de música sacra](http://www.musicasacra.va/)*
+
+Han transcurrido cien años desde que mi santo predecesor Pío X fundó la Escuela superior de música sacra, elevada a Instituto pontificio después de veinte años por el Papa Pío XI. Esta importante conmemoración es motivo de alegría para todos los cultivadores de la música sacra, pero más en general para cuantos, comenzando naturalmente por los pastores de la Iglesia, se interesan por la dignidad de la liturgia, de la que el canto sagrado es parte integrante (cf. *[Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html),* 112). Por eso, me alegra mucho expresar mi viva felicitación por esta meta y formularle a usted, venerado hermano, al director y a toda la comunidad del Instituto pontificio de música sacra mis mejores deseos.
+
+Este Instituto, que depende de la Santa Sede, forma parte de la singular realidad académica constituida por las Universidades pontificias romanas. De modo especial está vinculado al Ateneo San Anselmo y a la Orden benedictina, como lo atestigua también el hecho de que su sede didáctica esté situada, desde 1983, en la abadía de San Jerónimo in Urbe, mientras que la sede legal e histórica sigue estando en San Apolinar. Al cumplirse el centenario, el pensamiento va a todos aquellos —y sólo el Señor los conoce perfectamente— que han cooperado de alguna forma en la actividad de la Escuela superior, primero, y después del Instituto pontificio de música sacra: los superiores que se han sucedido en su dirección, los ilustres profesores y las generaciones de alumnos. La acción de gracias a Dios por los múltiples dones concedidos va acompañada por el reconocimiento de lo que cada uno ha dado a la Iglesia, cultivando el arte musical al servicio del culto divino.
+
+Para captar claramente la identidad y la misión del Instituto pontificio de música sacra, conviene recordar que el Papa san Pío X lo fundó ocho años después de haber promulgado el motu proprio *[Tra le sollecitudini](https://www.vatican.va/content/pius-x/es/motu_proprio/documents/hf_p-x_motu-proprio_19031122_sollecitudini.html),* del 22 de noviembre de 1903, con el que llevó a cabo una profunda reforma en el campo de la música sacra, volviendo a la gran tradición de la Iglesia contra el influjo ejercido por la música profana, especialmente por la ópera. Esa intervención magisterial necesitaba, para su realización en la Iglesia universal, un centro de estudio y de enseñanza que pudiese transmitir de modo fiel y cualificado las líneas indicadas por el Sumo Pontífice, según la auténtica y gloriosa tradición que se remonta a san Gregorio Magno. Por eso, en el arco de los últimos cien años, esa institución ha asimilado, elaborado y transmitido los contenidos doctrinales y pastorales de los documentos pontificios, así como del concilio Vaticano II, concernientes a la música sacra, para que puedan iluminar y guiar la obra de los compositores, de los maestros de capilla, de los liturgistas, de los músicos y de todos los formadores en este campo.
+
+A este propósito, deseo poner de relieve un aspecto fundamental que me interesa particularmente: el hecho de que desde san Pío X hasta hoy se percibe, a pesar de la natural evolución, la continuidad sustancial del Magisterio sobre la música sacra en la liturgia. En particular, los Pontífices Pablo VI y Juan Pablo II, a la luz de la constitución conciliar *[Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html),* quisieron reafirmar el fin de la música sacra, es decir, «la gloria de Dios y la santificación de los fieles» (n. 112), y los criterios fundamentales de la tradición, que me limito a recordar: el sentido de la oración, de la dignidad y de la belleza; la plena adhesión a los textos y a los gestos litúrgicos; la participación de la asamblea y, por tanto, la legítima adaptación a la cultura local, conservando al mismo tiempo la universalidad del lenguaje; la primacía del canto gregoriano, como modelo supremo de música sacra, y la sabia valoración de las demás formas expresivas, que forman parte del patrimonio histórico-litúrgico de la Iglesia, especialmente, pero no sólo, la polifonía; la importancia de la *schola cantorum,* en particular en las iglesias catedrales. Son criterios importantes, que hay que considerar atentamente también hoy. De hecho, a veces estos elementos, que se encuentran en la *[Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html),* como precisamente el valor del gran patrimonio eclesial de la música sacra o la universalidad que es característica del canto gregoriano, se han considerado expresiones de una concepción que respondía a un pasado que era preciso superar y descuidar, porque limitaba la libertad y la creatividad del individuo y de las comunidades. Pero tenemos que preguntarnos siempre de nuevo: ¿quién es el auténtico sujeto de la liturgia? La respuesta es sencilla: la Iglesia. No es el individuo o el grupo que celebra la liturgia, sino que esta es ante todo acción de Dios a través de la Iglesia, que tiene su historia, su rica tradición y su creatividad. La liturgia, y en consecuencia la música sacra, «vive de una relación correcta y constante entre *sana traditio* y *legitima progressio*», teniendo siempre muy presente que estos dos conceptos —que los padres conciliares claramente subrayaban— se integran mutuamente porque «la tradición es una realidad viva y por ello incluye en sí misma el principio del desarrollo, del progreso» ([*Discurso al Instituto litúrgico* *pontificio San Anselmo*](https://www.vatican.va/content/benedict-xvi/es/speeches/2011/may/documents/hf_ben-xvi_spe_20110506_sant-anselmo.html), 6 de mayo de 2011: *L’Osservatore Romano,* edición en lengua española, 29 de mayo de 2011, p. 2).
+
+Todo esto, venerado hermano, por así decirlo, forma el «pan de cada día» de la vida y del trabajo del Instituto pontificio de música sacra. Sobre la base de estos sólidos y seguros elementos, a los que se añade una experiencia ya secular, os animo a proseguir con renovado impulso y compromiso vuestro servicio en la formación profesional de los estudiantes, para que adquieran una seria y profunda competencia en las diversas disciplinas de la música sacra. Así, ese Instituto pontificio seguirá ofreciendo una contribución válida para la formación, en este campo, de los pastores y de los fieles laicos en las diversas Iglesias particulares, favoreciendo también un adecuado discernimiento de la calidad de las composiciones musicales utilizadas en las celebraciones litúrgicas. Para estas importantes finalidades podéis contar con mi solicitud constante, acompañada por el particular recuerdo en la oración, que confío a la intercesión celestial de la santísima Virgen María y de santa Cecilia, mientras, augurando abundantes frutos de las celebraciones del centenario, de corazón le imparto a usted, al director, a los profesores, al personal y a todos los alumnos del Instituto una especial bendición apostólica.
+
+*Vaticano, 13 de mayo de 2011*
+
+## BENEDICTUS PP. XVI

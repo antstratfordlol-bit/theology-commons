@@ -1,0 +1,45 @@
+---
+id: jp2-let-20030222-missionaries-charity.en
+work: jp2-let-20030222-missionaries-charity
+title: "Letter to Sister M. Nirmala Joshi M.C. Superior General of the Missionaries of Charity on their Eighth General Chapter (February 22, 2003)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Letter
+url_date: 2003-02-22
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/letters/2003/documents/hf_jp-ii_let_20030222_missionaries-charity.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-let-20030222-missionaries-charity} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Letter to Sister M. Nirmala Joshi M.C. Superior General of the Missionaries of Charity on their Eighth General Chapter (February 22, 2003) {#jp2-let-20030222-missionaries-charity}
+## LETTER OF JOHN PAUL II TO THE MISSIONARIES OF CHARITY ON THEIR EIGHTH GENERAL CHAPTER
+
+*To Sister M. Nirmala Joshi\
+Superior General\
+Missionaries of Charity*
+
+With great affection in the Lord Jesus and the assurance of my prayers I send greetings to you and to all the Missionaries of Charity on the occasion of your Eighth General Chapter. This is indeed a special gathering as members from around the world come together for the first time since the death of your dear Foundress, Mother Teresa. Strengthened by Mother’s example of bringing peace and comfort to the needy of the world, you are encouraged to look to the future knowing the importance of your response to people’s cries for bread, for love, for acceptance.
+
+Christ’s Church on earth proclaims the Gospel to everyone, but she turns to the poor with special tenderness and compassion. She does this because she knows that "the option for the poor is inherent in the very structure of love lived in Christ" (*[Vita Consecrata](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031996_vita-consecrata.html)*, 82). Christian love is not simply an act of charity, it is also an encounter with Christ himself in the poor. Love of Christ, therefore, means love of the poor; and for consecrated persons this means embracing a life of poverty, adopting a simple and unaffected manner of living both as individuals and as a community (cf. *ibid*.). In a world so often consumed by greed, your own humble yet rich lives of evangelical poverty eloquently proclaim that God is the true wealth of the human heart.
+
+This truth is of utmost importance amid the material and spiritual difficulties of daily life in every society, whether rich or poor. Your radical witness to the love of Christ speaks powerfully both to those whom you serve and to all who seek deeper meaning in life. I encourage you, then, to persevere in living out faithfully your charism of serving the poorest of the poor. For in doing so you will continue to be a shining example for people today, especially the younger generation, who find themselves in situations not just of material need but also of spiritual impoverishment.
+
+As you go about the work of your Eighth General Chapter, I would also remind you of the importance of continuing formation. This takes on even greater significance for Institutes such as yours which exercise their apostolate in a wide range of cultural and social settings. The initiative, creativity and zeal of the Missionaries of Charity must always be guided by the original inspiration for the Institute, as it is embodied in widely varying contexts. A well-developed programme of continuing formation, which is attentive to God’s word and to the promptings of the Spirit, is essential if Christ is to be recognized and adequately responded to in the many different situations within which you serve the poor. Make every effort therefore to ensure that permanent formation is provided for all your members: for it is in this way that they will deepen their consecration to the Lord and that their love of Jesus and others will grow.
+
+Dear Sisters, at the time of the death of your Foundress, I recalled how she was always filled with the boundless inner strength of Christ’s own love. This is what enabled her to be a Missionary of Charity both in name and in fact. Sustained by the silence of contemplation, she tirelessly brought the love of Christ to the very people in whom she found Christ. You are her spiritual heirs, her beloved children; by following her example, you will be strengthened in your call to serve God in the poorest of the poor. May the Blessed Virgin Mary, Mother of Hope and Mother of the Poor, who calls us to do whatever Jesus tells us (cf. *Jn* 2:5), guide and inspire you as you discern how best to respond in love to suffering humanity. As a sign of my spiritual union with you, and as a pledge of abundant graces in the Lord, I gladly impart to the Chapter members and to all the Missionaries of Charity my Apostolic Blessing.
+
+*From the Vatican, 3 February 2003*
+
+## IOANNES PAULUS II

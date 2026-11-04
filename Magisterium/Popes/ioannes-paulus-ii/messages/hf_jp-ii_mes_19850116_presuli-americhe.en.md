@@ -1,0 +1,45 @@
+---
+id: jp2-mes-19850116-presuli-americhe.en
+work: jp2-mes-19850116-presuli-americhe
+title: "Message to the Bishops from North and Central America and the Caribbean (January 16, 1985)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Message
+url_date: 1985-01-16
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1985/documents/hf_jp-ii_mes_19850116_presuli-americhe.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, it"
+anchors: "{#jp2-mes-19850116-presuli-americhe} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Message to the Bishops from North and Central America and the Caribbean (January 16, 1985) {#jp2-mes-19850116-presuli-americhe}
+## MESSAGE OF JOHN PAUL II TO THE BISHOPS FROM NORTH AND CENTRAL AMERICA AND THE CARRIBEAN
+
+To my Brother Bishops from North and Central America and the Caribbean assembled in Dallas, Texas I am very happy to send greetings to you as you assemble at another Workshop organized by “The Pope John XXIII Medical Moral Research Education Center”. As I greet you in the name of our Lord Jesus Christ, I also wish to thank the Knights of Columbus whose continued generosity has again made possible your coming together from widely scattered dioceses of Canada, the Caribbean, Central America, Mexico and the United States. You gather as Pastors and Teachers of the Church, filled with an eagerness to deepen your knowledge and love of the truth, grateful for the opportunity to pray and reflect together, within the unity of the universal Church, in communion with the Successor of Peter.
+
+In 1980, the Synod of Bishops convened in Rome to consider the Role of the Christian Family in the Modern World. The topic for that Synod was chosen in direct response to numerous requests from around the world for a concerted, detailed study of the problems facing the family today and of the mission of the family in the Church and in society. In response to the Synod and drawing upon the many insights and suggestions of the Synod Fathers, I issued, the following year, the Apostolic Exhortation “*[Familiaris Consortio](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)*”. Your Workshop in Dallas is, in a certain sense, a continuation of the work accomplished by the 1980 Synod, an eloquent expression of your desire as Bishops to help assist families to fulfill their irreplaceable role in the life and mission of the Church.
+
+I was pleased to learn of the topic of this year’s conference, “The Bishops and the Family: The Church Addresses Her Future”. For it indicates that you are convinced of the serious responsibility which Bishops are expected to exercise on behalf of the family, and it shows your desire to carry out your mission with the greatest possible effectiveness. As I pointed out in “*[Familiaris consortio](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)*”. “The person principally responsible in the diocese for the pastoral care of the family is the Bishop. As father and pastor, he must exercise particular solicitude in this clearly priority sector of pastoral care” (IOANNIS PAULI PP. II *[Familiaris consortio](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)*, 73). I am confident that the presentations and discussions of this Workshop will help you in your own pastoral care of the family and enable you better to inspire and guide the priests, deacons, religious and all those who assist you in this work.
+
+In the course of these days, you will undoubtedly examine a number of current trends affecting family life, such as the challenges faced by parents in educating their children to maturity in Christ, the problems confronting aliens and migrant families, the difficulties of aging family members, the pressures in society which contribute to family disintegration, the moral evils which threaten conjugal love and human life from the moment of conception, and the many other emerging areas of special concern. At the same time, you will consider how the family shares in the life and mission of the Church, in particular in the twofold role of promoting love and unity and of fostering and protecting human life. Since the family is called to be a community of persons united in love and pledged to fidelity, it is the foundation of the unity and stability of society, and in a primary way it builds up the Kingdom of God in this world. Furthermore, as I stated in “*[Familiaris consortio](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)*”: “The fundamental task of the family is to serve life, to actualize in history the original blessing of the Creator – that of transmitting by procreation the divine image from person to person” (IOANNIS PAULI PP. II *[Familiaris consortio](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)*, 28).
+
+As you know, at my weekly General Audiences during the past several years, I presented a catechetical series of talks on the theology of the human body and the sacramentality of marriage, including within it a confirmation and further analysis and development of the teaching of Paul VI contained in “*[Humanae Vitae](https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html)*”. A major factor which prompted me to undertake this catechesis was pastoral concern for the family and the conviction that the Pope and Bishops can best serve the family by carrying out faithfully their role as teachers of the faith, by enlightening families with the word of God and the authentic teaching of the Church. That is why I willingly extend my support to this Workshop and to other similar initiatives aimed at helping Bishops more effectively to teach and preach the Good News. I am close to you in the special role that you exercise as Bishops in “proclaiming with joy and conviction the Good News about the family, for the family absolutely needs to hear ever anew and to understand ever more deeply the authentic words that reveal its identity, its inner resources and the importance of its mission in the City of God and in that of man” (*Ibid*. 86).
+
+The title of your meeting aptly indicates that when the Church concerns herself with the family she is concerning herself with her own future. With this same conviction, I said to the United Nations General Assembly, six years ago: “I wish to express the joy that we all find in children, the springtime of life, the anticipation of the future history of each of our present earthly homelands. No country on earth, no political system can think of its own future otherwise that through the image of the se new generations that will receive from their parents the manifold heritage of values, duties and aspirations of the nation to which they belong and of the whole human family. Concern for the child, even before birth, from the first moment of conception and then throughout the years of infancy and youth, is the primary and fundamental test of the relationship of one human being to another” (IOANNIS PAULI PP. II *Allocutio ad Nationum Unitarum Legatos*, 21, die 2 oct. 1979: *Insegnamenti di Giovanni Paolo II*, II, 2 (1979) 538 s.). Our pastoral efforts as Bishops to care for the family in our day are a concrete way in which we contribute to the future of the Church and of all humanity.
+
+May the Holy Spirit, then, dear Brothers, abide ever more fully in your minds and hearts, “the Spirit of truth who comes from the Father” (*Io*. 15, 26), the One who has been sent to guide us to all truth (Cfr. *Ibid*. 16, 13). And I invoke the grace and peace of our Lord Jesus Christ upon you and your people, especially upon all the families to whom you minister by Word and Sacrament.
+
+*From the Vatican, January 16, 1985*
+
+## IOANNES PAULUS PP. II

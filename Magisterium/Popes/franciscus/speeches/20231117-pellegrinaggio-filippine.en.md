@@ -1,0 +1,47 @@
+---
+id: francis-spe-20231117-pellegrinaggio-filippine.en
+work: francis-spe-20231117-pellegrinaggio-filippine
+title: "To Pilgrims from the Archdiocese of Ozamiz (Philippines) (17 November 2023)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2023-11-17
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2023/november/documents/20231117-pellegrinaggio-filippine.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it"
+anchors: "{#francis-spe-20231117-pellegrinaggio-filippine} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To Pilgrims from the Archdiocese of Ozamiz (Philippines) (17 November 2023) {#francis-spe-20231117-pellegrinaggio-filippine}
+## GREETING OF HIS HOLINESS POPE FRANCIS TO PILGRIMS FROM THE ARCHDIOCESE OF OZAMIZ (PHILIPPINES)
+
+*Clementine Hall\
+Friday, 17 November 2023*
+
+\[**[Multimedia](http://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2023/11/17/pellegrinaggio-filippine.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Your Excellency,\
+Dear brothers and sisters, good morning to everyone!*
+
+I offer a cordial welcome to all of you, and in particular to Archbishop Jumoad, as you mark the fiftieth anniversary of the establishment of what is now the Archdiocese of Ozamiz with a Marian pilgrimage to Europe. Thank you for your visit.
+
+It is appropriate to celebrate your Golden Jubilee in this way. It is important to keep in mind, however, that a pilgrimage is not like a vacation. In fact, making a pilgrimage to shrines is an eloquent expression of trust in God. Pilgrims carry in their hearts their faith, history, joys, anxieties, hopes and particular prayers. Here, I am thinking of the biblical story of Hannah, the mother of the prophet Samuel. She went to the shrine of Shiloh in sadness, yet at the same time with humble confidence, to ask God for the gift of a son. There, the Lord heard her prayer and granted her desire (cf. *1 Sam* 1:12-17). At shrines, we meet the tender love of the Father who has mercy on all. And that mercy is so often made known to us through our Blessed Mother, Mary, who teaches us how to welcome God into our lives and who, precisely because she is a mother, knows how to place our needs before Jesus, just as she did for the newly-married couple at Cana (cf. *Jn* 2:3-5). I like that Mary’s gesture, one that portrays her as she is, is to point to Jesus. At Cana, what did she say? “Do whatever he tells you”. Mary never points to herself; Mary points to the Lord, she always points to the Lord. It is a mother’s gesture, and a generous one, because she never wanted to put herself in the centre, but always the Lord.
+
+I am happy, then, that yours is a *Marian* pilgrimage and that you will be able to visit and pray at different shrines dedicated to Our Lady. For it is Mary who shows us that being followers of Jesus always involves listening to his word, meditating on it in our hearts (cf. *Lk* 2:19) and then bringing that word to others, as we learn when Mary went to visit her elderly relative Elizabeth (cf. *Lk* 1:39-56). Indeed, we could say that Mary was the first missionary disciple. It is my hope that this pilgrimage will help each of you to be like Mary: missionary disciples transformed by your encounter with the Lord and renewed in zeal for bearing witness to his presence, compassion and love.
+
+At the same time, I trust that the other events and celebrations planned to mark the Jubilee will inspire all members of the Archdiocesan community to deepen the awareness of their baptismal call to live always as faithful disciples of the Lord. In this way, nourished by the preaching of the word of God and the celebration of the sacraments, the local Church of Ozamiz will be able to contribute to the advancement of God’s kingdom of justice, unity and peace. In this regard, it is my hope that your parishes and communities will be models in practicing the works of mercy and in being neighbours to all, especially families, young people, the sick, the elderly and the poor, with the charity that Jesus asks of us. This includes, as well, being responsible stewards of creation, in the realization that our care for one another and for our common home are intimately bound together (cf. *[Laudate Deum](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/20231004-laudate-deum.html)*, 3). As you look forward to the future, I encourage you to journey together in fraternal solidarity, listening to one another and above all to the Holy Spirit who guides the entire Church in discerning new and creative paths for the proclamation of the Gospel.
+
+Dear friends, please know of my spiritual closeness as you begin your pilgrimage. May these days be an occasion of grace for each of you and bear fruit in the desire to continue your journey of faith. Entrusting you to the loving intercession of the Blessed Virgin Mary, Mother of the Church, I assure you of my prayers for you, your families and God’s people in the Archdiocese of Ozamiz. To all of you, I cordially impart my blessing, and I ask you, please, to pray for me. Thank you.

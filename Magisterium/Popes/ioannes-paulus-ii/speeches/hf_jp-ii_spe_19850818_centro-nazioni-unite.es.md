@@ -1,0 +1,98 @@
+---
+id: jp2-spe-19850818-centro-nazioni-unite.es
+work: jp2-spe-19850818-centro-nazioni-unite
+title: "Visita al Centro de las Naciones Unidas en Nairobi (18 de agosto de 1985)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1985-08-18
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1985/august/documents/hf_jp-ii_spe_19850818_centro-nazioni-unite.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it"
+anchors: "{#jp2-spe-19850818-centro-nazioni-unite.N} — numbered paragraphs 1..8 (8 anchors), shared with jp2-spe-19850818-centro-nazioni-unite.en"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Visita al Centro de las Naciones Unidas en Nairobi (18 de agosto de 1985)
+[VIAJE APOSTÓLICO A ÁFRICA](http://w2.vatican.va/content/john-paul-ii/es/travels/1985/travels/documents/trav_africa.html)
+
+## VISITA DEL SANTO PADRE JUAN PABLO II AL CENTRO DE LAS NACIONES UNIDAS
+
+*Nairobi, Kenya\
+Domingo 18 de agosto de 1985*
+
+*Señoras y señores:*
+
+### 1 {#jp2-spe-19850818-centro-nazioni-unite.1}
+
+Para mí es siempre un honor visitar una de las Agencias de las Naciones Unidas. La importancia cada vez mayor de esta prestigiosa Organización se hace más evidente cada año. En ningún momento de la historia ha habido mayor necesidad de diálogo y colaboración a nivel internacional y de un esfuerzo común de las naciones por promover un desarrollo humano integral y mayor justicia y paz, objetivos éstos que son precisamente a los que se dedican las Naciones Unidas.
+
+Así pues, estoy muy agradecido por la invitación para venir hoy, a este Centro, una invitación que me fue hecha por el Dr. Mostafa K. Tolba, Director Ejecutivo del Pro-grama de las Naciones Unidas para el Medio Ambiente. Al saludarlo a él, saludo también a los directivos y a todos los que están vinculados al trabajo de la Agencia. Al mismo tiempo, expreso un cordial saludo al cuerpo directivo de HABITAT: El Centro de las Naciones Unidas para los asentamientos humanos, que también tiene su sede en Nairobi, y a su Director Ejecutivo, Dr. Arcos Ramachandron.
+
+### 2 {#jp2-spe-19850818-centro-nazioni-unite.2}
+
+Desde hace muchos años, la Iglesia católica se ha interesado activamente en las cuestiones concernientes al medio ambiente. Una Delegación de la Santa Sede participó en la Conferencia sobre el Medio Ambiente celebrada en Estocolmo en 1972, reunión que preparó el camino para el establecimiento del Programa de las Naciones Unidas para el medio ambiente. Mi predecesor, el Papa [Pablo VI](http://w2.vatican.va/content/paul-vi/es.html), envió un [mensaje a la Conferencia de Estocolmo](http://www.vatican.va/holy_father/paul_vi/messages/pont-messages/documents/hf_p-vi_mess_19720605_conferenza-ambiente_sp.html), en el que decía: "Quisiéramos manifestarle a usted y a todos los participantes el interés con que seguimos esta gran empresa. La preocupación por conservar y mejorar el medio ambiente natural, igual que la noble ambición de estimular un primer gesto de cooperación mundial en favor de este bien necesario para todos, responden a imperativos profundamente sentidos por los hombres de nuestro tiempo" (1 de junio de 1972).
+
+El compromiso de la Iglesia en la conservación y mejora de nuestro medio ambiente va unido a un mandamiento de Dios. En las primeras páginas de la Biblia, leemos cómo Dios creó todas las cosas y se las encomendó luego al cuidado de los seres humanos, que también habían sido creados a imagen de Dios. Dios dijo a Adán y Eva: "Procread y multiplicaos y henchid la tierra; sometedla y dominad sobre los peces del mar, sobre las aves del cielo y sobre los ganados y sobre todo cuanto vive y se mueve sobre la tierra" (*Gén* 1, 28).
+
+Es una exigencia de nuestra dignidad humana y, por ello una seria responsabilidad, ejercer el dominio sobre la creación, en un modo tal que sirva verdaderamente a la familia humana. La explotación de las riquezas de la naturaleza tiene que realizarse de acuerdo con criterios que tengan en cuenta no sólo las necesidades inmediatas de la gente, sino además las necesidades de las futuras generaciones. De este modo, la administración de la naturaleza, que Dios encomendó al hombre, no puede guiarse por una visión estrecha o por fines egoístas; más bien ha de tener en cuenta el hecho de que todos los bienes creados están orientados al bien de toda la humanidad. El uso de los recursos naturales tiene que buscar el servicio del desarrollo integral de las generaciones presentes y futuras. Los progresos en el terreno de la ecología y una conciencia creciente de la necesidad de proteger y conservar ciertos recursos naturales no renovables constituyen exigencias de una verdadera administración. Dios es glorificado cuando la creación sirve al desarrollo integral de toda la familia humana.
+
+### 3 {#jp2-spe-19850818-centro-nazioni-unite.3}
+
+Con la rápida aceleración de la ciencia y la tecnología en los últimos decenios, el medio ambiente se ha visto sometido a cambios muchos mayores que los que se habían producido en el pasado. Como resultado de ello, se nos ofrecen numerosas posibilidades nuevas para el desarrollo y el progreso humanos; ahora podemos realizar grandes —e incluso dramáticas— transformaciones en nuestro entorno, que pueden contribuir a la mejora de las cualidades de vida. Por otra parte, estas posibilidades nuevas, si no son utilizadas con sabiduría y visión, pueden provocar daños tremendos e incluso irreparables en las esferas ecológica y social. La capacidad de mejorar el medio ambiente y la capacidad de destruirlo aumentan enormemente cada año.
+
+El factor determinante último es la persona humana. No son la ciencia y la tecnología, o el aumento creciente de los medios de desarrollo económico y material, sino la persona humana, especialmente los grupos de personas, comunidades y naciones, que eligen libremente afrontar juntos los problemas, los que, bajo la guía de Dios, determinan el futuro. Por esta razón, cuanto impida el ejercicio de la libertad humana o la deshonre, como puede ocurrir con la segregación racial y cualquier forma de prejuicio o discriminación, constituye una afrenta a la vocación humana a configurar su propio destino. Eventualmente, esos hechos repercutirán en todas las áreas que requieren el ejercicio de la libertad humana y, en cuanto tales, pueden convertirse en un impedimento mayor para la mejora del medio ambiente y de toda la sociedad.
+
+Los elementos que amenazan actualmente el medio ambiente son numerosos: la desaparición creciente de los bosques, la polución de las aguas y de la atmósfera, la erosión del suelo, la desertización, la lluvia ácida y otros muchos. Los problemas ecológicos son especialmente graves en las regiones tropicales del mundo y en particular, aquí en África. Casi todas las naciones afectadas por estos problemas son naciones en vías de desarrollo, que están recorriendo, con grandes dificultades, diversos estadios de industrialización. Una severa reducción de energía y recursos naturales impide el progreso y tiene como resultado condiciones de vida ingratas. Por otra parte, los problemas se complican muchas veces a causa del medio ambiente tropical, que hace a la gente especialmente susceptible a contraer serias enfermedades endémicas.
+
+Puesto que cada país tiene sus problemas particulares y cantidades diversas de recursos naturales, es fácil ver la diferencia entre los problemas que se plantean a las naciones en vías de desarrollo y los que se plantean a las naciones desarrolladas. La industria y la tecnología modernas ofrecen grandes esperanzas de avances; por ello, es preciso dar pasos para asegurar que el desarrollo económico, material y social, que son tan importantes, incluyan una consideración adecuada del impacto en el medio ambiente, tanto inmediatamente como en el futuro.
+
+### 4 {#jp2-spe-19850818-centro-nazioni-unite.4}
+
+La Iglesia católica contempla el cuidado y la protección del medio ambiente desde la perspectiva  de la persona humana. Estamos convencidos, por ello, de que todos los programas ecológicos deben respetar totalmente la dignidad y libertad de cualquiera que pueda verse afectado, por esos programas.  Los problemas del medio ambiente tendrían que ser vistos en relación con las necesidades de los hombres y mujeres actuales, sus familias, sus valores, su herencia social y cultural única. Pues el objetivo último de los programas sobre el medio ambiente es mejorar la cualidad de la vida humana, poner la creación, lo más plenamente posible, al servicio de la familia humana.
+
+### 5 {#jp2-spe-19850818-centro-nazioni-unite.5}
+
+Posiblemente, en ningún otro campo vemos tan claramente la interrelación del mundo hoy como en las cuestiones concernientes al medio ambiente. La creciente interdependencia entre los individuos y entre las naciones se siente con toda viveza cuando se trata de enfrentarse a los desastres naturales tales como sequías, tifones, inundaciones y terremotos. Las consecuencias de los mismos alcanzan más allá de las regiones directamente afectadas por ellos. Y la extensión y complejidad de muchos problemas ecológicos exigen, no sólo una respuesta coordinada a niveles locales y nacionales, sino además una asistencia y coordinación substanciales por parte de la comunidad internacional. Como escribía el Papa Pablo VI a la [Conferencia de Estocolmo](http://www.vatican.va/holy_father/paul_vi/messages/pont-messages/documents/hf_p-vi_mess_19720605_conferenza-ambiente_sp.html): «A la interdependencia debe responder ya la corresponsabilidad; a la comunidad de destino debe responder la solidaridad". No se exagera cuando se subraya el carácter internacional de los problemas ecológicos o los beneficios internacionales de su solución.
+
+Estos problemas requieren muchas veces la pericia y la asistencia de científicos y técnicos de los países industrializados. Pero éstos últimos no pueden solucionarlos sin la cooperación, a todos los niveles, de científicos y técnicos de los países a quienes se presta la ayuda. No se puede esperar que la transferencia de medios técnicos a países en vías de desarrollo dé los resultados apetecidos si no se provee a la instrucción de técnicos y científicos de esos mismos países. La preparación de personal local permite adaptar la tecnología en un modo tal que respete la textura cultural y social de las comunidades locales. Los expertos locales poseen los vínculos necesarios con sus propias gentes, indispensables para asegurar una sensibilidad equilibrada hacia los valores y necesidades locales. Ellos pueden evaluar la validez permanente  de las nuevas técnicas importadas. Sólo cuando en las regiones pertinentes exista por fin este personal preparado podrá hablarse de colaboración total entre países.
+
+### 6 {#jp2-spe-19850818-centro-nazioni-unite.6}
+
+Desearía decir ahora unas palabras a quienes están enrolados en el trabajo del Centro de las Naciones Unidas para los Asentamientos Humanos y a cuantos están intentando mejorar las condiciones de vida de los pobres y procurar un techo a los que no tienen casa. Lógicamente este problema está estrechamente relacionado con los problemas ecológicos a los que acabo de referirme. En realidad, se sitúa en el centro mismo de dichos problemas. Como afirmaba el Papa Pablo VI en su [mensaje a la Conferencia de las Naciones Unidas sobre Asentamientos Humanos](http://w2.vatican.va/content/paul-vi/es/messages/pont-messages/documents/hf_p-vi_mess_19760524_conferenza-onu.html) en Vancouver en 1976: "El hogar, es decir, ese centro de calor en torno al cual se reúne una familia y dentro del cual los hijos crecen en el amor, debe seguir siendo la primera preocupación de toda programación relativa al ambiente humano" (24 de mayo de 1976). Por esta razón, la preocupación primaria de 1a Iglesia por la persona humana en los problemas del medio ambiente incluye además los problemas de la vivienda y la acomodación.
+
+Los que creen en Jesucristo no pueden olvidar sus palabras: "Las raposas tienen cuevas, y las aves del cielo, nidos; pero el Hijo del hombre no tiene donde reclinar la cabeza" (*Mt* 8, 20). Por ello, en los rostros de los que no tienen casa vemos el rostro de Cristo el Señor. Y nos sentimos impulsados, por amor a El y por su ejemplo de entrega generosa, a. hacer todo lo que podamos para ayudar a aquellos que viven en condiciones indignas de su dignidad humana. Al mismo tiempo, unimos gozosamente nuestras manos con todos los hombres de buena voluntad en los dignos esfuerzos que se están haciendo por procurar viviendas adecuadas para los millones de personas que en nuestro mundo viven sin un lugar donde cobijarse. Tampoco podemos permanecer pasivos o indiferentes ante los problemas tan complejos que está creando el rápido crecimiento de la urbanización y la industrialización en el terreno de la vivienda y del medio ambiente. Yo les aseguro, por consiguiente, el gran interés y el apoyo de la Iglesia en vuestros nobles esfuerzos por procurar vivienda a los que no la tienen y por salvaguardar la dimensión humana de todos los asentamientos de personas.
+
+### 7 {#jp2-spe-19850818-centro-nazioni-unite.7}
+
+Hace cinco años, con ocasión de mi primera visita pastoral a África, fue a Uagadugú en el corazón de la región de Sahel, donde hice un solemne llamamiento en favor de todos los que sufrían como consecuencia de la devastadora sequía. Aquel llamamiento suscitó una respuesta generosísima, tan generosa de hecho que fue posible poner en movimiento un programa especial para asistir de un modo más formal a los afectados por aquella situación. Así, la "Fundación Juan Pablo II para el Sahel" comenzó oficialmente sus actividades en febrero de 1984. Dicha Fundación es un signo del amor de la Iglesia hacia los hombres, mujeres y niños que están sufriendo las consecuencias de esta tragedia permanente. Aunque el proyecto puede parecer pequeño e inadecuado ante necesidades tan grandes, constituye sin embargo un esfuerzo concreto por ayudar a aquella gente y contribuir de algún modo al futuro del continente africano, un futuro que, en último término, está en las manos de las mismas gentes de África.
+
+Deseo aprovechar esta oportunidad para renovar mi solemne llamamiento en favor de la gente del Sahel y de otras regiones críticas donde la sequía continúa y donde existe además una clara necesidad de asistencia y solidaridad por parte de la comunidad internacional con el fin de procurar alimento, bebida y cobijo y resolver tos conflictos que están impidiendo la realización de esfuerzos de ayuda. Así pues, [repito lo que dije en Uagadugú](http://www.vatican.va/holy_father/john_paul_ii/homilies/1980/documents/hf_jp-ii_hom_19800510_ouagadougou-africa_sp.html) hace cinco años: "No puedo callarme cuando mis hermanos y hermanas están amenazados. Me hago voz de los que no tienen voz, voz de los inocentes que murieron porque les faltaron el agua y el pan; voz de los padres y las madres que han visto morir a sus hijos sin comprender, o que verán siempre en sus hijos las secuelas del hambre que han sufrido; voz de las generaciones futuras, que no deben vivir ya con el peso de esta terrible amenaza sobre su vida. ¡Hago un llamamiento a todos! ¡No esperemos que vuelva la sequía, espantosa y devastadora! ¡No esperemos a que la arena traiga de nuevo la muerte! ¡No permitamos que el porvenir de estos pueblos siga amenazado por siempre!" (10 de mayo de 1980).
+
+La solidaridad manifestada en el pasado ha demostrado, por su amplitud y efectividad, que es posible establecer una diferencia. Que nuestra respuesta sea ahora aún más generosa y eficaz.
+
+Hacen falta dos tipos de asistencia: una que haga frente a las necesidades inmediatas de alimento y vivienda y otra que haga posible que el pueblo que ahora está sufriendo vuelva a asumir la responsabilidad de sus propias vidas, regenerar sus propias tierras y hacer que éstas vuelvan a ser capaces de procurarles un modo de vida estable y laudable. Estos programas a largo plazo permitirán que esas gentes vuelvan a tener confianza en el futuro y un sentimiento de dignidad y autovaloración.
+
+### 8 {#jp2-spe-19850818-centro-nazioni-unite.8}
+
+Señoras y señores, al dirigirme hoy a vosotros, me vienen a la memoria aquellas palabras de Pablo VI que se han hecho tan conocidas: "El desarrollo es el nuevo nombre de la paz" (*[Populorum progressio](http://www.vatican.va/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_26031967_populorum_sp.html)*, 87). Sí, es verdad, el desarrollo integral es una condición para la paz, y los programas sobre el medio ambiente ordenados a procurar alimento y vivienda constituyen formas concretas de promover la paz. Cuantos sirven a las necesidades fundamentales de sus prójimos aportan su grano de arena para construir el gran edificio de la paz.
+
+La paz se construye lentamente a través de la buena voluntad, la confianza y el esfuerzo perseverante. Las agencias internacionales y las organizaciones gubernamentales y no gubernamentales contribuyen a construir la paz cuando se comprometen en esfuerzos comunes por procurar alimento y vivienda a los que lo necesitan y cuando trabajan juntos por mejorar el medio ambiente.
+
+Los Jefes de Estado y los políticos contribuyen a construir la paz cuando pasan por encima de las ideologías que dividen y cooperan en aunar esfuerzos libres de prejuicios, discriminaciones, odio o revanchismo. La paz es fruta de la reconciliación, y la paz de África depende también de la reconciliación de las gentes en cada una de las naciones. Requiere la solidaridad de todos los africanos como hermanos y hermanas en el servicio de la entera familia africana y al servicio del desarrollo integral de toda la humanidad.
+
+La paz se construye cuando los presupuestos nacionales se desvíen de la creación de armas cada vez más poderosas y mortíferas y se orienten a procurar alimenta y materias de primera necesidad para hacer frente a las necesidades humanas básicas. Y la paz se consolida cuando, con el paso de los años, el uso de las armas nucleares llegue a convertirse en un pálido recuerdo en la conciencia de la humanidad. Hoy damos gracias a Dios una vez más porque han pasado cuarenta años sin que se hayan vuelto a utilizar aquellas bombas que devastaron vidas humanas, junto con su medio ambiente y sus viviendas, en Hiroshima y Nagasaki; cuarenta años de esperanza y determinación, cuarenta años en una nueva era de la humanidad.
+
+Los hombres y mujeres de los medios de comunicación social contribuyen a construir la paz cuando atraen la atención del público hacia hechos que afectan a los que sufren, a los refugiados y desposeídos; cuando suscitan en otros la determinación y la generosidad para responder a aquellos que pasan necesidad. Sí el "desarrollo" y "un corazón nuevo" son los nuevos nombres de la paz. ¡Y aquellos que construyen la paz y promueven condiciones para la paz serán llamados eternamente hijos de Dios!
+
+\**L'Osservatore Romano,* edición semanal en lengua española, n. 37, p. 8, 9, 10.

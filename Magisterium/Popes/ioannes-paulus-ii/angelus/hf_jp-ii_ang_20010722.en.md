@@ -1,0 +1,55 @@
+---
+id: jp2-ang-20010722.en
+work: jp2-ang-20010722
+title: "Angelus, 22 July 2001"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Angelus / Regina Caeli
+url_date: 2001-07-22
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/angelus/2001/documents/hf_jp-ii_ang_20010722.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-ang-20010722.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-ang-20010722.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 22 July 2001
+JOHN PAUL II
+
+## ANGELUS
+
+Sunday, 22 July 2001
+
+### 1 {#jp2-ang-20010722.1}
+
+Having just returned from the mountains of the Val d'Aosta, I am happy to be here today at Castel Gandolfo for the Sunday *Angelus* appointment*.* I warmly greet you, citizens of Castel Gandolfo. Thank you for the warm welcome you always give me. I want to greet the Bishop of Albano with his Auxiliary Bishop, the Mayor, the Parish Priest, and those who have in any way wished to show me their affection and support. I am happy to be among you again and I plan to stay in Castello until the next apostolic journey that, God willing, will take me to Armenia and Kazakhstan toward the end of September. Together with summer vacationers and pilgrims, you contribute to making my stay here a pleasant one. Thank you for your warm and sincere affection.
+
+### 2 {#jp2-ang-20010722.2}
+
+Today's Gospel presents the episode of Jesus' visit to Bethany, to the home of *Martha and Mary,* the sisters of Lazarus. Martha is very concerned with her preparations, while Mary sits peacefully at the feet of the Master listening to him. To Martha who complains that her sister does not help her, Jesus responds that "Mary has chosen the better part, which shall not be taken away from her" (*Lk* 10,42).
+
+How can we not perceive in this episode the reminder of the primacy of the spiritual life, of the need to be nourished with the Word of God which gives light and savour to our daily routine. It is an invitation which is particularly opportune for the summer period. Holidays and vacation time, in fact, can help to balance activism with contemplation, haste with natural rhythms, great noise with the healing peace of silence.
+
+### 3 {#jp2-ang-20010722.3}
+
+A further source of reflection comes from the liturgy. On 22 July we celebrate the memorial of *St Mary Magdalene,* disciple of the Lord and first witness of the Resurrection. The story of St Mary of Magdala shows how decisive it is for each one of us to meet Christ personally. It is Christ who understands the human heart. It is he who can satisfy its hopes and longings and give answers to the concerns and the difficulties that humanity today faces in its daily endeavours.
+
+To him we wish to entrust the results of the meeting of the Heads of State and of Government which just ended in Genoa, but not without expressing our deep regret over the hostilities that were unleashed there, unfortunately, with tragic consequences. Violence is not the way to reach an equitable solution for existing problems. Once again I encourage all who really have at heart the rights of the human person to persevere in their dedication to a world that will be more just and more responsible for human beings.
+
+We ask the intercession of Mary, Mother of Jesus and of the whole human race. We turn to her with the prayer of the *Angelus.*
+
+*After the* Angelus, *the Holy Father greeted the pilgrims in their native tongues: French, English, German, Spanish, Portuguese and Italian.*
+
+*In Italian he greeted the persons following the course at the Pontifical Athenaeum* Regina Apostolorum *for those who are dedicated to formation work in seminaries. He said in English:*
+
+I extend a special greeting to the Girl Guides from Malta who are passing through Rome today. Upon all the English-speaking pilgrims and visitors I invoke abundant divine gifts of peace and joy. God bless you and your families.

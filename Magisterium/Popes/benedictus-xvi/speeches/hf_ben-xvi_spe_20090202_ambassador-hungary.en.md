@@ -1,0 +1,47 @@
+---
+id: b16-spe-20090202-ambassador-hungary.en
+work: b16-spe-20090202-ambassador-hungary
+title: "To the Ambassador of the Republic of Hungary to the Holy See (February 2, 2009)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2009-02-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/february/documents/hf_ben-xvi_spe_20090202_ambassador-hungary.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, it, pt"
+anchors: "{#b16-spe-20090202-ambassador-hungary} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Ambassador of the Republic of Hungary to the Holy See (February 2, 2009) {#b16-spe-20090202-ambassador-hungary}
+## ADDRESS OF HIS HOLINESS BENEDICT XVI TO H.E. Mr JÁNOS BALASSA AMBASSADOR OF THE REPUBLIC OF HUNGARY TO THE HOLY SEE
+
+*Monday, 2 February 2009*
+
+*Your Excellency,*
+
+I am pleased to welcome you at the start of your mission and to accept the Letters accrediting you as Ambassador Extraordinary and Plenipotentiary of the Republic of Hungary to the Holy See. I thank you for your kind words and for the greetings you bring from President László Sólyom. Please convey to him my respectful good wishes and the assurance of my prayers for all the people of your nation.
+
+The Holy See’s reestablishment of full diplomatic relations with the countries of the former Eastern bloc, after the momentous events of 1989, opened up new horizons of hope for the future. In the twenty years that have passed since, Hungary has made great progress in establishing the structures of a free and democratic society, able and willing to play its part in an increasingly globalized world community. As you have observed, the forces that govern economic and political affairs in the modern world need to be properly directed – they need, in other words to be built upon an ethical foundation, giving priority always to the dignity and the rights of the human person and the common good of humanity. In view of its strong Christian heritage, stretching back over a thousand years, Hungary is well placed to assist in the promotion of these humane ideals within the European community and the wider world community, and it is my hope that our diplomatic relations will serve to support this vital dimension of your country’s contribution to international affairs.
+
+The experience of newly gained freedom has, at times, brought with it the risk that those same Christian and human values, so deeply rooted in the history and culture of individual peoples, and indeed of the whole continent of Europe, can be supplanted by others, based on unsound visions of man and his dignity and harmful to the development of a truly flourishing society. In [my 2008 World Day of Peace Message](https://www.vatican.va/content/benedict-xvi/en/messages/peace/documents/hf_ben-xvi_mes_20071208_xli-world-day-peace.html), I stressed the primordial importance of the family for building peaceful community relations at every level. In much of modern Europe the vital cohesive role that the family has to play in human affairs is being called into question and even endangered as a result of misguided ways of thinking that at times find expression in aggressive social and political policies. It is my earnest hope that ways will be found of safeguarding this essential element of our society, which is the heart of every culture and nation. One of the specific ways government can support the family is by assuring that parents are allowed to exercise their fundamental right as the primary educators of their children, which would include the option to send their children to religious schools when they so desire.
+
+The Catholic Church in Hungary has lived with particular intensity the transition between the period of totalitarian government and the freedom that your country now enjoys. After decades of oppression, sustained by the heroic witness of so many Christians, she has emerged to take her place in a transformed society, able once more to proclaim the Gospel freely. She seeks no privileges for herself, but is eager to play her part in the life of the nation, true to her nature and mission. As the process continues of implementing the agreements between Hungary and the Holy See – I think of the recently signed memorandum on religious assistance for the armed forces and border police - I am confident that any outstanding questions affecting the life of the Church in your country will be resolved in the spirit of good will and fruitful dialogue which has characterized our diplomatic relations ever since they were so happily restored.
+
+Your Excellency, I pray that the diplomatic mission which you begin today will further strengthen the bonds of friendship that exist between the Holy See and the Republic of Hungary. I assure you that the various departments of the Roman Curia are always ready to offer help and support in the fulfilment of your duties. With my sincere good wishes, I invoke upon you, your family, and all your fellow citizens abundant blessings of peace and prosperity. May God bless Hungary!
+
+\**Insegnamenti di Benedetto XVI*, vol. V, 1 p.192-194.
+
+*L'Osservatore Romano* 2-3.2.2009, p.2.
+
+*L'Osservatore Romano. Weekly Edition in English* n. 6 pp. 3, 4.

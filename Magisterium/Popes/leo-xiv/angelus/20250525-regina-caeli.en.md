@@ -1,0 +1,72 @@
+---
+id: leo14-ang-20250525.en
+work: leo14-ang-20250525
+title: "Regina Caeli, 25 May 2025"
+creator: "Leo PP. XIV"
+pope: Leo XIV
+document-type: Angelus / Regina Caeli
+url_date: 2025-05-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/leo-xiv/en/angelus/2025/documents/20250525-regina-caeli.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt"
+anchors: "{#leo14-ang-20250525} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Regina Caeli, 25 May 2025 {#leo14-ang-20250525}
+POPE LEO XIV
+
+## REGINA CAELI
+
+*Saint Peter's Square\
+Sunday, 25 May 2025*
+
+\[**[Multimedia](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2025/5/25/regina-caeli.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Dear brothers and sisters, happy Sunday!*
+
+I am still at the beginning of my ministry among you. Before all else, I would like to thank you for your demonstration of affection and ask you to keep supporting me with your prayers and closeness.
+
+In whatever the Lord calls us to do, in both our daily lives and our journey of faith, there are times when we feel inadequate. Yet this Sunday’s Gospel (cf. *Jn* 14:23-29) tells us not to rely on our own abilities but on the mercy of the Lord who has chosen us, and to be certain that the Holy Spirit guides us and teaches us all things.
+
+On the eve of the Master’s death, the Apostles, in their bewilderment and distress, wondered how they were to continue to bear witness to the kingdom of God. Jesus then spoke to them of the gift of the Holy Spirit. He made this wonderful promise: “Those who love me will keep my word, and my Father will love them, and we will come to them and make our home with them” (v. 23).
+
+In this way, Jesus freed the disciples from their anxiety, telling them: “Do not let your hearts be troubled, and do not let them be afraid” (v. 27). For if we remain in his love, he comes to dwell in us and our life will become a temple of God. His love enlightens us, influences the way we think and act, spreads outwards to others and embraces every situation in our lives.
+
+This dwelling of God within us, brothers and sisters, is precisely the gift of the Holy Spirit, who takes us by the hand and enables us to experience God’s presence and closeness amid our daily lives, for he makes us his home.
+
+It is wonderful to think that, when we consider our individual calling, the situations we encounter and the people entrusted to our care, our commitments and responsibilities, and our service in the Church, each of us can say with confidence: “Despite my weakness, the Lord is not ashamed of my humanity. Instead, he comes to dwell within me. He accompanies me with his Spirit; he enlightens me and makes me an instrument of his love for others, for society and for the world.”
+
+Dear friends, on the basis of that promise, let us walk in the joy born of faith, in order to become a holy temple of the Lord. Let us resolve to bring his love everywhere, never forgetting that each of our sisters and brothers is a dwelling place of God and that his presence is manifested above all in the little ones, in the poor and the suffering, who ask us to be thoughtful and compassionate Christians.
+
+And let us entrust ourselves to the intercession of Mary Most Holy. By the power of the Holy Spirit, she became “a dwelling-place consecrated to God.” With her, may we too come to know the joy of welcoming the Lord into our lives and of being signs and instruments of his love.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Post-Regina Caeli Remarks of the Holy Father
+
+Dear brothers and sisters!
+
+Yesterday in Poznań (Poland), Stanislaus Kostka Streich, a diocesan priest killed in hatred of the faith in 1938 because his work on behalf of the poor and workers irritated followers of the Communist ideology, was beatified. May his example inspire priests in particular to give themselves generously in the service of the Gospel and their brothers and sisters.
+
+Also yesterday, on the liturgical Memorial of the Blessed Virgin Mary Help of Christians, we celebrated the [Day of Prayer for the Church in China, established by Pope Benedict XVI](https://www.vatican.va/content/benedict-xvi/en/letters/2007/documents/hf_ben-xvi_let_20070527_china.html). In churches and shrines throughout China and around the world, prayers were offered to God as a sign of concern and affection for Chinese Catholics and their communion with the universal Church. May the intercession of Mary Most Holy obtain for them, and for us, the grace to be strong and joyful witnesses of the Gospel, even in the midst of trials, so that we may always promote peace and harmony.
+
+With these sentiments, our prayer embraces all those peoples suffering because of war. Let us implore courage and perseverance for those engaged in dialogue and in the sincere search for peace.
+
+Ten years ago, [Pope Francis](https://www.vatican.va/content/francesco/en.html) signed the Encyclical Letter *[Laudato Si’](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)*, devoted to care for our common home. It has had an extraordinary impact, inspiring countless initiatives and teaching everyone to listen to the twofold cry of the Earth and of the poor. I greet and encourage the *Laudato Si’* movement and all those who carry on this commitment.
+
+I greet all of you who have come from Italy and from many other parts of the world, especially the pilgrims from Valencia and Poland, with a blessing for those who in Poland are taking part in the great pilgrimage to the Marian Shrine of Piekary Śląskie. My greeting also goes to the faithful from Pescara, Sortino, Paternò, Caltagirone, Massarosa Nord, Malnate Palagonia and Cerello, as well as to those from the parish of the Sacred Hearts of Jesus and Mary in Rome. I greet the confirmands from the Archdiocese of Genoa, San Teodoro, in the Diocese of Tempio-Ampurias, and the cyclists from Paderno Dugnano and the Bersaglieri from Palermo.
+
+I wish everyone a happy Sunday!

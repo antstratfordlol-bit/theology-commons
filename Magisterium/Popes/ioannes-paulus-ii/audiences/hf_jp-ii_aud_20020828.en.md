@@ -1,0 +1,77 @@
+---
+id: jp2-aud-20020828.en
+work: jp2-aud-20020828
+title: "28 August 2002"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: General audience (catechesis)
+url_date: 2002-08-28
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/audiences/2002/documents/hf_jp-ii_aud_20020828.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-aud-20020828.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-aud-20020828.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 28 August 2002
+## GENERAL AUDIENCE OF JOHN PAUL II
+
+Wednesday 28 August 2002*
+
+## Heaven's peace and life is our destination
+*Psalm* 83 \[84\]
+
+### 1 {#jp2-aud-20020828.1}
+
+We continue our journey through the Psalms of the Liturgy of Lauds. We heard now Psalm 83 \[84\], which the Jewish tradition attributes to the "sons of Korah", a family of priests who were in charge of the liturgical service and guarded the threshold of the tent of the Ark of the Covenant (cf. I Chr 9,19).
+
+This is a most charming song, pervaded by mystical longing for the God of life, repeatedly celebrated (cf. Ps 83 \[84\],2.4.9.13) with the name:  "Lord of the Armies", that is, Lord of the heavenly hosts, hence of the cosmos. Moreover, this title had a special connection with the ark preserved in the temple that was known as the "ark of the covenant of the Lord of hosts, who is enthroned upon the cherubim" (I Sm 4,4; cf. Ps 79\[80\],2). Indeed, it was regarded as the sign of divine protection in times of danger and war (cf. I Sm 4,3-5; II Sm 11,11).
+
+The background of the whole Psalm is represented by the temple toward which the pilgrimage of the faithful is directed. The season seems to be autumn, for the Psalmist mentions the "early rain" that placates the scorching heat of summer (cf. Ps 83\[84\], 7). This could therefore remind us of the pilgrimage to Zion for the third principal feast of the Hebrew year, the Feast of Tabernacles, which commemorates the Israelites' pilgrimage in the desert.
+
+### 2 {#jp2-aud-20020828.2}
+
+The temple is present in all its fascination at the beginning and end of the Psalm. It opens with the wonderful and delicate imagery of birds who have built their nests in the sanctuary (cf. vv. 2-4), an enviable privilege.
+
+It is a representation of the happiness of all who - like the priests of the temple - dwell permanently in God's House, enjoying its intimacy and peace. In fact, the whole of the believer's being is stretched out to the Lord, impelled by an almost physical and instinctive desire for him:  "My soul yearns and pines for the courts of the Lord; my heart and flesh sing for joy to the living God" (v. 3). Then the temple reappears at the end of the Psalm (cf. vv. 11-13). The pilgrim expresses his great happiness at spending some time in the courts of the house of God and compares this spiritual happiness with the idolatrous illusion that pushes a person towards "the tents of wickedness", that is, the infamous temples of injustice and perversion.
+
+### 3 {#jp2-aud-20020828.3}
+
+There is light, life and joy only in the sanctuary of the living God and "blessed are those" who "trust" in the Lord, choosing the path of righteousness (cf. vv. 12-13). The image of the way takes us to the heart of the Psalm (cf. vv. 5-9) where another, more important pilgrimage is made. Blessed are those who dwell in the temple in a stable way and even more blessed are those who decide to undertake a journey of faith to Jerusalem.
+
+In their comments on Psalm 83, the Fathers of the Church give v. 6 a special prominence: "Blessed is he who finds his strength in you, whose heart is set upon the holy pilgrimage". The early translations of the Psalter spoke of the decision to complete the "ascensions" to the Holy City. Therefore, for the Fathers the pilgrimage to Zion became the symbol of the continuous progress of the righteous toward the "eternal tents" where God receives his friends into full joy (cf. Lk 16,9).\
+Let us reflect for a moment on this mystical "ascent" that finds in the earthly pilgrimage an image and a sign. We will do so through the words of a seventh-century Christian writer who was abbot of the monastery on Sinai.
+
+### 4 {#jp2-aud-20020828.4}
+
+This is John Climacus who dedicated an entire treatise - *The Ladder of Divine Ascent* - to illustrating the countless steps by which the spiritual life ascends. At the end of his work, he gives the last word to charity itself, which he sets at the top of the ladder of spiritual progress.
+
+It is charity that invites and exhorts us, proposing sentiments and attitudes already suggested by our Psalm: "Ascend, my brothers, ascend eagerly. Let your hearts' resolve be to climb. Listen to the voice of the one who says:  "Come let us go up to the mountain of the Lord, to the house of our God" (Is 2,3), Who makes our feet to be like the feet of the deer, "Who sets us on the high places, that we may be triumphant on his road" (Hb 3,19). Run, I beg you, run with him who said, "let us hurry until we all arrive at the unity of faith and of the knowledge of God, at mature manhood, at the measure of the stature of Christ's fullness" (cf. Eph 4,13). (*La Scala del Paradiso,* Rome 1989, p. 355. In English, *The Ladder of Divine Ascent,* Paulist Press, Ramsey, N.J. 1982, p. 291).
+
+### 5 {#jp2-aud-20020828.5}
+
+The Psalmist thinks first of all of the concrete pilgrimage that leads to Zion from various places in the Holy Land. The rain that falls seems to be for him a foretaste of the joyful blessings that will envelop him like a mantle (cf. Ps 83\[84\],7) when he comes face to face with the Lord in the temple (cf. v. 8). The gruelling journey through "the valley of tears" (cf. v. 7) is transfigured by the certainty that God who gives strength is the conclusion (cf. v. 8), that he hears the prayer of the faithful (cf. v. 9) and becomes the "shield" that protects him (cf. v. 10).
+
+The concrete pilgrimage is transformed in this light - as the Fathers intuited - and becomes a parable of the whole of life, set between distance from and intimacy with God, between the mystery of God and his revelation. Even in the desert of daily life, the six workdays are made fruitful, illuminated and sanctified by the meeting with God on the seventh day, through the liturgy and prayer of our ecclesial gathering on Sunday.
+
+Let us walk then, when we are in the "valley of tears", keeping our eyes fixed on the bright goal of peace and communion. Let us repeat in our hearts the final beatitude, which is like an antiphon that seals the Psalm:  "O Lord of hosts, blessed is the man who trusts in you!"(v. 13).
+
+\*\*\*
+
+I am pleased to greet the English-speaking pilgrims present at today’s Audience, especially those from England, Ireland, Denmark and Japan. Upon all of you I cordially invoke the grace and peace of our Lord Jesus Christ.
+
+*Now I wish to greet the young people,* the *sick,* and the *newly-married couples.* May the striking example of St Augustine, whose feast we are celebrating today urge you, dear *young people,* to plan your future in full fidelity to the Gospel. May it help you, dear *sick people,* to face suffering with courage, finding serenity and comfort in Christ crucified. May it lead you, dear *newly married couples,* to an ever deeper love for God, for one another and for your brothers and sisters.
+
+APPEAL OF THE HOLY FATHER
+
+In recent weeks bad weather has hit certain regions of Europe and Asia, causing enormous damage. Especially in Central China, millions of people have had to face tragic hardships. The populations of the Czech Republic and Germany, hammered by disastrous floods, have set out on the long task of rebuilding. As I assure them all of our closeness in affection and prayer, I encourage and bless the competition in solidarity that has taken place among the nations and the populations themselves who are victims of the painful events.

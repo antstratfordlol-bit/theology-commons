@@ -1,0 +1,48 @@
+---
+id: b16-ang-20101031.en
+work: b16-ang-20101031
+title: "Angelus, 31 October 2010"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2010-10-31
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2010/documents/hf_ben-xvi_ang_20101031.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20101031} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 31 October 2010 {#b16-ang-20101031}
+BENEDICT XVI
+
+## ANGELUS
+
+*St Peter's Square\
+Sunday, 31 October 2010*
+
+## ([Video](https://www.youtube.com/watch?v=-YOHyMB0D8Q){target="_blank"})
+
+*Dear Brothers and Sisters!*
+
+The Evangelist St Luke pays special attention to the theme of Jesus' mercy. In fact, in his narration we find some episodes that highlight the merciful love of God and of Christ, who said that he had come to call, not the just, but sinners (cf. Lk 5:32). Among Luke's typical accounts there is that of the conversion of Zacchaeus, which is read in this Sunday's Liturgy. Zacchaeus is a publican, indeed, he is the head of the publicans of Jericho, an important city on the River Jordan. The publicans were the tax collectors who collected the tribute that the Jews had to pay to the Roman Emperor, and already for this reason they were considered public sinners. What is more, they often took advantage of their position to extort money from the people. Because of this Zacchaeus was very rich but despised by his fellow citizens. So when Jesus was passing through Jericho and stopped at the house of Zacchaeus, he caused a general scandal. The Lord, however, knew exactly what he was doing. He wanted, so to speak, to gamble, and he won the bet: Zacchaeus, deeply moved by Jesus' visit, decided to change his life, and promised to restore four times what he had stolen. “Today salvation has come to this house”, Jesus says, and concludes: “The Son of Man came to seek and to save the lost”.
+
+God excludes no one, neither the poor nor the rich. God does not let himself be conditioned by our human prejudices, but sees in everyone a soul to save and is especially attracted to those who are judged as lost and who think themselves so. Jesus Christ, the Incarnation of God, has demonstrated this immense mercy, which takes nothing away from the gravity of sin, but aims always at saving the sinner, at offering him the possibility of redemption, of starting again from the beginning, of converting. In another passage of the Gospel Jesus states that it is very difficult for a rich man to enter the Kingdom of Heaven (cf. Mt 19:23). In the case of Zacchaeus we see that precisely what seems impossible actually happens: “He”, St Jerome comments, “gave away his wealth and immediately replaced it with the wealth of the Kingdom of Heaven” (*Homily on Psalm* 83:3). And St Maximus of Turin adds: “Riches, for the foolish, feed dishonesty, but for the wise they are a help to virtue; for the latter they offer a chance of salvation, for the former they procure a stumbling block and perdition” (*Sermons,* 95).
+
+Dear Friends, Zacchaeus welcomed Jesus and he converted because Jesus first welcomed him! He did not condemn him but he met his desire for salvation. Let us pray to the Virgin Mary, perfect model of communion with Jesus, to be renewed by his love, so that we too may experience the joy of being visited by the Son of God, of being renewed by his love and of transmitting his mercy to others.
+
+## After the Angelus:
+
+Yesterday, in the Cathedral of Oradea Mare in Romania, Cardinal Péter Erdö beatified Szilárd Bogdánffy, Bishop and martyr. In 1949 when he was 38 he was secretly consecrated a Bishop and then arrested by the communist regime of his country, Romania, charged with conspiracy. After four years of suffering and humiliation, he died in prison. Let us thank God for this heroic Pastor of the Church who followed the Lamb to the very end! May his witness bring comfort to those who deven today are persecuted for the sake of the Gospel.
+
+I would now like to offer a word of greeting to all the English-speaking visitors presents at today's Angelus prayer! In the liturgy of the word this morning, Our Lord tells us that he "came to seek out and save the lost". May we always know our need for God and embrace his will for us, in love and humility. May God abundantly Bless you and your loved ones!

@@ -1,0 +1,72 @@
+---
+id: jp2-aud-20010905.en
+work: jp2-aud-20010905
+title: "5 September 2001"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: General audience (catechesis)
+url_date: 2001-09-05
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/audiences/2001/documents/hf_jp-ii_aud_20010905.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-aud-20010905.N} — numbered paragraphs 1..6 (6 anchors), shared with jp2-aud-20010905.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 5 September 2001
+## JOHN PAUL II
+
+## GENERAL AUDIENCE
+
+Wednesday 5 September 2001*
+
+## Praise the Lord, King of all the earth
+Psalm 46 (47)
+
+### 1 {#jp2-aud-20010905.1}
+
+*"The Lord, the most high, is a great King over all the earth!"*. This initial acclamation is repeated in different tones in Psalm 46 (47), which we just prayed. It is designed as a hymn to the sovereign Lord of the universe and of history:  *"God is king over all the earth ... God rules over all nations"* (vv. 8-9).
+
+Like other similar compositions in the Psalter (cf. Ps 92; 95-98), this hymn to the Lord, the king of the world and of mankind presumes an atmosphere of liturgical celebration. For that reason, we are at the heart of the spiritual praise of Israel, which rises to heaven from the Temple, the place where the infinite and eternal God reveals himself and meets his people.
+
+### 2 {#jp2-aud-20010905.2}
+
+We will follow this canticle of joyful praise in its fundamental moments like two waves of the sea coming toward the shore. They differ in the way they consider the relationship between Israel and the nations. In the first part of the psalm, the relationship is one of domination:  God "has subdued the peoples under us, he has put the nations under our feet" (v. 4); in the second part, instead, the relationship is one of association:  "the princes of the peoples are gathered with the people of the God of Abraham" (v. 10). One can notice great progress.
+
+In the first part (cf. vv. 2-6) it says, "All you peoples clap your hands, shout to God with joyful cries!" (v. 2). The centre of this festive applause is the grandiose figure of the supreme Lord, to whom the psalm attributes three glorious titles:  "most high, great and terrible" (v. 3). They exalt the divine transcendence, the absolute primacy of being, omnipotence. The Risen Christ will also exclaim:  "All power in heaven and on earth has been given to me" (*Mt* 28,18).*\
+\*
+### 3 {#jp2-aud-20010905.3}
+
+In the universal lordship of God over all the peoples of the earth (cf. v. 4) the psalmist stresses his particular presence in Israel, the people of divine election, "the favourite", the most precious and dear inheritance (cf. v. 5). Israel is the object of a particular love of God which is manifested with the victory over hostile nations. During the battle, the presence of the Ark of the Covenant with the troops of Israel assured them of God's help; after the victory, the Ark was returned to Mount Zion (cf. Ps* 67 \[68\],19) and all proclaimed, "God mounts his throne amid shouts of joy, the Lord amid trumpet blasts" (*Ps* 46 \[47\],6).*\
+\*
+### 4 {#jp2-aud-20010905.4}
+
+The second part of the Psalm (cf. vv. 7-10) opens with another wave of praise and festive chant:  "Sing praise to God, sing praise; sing praise to our king, sing praises ... sing hymns of praise!" (vv. 7-8). Even now one sings to the Lord seated on his throne in the fullness of his sovereignty (cf. v. 9). The royal seat is defined as "holy", because it is unapproachable by the finite and sinful human being. But the Ark of the Covenant present in the most sacred part of the Temple of Zion is also a heavenly throne. In this way the distant and transcendent God, holy and infinite, draws near to his creatures, adapting himself to space and time (cf. I Kgs* 8,27.30).*\
+\*
+### 5 {#jp2-aud-20010905.5}
+
+The psalm finishes on a surprising note of universalist openness:  "the princes of the peoples are gathered with the people of the God of Abraham" (v. 10). One goes back to Abraham the patriarch who is at the root, not only of Israel but also of other nations. To the chosen people who are his descendents, is entrusted the mission of making converge towards the Lord all nations and all cultures, because he is the God of all mankind. From East to West they will gather on Zion to meet the king of peace and love, of unity and brotherhood (cf. Mt* 8,11). As the prophet Isaiah hoped, the peoples who are hostile to one another, will receive the invitation to lay down their arms and to live together under the divine sovereignty, under a government of justice and peace (*Is* 2,2-5). The eyes of all are fixed on the new Jerusalem where the Lord *"ascends"* to be revealed in the glory of his divinity. It will be *"an immense multitude, which no one can count, from every nation, race, people and tongue ... they (all) cried out with a loud voice:  Salvation belongs to our God who is seated on his throne and to the Lamb"* (*Apoc* 7,9.10).*\
+\*
+### 6 {#jp2-aud-20010905.6}
+
+The *Letter to the Ephesians* sees the realization of this prophecy in the mystery of Christ the Redeemer when it affirms, addressing Christians who did not come from Judaism:  "Remember, that one time you pagans by birth,... were without Christ, excluded from the citizenship of Israel, extraneous to the covenant of the promise, without hope and without God in this world. Now instead, in Christ Jesus, you who were once far off have been brought near thanks to the blood of Christ. In fact, he is our peace, he who made of the two one people, destroying the dividing wall of enmity" (Eph 2,1-14).
+
+In Christ then, the kingship of God, sung by our psalm, is realized on earth in the meeting of all people. This is the way an anonymous 8th century homily commented on this mystery:  "Until the coming of the Messiah, hope of the nations, the Gentiles did not adore God and did not know who he is. Until the Messiah redeemed them, God did not reign over the nations through their obedience and their worship. Now instead, with his Word and his Spirit, God reigns over them because he saved them from deception and made them his friends" (Anonymous Palestinian, *Arab-Christian Homily of the Eighth Century,* Rome 1994, p. 100).
+
+*At the end of his commentary, the Holy Father greeted the 23,000 pilgrims and visitors in French, English, German, Spanish, Portuguese, Flemish, Czech, Slovak, Slovenian, Croatian and Italian. Among the Italian pilgrims, he singled out for mention the Italo-Chinese Institute and Fr Matteo Ricci. Here is a translation of his remarks given in Italian.*
+
+I cordially greet the directors of the Italo-Chinese Institute which is promoting, along with others, the 400th Anniversary of the arrival of Fr Matteo Ricci in Peking. There will be two International Congresses in the month of October, the first at Peking, the second in Rome, with the participation of Chinese, American and European experts to remember the person and the apostolic activities of that great Jesuit missionary. I follow these important initiatives with great interest and I wish them great success because the figure of Matteo Ricci is an influential one for those who are engaged in preaching of the Gospel in a variety of cultural and religious contexts.
+
+\*\*\*
+
+I welcome the English-speaking pilgrims and visitors, especially those from England, Ireland, Malta, Japan, Korea, Uganda and the United States of America. Upon you and your families I invoke the joy and peace of our Lord Jesus Christ.

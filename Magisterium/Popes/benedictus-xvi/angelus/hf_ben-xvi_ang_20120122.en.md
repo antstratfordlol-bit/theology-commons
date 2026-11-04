@@ -1,0 +1,56 @@
+---
+id: b16-ang-20120122.en
+work: b16-ang-20120122
+title: "Angelus, 22 January 2012"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2012-01-22
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2012/documents/hf_ben-xvi_ang_20120122.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20120122} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 22 January 2012 {#b16-ang-20120122}
+BENEDICT XVI
+
+## ANGELUS
+
+*St. Peter's Square\
+Sunday, 22 January 2012*
+
+## \[[Video](https://www.youtube.com/watch?v=2PSHzvvgxqo&list=PLC9tK3J1RlaZGkT-qS3F021VSzUv-YuwO&index=58&ab_channel=TheVatican-Archive){target="_blank"}\]
+
+*Dear Brothers and Sisters*,
+
+This Sunday falls in the middle of the Week of Prayer for Christian Unity which is celebrated from 18 to 25 January. I cordially invite everyone to join in the prayer that Jesus addressed to the Father on the eve of his Passion: “that they may all be one... so that the world may believe” (Jn 17:21). This year in particular our meditation during the Week of Prayer for Unity refers to a passage of St Paul’s First Letter to the Corinthians, from which the theme was formulated: “We will all be changed by the victory of our Lord Jesus Christ” (cf. 1 Cor 15:51-58). We are called to contemplate Christ’s victory over sin and death, that is, his Resurrection, as an event that radically transforms all who believe in him and gives them access to incorruptible and immortal life. In addition, recognizing and accepting the transforming power of faith in Jesus Christ sustains Christians in the search for full unity among themselves.
+
+This year the resource material for the Week of Prayer for Unity has been prepared by a Polish group. Indeed Poland has lived through a long history of courageously fighting various adversities and time and again has given proof of great determination, motivated by faith. For this reason the words of the above-mentioned theme have special resonance and effectiveness in Poland. Down the centuries Polish Christians have spontaneously perceived a spiritual dimension in their desire for freedom and have understood that true victory can only be achieved if it is accompanied by a profound inner transformation. They remind us that our quest for unity can be realistically conducted if the change takes place within us first of all and if we let God act, if we let ourselves be transformed into the image of Christ, if we enter into new life in Christ who is the true victory.
+
+The visible unity of all Christians is always a task that comes from on high, from God, a task that demands the humility of recognizing our weakness and of receiving the gift. However, to use a phrase which [Bl. John Paul II](http://www.vatican.va/holy_father/john_paul_ii/index.htm) liked to repeat, every gift also becomes a commitment. The unity that comes from God therefore demands of us the daily commitment to open ourselves to each other in charity.
+
+The Week of Prayer for Christian Unity has been a central feature in the Church’s ecumenical activity for many decades. The time that we devote to prayer for the full communion of Christ’s disciples will enable us to understand more deeply that we will be transformed by his victory, by the power of his Resurrection.
+
+Next Wednesday, as is the custom, we shall conclude the Week of Prayer with the solemn celebration of Vespers on the Feast of the Conversion of St Paul, in the Basilica of St Paul Outside-the-Walls at which representatives of other Churches and Christian Communities will also be present. I expect many of you to come to this liturgical encounter to renew together our prayer to the Lord, the source of unity, with filial trust, to the intercession of the Blessed Virgin Mary, Mother of the Church.
+
+## After the Angelus:
+
+*Dear Brothers and Sisters*,
+
+In these days, various countries in the Far East are joyfully celebrating the lunar New Year. In the present global situation of economic and social crisis I express to all those peoples the hope that the New Year will be concretely marked by justice and peace, that it will bring relief to the suffering and, especially, that young people will offer new hope to the world with their enthusiasm and their idealism.
+
+I greet all the English-speaking pilgrims and visitors present at today’s Angelus. This week, Christians throughout the world mark the Week of Prayer for Christian Unity. We are confident that, as St Paul says, “We will all be changed by the victory of our Lord Jesus Christ” (cf. 1 Cor 15:51-58). Let us renew our prayer for the unity of all of Christ’s followers, and deepen our resolve to be one in him. Upon each of you and your loved ones at home, I invoke God’s blessings of peace and joy.
+
+I address a cordial greeting to the Italian-speaking pilgrims, in a special way to the parish groups and families, and I wish everyone a good Sunday. A good Sunday, a good week to you all!

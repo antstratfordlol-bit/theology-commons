@@ -1,0 +1,60 @@
+---
+id: francis-spe-20240127-cresimandi-bari.en
+work: francis-spe-20240127-cresimandi-bari
+title: "Audience with the Confirmands of the Archdiocese of Bari-Bitonto (27 January 2024)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2024-01-27
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2024/january/documents/20240127-cresimandi-bari.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, it"
+anchors: "{#francis-spe-20240127-cresimandi-bari} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Audience with the Confirmands of the Archdiocese of Bari-Bitonto (27 January 2024) {#francis-spe-20240127-cresimandi-bari}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO THE CONFIRMANDS OF THE ARCHDIOCESE OF BARI-BITONTO
+
+*Paul VI Audience Hall\
+Saturday, 27 January 2024*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2024/1/27/cresimandi-bari.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Dear young people, welcome!*
+
+I greet your Bishop Giuseppe Satriano, the parents, relatives, catechists, and all of you, who have filled this great hall, and beyond, with joy!
+
+You are preparing to receive the Sacrament of Confirmation, so-called because it *confirms* the gift and the commitments of Baptism. And so, I will ask you a question straight away: who among you knows the date of their Baptism? Few of you, eh? A few… Who can remember it? Let’s see… not only the young people, but also the parents and catechists, because maybe they have forgotten too! Raise your hand if you know the date of your Baptism… There are few of you! But let’s go ahead calmly… And later, those who do not remember, or who just don’t know, make the effort to find out: ask your parents, your godparents, “What was the day of my Baptism?”, and never forget it; it is like a birthday, something very beautiful. Because the date of Baptism must be celebrated, every year, like a second birthday! Have a cake made with candles too! An extra cake..., not bad!
+
+I say this to you though, not as a joke, but because the date of our Baptism is truly a very important date! Indeed, that day we were born to Christian life, to life in Jesus, which lasts forever, which is an eternal life, forever! Then we entered the great family of the Church, and the Holy Spirit came to dwell in us and will never abandon us; and finally, we have received the greatest inheritance there is: Paradise!
+
+Think what a great gift Baptism is! And with Confirmation, what happens? You, who are preparing, what happens with Confirmation? It happens that all this is *confirmed*, that is, made more solid, stronger. By whom? First of all, by the Holy Spirit, who renews us with His gifts; then by the Church, which entrusts us with the task of proclaiming Jesus and His Gospel; and finally, by ourselves, who accept this mission as a personal commitment, as protagonists and not as spectators.
+
+In this regard, I want to remind you of the example of a boy like you, a truly special one: he was called Carlo, perhaps you have heard of him, *Carlo Acutis*. You know of him. He lived in Milan. Unfortunately, he died very young, in 2006, at just 15 years of age, but in his life he did a great deal of good things in just a few years. Above all, he was impassioned by Jesus; and since he was very good at getting around on the internet, he used it in the service of the Gospel, spreading love for prayer, the witness of faith and charity towards others.
+
+Three important things: *prayer*, *witness*,* *and *charity*. Do you understand? Prayer, witness, and charity. Let us say it together: “Prayer, witness, and charity”. I can’t hear you… “Prayer, witness, and charity”. Now I can hear, good. Carlo Acutis lived out these things with great commitment: he spent a lot of time with Jesus, especially in Mass, which he attended every day, and he prayed before the Tabernacle, so as then to announce to everyone, with words and gestures of love, that God loves us and is always waiting for us. Listen to this: “God loves us and is always waiting for us”. Do you understand? Let us say it together: “God loves us and is always waiting for us”. I can’t hear… \[they repeat\]. “God loves us and is always waiting for us”. Good!
+
+So, boys and girls, as the day of your Confirmation approaches, I propose that you do likewise. Go to Jesus, meet Him, and then tell everyone how good it is to be with Jesus, because He loves us and is always waiting for us! What does Jesus do? \[They repeat\]. “He loves us and is always waiting for us”. You have learned, good. In fact, let us always say it, what we have said. Bravo! Keep it up, shout out this message to everyone: not only with words, but above all with gestures of love: helping others, especially those most in need. And what was the message? \[They repeat\]. “Jesus loves us and is always waiting for us”. You are intelligent and you have learned well! Thank you.
+
+I wish you well on your way, together with your catechists and your parents and family members. Be witnesses of how beautiful it is to be with Jesus and how much He loves us. I bless you all from my heart. And please, pray for me. And what was the message? \[They repeat\]. “Jesus loves us and is always waiting for us”. Bravo!
+
+Now I will give you the blessing, but all together, first, let us pray to Our Lady, to help us encounter Jesus. All together: *Hail Mary…*
+
+\[Blessing\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*[Holy See Press Office Bulletin](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/01/27/240127f.html)*, 27 January 2024

@@ -1,0 +1,43 @@
+---
+id: francis-spe-20220425-cappellania-queens-university-belfast.en
+work: francis-spe-20220425-cappellania-queens-university-belfast
+title: "To Pilgrims from the Catholic Chaplaincy at Queen’s University, Belfast (25 April 2022)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2022-04-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2022/april/documents/20220425-cappellania-queens-university-belfast.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, it, pt"
+anchors: "{#francis-spe-20220425-cappellania-queens-university-belfast} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To Pilgrims from the Catholic Chaplaincy at Queen’s University, Belfast (25 April 2022) {#francis-spe-20220425-cappellania-queens-university-belfast}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO PILGRIMS FROM THE CATHOLIC CHAPLAINCY AT QUEEN’S UNIVERSITY, BELFAST
+
+*Monday, 25 April 2022*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2022/4/25/cappellania-queens-univ-belfast.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Dear Friends,*
+
+I greet all of you with affection and joy in the Risen Lord on the occasion of your pilgrimage to Rome. Our meeting takes place as you celebrate the fiftieth anniversary of the Catholic Chaplaincy at Queen’s University.
+
+As you mark this milestone, I encourage you not only to deepen your understanding and appreciation of the intellectual and spiritual richness of our Catholic tradition, but also, and in a truly evangelical spirit, to cultivate the culture of encounter among yourselves and in the University community. The Christian faith is fundamentally about an encounter with Jesus Christ. If we truly believe in Jesus, we must do what Jesus does: encounter others, encounter our neighbours, in order to share with them the saving truth of the Gospel. As human beings, and especially as Christians, we are so made that we cannot live, develop and find fulfilment except in the pursuit of truth and in the sincere gift of ourselves to others.
+
+Building a culture of encounter in the service of God’s kingdom is personally demanding. It is not simply about seeing, but looking; it is not about hearing, but listening; it is not about just meeting or passing people by, but stopping to engage with them about the things that really matter (cf. *Phil *1:10). It is also exhilarating, as we share our journey with others, support one another in our pursuit of truth, and strive to weave a web of relationships which can make our lives together “a genuine experience of fraternity, a caravan of solidarity, a sacred pilgrimage” (Ap. Exhort. *[Evangelii Gaudium](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Yes_to_the_new_relationships_brought_by_Christ)*, 87). Each in your own way, may you become promoters of this culture of encounter in the university setting, and thus contribute to building up Ireland’s noble traditions of hospitality, reconciliation, fidelity to the Gospel and steadfastness in the pursuit of holiness.
+
+With these sentiments, I entrust all of you to the maternal intercession of the Blessed Virgin Mary. May you continue to be a community of faith and friendship at the heart of the University campus. I ask you also, please, to remember to pray for me. Thank you!

@@ -1,0 +1,76 @@
+---
+id: jp2-hom-19790606-polonia-jasna-gora-operai.en
+work: jp2-hom-19790606-polonia-jasna-gora-operai
+title: "6 June 1979: To the Workers in Jasna Gora"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Homily
+url_date: 1979-06-06
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/homilies/1979/documents/hf_jp-ii_hom_19790606_polonia-jasna-gora-operai.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#jp2-hom-19790606-polonia-jasna-gora-operai.N} — numbered paragraphs 1..4 (4 anchors), shared with jp2-hom-19790606-polonia-jasna-gora-operai.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 6 June 1979: To the Workers in Jasna Gora
+[APOSTOLIC PILGRIMAGE TO POLAND](http://www.vatican.va/holy_father/john_paul_ii/travels/sub_index1979/trav_poland-1979.htm)
+
+HOLY MASS FOR THE WORKERS\
+FROM UPPER SILESIA AND ZAGLEBIE
+
+***HOMILY OF HIS HOLINESS JOHN PAUL II\
+\***
+*Czestochowa, 6 June 1979*
+
+### 1 {#jp2-hom-19790606-polonia-jasna-gora-operai.1}
+
+Jasna Góra has become Poland's spiritual capital . Pilgrims come from every part of our native soil, in order to find there unity with Christ the Lord through the heart of his Mother. They come not only from Poland but also from beyond her frontiers. The image of our Lady of Jasna Góra has become a sign of spiritual unity on the part of Poles throughout the world. It is also, I would say, a sign by which to recognize our spirituality and also our place in the great family of the Christian peoples gathered in the unity of the Church. For wonderful is the reign of the Mother through her image in Jasna Góra: *the reign of the Heart,* which is ever more necessary to the world which tends to express everything through cold calculations and purely material ends.
+
+I arrive at Jasna G óra as a pilgrim and I wish to unite myself cordially with all belonging to this spiritual community, this great family spread over the whole of the land of Poland and beyond her frontiers. I desire us all to meet in the heart of the Mother. I join myself through faith, hope and prayer with all those who cannot come here. I unite myself in particular with all the communities of the Church of Christ in Poland, with all the diocesan Churches and their Pastors, with all the parishes, with the religious families of men and women.
+
+In a special way I turn to you who have come here today *from Silesia and Zaglebie Dabrowskie.* Both these lands, both these provinces of ancient and modern Poland, are dear to me. The wealth of present-day Poland is in great part bound up with the natural resources with which Providence has endowed these lands and with the great centres of human labour that have risen there during the last centuries. Historically speaking, both Silesia and Zaglebie—particularly Silesia—have always remained in close union with the see of Saint Stanislaus. As former Metropolitan of Krakow, I wish to express my special joy at this meeting between us today at the foot of Jasna Góra , I have always been close in heart to the Church of Katowice, which contributes special experiences and values to Catholic life in Poland as a whole.
+
+### 2 {#jp2-hom-19790606-polonia-jasna-gora-operai.2}
+
+Chiefly *the experience of immense work.* The riches of the earth, both those that appear on its surface and those that we must seek in its depths, become riches for man only at the cost of human labour. This work, in its many forms, both intellectual and manual, is necessary for man to fulfil the magnificent mission that the Creator has entrusted to him, the mission expressed in the book of Genesis with the words "Subdue (the earth) and have dominion" (Gen 1:28). The earth is *entrusted* to man, and through work man *has dominion* over it.
+
+Work is also the fundamental dimension of man's life on earth. Work has for man *a significance that is not merely technical but ethical.* It can be said that man "subdues" the earth when by his behaviour he becomes *its master, not its slave,* and also the master and not the slave of work.
+
+Work must help man to become better, more mature spiritually, more responsible, in order that he may realize his vocation on earth both as an unrepeatable person and in community with others, especially in the fundamental human community constituted by the family. By joining together in this very community, whose character was established by the Creator himself from the beginning., a man and a woman give life to new human beings. Work must make it possible for this human community to find the means necessary for its formation and maintenance.
+
+*The reason for the family* is one of the fundamental factors determining the economy and policy of work. These keep their ethical character when they take into consideration the needs and the rights of the family. Through work the adult human being must earn the means needed to maintain his family. Motherhood must be treated in work policy and economy as a great end and a great task in itself. For with it is connected the mother's work in giving birth, feeding and rearing, and no one can take her place. Nothing can take the place of the heart of a mother always present and always waiting in the home. True *respect for work* brings with it due *esteem for motherhood.* It cannot be otherwise. The moral health of the whole of society depends on that.
+
+My thoughts and my heart open again to you, hard-working people, with whom I have been linked in various ways by my personal life and my pastoral ministry. I wish your work not to cease to be the source of your social strength. Thanks to your work, may your homes be strong. Thanks to your work, may the whole of our motherland be strong.
+
+### 3 {#jp2-hom-19790606-polonia-jasna-gora-operai.3}
+
+Therefore I turn my gaze once more to industrious Silesia and Zaglebie, towards the blast-furnaces and chimneys of the factories: it is land *of great work and of great prayer.* These two are linked closely together in the tradition of this people whose usual greeting is given with the words "Szczesc Boze" (May God assist you), words that link the thought of God to human work, referring one to the other.
+
+It is right that I should bless divine Providence today, giving thanks for the fact that the immense development of industry—the development of human work—has gone hand in hand with the building of churches, the erection of parishes and the deepening and strengthening of faith. For the fact that development *has not implied de-Christianization,* the rupture of the alliance that must be set up in the human soul between work and prayer in keeping with the motto of the Benedictines; "Ora et labora". In every human work prayer sets up a reference to God the Creator and Redeemer and it also contributes to *complete "humanization" of work.* "Work exists... for resurrection" (C. K. Norwid). Man, indeed, is by his Creator's will called from the beginning to subdue the earth by his work and also has been created in the image and after the likeness of God himself. There is no other way for him to find himself and confirm who he is except by seeking God in prayer. By seeking God, by meeting him in prayer, man is bound *to find himself, since he is like God.* He cannot find himself except in his Prototype. He cannot confirm his "dominion" over the earth by work except by praying at the same time.
+
+Dear brothers and sisters, hardworking people of Silesia, Zaglebie, and the whole of Poland, do not let yourselves be seduced by the temptation to think that man can fully find himself by denying God, erasing prayer from his life and remaining only a worker, deluding himself that what he produces can on its own fill the needs of the human heart. "Man shall not live by bread alone" (Mt 4:4). This was said by him who knows the human heart and has given sufficient proof of caring for material needs. The Lord's Prayer includes an invocation for bread, but man shall not live by bread alone. Remain faithful to the experience of the generations that have cultivated this earth and brought its hidden treasures to the surface with God in their hearts and a prayer on their lips. *Keep what has been the source of strength* for your fathers and forefathers, for your families and for your communities. Let "prayer and work" became a fresh fountain of strength in this generation and also in the hearts of your children, your grandchildren and great-grandchildren.
+
+### 4 {#jp2-hom-19790606-polonia-jasna-gora-operai.4}
+
+I say to you: "Szczesc Boze"—May God assist you.
+
+I say this prayer through the Heart of the Mother, the Heart of her whose reign in Jasna Góra consists in being a loving Mother for all of us.
+
+I say this prayer through the Heart of that Mother who chose for herself a place closer to your homes, your mines and factories, your villages and cities, the place called Piekary. Add what I say to you today from this height of Jasna Góra to what I have so often said to you, as Metropolitan of Krakow, from the height of Piekary. And remember it.
+
+Amen.
+
+"Szczesc Boze"—May God assist you!
+
+Amen.

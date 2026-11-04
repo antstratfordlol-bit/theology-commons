@@ -1,0 +1,50 @@
+---
+id: francis-hom-20150307-parrocchia-ognissanti.en
+work: francis-hom-20150307-parrocchia-ognissanti
+title: "Pastoral Visit to the Roman Parish of 'Ognissanti' (7 March 2015)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2015-03-07
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/homilies/2015/documents/papa-francesco_20150307_omelia-parrocchia-ognissanti.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-hom-20150307-parrocchia-ognissanti} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Pastoral Visit to the Roman Parish of "Ognissanti" (7 March 2015) {#francis-hom-20150307-parrocchia-ognissanti}
+PASTORAL VISIT TO THE ROMAN PARISH OF "OGNISSANTI"
+
+***HOMILY OF HIS HOLINESS POPE FRANCIS*****
+
+*Third Sunday of Lent\
+Saturday, 7 March 2015*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2015/3/7/parrocchiaognissanti.html)\]
+
+On the occasion of Jewish Passover, Jesus goes to Jerusalem. When He arrives at the temple, He does not find people seeking God, but people conducting business: merchants of livestock for sacrificial offerings; money-changers, those who exchange the “impure” money bearing the emperor’s image with coins approved by the religious authority in order to pay the annual temple fee. What do we find when we go, when we go to our temples? I’ll leave this question. Ignoble trade, a source of lavish earnings, provokes a forceful response from Jesus. He overturns the tables and throws the money to the ground, and sends the merchants away, telling them: “you shall not make my Father’s house a house of trade”! (Jn 2:16).
+
+This expression does not merely refer to the dealings in the temple courtyards. It instead refers to a type of religiosity. This act of Jesus *is an act of “cleansing”, of purification*, and the attitude He renounces can be gleaned from the prophetic texts, according to which God does not appreciate exterior worship performed with material sacrifices and based on personal interests (cf. Is 1:11-17; Jer 7:2-11). This act is a reference to authentic worship, to a correspondence between liturgy and life; an appeal that applies in every age and even for us today — that correspondence between liturgy and life. The liturgy is not something unusual, over there, far away, and while celebrating I think about many things, or I pray the Rosary. No, no. There is a correspondence, between the liturgical celebration which we then carry in our life; and we must always persevere in this, we still have a long way to go.
+
+The Conciliar Constitution *[Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)* defines the liturgy as “the primary and indispensable source from which the faithful are to derive the true Christian spirit” (n. 14). This means reaffirming the essential bond that unites the life of a disciple of Jesus with liturgical worship. This is not primarily a doctrine to be understood, or a rite to be performed; naturally it is also this, but in another way, it is essentially different: it is a font of life and of light for our pilgrimage of faith.
+
+Therefore, the Church calls us to have and to foster an authentic liturgical life, so that there may be harmony between that which the liturgy celebrates and that which we experience in our lives. It means expressing in life what we have received through the faith and how much we have celebrated here (cf. *[Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*, n. 10).
+
+A disciple of Jesus does not go to Church simply to observe a precept, to feel he/she is in good standing with God who then will not “disturb” him/her too much. “But Lord, I go every Sunday, I do..., don’t interfere in my life, don’t disturb me”. This is the attitude of so many Catholics, so many. A disciple of Jesus goes to Church to encounter the Lord and to find in his grace, operating in the Sacraments, the power to think and act according to the Gospel. This is why we cannot mislead ourselves of being able to enter the Lord’s house and “cover up”, with prayer and acts of devotion, conduct contrary to the requirements of justice, honesty and/or charity to our neighbour. We cannot substitute with “religious tributes” what is owed to our neighbour, postponing true conversion. Worship, liturgical celebrations, are the privileged setting to hear the voice of the Lord, who guides us on the path of rectitude and Christian perfection.
+
+It is instead about fulfilling an itinerary of conversion and atonement, to remove the remnants of sin, as Jesus did, cleansing the temple of wretched interests. *Lent is the appropriate time for all of this, it is the time of inner renewal*, of the remission of sins, the time at which we are called to rediscover the Sacrament of Penance and Reconciliation, which lets us pass from the shadows of sin to the light of grace and of friendship with Jesus. The great power this Sacrament has in Christian life must not be forgotten: it enables us to grow in union with God, and lets us reacquire lost joy and experience the comfort of feeling personally held in God’s merciful embrace.
+
+Dear brothers and sisters, this temple was built thanks to the apostolic zeal of St Luigi Orione. Here, 50 years ago, Blessed Paul VI inaugurated, in a certain sense, the liturgical reform with the celebration of the Mass in the language spoken by the people. I hope that this circumstance may rekindle in all of you love for the house of God. May you find great spiritual help there. Here you are able to feel, each time you want it, the regenerative power of personal prayer and of communal prayer. May listening to the Word of God, proclaimed in the liturgical assembly, sustain you on the journey of your Christian life. May you meet within these walls not as strangers but as brothers and sisters, capable of willingly shaking hands, as you are joined by love for Christ, the foundation of the hope and commitment of every believer.
+
+In this Holy Mass, let us trustingly embrace Him, Jesus Christ, the Cornerstone, renewing the intention to commit ourselves through the purification and interior cleansing of the spiritual edifice of the Church, of which each of us is a living part by the power of Baptism. So be it.

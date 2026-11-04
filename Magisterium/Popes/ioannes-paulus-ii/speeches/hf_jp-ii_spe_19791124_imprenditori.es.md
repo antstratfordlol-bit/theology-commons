@@ -1,0 +1,55 @@
+---
+id: jp2-spe-19791124-imprenditori.es
+work: jp2-spe-19791124-imprenditori
+title: "A la unión Cristiana de Empresarios y Dirigentes italiano (24 de noviembre de 1979)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1979-11-24
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1979/november/documents/hf_jp-ii_spe_19791124_imprenditori.html"
+fetch_date: 2026-08-25
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, es, fr, it, pt"
+anchors: "{#jp2-spe-19791124-imprenditori.N} — numbered paragraphs 1..2 (2 anchors); and {#jp2-spe-19791124-imprenditori.prooem} — the text the page prints before its first numbered unit, under a heading minted for it (the dei-filius.prooem precedent)"
+anchor_check: "identical across es; prooem: identical across es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-09-21
+---
+
+# A la unión Cristiana de Empresarios y Dirigentes italiano (24 de noviembre de 1979)
+***DISCURSO DEL SANTO PADRE JUAN PABLO II\
+A LA UNIÓN CRISTIANA DE EMPRESARIOS\
+Y DIRIGENTES ITALIANOS**
+
+Sábado 24 de noviembre de 1979*
+
+*Queridos e ilustres señores:*
+
+### Proemio {#jp2-spe-19791124-imprenditori.prooem}
+
+Me siento contento y honrado de recibir en esta sala de las bendiciones a vosotros, miembros cualificados del consejo nacional, y a vosotros, dirigentes regionales y provinciales de la Unión Cristiana de Empresarios y Dirigentes. En vosotros saludo a los altos representantes del mundo vasto y complejo de dirigentes de empresas industriales, agrícolas y comerciales, o sea a los que proporcionan trabajo, empleo y formación profesional.
+
+Un saludo particular sobre todo al cardenal Giuseppe Siri, consiliario moral nacional vuestro que desde hace treinta años ayuda y alienta vuestro esfuerzo de animación cristiana del mundo de la economía, esfuerzo noble, sí, pero a la vez muy delicado y difícil. Saludo asimismo a vuestro presidente que juntamente con vosotros ha deseado este encuentro para manifestarme como habéis hecho en otras numerosas ocasiones con mis venerados predecesores Pío XII, Juan XXIII y Pablo VI, los sentimientos de fe y adhesión sincera a la Sede de Pedro, sentimientos que han resplandecido y resplandecen siempre en esta Unión, ya desde su aparición en el lejano 1947.
+
+### 1 {#jp2-spe-19791124-imprenditori.1}
+
+Mi primera palabra para vosotros hoy no puede ser sino de estima, aplauso y aliento por vuestra presencia significativa que hacéis sentir efectivamente en la sociedad, evitando toda ostentación. Es una tarea la vuestra en la que veo implícito un verdadero y propio "servicio" civil y social: servicio a cuantos se ocupan en los campos varios de la actividad empresarial. No puedo, naturalmente, entrar en las características específicamente técnicas de tal actividad; ni vosotros, creo, esperáis esto de mí, a quien el Señor ha confiado la función pastoral de indicar la norma suprema para alcanzar la vida eterna en todas las formas de actividad de la vida humana. En esta perspectiva, que no es de orden económico si bien tampoco es extraña a ninguna realidad que afecte al hombre, he leído con la atención debida la nota informativa que el Sr. presidente ha tenido la amabilidad de remitirme al solicitar esta audiencia, junto con una documentación amplia. Me complace mucho esta actividad vuestra que siguiendo la huella luminosa de los beneméritos fundadores de la Asociación, se ocupa intensamente de dar a conocer, aceptar y aplicar de parte de los operadores económicos, las orientaciones de la doctrina social de la Iglesia en las empresas; y encontrar en dicha doctrina las razones capaces de justificar o mejor, de promover en la sociedad un orden nuevo fundado en el respeto a la persona humana y a su promoción armónica y provechosa para el bien común, un orden que responde a las exigencias del Evangelio y que los pueblos anhelan, desilusionados de tantas promesas y tantas experiencias extrañas o contrarias a las motivaciones de nuestra fe. A ello tiende la acción cotidiana de vuestra Unión. sostenida en ello por la presencia de sus consiliarios morales que tienen función de animadores y guías espirituales discretos y eficaces en medio de los socios.
+
+Me he dado cuenta también con la misma complacencia, de la preciosa contribución que aportáis al análisis de las transformaciones tecnológicas, económicas, políticas y culturales que se están realizando en Italia; dándoles una visión cristianamente orientada. Todo ello lo hacéis a través de congresos, encuentros, debates y buenas publicaciones. Entre estas últimas me gusta recordar la revista *Operare* cuya perspicacia alabó Pablo VI de venerable memoria por haber sabido superar muchas dificultades «con la competencia de sus colaboradores, la paciencia para investigar en todos los aspectos de la realidad que se estudiaba, la sinceridad de sus opiniones, la moderación de sus afirmaciones y la amplitud de su punto de vista» (*Discurso al UCID* el 7 de febrero de 1966), Con no menor satisfacción he observado el afán que ponéis en impulsar la investigación metódica para preparar a los futuros dirigentes y formación permanente de los actuales, mediante cursos de puesta al día empresarial, seminarios y actividades conjuntas con las universidades. Este intento noble, destinado a abrir los ánimos a la concepción moderna de la sociedad y a templar las fuerzas morales de vuestros asociados y también de los demás, a fin de que además de poseer una preparación técnica rigurosa, aprendan a ser hombres cristianamente honrados, leales y generosos, merece aprecio y reconocimiento público. Por ello va a vosotros toda mi gratitud y afecto paterno.
+
+### 2 {#jp2-spe-19791124-imprenditori.2}
+
+Pero no basta esto. Consideráis deber vuestro el esfuerzo por dar solución a las instancias legítimas que vienen de los obreros de vuestras empresas. Es necesario que el empresario y los dirigentes de empresa hagan todo cuanto esté en su mano por escuchar, escuchar ¡debidamente!, la voz del obrero que de ellos depende, y por comprender sus exigencias legítimas de justicia y equidad, superando toda tentación egoísta tendente a hacer de la economía la norma de sí misma. Sabréis —y queréis recordarlo a todos— que cualquier desatención en este campo es culpable y todo retraso es fatal. Muchos conflictos y antagonismos entre trabajadores y dirigentes hunden las raíces con frecuencia en el terreno infecundo de la falta de escucha, del rechazo del diálogo, o de que éste se aplaza indebidamente. No es tiempo perdido el que empleáis en reuniros personalmente con los empleados o en hacer vuestras relaciones más humanas y vuestras empresas más "a la medida del hombre". No se os escapa la situación en que se hallan tantos obreros de las fábricas que si se ven forzados a vivir como metidos en un entramado artificial, corren el peligro de sentirse atrofiados en su espontaneidad interior. Con sus automatismos rígidos la máquina es ingrata y avara de satisfacciones. Las mismas relaciones entre compañeros de trabajo, cuando llegan a despersonalizarse, no pueden proporcionar el consuelo y la fuerza necesarios; y las estructuras de producción, distribución y consumo obligan con frecuencia a los obreros a vivir de modo "masificado", sin iniciativa, sin lugar a opciones. Se puede llegar a tal nivel de deshumanización cuando se invierte la escala de valores y se eleva el "productivismo" a parámetro único del fenómeno industrial, cuando se hace caso omiso de la dimensión interior de los valores, cuando se apunta a la perfección del trabajo y no a la perfección de quien lo ejecuta. privilegiando la obra antes que al obrero, al objeto antes que el sujeto. Aquí podría continuar esta consideración que, por otra parte, os es familiar, y nos llevaría a hablar del tema más general y universal de los derechos del hombre. Pero ello nos conduciría lejos; por tanto, me limito a recordar un párrafo breve de mi primera Encíclica donde afirmaba que la violación de los derechos fundamentales del hombre «no puede concordarse de ningún modo con cualquier programa que se defina "humanístico". Y ¿qué tipo de programa social, económico, político, cultural podría renunciar a esta definición?« (cf. *[Redemptor hominis](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html)*, 17).
+
+Vosotros estáis bien seguros de que sólo con esta perspectiva el hombre —todo hombre, sea empresario, dirigente o colaborador en los distintos sectores como empleado u obrero— puede encontrar su sentido profundo, sintiéndose así en grado de manifestar su talento, colaborar, participar y cooperar en el buen funcionamiento de la empresa del que todos son colaboradores y artífices a un tiempo.
+
+De este modo recupera también su importante significación el tiempo dedicado al trabajo y no menos el reservado al reposo; uno y otro hacen que el hombre se descubra a sí mismo y descubra a la vez los valores más altos del amor y la solidaridad, que le permitan alcanzar el desarrollo integral que lo libere de frustraciones posibles y que siempre acechan.
+
+He aquí, queridos hermanos, algunas indicaciones que os pueden ser útiles en el desempeño de vuestra no fácil actividad empresarial y directiva, de gran responsabilidad. Al terminar me complazco en hacer mío el augurio que mi gran Predecesor Pablo VI os dirigió en su último discurso que fue como testamento. «Que vuestro testimonio cristiano contribuya verdaderamente a difundir en el ambiente empresarial la convicción de que los bienes creados tienen un destino universal "deben llegar a todos en forma equitativa bajo la égida de la justicia y con la compañía de la caridad" (*[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)*, 69, 1). Que vuestro ejemplo estimule el uso de los réditos disponibles de una manera no arbitraria ni egoísta; que el planteamiento que dais a vuestra actividad sirva sobre todo a hacer de la empresa una comunidad de personas en la que cada uno se sienta estimado en su propia dignidad mediante una responsable participación en la obra común» (*Discurso al UCID,*  12 de febrero de 1977). Quiero dar mayor valor a este deseo con la oración, a la vez que invocando la ayuda d Señor sobre vuestras personas y vuestros seres queridos, y sobre todos los inscritos a esta Unión y sus familiares, a todos doy cordialmente mi bendición apostólica.

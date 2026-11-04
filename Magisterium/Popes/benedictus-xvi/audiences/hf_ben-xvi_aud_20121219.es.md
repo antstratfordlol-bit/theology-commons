@@ -1,0 +1,60 @@
+---
+id: b16-aud-20121219.es
+work: b16-aud-20121219
+title: "Audiencia general del 19 de diciembre de 2012: La Virgen María: Icono de la fe obediente"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: General audience (catechesis)
+url_date: 2012-12-19
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/audiences/2012/documents/hf_ben-xvi_aud_20121219.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pt"
+anchors: "{#b16-aud-20121219} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Audiencia general del 19 de diciembre de 2012: La Virgen María: Icono de la fe obediente {#b16-aud-20121219}
+BENEDICTO XVI
+
+## AUDIENCIA GENERAL
+
+*Sala Pablo VI\
+Miércoles 19 de diciembre de 2012*
+
+## La Virgen María: Icono de la fe obediente
+
+*Queridos hermanos:*
+
+En el camino de Adviento la Virgen María ocupa un lugar especial como aquella que ha esperado de modo único la realización de las promesas de Dios, acogiendo en la fe y en la carne a Jesús, el Hijo de Dios, en plena obediencia a la voluntad divina. Hoy quisiera reflexionar brevemente con vosotros sobre la fe de María a partir del gran misterio de la Anunciación.
+
+«*Chaîre kecharitomene, ho Kyrios meta sou*», «Alégrate, llena de gracia, el Señor está contigo» (*Lc* 1, 28). Estas son las palabras —citadas por el evangelista Lucas— con las que el arcángel Gabriel se dirige a María. A primera vista el término *chaîre*, «alégrate», parece un saludo normal, usual en el ámbito griego; pero esta palabra, si se lee sobre el trasfondo de la tradición bíblica, adquiere un significado mucho más profundo. Este mismo término está presente cuatro veces en la versión griega del Antiguo Testamento y siempre como anuncio de alegría por la venida del Mesías (cf. *Sof* 3, 14; *Jl* 2, 21; *Zac* 9, 9; *Lam* 4, 21). El saludo del ángel a María es, por lo tanto, una invitación a la alegría, a una alegría profunda, que anuncia el final de la tristeza que existe en el mundo ante el límite de la vida, el sufrimiento, la muerte, la maldad, la oscuridad del mal que parece ofuscar la luz de la bondad divina. Es un saludo que marca el inicio del Evangelio, de la Buena Nueva.
+
+Pero, ¿por qué se invita a María a alegrarse de este modo? La respuesta se encuentra en la segunda parte del saludo: «El Señor está contigo». También aquí para comprender bien el sentido de la expresión, debemos recurrir al Antiguo Testamento. En el *Libro de Sofonías* encontramos esta expresión «Alégrate, hija de Sión... El Rey de Israel, el Señor, está en medio de ti... El Señor tu Dios está en medio de ti, valiente y salvador» (3, 14-17). En estas palabras hay una doble promesa hecha a Israel, a la hija de Sión: Dios vendrá como salvador y establecerá su morada precisamente en medio de su pueblo, en el seno de la hija de Sión. En el diálogo entre el ángel y María se realiza exactamente esta promesa: María se identifica con el pueblo al que Dios tomó como esposa, es realmente la Hija de Sión en persona; en ella se cumple la espera de la venida definitiva de Dios, en ella establece su morada el Dios viviente.
+
+En el saludo del ángel, se llama a María «llena de gracia»; en griego el término «gracia», *charis*, tiene la misma raíz lingüística de la palabra «alegría». También en esta expresión se clarifica ulteriormente la fuente de la alegría de María: la alegría proviene de la gracia; es decir, proviene de la comunión con Dios, del tener una conexión vital con Él, del ser morada del Espíritu Santo, totalmente plasmada por la acción de Dios. María es la criatura que de modo único ha abierto de par en par la puerta a su Creador, se puso en sus manos, sin límites. Ella vive totalmente *de la* y *en* relación con el Señor; está en actitud de escucha, atenta a captar los signos de Dios en el camino de su pueblo; está inserta en una historia de fe y de esperanza en las promesas de Dios, que constituye el tejido de su existencia. Y se somete libremente a la palabra recibida, a la voluntad divina en la obediencia de la fe.
+
+El evangelista Lucas narra la vicisitud de María a través de un fino paralelismo con la vicisitud de Abrahán. Como el gran Patriarca es el padre de los creyentes, que ha respondido a la llamada de Dios para que saliera de la tierra donde vivía, de sus seguridades, a fin de comenzar el camino hacia una tierra desconocida y que poseía sólo en la promesa divina, igual María se abandona con plena confianza en la palabra que le anuncia el mensajero de Dios y se convierte en modelo y madre de todos los creyentes.
+
+Quisiera subrayar otro aspecto importante: la apertura del alma a Dios y a su acción en la fe incluye también el elemento de la oscuridad. La relación del ser humano con Dios no cancela la distancia entre Creador y criatura, no elimina cuanto afirma el apóstol Pablo ante las profundidades de la sabiduría de Dios: «¡Qué insondables sus decisiones y qué irrastreables sus caminos!» (*Rm* 11, 33). Pero precisamente quien —como María— está totalmente abierto a Dios, llega a aceptar el querer divino, incluso si es misterioso, también si a menudo no corresponde al propio querer y es una espada que traspasa el alma, como dirá proféticamente el anciano Simeón a María, en el momento de la presentación de Jesús en el Templo (cf. *Lc* 2, 35). El camino de fe de Abrahán comprende el momento de alegría por el don del hijo Isaac, pero también el momento de la oscuridad, cuando debe subir al monte Moria para realizar un gesto paradójico: Dios le pide que sacrifique el hijo que le había dado. En el monte el ángel le ordenó: «No alargues la mano contra el muchacho ni le hagas nada. Ahora he comprobado que temes a Dios, porque no te has reservado a tu hijo, a tu único hijo» (*Gn* 22, 12). La plena confianza de Abrahán en el Dios fiel a las promesas no disminuye incluso cuando su palabra es misteriosa y difícil, casi imposible, de acoger. Así es para María; su fe vive la alegría de la Anunciación, pero pasa también a través de la oscuridad de la crucifixión del Hijo para poder llegar a la luz de la Resurrección.
+
+No es distinto incluso para el camino de fe de cada uno de nosotros: encontramos momentos de luz, pero hallamos también momentos en los que Dios parece ausente, su silencio pesa en nuestro corazón y su voluntad no corresponde a la nuestra, a aquello que nosotros quisiéramos. Pero cuanto más nos abrimos a Dios, acogemos el don de la fe, ponemos totalmente en Él nuestra confianza —como Abrahán y como María—, tanto más Él nos hace capaces, con su presencia, de vivir cada situación de la vida en la paz y en la certeza de su fidelidad y de su amor. Sin embargo, esto implica salir de uno mismo y de los propios proyectos para que la Palabra de Dios sea la lámpara que guíe nuestros pensamientos y nuestras acciones.
+
+Quisiera detenerme aún sobre un aspecto que surge en los relatos sobre la Infancia de Jesús narrados por san Lucas. María y José llevan al hijo a Jerusalén, al Templo, para presentarlo y consagrarlo al Señor como prescribe la ley de Moisés: «Todo varón primogénito será consagrado al Señor» (cf. *Lc* 2, 22-24). Este gesto de la Sagrada Familia adquiere un sentido aún más profundo si lo leemos a la luz de la ciencia evangélica de Jesús con doce años que, tras buscarle durante tres días, le encuentran en el Templo mientras discutía entre los maestros. A las palabras llenas de preocupación de María y José: «Hijo, ¿por qué nos has tratado así? Tu padre y yo te buscábamos angustiados», corresponde la misteriosa respuesta de Jesús: «¿Por qué me buscabais? ¿No sabíais que yo debía estar en las cosas de mi Padre?» (*Lc* 2, 48-49). Es decir, en la propiedad del Padre, en la casa del Padre, como un hijo. María debe renovar la fe profunda con la que ha dicho «sí» en la Anunciación; debe aceptar que el verdadero Padre de Jesús tenga la precedencia; debe saber dejar libre a aquel Hijo que ha engendrado para que siga su misión. Y el «sí» de María a la voluntad de Dios, en la obediencia de la fe, se repite a lo largo de toda su vida, hasta el momento más difícil, el de la Cruz.
+
+Ante todo esto, podemos preguntarnos: ¿cómo pudo María vivir este camino junto a su Hijo con una fe tan firme, incluso en la oscuridad, sin perder la plena confianza en la acción de Dios? Hay una actitud de fondo que María asume ante lo que sucede en su vida. En la Anunciación ella queda turbada al escuchar las palabras del ángel —es el temor que el hombre experimenta cuando lo toca la cercanía de Dios—, pero no es la actitud de quien tiene miedo ante lo que Dios puede pedir. María reflexiona, se interroga sobre el significado de ese saludo (cf. *Lc* 1, 29). La palabra griega usada en el Evangelio para definir «reflexionar», «*dielogizeto*», remite a la raíz de la palabra «diálogo». Esto significa que María entra en íntimo diálogo con la Palabra de Dios que se le ha anunciado; no la considera superficialmente, sino que se detiene, la deja penetrar en su mente y en su corazón para comprender lo que el Señor quiere de ella, el sentido del anuncio. Otro signo de la actitud interior de María ante la acción de Dios lo encontramos, también en el Evangelio de san Lucas, en el momento del nacimiento de Jesús, después de la adoración de los pastores. Se afirma que María «conservaba todas estas cosas, meditándolas en su corazón» (*Lc* 2, 19); en griego el término es *symballon*. Podríamos decir que ella «mantenía unidos», «reunía» en su corazón todos los acontecimientos que le estaban sucediendo; situaba cada elemento, cada palabra, cada hecho, dentro del todo y lo confrontaba, lo conservaba, reconociendo que todo proviene de la voluntad de Dios. María no se detiene en una primera comprensión superficial de lo que acontece en su vida, sino que sabe mirar en profundidad, se deja interpelar por los acontecimientos, los elabora, los discierne, y adquiere aquella comprensión que sólo la fe puede garantizar. Es la humildad profunda de la fe obediente de María, que acoge en sí también aquello que no comprende del obrar de Dios, dejando que sea Dios quien le abra la mente y el corazón. «Bienaventurada la que ha creído, porque lo que le ha dicho el Señor se cumplirá» (*Lc* 1, 45), exclama su pariente Isabel. Es precisamente por su fe que todas las generaciones la llamarán bienaventurada.
+
+Queridos amigos, la solemnidad del Nacimiento del Señor que dentro de poco celebraremos, nos invita a vivir esta misma humildad y obediencia de fe. La gloria de Dios no se manifiesta en el triunfo y en el poder de un rey, no resplandece en una ciudad famosa, en un suntuoso palacio, sino que establece su morada en el seno de una virgen, se revela en la pobreza de un niño. La omnipotencia de Dios, también en nuestra vida, obra con la fuerza, a menudo silenciosa, de la verdad y del amor. La fe nos dice, entonces, que el poder indefenso de aquel Niño al final vence el rumor de los poderes del mundo.
+
+## Saludos
+
+Saludo a los peregrinos de lengua española, en particular a los Legionarios de Cristo que recientemente han sido agregados al Orden Sacerdotal, así como a sus familiares. Saludo a los grupos venidos de España y de los países latinoamericanos. Que la próxima solemnidad de la Navidad, en la que contemplamos cómo Dios pone su morada en el seno de la Virgen, nos haga crecer en el amor al Señor, acogiendo con humildad su Palabra. Muchas gracias y Feliz Navidad.

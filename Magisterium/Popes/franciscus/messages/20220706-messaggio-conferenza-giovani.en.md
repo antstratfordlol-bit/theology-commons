@@ -1,0 +1,77 @@
+---
+id: francis-mes-20220706-conferenza-giovani.en
+work: francis-mes-20220706-conferenza-giovani
+title: "Message of the Holy Father to the participants in the EU Youth Conference [Prague, 11-13 July 2022] (6 July 2022)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Message
+url_date: 2022-07-06
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/messages/pont-messages/2022/documents/20220706-messaggio-conferenza-giovani.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-mes-20220706-conferenza-giovani} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Message of the Holy Father to the participants in the EU Youth Conference [Prague, 11-13 July 2022] (6 July 2022) {#francis-mes-20220706-conferenza-giovani}
+## MESSAGE OF HIS HOLINESS POPE FRANCIS TO THE PARTICIPANTS IN THE EU YOUTH CONFERENCE
+
+\[PRAGUE, 11-13 JULY 2022\]
+
+*Dear young people!*
+
+I am very happy to address you who are participating in the European Youth Conference. I would like to tell you something that is very close to my heart. Above all, I invite you to transform the “old continent” into a “new continent”, and this is only possible with you. I know that your generation has some good cards to play: you are attentive young people, less ideologized, accustomed to studying in other European countries, open to volunteering and sensitive to environmental issues. This is why I feel there is hope.
+
+As young Europeans, you have an important mission. If in the past your ancestors went to other continents, not always for noble interests, it is now up to you to present the world with a new face of Europe.
+
+Regarding the origin of the name “Europe”, there are still no certain explanations. Among the various hypotheses, one is particularly suggestive: it goes back to the Greek words *eurús ops*, meaning “wide eye”, evoking the ability to see ahead and beyond. Europa, a mythological figure who made the gods fall in love with her, was called “the wide-eyed maiden”. So I also think of you, young Europeans, as people with a wide, open gaze, capable of looking ahead and beyond.
+
+Perhaps you have heard of the [initiative, launched in September 2019, called the Global Compact on Education](https://www.vatican.va/content/francesco/en/messages/pont-messages/2019/documents/papa-francesco_20190912_messaggio-patto-educativo.html). It is an alliance between educators around the world to educate the younger generations in fraternity. Seeing, however, how our world is being led by adults and elders, it seems that perhaps you should be the ones to educate adults in fraternity and peaceful coexistence!
+
+Among the first commitments of the Educational Pact is to *listen to children, adolescents and young people*. So dear young people, make your voices heard! If they do not listen to you, shout even louder, make noise; you have every right to have your say on what concerns your future. I encourage you to be enterprising, creative and critical. You know that when a teacher has demanding, critical, attentive students in his class, he or she is stimulated to work harder and prepare better lessons.
+
+In this Compact, there are no “givers” and “takers”, but all of us are called to educate ourselves in communion, as the Brazilian pedagogue Paulo Freire has suggested. So do not be afraid to be demanding. You have a right to receive the best for yourselves just as your educators have the duty to give the best of themselves.
+
+Among the various proposals of the Global Compact on Education, I would like to recall two that I also noted in your Conference.
+
+First, *be open to acceptance*, and hence to the value of *inclusion*. Don’t let yourselves be drawn into short-sighted ideologies that want to show others, those who are different from ourselves, as enemies. Others are an asset. The experience of the millions of European students who have taken part in the Erasmus Project testifies to the fact that encounters between people from different peoples help to open eyes, minds and hearts. It is good to have “a broad outlook” in order to be open up to others, and not discriminating against anyone, for any reason. Be in solidarity with everyone, not only with those who look like us, or give off an image of success, but with those who suffer, whatever their nationality or social status. Let us not forget that millions of Europeans in the past have had to emigrate to other continents in search of a future. I myself am the son of Italians who emigrated to Argentina.
+
+The main objective of the Educational Pact is to educate everyone to a more fraternal life, based not on competitiveness but on solidarity. Your greatest aspiration, dear young people, should not be to enter elite educational environments, where only people with lots of money can be accepted. Such institutions often have an interest in maintaining the *status quo*, in training people to ensure that the system works the way it is. Rather, those schools that combine educational quality with service to others should be valued, since the purpose of education is personal growth directed towards the common good. These experiences of solidarity will change the world, not the “exclusive” (and exclusionary) experiences of elite schools. Excellence yes, but for all, not just for some.
+
+I would encourage you to read my Encyclical *[Fratelli Tutti](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html)* (3 October 2020) and the *[Document on Human Fraternity](https://www.vatican.va/content/francesco/en/travels/2019/outside/documents/papa-francesco_20190204_documento-fratellanza-umana.html)* (4 February 2019), which I signed together with the Grand Imam of Al-Azhar. I know that many Muslim universities and schools are reading these texts with interest, and so I hope you too will find them inspiring. Education, then, should have as its goal not only to “know oneself” but also to know others.
+
+The other proposal I would like to mention concerns *care for the common home*.
+
+Here too I was pleased to note that while previous generations talked a lot and concluded little, you on the other hand have been capable of concrete initiatives. That is why I say that this, more than ever, is the right time.  If you do not succeed in turning this self-destructive trend around, it will be difficult for others to do so in the future. Don’t let yourselves be seduced by the sirens that propose a life of luxury reserved for a small slice of the world. Instead, have that “broad outlook” that can take in all the rest of humanity, which is much bigger than our little continent. May you aspire to a life of dignity and sobriety, without luxury and waste, so that everyone in our world can enjoy a dignified existence. There is an urgent need to reduce the consumption not only of fossil fuels but also of so many superfluous things. In certain areas of the world, too, it would be appropriate to consume less meat: this too can help save the environment.
+
+In this regard, it will do you good – if you have not already done so – to read my Encyclical *[Laudato Si'](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)*, in which believers and non-believers alike can find solid motivations for committing themselves to an integral ecology. An education, then, aimed not only at knowing oneself and others, but also creation.
+
+Dear young people, while you are holding your Conference, in Ukraine – which is not in the EU, but is Europe – a senseless war is being fought. Added to the numerous conflicts taking place in different regions of the world, it makes the need for an educational pact that educates everyone to fraternity all the more urgent.
+
+The idea of a united Europe arose from a powerful yearning for peace in the wake of the numerous wars fought on this continent, and it led to a seventy-year period of peace. Now we must all commit ourselves to putting an end to this dreadful war, where, as usual, a few powerful people decide and send thousands of young people to fight and die. In cases like this, it is legitimate to rebel!
+
+Someone has said that, if the world were ruled by women, there would not be so many wars, because those who have the mission of giving life cannot make death choices. In a similar vein, I like to think that if the world were ruled by young people, there would not be so many wars. Those who have their whole life ahead of them do not want to ruin it and throw it away, but to live it to the full.
+
+I would like to invite you to get to know the extraordinary figure of a young objector, a young European with “a broad outlook”, who fought against Nazism during the Second World War. His name was Franz Jägerstätter, and he was beatified by [Pope Benedict XVI](https://www.vatican.va/content/benedict-xvi/en.html). Franz was a young Austrian who, because of his Catholic faith, made a conscientious objection to the injunction to swear allegiance to Hitler and go to war. As a boy, he was cheerful, likeable and carefree, but as he matured, thanks also to his wife Franziska, with whom he had three children, he changed his life and developed profound convictions. When called to arms, he refused, because he felt it was unjust to kill innocent lives. His decision triggered harsh reactions towards him from his community, the mayor, and even members of his family. A priest tried to dissuade him for the sake of his family. Everyone was against him, except his wife Franziska, who, despite knowing the price to be paid, always stood by her husband and supported him to the end. Despite cajoling and torture, Franz preferred to be killed than to kill. He considered the war totally unjustified. If all the young men called to arms had done as he did, Hitler would not have been able to carry out his diabolical plans. To triumph, evil needs accomplices.
+
+Franz Jägerstätter was executed in the same prison where his contemporary Dietrich Bonhoeffer, a young German Lutheran theologian and anti-Nazi, was also imprisoned and met the same tragic end.
+
+These two young men of “broad outlook” were killed because they remained faithful to the ideals of their faith to the end. Here we can see a fourth dimension of education: alongside knowledge of oneself, of others and of creation, also knowledge of the beginning and end of all things. Dear young Europeans, I invite you to look upwards and beyond, to keep seeking the real meaning of your life, where you come from and where you are going, and the Truth, because we cannot live authentically if we do not seek the Truth. Walk with your feet firmly planted on the earth, but with a broad gaze, open to the horizon, open to the sky. Reading my Apostolic Exhortation *[Christus Vivit](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20190325_christus-vivit.html)*, addressed especially to young people, can help you in this. And I invite all of you to [next year’s World Youth Day in Lisbon](https://www.vatican.va/gmg/documents/gmg_chronicle-wyd_20020325_en.html#2023). There you will be able to share your finest and most beautiful dreams with young people from all over the world.
+
+Let me conclude with a wish. May you be *generative!* Young people capable of generating new ideas, new visions of the world, of the economy, of politics, of social coexistence, but above all of new paths to be travelled together. And may you also be generous in generating new lives, always and only as the fruit of love! The love of husband and wife, the love of family and children, but also love of Europe, so that it can be for everyone a land of peace, freedom and dignity.
+
+Have a good meeting and a good journey! I send you my warm greeting and my blessing. And I ask you, please, to pray for me.
+
+*Rome, Saint John Lateran, 6 July 2022*
+
+FRANCIS

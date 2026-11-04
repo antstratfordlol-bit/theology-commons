@@ -1,0 +1,61 @@
+---
+id: francis-spe-20150708-bolivia-autorita-civili.es
+work: francis-spe-20150708-bolivia-autorita-civili
+title: "Viaje apostólico - Bolivia: Encuentro con las autoridades civiles (Catedral de La Paz, 8 de julio de 2015)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2015-07-08
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2015/july/documents/papa-francesco_20150708_bolivia-autorita-civili.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#francis-spe-20150708-bolivia-autorita-civili} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje apostólico - Bolivia: Encuentro con las autoridades civiles (Catedral de La Paz, 8 de julio de 2015) {#francis-spe-20150708-bolivia-autorita-civili}
+[VIAJE APOSTÓLICO DEL SANTO PADRE FRANCISCO\
+A ECUADOR, BOLIVIA Y PARAGUAY](http://w2.vatican.va/content/francesco/es/travels/2015/outside/documents/papa-francesco-ecuador-bolivia-paraguay-2015.html)\
+(5-13 DE JULIO DE 2015)
+
+## ENCUENTRO CON LAS AUTORIDADES CIVILES
+
+## DISCURSO DEL SANTO PADRE
+
+*Catedral de La Paz, Bolivia\
+Miércoles 8 de julio de 2015*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2015/7/8/boliviaautorita.html)\]
+
+*Hermano Presidente,\
+Hermanos y hermanas:*
+
+Me alegro de este encuentro con ustedes, autoridades políticas y civiles de Bolivia, miembros del Cuerpo diplomático y personas relevantes del mundo de la cultura y del voluntariado. Agradezco a mi hermano Edmundo Abastoflor, Arzobispo de esta Iglesia de la Paz, su amable bienvenida. Les ruego que me permitan cooperar, alentando con algunas palabras, la tarea de cada uno de ustedes, la que ya realizan. Y les agradezco la cooperación que ustedes, con su testimonio de calurosa acogida, me dan a mí para que yo pueda seguir adelante. Muchas gracias.
+
+Cada uno a su manera, todos los aquí presentes compartimos la vocación de trabajar por el bien común. Ya hace 50 años, el [Concilio Vaticano II](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index_sp.htm) definía el bien común como «el conjunto de condiciones de la vida social que hacen posible a los grupos y a cada uno de sus miembros conseguir más plena y fácilmente de la propia perfección»; gracias a ustedes por aspirar –desde su rol y misión– para que las personas y la sociedad se desarrollen, alcancen su perfección. Estoy seguro de sus búsquedas de lo bello, lo verdadero, lo bueno en este afán por el bien común. Que este esfuerzo ayude siempre a crecer en un mayor respeto a la persona humana en cuanto tal, con derechos básicos e inalienables ordenados a su desarrollo integral, a la paz social, es decir, la estabilidad y seguridad de un cierto orden, que no se produce sin una atención particular a la justicia distributiva (cf. Enc. [*Laudato si’*, 157](http://w2.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html#157)). Que la riqueza se distribuya, dicho sencillamente.
+
+En el trayecto hacia la catedral, desde el aeropuerto, he podido admirarme de las cumbres del Hayna Potosí y del Illimani, de ese «cerro joven» y de aquel que indica «el lugar por donde sale el sol». También he visto cómo de manera artesanal muchas casas y barrios se confundían con las laderas y me he maravillado de algunas obras de su arquitectura. El ambiente natural y el ambiente social, político y económico están íntimamente relacionados. Nos urge poner las bases de una ecología integral –es problema de salud– una ecología integral que incorpore claramente todas las dimensiones humanas en la resolución de las graves cuestiones socioambientales de nuestros días – si no los glaciares de esos mismos montes seguirán retrocediendo – y la lógica de la recepción, la conciencia del mundo que queremos dejar a los que nos sucedan, su orientación general, su sentido, sus valores también se derretirán como esos hielos (cf. *ibid.*, [159](http://w2.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html#159)-[160](http://w2.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html#160)). Y de esto hay que tomar conciencia. Ecología integral – y me arriesgo– supone ecología de la madre tierra, cuidar la madre tierra; ecología humana, cuidarnos entre nosotros; y ecología social, forzada la palabra.
+
+Como todo está relacionado, nos necesitamos unos a otros. Si la política se deja dominar por la especulación financiera o la economía se rige únicamente por el paradigma tecnocrático y utilitarista de la máxima producción, no podrán ni siquiera comprender, y menos aún resolver, los grandes problemas que afectan a la humanidad. Es necesaria también la cultura, de la que forma parte no solo el desarrollo de la capacidad intelectual del ser humano en las ciencias y de la capacidad de generar belleza en las artes, sino también las tradiciones populares locales –eso también es cultura– con su particular sensibilidad al medio de donde han surgido y del que han salido, al medio que le da sentido. Se requiere de igual forma una educación ética y moral, que cultive actitudes de solidaridad y corresponsabilidad entre las personas. Debemos reconocer el papel específico de las religiones en el desarrollo de la cultura y los beneficios que puedan aportar a la sociedad. Los cristianos, en particular, como discípulos de la Buena Noticia, somos portadores de un mensaje de salvación que tiene en sí mismo la capacidad de ennoblecer a las personas, de inspirar grandes ideales capaces de impulsar líneas de acción que vayan más allá del interés individual, posibilitando la capacidad de renuncia en favor de los demás, la sobriedad y las demás virtudes que nos contienen y nos unen. Esas virtudes que en vuestra cultura tan sencillamente se expresan en esos tres mandamientos: no mentir, no robar y no ser flojo.
+
+Pero debemos estar alerta pues muy fácilmente nos habituamos al ambiente de inequidad que nos rodea, que nos volvemos insensibles a sus manifestaciones. Y así confundimos sin darnos cuenta el «bien común» con el «bien-estar», y ahí se va resbalando de a poquito, de a poquito, y el ideal del bien común, como que se va perdiendo, termina en el bienestar, sobre todo cuando somos nosotros los que lo disfrutamos y no los otros. El bienestar que se refiere solo a la abundancia material tiende a ser egoísta, tiende a defender los intereses de parte, a no pensar en los demás, y a dejarse llevar por la tentación del consumismo. Así entendido, el bienestar, en vez de ayudar, incuba posibles conflictos y disgregación social; instalado como la perspectiva dominante, genera el mal de la corrupción que cuánto desalienta y tanto mal hace. El bien común, en cambio, es algo más que la suma de intereses individuales; es un pasar de lo que «es mejor para mí» a lo que «es mejor para todos», e incluye todo aquello que da cohesión a un pueblo: metas comunes, valores compartidos, ideales que ayudan a levantar la mirada, más allá de los horizontes particulares.
+
+Los diferentes agentes sociales tienen la responsabilidad de contribuir a la construcción de la unidad y el desarrollo de la sociedad. La libertad siempre es el mejor ámbito para que los pensadores, las asociaciones ciudadanas, los medios de comunicación desarrollen su función, con pasión y creatividad, al servicio del bien común. También los cristianos, llamados a ser fermento en el pueblo, aportan su propio mensaje a la sociedad. La luz del Evangelio de Cristo no es propiedad de la Iglesia; ella es su servidora: la Iglesia debe servir al Evangelio de Cristo para que llegue hasta los extremos del mundo. La fe es una luz que no encandila; las ideologías encandilan, la fe no encandila, la fe es una luz que no obnubila, sino que alumbra y guía con respeto la conciencia y la historia de cada persona y de cada convivencia humana. Respeto. El cristianismo ha tenido un papel importante en la formación de la identidad del pueblo boliviano. La libertad religiosa –como es acuñada habitualmente esa expresión en el fuero civil– es quien también nos recuerda que la fe no puede reducirse al ámbito puramente subjetivo. No es una subcultura. Será nuestro desafío alentar y favorecer que germinen la espiritualidad y el compromiso de la fe, el compromiso cristiano en obras sociales, en extender el bien común, a través de las obras sociales.
+
+Entre los diversos actores sociales, quisiera destacar la familia, amenazada en todas partes, por tantos factores, por la violencia doméstica, el alcoholismo, el machismo, la drogadicción, la falta de trabajo, la inseguridad ciudadana, el abandono de los ancianos, los niños de la calle y recibiendo pseudo-soluciones desde perspectivas que no son saludables a la familia sino que provienen claramente de colonizaciones ideológicas. Son tantos los problemas sociales que resuelve la familia, y las resuelve en silencio, son tantos, que no promover la familia es dejar desamparados a los más desprotegidos.
+
+Una nación que busca el bien común no se puede cerrar en sí misma; las redes de relaciones afianzan a las sociedades. El problema de la inmigración en nuestros días nos lo demuestra. El desarrollo de la diplomacia con los países del entorno, que evite los conflictos entre pueblos hermanos y contribuya al diálogo franco y abierto de los problemas, hoy es indispensable. Y estoy pensando acá, en el mar: diálogo, es indispensable. Construir puentes en vez de levantar muros. Construir puentes en vez de levantar muros. Todos los temas, por más espinosos que sean, tienen soluciones compartidas, tienen soluciones razonables, equitativas y duraderas. Y, en todo caso, nunca han de ser motivo de agresividad, rencor o enemistad que agravan más la situación y hacen más difícil su resolución.
+
+Bolivia transita un momento histórico: la política, el mundo de la cultura, las religiones son parte de este hermoso desafío de la unidad. En esta tierra donde la explotación, la avaricia y múltiples egoísmos y perspectivas sectarias han dado sombra a su historia, hoy puede ser el tiempo de la integración. Y hay que caminar ese camino. Hoy Bolivia puede crear, es capaz de crear con su riqueza nuevas síntesis culturales. ¡Qué hermosos son los países que superan la desconfianza enfermiza e integran a los diferentes, y que hacen de esa integración un nuevo factor de desarrollo! ¡Qué lindos cuando están llenos de espacios que conectan, relacionan, favorecen el reconocimiento del otro! (cf. *[Evangelii gaudium](http://w2.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 210). Bolivia, en la integración y en su búsqueda de la unidad, está llamada a ser «esa multiforme armonía que atrae» (*[ibid](http://w2.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html).*, 117), y que atrae en el camino hacia la consolidación de la patria grande.
+
+Muchas gracias por su atención. Pido al Señor que Bolivia, «esta tierra inocente y hermosa» siga progresando cada vez más para que sea esa «patria feliz donde el hombre vive el bien de la dicha y la paz». Que la Virgen santa los cuide y el Señor los bendiga abundantemente. Y por favor, por favor les pido, que no se olviden rezar por mí. Muchas gracias.

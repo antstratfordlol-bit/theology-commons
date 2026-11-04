@@ -1,0 +1,91 @@
+---
+id: b16-aud-20090520.es
+work: b16-aud-20090520
+title: "Audiencia general del 20 de mayo de 2009: El viaje apostólico a Tierra Santa"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: General audience (catechesis)
+url_date: 2009-05-20
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/audiences/2009/documents/hf_ben-xvi_aud_20090520.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-aud-20090520} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Audiencia general del 20 de mayo de 2009: El viaje apostólico a Tierra Santa {#b16-aud-20090520}
+BENEDICTO XVI
+
+## AUDIENCIA GENERAL
+
+*Miércoles 20 de mayo de 2009*
+
+## [Viaje apostólico a Tierra Santa](http://www.vatican.va/content/benedict-xvi/es/travels/2009/outside/documents/holy-land.html)
+
+*Queridos hermanos y hermanas:*
+
+Hoy voy a hablar del [viaje apostólico que realicé del 8 al 15 de mayo a Tierra Santa](http://www.vatican.va/content/benedict-xvi/es/travels/2009/outside/documents/holy-land.html), y por el que no dejo de dar gracias al Señor, pues se ha revelado un gran don para el Sucesor de Pedro y para toda la Iglesia. Deseo expresar de nuevo mi profundo agradecimiento a Su Beatitud el patriarca Fouad Twal, a los obispos de los diferentes ritos, a los sacerdotes y a los franciscanos de la Custodia de Tierra Santa. Doy las gracias al rey y a la reina de Jordania, al presidente de Israel y al presidente de la Autoridad nacional palestina, con sus respectivos gobiernos, a todas las autoridades y a cuantos han colaborado de diferentes maneras en la preparación y en el éxito de la visita.
+
+Se trató, ante todo, de una peregrinación; más aún, de la peregrinación por excelencia a los manantiales de la fe y, al mismo tiempo, de una visita pastoral a la Iglesia que vive en Tierra Santa: una comunidad de singular importancia, pues representa una presencia viva en los lugares donde tuvo su origen.
+
+La primera etapa, del 8 al 11 de mayo por la mañana, fue Jordania, en cuyo territorio se encuentran dos santos lugares principales: el monte Nebo, desde el cual Moisés contempló la Tierra prometida y donde murió sin entrar en ella; y Betania "al otro lado del Jordán", donde, según el cuarto Evangelio, al inicio bautizaba san Juan. El [memorial de Moisés](https://www.vatican.va/content/benedict-xvi/es/speeches/2009/may/documents/hf_ben-xvi_spe_20090509_memoriale-mose.html) en el monte Nebo es un lugar de fuerte significado simbólico: habla de nuestra condición de peregrinos entre un "ya" y un "todavía no", entre una promesa tan grande y hermosa que nos sostiene en el camino y un cumplimento que nos supera, y que supera también este mundo.
+
+La Iglesia vive en sí misma esta "índole escatológica" y "peregrina": ya está unida a Cristo, su esposo, pero la fiesta de bodas por ahora sólo se pregusta, en espera de su vuelta gloriosa al final de los tiempos (cf. *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html),* 48-50). En [Betania tuve la alegría de bendecir las primeras piedras](https://www.vatican.va/content/benedict-xvi/es/speeches/2009/may/documents/hf_ben-xvi_spe_20090510_bethany.html) de dos iglesias que se edificarán en el lugar donde san Juan bautizaba. Este hecho es signo de la apertura y del respeto del reino hachemita por la libertad religiosa y la tradición cristiana, y esto merece gran aprecio. Manifesté este justo reconocimiento, unido al profundo respeto por la comunidad musulmana, [a los jefes religiosos, al Cuerpo diplomático y a los rectores de las universidades](https://www.vatican.va/content/benedict-xvi/es/speeches/2009/may/documents/hf_ben-xvi_spe_20090509_capi-musulmani.html), reunidos en la mezquita Al-Hussein bin-Talal, que mandó construir el rey Abadalá II en memoria de su padre, el famoso rey Hussein, quien acogió al Papa [Pablo VI en su histórica peregrinación de 1964](http://www.vatican.va/content/paul-vi/es/travels/documents/terrasanta.html). ¡Cuán importante es que los cristianos y los musulmanes convivan pacíficamente respetándose los unos a los otros! Gracias a Dios y al compromiso de los gobernantes, esto sucede en Jordania. Por eso, he rezado para que sea así también en otros lugares, pensando sobre todo en los cristianos que viven una situación difícil en el vecino Irak.
+
+En Jordania vive una importante comunidad cristiana, que ha crecido con los refugiados palestinos e iraquíes. Se trata de una presencia significativa y apreciada en la sociedad, entre otras cosas por sus obras educativas y de asistencia, atentas a la persona independientemente de su pertenencia étnica o religiosa. Un magnífico ejemplo es el [centro de rehabilitación *Regina pacis*](https://www.vatican.va/content/benedict-xvi/es/speeches/2009/may/documents/hf_ben-xvi_spe_20090508_regina-pacis.html) en Ammán, que acoge a numerosas personas discapacitadas. Al visitarlo, llevé una palabra de esperanza, pero también la recibí yo, como testimonio avalado por el sufrimiento y la comunión humana.
+
+Además, como signo del compromiso de la Iglesia en el ámbito de la cultura, [bendije la primera piedra de la Universidad de Madaba](https://www.vatican.va/content/benedict-xvi/es/speeches/2009/may/documents/hf_ben-xvi_spe_20090509_pietra-madaba.html), del Patriarcado latino de Jerusalén. Experimenté una gran alegría al dar inicio a esta nueva institución científica y cultural, porque manifiesta de modo tangible que la Iglesia promueve la búsqueda de la verdad y del bien común, y ofrece un espacio abierto y de calidad a cuantos quieren dedicarse a esa búsqueda, premisa indispensable para un diálogo verdadero y fructuoso entre civilizaciones.
+
+También en Ammán se realizaron dos solemnes celebraciones litúrgicas: las [Vísperas en la catedral greco-melquita de San Jorge](https://www.vatican.va/content/benedict-xvi/es/homilies/2009/documents/hf_ben-xvi_hom_20090509_vespri-amman.html), y la [santa misa en el Estadio internacional,](https://www.vatican.va/content/benedict-xvi/es/homilies/2009/documents/hf_ben-xvi_hom_20090510_intern-stadium.html) que nos permitieron gustar juntos la belleza de encontrarse como pueblo de Dios peregrino, con la riqueza de sus diferentes tradiciones y unido en la única fe.
+
+[Al dejar Jordania](https://www.vatican.va/content/benedict-xvi/es/speeches/2009/may/documents/hf_ben-xvi_spe_20090511_farewell-amman.html), al final de la mañana del lunes 11, me dirigí a Israel donde, desde mi [llegada](https://www.vatican.va/content/benedict-xvi/es/speeches/2009/may/documents/hf_ben-xvi_spe_20090511_welcome-tel-aviv.html), me presenté como peregrino de fe en la Tierra donde Jesús nació, vivió, murió y resucitó, y al mismo tiempo como peregrino de paz para implorar de Dios que, en el lugar donde él quiso hacerse hombre, todos los hombres vivan como hijos suyos, es decir, como hermanos. Naturalmente, este segundo aspecto de mi viaje se puso de relieve en los encuentros con las autoridades civiles: en la visita [al presidente israelí](https://www.vatican.va/content/benedict-xvi/es/speeches/2009/may/documents/hf_ben-xvi_spe_20090511_presidente-israele.html) y al presidente de la Autoridad palestina. En esa Tierra bendecida por Dios a veces parece imposible salir de la espiral de la violencia. Pero nada es imposible para Dios y para cuantos confían en él. Por esto, la fe en el único Dios, justo y misericordioso, que es el recurso más valioso de esos pueblos, debe liberar toda su carga de respeto, de reconciliación y colaboración. Expresé ese auspicio tanto al visitar [al gran muftí](https://www.vatican.va/content/benedict-xvi/es/speeches/2009/may/documents/hf_ben-xvi_spe_20090512_gran-mufti.html) y a los líderes de la comunidad islámica de Jerusalén, como [al Gran Rabinado de Israel](https://www.vatican.va/content/benedict-xvi/es/speeches/2009/may/documents/hf_ben-xvi_spe_20090512_rabbini.html), y también durante el encuentro con las [organizaciones comprometidas en el diálogo interreligioso](https://www.vatican.va/content/benedict-xvi/es/speeches/2009/may/documents/hf_ben-xvi_spe_20090511_dialogo-interreligioso.html), y, luego, en la reunión con los líderes religiosos de Galilea.
+
+Jerusalén es la encrucijada de las tres grandes religiones monoteístas, y su nombre mismo, "ciudad de la paz", expresa el designio de Dios sobre la humanidad: hacer de ella una gran familia. Este designio, anunciado a Abraham, se realizó plenamente en Jesucristo, al que san Pablo llama "nuestra paz", pues con la fuerza de su Sacrificio derribó el muro de la enemistad (cf. *Ef* 2, 14). Por tanto, todos los creyentes deben renunciar a los prejuicios y a la voluntad de dominio, y practicar concordes el mandamiento fundamental: amar a Dios con todo su ser y amar al prójimo como a nosotros mismos.
+
+Esto es lo que los judíos, los cristianos y los musulmanes están llamados a testimoniar, para honrar con los hechos al Dios al que rezan con los labios. Y es exactamente lo que llevaba en el corazón, en oración, al visitar en Jerusalén el Muro occidental, o Muro de las Lamentaciones, y la Cúpula de la Roca, lugares simbólicos respectivamente del judaísmo y del islam. Un momento de intenso recogimiento fue, además, la [visita al Mausoleo de *Yad Vashem*](https://www.vatican.va/content/benedict-xvi/es/speeches/2009/may/documents/hf_ben-xvi_spe_20090511_yad-vashem.html), erigido en Jerusalén en honor de las víctimas del Holocausto. Allí rezamos en silencio y meditamos en el misterio del "nombre": toda persona humana es sagrada, y su nombre está escrito en el corazón del Dios eterno. No se debe olvidar jamás la tremenda tragedia del Holocausto. Al contrario, es necesario que esté siempre en nuestra memoria como advertencia universal al respeto sagrado de la vida humana, que tiene siempre un valor infinito.
+
+Como ya he mencionado, mi viaje tenía como objetivo prioritario la visita a las comunidades católicas de Tierra Santa y eso se realizó en varios momentos también en Jerusalén, en Belén y Nazaret. En el [Cenáculo](https://www.vatican.va/content/benedict-xvi/es/angelus/2009/documents/hf_ben-xvi_reg_20090512_gerusalemme.html), con el pensamiento puesto en Cristo que lava los pies a los Apóstoles e instituye la Eucaristía, así como en el don del Espíritu Santo a la Iglesia el día de Pentecostés, me encontré, entre otros, con el custodio de Tierra Santa y medité sobre nuestra vocación a ser uno, a formar un solo cuerpo y un solo espíritu, a transformar el mundo con el manso poder del amor. Ciertamente, esta llamada experimenta en Tierra Santa dificultades particulares, por ello, con el corazón de Cristo, repetí a mis hermanos obispos sus mismas palabras: "No temas, pequeño rebaño, porque a vuestro Padre le ha parecido bien daros a vosotros el Reino" (*Lc* 12, 32). Luego saludé brevemente a las religiosas y los religiosos de vida contemplativa, dándoles las gracias por el servicio que prestan, con su oración, a la Iglesia y a la causa de la paz.
+
+Momentos culminantes de comunión con los fieles católicos fueron sobre todo las celebraciones eucarísticas. En el [Valle de Josafat](https://www.vatican.va/content/benedict-xvi/es/homilies/2009/documents/hf_ben-xvi_hom_20090512_josafat-valley.html), en Jerusalén, meditamos en la resurrección de Cristo como fuerza de esperanza y de paz para esa ciudad y para el mundo entero. En Belén, en los Territorios palestinos, celebramos la misa ante la basílica de la Natividad con la participación de fieles procedentes de Gaza, a los que tuve la alegría de consolar personalmente, asegurándoles mi cercanía particular.
+
+Belén, el lugar donde resonó el canto celestial de paz para todos los hombres, es símbolo de la distancia que nos sigue separando del cumplimento de aquel anuncio: precariedad, aislamiento, incertidumbre, pobreza. Todo ello ha impulsado a numerosos cristianos a marcharse lejos. Pero la Iglesia sigue su camino, sostenida por la fuerza de la fe y atestiguando su amor con obras concretas de servicio a los hermanos, como el Hospital infantil de Cáritas de Belén, apoyado por las diócesis de Alemania y Suiza, y la acción humanitaria en los campos de refugiados. En el que visité, aseguré a las familias recogidas allí la cercanía y el aliento de la Iglesia universal, invitando a todos a buscar la paz con métodos no violentos, siguiendo el ejemplo de san Francisco de Asís.
+
+La tercera y última misa con el pueblo la celebré el jueves pasado en Nazaret, ciudad de la Sagrada Familia. Rezamos por todas las familias, para que se redescubran la belleza del matrimonio y de la vida familiar, el valor de la espiritualidad doméstica y de la educación, la atención a los niños, que tienen derecho a crecer en paz y serenidad. Además, en la basílica de la Anunciación, juntamente con todos los pastores, las personas consagradas, los movimientos eclesiales y los laicos comprometidos de Galilea, cantamos nuestra fe en el poder creador y transformador de Dios. Donde el Verbo se encarnó en el seno de la Virgen María brota un manantial inagotable de esperanza y de alegría, que no deja de animar el corazón de la Iglesia, peregrina en la historia.
+
+Mi peregrinación concluyó el viernes pasado con la visita al Santo Sepulcro y con dos importantes encuentros ecuménicos en Jerusalén: en el Patriarcado greco-ortodoxo, donde se hallaban reunidas todas las representaciones eclesiales de Tierra Santa y, por último, en la Iglesia patriarcal armenia apostólica.
+
+Me complace recapitular todo el itinerario que pude realizar precisamente con el signo de la resurrección de Cristo: a pesar de las vicisitudes que a lo largo de los siglos han marcado los santos lugares, y a pesar de las guerras, las destrucciones y desgraciadamente también los conflictos entre los cristianos, la Iglesia ha proseguido su misión, impulsada por el Espíritu del Señor resucitado. Está en camino hacia la unidad plena para que el mundo crea en el amor de Dios y experimente la alegría de su paz. De rodillas en el Calvario y en el Sepulcro de Jesús invoqué la fuerza del amor que brota del misterio pascual, la única fuerza capaz de renovar a los hombres y de orientar hacia su fin la historia y el cosmos. Os pido también a vosotros que recéis por este objetivo, mientras nos preparamos para la fiesta de la Ascensión, que en el Vaticano celebraremos mañana. Gracias por vuestra atención.
+
+## Saludos
+
+Saludo a los fieles de lengua española, en particular, a los provenientes de Madrid, Barcelona y Valencia; al "Movimiento de vida ascendente" de la diócesis de Cartagena-Murcia; al grupo de discapacitados físicos y psíquicos de la asociación "Mensajeros de la paz" de Extremadura, así como a los demás peregrinos de España y otros países latinoamericanos. Os invito, ante la próxima solemnidad de la Ascensión del Señor, a exultar de gozo por la victoria de Cristo sobre la muerte, que anticipa y es ya nuestra victoria definitiva. Muchas gracias.
+
+*(En húngaro)*
+
+Queridos hermanos y hermanas, en la víspera de la solemnidad de la Ascensión recordemos que todos somos peregrinos de camino hacia la patria celestial, donde el Señor ha ido a prepararnos una morada.
+
+*(En lengua croata)*
+
+El Señor resucitado prometió que permanecería con nosotros hasta el fin del mundo. Dadle gracias amándoos unos a otros.
+
+## Llamamiento del Papa a los comunicadores
+
+El domingo próximo, la Iglesia celebrará la Jornada mundial de las comunicaciones sociales. En [mi mensaje de este año](https://www.vatican.va/content/benedict-xvi/es/messages/communications/documents/hf_ben-xvi_mes_20090124_43rd-world-communications-day.html) invito a todos los que usan las nuevas tecnologías de comunicación, y de modo especial a los jóvenes, a utilizarlas de modo positivo y a valorar las grandes potencialidades de estos medios para crear vínculos de amistad y solidaridad que puedan contribuir a un mundo mejor.
+
+Las nuevas tecnologías han modificado radicalmente las maneras de difundir noticias e informaciones, así como el modo de comunicarse y relacionarse de las personas entre sí. Deseo animar a los que acceden al ciberespacio a estar atentos a mantener y promover una cultura de respeto, diálogo y auténtica amistad, en la que puedan florecer los valores de la verdad, la armonía y la comprensión.
+
+Jóvenes, os hago un llamamiento en particular a vosotros: sed testigos de vuestra fe en el mundo digital. Emplead estas nuevas tecnologías para dar a conocer el Evangelio, de forma que la buena noticia del amor infinito de Dios por todos resuene de nuevos modos en nuestro mundo cada vez más tecnológico.
+
+*(En italiano)*
+
+Dirijo mi saludo, por último, a los *jóvenes,* a los *enfermos* y a los *recién casados.* La solemnidad de la Ascensión, que celebraremos mañana en el Vaticano, como en otros países, mientras que en Italia se celebra el domingo próximo, nos invita a mirar a Jesús, el cual, antes de subir al cielo, dio a los Apóstoles el mandato de llevar su mensaje de salvación hasta los confines de la tierra. Queridos *jóvenes,* esforzaos por poner vuestras energías al servicio del Evangelio. Vosotros, queridos *enfermos*, vivid vuestros sufrimientos unidos al Señor, con la certeza de dar así una valiosa contribución al crecimiento de su reino en el mundo. Y vosotros queridos *recién casados,* haced que vuestras familias sean lugares en los que se aprenda a ser testigos gozosos del Evangelio de la esperanza.

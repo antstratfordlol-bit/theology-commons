@@ -1,0 +1,54 @@
+---
+id: francis-hom-20240125-vespri-unita-cristiani.es
+work: francis-hom-20240125-vespri-unita-cristiani
+title: "Solemnidad de la Conversión de San Pablo Apóstol - Celebración de las segundas vísperas (25 de enero de 2024)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2024-01-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/homilies/2024/documents/20240125-vespri-unita-cristiani.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#francis-hom-20240125-vespri-unita-cristiani} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Solemnidad de la Conversión de San Pablo Apóstol - Celebración de las segundas vísperas (25 de enero de 2024) {#francis-hom-20240125-vespri-unita-cristiani}
+[SOLEMNIDAD DE LA CONVERSIÓN DE SAN PABLO APÓSTOL](https://www.vatican.va/news_services/liturgy/libretti/2024/20240125-libretto-conversione-san-paolo.pdf)
+
+## CELEBRACIÓN DE LAS SEGUNDAS VÍSPERAS LVII SEMANA DE ORACIÓN POR LA UNIDAD DE LOS CRISTIANOS
+
+## HOMILÍA DEL SANTO PADRE FRANCISCO
+
+*Basílica de San Pablo extramuros\
+Jueves, 25 de enero de 2024*
+
+\[**[Multimedia](https://www.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2024/1/25/vespri-unita-cristiani.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+En el Evangelio que hemos escuchado, el doctor de la Ley, aunque se dirige a Jesús llamándolo «Maestro», no quiere dejarse instruir por él, sino «ponerlo a prueba». Pero una falsedad aún mayor emerge de su pregunta: «¿qué tengo que hacer para heredar la Vida eterna?» (*Lc* 10,25). Hacer para heredar, hacer para tener: he aquí una religiosidad distorsionada, basada en la posesión más que en el don, donde Dios es el medio para obtener lo que quiero, no el fin a amar con todo el corazón. Pero Jesús es paciente e invita a ese doctor a encontrar la respuesta en la Ley de la que era experto, que prescribe: «Amarás al Señor, tu Dios, con todo tu corazón, con toda tu alma, con todas tus fuerzas y con todo tu espíritu, y a tu prójimo como a ti mismo» (*Lc* 10,27).
+
+Entonces aquel hombre, «queriendo justificarse», plantea una segunda pregunta: «¿Y quién es mi prójimo?» (*Lc* 10,29). Si la primera pregunta corría el riesgo de reducir a Dios al propio “yo”, esta trata de dividir: dividir a las personas entre las que se deben amar y las que se pueden ignorar. Y dividir nunca es de Dios, es del diablo, que es *divisor*. Jesús, sin embargo, no responde teorizando, sino con la parábola del buen samaritano, con una historia concreta, que nos involucra también a nosotros. Porque, queridos hermanos y hermanas, quienes se comportan mal y con indiferencia, son el sacerdote y el levita, que anteponen a las necesidades del que sufre la tutela de sus tradiciones religiosas. El que da sentido a la palabra “prójimo” es, en cambio, un hereje, un samaritano, porque se hace prójimo: siente compasión, se acerca y se inclina tiernamente sobre las heridas de ese hermano; se ocupa de él, independientemente de su pasado y de sus culpas, y lo sirve con todo su ser (cf. *Lc* 10,33-35). Esto permite a Jesús concluir que la pregunta correcta no es “¿*quién es mi prójimo*?” sino: “¿*me hago yo prójimo*?” Sólo este amor que se convierte en servicio gratuito, sólo este amor que Jesús proclamó y vivió, acercará a los cristianos separados los unos a los otros. Sí, sólo este amor, que no vuelve al pasado para poner distancia o señalar con el dedo; sólo este amor, que en nombre de Dios antepone el hermano a la férrea defensa del propio sistema religioso, sólo este amor nos unirá. Primero el hermano, luego el sistema.
+
+Hermanos y hermanas, entre nosotros nunca deberíamos preguntarnos “¿*quién es mi prójimo*?”. Porque todo bautizado pertenece al mismo Cuerpo de Cristo; y más aún, porque toda persona en el mundo es mi hermano o mi hermana, y todos componemos la “sinfonía de la humanidad”, de la que Cristo es primogénito y redentor. Como recuerda san Ireneo, que tuve la alegría de proclamar “Doctor de la unidad”: «el amante de la verdad no debe dejarse engañar por el intervalo particular de cada tono, ni suponer un creador para uno y otro para otro \[…\], sino uno sólo» (*Adv. Haer*. II, 25, 2). Entonces, no digamos “¿*quién es mi prójimo*?” sino “¿*me hagoyo prójimo*?” Yo y también mi comunidad, mi Iglesia, mi espiritualidad, ¿se hacen prójimos? ¿O permanecen atrincheradas en defensa de sus propios intereses, celosas de su autonomía, encerradas en el cálculo de sus propias ventajas, entablando relaciones con los demás sólo para obtener algo de ellas? Si así fuera, no se trataría sólo de errores estratégicos, sino de infidelidad al Evangelio.
+
+“¿*Qué debo hacer para heredar la vida eterna*?” Así comenzó el diálogo entre el doctor de la Ley y Jesús. Pero hoy esta primera pregunta también da un vuelco gracias al Apóstol san Pablo, cuya conversión celebramos en esta Basílica a él dedicada. Pues bien, precisamente cuando Saulo de Tarso, perseguidor de los cristianos, encuentra a Jesús en la visión de luz que lo envuelve y le cambia la vida, le pregunta: «¿Qué debo hacer, Señor?» (*Hch* 22,10). No “¿*qué debo hacer para heredar*?” sino “¿*qué debo hacer, Señor*?” El Señor es el objetivo de la petición, la verdadera herencia, el sumo bien. Pablo no cambia de vida según sus propósitos, no se vuelve mejor por realizar sus proyectos. Su conversión nace de un cambio existencial, donde el primado ya no le pertenece a su perfección frente a la Ley, sino a la docilidad para con Dios, en una apertura total a lo que Él quiere. No a su perfección sino a su docilidad, de la perfección a la docilidad. Si Él es el tesoro, nuestro programa eclesial no puede sino consistir en hacer su voluntad, en conformarse a sus deseos. Y Él, la noche antes de dar la vida por nosotros, oró ardientemente al Padre por todos nosotros, «que todos sean uno» (*Jn* 17,21). Esa es su voluntad.
+
+Todos los esfuerzos hacia la unidad plena están llamados a seguir el mismo itinerario de san Pablo, a dejar de lado la centralidad de nuestras ideas para buscar la voz del Señor y dejarle iniciativa y espacio a Él. Lo había comprendido bien otro Pablo, gran pionero del movimiento ecuménico, el sacerdote Paul Couturier, quien rezando solía implorar la unidad de los creyentes “como Cristo la quiere”, “con los medios que Él quiere”. Necesitamos esta conversión de perspectiva y ante todo de corazón, porque, como afirmó hace sesenta años el Concilio Vaticano II: «El verdadero ecumenismo no puede darse sin la conversión interior» (*[Unitatis redintegratio](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html)*, 7). Mientras oramos juntos reconozcamos, cada uno, que necesitamos convertirnos, dejar que el Señor nos cambie el corazón. Esta es la vía: caminar juntos y servir juntos, poniendo la oración como prioridad. En efecto, cuando los cristianos maduran en el servicio a Dios y al prójimo, crecen también en la comprensión recíproca, como declara asimismo el Concilio: «Porque cuanto más se unan en estrecha comunión con el Padre, con el Verbo y con el Espíritu, tanto más íntima y fácilmente podrán acrecentar la mutua hermandad» (*[Ibíd](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html)*.).
+
+Por eso estamos aquí esta noche provenientes de distintos países y de diferentes culturas y tradiciones. Me siento agradecido con Su Gracia Justin Welby, Arzobispo de Canterbury, con el Metropolita Policarpo, en representación del Patriarcado Ecuménico, y con todos ustedes, que hacen presentes a muchas comunidades cristianas. Dirijo un saludo especial a los miembros de la Comisión mixta internacional para el diálogo teológico entre la Iglesia católica y las Iglesias ortodoxas orientales, que celebran el XX aniversario de su camino, y a los Obispos católicos y anglicanos que participan en el encuentro de la Comisión internacional para la Unidad y la Misión. Es hermoso que hoy con mi hermano, el Arzobispo Justin, podamos conferir a este grupo de Obispos el mandato de seguir testimoniando la unidad querida por Dios para su Iglesia en sus respectivas regiones, caminando juntos «para difundir la misericordia y la paz de Dios en un mundo necesitado» (Obispos IARCCUM, *Walking Together,* Roma, 7 de octubre de 2016). Saludo también a los estudiantes becarios del Comité para la Colaboración Cultural con las Iglesias ortodoxas del Dicasterio para la Promoción de la Unidad de los Cristianos y a los participantes en las visitas de estudio organizadas para jóvenes sacerdotes y monjes de las Iglesias ortodoxas orientales, y para los estudiantes del Instituto Ecuménico de Bossey del Consejo Ecuménico de las Iglesias.
+
+Juntos, como hermanos y hermanas en Cristo, imploremos con Pablo diciendo: “¿*Qué debemos hacer, Señor*?”. Y al hacer esta súplica ya tenemos una respuesta, porque la primera respuesta es la oración. Rezar por la unidad es la primera tarea de nuestro camino. Y es una tarea santa, porque es estar en comunión con el Señor, que rogó al Padre ante todo por la unidad. Y sigamos rezando también por el fin de las guerras, especialmente en Ucrania y en Tierra Santa. Saludo asimismo al amado pueblo de Burkina Faso, en particular a las comunidades que allí prepararon el material para la Semana de Oración por la Unidad. Que el amor al prójimo sustituya la violencia que aflige a ese país.
+
+«“¿Qué debo hacer, Señor?”. Y el Señor —narra Pablo— me dijo: “Levántate y ve a Damasco”» (*Hch* 22, 10). *Levántate*, nos dice Jesús a cada uno de nosotros y a nuestra búsqueda de unidad. Levantémonos entonces, en nombre de Cristo, de nuestros cansancios y de nuestras costumbres, y continuemos, vayamos adelante, porque Él lo quiere, y lo quiere «para que el mundo crea» (*Jn* 17,21). Oremos, pues, y sigamos adelante, porque esto es lo que Dios desea de nosotros. Es esto lo que desea de nosotros.

@@ -1,0 +1,56 @@
+---
+id: francis-spe-20180924-visitasangiacomo-riga-lettonia.en
+work: francis-spe-20180924-visitasangiacomo-riga-lettonia
+title: "Apostolic Journey to Latvia: Visit to the catholic Saint James’ Cathedral (Riga, 24 September 2018)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2018-09-24
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2018/september/documents/papa-francesco_20180924_visitasangiacomo-riga-lettonia.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, lv, pl, pt"
+anchors: "{#francis-spe-20180924-visitasangiacomo-riga-lettonia} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Apostolic Journey to Latvia: Visit to the catholic Saint James’ Cathedral (Riga, 24 September 2018) {#francis-spe-20180924-visitasangiacomo-riga-lettonia}
+[APOSTOLIC JOURNEY OF HIS HOLINESS POPE FRANCIS\
+TO LITHUANIA, LATVIA AND ESTONIA](http://w2.vatican.va/content/francesco/en/travels/2018/outside/documents/papa-francesco-paesi-baltici_2018.html)\
+\[22-25 SEPTEMBER 2018\]
+
+## VISIT TO THE CATHOLIC SAINT JAMES’ CATHEDRAL
+
+## GREETING OF THE HOLY FATHER
+
+*Saint James’ Cathedral (Riga, Latvia)\
+Monday, 24 September 2018*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2018/9/24/cattedralesangiacomo-lettonia.html)**\]
+
+*Dear Brothers and Sisters,*
+
+I thank the Archbishop for his kind words and his clear analysis of how things stand. Being in your presence, dear elderly brothers and sisters, reminds me of two phrases in the Letter of the Apostle Saint James, to whom this Cathedral is dedicated. At the beginning and at the end of his Letter, albeit using two different words, he encourages us to remain steadfast. I am certain that we can appreciate the message that James, the brother of the Lord, wants us to hear.
+
+Those of you who are present were subjected to any number of trials: the horror of war, then political repression, persecution and exile, as your Archbishop has described. Yet you remained steadfast; you persevered in faith. Neither the Nazi regime, nor the Soviet regime could extinguish the faith in your hearts. Neither could they stop some of you from becoming priests, religious sisters, catechists, or from serving the Church in other ways that put your lives at risk. You fought the good fight; you ran the race, you kept the faith (cf. *2 Tm* 4:7).
+
+Saint James stresses that this constancy in faith overcomes trials and produces perfect works (cf. 1:2-4). Your work, however perfect in those days, must also tend to perfection in today’s new situations. You, who devoted body and soul, who have given your life to winning freedom for your native land, now often find yourselves cast aside. Paradoxical as it may seem, nowadays, in the name of freedom, free men and women subject the elderly to solitude, abandonment, lack of assistance, social exclusion and even poverty. If that is the case, then the so-called train of freedom and progress has ended up with the very people who fought to gain those rights as its last car, onlookers at other people’s party, honoured in words but forgotten in daily life (cf. [*Evangelii Gaudium*, 234](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#The_whole_is_greater_than_the_part)).
+
+Saint James tells you nonetheless to persevere, not to give up. “Along this journey, the cultivation of all that is good, progress in the spiritual life and growth in love are the best counterbalance to evil” ([*Gaudete et Exsultate*, 163](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html#Alert_and_trustful)). Do not yield to disappointment or grief. Do not lose your gentleness, much less your hope.
+
+At the end of his Letter, Saint James once more exhorts us to be patient (5:7). There, he uses a word that implies both patient endurance and patient expectation. In your families and your homeland, I encourage you to be also an example of both these attitudes: patient endurance and patient expectation, both marked by patience. In this way you will continue to build your people.
+
+Because of your length of years, you are living witnesses of perseverance in the face of adversity, but also a prophetic gift to remind younger generations that the care and protection of those who have gone before us is loved and valued by God, and cries out to God when it is disregarded.
+
+Because of your length of years, do not forget that you are the roots of a people, the roots of young shoots that need to flourish and bear fruit. Protect those roots; keep them alive, so that children and young people can be grafted onto them and come to understand that “all the blossoms on the tree draw life from lies buried beneath”(F. L. BERNÁRDEZ, Sonnet *Si para recobrar lo recobrado*).
+
+The words inscribed on the pulpit of this Cathedral say: “O that today you might hear his voice! Harden not your hearts” (cf. *Ps* 95:7-8). A hardened heart is one that has become sclerotic and lost the joy of God’s constant newness. May we never cease to be young of heart, to taste and see the goodness of the Lord, always, to the very end of our days (cf. *Ps* 34:9).

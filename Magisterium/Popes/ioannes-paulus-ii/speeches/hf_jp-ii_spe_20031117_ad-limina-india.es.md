@@ -1,0 +1,66 @@
+---
+id: jp2-spe-20031117-ad-limina-india.es
+work: jp2-spe-20031117-ad-limina-india
+title: "Al sexto grupo de obispos de la India en visita 'ad limina Apostolorum' (17 de noviembre de 2003)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2003-11-17
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/2003/november/documents/hf_jp-ii_spe_20031117_ad-limina-india.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-spe-20031117-ad-limina-india.N} — numbered paragraphs 1..6 (6 anchors), shared with jp2-spe-20031117-ad-limina-india.en"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Al sexto grupo de obispos de la India en visita "ad limina Apostolorum" (17 de noviembre de 2003)
+***DISCURSO DEL SANTO PADRE JUAN PABLO II\
+AL SEXTO GRUPO DE OBISPOS DE LA INDIA EN*** ***VISITA "AD LIMINA"**
+
+Lunes 17 de noviembre de 2003*
+
+*Queridos hermanos en el episcopado:*
+
+### 1 {#jp2-spe-20031117-ad-limina-india.1}
+
+"Dad gracias al Señor porque es bueno, porque es eterna su misericordia" (*Sal* 118, 1). Estas palabras de los salmos son muy adecuadas para daros la bienvenida a vosotros, pastores de las provincias eclesiásticas de Madrás y Manipur, Madurai y Pondicherry y Cuddalore, al final de esta serie de visitas *ad limina* de los obispos de la India. En particular, deseo saludar al arzobispo Arul Das y agradecerle los sentimientos que me ha transmitido de parte de todos vosotros.
+
+Los discursos que dirigí anteriormente a vuestros hermanos en el episcopado han ponderado frecuentemente la importancia de promover un *auténtico espíritu de solidaridad en la Iglesia y en la sociedad*. No basta que la comunidad cristiana mantenga el principio de solidaridad como un ideal noble; más bien, ha de considerarse como la norma para las relaciones entre las personas que, en palabras de mi venerado predecesor el Papa Pío XII, fue "sellada por el sacrificio de redención ofrecido por Jesucristo en el altar de la cruz a su Padre celestial en nombre de la humanidad pecadora" (*[Summi pontificatus](http://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html)*). Al ser sucesores de los Apóstoles de Cristo, tenemos el deber fundamental de animar a todos los hombres y mujeres a *transformar esta solidaridad en una "espiritualidad de comunión"* para el bien de la Iglesia y de la humanidad (cf. *[Pastores gregis](http://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 22). Al compartir estos pensamientos con vosotros hoy, deseo situar mis reflexiones en el contexto de este principio fundamental de las relaciones humanas y cristianas.
+
+### 2 {#jp2-spe-20031117-ad-limina-india.2}
+
+No podemos esperar difundir este espíritu de unidad entre nuestros hermanos y hermanas sin una auténtica solidaridad entre los pueblos. Como muchos otros lugares en el mundo, también la India está afligida por numerosos problemas sociales. En algunos casos, esos desafíos se agravan a causa del injusto sistema de división de castas, que niega la dignidad humana de enteros grupos de personas. A este respecto, repito lo que dije durante [mi primera visita pastoral a vuestro país](http://www.vatican.va/content/john-paul-ii/es/travels/1986/travels/documents/trav_india.html):  "*La ignorancia y los prejuicios deben ser reemplazados por la tolerancia y el entendimiento.* La indiferencia y la lucha de clases deben transformarse en fraternidad y servicio entregado. La discriminación fundada en la raza, el color, el credo, el sexo o el origen étnico debe rechazarse como totalmente incompatible con la dignidad humana" (*Homilía durante la misa en el estadio Indira Gandhi*, Nueva Delhi, 2 de febrero de 1986, n. 8:  *L'Osservatore Romano*, edición en lengua española, 9 de febrero de 1986, p. 7).
+
+Alabo las numerosas iniciativas que han puesto en marcha la Conferencia episcopal y las Iglesias particulares para combatir esa injusticia. Los valientes pasos que habéis dado para solucionar ese problema, como los del Consejo de obispos Tamil Nadu en 1992, son ejemplos que pueden seguir otros. En todo momento debéis procurar que se preste especial atención a los que pertenecen a las castas más bajas, especialmente a los dalits. No deben ser segregados nunca de los demás miembros de la sociedad. Cualquier apariencia de prejuicio basado en la casta en las relaciones entre cristianos es un antitestimonio de la auténtica solidaridad humana, una amenaza contra la genuina espiritualidad y un serio obstáculo a la misión evangelizadora de la Iglesia. Por tanto, habría que reformar notablemente las costumbres o tradiciones que perpetúan o refuerzan la división de castas, para que puedan llegar a ser una expresión de la solidaridad de toda la comunidad cristiana. Como nos enseña el apóstol san Pablo, "si un miembro sufre, todos los demás sufren con él" (*1 Co* 12, 26). *La Iglesia tiene el deber de trabajar sin cesar para cambiar los corazones,* ayudando a las personas a considerar a todo ser humano como hijo de Dios, hermano o hermana de Cristo y, por consiguiente, miembro de nuestra misma familia.
+
+### 3 {#jp2-spe-20031117-ad-limina-india.3}
+
+La auténtica comunión con Dios y con los demás lleva a todos los cristianos a anunciar la buena nueva a aquellos que no han visto ni oído (cf. *1 Jn* 1, 1). La Iglesia ha recibido la misión única de servir "al Reino difundiendo en el mundo los "valores evangélicos", que son expresión de ese Reino y ayudan a los hombres a acoger el designio de Dios" (*[Redemptoris missio](http://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html)*, 20). En efecto, es este espíritu evangélico el que anima incluso a las personas de diferentes tradiciones a trabajar juntas con el objetivo común de anunciar el Evangelio (cf. *[Discurso a los obispos de rito siro-malabar de la India](https://www.vatican.va/content/john-paul-ii/es/speeches/2003/may/documents/hf_jp-ii_spe_20030513_syro-malabar-church.html)*, 13 de mayo de 2003).
+
+Muchos de vosotros habéis expresado la esperanza de que la Iglesia en la India continúe sus esfuerzos por permanecer activamente comprometida en la "nueva evangelización". Esto es de especial importancia en las sociedades modernas, en las que amplios sectores de la población se encuentran en situaciones desesperadas, que a menudo los llevan a buscar soluciones rápidas y fáciles para problemas complicados. Este sentido de desesperación puede explicar, en parte, por qué tantas personas -jóvenes y ancianos- se sienten atraídas por las sectas fundamentalistas, que ofrecen emociones efímeras y una garantía de riqueza y ventajas terrenas. Nuestra respuesta a esto debe ser una "nueva evangelización", y su éxito depende de nuestra habilidad para mostrar a las personas la vaciedad de esas promesas, convenciéndolas de que Cristo y su Cuerpo comparten sus sufrimientos, y recordándoles que "busquen primero el reino de Dios y su justicia" (*Mt* 6, 33).
+
+### 4 {#jp2-spe-20031117-ad-limina-india.4}
+
+En mi reciente exhortación apostólica postsinodal, *[Pastores gregis](http://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, destaqué que el obispo es el "administrador de la gracia del sumo sacerdocio", ejerciendo su ministerio mediante la predicación, la guía espiritual y la celebración de los sacramentos (cf. n. 32). Como pastores de la grey del Señor, sois muy conscientes de que no podéis cumplir eficazmente vuestras obligaciones sin colaboradores comprometidos que os asistan en vuestro ministerio. Por esta razón, *es esencial que sigáis promoviendo la solidaridad entre el clero y una mayor unidad entre los obispos y sus presbíteros.* Confío en que los sacerdotes en vuestro país "vivan y actúen con espíritu de comunión y colaboración con los obispos y con todos los miembros de la Iglesia, dando testimonio del amor que Jesús definió como auténtico distintivo de sus discípulos" (*[Ecclesia in Asia](http://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_06111999_ecclesia-in-asia.html)*, 43).
+
+Por desgracia, incluso quienes han sido ordenados para el ministerio, a veces pueden ser víctimas de tendencias culturales o sociales dañosas, que socavan su credibilidad y obstaculizan seriamente su misión. Como hombres de fe, los sacerdotes no deben dejar que la tentación del poder o de ganancias materiales los alejen de su vocación, ni pueden permitir que las diferencias étnicas o de castas los aparten de su misión fundamental de anunciar el Evangelio. Los obispos, como padres y hermanos, han de amar y respetar a sus sacerdotes. Del mismo modo, los sacerdotes deben amar y honrar a sus obispos. Vosotros y vuestros sacerdotes sois heraldos del Evangelio y constructores de la unidad en la India. Las diferencias personales o la casualidad del nacimiento no deben minar nunca este papel esencial (cf. *Discurso a los sacerdotes de la India*, Goa, 6 de febrero de 1986).
+
+### 5 {#jp2-spe-20031117-ad-limina-india.5}
+
+Un firme compromiso de mutuo apoyo asegura nuestra unidad en la misión, que se funda en Cristo mismo, y nos permite acercarnos "a todas las culturas, a todas las concepciones ideológicas, a todos los hombres de buena voluntad" (*[Redemptor hominis](http://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html)*, 12). Debemos recordar siempre las palabras de san Pablo cuando enseñaba que "ninguno de nosotros vive para sí mismo; como tampoco muere nadie para sí mismo" (*Rm* 14, 7). La Iglesia, además, exhorta a los fieles a entablar, con prudencia y caridad, el diálogo y la colaboración con los miembros de otras religiones. Una vez que hayamos comprometido a estos hermanos y hermanas nuestros, seremos capaces de concentrar nuestros esfuerzos en una solidaridad duradera entre las religiones. *Juntos nos esforzaremos por reconocer nuestro deber de fomentar la unidad y la caridad entre las personas, reflexionando sobre lo que tenemos en común y sobre lo que puede promover ulteriormente la fraternidad entre nosotros* (cf. *[Nostra aetate](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_sp.html)*, 1 y 2).
+
+Alentar la verdad requiere un profundo respeto por todo lo que ha realizado en el hombre el Espíritu, que "sopla donde quiere" (*Jn* 3, 8). La verdad que nos ha sido revelada nos obliga a ser sus guardianes y sus maestros. Al transmitir la verdad de Dios, debemos conservar siempre "una profunda estima por el hombre, por su entendimiento, su voluntad, su conciencia y su libertad. De este modo, la misma dignidad de la persona humana se hace contenido de aquel anuncio, incluso sin palabras, a través del comportamiento respecto de ella" (*[Redemptor hominis](http://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html)*, 12). La Iglesia católica en la India ha promovido constantemente la dignidad de toda persona y ha defendido el correspondiente derecho de todos a la libertad religiosa. Su estímulo a la tolerancia y al respeto de las otras religiones se demuestra con los numerosos programas de intercambio interreligioso que habéis desarrollado tanto a nivel nacional como local. Os animo a continuar esos diálogos cordiales y útiles con los fieles de las otras religiones. Esos diálogos ayudarán a cultivar la búsqueda mutua de la verdad, la armonía y la paz.
+
+### 6 {#jp2-spe-20031117-ad-limina-india.6}
+
+Queridos hermanos, pastores del pueblo de Dios, al comienzo del tercer milenio, volvamos a dedicarnos a la tarea de reunir a los hombres y mujeres en una unidad de propósitos y entendimiento. Pido a Dios que vuestra peregrinación a las tumbas de los apóstoles san Pedro y san Pablo haya renovado la fuerza que necesitáis para desarrollar una auténtica espiritualidad de comunión, que enseñe a todas las personas a "dar espacio" a sus hermanos y hermanas, "llevando los unos la carga de los otros" (cf. *[Novo millennio ineunte](http://www.vatican.va/content/john-paul-ii/es/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html)*, 43). Os encomiendo a vosotros, a vuestros sacerdotes, a los religiosos y a los fieles laicos, a la intercesión de la beata Teresa de Calcuta y a la protección de María, Madre de la Iglesia. Como prenda de paz y alegría en Cristo, nuestro Señor, os imparto cordialmente mi bendición apostólica.

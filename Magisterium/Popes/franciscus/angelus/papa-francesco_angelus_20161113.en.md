@@ -1,0 +1,54 @@
+---
+id: francis-ang-20161113.en
+work: francis-ang-20161113
+title: "Angelus, 13 November 2016"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Angelus / Regina Caeli
+url_date: 2016-11-13
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/angelus/2016/documents/papa-francesco_angelus_20161113.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pt"
+anchors: "{#francis-ang-20161113} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 13 November 2016 {#francis-ang-20161113}
+POPE FRANCIS
+
+## ANGELUS
+
+*Saint Peter's Square\
+Sunday, 13 November 2016*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2016/11/13/angelus.html)**\]
+
+*Dear Brothers and Sisters, Good morning!*
+
+Today’s Gospel passage contains the first part of Jesus’ discourse on the end times, \[according to\] the writing of Saint Luke (21:5-19). Jesus made this proclamation while standing before the Temple of Jerusalem, and was prompted by the peoples’ words of admiration for the beauty of the sanctuary and its decorations (cf. v. 5). Then Jesus said: “the days will come when there shall not be left here one stone upon another that will not be thrown down” (v. 6). We can imagine the effect these words had on Jesus’ disciples. However, he did not want to insult the temple, but rather make it understood — to them as well as to us today — that human structures, even the most sacred, are fleeting, and we should not place our security in them. How many supposedly definitive certainties have we had in our lives, which later were revealed to be ephemeral! On the other hand, how many problems have appeared to be a dead end, and then were overcome!
+
+Jesus knows that there are always those who speculate about the human need for safety. For this reason, he says: “Take heed that you are not led astray” (v. 8), and guard against the many false Messiahs who will appear (v. 9). Even today there are these! And, he adds, do not be frightened and bewildered by wars, revolutions, and disasters, since even these are part of the world’s reality (cf. vv. 10-11). The history of the Church is rich with examples of people who withstood tribulations and terrible suffering with serenity, because they were aware that they were firmly in God’s hands. He is a faithful Father, an attentive Father, who does not abandon his children. God never abandons us! We must have this certainty in our heart: God never abandons us!
+
+Remaining firm in the Lord, in this certainty that he does not abandon us, walking in hope, working to build a better world, despite the difficulties and sad circumstances which mark our personal and collective existence, is what really counts; it is how the Christian community is called to encounter the “day of the Lord”. It is precisely within this context that we want to place the undertaking that we have lived with faith during these months of the Extraordinary Jubilee of Mercy, which concludes today in the Dioceses of the world with the closing of the Holy Doors in the cathedral Churches. The Holy Year impelled us, on the one hand, to fix our gaze toward the fulfillment of the Kingdom of God and, on the other, to build a future on this earth, working to evangelize the present, so we can make it a time of salvation for everyone.
+
+In the Gospel Jesus encourages us to keep firmly in mind and in heart the certainty that God guides our history, and that he knows the final end of things and events. Under the the Lord’s merciful gaze, history unravels in flowing uncertainty, and weaves between good and evil. However, all that happens is contained within him. Let us pray to the Virgin Mary that she may help us, through the happy and sad events of this world, to firmly maintain hope in eternity and in the Kingdom of God. Let us pray to the Virgin Mary, that she may help us deeply understand this truth: that God never abandons his children!
+
+## After the Angelus:
+
+Dear brothers and sisters, during this week, the oldest wooden Crucifix of Saint Peter’s Basilica, dating back to the 14th century, was restored for the devotion of the faithful. After arduous restorations, it was brought back to its ancient splendour, and will be placed in the Chapel of the Blessed Sacrament as a reminder of the Jubilee of Mercy.
+
+Today, Italy celebrates the traditional *Day of Thanksgiving* for the fruits of the earth and the work of human hands. I join the bishops in hoping that mother earth may always be cultivated in a sustainable way. The Church, with congeniality and gratitude, stands alongside the agricultural world, and encourages us not to forget how many are deprived of basic goods, like food and water, in various parts of the world.
+
+I extend my greeting to you, families, parishes, associations and individual faithful, who have come from Italy and from many parts of the world. I especially greet and thank the associations which, in these days, have enlivened the Jubilee for marginalized persons. Many thanks for your work and your help! I greet the pilgrims from Rio de Janeiro, Salerno, Piacenza, Veroli and Acri, as well as consultors of “The Family” of Milan, and the Italian Societies of the secular Order of the Trinity.
+
+Wishing all of you happy Sunday. Please, do not forget to pray for me. Have a good lunch. *Arrivederci*!

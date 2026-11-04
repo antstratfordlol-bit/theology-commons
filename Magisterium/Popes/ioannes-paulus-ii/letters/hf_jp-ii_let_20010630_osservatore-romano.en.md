@@ -1,0 +1,54 @@
+---
+id: jp2-let-20010630-osservatore-romano.en
+work: jp2-let-20010630-osservatore-romano
+title: "Letter to Prof. Mario Agnes on the 140th Anniversary of L’Osservatore Romano (June 30, 2001)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Letter
+url_date: 2001-06-30
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/letters/2001/documents/hf_jp-ii_let_20010630_osservatore-romano.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-let-20010630-osservatore-romano} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Letter to Prof. Mario Agnes on the 140th Anniversary of L’Osservatore Romano (June 30, 2001) {#jp2-let-20010630-osservatore-romano}
+## LETTER OF JOHN PAUL II TO PROF. MARIO AGNES EDITOR IN CHIEF OF L'OSSERVATORE ROMANO FOR THE 140th ANNIVERSARY OF THE FOUNDING OF THE PAPER
+
+*To Prof. Mario Agnes \
+Editor-in-Chief of L'Osservatore Romano*
+
+The happy occurrence of the 140th anniversary of *L'Osservatore Romano* prompts me first of all to offer God my heartfelt thanks for the good he has wrought through the newspaper in the course of these years. It also gives me the pleasant opportunity to review all the ground that the newspaper has covered in this span of time, at the service of the cause of the Gospel and of the Holy See.
+
+I would like in the first place to remember my venerable Predecessors, who with fatherly concern constantly informed the newspaper of the lines of thought and action to reflect. Following the tireless Petrine Magisterium, *L'Osservatore Romano,* in these 140 years, has combined firm fidelity to the Successor of Peter with vigilant attention to the Church's dynamism as well as a courageous service to man, which on many occasions has shown prophetic qualities.
+
+With Pope Pius IX, the newspaper, reasserting the value of the norms founded on the nature of the person and on the Gospel teachings, fought concepts deviating from freedom, at the same time taking up the defence of the right concept of the principle in its various contexts, and showing how, if this is interpreted well, it has nothing to fear from the exercise of the Magisterium of the Church, even when it makes an infallible pronouncement.
+
+With Leo XIII, the Pope of *Rerum novarum,* the daily paper of the Holy See broadened its horizons on the social issues of the modern age, opening the way to a deeper appraisal of the requirements deriving from solidarity and cooperation. With St Pius X, the Church's loud voice was raised against modernism:  *L'Osservatore Romano* did not fail to give it due resonance. With his Successor, the Pontiff Benedict XV, the "no" to war rang out powerfully from the Apostolic See, finding ample room in *L'Osservatore Romano* which repeated the Pope's pressing appeals addressed to every person of good will.
+
+In the subsequent years, following the Magisterium of Popes Pius XI and Pius XII, the daily vigorously accepted their invitation to build a world of peace and reconciliation, fighting against the totalitarian ideologies. After the tragedy of the Second World War, *L'Osservatore R*omano made itself the spokesman of the Pontiffs' exhortation to make the most of the role of the laity in the life of the Church and to provide concrete answers to the new ethical questions emerging from contemporary society.
+
+With Bl. John XXIII, who proclaimed, established and opened the Second Vatican Ecumenical Council, the paper opened its windows wide on the new springtime of the Church, helping to broaden in consciences both the horizons of the Church's missionary commitment and those of proper solidarity among the peoples.
+
+With the Servant of God Paul VI, the Pope of *Ecclesiam suam* and *Evangelii nuntiandi, L'Osservatore Romano* sought to read and interpret the "signs of the times" faithfully, helping believers to face the challenges of our time and to look with hope to the future.
+
+Then since the Lord called me to the Chair of Peter, I myself have not ceased to follow, day by day, the religious, pastoral, cultural, political and social progress of the newspaper. I note with pleasure that, in addition to being an attentive and alert "voice" of the activities of the Pope, a missionary on the highways of the world, it has always sought to communicate to its readers love for the Church and for the Successor of Peter, as well as a passion for the most widely recognized or at times contested Christian truths for the people of the third millennium. The protection and love of life from its conception until its natural end; respect for every human being; the thirst for freedom, the right to religious freedom; politics as a service; the rights of the world of work and of the sick; the various aspects of globalization. These and other subjects, which I have often had the opportunity to tackle in the course of my pastoral service to the universal Church have been forcefully and vigorously transmitted to readers in a new language by the newspaper you direct.
+
+And what can be said next of the great service rendered during the luminous season of the Church which prepared, celebrated and lived the Great Jubilee of the Year 2000? Whereas for the most recent years I cordially thank you, who have directed *L'Osservatore Romano* with great dedication since 1 September 1984 with the help of praiseworthy journalists, I would like here to remember in particular the great Jubilee events followed and presented to readers with satisfactory images, supplements and comments. This was a considerable effort for the whole family of *L'Osservatore Romano,* which made it possible to provide the right follow-up to celebrations which not only left a mark within the Church but also on the whole world. The grace of the Jubilee communicated through the pages of *L'Osservatore Romano,* in addition to displaying a cosmic view of the life of the Church, strongly bound to the Chair of Peter, offered the image of a Church open to the expectations of the world, called to be "in Christ ... in the nature of sacrament a sign and instrument, that is, of communion with God and of unity among all men" (*Lumen gentium,* n. 1).
+
+To you, Editor-in-chief, to your closest and most immediate collaborators, to the Italian and foreign editors, to all the personnel, religious and lay, to the technicians and readers, I assure my constant remembrance in prayer so that God will make their daily mission fruitful. With these sentiments, as I entrust every future project to Mary, I very willingly impart my Apostolic Blessing to you and to everyone.
+
+*From the Vatican, 1 July 2001.*
+
+## JOHN PAUL II

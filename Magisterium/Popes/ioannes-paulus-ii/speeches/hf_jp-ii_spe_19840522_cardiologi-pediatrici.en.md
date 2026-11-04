@@ -1,0 +1,75 @@
+---
+id: jp2-spe-19840522-cardiologi-pediatrici.en
+work: jp2-spe-19840522-cardiologi-pediatrici
+title: "To Paediatric Cardiologists taking part in the Congress sponsored by Bambin Gesù Hospital of Rome (May 22, 1984)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1984-05-22
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1984/may/documents/hf_jp-ii_spe_19840522_cardiologi-pediatrici.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, it"
+anchors: "{#jp2-spe-19840522-cardiologi-pediatrici.N} — numbered paragraphs 1..6 (6 anchors), shared with "
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To Paediatric Cardiologists taking part in the Congress sponsored by Bambin Gesù Hospital of Rome (May 22, 1984)
+## ADDRESS OF POPE JOHN PAUL II TO THE PAEDIATRIC CARDIOLOGISTS TAKING PART IN THE CONGRESS SPONSORED BY THE «BAMBIN GESÙ» HOSPITAL OF ROME
+
+*Tuesday, 22 May 1984*
+
+*Dear Friends*,
+
+### 1 {#jp2-spe-19840522-cardiologi-pediatrici.1}
+
+I greet you most cordially, and I congratulate you on the noble commitment which has brought you from all parts of the world to take part in a Congress devoted to the care of children suffering from heart ailments.
+
+There are many surgeons, and equally many paediatric cardiologists, who work together in order to relieve the sufferings of these children. Parents turn to them with full confidence, entrusting their offspring to them in the certainty that they will give of the best of their knowledge, their skill and their dedication, in order to send their little patients home fully or at least partially cured of the defects which had developed during the prenatal period.
+
+### 2 {#jp2-spe-19840522-cardiologi-pediatrici.2}
+
+This branch of paediatrics and heart surgery has made great progress in the course of the last ten years. After the preliminary examination at the sickbed, it has now become possible to use methods of diagnosis which are extremely advanced and highly reliable, enabling those whose task it is to correct congenital heart defects to have an exact picture of what is needed in order to achieve the most perfect results possible from anatomical and functional restructuring, at the same time keeping surgical risks to a minimum.
+
+After the completion of sophisticated analyses and the use of advanced instruments in the diagnosis and correction of the defects involved, there comes post-operative care, which itself is assisted by modern techniques and equipment devised to save the lives of children who in many cases risk early death if they do not receive treatment at exactly the right time.
+
+It is for this reason that medical men and women have studied the methods and techniques for dealing with cardiac illness from the first moments of life. Some of them, including some of you here today, are studying the means of treating children still in their mother’s womb, with the development of methods capable of dealing effectively with heart defects before birth, in some cases correcting them even without a surgical operation.
+
+### 3 {#jp2-spe-19840522-cardiologi-pediatrici.3}
+
+The efforts being made today will be crowned with success and will truly penetrate the mystery of life if this research is approached with certain attitudes. In the first place, with the *humility* of the scientist who knows a great deal but who is also aware that he understands only a small part of the mysteries he is dealing with. Then there is a need for *strength*, *dedication* and *courage*, in order to continue with studies that at times seem to be fruitless, or which on occasions prove to be on the wrong path, but which with persistence will finally lead to a solution of the problem in hand. And there is the need for *faith*, which is a sure support in the search for scientific truth through the phenomena of the life of human beings and other living creatures.
+
+### 4 {#jp2-spe-19840522-cardiologi-pediatrici.4}
+
+But all this research and all these efforts would be impossible if they were not sustained by the teamwork that is one of the marks of this activity.
+
+A debt of gratitude is owed to all those involved in this sphere: obstetricians, experts in child-care, paediatricians, anaesthetists. theatre staff and technicians, laboratory personnel, nurses, ward staff - all those who ensure the various hospital services, and without whom the great successes attained today would not be possible. We also know that their commitment often goes well beyond strict duty. Their love for their work, their dedication and their sense of responsibility frequently impel them to make extra efforts in order to ensure the success of an operation, to save a life and to restore to its parents a child now happily cured.
+
+### 5 {#jp2-spe-19840522-cardiologi-pediatrici.5}
+
+How often surgeons and doctors themselves experience the anguish of having to deal with cardiac disease of an extremely complex nature. Sometimes they are able to solve the problems involved, but on occasion the illness is so grave and untreatable that even their great skill is unable to cure the ill or save the child’s life.
+
+We are deeply aware of the problems that face you in your mission as scientists and doctors, and which at times become tragedies for your consciences as human beings and believers. Only if your conscience is sustained by strong faith can you take comfort from the conviction that everything has been done for the ultimate good of the child.
+
+At such moments you will be encouraged by several factors to continue with your researches and not to lose heart. You will be sustained by the *solidity* of your training, the certainty drawn from experience, your confidence in your own abilities. You will be helped by your *respect* for human suffering and the anxiety of your patients’ families, by your conviction of the *value* of the life of the sick child entrusted to your skill. You will be supported by your knowledge of the *capabilities* of your collaborators. And you will have *faith* in the help that is always available even beyond human powers, a help that is ever more effective if it is invoked before an important decision or a difficult operation.
+
+### 6 {#jp2-spe-19840522-cardiologi-pediatrici.6}
+
+I would like to close these reflections by offering you a thought that, on the human and religious levels, can serve as a sort of summing-up.
+
+In the Christian view, God wishes man to collaborate with him in the still continuing work of creation. An activity like yours, which is devoted to helping small human beings to escape early death and to grow up into healthy adults, is part of that collaboration on the loftiest levels of the plan of the Creator.
+
+The nobility of your mission is in direct relation with a programme of love and life that has placed man, every human being, every unique and unrepeatable individual, at the pinnacle of creation.
+
+This is a thought that can encourage you to go forward with perseverance, especially at those inevitable times of defeat and failure, an encouragement to invoke him who is the Lord of life and who asks for the assistance of your minds, your hands and your hearts.
+
+With these thoughts I invoke God’s blessings upon your work, upon yourselves and upon your families.

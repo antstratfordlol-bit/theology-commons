@@ -1,0 +1,73 @@
+---
+id: francis-hom-20230205-sudsudan.es
+work: francis-hom-20230205-sudsudan
+title: "Viaje apostólico a Sudán del Sur: Santa Misa en el Mausoleo John Garang (Yuba, 5 de febrero de 2023)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2023-02-05
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/homilies/2023/documents/20230205-omelia-sudsudan.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#francis-hom-20230205-sudsudan} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje apostólico a Sudán del Sur: Santa Misa en el Mausoleo John Garang (Yuba, 5 de febrero de 2023) {#francis-hom-20230205-sudsudan}
+**[VIAJE APOSTÓLICO DE SU SANTIDAD EL PAPA FRANCISCO\
+A LA REPÚBLICA DEMOCRÁTICA DEL CONGO Y A SUDÁN DEL SUR](https://www.vatican.va/content/francesco/es/travels/2023/outside/documents/congo-sudsudan-2023.html)\
+(Peregrinación ecuménica de paz a Sudán del Sur)\**
+\[31 de enero - 5 de febrero de 2023\]
+
+## [SANTA MISA](https://www.vatican.va/news_services/liturgy/libretti/2023/20230131-messale-congo-sud-sudan.pdf)
+
+## HOMILÍA DEL SANTO PADRE
+
+*Mausoleo John Garang, Yuba\
+Domingo, 5 de febrero de 2023*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2023/2/5/messa-sudsudan.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Las palabras que el apóstol Pablo dirigió a la comunidad de Corinto en la segunda Lectura, quisiera hoy hacerlas mías y repetirlas ante ustedes: «Cuando los visité para anunciarles el misterio de Dios, no llegué con el prestigio de la elocuencia o de la sabiduría. Al contrario, no quise saber nada, fuera de Jesucristo, y Jesucristo crucificado» (*1 Co* 2,1-2). Sí, la inquietud de Pablo es también la mía, al encontrarme aquí con ustedes en el nombre de Jesucristo, el Dios del amor, el Dios que realizó la paz por medio de su cruz; Jesús, Dios crucificado por todos nosotros; Jesús, crucificado en quien sufre; Jesús, crucificado en la vida de tantos de ustedes, en muchas personas de este país; Jesús resucitado, vencedor del mal y de la muerte. Vengo a ustedes para proclamarlo a Él, para confirmarlos en Él, porque el anuncio de Cristo es anuncio de esperanza. Él, en efecto, conoce las angustias y los anhelos que llevan en el corazón, las alegrías y las fatigas que marcan sus vidas, las tinieblas que los oprimen y la fe que, como un canto en la noche, elevan al cielo. Jesús los conoce y los ama; si permanecemos en Él, no debemos temer, porque también para nosotros cada cruz se transformará en resurrección, cada tristeza en esperanza, cada lamento en danza.
+
+Quisiera, por tanto, detenerme en las palabras de vida que nuestro Señor Jesús nos dirigió hoy en el Evangelio: «Ustedes son la sal de la tierra \[…\]. Ustedes son la luz del mundo» (*Mt* 5,13.14). ¿Qué nos dicen estas imágenes a nosotros, discípulos de Cristo?
+
+En primer lugar, *somos sal de la tierra*. La sal sirve para dar sabor a la comida. Es el ingrediente invisible que da gusto a todo. Precisamente por eso, es considerada, desde tiempos antiguos, como símbolo de la sabiduría, es decir, de esa virtud que no se ve, pero que da gusto a la vida y sin la cual la existencia se vuelve insípida, sin sabor. Pero, ¿de qué sabiduría nos habla Jesús? Él utiliza esta imagen de la sal inmediatamente después de haber proclamado las Bienaventuranzas a sus discípulos. Comprendemos entonces que las Bienaventuranzas son la sal de la vida del cristiano; en efecto, llevan a la tierra la sabiduría del cielo; revolucionan los criterios del mundo y del modo habitual de pensar. ¿Y qué dicen? En pocas palabras, afirman que, para ser bienaventurados —es decir, plenamente felices—, no tenemos que buscar ser fuertes, ricos y poderosos; más bien, humildes, mansos, misericordiosos. No hacer daño a nadie, sino ser constructores de paz para todos. Esta —nos dice Jesús— es la sabiduría del discípulo, es lo que da sabor a la tierra que habitamos. Recordemos que, si ponemos en práctica las Bienaventuranzas, si encarnamos la sabiduría de Cristo, no damos un buen sabor solamente a nuestra vida, sino también a la sociedad, al país donde vivimos.
+
+Pero la sal, además de dar sabor, tiene otra función, esencial en los tiempos de Cristo, que es conservar los alimentos para que no se deterioren y se echen a perder. Pero la Biblia dice que había una “comida”, un bien esencial que debía conservarse antes que cualquier otro: la alianza con Dios. Por eso en aquellos tiempos, cada vez que se hacía una ofrenda al Señor, se ponía un poco de sal. Escuchemos lo que dice la Escritura a este respecto: «Nunca dejarás que falte a tu oblación la sal de la alianza de tu Dios: sobre todas tus oblaciones deberás ofrecer sal» (*Lv* 2,13). De ese modo, la sal recordaba la necesidad básica de cuidar la relación con Dios, porque Él es fiel a nosotros, su alianza con nosotros es incorruptible, inviolable y duradera (cf. *Nm* 18,19; *2 Cro* 13,5). Por eso el discípulo de Jesús, en cuanto sal de la tierra, es testigo de la alianza que Él ha realizado y que celebramos en cada Misa; una alianza nueva, eterna, inquebrantable (cf. *1 Co* 11,25; *Hb* 9), un amor por nosotros que ni siquiera nuestras infidelidades pueden dañar.
+
+Hermanos, hermanas, somos testigos de esta maravilla. Antiguamente, cuando las personas y los pueblos establecían una amistad entre ellos, a menudo la estipulaban intercambiándose un poco de sal. Nosotros, que somos sal de la tierra, estamos llamados a testimoniar la alianza con Dios en la alegría, con gratitud, mostrando que somos personas capaces de crear lazos de amistad, de vivir la fraternidad, de construir buenas relaciones humanas, para impedir que la corrupción del mal, el morbo de las divisiones, la suciedad de los negocios ilícitos y la plaga de la injusticia prevalezcan.
+
+Hoy quisiera agradecerles por ser sal de la tierra en este país. Sin embargo, frente a tantas heridas, a la violencia que alimenta el veneno del odio, a la iniquidad que provoca miseria y pobreza, podría parecerles que son pequeños e impotentes. Pero, cuando les asalte la tentación de sentirse insuficientes, hagan la prueba de mirar la sal y sus granitos minúsculos; es un pequeño ingrediente y, una vez puesto en un plato, desaparece, se disuelve, pero precisamente así es como da sabor a todo el contenido. Del mismo modo, nosotros cristianos, aun siendo frágiles y pequeños, aun cuando nuestras fuerzas nos parezcan pocas frente a la magnitud de los problemas y a la furia ciega de la violencia, podemos dar un aporte decisivo para cambiar la historia. Jesús desea que lo hagamos como la sal: una pizca que se disuelve es suficiente para dar un sabor diferente al conjunto. Entonces no podemos echarnos atrás, porque sin ese poco, sin nuestro poco, todo pierde gusto. Comencemos justamente por lo poco, por lo esencial, por aquello que no aparece en los libros de historia, pero cambia la historia. En el nombre de Jesús, de sus Bienaventuranzas, depongamos las armas del odio y de la venganza para empuñar la oración y la caridad; superemos las antipatías y aversiones que, con el tiempo, se han vuelto crónicas y amenazan con contraponer las tribus y las etnias; aprendamos a poner sobre las heridas la sal del perdón, que quema, pero sana. Y, aunque el corazón sangre por los golpes recibidos, renunciemos de una vez por todas a responder al mal con el mal, y nos sentiremos bien interiormente; acojámonos y amémonos con sinceridad y generosidad, como Dios hace con nosotros. Cuidemos el bien que tenemos, ¡no nos dejemos corromper por el mal!
+
+Pasemos a la segunda imagen que usa Jesús, la luz: *Ustedes son la luz del mundo*. Una famosa profecía decía acerca de Israel: «Yo te destino a ser la *luz de las naciones*, para que llegue mi salvación hasta los confines de la tierra» (*Is* 49,6). La profecía ya se ha cumplido, porque Dios Padre ha enviado a su Hijo, y Él es la luz del mundo (cf. *Jn* 8,12), la luz verdadera que ilumina a cada hombre y a cada pueblo, la luz que brilla en las tinieblas y disipa las nubes de cualquier oscuridad (cf. *Jn* 1,5.9). Pero el mismo Jesús, luz del mundo, dice a sus discípulos que también ellos son *luz del mundo*. Eso significa que nosotros, acogiendo la luz de Cristo, la luz que es Cristo, nos volvemos luminosos, irradiamos la luz de Dios.
+
+Jesús agrega: «No se puede ocultar una ciudad puesta en lo alto de un monte. Tampoco se enciende una lámpara para meterla debajo del celemín, sino para ponerla en el candelero y que alumbre a todos lo de casa» (*Mt* 5,14.15). También en este caso se trata de imágenes familiares en aquellos tiempos; varias aldeas de Galilea estaban en las colinas, se las podía ver bien desde lejos; y a las lámparas, en las casas, se las ponía en alto para que dieran luz en todos los rincones de la habitación; después, cuando había que apagarlas, se cubrían con un objeto de terracota llamado “celemín”, que quitaba el oxígeno a la llama hasta extinguirla.
+
+Hermanos y hermanas, la invitación de Jesús a ser luz del mundo es clara. Nosotros, que somos sus discípulos, estamos llamados a brillar como una ciudad puesta en lo alto, como un candelero cuya llama nunca tiene que apagarse. En otras palabras, antes de preocuparnos por las tinieblas que nos rodean, antes de esperar que algo a nuestro alrededor se aclare, se nos exige brillar, iluminar, con nuestra vida y con nuestras obras, la ciudad, las aldeas y los lugares donde vivimos, las personas que tratamos, las actividades que llevamos adelante. El Señor nos da la fuerza para ello, la fuerza de ser luz en Él, para todos; porque todos tienen que poder ver nuestras obras buenas y, viéndolas —nos recuerda Jesús—, se abrirán con asombro a Dios y le darán gloria (cf. v. 16). Si vivimos como hijos y hermanos en la tierra, la gente descubrirá que tiene un Padre en los cielos. A nosotros, por tanto, se nos pide que ardamos de amor. No vaya a suceder que nuestra luz se apague, que desaparezca de nuestra vida el oxígeno de la caridad, que las obras del mal quiten aire puro a nuestro testimonio. Esta tierra, hermosísima y martirizada, necesita la luz que cada uno de ustedes tiene, o mejor, la luz que cada uno de ustedes es.
+
+Queridos hermanos y hermanas, les deseo que sean sal que se esparce y se disuelve con generosidad para dar sabor a Sudán del Sur con el gusto fraterno del Evangelio; que sean comunidades cristianas luminosas que, como ciudades puestas en lo alto, irradien una luz de bien a todos y muestren que es hermoso y posible vivir la gratuidad, tener esperanza, construir todos juntos un futuro reconciliado. Hermanos y hermanas, estoy con ustedes y les deseo que experimenten la alegría del Evangelio, el sabor y la luz que el Señor, «el Dios de la paz» (*Flp* 4,9), el «Dios de todo consuelo» (*2 Co* 1,3), quiere infundir en cada uno de ustedes.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## SALUDO FINAL
+
+Gracias, querido Hermano Stephen, por estas palabras. Saludo al Señor Presidente de la República, así como a todas las Autoridades civiles y religiosas presentes. He llegado ya a la conclusión de esta peregrinación en medio de ustedes y deseo expresar mi agradecimiento por la acogida recibida y por todo el trabajo que han realizado para preparar esta visita, que fue una visita fraterna de tres.
+
+Les agradezco a todos ustedes, hermanos y hermanas, que han venido en gran número desde diferentes lugares, haciendo muchas horas —incluso días— de camino. Además del afecto que me han manifestado, les agradezco su fe, su paciencia, todo el bien que hacen y todas las fatigas que ofrecen a Dios sin desanimarse, para seguir adelante. En Sudán del Sur hay una Iglesia valiente, emparentada con la de Sudán, como nos recordaba el Arzobispo, el cual mencionó la figura de santa Josefina Bakhita, una gran mujer, que con la gracia de Dios transformó en esperanza su sufrimiento. «La esperanza que en ella había nacido y la había “redimido” no podía guardársela para sí sola; esta esperanza debía llegar a muchos, llegar a todos», escribió [Benedicto XVI](https://www.vatican.va/content/benedict-xvi/es.html) (Carta enc. *[Spe salvi](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html)*, 3). *Esperanza* es la palabra que quisiera dejarle a cada uno de ustedes, como un don para compartir, como una semilla que dé fruto. Tal como nos recuerda la figura de santa Josefina, la esperanza, especialmente aquí, se encuentra en el signo de la mujer y por eso quisiera agradecer y bendecir de modo especial a todas las mujeres del país.
+
+A la esperanza quisiera asociar otra palabra. Ha sido la palabra que nos acompañó estos días: *paz*. Con mis hermanos Justin e Iain, a quienes agradezco de corazón, hemos venido aquí y seguiremos acompañando sus pasos, los tres juntos, haciendo todo lo posible para que sean pasos de paz, pasos hacia la paz. Quisiera confiar este camino de todo el pueblo con nosotros tres, este camino de la reconciliación y de la paz a otra mujer. Me refiero a nuestra tierna Madre María, la Reina de la paz. Nos acompañó con su presencia solícita y silenciosa. A ella, a quien ahora rezamos, le encomendamos la causa de la paz en Sudán del Sur y en todo el continente africano. A la Virgen encomendamos también la paz en el mundo, en particular los numerosos países que se encuentran en guerra, como la martirizada Ucrania.
+
+Queridos hermanos y hermanas, volvemos, cada uno de nosotros tres a nuestra sede, llevándolos aún más presentes en el corazón. Lo repito, ¡están en nuestro corazón, están en nuestros corazones, están en los corazones de los cristianos de todo el mundo! No pierdan nunca la esperanza. Y que no se pierda la ocasión de construir la paz. Que la esperanza y la paz habiten en ustedes. Que la esperanza y la paz habiten en Sudán del Sur.

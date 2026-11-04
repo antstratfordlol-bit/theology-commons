@@ -1,0 +1,72 @@
+---
+id: jp2-spe-19980616-roaco.en
+work: jp2-spe-19980616-roaco
+title: "To the participants in the 59th Assembly of R.O.A.C.O. (June 16, 1998)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1998-06-16
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/june/documents/hf_jp-ii_spe_19980616_roaco.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it, pt"
+anchors: "{#jp2-spe-19980616-roaco.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-spe-19980616-roaco.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the participants in the 59th Assembly of R.O.A.C.O. (June 16, 1998)
+## ADDRESS OF THE HOLY FATHER POPE JOHN PAUL II TO THE ASSEMBLY OF ORGANISATIONS FOR THE AID OF THE EASTERN CHURCHES (ROACO)
+
+*Tuesday, 16 June 1998*
+
+*Your Eminence, Venerable Brothers in the Episcopate and the Priesthood,\
+Dear Members and Friends of ROACO,*
+
+### 1 {#jp2-spe-19980616-roaco.1}
+
+I extend a cordial welcome to you all on the occasion of the biannual assembly of ROACO. I first greet Cardinal Achille Silvestrini, whom I thank for his cordial words expressing your sentiments and, at the same time, for mentioning the many activities in which you are involved.
+
+With him I greet the Secretary of the Congregation for the Oriental Churches, Archbishop Miroslav Stefan Marusyn, to whom I renew my cordial wishes for the 50th anniversary of his priestly ordination. I also greet the Undersecretary, Mons. Claudio Gugerotti, and all the officials and staff of the dicastery, together with the members and friends of ROACO.
+
+As I turn my gaze to the territories which are the object of your concern, I can only reiterate my hope for a just and peaceful solution to the tensions between Ethiopia and Eritrea that have arisen in recent weeks. May the Lord enlighten the leaders of these two sister nations and all who are generously working to find a negotiated resolution of their respective demands.
+
+### 2 {#jp2-spe-19980616-roaco.2}
+
+We have just celebrated, to the great joy of the whole Church, the proclamation of two new blesseds linked to the Eastern Churches, who with love and courage gave witness of their complete fidelity to Christ and to the Catholic Church.
+
+First there was the martyr Vincent Eugene Bossilkov, a Bishop and Passionist religious, beatified last 15 March. A fearless herald of the Cross of Christ, he was one of the many victims sacrificed by the atheistic communist regime in its determination to wipe out the Church in Bulgaria and elsewhere. Today he is held up to us and to the children of the Eastern Churches as an example and a shining figure, not only for his erudition, but especially for his constant ecumenical zeal and heroic dedication to defending the attachment of his flock to the See of Peter.
+
+With the monk Nimatullah Kassab Al-Hardini of the Lebanese Maronite Order, raised to the honours of the altar last 10 May, I wished to remind everyone of the value of monastic life. As I said on that happy occasion, the new blessed is a sign of hope for all Christians in Lebanon, but he also invites that nation, which I had the joy of visiting one year ago, to continue to abound in witnesses and saints, presenting herself, through generous inculturation of the faith, as a land where justice, peace and harmony flourish. Bl. Hardini is a distinguished witness of monasticism understood as a model of baptismal life. I hope that he will be an encouragement for the young people of the Eastern Catholic Churches to recover their identity, to live fully the wealth of their traditions and with wisdom to draw the strength of the saving mystery from contemplation and the Divine Liturgy.
+
+### 3 {#jp2-spe-19980616-roaco.3}
+
+In *[Orientale lumen](https://www.vatican.va/content/john-paul-ii/en/apost_letters/documents/hf_jp-ii_apl_02051995_orientale-lumen.html)* I wrote: “When God’s call is total, as it is in the monastic life, then the person can reach the highest point that sensitivity, culture and spirituality are able to express For the Eastern Churches ... monasticism was an essential experience and still today is seen to flourish in them, once persecution is over and hearts can be freely raised to heaven” (n. 9).
+
+I hope that this exemplarity will serve as an effective reference point for all the seminarians, priests and religious who, also in Rome, are discerning their vocation and preparing for their ecclesial tasks, and to whom the Congregation for the Oriental Churches devotes so much of its energy.
+
+One of the dicastery’s projects is the establishment of St Benedict College, where Arabic-speaking priests of different rites can find a suitable place for study and prayer and an appropriate introduction to new pastoral experiences. The rebuilding of the former Ukrainian Minor Seminary in Via Boccea, with the foundation of the Pontifical Ukrainian Institute of the Protection of Holy Mary, will soon make it possible to receive candidates for the priesthood who are completing their studies in the ecclesiastical disciplines. The structures being prepared for the theological formation and pastoral training of Eastern women religious who are sent to Rome for this purpose will help answer an urgent and now pressing need.
+
+Dear friends of ROACO, I beg you to share with ever greater attention in this fundamental work of formation for those who will be the leaders of the Catholic communities in the East.
+
+### 4 {#jp2-spe-19980616-roaco.4}
+
+We are advancing towards the Great Jubilee of the Year 2000 and next year, 1999, will be dedicated to reflection on the heavenly Father. This will conclude the immediate preparation for the Jubilee celebration, which invites us to gather with renewed fidelity and profound conversion on the banks of the “river” of Revelation, Christianity and the Church, which flows through the history of humanity, starting 2,000 years ago with the events in Nazareth and then in Bethlehem. It is truly that “river” whose “streams”, in the words of the psalm, “make glad the city of God” (46 \[45\]:5).
+
+The Christian attitude to the Holy Land developed in a way similar to that of the history of liturgical prayer in the Church. Just as the liturgical year has slowly spread to various days what was once concentrated on Sunday, the weekly Easter, so the places where our Saviour lived and worked have become stages on a single spiritual journey, which helps us to walk in the footsteps of the God who became man and a victim of love for the world’s salvation.
+
+Aid and support for the Holy Land do not only serve as a reminder of the times and places in which the Lord Jesus lived: above all they are meant to foster a spiritual attitude in the faithful which, in those who experience it with inner intensity, is expressed in a journey of faith towards that summit of every Christian experience which the Apostle to the Gentiles expressed in the words: “To me, to live is Christ”.
+
+### 5 {#jp2-spe-19980616-roaco.5}
+
+I know that through the responsibilities of every agency, the Congregation for the Oriental Churches, together with the Custody of the Holy Land, is responsible for linking and co-ordinating the charity of all. To you I entrust the task of being present in the name of Christianity, of supporting ecclesial life and of meeting the sociocultural needs of those places dear to the hearts of all who believe in the incarnate Word of God. I repeat to you, and through you to the entire Church throughout the world, my invitation to maintain your high level of service in the land of our Saviour.
+
+May the constant help of God and the motherly protection of the Virgin of Nazareth accompany you in your work. I am also close to you and cordially impart my Blessing to you, which I willingly extend to the works you represent here and to everyone to whom your activity is directed.

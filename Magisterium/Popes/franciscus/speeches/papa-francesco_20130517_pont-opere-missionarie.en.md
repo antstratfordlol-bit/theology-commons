@@ -1,0 +1,58 @@
+---
+id: francis-spe-20130517-pont-opere-missionarie.en
+work: francis-spe-20130517-pont-opere-missionarie
+title: "To participants in the meeting of the Pontifical Mission Societies (17 May 2013)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2013-05-17
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2013/may/documents/papa-francesco_20130517_pont-opere-missionarie.html"
+fetch_date: 2026-08-26
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20130517-pont-opere-missionarie.N} — numbered paragraphs 1..3 (3 anchors); and {#francis-spe-20130517-pont-opere-missionarie.prooem} — the text the page prints before its first numbered unit, under a heading minted for it (the dei-filius.prooem precedent)"
+anchor_check: "identical across en; prooem: identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-09-21
+---
+
+# To participants in the meeting of the Pontifical Mission Societies (17 May 2013)
+## ADDRESS OF HOLY FATHER FRANCIS TO PARTICIPANTS IN THE MEETING OF THE PONTIFICAL MISSION SOCIETIES
+
+*Clementine Hall\
+Friday, 17 May 2013*
+
+### Proem {#francis-spe-20130517-pont-opere-missionarie.prooem}
+
+I am particularly glad, dear brothers and sisters, to meet for the first time the National Directors of the Pontifical Mission Societies who have come from all over the world. I cordially greet Cardinal Fernando Filoni, I thank him for his service as Prefect of the Congregation for the Evangelization of Peoples, as well as for the words he has addressed to me on your behalf.
+
+Cardinal Filoni has an extra task in this period: he is a teacher. He comes “to teach me the Church”. Yes, he comes and he tells me: this Diocese is like this or like that.... I am becoming acquainted with the Church thanks to his lessons. They are not lessons I pay for, he gives them free of charge. I also greet the Secretary, Archbishop Savio Hon Tai-Fai, the Adjunct Secretary, Archbishop Protase Rugambwa, and all the co-workers of the Dicastery and of the Pontifical Mission Societies, priests, religious and lay people.
+
+### 1 {#francis-spe-20130517-pont-opere-missionarie.1}
+
+I would like to tell you that you are particularly dear to me because you help me to keep ever alive the activity of evangelization, the paradigm of every work of the Church. Mission is a paradigm of every Church institution; it is a paradigmatic attitude. In fact, the Bishop of Rome is not only called to be a Pastor in his particular Church but also in the whole Church so that the Gospel may be proclaimed to the very ends of the earth. And in this task the Pontifical Mission Societies are a privileged instrument in the hands of the Pope who is the source and foundation of the unity and universality of the Church (cf. Second Vatican Ecumenical Council, Dogmatic Constitution, *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, n.23). Indeed, they are called “Pontifical” because they are directly responsible to the Bishop of Rome, for the specific purpose of acting to ensure that the precious gift of the Gospel may be offered to all.
+
+They are fully up to date, indeed they are still needed today because there are so many peoples who are still not acquainted with Christ and have not yet encountered him. It is urgently necessary to find new forms and new ways to ensure that God’s grace may touch the heart of every man and of every woman and lead them to him. We are all simple but important instruments of his; we have not received the gift of faith to keep it hidden, but, rather, to spread it so that it can illumine a great many of our brethren on their journey.
+
+### 2 {#francis-spe-20130517-pont-opere-missionarie.2}
+
+The mission that awaits us is of course challenging but with the guidance of the Holy Spirit it becomes an exciting one. We all experience our poverty, our weakness in taking the precious treasure of the Gospel to the world, but we must constantly repeat St Paul’s words: “we have this treasure in earthen vessels, to show that the transcendent power belongs to God and not to us” (2 Cor 4:7). It is this that must always give us courage: knowing that the power of evangelization comes from God, that it belongs to him. We are called to open ourselves more and more to the action of the Holy Spirit, to offer our unreserved readiness to be instruments of God’s mercy, of his tenderness, of his love for every man and every woman and especially for the poor, the outcast and those who are distant.
+
+Furthermore, for every Christian, for the whole Church, this is not an optional mission it is not an optional mission, but essential. As St Paul said: “if I preach the gospel, that gives me no ground for boasting. For necessity is laid upon me. Woe to me if I do not preach the gospel!” (1 Cor 9:16). God’s salvation is for everyone!
+
+### 3 {#francis-spe-20130517-pont-opere-missionarie.3}
+
+I repeat to you, dear National Directors, the invitation that Paul vi addressed to you almost 50 years ago, to jealously guard the universal breadth of the Mission Societies, “which have the honour, responsibility and duty to support the mission \[to proclaim the Gospel\], to administer the necessary aid” (*Discourse to the Pontifical Mission Societies*, 14 May 1965: aas 57, 1965, 520). Never tire of teaching every Christian right from infancy, in a truly universal and missionary spirit, and of sensitizing the entire community to support and help the mission in accordance with the needs of each one (cf. Second Vatican Ecumenical Council, Decree *[Ad Gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html)*, n.38).
+
+Make sure that the Pontifical Mission Societies follow in the wake of their centuries-old tradition, in order to enliven and form the Churches, opening them to a wide dimension of the evangelizing mission. The Pontifical Mission Societies are also rightly subject to the Bishops’ concern that they may be “rooted in the life of the particular Churches” (*Statutes of the Pontifical Mission Societies,* n. 17). However, they must truly become a privileged tool for education in the universal missionary spirit and for an ever greater communion and cooperation among the Churches for the proclamation of the Gospel to the world. In the face of the temptation of communities to withdraw into themselves — withdrawal into self is a very common temptation, very common — taken up with their own problems, your task is to recall the “*missio ad gentes*”, to witness prophetically that the life of the Church and of the Churches is a mission, and it is a universal mission. The episcopal ministry and all ministries are certainly for the development of the Christian community, but they are also at the service of communion among the Churches for the evangelizing mission. In this context, I invite you to pay special attention to the young Churches, which all too often work in an atmosphere of difficulty, discrimination and even persecution, so that you may support them and help them to witness to the Gospel with word and deed.
+
+Dear brothers and sisters, as I renew my thanks to you all, I encourage you to continue your commitment to seeing that the local Churches assume ever more generously their share of responsibility in the Church’s universal mission. As I invoke Mary, Star of Evangelization, I make my own the words of Paul vi, which are as timely as if they had been written yesterday. This is what the Pope said: “may the world of our time, which is searching, sometimes with anguish, sometimes with hope, be enabled to receive the Good News not from evangelizers who are dejected, discouraged, impatient or anxious, but from ministers of the Gospel whose lives glow with fervour, who have first received the joy of Christ, and who are willing to risk their lives so that the Kingdom of God may be proclaimed and the Church established in the midst of the world” (cf. Apostolic Letter, *[Evangelii Nuntiandi](http://www.vatican.va/holy_father/paul_vi/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi_en.html)*, n. 80).
+
+To you, to your co-workers, to your families, to all those who are dear to you, and to your missionary work, I impart my Blessing.

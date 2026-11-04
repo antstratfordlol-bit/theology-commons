@@ -1,0 +1,50 @@
+---
+id: b16-hom-20110109-battesimo.es
+work: b16-hom-20110109-battesimo
+title: "9 de enero de 2011: Fiesta del Bautismo del Señor"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Homily
+url_date: 2011-01-09
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/homilies/2011/documents/hf_ben-xvi_hom_20110109_battesimo.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-hom-20110109-battesimo} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 9 de enero de 2011: Fiesta del Bautismo del Señor {#b16-hom-20110109-battesimo}
+[FIESTA DEL BAUTISMO DEL SEÑOR\
+CELEBRACIÓN DE LA SANTA MISA\
+Y ADMINISTRACIÓN DEL BAUTISMO A 21 RECIÉN NACIDOS](http://www.vatican.va/news_services/liturgy/libretti/2011/20110109.pdf)
+
+## HOMILÍA DEL SANTO PADRE BENEDICTO XVI
+
+*Capilla Sixtina\
+Domingo 9 de enero de 2011*
+
+*Queridos hermanos y hermanas:*
+
+Me alegra daros una cordial bienvenida, en particular a vosotros, padres, padrinos y madrinas de los 21 recién nacidos a los que, dentro de poco, tendré la alegría de administrar el sacramento del Bautismo. Como ya es tradición, también este año este rito tiene lugar en la santa Eucaristía con la que celebramos el Bautismo del Señor. Se trata de la fiesta que, en el primer domingo después de la solemnidad de la Epifanía, cierra el [tiempo de Navidad](http://www.vatican.va/liturgical_year/christmas/2010/christmas10_sp.html) con la manifestación del Señor en el Jordán.
+
+Según el relato del evangelista san Mateo (3, 13-17), Jesús fue de Galilea al río Jordán para que lo bautizara Juan; de hecho, acudían de toda Palestina para escuchar la predicación de este gran profeta, el anuncio de la venida del reino de Dios, y para recibir el bautismo, es decir, para someterse a ese signo de penitencia que invitaba a convertirse del pecado. Aunque se llamara bautismo, no tenía el valor sacramental del rito que celebramos hoy; como bien sabéis, con su muerte y resurrección Jesús instituye los sacramentos y hace nacer la Iglesia. El que administraba Juan era un acto penitencial, un gesto que invitaba a la humildad frente a Dios, invitaba a un nuevo inicio: al sumergirse en el agua, el penitente reconocía que había pecado, imploraba de Dios la purificación de sus culpas y se le enviaba a cambiar los comportamientos equivocados, casi como si muriera en el agua y resucitara a una nueva vida.
+
+Por esto, cuando Juan Bautista ve a Jesús que, en fila con los pecadores, va para que lo bautice, se sorprende; al reconocer en él al Mesías, al Santo de Dios, a aquel que no tenía pecado, Juan manifiesta su desconcierto: él mismo, el que bautizaba, habría querido hacerse bautizar por Jesús. Pero Jesús lo exhorta a no oponer resistencia, a aceptar realizar este acto, para hacer lo que es conveniente para «cumplir toda justicia». Con esta expresión Jesús manifiesta que vino al mundo para hacer la voluntad de Aquel que lo mandó, para realizar todo lo que el Padre le pide; aceptó hacerse hombre para obedecer al Padre. Este gesto revela ante todo quién es Jesús: es el Hijo de Dios, verdadero Dios como el Padre; es aquel que «se rebajó» para hacerse uno de nosotros, aquel que se hizo hombre y aceptó humillarse hasta la muerte de cruz (cf. *Flp* 2, 7). El bautismo de Jesús, que hoy recordamos, se sitúa en esta lógica de la humildad y de la solidaridad: es el gesto de quien quiere hacerse en todo uno de nosotros y se pone realmente en la fila con los pecadores; él, que no tiene pecado, deja que lo traten como pecador (cf. *2 Co* 5, 21), para cargar sobre sus hombros el peso de la culpa de toda la humanidad, también de nuestra culpa. Es el «siervo de Dios» del que nos habló el profeta Isaías en la primera lectura (cf. 42, 1). Lo que dicta su humildad es el deseo de establecer una comunión plena con la humanidad, el deseo de realizar una verdadera solidaridad con el hombre y con su condición. El gesto de Jesús anticipa la cruz, la aceptación de la muerte por los pecados del hombre. Este acto de anonadamiento, con el que Jesús quiere uniformarse totalmente al designio de amor del Padre y asemejarse a nosotros, manifiesta la plena sintonía de voluntad y de fines que existe entre las personas de la santísima Trinidad. Para ese acto de amor, el Espíritu de Dios se manifiesta como paloma y baja sobre él, y en aquel momento el amor que une a Jesús al Padre se testimonia a cuantos asisten al bautismo, mediante una voz desde lo alto que todos oyen. El Padre manifiesta abiertamente a los hombres —a nosotros— la comunión profunda que lo une al Hijo: la voz que resuena desde lo alto atestigua que Jesús es obediente en todo al Padre y que esta obediencia es expresión del amor que los une entre sí. Por eso, el Padre se complace en Jesús, porque reconoce en las acciones del Hijo el deseo de seguir en todo su voluntad: «Este es mi Hijo amado, en quien me complazco» (*Mt* 3, 17). Y esta palabra del Padre alude también, anticipadamente, a la victoria de la resurrección y nos dice cómo debemos vivir para complacer al Padre, comportándonos como Jesús.
+
+Queridos padres, el Bautismo que hoy pedís para vuestros hijos los inserta en este intercambio de amor recíproco que existe en Dios entre el Padre, el Hijo y el Espíritu Santo; por este gesto que voy a realizar, se derrama sobre ellos el amor de Dios, y los inunda con sus dones. Mediante el lavatorio del agua, vuestros hijos son insertados en la vida misma de Jesús, que murió en la cruz para librarnos del pecado y resucitando venció a la muerte. Por eso, inmersos espiritualmente en su muerte y resurrección, son liberados del pecado original e inicia en ellos la vida de la gracia, que es la vida misma de Jesús resucitado. «Él se entregó por nosotros —afirma san Pablo— a fin de rescatarnos de toda iniquidad y formar para sí un pueblo puro que fuese suyo, fervoroso en buenas obras» (*Tt* 2, 14).
+
+Queridos amigos, al darnos la fe, el Señor nos ha dado lo más precioso que existe en la vida, es decir, el motivo más verdadero y más bello por el cual vivir: por gracia hemos creído en Dios, hemos conocido su amor, con el cual quiere salvarnos y librarnos del mal. La fe es el gran don con el que nos da también la vida eterna, la verdadera vida. Ahora vosotros, queridos padres, padrinos y madrinas, pedís a la Iglesia que acoja en su seno a estos niños, que les dé el Bautismo; y esta petición la hacéis en razón del don de la fe que vosotros mismos, a vuestra vez, habéis recibido. Todo cristiano puede repetir con el profeta Isaías: «El Señor me plasmó desde el seno materno para siervo suyo» (cf. 49, 5); así, queridos padres, vuestros hijos son un don precioso del Señor, el cual se ha reservado para sí su corazón, para poderlo colmar de su amor. Por el sacramento del Bautismo hoy los consagra y los llama a seguir a Jesús, mediante la realización de su vocación personal según el particular designio de amor que el Padre tiene pensado para cada uno de ellos; meta de esta peregrinación terrena será la plena comunión con él en la felicidad eterna.
+
+Al recibir el Bautismo, estos niños obtienen como don un sello espiritual indeleble, el «carácter», que marca interiormente para siempre su pertenencia al Señor y los convierte en miembros vivos de su Cuerpo místico, que es la Iglesia. Mientras entran a formar parte del pueblo de Dios, para estos niños comienza hoy un camino que debería ser un camino de santidad y de configuración con Jesús, una realidad que se deposita en ellos como la semilla de un árbol espléndido, que es preciso ayudar a crecer. Por esto, al comprender la grandeza de este don, desde los primeros siglos se ha tenido la solicitud de dar el Bautismo a los niños recién nacidos. Ciertamente, luego será necesaria una adhesión libre y consciente a esta vida de fe y de amor, y por esto es preciso que, tras el Bautismo, sean educados en la fe, instruidos según la sabiduría de la Sagrada Escritura y las enseñanzas de la Iglesia, a fin de que crezca en ellos este germen de la fe que hoy reciben y puedan alcanzar la plena madurez cristiana. La Iglesia, que los acoge entre sus hijos, debe hacerse cargo, juntamente con los padres y los padrinos, de acompañarlos en este camino de crecimiento. La colaboración entre la comunidad cristiana y la familia es más necesaria que nunca en el contexto social actual, en el que la institución familiar se ve amenazada desde varias partes y debe afrontar no pocas dificultades en su misión de educar en la fe. La pérdida de referencias culturales estables y la rápida transformación a la cual está continuamente sometida la sociedad, hacen que el compromiso educativo sea realmente arduo. Por eso, es necesario que las parroquias se esfuercen cada vez más por sostener a las familias, pequeñas iglesias domésticas, en su tarea de transmisión de la fe.
+
+Queridos padres, junto con vosotros doy gracias al Señor por el don del Bautismo de estos hijos vuestros; al elevar nuestra oración por ellos, invocamos el don abundante del Espíritu Santo, que hoy los consagra a imagen de Cristo sacerdote, rey y profeta. Encomendándolos a la intercesión materna de María santísima, pedimos para ellos vida y salud, para que puedan crecer y madurar en la fe, y dar, con su vida, frutos de santidad y de amor. Amén.

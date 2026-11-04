@@ -1,0 +1,56 @@
+---
+id: francis-ang-20171029.en
+work: francis-ang-20171029
+title: "Angelus, 29 October 2017"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Angelus / Regina Caeli
+url_date: 2017-10-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/angelus/2017/documents/papa-francesco_angelus_20171029.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pt"
+anchors: "{#francis-ang-20171029} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 29 October 2017 {#francis-ang-20171029}
+POPE FRANCIS
+
+## ANGELUS
+
+*Saint Peter's Square\
+Sunday, 29 October 2017*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2017/10/29/angelus.html)**\]
+
+*Dear Brothers and Sisters, Good morning!*
+
+This Sunday, the Liturgy presents us with a brief, but very important Gospel passage (Mt 22:34-40). Matthew the Evangelist recounts that the Pharisees assemble in order to put Jesus to the test. One of them, a doctor of the Law, asks him this question: “Teacher, which one is the great commandment in the law?” (v. 36). It is an insidious question, because more than 600 precepts are mentioned in the Law of Moses. How should the *great commandment* be distinguished among these? But Jesus responds without hesitation: “You shall love the Lord your God with all your heart and with all your soul and with all your mind”. And he adds: “You shall love your neighbor as yourself” (vv. 37, 39).
+
+This response of Jesus is not to be taken for granted, because, among the numerous precepts of the Hebrew Law, the most important were the 10 Commandments, communicated directly by God to Moses, as the conditions of the Covenant with the people. But Jesus wants to make it understood that without love for God and for our neighbour there is no true fidelity to this Covenant with the Lord. You may do many good things, fulfil many precepts, many good things, but if you do not have love, this serves no purpose.
+
+It is confirmed by another text in the Book of Exodus, the so-called “Covenant Code”, where it is said that one cannot adhere to the Covenant with the Lord and mistreat those who enjoy his protection. And who are those who enjoy his protection? The Bible says: the widow, the orphan and the stranger, the migrant, that is, the most lonely and defenseless people (cf. Ex 22:20-21). In responding to those Pharisees who question him, Jesus also tries to help them put their religiosity in order, to distinguish what truly matters from what is less important. Jesus says: “On these two commandments depend all the law and the prophets” (Mt. 22:40). They are the most important, and the others depend on these two. And Jesus lived his life precisely in this way: preaching and practising what truly matters and is essential, namely, love. Love gives impulse and fruitfulness to life and to the journey of life: without love, both life and faith remain sterile.
+
+What Jesus proposes in this Gospel passage is a wonderful ideal, which corresponds to our heart’s most authentic desire. Indeed, we were created to love and to be loved. God, who is Love, created us to make us participants in his life, to be loved by him and to love him, and with him, to love all other people. This is God’s “dream” for mankind. And to accomplish it we need his grace; we need to receive within us the capacity to love which comes from God himself. Jesus offers himself to us in the Eucharist for this very reason. In it we receive Jesus in the utmost expression of his love, when he offered himself to the Father for our salvation.
+
+May the Blessed Virgin help us to welcome into our life the “great commandment” of love of God and neighbour. Indeed, if we have experienced it ever since we were children, we will never cease converting ourselves to it and putting it into practice in the various situations in which we find ourselves.
+
+## After the Angelus:
+
+Dear brothers and sisters, yesterday in Caxias do Sul, Brazil, John Schiavo, priest of the Josephites of Murialdo, was proclaimed Blessed. Born in the hills of Vicenza at the start of the 1900s, he was sent as a young priest to Brazil, where he worked zealously at the service of the People of God and in the formation of men and women religious. May his example help us to fully live our bond with Christ and with the Gospel.
+
+I warmly greet all of you, pilgrims from Italy and from other countries, in particular those from Ballygawley, Ireland; Salzburg, Austria; and from the Traunstein and Berchtesgaden region of Germany. I greet those attending the Conference of Italian Secular Institutes, whom I encourage in their witness to the Gospel in the world; and the fidas blood donors’ association from Orta Nova, Foggia. I see there are Colombians there!
+
+I greet the Togolese community in Italy, as well as the Venezuelan community with the image of Our Lady of Chiquinquirá, the “*Chinita*”. Let us entrust to the Virgin Mary the hopes and legitimate expectations of these two Nations!
+
+I wish everyone a happy Sunday. Please, do not forget to pray for me. Enjoy your lunch! *Arrivederci*!

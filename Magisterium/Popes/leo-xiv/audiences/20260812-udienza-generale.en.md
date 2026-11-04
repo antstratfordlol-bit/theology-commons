@@ -1,0 +1,72 @@
+---
+id: leo14-aud-20260812.en
+work: leo14-aud-20260812
+title: "General Audience of 12 August 2026 - Catechesis. The Documents of the Second Vatican Council. III. Constitution Sacrosanctum Concilium. 6. The liturgical year"
+creator: "Leo PP. XIV"
+pope: Leo XIV
+document-type: General audience (catechesis)
+url_date: 2026-08-12
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/leo-xiv/en/audiences/2026/documents/20260812-udienza-generale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt, zh_tw"
+anchors: "{#leo14-aud-20260812} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# General Audience of 12 August 2026 - Catechesis. The Documents of the Second Vatican Council. III. Constitution Sacrosanctum Concilium. 6. The liturgical year {#leo14-aud-20260812}
+LEO XIV
+
+## GENERAL AUDIENCE
+
+*St Peter's Basilica\
+Wednesday, 12 August 2026*
+
+\[[**Multimedia**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/8/12/udienza-generale.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Catechesis. The Documents of the Second Vatican Council. III. Constitution Sacrosanctum Concilium. *6. The liturgical year
+
+*Dear brothers and sisters,*
+
+The fifth chapter of the Conciliar Constitution *[Sacrosanctum Concilium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)* (*SC*) is dedicated to the liturgical year, a theme we would like to look at today, to explain its value in the life of every believer.
+
+First of all, it is important to note that this way of referring to the cycle of Christian feasts as the ‘liturgical year’ became widespread in ecclesiastical language thanks to the work of the Servant of God, Abbot Prosper Guéranger (1805–1875).
+
+In the Encyclical *[Mediator Dei](https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html)*, [Pope Pius XII](https://www.vatican.va/content/pius-xii/en.html) states that it “is not a cold and lifeless representation of the events of the past, or a simple … record of a former age. \[The liturgical year\] is rather Christ Himself who is ever living in His Church. Here He continues that journey of immense mercy which He lovingly began in His mortal life … with the design of bringing men to know His mysteries and in a way live by them. These mysteries are ever present and active” (III Divinum Officium et Annus Liturgicus, II Cyclus Mysteriorum). The liturgical year should thus be understood as a constant renewal of the work of salvation which Christ accomplishes in history. As she journeys through this temporal cycle, the Church remains in contact with the Lord’s redemptive action, so that all the faithful may be filled with His grace (cf. *[SC](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*, 102c).
+
+The encounter with Jesus, who died and rose again for us, is the purpose that the Church always pursues, placing the celebration of the Paschal event at the centre of every moment.
+
+Hence the Council Fathers considered “the foundation and kernel of the whole liturgical year” to be Sunday, “the original feast day” (cf. *[SC](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*, 106). In various modern languages, its name indicates that it is the “*dies Domini*”, “the Lord’s day”. Even in those languages where the reference to the “day of the sun” (*Sunday*, *Sonntag*) has prevailed, the link with Christ can be discerned: Christ is the true “sun of righteousness” who enlightens every person!
+
+[Saint John Paul II](https://www.vatican.va/content/john-paul-ii/en.html), in the Apostolic Letter *[Dies Domini](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1998/documents/hf_jp-ii_apl_05071998_dies-domini.html)* (31 May 1998) teaches that Sunday is the day of the Lord, the day of the Church, the day of man and, finally, the “day of days”. “Since Sunday is the weekly Easter, recalling and making present the day upon which Christ rose from the dead, it is also the day which reveals the meaning of time. … Springing from the Resurrection, it cuts through human time, the months, the years, the centuries, like a directional arrow which points them towards their target: Christ’s Second Coming. Sunday foreshadows the last day, the day of the *Parousia*” (75), when we shall all rise again.
+
+To sanctify Sunday, it is fundamental to celebrate the Eucharist. Listening to the Word and partaking of the Body of Christ entail, according to the Council Fathers, the coming together *in unum* (cf. *[SC](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*, 106), that is, the joyful gathering of the faithful. In this assembly, the Christian community makes visible its communion with the Lord and bears witness to its belonging to Christ and its fidelity to the Church. This assembly cannot be substituted by a solely virtual presence, nor can it be reduced to a merely passive gathering. The liturgical assembly is in fact fulfilled through the active participation of brothers and sisters, called together to “thank God who ‘has begotten them again, through the resurrection of Jesus Christ from the dead, unto a living hope’” (*1 Pet* 1:3) (*[ibid.](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*).
+
+In this regard, I urge everyone to seek the best possible conditions so that even those who are unable to take time off work on Sundays may take part in Holy Mass.
+
+Dear friends, the liturgical year, punctuated by Sundays, has an interesting history, in which the faith and devotion of the Church are interwoven. Indeed, from as early as the second century AD, the celebration of the weekly Easter was joined by that of the annual Easter, the “most solemn festival” (*[SC](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*, 102), extending over the most joyful period of fifty days, culminating in Pentecost, and prepared for by the season of Lent with its penitential character (cf. *[SC](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*, 109). The development of the Christmas cycle, which took place later and was modelled on the Paschal cycle, has made it possible to relive the mysteries of the Incarnation of the Word of God, of His birth and of His manifestation to the world. The Church then incorporated into the various times the veneration of the Blessed Virgin Mary, “joined by an inseparable bond to the saving work of her Son” (*[SC](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*, 103), and “the memory of the martyrs and the other saints” who “sing God’s perfect praise in heaven and offer prayers for us” (*[SC](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*, 104).
+
+The liturgical year thus repeats, in sacramental form, the teaching of the history of salvation, guiding the faithful from the expectation of the Messiah to the fullness of the Paschal Mystery and to the anticipation of future glory. In it, the Church celebrates the salvific relevance of the mystery of Christ, enabling believers to participate in it ever more deeply. For this reason, the liturgical year constitutes the guiding principle and the essential framework for all pastoral action.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Special greetings:
+
+I greet all the English-speaking pilgrims and visitors taking part in today’s Audience, particularly the groups from Malta and Zimbabwe. Upon you and your families, I invoke the joy and peace of our Lord Jesus Christ. God bless you all!
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Summary of Catechesis:
+
+Dear brothers and sisters, in our continuing series of catecheses on the [Second Vatican Council](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm)’s Constitution on the liturgy, *[Sacrosanctum Concilium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*, we reflect today on the liturgical year and its relevance for the faithful. The liturgical year is not a static representation of past events, but an encounter with Christ himself, who desires to immerse his people in the mysteries of the history of salvation. The day on which Christ rose from the dead is the core of the liturgical year, and foreshadows Christ’s second coming, when we will all rise again. For this reason, it is essential for the faithful to sanctify the Lord’s Day by gathering to celebrate the Eucharist. May our active participation and steadfast witness help us to enter ever more deeply into the reality of belonging to Christ, and may we anticipate with hope his coming in glory.

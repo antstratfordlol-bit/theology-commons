@@ -1,0 +1,46 @@
+---
+id: francis-mes-20211230-taize.en
+work: francis-mes-20211230-taize
+title: "Holy Father's Message, signed by the Secretary of State, to the young people taking part in the annual Taizé encounter (30 December 2021)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Message
+url_date: 2021-12-30
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/messages/pont-messages/2021/documents/20211230-messaggio-taize.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, fr, it"
+anchors: "{#francis-mes-20211230-taize} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Holy Father's Message, signed by the Secretary of State, to the young people taking part in the annual Taizé encounter (30 December 2021) {#francis-mes-20211230-taize}
+## MESSAGE OF THE HOLY FATHER FRANCIS TO THE YOUNG PEOPLE TAKING PART IN THE ANNUAL TAIZÉ ENCOUNTER
+
+*Dear friends,*
+
+the pandemic is preventing you, once again, from gathering together at the end of the year for the 44th european Youth Meeting held by the Taizé Community, as planned. You will have to wait until july to go to Turin to live this moment of fraternity with joy. The Holy Father is praying with this intention, but now he is united in thought and prayer with all of you present online, and he sends you his warmest greetings.
+
+Your meeting is taking place at a time of great concern. Many people are asking themselves: does our planet have a future? What responsibilities do we have to assume in order to safeguard it and make the earth habitable? At a time of increasing polarisation, how can we, in accordance with your theme for the coming year, "become artisans of unity"?
+
+Instead of giving in to defeatism and avoiding these questions, you have decided to tackle them head on, to search together, to pray, to listen to the Word of God and let it shed light on the most complex human situations. It is not for nothing that the Book of Acts states that on the day of Pentecost the disciples "were all together" (2:1). It is when we are together that the Spirit of God breathes in a special way. With the current Synod, the Catholic Church is also seeking to make herself more available to the work of the Spirit by inviting Christ's disciples to discover how much we need each other.
+
+You have chosen not to look away from human suffering and the pressing emergencies of the moment, but instead to look at these realities in the confidence that it is given to you to participate in the solutions. For if there is no lack of anxiety, it is no less true that the Spirit of God never ceases to work and to give rise to creators of fraternity, solidarity and unity. By opening yourself to the presence of the risen Christ, by letting him unify your hearts, you are preparing to be among them.
+
+The Holy Father asks the Holy Spirit to bless you, the Young Catholics, Orthodox and Protestants, who are joining the european meeting in thought and prayer, and he entrusts you to the protection of the Vrgin Mary. May you continue to be pilgrims of trust wherever the lord sends you!
+
+Cardinal Pietro Parolin\
+*Secretary of State*
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*[Bulletin of the Holy See Press Office](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2021/12/30/211230.html)*, 30 December 2021

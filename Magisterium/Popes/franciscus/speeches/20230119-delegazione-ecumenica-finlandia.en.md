@@ -1,0 +1,47 @@
+---
+id: francis-spe-20230119-delegazione-ecumenica-finlandia.en
+work: francis-spe-20230119-delegazione-ecumenica-finlandia
+title: "To the Ecumenical Delegation from Finland (19 January 2023)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2023-01-19
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2023/january/documents/20230119-delegazione-ecumenica-finlandia.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20230119-delegazione-ecumenica-finlandia} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Ecumenical Delegation from Finland (19 January 2023) {#francis-spe-20230119-delegazione-ecumenica-finlandia}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO THE ECUMENICAL DELEGATION FROM FINLAND
+
+*Thursday, 19 January 2023*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2023/1/19/delegazione-ecumenica-finlandia.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Dear sisters, dear brothers,
+
+I offer a warm welcome to you, the members of the Ecumenical Delegation of Finland! Thank you, because this year you have come to Rome to celebrate the feast of Saint Henrik with an even greater ecumenical representation: it is with great joy that I welcome not only the Lutheran and Catholic, but also the Orthodox and Methodist members of your delegation. Dear sister, I am grateful for your kind words and your expression of condolences for the death of my predecessor Benedict XVI. I am also appreciative of the evocative image you employed: that of the Baltic Sea, a source of life threatened by human actions, a place of encounter painfully troubled by the climate of confrontation caused by the senseless brutality of war. War is always a defeat.
+
+I would like to take up that image of water, which for us, as Christians, recalls the gift of reconciliation received in baptism. In these days, we have celebrated the Baptism of the Lord. The Son of God, by immersing himself in the waters of the Jordan at the beginning of his public ministry, manifested his willingness to immerse himself completely in our human condition. And we, baptized in Christ, have been immersed in him by pure grace, and so thus we call one another, and truly are, children of God, in Christ’s image, brothers and sisters of one other.  Having received the one baptism, we, as believers, are called above all to give thanks because, starting with the waters of baptism, our very existence has been reconciled with God, with others, and with all creation.  As reconciled sons and daughters, we are called to work tirelessly for reconciliation among ourselves, and to be agents of reconciliation in our world.
+
+It is good to keep these things in mind during the Week of Prayer for Christian Unity, when, in reciting together the Nicene-Constantinopolitan Creed, we profess “one baptism for the forgiveness of sins”. This year, we also reflect on the words of the prophet Isaiah:  “Do good; seek justice” (*Is* 1:17). In those words, we hear an echo of our baptism, which calls us, justified by grace, to carry out works of justice and to offer concrete gestures of closeness to the victims of injustice, marginalization and various forms of oppression, especially war. As witnesses of faith in Christ, who immersed himself in the frailty of our human condition, we are duty bound to immerse ourselves in the wounds of all those in need. And to do this together.
+
+In the community of all the baptized, we know that we are indeed united among ourselves, here and now, with every one of our sisters and brothers in Christ, but also with our mothers and fathers in the faith, who lived before us. From the perfect communion of heaven, they look down upon us and encourage us to walk together on this earth. Saint Henrik, witness of faith, messenger of hope and instrument of charity, is one of them. With him, we celebrate the ecumenical communion of all the saints, known and unknown, who were born to new life in the waters of baptism. We can thus contemplate both the primordial grace of our baptism and the goal of eternal life; both the wellspring of life that here on earth has made us children of heaven and heaven itself, where the saints await and encourage us. In all things, let us recognize how great is the unity we share, and how important it is to pray with one another, to work diligently and dialogue intensively to overcome our divisions, and to be one, in accordance with the Lord’s will, so that the world may believe (cf. *Jn* 17:21).
+
+We are certainly aware of this, but awareness alone is not enough.  We need to nourish a genuine passion, a passion that springs from love for communion, from the desire to overcome the counter-witness given by the historical divisions among Christians that have so greatly harmed the unity of the Body of Christ. We need, today above all, an ardent zeal for evangelization. For in proclaiming the Gospel together, we come to appreciate that we are brothers and sisters, and we realize that we cannot worthily spread the name of Jesus, who was born, died and rose again for all, without bearing witness to the beauty of unity, the hallmark of Christ’s disciples.
+
+Dear brothers and sisters, in expressing once more my gratitude for this annual visit, always eagerly anticipated and appreciated, I would like to join you in imploring the gift of that ardent passion. May we never tire of loving and, in hope, seeking those who are far off; may we nurture a deep and ardent desire to proclaim Jesus and to build up the unity that he so desires. Let us ask for the gift of renewed apostolic zeal, that we may come to see other believers as our brothers and sisters in Christ, that we may be apostles reconciled to God through reconciliation with one another, and thus agents of reconciliation for our world. I would now invite you to pray together the Lord’s Prayer, the prayer of God’s children, which, more than any other prayer, manifests the reality of our baptism. Each of us can pray it in his or her own language, but all together: with one another and for one another.

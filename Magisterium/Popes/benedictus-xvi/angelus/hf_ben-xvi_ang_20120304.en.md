@@ -1,0 +1,52 @@
+---
+id: b16-ang-20120304.en
+work: b16-ang-20120304
+title: "Angelus, 4 March 2012"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2012-03-04
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2012/documents/hf_ben-xvi_ang_20120304.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20120304} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 4 March 2012 {#b16-ang-20120304}
+BENEDICT XVI
+
+## ANGELUS
+
+*St. Peter's Square*\
+*Sunday, 4 March 2012*
+
+## \[[Video](https://www.youtube.com/watch?v=alrEpUtw_cs&list=PLC9tK3J1RlaZGkT-qS3F021VSzUv-YuwO&index=52&ab_channel=TheVatican-Archive){target="_blank"}\]
+
+*Dear Brothers and Sisters*,
+
+This Sunday, the Second Sunday of Lent, is known as the Transfiguration of Christ. Indeed in the Lenten itinerary, having invited us to follow Jesus into the wilderness to face and overcome the temptations with him, the Liturgy now proposes that we climb the “mountain” of prayer with him to contemplate God’s glorious radiance on his human face. The episode of the Transfiguration of Christ is unanimously attested by the Evangelists Matthew, Mark and Luke. There are two essential elements: first of all, Jesus leads the disciples Peter, James and John up a high mountain and there “he was transfigured before them” (Mk 9:2) and his face and his garments shone with dazzling light while Moses and Elijah appeared beside him; the second, a cloud overshadowed the mountain peak and from it came a voice saying: “This is my beloved Son; listen to him” (Mk 9:7). Thus, light and the voice: the divine radiance on Jesus’ face, and the voice of the heavenly Father that witnesses to him and commands that he be listened to.
+
+The mystery of the Transfiguration must not be separated from the context of the path Jesus is following. He is now decisively oriented to fulfilling his mission, knowing all too well that to arrive at the Resurrection he must pass through the Passion and death on the Cross. He had spoken openly of this to his disciples; but they did not understand, on the contrary they rejected this prospect because they were not reasoning in accordance with God, but in accordance with men (cf. Mt 16:23).
+
+It is for this reason that Jesus takes three of them with him up the mountain and reveals his divine glory, the splendour of Truth and of Love. Jesus wants this light to illuminate their hearts when they pass through the thick darkness of his Passion and death, when the folly of the Cross becomes unbearable to them. God is light, and Jesus wishes to give his closest friends the experience of this light which dwells within him.
+
+After this event, therefore, he will be an inner light within them that can protect them from any assault of darkness. Even on the darkest of nights, Jesus is the lamp that never goes out. St Augustine sums up this mystery in beautiful words, he says: “what this sun is to the eyes of the flesh, that is \[Christ\] to the eyes of the heart” (*Sermones 78,* 2: *PL* 38, 490).
+
+Dear brothers and sisters, we all need inner light to overcome the trials of life. This light comes from God and it is Christ who gives it to us, the One in whom the fullness of deity dwells (cf. Col 2:9). Let us climb with Jesus the mountain of prayer and, contemplating his face full of love and truth, let us allow ourselves to be filled with his light. Let us ask the Virgin Mary, our guide on the journey of faith, to help us to live out this experience in the season of Lent, finding every day a few moments for silent prayer and for listening to the Word of God.
+
+## After the Angelus:
+
+I greet all the English-speaking pilgrims and visitors present at this Angelus prayer, especially students from the United States of America. In today’s Gospel, Jesus is transfigured, and shows his disciples that his Passion will lead to the Resurrection. By God’s grace, may our Lenten observance lead to a renewal of his radiance within us. Upon you and your loved ones, I invoke God’s abundant blessings!
+
+I wish you all a good Sunday and a good week. Thank you for coming. Have a good Sunday!

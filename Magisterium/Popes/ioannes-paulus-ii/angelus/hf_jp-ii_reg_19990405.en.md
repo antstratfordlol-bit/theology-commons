@@ -1,0 +1,60 @@
+---
+id: jp2-ang-19990405.en
+work: jp2-ang-19990405
+title: "Regina Coeli, 5 April 1999"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Angelus / Regina Caeli
+url_date: 1999-04-05
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/angelus/1999/documents/hf_jp-ii_reg_19990405.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-ang-19990405.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-ang-19990405.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Regina Coeli, 5 April 1999
+JOHN PAUL II
+
+## REGINA CAELI
+
+*Castel Gandolfo\
+Easter Monday, 5 April 1999*
+
+### 1 {#jp2-ang-19990405.1}
+
+The proclamation *"Christ my hope is arisen!"* (*Sequence*) continues to echo in today's liturgy. In this way the spiritual joy of Easter is prolonged and expands in the Church and in the hearts of the faithful.
+
+Christ's Resurrection is the most overwhelming event in human history. This event gave everyone new hope: from now on hope no longer means waiting for something to happen. It means being certain that something has happened because "*the Lord is risen and reigns immortal!*".
+
+The words that proclaimed the Resurrection were spoken for the first time by an angel beside Christ's empty tomb. To the women who had gone to the tomb at dawn on the day after the sabbath he said: "*He is not here, for he is risen*" (Mt 28:6). And "with great joy \[they\] ran" (Mt 28:8) to tell his disciples. For the fearful and discouraged disciples, the heavenly messenger's announcement, made more evident by the appearances of the Risen One, was confirmation of what the Lord had foretold. Comforted by this certainty and filled with the Holy Spirit, they then set out on the paths of the world to ring out the joyful Easter proclamation.
+
+### 2 {#jp2-ang-19990405.2}
+
+Dear brothers and sisters, on this "*Monday of the Angel*" the liturgy invites us to listen again to the angel's words which tell us of that day's great event. In them lies the living heart of Christianity. They are an indication of the mystery which explains everything. After the rites of Holy Week, our eyes now behold Christ risen. We too are called to a personal encounter with him and to become his heralds and witnesses, like the women and the disciples.
+
+"*Christ my hope is arisen!*", we repeat today, asking him for the courage of fidelity and perseverance in doing good. Above all, let us ask for peace, a gift won for us by his Death and Resurrection. Let us pray that the precious gift of peace will be given especially to our brethren in Kosovo, where the Easter bells did not ring a festive peal and, unfortunately, the war continues with destruction, deportation and death.
+
+### 3 {#jp2-ang-19990405.3}
+
+Let us entrust our heartfelt petition to Mary. "Queen of heaven, you who rejoice because the Son you were chosen to bear has risen", obtain comfort and support for the refugees and for those who are suffering because of the war. Obtain serenity and peace for the whole world.
+
+*After praying the Regina Caeli the Holy Father said:*
+
+I cordially greet the residents of Castel Gandolfo, who always welcome me with great kindness, and all who have gathered here today for peaceful relaxation.
+
+However, we cannot forget those who instead are experiencing moments of great suffering. I am thinking affectionately of the great number of refugees from Kosovo, who find themselves in a tragic situation.
+
+I warmly thank those who are generously trying to help them. I express my particular appreciation of Italy's efforts in Albania, besides in its national territory, in a vast and generous aid operation called the "Rainbow Mission". I encourage public and private institutions, volunteer organizations and individual citizens to intensify their efforts to meet the needs of these brothers and sisters of ours who are so harshly tried.
+
+The Immaculate will triumph. Happy Easter Monday!

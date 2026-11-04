@@ -1,0 +1,62 @@
+---
+id: b16-ang-20110814.en
+work: b16-ang-20110814
+title: "Angelus, 14 August 2011"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2011-08-14
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2011/documents/hf_ben-xvi_ang_20110814.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20110814} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 14 August 2011 {#b16-ang-20110814}
+BENEDICT XVI
+
+## ANGELUS
+
+*Courtyard of the Papal Summer Residence, Castel Gandolfo\
+Sunday, 14 August 2011*
+
+## ([Video](https://www.youtube.com/watch?v=YWfszdk2qUo&list=PLC9tK3J1RlaZGkT-qS3F021VSzUv-YuwO&index=83&ab_channel=TheVatican-Archive){target="_blank"})
+
+*Dear Brothers and Sisters,*
+
+This Sunday’s Gospel passage begins by indicating the district to which Jesus was going: Tyre and Sidon, to the north-west of Galilee, a pagan land. And it was here that he met a Canaanite woman who spoke to him, asking him to heal her daughter who was possessed by a demon (cf. Mt 15:22).
+
+In her supplication we can already discern the beginning of a journey of faith, which in her conversation with the divine Teacher grows and becomes stronger.
+
+The woman was not afraid to cry to Jesus “Have mercy on me”, an expression that recurs in the Psalms (cf. 50:1), she calls him “Lord” and “Son of David” (cf. Mt 15:22), thus showing a firm hope of being heard. What was the Lord’s attitude to this cry of anguish from a pagan woman?
+
+Jesus’ silence may seem disconcerting, to the point that it prompted the disciples to intervene, but it was not a question of insensitivity to this woman’s sorrow. St Augustine rightly commented: “Christ showed himself indifferent to her, not in order to refuse her his mercy but rather to inflame her desire for it” (*Sermo* 77, 1: PL 38, 483).
+
+The apparent aloofness of Jesus who said: “I was sent only to the lost sheep of the house of Israel” (v. 24), did not discourage the Canaanite woman who persisted: “Lord, help me” (v. 25). And she did not even desist when she received an answer that would seem to have extinguished any hope: “it is not fair to take the children’s bread and throw it to the dogs” (v. 26). She had no wish to take anything from anyone; in her simplicity and humility a little was enough for her, crumbs sufficed, no more than a look, a kind word from the Son of God. And Jesus was struck with admiration for an answer of such great faith and said to her: “Be it done for you as you desire” (v. 28).
+
+Dear friends, we too are called to grow in faith, to open ourselves in order to welcome God’s gift freely, to have trust and also to cry to Jesus “give us faith, help us to find the way!”. This is the way that Jesus made his disciples take, as well as the Canaanite woman and men and women of every epoch and nation and each one of us.
+
+Faith opens us to knowing and welcoming the real identity of Jesus, his newness and oneness, his word, as a source of life, in order to live a personal relationship with him. Knowledge of the faith grows, it grows with the desire to find the way and in the end it is a gift of God who does not reveal himself to us as an abstract thing without a face or a name, because faith responds to a Person who wants to enter into a relationship of deep love with us and to involve our whole life.
+
+For this reason our heart must undergo the experience of conversion every day, every day it must see us changing from people withdrawn into themselves to people who are open to God’s action, spiritual people (cf. 1 Cor 2:13-14), who let themselves be called into question by the Lord’s word and open their life to his Love.
+
+Dear brothers and sisters, let us therefore nourish our faith every day with deep attention to the word of God, with the celebration of the Sacraments, with personal prayer as a “cry” to him, and with charity to our neighbour.
+
+Let us invoke the intercession of the Virgin Mary, whom we shall contemplate tomorrow in her glorious Assumption into Heaven in body and soul, so that she may help us proclaim and witness with our lives to the joy of having encountered the Lord.
+
+## After the Angelus:
+
+I greet the English-speaking visitors gathered for this Angelus prayer. Today, our thoughts turn to the young people now gathering in Madrid for [World Youth Day](https://www.vatican.va/content/benedict-xvi/en/travels/2011/index_madrid.html). As I prepare to join them, I ask you to accompany us with your prayers for the spiritual fruitfulness of this important event. May God bless all of you abundantly!
+
+I wish everyone a good Sunday, a good week and a good feast day tomorrow!

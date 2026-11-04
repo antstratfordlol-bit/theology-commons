@@ -1,0 +1,58 @@
+---
+id: jp2-spe-19971020-teresa-lisieux.en
+work: jp2-spe-19971020-teresa-lisieux
+title: "To the pilgrims gathered in Rome for the proclamation of St Theresa of the Child Jesus and the Holy Face as 'Doctor of the Church' (October 20, 1997)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1997-10-20
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1997/october/documents/hf_jp-ii_spe_19971020_teresa-lisieux.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#jp2-spe-19971020-teresa-lisieux.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-spe-19971020-teresa-lisieux.es"
+anchor_check: "MISMATCH: en: 5 anchors to 5; es: 6 anchors to 6"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the pilgrims gathered in Rome for the proclamation of St Theresa of the Child Jesus and the Holy Face as "Doctor of the Church" (October 20, 1997)
+***ADDRESS OF THE HOLY FATHER POPE JOHN PAUL II TO PILGRIMS IN ROME FOR THE PROCLAMATION OF SAINT THÉRÈSE OF THE CHILD JESUS AND THE HOLY FACE AS A DOCTOR OF THE UNIVERSAL CHURCH***
+
+*Monday, 20 October 1997*
+
+*Dear Brothers in the Episcopate,\
+Dear Friends*,
+
+### 1 {#jp2-spe-19971020-teresa-lisieux.1}
+
+Yesterday gave you an opportunity to take part in a ceremony rare in the Church's life but richly meaningful: the proclamation of a doctor of the Church. I cordially greet each of the pilgrims who are here this morning, especially Bishop Pierre Pican of Bayeux and Lisieux, Bishop Guy Gaucher, his Auxiliary, and Archbishop Georges Gilson of Sens, Prelate of the *Mission de France.* You have wished to come and learn from her who embodies for us the "little way", the royal way of Love. St Thérèse of the Child Jesus and the Holy Face belongs to that group of saints whom the Church recognizes as teachers of the spiritual life. She teaches as a doctor, for although her writings were not of the same nature as those of theologians, for each of us they are a powerful help in understanding the faith and the Christian life.
+
+### 2 {#jp2-spe-19971020-teresa-lisieux.2}
+
+I turn to the representatives of the Order of Carmel and warmly greet them, because this proclamation of St Thérèse of Lisieux as a doctor is a special celebration for them. I cordially greet all the consecrated persons and members of spiritual movements who place themselves under the patronage of St Thérèse of Lisieux. I encourage you to stay faithful to the message she gives to the Church: she gives it through you, living witnesses to her teaching. Be eager to listen constantly to her message and to spread it among those around you by your word and example.
+
+### 3 {#jp2-spe-19971020-teresa-lisieux.3}
+
+For our time Thérèse is a powerful and accessible witness of an experience of faith in God, the faithful and merciful God, who is just by his very Love. She lived deeply her membership in the Church, the Body of Christ. I think that young people really find in her an inspiration to guide them in the faith and in ecclesial life, at a time when their way can be crossed by trials and doubts. Thérèse experienced all kinds of trials, but it was granted to her to remain faithful and trusting; she bears witness to that fact. She supports her brothers and sisters on all the paths of the world.
+
+### 4 {#jp2-spe-19971020-teresa-lisieux.4}
+
+Thérèse, in her simplicity, is the model of a life offered to the Lord even in its smallest details. In fact she wrote: "I want to sanctify my heartbeats, my thoughts, my simplest actions, uniting them to his infinite merits" (*Prayer* n. 10). And it was in this same spirit that she one day addressed her Lord and Master, saying: "I beg you to be yourself my sanctity" (*Act of Oblation to Merciful Love; Prayer* n. 6).
+
+From union with Christ come the fruits of love that we must also allow to mature within us. Thérèse had well understood that the origin of a love open to others is found precisely here: "When I am charitable, it is Jesus alone who is acting in me, and the more I am united to him, the more also do I love my sisters" (*Ms C,* 12vº). In the difficulties which necessarily occur in daily life, she never demanded her rights, but was ever ready to yield to her sisters, even at great interior cost. This is an attitude which, in every era of the Church's life, must be imitated by the baptized of whatever age or state. Only the virtue of humility, which Thérèse insistently asked of Christ, makes true concern for others possible.
+
+### 5 {#jp2-spe-19971020-teresa-lisieux.5}
+
+United to Christ and devoted to others, Thérèse felt a natural inclination to extend her love to the whole world. My Precedessor, Pope Pius XI, highlighted this aspect of her spiritual doctrine when he proclaimed her "patroness of the missions" in 1927. Based on the love that united her to Christ, she began to identify herself with the Beloved in the Song of Songs: "Draw me after you" (Sg 1:4). She later understood that through her the Lord was attracting a multitude of people, since her soul had an immense love for them. "All the souls whom she loves follow in her train" (*Ms C*, 34rº). With marvellous daring and spiritual sensitivity Thérèse made her own the words of Jesus at the Last Supper, saying that she too belonged to the great movement by which the Lord draws all men and leads them to the Father: "Your words, O Jesus, are mine, then, and I can make use of them to draw upon the souls united to me the favours of the heavenly Father" (*Ms C,* 34vº).
+
+Dear brothers and sisters, dear friends, it is up to you daily to live this doctrine which is now publicly offered to the whole Church. You will be eager to make it your own, to make it better known. Like Holy Scripture — which Thérèse loved to quote — it is never so difficult as to be repelling, and never so easy as to be exhausted: "It is not so deterring as to become discouraging, nor so accessible as to become banal. The more familiar one is with it, the less one tires of it; the more one meditates on it, the more one loves it" (St Gregory the Great, *Moralia in Job,* XX, 1, 1).
+
+As I wish you the many discoveries and joys to be found in the school of St Thérèse of the Child Jesus and the Holy Face, doctor of the universal Church, I cordially impart my Apostolic Blessing to you and extend it to everyone you represent and who is with you in spirit.

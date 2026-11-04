@@ -1,0 +1,54 @@
+---
+id: b16-spe-20120602-duomo-milano.es
+work: b16-spe-20120602-duomo-milano
+title: "Visita pastoral a la Archidiócesis de Milán: Celebración de la Hora Media en el Duomo de Milán (2 de junio de 2012)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2012-06-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2012/june/documents/hf_ben-xvi_spe_20120602_duomo-milano.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20120602-duomo-milano} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Visita pastoral a la Archidiócesis de Milán: Celebración de la Hora Media en el Duomo de Milán (2 de junio de 2012) {#b16-spe-20120602-duomo-milano}
+[VISITA PASTORAL A LA ARCHIDIÓCESIS DE MILÁN\
+Y VII ENCUENTRO MUNDIAL DE LAS FAMILIAS\
+(1-3 DE JUNIO DE 2012)](https://www.vatican.va/content/benedict-xvi/es/travels/2012/inside/documents/milano.html)
+
+## CELEBRACIÓN DE LA HORA MEDIA CON SACERDOTES, RELIGIOSOS, CONSAGRADOS Y SEMINARISTAS
+
+## HOMILÍA DEL SANTO PADRE BENEDICTO XVI
+
+Duomo de Milán\
+Sábado 2 de junio de 2012*
+
+*Queridos hermanos y hermanas:*
+
+Nos hemos reunido en oración, respondiendo a la invitación del himno ambrosiano de la Hora Tercia: «Es la hora tercia. Jesús, el Señor, sube injuriado a la cruz». Es una clara referencia a la obediencia amorosa de Jesús a la voluntad del Padre. El misterio pascual ha dado inicio a un tiempo nuevo: la muerte y resurrección de Cristo recrea la inocencia en la humanidad y suscita en ella la alegría. De hecho, el himno prosigue: «Aquí comienza la época de la salvación de Cristo», «*Hinc iam beata tempora coepere Christi gratia*». Nos hemos reunido en la basílica catedral, en este Duomo, que es verdaderamente el corazón de Milán. Desde aquí el pensamiento se extiende a la vastísima archidiócesis ambrosiana, que a lo largo de los siglos y también en tiempos recientes ha dado a la Iglesia hombres insignes por su santidad de vida y por su ministerio, como san Ambrosio y san Carlos, y algunos Pontífices de talla poco común, como [Pío XI](https://www.vatican.va/content/pius-xi/es.html) y el siervo de Dios [Pablo VI](https://www.vatican.va/content/paul-vi/es.html), y los beatos cardenales Andrea Carlo Ferrari y Alfredo Ildefonso Schuster.
+
+Me alegra mucho estar un poco con vosotros. Saludo con afecto a todos, y a cada uno en particular, y extiendo mi saludo de modo especial a los que están enfermos o son muy ancianos. Saludo con viva cordialidad a vuestro arzobispo, el cardenal Angelo Scola, y le agradezco sus amables palabras; saludo con afecto a vuestros pastores eméritos, los cardenales Carlo Maria Martini y Dionigi Tettamanzi, con los demás cardenales y obispos presentes.
+
+En este momento vivimos el misterio de la Iglesia en su expresión más alta, la de la oración litúrgica. Nuestros labios, nuestro corazón y nuestra mente, en la oración eclesial se hacen intérpretes de las necesidades y de los anhelos de toda la humanidad. Con las palabras del Salmo 118 hemos suplicado al Señor en nombre de todos los hombres: «Inclina mi corazón a tus preceptos… Señor, que me alcance tu favor» (vv. 36.41). La oración diaria de la Liturgia de las Horas constituye una tarea esencial del ministerio ordenado en la Iglesia. También a través del Oficio divino, que prolonga a lo largo de la jornada el misterio central de la Eucaristía, los presbíteros están unidos de modo especial al Señor Jesús, vivo y operante en el tiempo. ¡El sacerdocio es un don precioso! Vosotros, queridos seminaristas que os preparáis para recibirlo, aprended a gustarlo desde ahora y vivid con empeño el valioso tiempo en el seminario. El arzobispo Montini, durante las ordenaciones de 1958 dijo precisamente en esta catedral: «Comienza la vida sacerdotal: un poema, un drama, un misterio nuevo…, fuente de perpetua meditación…, siempre objeto de descubrimiento y de maravilla; \[el sacerdocio\] —dijo— siempre es novedad y belleza para quien le dedica un pensamiento amoroso…, es reconocimiento de la obra de Dios en nosotros» (*Homilía en la ceremonia de ordenación de 46 sacerdotes,* 21 de junio de 1958).
+
+Si Cristo, para edificar su Iglesia, se entrega en las manos del sacerdote, este a su vez se debe abandonar a él sin reservas: el amor al Señor Jesús es el alma y la razón del ministerio sacerdotal, como fue premisa para que él asignara a Pedro la misión de apacentar su rebaño: «Simón…, ¿me amas más que estos?… Apacienta mis corderos (*Jn* 21, 15)». El concilio Vaticano II recordó que Cristo «es siempre el principio y fuente de la unidad de su vida. Los presbíteros, por tanto, conseguirán la unidad de su vida uniéndose a Cristo en el conocimiento de la voluntad del Padre y en la entrega de sí mismos a favor del rebaño a ellos confiado. Así, realizando la misión del buen Pastor, encontrarán en el ejercicio mismo de la caridad pastoral el vínculo de la perfección sacerdotal que una su vida con su acción» (*[Presbyterorum ordinis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_sp.html),* 14). Precisamente sobre esta cuestión afirmó: en las diversas ocupaciones, de hora en hora, la unidad de la vida, la unidad del ser sacerdote se encuentra precisamente en esta fuente de la amistad profunda de con Jesús, en estar interiormente junto con él. Y no hay oposición entre el bien de la persona del sacerdote y su misión; más aún, la caridad pastoral es elemento unificador de vida que parte de una relación cada vez más íntima con Cristo en la oración para vivir la entrega total de sí mismos en favor del rebaño, de modo que el pueblo de Dios crezca en la comunión con Dios y sea manifestación de la comunión de la Santísima Trinidad. De hecho, cada una de nuestras acciones tiene como finalidad llevar a los fieles a la unión con el Señor y hacer crecer así la comunión eclesial para la salvación del mundo. Las tres cosas: unión personal con Dios, bien de la Iglesia y bien de la humanidad en su totalidad no son cosas distintas u opuestas, sino una sinfonía de la fe vivida.
+
+El celibato sacerdotal y la virginidad consagrada son signo luminoso de esta caridad pastoral y de un corazón indiviso. En el himno de san Ambrosio hemos cantado: «Si en ti nace el Hijo de Dios, conservas la vida inocente». «Acoger a Cristo» —«*Christum suscipere*»— es un tema que vuelve a menudo en la predicación del santo obispo de Milán; cito un pasaje de su Comentario a san Lucas: «Quien acoge a Cristo en la intimidad de su casa se sacia con las alegrías más grandes» (*Expos. Evangelii sec. Lucam,* v. 16). El Señor Jesús fue su gran atractivo, el tema principal de su reflexión y de su predicación, y sobre todo el término de un amor vivo e íntimo. Sin duda, el amor a Jesús vale para todos los cristianos, pero adquiere un significado singular para el sacerdote célibe y para quien ha respondido a la vocación a la vida consagrada: sólo y siempre en Cristo se encuentra la fuente y el modelo para repetir a diario el «sí» a la voluntad de Dios. «¿Qué lazos tenía Cristo?», se preguntaba san Ambrosio, que con intensidad sorprendente predicó y cultivó la virginidad en la Iglesia, promoviendo también la dignidad de la mujer. A esa pregunta respondía: «No tiene lazos de cuerda, sino vínculos de amor y afecto del alma» (*De virginitate,* 13, 77). Y, precisamente en un célebre sermón a las vírgenes, dijo: «Cristo es todo para nosotros. Si tú quieres curar tus heridas, él es médico; si estás ardiendo de fiebre, él es fuente refrescante; si estás oprimido por la iniquidad, él es justicia; si tienes necesidad de ayuda, él es vigor; si temes la muerte, él es la vida; si deseas el cielo, él es el camino; si huyes de las tinieblas, él es la luz; si buscas comida, él es alimento» (*ib.*, 16, 99).
+
+Queridos hermanos y hermanas consagrados, os agradezco vuestro testimonio y os aliento: mirad al futuro con confianza, contando con la fidelidad de Dios, que no nos faltará nunca, y el poder de su gracia, capaz de realizar siempre nuevas maravillas, también en nosotros y con nosotros. Las antífonas de la salmodia de este sábado nos han llevado a contemplar el misterio de la Virgen María. De hecho, en ella podemos reconocer el «tipo de vida en pobreza y virginidad que eligió para sí mismo Cristo el Señor y que también abrazó su madre, la Virgen» (*[Lumen gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html),* 46), una vida en plena obediencia a la voluntad de Dios.
+
+El himno nos ha recordado también las palabras de Jesús en la cruz: «Desde la gloria de su patíbulo, Jesús habla a la Virgen: “Mujer, he ahí a tu hijo”; “Juan, he ahí a tu madre”». María, Madre de Cristo, extiende y prolonga también en nosotros su divina maternidad, para que el ministerio de la Palabra y de los sacramentos, la vida de contemplación y la actividad apostólica en las múltiples formas perseveren, sin cansancio y con valentía, al servicio de Dios y para la edificación de su Iglesia.
+
+En este momento quiero dar gracias a Dios por los numerosos sacerdotes ambrosianos, religiosos y religiosas que han gastado sus energías al servicio del Evangelio, llegando incluso al sacrificio supremo de la vida. Algunos de ellos han sido propuestos al culto y a la imitación de los fieles también en tiempos recientes: los beatos sacerdotes Luigi Talamoni, Luigi Biraghi, Luigi Monza, Carlo Gnocchi, Serafino Morazzone; los beatos religiosos Giovanni Mazzucconi, Luigi Monti y Clemente Vismara, y las religiosas Maria Anna Sala y Enrichetta Alfieri. Por su común intercesión pidamos con confianza al Dador de todo don que haga siempre fecundo el ministerio de los sacerdotes, que refuerce el testimonio de las personas consagradas, para mostrar al mundo la belleza de la entrega a Cristo y a la Iglesia; y que renueve a las familias cristianas según el designio de Dios, para que sean espacios de gracia y de santidad, terreno fértil para las vocaciones al sacerdocio y a la vida consagrada. Amén. Gracias.

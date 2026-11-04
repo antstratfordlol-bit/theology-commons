@@ -1,0 +1,62 @@
+---
+id: b16-let-20060515-50-haurietis-aquas.es
+work: b16-let-20060515-50-haurietis-aquas
+title: "Carta al Prepósito general de la Compañía de Jesús con motivo del 50° aniversario de la encíclica Haurietis Aquas (15 de mayo de 2006)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Letter
+url_date: 2006-05-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/letters/2006/documents/hf_ben-xvi_let_20060515_50-haurietis-aquas.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-let-20060515-50-haurietis-aquas} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Carta al Prepósito general de la Compañía de Jesús con motivo del 50° aniversario de la encíclica Haurietis Aquas (15 de mayo de 2006) {#b16-let-20060515-50-haurietis-aquas}
+## CARTA DE SU SANTIDAD BENEDICTO XVI AL PREPÓSITO GENERAL DE LA COMPAÑÍA DE JESÚS CON MOTIVO DEL 50° ANIVERSARIO DE LA ENCÍCLICA HAURIETIS AQUAS
+
+*Al reverendísimo padre\
+PETER-HANS KOLVENBACH\
+Prepósito general\
+de la Compañía de Jesús*
+
+Las palabras del profeta Isaías, "sacaréis agua con gozo de las fuentes de la salvación" (*Is* 12, 3), con las que comienza la encíclica con la que Pío XII recordaba el primer centenario de la extensión a toda la Iglesia de la fiesta del Sagrado Corazón de Jesús, no han perdido nada de su significado hoy, cincuenta años después. La encíclica *[Haurietis aquas](http://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)*, al promover el culto al Corazón de Jesús, exhortaba a los creyentes a abrirse al misterio de Dios y de su amor, dejándose transformar por él. Cincuenta años después, sigue siendo siempre actual la tarea de los cristianos de continuar profundizando en su relación con el Corazón de Jesús para reavivar en sí mismos la fe en el amor salvífico de Dios, acogiéndolo cada vez mejor en su vida.
+
+El costado traspasado del Redentor es la fuente a la que nos invita a acudir la encíclica *[Haurietis aquas](http://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)*:  debemos recurrir a esta fuente para alcanzar el verdadero conocimiento de Jesucristo y experimentar más a fondo su amor. Así podremos comprender mejor lo que significa *conocer* en Jesucristo el amor de Dios, *experimentarlo* teniendo puesta nuestra mirada en él, hasta *vivir* completamente de la experiencia de su amor, para poderlo *testimoniar* después a los demás.
+
+En efecto, como escribió mi venerado predecesor Juan Pablo II, "junto al Corazón de Cristo, el corazón del hombre aprende a conocer el sentido verdadero y único de su vida y de su destino, a comprender el valor de una vida auténticamente cristiana, a evitar ciertas perversiones del corazón humano, a unir el amor filial hacia Dios con el amor al prójimo. Así —y esta es la verdadera reparación pedida por el Corazón del Salvador— sobre las ruinas acumuladas por el odio y la violencia, se podrá construir la civilización del  Corazón de Cristo" (*[Carta de Juan Pablo II al prepósito general de la Compañía de Jesús](http://www.vatican.va/content/john-paul-ii/es/letters/1986/documents/hf_jp-ii_let_19861005_preposito-francia.html),* 5 de octubre de 1986:  *L'Osservatore Romano,* edición en lengua española, 19 de octubre de 1986, p. 4).
+
+En la encíclica *[Deus caritas est](http://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)* cité la afirmación de la primera carta de san Juan:  "Nosotros hemos conocido el amor que Dios nos tiene y hemos creído en él", para subrayar que en el origen del ser cristianos está el encuentro con una Persona (cf. n. 1). Dado que Dios se manifestó del modo más profundo a través de la encarnación de su Hijo, haciéndose "visible" en él, es en la relación con Cristo donde podemos reconocer quién es verdaderamente Dios (cf. *[Haurietis aquas](http://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)*, 29-41; *[Deus caritas est](http://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)*, 12-15). Más aún, dado que el amor de Dios encontró su expresión más profunda en la entrega que Cristo hizo de su vida por nosotros en la cruz, es sobre todo al contemplar su sufrimiento y su muerte como podemos reconocer de manera cada vez más clara el amor sin límites que Dios nos tiene:  "Tanto amó Dios al mundo que dio a su Hijo único, para que todo el que crea en él no perezca, sino que tenga vida eterna" (*Jn* 3, 16).
+
+Por lo demás, este misterio del amor que Dios nos tiene no sólo constituye el contenido del culto y de la devoción al Corazón de Jesús:  es, al mismo tiempo, el contenido de toda verdadera espiritualidad y devoción cristiana. Por tanto, es importante subrayar que el fundamento de esta devoción es tan antiguo como el cristianismo. En efecto, sólo se puede ser cristiano dirigiendo la mirada a la cruz de nuestro Redentor, "al que traspasaron" (*Jn* 19, 37; cf. *Zc* 12, 10). La encíclica *[Haurietis aquas](http://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)* recuerda, con razón, que la herida del costado y las de los clavos han sido para innumerables almas los signos de un amor que ha transformado cada vez más eficazmente su vida (cf. n. 52). Reconocer el amor de Dios en el Crucificado se ha convertido para ellas en una experiencia interior que les ha llevado a confesar, como santo Tomás:  "¡Señor mío y Dios mío!" (*Jn* 20, 28), permitiéndoles alcanzar una fe más profunda acogiendo sin reservas el amor de Dios (cf. *[Haurietis aquas](http://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)*, 49).
+
+El significado más profundo de este culto al amor de Dios sólo se manifiesta cuando se considera más atentamente su contribución no sólo al conocimiento sino también, y sobre todo, a la experiencia personal de ese amor en la entrega confiada a su servicio (cf. *ib.*, 62). Obviamente, experiencia y conocimiento no pueden separarse:  están íntimamente relacionados. Por lo demás, conviene destacar que un auténtico conocimiento del amor de Dios sólo es posible en el contexto de una actitud de oración humilde y de generosa disponibilidad. Partiendo de esta actitud interior, la mirada puesta en el costado traspasado por la lanza se transforma en silenciosa adoración. La mirada puesta en el costado traspasado del Señor, del que brotan "sangre y agua" (cf. *Jn* 19, 34), nos ayuda a reconocer la multitud de dones de gracia que de allí proceden (cf. *[Haurietis aquas](http://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)*, 34-41) y nos abre a todas las demás formas de devoción cristiana que están comprendidas en el culto al Corazón de Jesús.
+
+La fe, entendida como fruto de la experiencia del amor de Dios, es una gracia, un don de Dios. Pero el hombre sólo podrá experimentar la fe como una gracia en la medida en la que la acepta dentro de sí como un don, del que trata de vivir. El culto del amor de Dios, al que la encíclica *[Haurietis aquas](http://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)* (cf. n. 72) invitaba a los fieles, debe ayudarnos a recordar incesantemente que él cargó con este sufrimiento voluntariamente "por nosotros", "por mí". Cuando practicamos este culto, no sólo reconocemos con gratitud el amor de Dios, sino que seguimos abriéndonos a este amor de manera que nuestra vida quede cada vez más modelada por él.
+
+Dios, que ha derramado su amor "en nuestros corazones por el Espíritu Santo que nos ha sido dado" (cf. *Rm* 5, 5),  nos  invita incesantemente a acoger su amor. Por consiguiente, la invitación  a entregarse totalmente al amor salvífico de Cristo (cf. *[Haurietis aquas](http://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html),* 4) tiene como primera finalidad la relación con Dios. Por eso, este culto, totalmente orientado al amor de Dios que se sacrifica por nosotros, reviste una importancia insustituible para nuestra fe y para nuestra vida en el amor.
+
+Quien acepta el amor de Dios interiormente queda modelado por él. El hombre vive la experiencia del amor de Dios como una "llamada" a la que tiene que responder. La mirada dirigida al Señor, que "tomó sobre sí nuestras flaquezas y cargó con nuestras enfermedades" (*Mt* 8, 17), nos ayuda a prestar más atención al sufrimiento y a las necesidades de los demás. La contemplación, en la adoración, del costado traspasado por la lanza nos hace sensibles a la voluntad salvífica de Dios. Nos hace capaces de abandonarnos a su amor salvífico y misericordioso, y al mismo tiempo nos fortalece en el deseo de participar en su obra de salvación, convirtiéndonos en sus instrumentos.
+
+Los dones recibidos del costado abierto, del que brotaron "sangre y agua" (cf. *Jn* 19, 34), hacen que nuestra vida se convierta también para los demás en fuente de la que brotan "ríos de agua viva" (*Jn* 7, 38) (cf. *[Deus caritas est](http://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html#7)*, 7). La experiencia del amor vivida mediante el culto del costado traspasado del Redentor nos protege del peligro de encerrarnos en nosotros mismos y nos hace más disponibles a una vida para los demás. "En esto hemos conocido lo que es amor:  en que él dio su vida por nosotros. También nosotros debemos dar la vida por los hermanos" (*1 Jn* 3, 16) (cf. *[Haurietis aquas](http://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)*, 38).
+
+La respuesta al mandamiento del amor sólo se hace posible experimentando que este amor ya nos ha sido dado antes por Dios (cf. *[Deus caritas est](http://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html#14)*, 14). Por tanto, el culto del amor que se hace visible en el misterio de la cruz, actualizado en toda celebración eucarística, constituye el fundamento para que podamos convertirnos en personas capaces de amar y entregarse (cf. *[Haurietis aquas](http://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)*, 69), siendo instrumentos en las manos de Cristo:  sólo así se puede ser heraldos creíbles de su amor.
+
+Sin embargo, esta disponibilidad a la voluntad de Dios debe renovarse en todo momento:  "El amor nunca se da por "concluido" y completado" (cf. *[Deus caritas est](http://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html#17)*, 17). Así pues, la contemplación del "costado traspasado por la lanza", en el que resplandece la ilimitada voluntad salvífica por parte de Dios, no puede considerarse como una forma pasajera de culto o de devoción:  la adoración del amor de Dios, que ha encontrado en el símbolo del "corazón traspasado" su expresión histórico-devocional, sigue siendo imprescindible para una relación viva con Dios (cf. *[Haurietis aquas](http://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)*, 62).
+
+Con el deseo de que el 50° aniversario contribuya a impulsar en muchos corazones una respuesta cada vez más fervorosa al amor del Corazón de Cristo, le imparto una especial bendición apostólica a usted, reverendísimo padre, y a todos los religiosos de la Compañía de Jesús, siempre muy activos en la promoción de esta devoción fundamental.
+
+*Vaticano, 15 de mayo de 2006*
+
+## BENEDICTO XVI

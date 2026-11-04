@@ -1,0 +1,77 @@
+---
+id: jp2-mes-20030429-carmelitani-scalzi.en
+work: jp2-mes-20030429-carmelitani-scalzi
+title: "Message to Rev. Camilo Maccise, Father General of the Discalced Carmelite Order (April 21, 2003)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Message
+url_date: 2003-04-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+also_listed_on_vatican_va_as: "jp2/speeches/hf_jp-ii_spe_20030429_carmelitani-scalzi — the same work cross-filed under another heading or slug; one file is kept, this one"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/2003/documents/hf_jp-ii_mes_20030429_carmelitani-scalzi.html"
+fetch_date: 2026-08-23
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, pt"
+anchors: "{#jp2-mes-20030429-carmelitani-scalzi.N} — numbered paragraphs 1..4 (4 anchors), shared with jp2-mes-20030429-carmelitani-scalzi.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-30
+---
+
+# Message to Rev. Camilo Maccise, Father General of the Discalced Carmelite Order (April 21, 2003)
+## MESSAGE OF JOHN PAUL II TO FR CAMILO MACCISE SUPERIOR GENERAL OF THE DISCALCED CARMELITES
+
+*To the Very Reverend Fr Camilo Maccise\
+Superior General of the Discalced Carmelites*
+
+### 1 {#jp2-mes-20030429-carmelitani-scalzi.1}
+
+I would first like to thank you for your kindness in informing me that the 89th Ordinary General Chapter of the Order of Discalced Carmelites will be celebrated in Avila from next 28 April to 18 May. As these dates approach, I would like to send you this Message conveying a cordial greeting to you and to the Chapter Fathers, assuring you of my spiritual closeness in prayer so that the light of the Holy Spirit will guide your reflection and discernment during the work of this Assembly.
+
+The Discalced Carmelite Family, made up of friars, nuns and lay people, was born from a single charism and is called to follow a common vocation but respecting the autonomy and specific character of each group. The theme chosen for the Chapter - Journeying with Teresa of Jesus and John of the Cross: setting out from *the essentials -* emphasizes the firm determination of the Order to remain faithful to the charism inspired by the Holy Spirit in a specific historical and ecclesial context, developed down the centuries, that, today too, is destined to produce fruits of holiness in the Church "*for the common good"* (I Cor 12: 7), in response to the challenges of the third millennium.
+
+Your intention is "to set out" from the Gospel, examining in depth the values of consecrated life, going back to your own roots. You wanted to do this in Avila, the place that fans the embers of the experience and doctrine of St Teresa of Jesus and St John of the Cross. In Avila I had the opportunity to admire and venerate not only "the spiritual teachers of my interior life, but also the two brilliant lights of the Church" (*Homily at Mass in honour of St Teresa,* Avila, Spain, 1 November 1982, n. 2; *ORE,* 29 November 1982, p. 3).
+
+### 2 {#jp2-mes-20030429-carmelitani-scalzi.2}
+
+The founding charism is better understood in the light of the Gospel parable of the talents (cf. Mt 25: 14-30), since it originates in the Lord's bounty and, with the other parables, forms part of the Church's treasures. According to this well-known parable, the "*good and faithful servant*" (Mt 25: 21, 23) feels honoured by the trust placed in him and uses his talents responsibly, obeying the will of his Lord, for he knows that they belong to the Lord and that it is to the Lord that he must account for them. He shows his wisdom by using sensibly the gift he has received, which is essential in all its dimensions, and making it as fruitful as possible.
+
+The gifts of the Spirit are alive and dynamic, like the seed scattered upon the ground which, to the farmer's amazement, "*sprouts and grows*" (Mk 4: 27). In reflecting on what is essential in your charism, it is right to start out from the already mature fruit, for according to the Gospel criterion, they enable us to recognize the tree they come from (cf. Mt 7: 15-20). This method requires respect for the history of your charism which has yielded abundant good fruit in every age.
+
+Therefore, "fidelity to the founding charism" is also fidelity to the "subsequent spiritual heritage" \[of each institute\] (*[Vita Consecrata](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031996_vita-consecrata.html),* n. 36). In fact, many consecrated persons have born an eloquent witness of holiness and undertaken particularly generous and demanding tasks of evangelization and service (cf. *ibid.,* n. 35).
+
+To you, too, as to other men and women religious, I repeat that "you have not only a glorious history to remember and to recount, but also a great history still to be accomplished" (*ibid.,* n. 110). It is therefore necessary to reject all that impedes the growth of your charism. The best service that can be rendered to the gift received is purification of the heart by bearing fruit worthy of conversion (cf. Mt 3: 8). "In fact, the vocation of consecrated persons to seek first the Kingdom of God is first and foremost a call to complete conversion, in self-renunciation, in order to live fully for the Lord" (*[Vita Consecrata](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031996_vita-consecrata.html),* n. 35). This is a continuous task that cannot be ignored, as the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life has emphasized, given the insidiousness of mediocrity in the spiritual life, the gradual adoption of a bourgeois lifestyle and a consumer mentality, the eagerness for efficiency or unbridled activism (cf. the Instruction, *[Starting Afresh from Christ: a Renewed Commitment to Consecrated Life in the Third Millennium](http://localhost/roman_curia/congregations/ccscrlife/documents/rc_con_ccscrlife_doc_20020614_ripartire-da-cristo_en.html)*, n. 12).
+
+### 3 {#jp2-mes-20030429-carmelitani-scalzi.3}
+
+To confront the challenges of the present time, the Church has always had the "duty of scrutinizing the signs of the times and of intepreting them in the light of the Gospel" (*[Gaudium et Spes](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html),* n. 4). Therefore, with her invitation to follow the example of the "founders and foundresses who, in openness to the working of the Holy Spirit, successfully interpreted the signs of the times and responded wisely to new needs" as they arose (*[Vita Consecrata](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031996_vita-consecrata.html),* n. 9), the Church recommends that consecrated persons accept in their hearts the designs of Providence, guided "by supernatural discernment, which distinguishes what is of the Spirit from that which is contrary to him" (*ibid.,* n. 73).
+
+The Spirit guides the faithful towards Christ, who is *"all the truth"* (Jn 16: 13). It is then necessary to pay attention to what Jesus said and did during his earthly life. His response to the expectations of his time as One sent by the Father to the poor, to prisoners, to the blind and to the oppressed (cf. Lk 4: 18) is impressive: he lived a hidden life in the silence of Nazareth for 33 years. He began his public ministry with 40 days in the desert at the end of which he rejected the temptations of the devil. Jesus subsequently kept his distance from the Nazarenes who wanted to benefit from the miracles he was working (cf. Lk 4: 23), from the people who were anxiously searching for him (Mk 1: 37) and from the crowd that wanted to make him king: "*he withdrew again to the hills by himself*" (Jn 6: 15). He responded to the desires of humanity with both indulgence and refusal, yet with the proper firmness of a "*sign that is spoken against*" (Lk 2: 34).
+
+Because of the prophetic character of consecrated life, you too, dear Discalced Brothers of Our Lady of Mount Carmel, must be careful to discern and ready to respond to the expectations of the present day, at times by coming down the mountain to the byways of the world to continue to serve the Kingdom of God (cf. *[Vita Consecrata](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031996_vita-consecrata.html),* n. 75), and at others, by seeking solitude to hide with the Lord in the country (cf. Mk 1: 45).
+
+Starting from the essential means setting out from Christ and his Gospel, read in the perspective of the charism itself. This is what the founders and foundresses did under the action of the Holy Spirit.
+
+Their experience must be preserved and at the same time deepened and developed with the same openness and docility to the action of the Spirit, for in this way are preserved both fidelity to the first experience and an adequate response to the changing needs of every moment in history.
+
+From this point of view it is easy to understand the importance of a "return to the Rule" (*[Vita Consecrata](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031996_vita-consecrata.html),* n. 37), which provides a map of the whole journey of following Jesus, marked by a specific charism recognized by the Church. In their Rule, consecrated persons have a sound criterion for seeking forms of witness that can respond to the needs of today without losing sight of the original inspiration (cf. *ibid.*).
+
+### 4 {#jp2-mes-20030429-carmelitani-scalzi.4}
+
+All of you, dear brothers, in embracing the consecrated life have set out on "a journey of continual conversion, of exclusive dedication to the love of God and of your brothers and sisters" (*ibid.,* n. 109). It is a choice that does not only depend on human strength, but first and foremost on divine grace, which transforms hearts and lives. Humanity thirsts for authentic witnesses of Christ. But to become one, it is necessary to walk towards holiness, which has flourished abundantly in your religious family. I am thinking of the saints forged in Carmel, and most particularly, of that precious heritage bequeathed to your Order and to the whole Church by St John of the Cross and St Teresa of Jesus.
+
+"To tend towards holiness: this is in summary the programme of every consecrated life" (*ibid.,* n. 93); a journey that requires the person to leave everything for the sake of Christ, in order to share fully in his Paschal Mystery. The growth of the spiritual life must always be the prime aim of families of consecrated life, since it is precisely the *spiritual quality of the consecrated life* that has an impact on the people of our time, who are also thirsting for absolute values (cf. *ibid*.).
+
+With affection, I share these reflections and exhortations with all of you, dear members of the Chapter, and I invoke the outpouring of abundant gifts of the Spirit upon your work, so that the Order of Discalced Carmelites may continue on its way in dynamic fidelity to its vocations and mission.
+
+May the Blessed Virgin Mary, Mother of Carmel, and Sts Teresa of Jesus and John of the Cross obtain for you and for the entire family of Discalced Carmelites an abundance of divine graces, as a pledge of which I cordially impart to you the requested Apostolic Blessing.
+
+*From the Vatican, 21 April 2003*
+
+## JOHN PAUL II

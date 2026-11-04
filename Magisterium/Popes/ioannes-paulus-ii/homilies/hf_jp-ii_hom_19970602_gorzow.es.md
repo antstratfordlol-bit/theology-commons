@@ -1,0 +1,91 @@
+---
+id: jp2-hom-19970602-gorzow.es
+work: jp2-hom-19970602-gorzow
+title: "Viaje apostólico a Polonia: Celebración de la Palabra (Gorzow, 2 de junio de 1997)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Homily
+url_date: 1997-06-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/homilies/1997/documents/hf_jp-ii_hom_19970602_gorzow.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it, pl, pt"
+anchors: "{#jp2-hom-19970602-gorzow.N} — numbered paragraphs 1..4 (4 anchors), shared with jp2-hom-19970602-gorzow.en"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje apostólico a Polonia: Celebración de la Palabra (Gorzow, 2 de junio de 1997)
+[VIAJE APOSTÓLICO A POLONIA](http://w2.vatican.va/content/john-paul-ii/es/travels/1997/travels/documents/trav_poland-1997.html)
+
+## CELEBRACIÓN DE LA PALABRA
+
+## HOMILÍA DEL SANTO PADRE JUAN PABLO II
+
+*Gorzów, 2 de junio de 1997*
+
+### 1 {#jp2-hom-19970602-gorzow.1}
+
+«¿*Quién nos separará del amor de Cristo*?» (*Rm* 8, 35). Es la pregunta que hace san Pablo en la carta a los Romanos. Hoy la repetimos en la liturgia, con ocasión de la visita a la Iglesia de Gorzów Wielkopolski. Con el espíritu de este amor, saludo cordialmente a todo el pueblo de Dios de la diócesis. Saludo a monseñor Adam, pastor de esta Iglesia, y a sus obispos auxiliares, al clero y también a los peregrinos que han venido de las diócesis vecinas y del extranjero. Me alegra poder orar hoy junto con vosotros, celebrando esta liturgia de la Palabra. Doy gracias a la divina Providencia por este encuentro.
+
+Doy las gracias a los cardenales, a los arzobispos y a los obispos que participan en nuestro encuentro.
+
+Vuestra comunidad tiene como patronos a algunos mártires que, junto con san Adalberto, son los testigos más antiguos de Cristo en tierra polaca. La tradición de la Iglesia ha conservado el recuerdo de estos eremitas, cuyos nombres eran: Benito, Juan, Mateo, Isaac y Cristino. Vivieron aquí, en vuestra región, en tiempos del rey Boleslao el Intrépido. Su martirio, como la muerte por martirio de san Adalberto, está descrito en la crónica de san Bruno de Querfurt, apóstol y obispo misionero que, en tiempos de Boleslao el Intrépido, realizó una obra de evangelización en los territorios del oeste y del norte de Polonia. Se les suele llamar Hermanos Polacos, aunque algunos eran extranjeros. Dos vinieron a Polonia desde Italia, para implantar aquí la vida monástica según la regla de san Benito. *Su muerte por martirio, al igual que la de san Adalberto, se sitúa, en cierto sentido, en el umbral del milenio del cristianismo en nuestra tierra.*
+
+### 2 {#jp2-hom-19970602-gorzow.2}
+
+Los mártires son testigos excepcionales del Dios altísimo, Padre, Hijo y Espíritu Santo. El texto de la carta a los Romanos que acabamos de leer nos recuerda el misterio trinitario, por el que comienza la redención del mundo. Dios —escribe el Apóstol— «no perdonó ni a su propio Hijo, antes bien le entregó por todos nosotros». Basándose en esa constatación, san Pablo pregunta: «¿cómo no nos dará con él graciosamente todas las cosas?» (Rm* 8, 32). Jesucristo, que por nosotros murió y al tercer día resucitó, está a la diestra de Dios e intercede por nosotros. Precisamente de este amor de Cristo nada nos podrá separar (cf. *Rm* 8, 34-35). Estamos unidos a él mediante la fe. Y esta fe en el poder redentor de la muerte y de la resurrección de Cristo es la fuente de la victoria: «En todo esto salimos vencedores gracias a aquel que nos amó» (*Rm* 8, 37). *Su amor redentor nos une a Dios. Es la fuente de nuestra justificación. En él encontramos la certeza de la victoria que anuncia el Apóstol.
+
+Los primeros mártires en tierra polaca tuvieron esta certeza. Y la tuvieron también los mártires de la Iglesia de todos los tiempos. Sin embargo, mientras admiramos su testimonio, que manifiesta que «el amor es más fuerte que la muerte» (cf. *Ct* 8, 6), en el corazón de cada uno de nosotros brota espontánea la pregunta: ¿me bastaría la fe, la esperanza y la caridad que poseo, para dar un testimonio tan heroico? Al parecer, la plegaria litúrgica que acabo de rezar nos brinda la respuesta: «Oh Dios, que has santificado los inicios de la fe en la nación polaca con la sangre de los santos mártires Benito, Juan, Mateo, Isaac y Cristino, *sostén con tu gracia nuestra debilidad*, para que, imitando a los mártires que por ti no dudaron en morir, demos un testimonio valiente de ti con nuestra vida». Dios es quien, con su gracia, sostiene nuestra debilidad. Con el poder de su espíritu nos fortalece, para que seamos capaces de dar un testimonio valiente de nuestra fe.
+
+### 3 {#jp2-hom-19970602-gorzow.3}
+
+«En todo esto salimos vencedores gracias a aquel que nos amó» (*Rm* 8, 37). Hermanos y hermanas, donde no es preciso dar el testimonio del martirio, debe ser aún más visible el testimonio de la vida diaria. Se debe dar testimonio de Dios con palabras y obras por doquier, en todo ambiente: en la familia, en los lugares de trabajo, en las oficinas y en las escuelas. En los lugares donde el hombre trabaja y donde descansa.
+
+Es preciso manifestar nuestra fe en Dios mediante la ferviente participación en la vida de la Iglesia; prestando ayuda a los débiles y a los que sufren, y también asumiendo la propia responsabilidad en los asuntos públicos, interesándose por el futuro de la nación, construido sobre la base de la verdad del Evangelio. Una actitud de este tipo exige una fe madura y un compromiso personal. Requiere que se encarne en hechos concretos. A veces, una actitud así debe pagarse con el heroísmo de una abnegación total. ¿No hemos experimentado también en nuestros tiempos y en nuestra vida, varias formas de humillación, por mantener la fidelidad a Cristo y conservar así la dignidad cristiana? *Todo cristiano está llamado, siempre y donde lo sitúe la Providencia, a reconocer a Cristo ante los hombres* (cf.* Mt* 10, 32).
+
+¡Cómo no recordar aquí el testimonio de fidelidad a la tradición y a la Iglesia, que disteis en tiempos para vosotros muy difíciles! Muchos de vosotros lleváis en vuestro corazón las dolorosas experiencias de la segunda guerra mundial. Cuando acabó esa guerra, en estos territorios, en cierto sentido, comenzasteis una nueva vida, viniendo de varias partes de Polonia e incluso de fuera de sus fronteras. A pesar de estar desarraigados de vuestros territorios de origen, habéis conservado las raíces de la fe. En el difícil período de las transformaciones, habéis estado cerca de la Iglesia, que trataba de ayudaros en vuestras necesidades espirituales y materiales, como una buena madre, solícita por sus hijos.
+
+Expreso mi gratitud al clero y a las religiosas, que no dudaron en dejar sus diócesis de origen para prestar aquí un generoso servicio. Todos ayudabais a construir la casa común, no sólo la material, sino ante todo la espiritual, en el corazón de los hombres. En los momentos difíciles erais el apoyo de esta gente, llevándoles la luz de la fe y señalándoles a Cristo como única fuente de esperanza.
+
+No puedo enumerar aquí todos los nombres, pero al menos quiero recordar con gratitud a monseñor Wilhelm Pluta, ya fallecido, gran pastor de esta diócesis. En cierto sentido, fue él quien puso los cimientos de esta diócesis, en tiempos muy difíciles para nuestro país. Durante muchos años gobernó la Iglesia de Gorzów, primero como administrador y luego como su primer obispo. Hoy está ciertamente presente aquí entre nosotros. Te agradezco, monseñor Wilhelm, todo lo que hiciste por la Iglesia en estas tierras. Te agradezco tu esfuerzo, tu valentía, tu sabiduría y tu gran religiosidad. Te agradezco también lo que hiciste por la Iglesia en Polonia.
+
+Una gran contribución al desarrollo de la vida religiosa en estos territorios ha dado vuestro seminario mayor, del que han salido numerosos sacerdotes, tan anhelados y tan necesarios aquí. Hoy todo esto produce una mies abundante. Demos gracias a la divina Providencia porque hoy la Iglesia en vuestra diócesis se desarrolla con tanto éxito. Esta tierra, en sus orígenes, fue regada con la sangre de los santos Hermanos Polacos mártires, los cuales, como antorchas encendidas, guían hoy vuestra Iglesia hacia los tiempos nuevos. Los tiempos nuevos, el tercer milenio, que ya se está aproximando, seguirán exigiendo vuestro testimonio. Ante vosotros se presentan nuevas tareas. No tengáis miedo de asumirlas.
+
+Las tareas que Dios nos pide son las adecuadas a cada uno de nosotros. No están por encima de nuestras posibilidades. Dios nos ayuda en los momentos de debilidad. Sólo él la conoce verdaderamente. La conoce mejor que nosotros mismos y, a pesar de ello, no nos rechaza. Al contrario, en su amor misericordioso se inclina hacia el hombre para confortarlo. *Esta confortación el hombre la recibe mediante el contacto vivo con Dios.*
+
+Quisiera llamar vuestra atención sobre este aspecto. En medio de las ocupaciones humanas normales no podemos perder el contacto con Cristo. Necesitamos momentos especiales destinados exclusivamente a la oración. La oración es indispensable, tanto en la vida personal como en el apostolado. No puede haber testimonio cristiano auténtico sin contar con la fuerza de la oración, que es fuente de inspiración, de energía, de valor ante las dificultades y los obstáculos; es fuente de la perseverancia y de la capacidad de tomar iniciativas con nuevas fuerzas.
+
+La vida de oración se alimenta, ante todo, de la participación en la liturgia de la Iglesia. La vida interior, para desarrollarse, exige participar en la santa misa y acudir al sacramento de la reconciliación. De este modo, toda la existencia está impregnada de Cristo: por él mismo y por su gracia. En efecto, él nos dice: «El que come mi carne y bebe mi sangre, permanece en mí, y yo en él» (*Jn* 6, 56). La Eucaristía es el alimento espiritual que nos proporciona, de manera especial, la fuerza espiritual para dar testimonio y para producir fruto abundante. Por eso es tan importante la participación en la santa misa dominical.
+
+Ni las preocupaciones familiares, ni otras cuestiones deberían quedar fuera del ámbito de la vida espiritual. *Toda actividad humana cobra en Cristo un significado más profundo, convirtiéndose en auténtico testimonio.* El alma, arraigada en el espíritu de oración, se abre al Dios infinito y eterno. Quiere servir a ese Dios y encontrar en él la fuerza y la luz para su vida cristiana. Gracias a la fe, reconocemos en nuestra vida la realización del plan divino de amor, descubrimos la constante solicitud del Padre que está en los cielos.
+
+Queridos hermanos y hermanas, los Hermanos Polacos mártires nos dan ejemplo de esa vida. Benito, Juan, Mateo, Isaac y Cristino, en el silencio de sus eremitorios, dedicaron mucho tiempo a la oración y así se prepararon para la gran tarea que Dios, en sus inescrutables designios, había destinado para ellos: dar el sumo testimonio de él, entregar su vida por el Evangelio. Los Hermanos Polacos, como solemos llamarlos, mediante su tributo de sangre, ofrecido a Dios en los comienzos de nuestra nación y de la Iglesia en esta nación, querían decir a todos los que vendrían después que para dar testimonio de Cristo es preciso prepararse. En efecto, el testimonio nace, madura y se ennoblece en la atmósfera de oración, de la profunda y misteriosa conversación con Dios. De rodillas. No puede mostrar a Cristo a los demás quien antes no se ha encontrado con él en su propia vida. Sólo entonces el testimonio tendrá auténtico valor. Se convertirá en germen para la humanidad, sal de la tierra y luz que disipa las tinieblas a nuestros hermanos que avanzan por los caminos de este mundo.
+
+«*¿Quién nos separará del amor de Cristo*?». Así exclama hoy para nosotros, san Pablo. ¡Ojalá que este grito penetre hasta lo más íntimo en los corazones y las mentes! Velad para que nada os separe de este amor: ningún falso eslogan, ninguna ideología errónea, ninguna tentación de ceder a componendas con lo que no es de Dios, o con la búsqueda de los propios intereses. Rechazad todo lo que destruye y debilita la comunión con Cristo. Sed fieles a los mandamientos de Dios y a los compromisos del bautismo.
+
+### 4 {#jp2-hom-19970602-gorzow.4}
+
+«*Y no temáis a los que matan el cuerpo, pero no pueden matar el alma*» (*Mt* 10, 28). Son palabras de Cristo, tomadas del evangelio de san Mateo. La Iglesia las refiere a los mártires, y en nuestro contexto a san Adalberto y a los santos Hermanos Polacos. El martirio es la expresión más alta de la fortaleza de un hombre que, colaborando con la gracia, se hace capaz de dar un testimonio heroico. En el martirio la Iglesia ve «un signo preclaro» de su santidad. Un signo valioso para la Iglesia y para el mundo, a fin de que «no se caiga en la crisis más peligrosa que puede afectar al hombre: la confusión del bien y del mal, que hace imposible construir y conservar el orden moral de los individuos y de las comunidades. Los mártires, y de manera más amplia todos los santos en la Iglesia, con el ejemplo elocuente y fascinador de una vida transfigurada totalmente por el esplendor de la verdad moral, iluminan cada época de la historia despertando el sentido moral. Dando testimonio del bien, ellos representan un reproche viviente para cuantos transgreden la ley» (*[Veritatis splendor](https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html)*, 93). *Contemplando el ejemplo de los mártires, no tengáis miedo de dar testimonio. No tengáis miedo a la santidad. Tened la valentía de aspirar a la plena medida de la humanidad*. Exigíoslo a vosotros mismos, aunque otros no se lo exijan a sí mismos.
+
+El hombre tiene un miedo natural no sólo al sufrimiento y a la muerte, sino también a las opiniones diferentes a la suya, especialmente si son difundidas por medios de comunicación tan poderosos que se convierten en medios de presión. Por eso, a menudo prefiere adaptarse al ambiente, a la moda vigente, en vez de correr el riesgo de testimoniar la fidelidad al Evangelio de Cristo.
+
+*Los mártires recuerdan que la dignidad de la persona humana no tiene precio*; «es una dignidad que nunca se puede envilecer o contrastar, aunque sea con buenas intenciones, cualesquiera que sean las dificultades» (*ib.*, 92). «¿De qué le sirve al hombre ganar el mundo entero si pierde su alma?» (*Mc* 8, 36). Por eso, repito con Cristo, una vez más: «No temáis a los que matan el cuerpo, pero no pueden matar el alma» (*Mt* 10, 28) ¿No es más importante la dignidad de la conciencia que cualquier beneficio exterior?
+
+Los Hermanos Polacos mártires, que hoy recordamos en la liturgia, san Adalberto, san Estanislao, san Andrés Bobola, san Maximiliano María Kolbe y los mártires de todos los tiempos, *testimonian el primado de la conciencia y su indestructible dignidad, el primado del espíritu sobre el cuerpo, el primado de lo eterno sobre lo temporal*. Lo que sucedió aquí al inicio de este milenio del cristianismo, en tiempos de Boleslao el Intrépido, se ha repetido muchas veces en la historia y, por último, también en la historia de nuestro siglo.
+
+¡Cuántos hombres y mujeres en nuestro siglo han confesado heroicamente a Cristo ante los demás! *Creemos que la muerte que sufrieron por ser fieles a su conciencia, por ser fieles a Cristo, encontrará una respuesta en los corazones de los creyentes: su testimonio fortalecerá a los débiles y a los pusilánimes; será la semilla de una nueva vitalidad de la Iglesia en esta tierra de los Piast*. Cristo nos asegura que reconocerá ante el Padre celestial a todos los que no dudaron en reconocerlo ante los hombres (cf. *Mt* 10, 32-33), incluso a costa de los mayores sacrificios. Cristo nos pone en guardia también contra la negación de la fe y contra la renuncia a testimoniarlo ante los demás.
+
+Y la Iglesia entera recibe hoy abundantes gracias en virtud de la mediación de los mártires. La Iglesia entera se alegra por su valiente profesión de fe, en la que halla fuerza nuestra debilidad. Para nosotros es el signo de la esperanza. «¿Quién nos separará del amor de Cristo? (...) Estoy seguro de que ni la muerte ni la vida ni los ángeles ni los principados ni lo presente ni lo futuro ni las potestades ni la altura ni la profundidad ni otra criatura alguna podrá separarnos del amor de Dios manifestado en Cristo Jesús, Señor nuestro» (*Rm* 8, 35.38-39).
+
+Queridos hermanos, al contemplar esta gran asamblea del pueblo de Dios de la diócesis de Gorzów, vuelven a mi memoria tiempos pasados, no muy lejanos. Vuelve a mi memoria el milenario del bautismo de Polonia que celebramos juntos aquí en 1966. Y precisamente entonces, todos los obispos polacos aprendimos a conocer nuestra patria. Aprendimos a conocer, una tras otra, todas las diócesis polacas. Por doquier cantamos juntos: «Te Deum laudamus». Hoy, desde aquí, deseo dar gracias por ese particular don que fue para mí el milenario del bautismo de Polonia.
+
+El 16 de octubre de 1978, memoria litúrgica de santa Eduvigis de Silesia, durante el cónclave, después de mi elección, el Primado del milenio me dijo: «Ahora debes conducir la Iglesia al tercer milenio». Por este motivo, queridos hermanos, he venido a Polonia, al Congreso eucarístico de Wrocław, a Gniezno para las celebraciones del milenario de san Adalberto. He venido para pedir, en estos itinerarios milenarios, la gracia de poder cumplir esa misión que tal vez la divina Providencia me ha confiado, según las palabras del gran Primado del milenio. Pero, queridos hermanos, los años pasan y debéis pedir a Dios de rodillas que yo pueda cumplirla.

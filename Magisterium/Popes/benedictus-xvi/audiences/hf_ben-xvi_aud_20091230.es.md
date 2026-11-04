@@ -1,0 +1,65 @@
+---
+id: b16-aud-20091230.es
+work: b16-aud-20091230
+title: "Audiencia general del 30 de diciembre de 2009: Pedro Lombardo"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: General audience (catechesis)
+url_date: 2009-12-30
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/audiences/2009/documents/hf_ben-xvi_aud_20091230.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-aud-20091230} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Audiencia general del 30 de diciembre de 2009: Pedro Lombardo {#b16-aud-20091230}
+BENEDICTO XVI
+
+## AUDIENCIA GENERAL
+
+*Miércoles 30 de diciembre de 2009*
+
+## Pedro Lombardo
+
+*Queridos hermanos y hermanas:*
+
+En esta última audiencia del año quiero hablaros de Pedro Lombardo, un teólogo que vivió en el siglo XII y gozó de gran fama, porque una de sus obras, titulada *Sentencias*, fue adoptada como manual de teología durante muchos siglos.
+
+¿Quién era, por tanto, Pedro Lombardo? Aunque las noticias sobre su vida son escasas, podemos reconstruir las líneas esenciales de su biografía. Nació entre los siglos XI y XII cerca de Novara, en el norte de Italia, en un territorio que en otro tiempo pertenecía a los Longobardos; precisamente por eso le pusieron el sobrenombre de "Lombardo". Pertenecía a una familia de escasos recursos, como podemos deducir de la carta de presentación que san Bernardo de Claraval escribió a Gilduino, superior de la abadía de san Víctor en París, para pedirle que hospedara gratis a Pedro, el cual quería ir a esa ciudad para estudiar allí. De hecho, incluso en la Edad Media, no sólo los nobles o los ricos podían estudiar y llegar a ocupar cargos importantes en la vida eclesial y social, sino también personas de origen humilde, como por ejemplo Gregorio VII, el Papa que se enfrentó al emperador Enrique IV, o Mauricio de Sully, el arzobispo de París que mandó construir Notre-Dame y que era hijo de un campesino pobre.
+
+Pedro Lombardo inició sus estudios en Bolonia, luego se trasladó a Reims y, por último, a París. Desde 1140 enseñó en la prestigiosa escuela de Notre-Dame. Estimado y apreciado como teólogo, ocho años después el Papa Eugenio III le encargó que examinara las doctrinas de Gilberto Porretano, que suscitaban muchos debates, porque no parecían del todo ortodoxas. Ordenado sacerdote, fue nombrado obispo de París en 1159, un año antes de su muerte, que aconteció en 1160.
+
+Como todos los maestros de teología de su tiempo, también Pedro escribió discursos y textos en los que comentaba la Sagrada Escritura. Su obra maestra, sin embargo, son los cuatro libros de las *Sentencias*. Se trata de un texto que nació con vistas a la enseñanza. Según el método teológico utilizado en esos tiempos, era preciso ante todo conocer, estudiar y comentar el pensamiento de los Padres de la Iglesia y de otros escritores a los que se consideraba autorizados. Por eso, Pedro recogió una documentación muy amplia, constituida principalmente por las enseñanzas de los grandes Padres latinos, sobre todo de san Agustín, y abierta a la contribución de teólogos contemporáneos suyos. Utilizó también, entre otras, una obra enciclopédica de teología griega que desde hacía poco tiempo se conocía en Occidente: *La fe ortodoxa*, compuesta por san Juan Damasceno. El gran mérito de Pedro Lombardo consiste en haber ordenado todo el material, que había recogido y seleccionado con esmero, en un cuadro sistemático y armonioso. De hecho, una de las características de la teología es organizar de modo unitario y ordenado el patrimonio de la fe. Por eso, él distribuyó las sentencias, es decir, las fuentes patrísticas sobre los distintos temas, en cuatro libros. En el primero se trata de Dios y del misterio trinitario; en el segundo, de la obra de la creación, del pecado y de la gracia; en el tercero, del misterio de la Encarnación y de la obra de la Redención, con una amplia exposición sobre las virtudes. El cuarto libro está dedicado a los sacramentos y a las realidades últimas, las de la vida eterna, llamadas *Novísimos*. La visión de conjunto que se obtiene incluye casi todas las verdades de la fe católica. Esta mirada sintética y la presentación clara, ordenada, esquemática y siempre coherente, explican el éxito extraordinario de las *Sentencias* de Pedro Lombardo, que permitían a los alumnos un aprendizaje fiable y a los maestros, que las usaban en sus clases, profundizar ampliamente. Un teólogo franciscano, Alejandro de Hales, que vivió una generación después de la de Pedro, introdujo en las *Sentencias* una subdivisión que hizo más fácil su consulta y su estudio. Incluso los más grandes teólogos del siglo XIII, san Alberto Magno, san Buenaventura de Bagnoregio y santo Tomás de Aquino, iniciaron su actividad académica comentando los cuatro libros de las *Sentencias* de Pedro Lombardo, enriqueciéndolas con sus reflexiones. El texto de Lombardo fue el libro que se usó en todas las escuelas de teología hasta el siglo XVI.
+
+Deseo destacar que la presentación orgánica de la fe es una exigencia irrenunciable. De hecho, las distintas verdades de la fe se iluminan recíprocamente y, en una visión total y unitaria, se aprecia la armonía del plan de salvación de Dios y la centralidad del misterio de Cristo. Invito a todos los teólogos y a los sacerdotes a tener siempre presente, a ejemplo de Pedro Lombardo, la visión completa de la doctrina cristiana, evitando los peligros actuales de fragmentación y devaluación de las diferentes verdades. El Catecismo de la Iglesia católica, así como el Compendio de dicho Catecismo, nos ofrecen precisamente este cuadro completo de la Revelación cristiana, que es necesario acoger con fe y gratitud. Por eso, quiero animar también a los fieles y a las comunidades cristianas a aprovechar estos instrumentos para conocer y profundizar en el contenido de nuestra fe. Así se nos presentará como una maravillosa sinfonía, que nos habla de Dios y de su amor, y que estimula nuestra firme adhesión y nuestra respuesta activa.
+
+Para tener una idea del interés que sigue suscitando la lectura de las *Sentencias* de Pedro Lombardo, propongo dos ejemplos. Inspirándose en el comentario de san Agustín al libro del Génesis, Pedro se pregunta el motivo por el cual la creación de la mujer se realizó a partir de la costilla de Adán y no de su cabeza o de sus pies. Y explica: "Dios no estaba formando una dominadora ni una esclava del hombre, sino una compañera suya" (*Sentencias* 3, 18, 3). Luego, también apoyándose en la enseñanza patrística, añade: "En esta acción está representado el misterio de Cristo y de la Iglesia. En efecto, como la mujer fue formada de la costilla de Adán mientras este dormía, así la Iglesia nació de los sacramentos que comenzaron a fluir del costado de Cristo que dormía en la cruz, es decir, de la sangre y el agua, con que fuimos redimidos del castigo y purificados de la culpa" (*Sentencias* 3, 18, 4). Son reflexiones profundas, que siguen siendo válidas hoy que la teología y la espiritualidad del matrimonio cristiano han profundizado mucho en la analogía con la relación esponsal entre Cristo y su Iglesia.
+
+En otro pasaje de su obra principal, Pedro Lombardo, tratando de los méritos de Cristo, se pregunta: "¿Por qué razón, entonces, \[Cristo\] quiso sufrir y morir, si sus virtudes eran ya suficientes para obtenerle todos los méritos?". Su respuesta es incisiva y eficaz: "Por ti, no por sí mismo". Luego prosigue con otra pregunta y otra respuesta, que parecen reproducir los debates que se mantenían durante las lecciones de los maestros de teología de la Edad Media: "Y ¿en qué sentido sufrió y murió por mí? Para que su pasión y muerte fueran para ti ejemplo y causa. Ejemplo de virtud y de humildad, causa de gloria y de libertad; ejemplo dado por Dios obediente hasta la muerte, causa de tu liberación y de tu felicidad" (*Sentencias* 3, 18, 5).
+
+Entre las contribuciones más importantes de Pedro Lombardo a la historia de la teología, quisiera recordar su tratado sobre los sacramentos, de los que dio una definición que podría considerarse definitiva: "Se llama sacramento en sentido propio lo que es signo de la gracia de Dios y forma visible de la gracia invisible, de tal modo que lleva su imagen y es su causa" (4, 1, 4). Con esta definición, Pedro Lombardo capta la esencia de los sacramentos: son causa de la gracia, tienen la capacidad de comunicar realmente la vida divina. Los teólogos sucesivos no abandonarán ya esta visión y utilizarán también la distinción entre elemento material y elemento formal, introducida por el "Maestro de las Sentencias", como se solía llamar a Pedro Lombardo. El elemento material es la realidad sensible y visible; el formal son las palabras pronunciadas por el ministro. Ambos son esenciales para una celebración completa y válida de los sacramentos: la materia, la realidad con la cual el Señor nos toca visiblemente, y la palabra que da el significado espiritual. En el Bautismo, por ejemplo, el elemento material es el agua que se derrama sobre la cabeza del niño, y el elemento formal son las palabras: "Yo te bautizo en el nombre del Padre y del Hijo y del Espíritu Santo". Lombardo, además, aclaró que sólo los sacramentos transmiten objetivamente la gracia divina y que son siete: Bautismo, Confirmación, Eucaristía, Penitencia, Unción de los enfermos, Orden y Matrimonio (cf. *Sentencias* 4, 2, 1).
+
+Queridos hermanos y hermanas, es importante reconocer cuán preciosa e indispensable es para todo cristiano la vida sacramental, en la que el Señor, en la comunidad de la Iglesia, a través de esta materia nos toca y nos transforma. Como reza el *[Catecismo de la Iglesia católica](https://www.vatican.va/archive/catechism_sp/p2s1c1a2_sp.html#I%20Los%20sacramentos%20de%20Cristo)*, los sacramentos son "fuerzas que brotan del Cuerpo de Cristo, siempre vivo y vivificante, y como acciones del Espíritu Santo" (n. 1116). En este [Año sacerdotal](http://www.vatican.va/special/anno_sac/index_sp.html), que estamos celebrando, exhorto a los sacerdotes, sobre todo a los ministros que ejercen la cura de almas, a que ellos mismos sean los primeros en tener una intensa vida sacramental, para que luego ayuden a los fieles. La celebración de los sacramentos debe caracterizarse por la dignidad y el decoro, y favorecer el recogimiento personal y la participación comunitaria, el sentido de la presencia de Dios y el celo misionero. Los sacramentos son el gran tesoro de la Iglesia y a cada uno de nosotros corresponde la tarea de celebrarlos con fruto espiritual. En ellos toca nuestra vida un acontecimiento siempre sorprendente: Cristo, a través de signos visibles, sale a nuestro encuentro, nos purifica, nos transforma y nos hace partícipes de su amistad divina.
+
+Queridos amigos, hemos llegado al final de este año y a las puertas del año nuevo. Os deseo que la amistad de nuestro Señor Jesucristo os acompañe cada día del año que está a punto de comenzar. Que esta amistad de Cristo sea nuestra luz y guía, ayudándonos a ser hombres de paz, de su paz. ¡Feliz año a todos!
+
+## Saludos
+
+*(En castellano)*
+
+Saludo cordialmente a los peregrinos de lengua española, venidos de España, México y otros países latinoamericanos. Invito a todos a afianzar e iluminar la fe mediante una lectura pausada y atenta del mensaje cristiano, como se ofrece en el Catecismo de la Iglesia católica.
+
+*(En italiano)*
+
+Saludo ahora a los peregrinos de lengua italiana y, en particular, a los *jóvenes*, a los *enfermos* y a los *recién casados*, augurando a todos que el Año nuevo sea sereno y que se cumplan sus buenos deseos. Queridos *jóvenes,* especialmente los scouts que habéis venido de Soviore, vivid el nuevo año como un don precioso, comprometiéndoos a construir vuestra vida a la luz de la verdad, que resplandece en la santa cueva de Belén. Vosotros, *enfermos*, sed anunciadores de las riquezas escondidas en el misterio del dolor, que en Cristo se ha convertido en acontecimiento de redención. Vosotros, queridos *recién casados*, sabed edificar una familia que sea verdaderamente una pequeña Iglesia, capaz de anunciar siempre con la palabra y con el ejemplo la buena nueva que trajeron los ángeles a los hombres que Dios ama.

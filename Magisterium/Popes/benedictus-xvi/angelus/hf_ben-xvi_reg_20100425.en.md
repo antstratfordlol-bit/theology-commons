@@ -1,0 +1,58 @@
+---
+id: b16-ang-20100425.en
+work: b16-ang-20100425
+title: "Regina Cæli, 25 April 2010"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2010-04-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2010/documents/hf_ben-xvi_reg_20100425.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20100425} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Regina Cæli, 25 April 2010 {#b16-ang-20100425}
+BENEDICT XVI
+
+## REGINA CÆLI
+
+*St Peter's Square\
+Fourth Sunday of Easter, 25 April 2010*
+
+## ([Video](https://www.youtube.com/watch?v=s3TlTzh9C6o&ab_channel=VaticanNews))
+
+*Dear Brothers and Sisters,*
+
+On this Fourth Sunday of Easter, known as "Good Shepherd Sunday", the World Day of Prayer for Vocations is celebrated. This year its theme, "Witness Awakens Vocations", is "closely linked to the life and mission of priests and of consecrated persons" (*[Message for the 47th World Day of Vocations](https://www.vatican.va/content/benedict-xvi/en/messages/vocations/documents/hf_ben-xvi_mes_20091113_xlvii-vocations.html)*, 13 November 2009). The first form of witness that awakens vocation is prayer (cf. *ibid.,*), as the example of St Monica shows. By humbly and insistently imploring God she obtained the grace of seeing her son Augustine become a Christian. He wrote:  "Without uncertainty, I believe and affirm that through her prayers God granted me the intention of not putting first, not desiring, not thinking and not loving, anything other than the achievement of truth" (*De Ordine,* II, 20, 52, *CCL* 29, 136). I therefore invite parents to pray, that the hearts of their children may be open to listening to the Good Shepherd, and that "each tiny seed of a vocation... may... grow into a mature tree, bearing much good fruit for the Church and for all humanity" (*[Message](https://www.vatican.va/content/benedict-xvi/en/messages/vocations/documents/hf_ben-xvi_mes_20091113_xlvii-vocations.html), cit.*). How can we listen to the voice of the Lord and recognize it? In the preaching of the Apostles and of their successors in which Christ's voice rings out, calling us to communion with God and to the fullness of life. As we read today in the Gospel of St John:  "My sheep hear my voice, and I know them, and they follow me; and I give them eternal life, and they shall never perish, and no one shall snatch them out of my hand" (Jn 10: 27-28). The Good Shepherd alone tends his flock with deep tenderness and protects it from evil, and in him alone can the faithful put absolute trust.
+
+On this day of special prayers for vocations, I encourage the ordained ministries in particular, encouraged by the [Year for Priests](http://www.vatican.va/special/anno_sac/index_en.html), to feel committed to bearing "a more forceful and incisive witness to the Gospel in today's world" (*[The Holy Father's Letter to priests for the inauguration of the Year for Priests](https://www.vatican.va/content/benedict-xvi/en/letters/2009/documents/hf_ben-xvi_let_20090616_anno-sacerdotale.html),* 16 June 2009). May they remember that the priest "continues the work of redemption on earth"; may they gladly pause "before the tabernacle"; may they seek to remain "completely faithful to \[their\] own vocation and mission through the practice of an austere asceticism"; may they make themselves available to listening and to forgiving; may they impart a Christian formation to the people entrusted to them; may they take pains to foster a "priestly fraternity" (cf. *ibid.*). May they follow the example of wise and zealous Pastors, as did St Gregory of Nazianzus, who wrote to his fraternal friend and Bishop, St Basil:  "Teach us your love for the sheep, your solicitude and your capacity for understanding, your watchfulness... severity in gentleness, serenity and meekness in activity... combats in defence of the flock, victories... won in Christ" (*Oratio IX,* 5, *PG* 35, 825 ab).
+
+I thank everyone present and all those who sustain my ministry as a Successor of Peter with prayer and affection, and upon each one I invoke the heavenly protection of the Virgin Mary, to whom we now turn in prayer.
+
+## After the Regina Caeli :
+
+I address a special greeting to the "Meter" Association, which has been promoting the National Day for Children Victims of Violence, Exploitation and Indifference for 14 years. On this occasion I would like above all to thank and encourage those who are dedicated to its prevention and to education, particularly the parents, teachers and many priests, sisters, catechists and animators who work with children in the parishes, schools and associations. This morning, respectively in Rome and in Barcelona, two priests were beatified:  Angelo Paoli, a Carmelite, and José Tous y Soler, a Capuchin. I shall mention the latter shortly.
+
+*From Italian*
+
+I like to remember, concerning Bl. Angelo Paoli, who came from Lunigiana, and lived between the 17th and 18th centuries, that he was an apostle of charity in Rome, nicknamed the "father of the poor". He devoted himself in a special way to the sick in the Hospital of San Giovanni, also caring for the convalescents. His apostolate drew strength from the Eucharist and from the devotion to Our Lady of Carmel, as well as from an intense life of penance. In the Year for Priests, I gladly propose his example to all priests, particularly to those who belong to religious institutes of active life.
+
+*English*
+
+I am happy to greet all the English-speaking visitors present for today's *Regina Caeli* prayer. This Sunday the Church celebrates the World Day of Prayer for Vocations. As we rejoice in the new life that the Risen Lord  has  won  for  us, let  us  ask him to inspire many young people to centre their hearts on the things of Heaven (cf. Col 3: 1-2) and to offer themselves joyfully in the service of Christ our Good Shepherd in the priesthood and religious life. Confidently entrusting this petition to Mary, Queen of Heaven, I invoke upon you God's abundant Blessings of peace and joy!
+
+*Excerpts from Spanish and Catalan*
+
+On this Sunday, called Good Shepherd Sunday, on which the Church celebrates the Day of Prayer for Vocations, the beatification of the Capuchin priest José Tous y Soler, Founder of the Capuchin Sisters of the Mother of the Divine Shepherd took place in Barcelona. Despite numerous trials and tribulations he did not let himself be overcome by bitterness or resentment. His exquisite charity and his ability to tolerate and understand the shortcomings of others was noteworthy. May his example and intercession help everyone and especially priests to live in fidelity to Christ. May our Bl. José Tous y Soler bless you and protect you. Many thanks and have a good Sunday.

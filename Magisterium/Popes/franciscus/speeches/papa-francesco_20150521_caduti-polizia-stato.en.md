@@ -1,0 +1,58 @@
+---
+id: francis-spe-20150521-caduti-polizia-stato.en
+work: francis-spe-20150521-caduti-polizia-stato
+title: "To the families of the victims of the Italian Police forces (21 May 2015)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2015-05-21
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2015/may/documents/papa-francesco_20150521_caduti-polizia-stato.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, fr, it, pt"
+anchors: "{#francis-spe-20150521-caduti-polizia-stato} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the families of the victims of the Italian Police forces (21 May 2015) {#francis-spe-20150521-caduti-polizia-stato}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO THE FAMILIES OF THE VICTIMS OF THE ITALIAN POLICE FORCES
+
+*Paul VI Audience Hall\
+Thursday, 21 May 2015*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2015/5/21/cadutipolizia.html)\]
+
+*Dear Brothers and Sisters,*
+
+Welcome! I thank the Chief of Police for the noble words he addressed to me on behalf of everyone. In a particular way, I thank you, the relatives of those who have lost their lives or have been seriously wounded in performing their duty, for the witness of Christian hope that enlivens you and for your devotion to the institutions and to your mission. In fact, many of you have wished to continue the work initiated by your spouses, by wearing a Police uniform and serving the State.
+
+Every honest occupation contributes to the good of all and, if carried out with dedication and enthusiasm, it fosters personal growth and the growth of society, by ensuring a free and dignified existence. Among the different professions, yours represents an authentic mission and entails upholding and actually putting into practice the attitudes and values which are especially important to civil life. I am referring to a clear sense of duty and discipline, readiness to sacrifice — your life if necessary — to keep public order, with respect for the law, in defence of democracy and opposition to organized crime and terrorism.
+
+Your mission calls for the courage to help those who are in danger and to stop aggression. The community is indebted to you for enabling it to lead an ordered life, free from the oppression of the violent and the corrupt.
+
+An existence committed to this service and centred on these ideals is highly valued by the Lord, and every sacrifice, made for the love of the common good, will be rewarded by Him. I say it today in particular to you, whose relatives have been victims of violent people who often attack those who enforce the law, seeing them as the toughest obstacle to their nefarious designs.
+
+Those who serve the community with courage and abnegation find, along with the difficulties and risks inherent in their role, a very lofty form of self-fulfilment, because they walk on the path of our Lord, who wished to serve and not to be served.
+
+Those who, day after day, fulfil their duty with seriousness and commitment and place it at the service of the community, and especially of those who are in danger or in situations of grave difficulty, “go out” to their neighbours and serve them. Acting in this way, they fulfil their life, even with the possibility of losing it, as Jesus did dying on the Cross.
+
+Only by contemplating Jesus on the Cross can we find the strength to forgive and the comfort that our crosses too will be redeemed by his, and that therefore every sacrifice and every tragedy will find a reward and redemption in Him.
+
+The witness to Christian values is even more eloquent at this time, when the impetus of generosity of so many is often not followed up by the capacity to put it into consistent, constant practice. In fact, in our time it is easier to commit oneself to something provisional or partial. Instead, the action carried out by the Police Force stands for something solid in time, which, despite the changing contingent situations, represents a steady will throughout the various eras: that of guaranteeing law and order for all citizens, and its beneficial effects ensure the enjoyment of all the other benefits.
+
+Moreover, in these years the action of the Police has been decisive in managing the impact of the flow of displaced people who arrive in Italy seeking refuge from war and persecution. You are “on the front line” both in the initial reception of migrants and in opposing unscrupulous traffickers.
+
+In this work — as the Chief of Police rightly recalled — you are distinguished by your spirit of service and humanity, feeling impelled, even before the regulations and dispositions of law, by the moral imperative to do good, to save as many people as possible and to give your energy and time unsparingly to this commitment.
+
+Dear brothers and sisters, be proud of your work and continue to serve the State, every citizen and every person in danger. In defending the weak and the law you will find the truest meaning of your service and you will be an example to the country, which is in need of people to serve it selflessly, generously and constantly.
+
+May Mary Most Holy Our Mother and St Michael the Archangel, your Patron, protect and assist you. I ask you, please, to pray for me and I bless you from my heart.

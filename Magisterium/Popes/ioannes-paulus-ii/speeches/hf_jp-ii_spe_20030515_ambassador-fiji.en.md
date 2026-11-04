@@ -1,0 +1,47 @@
+---
+id: jp2-spe-20030515-ambassador-fiji.en
+work: jp2-spe-20030515-ambassador-fiji
+title: "To the new Ambassador of the Republic of the Fiji Islands accredited to the Holy See (May 15, 2003)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2003-05-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/may/documents/hf_jp-ii_spe_20030515_ambassador-fiji.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, fr, pt"
+anchors: "{#jp2-spe-20030515-ambassador-fiji} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the new Ambassador of the Republic of the Fiji Islands accredited to the Holy See (May 15, 2003) {#jp2-spe-20030515-ambassador-fiji}
+## ADDRESS OF THE HOLY FATHER JOHN PAUL II TO THE NEW AMBASSADOR OF THE REPUBLIC OF THE FIJI ISLANDS TO THE HOLY SEE
+
+*Thursday* *15 May 2003*
+
+*Mr Ambassador,*
+
+I am pleased to accept the Letters of Credence appointing you Ambassador Extraordinary and Plenipotentiary of the Republic of the Fiji Islands to the Holy See. I reciprocate most cordially the greetings and good wishes which you have brought from President Ratu Josefa Iloilovatu Uluivuda and from all the people of Fiji. My stay in your country in 1986, and the warm welcome which I received, are among my most cherished memories of my Pastoral Visit to Oceania. I take this occasion to assure you of my constant prayers for your nation as it strives to build a harmonious and unified society marked by authentic pluralism and full respect for the racial, cultural and religious diversity of its members.
+
+You have frankly mentioned the difficulties which led to the political crisis of May 2000 and the resolute will of the people of Fiji to make their differences a source of mutual enrichment rather than a motive for division and contention. The efforts which your nation has made to confront the real challenges to national unity in a spirit of honesty, dialogue and constructive cooperation are positive signs of a readiness to look to the future with confidence and determination. At the time of my Pastoral Visit, I encouraged all Fijians "to pursue the paths of creative dialogue and mutual understanding" as a means of growing in brotherhood and forging a shared identity (*Homily in Suva*, 21 November 1986). Precisely this kind of "creativity" – based on a persevering commitment to accepting and appreciating the real differences separating the various elements of Fijian society within the broader context of national unity, constitutional legality and justice under law – must undergird the specific political decisions facing your nation’s leaders. Clearly, in the end, the arduous task of building a social order respectful of legitimate diversities within a shared identity and a commitment to the common good cannot be limited to legislative measures alone, for these would prove ineffectual unless they were grounded first and foremost in the consciousness and in the lived ethos of the population (cf. *[Message for the 2001 World Day of Peace](https://www.vatican.va/content/john-paul-ii/en/messages/peace/documents/hf_jp-ii_mes_20001208_xxxiv-world-day-for-peace.html)*, No. 15).
+
+In a rapidly changing global order, I am convinced that multi-cultural and multi-religious societies like Fiji have much to offer to other nations, since they can assist the wider international community in developing new global models of unity within diversity. A sustained commitment to dialogue between different religions, cultures and traditions is in fact "the obligatory path to the building of a reconciled world, a world able to look with serenity to its own future" (*ibid*., No. 3). Despite daunting challenges and at times heated confrontations, dialogue remains a moral imperative and the only sure means of forging genuine and lasting convergence based on mutual respect and cooperation. Commitment to the path of dialogue is ultimately based on the profound conviction that, beyond our many differences, all of us share an underlying unity born of our being children of God and members of the one human family. All cultures, in their rich variety and distinctive features, are ultimately dynamic, historical expressions of this fundamental unity. As the people of Fiji look to the future, I am confident that they will discover the deepest foundations for their national identity precisely to the extent that they acknowledge and defend those transcendent truths and values which unite all men and women of good will: respect for the dignity of each human being and the protection of fundamental human rights; solidarity between individuals and peoples; and the promotion of justice, without which there can be no authentic freedom or lasting peace.
+
+Allow me to assure you, Mr Ambassador, of the desire of Fiji’s Catholic community to contribute to the work of reconciliation and national unity by their practical witness to the Gospel. Through their outreach in the fields of education and health care, and their service to the poor, the Catholics of Fiji seek to put into practice the evangelical message of love of neighbour and to be a leaven of divine mercy within society. In her preaching and ministry the Church is likewise committed to eliminating the causes of racial, social and religious conflict, promoting a just resolution of the complex legal and ethical issues involving land ownership and use, and fostering a serene and respectful dialogue between the various elements of Fijian society. It is my hope that, together with their brothers and sisters of other Christian denominations, and in a spirit of cooperation with all people of good will, the Catholics of Fiji will continue to serve the common good by serving as peacemakers and builders of solidarity among individuals, families and the greater national community.
+
+Your Excellency, I express to you once more my deep affection for the people of Fiji and my confidence in their capacity to lay the foundations for a harmonious and prosperous society to bequeath to future generations. With prayerful good wishes for the work you now undertake in the service of the nation, I assure you of the constant readiness of the offices of the Holy See to assist you in the fulfilment of your duties. Upon you and your family, and upon all your fellow-citizens, I cordially invoke the divine blessings of wisdom, strength and peace.
+
+\**Insegnamenti di Giovanni Paolo II*, vol. XXVI, 1, p. 756-758.
+
+*L'Osservatore Romano* 16.5.2003 p.8.
+
+*L'Osservatore Romano. Weekly Edition in English* n.21 p.4.

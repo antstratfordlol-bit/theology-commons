@@ -1,0 +1,58 @@
+---
+id: jp2-ang-20040801.en
+work: jp2-ang-20040801
+title: "Angelus, 1 August 2004, Castel Gandolfo"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Angelus / Regina Caeli
+url_date: 2004-08-01
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/angelus/2004/documents/hf_jp-ii_ang_20040801.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-ang-20040801.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-ang-20040801.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 1 August 2004, Castel Gandolfo
+JOHN PAUL II
+
+## ANGELUS
+
+*Castel Gandolfo\
+Sunday, 1 August 2004*
+
+### 1 {#jp2-ang-20040801.1}
+
+This Sunday the liturgy presents to us anew Jesus' teaching on what true riches are:* * not the wealth of material goods, but the spiritual treasure that consists in *recognizing the primacy of God* in our lives, letting his Gospel guide us in all our daily decisions. Jesus explained to the crowd following him that the person is a fool who "*lays up treasure for himself and is not rich toward God"* (cf. Lk 12: 21).
+
+### 2 {#jp2-ang-20040801.2}
+
+Dear Brothers and Sisters, Mary, who describes herself as "the handmaid" of the Lord and totally abandons herself to the divine will, is a unique witness and an eloquent example of *this spiritual "treasure*". May the Blessed Virgin guide us on the *arduous but liberating path of Christian holiness,* a source of peace and inner joy.
+
+I will ask this grace for all believers during my *[pilgrimage to Lourdes](https://www.vatican.va/content/john-paul-ii/en/travels/sub-index2004/trav_lourdes-2004.html),* where I shall be going on 14 and 15 August, and then at Loreto, where on 5 September, I shall be joining the national pilgrimage of the Italian Catholic Action, in which the *Italian Sports Centre* will also be taking part.
+
+### 3 {#jp2-ang-20040801.3}
+
+I thank the Italian Bishops' Conference, the Archbishop of Loreto and the directors of Catholic Action in Italy, represented by the President and the General Chaplain, for their invitation to take part in the Loreto pilgrimage. On that occasion, I will have the joy of adding to the Roll of Blesseds three members of this Association:  the doctor who became a priest, Pedro Tarrés y Claret of Barcelona, and the Italian young man and woman, Alberto Marvelli and Pina Suriano.
+
+I urge the members of Catholic Action to come in large numbers. I will be expecting you at Loreto, dear friends! I expect the children, boys and girls, young people and families! Together we will ask Our Lady of Loreto to obtain for the Association and for the entire Christian people a *new springtime of grace and commitment.*
+
+*After leading the recitation of the Angelus, the Holy Father said:*
+
+I greet all the English-speaking pilgrims and visitors present at today's Angelus. May your time in Rome deepen your love of the universal Church. Upon you all I invoke the grace and peace of Our Lord Jesus Christ. Happy holidays!
+
+Today, on Switzerland's national feast day, I offer the Swiss Guard Corps my cordial greetings, as I vividly remember my recent Apostolic Visit to that noble Country.
+
+Dear Brothers and Sisters, I experienced the Warsaw Uprising in Krakow with strong spiritual tension and prayers. Today, the 60th anniversary of that patriotic impulse towards freedom, I bow my head with all Poles and pay tribute to the heroes of the capital, Warsaw, who undertook to fight the occupier for the freedom and sovereignty of our Homeland. I pray that the Lord may reward those men who heroically laid down their lives. I honour and esteem all who today are enjoying the freedom for which they fought. God bless heroic Warsaw.
+
+I wish you all a good Sunday!

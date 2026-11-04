@@ -1,0 +1,56 @@
+---
+id: francis-mes-20240525-pellegrinaggio-lourdes.en
+work: francis-mes-20240525-pellegrinaggio-lourdes
+title: "Message of the Holy Father, signed by the Cardinal Secretary of State, on the occasion of the 64th International Military Pilgrimage to Lourdes presided over by Archbishop Paul Richard Gallagher [24-26 May 2024] (25 May 2024)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Message
+url_date: 2024-05-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/messages/pont-messages/2024/documents/20240525-messaggio-pellegrinaggio-lourdes.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it"
+anchors: "{#francis-mes-20240525-pellegrinaggio-lourdes} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Message of the Holy Father, signed by the Cardinal Secretary of State, on the occasion of the 64th International Military Pilgrimage to Lourdes presided over by Archbishop Paul Richard Gallagher [24-26 May 2024] (25 May 2024) {#francis-mes-20240525-pellegrinaggio-lourdes}
+## MESSAGE OF THE HOLY FATHER FRANCIS SIGNED BY THE CARDINAL SECRETARY OF STATE, TO MARK THE 64th INTERNATIONAL MILITARY PILGRIMAGE TO LOURDES
+
+\[24-26 May 2024\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+To the participants\
+in the International Military Pilgrimage\
+LOURDES
+
+On the occasion of the 64th International Military Pilgrimage, His Holiness Pope Francis is in spiritual communion with all of you, who come from different backgrounds. He gives thanks to God for this annual meeting at the blessed Grotto of Massabielle, which enables you to forge bonds of friendship, to share the human and spiritual riches that each of you brings, to share moments of joy, and to find in common prayer and exchange the strength needed to overcome the trials, anxieties and loneliness that you often experience in the course of your various commitments.
+
+May you strengthen your conviction that love is stronger than hatred and division, and that you too are called to play an irreplaceable role for the common good and the service of peace in the world.
+
+Your pilgrimage is the conclusion of a triptych proposed by Saint Bernadette. On 2 March 1858, the Virgin Mary entrusted her with the following mission: “Go and tell the priests that a chapel should be built here and that people should come here in procession”. *That people should come in procession*: it was an urgent call to set out on a journey. First and foremost, to God, but also to our brothers and sisters, to build a more united and fraternal world.
+
+The pilgrimage is an opportunity for everyone to renew their baptismal commitment, to encounter Christ, in particular by listening to His word, receiving the Sacrament of Reconciliation and taking part in the Eucharist. This spiritual pause at Lourdes is a time to rethink your military vocation from the perspective of faith, and of the love that every Christian must cultivate towards his brother, even his enemy.
+
+The pilgrimage is also a faith experience that helps us discover the beauty of walking together, supporting each other and reaching out to others. It allows you to be close to your sick and wounded comrades-in-arms and to care for them - especially in this place where the sick are so present - and to bring God's Mercy to the military world. May this take the form of genuine, simple and humane gestures that reveal the tender face of our God. May you live this out not only at Lourdes, but wherever you are sent, bearing witness to the Gospel among your fellow soldiers.
+
+Dear soldiers, the Pope invites you to stand up and walk with courage and perseverance. Be military men and women who stand tall and proud to honour your uniform, your motto and your homeland, but who are also aware that you are part of a single human family, a family that is divided and wounded, but which Christ came to redeem and save through the power of love, not the violence of arms. Be “sentinels of peace”, as Saint John Paul II said (cf. *[Angelus](https://www.vatican.va/content/john-paul-ii/en/angelus/2003/documents/hf_jp-ii_ang_20030223.html)*, 23 February 2003). The world needs you, especially at this dark moment in our history. We need men and women of faith who are capable of putting weapons at the service of peace and brotherhood.
+
+The Holy Father Francis entrusts to God’s mercy all the servicemen and women who have lost their lives in the service of their country or in international operations to defend peace. He invokes a particular abundance of graces on all those present at Lourdes and their families, as well as on the soldiers engaged on various fronts, on mission to preserve peace far from their country and those who are wounded and suffering. He imparted to all a paternal Apostolic Blessing.
+
+Cardinal Pietro Parolin\
+*Secretary of State of His Holiness*
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*[Holy See Press Office Bulletin](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/05/25/240525a.html)*, 25 May 2024

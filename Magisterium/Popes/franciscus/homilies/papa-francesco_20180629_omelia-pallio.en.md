@@ -1,0 +1,54 @@
+---
+id: francis-hom-20180629-pallio.en
+work: francis-hom-20180629-pallio
+title: "Holy Mass and blessing of the Pallium for the new Metropolitan Archbishops on the Solemnity of Saints Peter and Paul (29 June 2018)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2018-06-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/homilies/2018/documents/papa-francesco_20180629_omelia-pallio.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#francis-hom-20180629-pallio} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Holy Mass and blessing of the Pallium for the new Metropolitan Archbishops on the Solemnity of Saints Peter and Paul (29 June 2018) {#francis-hom-20180629-pallio}
+[HOLY MASS AND BLESSING OF THE SACRED PALLIUM\
+FOR THE NEW METROPOLITAN ARCHBISHOPS\
+ON THE SOLEMNITY OF SAINTS PETER AND PAUL, APOSTLES](http://www.vatican.va/news_services/liturgy/libretti/2018/20180629-libretto-santi-pietro-paolo.pdf)
+
+## HOMILY OF HIS HOLINESS POPE FRANCIS
+
+*Saint Peter’s Basilica\
+Friday, 29 June 2018*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2018/6/29/pietroepaolo.html)\]
+
+The readings we have just heard link us to the apostolic Tradition. That Tradition “is not the transmission of things or words, an assortment of lifeless objects; it is the living stream that links us to the origins, the living stream in which those origins are ever present” (BENEDICT XVI, *[Catechesis](http://w2.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060426.html)*, 26 April 2006) and offer us the keys to the Kingdom of heaven (cf. *Mt* 16:19). A Tradition ancient yet ever new, that gives us life and renews the joy of the Gospel. It enables us to confess with our lips and our heart: “‘Jesus Christ is Lord’, to the glory of God the Father” (*Phil* 2:11).
+
+The entire Gospel is an answer to the question present in the hearts of the People of Israel and today too dwells in the hearts of all those who thirst for life: “Are you he who is to come, or shall we look for another?” (*Mt* 11:3). Jesus takes up that question and asks it of his disciples: “But who do *you* say that I am?” (*Mt* 16:15).
+
+Peter speaks up and calls Jesus by the greatest title he could possibly bestow: “You are the Christ” (cf. *Mt* 16:16), the Anointed, the Holy One of God. It is good to think that the Father inspired this answer because Peter had seen how Jesus “anointed” his people. Jesus, the Anointed One, walked from village to village with the sole aim of saving and helping those considered lost. He “anointed” the dead (cf. *Mk* 5:41-42; *Lk* 7:14-15), the sick (cf. *Mk* 6:13; *Jas* 5:14), the wounded (cf. *Lk* 10:34) and the repentant (cf. *Mt* 6:17). He anointed with hope (cf. *Lk* 7:38.46; 10:34; *Jn* 11:2; 12:3). By that anointing, every sinner – the downcast, the infirm, pagans, wherever they found themselves – could feel a beloved part of God’s family. By his actions, Jesus said in a very personal way: “You are mine”. Like Peter, we too can *confess with our lips and our heart* not only what we have heard, but also concretely experienced in our lives. We too have been brought back to life, healed, renewed and filled with hope by the anointing of the Holy One. Thanks to that anointing, every yoke of slavery has been shattered (cf. *Is* 10:27). How can we ever lose the joyful memory that we were ransomed and led to proclaim: “You are the Christ, the Son of the living God” (cf. *Mt* 16:16).
+
+It is interesting to see what follows this passage in the Gospel where Peter confesses his faith: “From that time Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders and chief priests and scribes, and be killed, and on the third day be raised” (*Mt* 16:21). God’s Anointed kept bringing the Father’s love and mercy to the very end. This merciful love demands that we too go forth to every corner of life, to reach out to everyone, even though this may cost us our “good name”, our comforts, our status… even martyrdom.
+
+Peter reacts to this completely unexpected announcement by saying: “God forbid it, Lord! This must never happen to you” (*Mt* 16:22). In this way, he immediately becomes a stumbling stone in the Messiah’s path. Thinking that he is defending God’s rights, Peter, without realizing it, becomes the Lord’s enemy; Jesus calls him “Satan”. To contemplate Peter’s life and his confession of faith also means learning to recognize *the temptations that will accompany the life of every disciple*. Like Peter, we as a Church will always be tempted to hear those “whisperings” of the evil One, which will become a stumbling stone for the mission. I speak of “whispering” because the devil seduces from hiding, lest his intentions be recognized. “He behaves like a hypocrite, wishing to stay hidden and not be discovered” (SAINT IGNATIUS OF LOYOLA, *Spiritual Exercises*, n. 326).
+
+To share in Christ’s anointing, on the other hand, means to share in his glory, which is his cross: Father, glorify your Son… “Father, glorify your name” (*Jn* 12:28). In Jesus, glory and the cross go together; they are inseparable. Once we turn our back on the cross, even though we may attain the heights of glory, we will be fooling ourselves, since it will not be God’s glory, but the snare of the enemy.
+
+Often we feel the temptation to be Christians by keeping a prudent distance from the Lord’s wounds. Jesus touches human misery and he asks us to join him in touching the suffering flesh of others. To proclaim our faith with our lips and our heart demands that we – like Peter – learn to recognize the “whisperings” of the evil one. It demands learning to discern and recognize those personal and communitarian “pretexts” that keep us far from real human dramas, that preserve us from contact with other people’s concrete existence and, in the end, from knowing the revolutionary power of God’s tender love (cf. [*Evangelii Gaudium*, 270](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#The_spiritual_savour_of_being_a_people)).
+
+By not separating his glory from the cross, Jesus wants to liberate his disciples, his Church, from empty forms of triumphalism: forms empty of love, service, compassion, empty of people. He wants to set his Church free from grand illusions that fail to sink their roots in the life of God’s faithful people or, still worse, believe that service to the Lord means turning aside from the dusty roads of history. To contemplate and follow Christ requires that we open our hearts to the Father and to all those with whom he has wished to identify (cf. SAINT JOHN PAUL II, *[Novo Millennio Ineunte](https://w2.vatican.va/content/john-paul-ii/en/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html)*, 49), in the sure knowledge that he will never abandon his people.
+
+Dear brothers and sisters, millions of people continue to ask the question: “Are you he who is to come, or shall we look for another?” (*Mt* 11:3). Let us confess with our lips and heart that Jesus Christ is Lord (cf *Phil* 2:11). This is the *cantus firmus* that we are called daily to intone. With the simplicity, the certainty and the joy of knowing that “the Church shines not with her own light, but with the light of Christ. Her light is drawn from the Sun of Justice, so that she can exclaim: ‘It is no longer I who live, but Christ who lives in me’ (*Gal* 2:20)” (SAINT AMBROSE, *Hexaemeron*, IV, 8, 32).

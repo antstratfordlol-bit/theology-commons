@@ -1,0 +1,52 @@
+---
+id: francis-spe-20150314-comunita-seguimi.en
+work: francis-spe-20150314-comunita-seguimi
+title: "To members of the lay movement 'Seguimi' (14 March 2015)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2015-03-14
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2015/march/documents/papa-francesco_20150314_comunita-seguimi.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20150314-comunita-seguimi} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To members of the lay movement "Seguimi" (14 March 2015) {#francis-spe-20150314-comunita-seguimi}
+.
+
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO MEMBERS OF THE LAY MOVEMENT "SEGUIMI"
+
+*Clementine Hall\
+Saturday, 14 March 2015*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2015/3/14/comunitaseguimi.html)\]
+
+*Dear Brothers and Sisters,*
+
+I welcome you on the occasion of the 50th anniversary of the founding of your community, the lay group *Seguimi*. I warmly greet and thank Cardinal Vallini, who has expressed your sentiments.
+
+As has been recalled, this association was born during the Second Vatican Council, and drew inspiration from the Conciliar Magisterium to live *“the full value of the Gospel”*, as affirmed by the title of one of your publications. The symbolic and deeply spiritual gesture of the first members to leave the Catacombs of St Callixtus are witnesses to this will, which you expressed in the statutory formula of your programme of life: “Jesus Christ alive is at the centre of *Seguimi*”. This is really beautiful. I encourage you to live each day with commitment to this programme, which means to be people decentralized from yourselves and to place your vital core in the living Person of Jesus. So often, in the Church too, we believe we are good Christians because we do well-organized social and charitable works. Okay, those are good things. But we must not forget that the sap that brings life and transforms hearts is the Holy Spirit, the Spirit of Christ. Let Him, the Lord, occupy the centre of your heart and your works. Precisely by remaining firmly united to Him, like branches to the vine (cf. Jn 15:1-9), you may go toward the peripheries of the world.
+
+Your Founders have traced the foundational lines of *Seguimi* to its first members, following a new configuration beyond the classic forms of consecrated life, and to which the Pontifical Council for the Laity granted papal approval. The obligation of the evangelical counsels in a general context of secularism is absorbed into the single fundamental requirement of *faithfulness* to the love of the Father, to Christ and to his Gospel, faithfulness to the action of the Holy Spirit who is love and freedom, faithfulness to the vocational pact among the members of the Group, to whom you are obliged not to fail. In *Seguimi*, fidelity is understood as the highest natural moral value, to which you are knowingly bound in order to respond to the call of God, without other positive legal constraints, confident that if faithfulness is truly lived, no other bonds are necessary. Thus, yours is a form of evangelical life to practice in a context of secularity and freedom. A programme of Christian life for lay people, with clear and demanding objectives, an original means to incarnate the Gospel, a effective way to walk in the world. The *different forms of belonging* likewise represent modalities of commitment and participation in the ideals of the unique community. Single and married people, each in his/her own life status, meet and share an enriching experience of complementarity.
+
+Preserve and develop this *fraternal communion* and the exchange of gifts, aimed at the human and Christian growth of all, and at creativity, optimism, joy and the courage to go — when it’s right — against the tide. Be vigilant on your spiritual journey and help each other to always practice mutual charity, which means protecting oneself from individualistic selfishness in order to be true Gospel witnesses.
+
+As lay people, you are people immersed in the world and work hard within earthly realities in order to serve the good of mankind. You are called to transfuse Christian values into the areas in which you operate through your testimony and words, by meeting people in their actual situations, so they may have full dignity and may be fulfilled by salvation in Christ. He is the fulfillment of every human existence: indeed, by the revelation of the mystery of the Father and His love, He fully reveals man to man himself and makes his supreme calling clear (cf. *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)*, n. 22).
+
+I encourage you to be lay people on the front line, to be active members in the Church’s mission, to live your secularity by dedicating yourselves to the actual realities of the earthly city: the family, professions, social life in its various expressions. Thus you can contribute, as a leaven, to insert the spirit of the Gospel into the folds of history with the witness of faith, of hope and charity.
+
+Dear friends, may *Seguimi* increasingly be a form of Christian life and apostolic commitment which promotes and elevates its members, making them, together with others, leaders of a better world.
+
+I bless you wholeheartedly. Please, do not forget to pray for me.

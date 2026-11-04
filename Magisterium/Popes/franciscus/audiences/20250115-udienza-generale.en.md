@@ -1,0 +1,90 @@
+---
+id: francis-aud-20250115.en
+work: francis-aud-20250115
+title: "General Audience of 15 January 2025 - Catechesis. The most beloved of the Father. 2"
+creator: "Franciscus PP."
+pope: Francis
+document-type: General audience (catechesis)
+url_date: 2025-01-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/audiences/2025/documents/20250115-udienza-generale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt, zh_tw"
+anchors: "{#francis-aud-20250115} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# General Audience of 15 January 2025 - Catechesis. The most beloved of the Father. 2 {#francis-aud-20250115}
+POPE FRANCIS
+
+## GENERAL AUDIENCE
+
+*Audience Hall\
+Wednesday, 15 January 2025*
+
+## \[[Multimedia](https://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2025/1/15/udienza-generale.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## The following text includes parts that were not read out loud, but should be considered as such.
+
+## Catechesis. *The most beloved of the Father*. 2
+
+*Dear brothers and sisters, good morning!*
+
+In the last audience we spoke about children, and today too we will talk about children. Last week we focused on how, in his work, Jesus repeatedly spoke of the importance of protecting, welcoming and loving the little ones.
+
+Yet, even today in the world, hundreds of millions of minors, despite not being of the minimum age to undergo the obligations of adulthood, are forced to work and many of them are exposed to particularly dangerous work; not to mention the boys and girls who are slaves to trafficking for prostitution or pornography, and forced marriages. And this is rather bitter. In our societies, unfortunately, there are many ways in which children are abused and mistreated. Child abuse, of whatever nature, is a despicable act, it is a heinous act. It is not simply a blight on society, no, it is a crime! And it is a gross violation of God’s commandments. No child should be abused. Even one case is already too many. It is therefore necessary to awaken our consciences, to practice closeness and genuine solidarity with abused children and young people, and at the same time to build trust and synergies between those who are committed to offering them opportunities and safe places in which to grow up serenely. I know a country in Latin America, where a special fruit grows, very special, which is called *arándano* \[a species of cranberry\]. Harvesting the *arándano *requires tender hands, and they make children do it, they enslave them as children to harvest it.
+
+Widespread poverty, the shortage of social support tools for families, the increased marginality in recent years along with unemployment and job insecurity are factors that burden the youngest with the highest price to pay. In the metropolises, where the social divide and moral decay “bite”, there are children engaged in drug dealing and the most diverse illicit activities. How many of these children have we seen fall as sacrificial victims! Sometimes tragically they are induced to become “executioners” of their peers, as well as damaging themselves, their dignity and humanity. And yet, when on the street, in the neighbourhood of the parish, and these lost lives present themselves before our eyes, we often look the other way.
+
+There is also a case in my country: a boy called Loan has been abducted and his whereabouts are unknown. And one of the theories is that he has been sent to have his organs removed, for transplants. And this happens, as you well know. This happens! Some return with a scar, others die. This is why today I would like to remember this boy Loan.
+
+It pains us to recognize the social injustice that drives two children, perhaps living in the same neighbourhood or apartment block, to take diametrically opposed paths and destinies because one of them was born into a disadvantaged family. An unacceptable human and social divide: between those who can dream and those who must succumb. But Jesus wants us all free and happy; and if He loves every man and woman as His son and daughter, He loves the little ones with all the tenderness of His heart. That is why He asks us to stop and listen to the suffering of the voiceless, the uneducated. Fighting exploitation, especially child exploitation, is the way to build a better future for the whole of society. Some countries have had the wisdom to put children’s rights in writing. Children have rights. Look yourselves on the internet to find out what children’s rights are.
+
+And so, we can ask ourselves: what can I do? First of all, we must recognize that, if we want to eradicate child labour, we cannot be complicit in it. And when is this the case? For example, when we purchase products that involve child labour. How can we eat and dress, knowing that behind that food and those garments there are exploited children, who work instead of going to school? Find out where those products come from. Awareness of what we purchase is a first act in order not to be complicit. Some will say that, as individuals, we cannot do much. True, but each one can be a drop that, together with many other drops, can become a sea. However, institutions, including church institutions, and companies must also be reminded of their responsibility: they can make a difference by shifting their investments to companies that do not use or permit child labour. Many states and international organizations have already enacted laws and directives against child labour, but more can be done. I also urge journalists – there are some journalists here – to do their part: they can help raise awareness of the problem and help find solutions. Do not be afraid, denounce, denounce these things.
+
+And I thank all those who do not turn away when they see children forced to become adults too soon. Let us always remember the words of Jesus: “Whatever you did for one of these least brothers of mine, you did for me” (*Mt* 25:40). Saint Teresa of Calcutta, a joyful worker in the vineyard of the Lord, was a mother to the most disadvantaged and forgotten girls and boys. With the tenderness and attention of her gaze, she can accompany us to see the invisible little ones, the too many slaves of a world that we cannot abandon to its injustices. Because the happiness of the weakest builds the peace of all. And with Mother Theresa, let us give voice to the children:
+
+“I ask for a safe place
+
+where I can play.
+
+I ask for a smile
+
+From someone who knows how to love.
+
+I ask for the right to be a child,
+
+to be the hope
+
+Of a better world.
+
+I ask to be able to grow
+
+as a person.
+
+Can I count on you?’ (Saint Teresa of Calcutta)
+
+Thank you.
+
+## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Special greetings:
+
+I extend a warm welcome to the English-speaking pilgrims and visitors taking part in today’s Audience, especially those coming from South Korea and the United States. With fervent prayers that the present Jubilee of Hope be a time of grace and spiritual renewal for you and your families, I invoke upon all of you the joy and peace of the Lord Jesus!
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Summary of the Holy Father's words:
+
+Dear brothers and sisters: In our continuing catechesis on children, we now consider their welfare. Jesus, who loves everyone as a child of God, cares especially for those who are the smallest, seeing everything done to them as done to himself. Thus, addressing the needs of these little ones is a serious moral obligation. Today, many children living in poverty are forced to work, while other children suffer from abuse or maltreatment or have recourse to drugs or gangs. As individuals and as a society, we are called to act concretely. For example, we can avoid buying products from or investing in companies that exploit child labour. We can also look to the example of Mother Teresa who invited us to help children grow as persons, in safety and love, that they might become the hope of a better future. Will we do our part?

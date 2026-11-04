@@ -1,0 +1,48 @@
+---
+id: francis-spe-20170627-delegazione-patriarcato-costantinopoli.en
+work: francis-spe-20170627-delegazione-patriarcato-costantinopoli
+title: "To the Delegation of the Ecumenical Patriarchate of Constantinople (27 June 2017)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2017-06-27
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2017/june/documents/papa-francesco_20170627_delegazione-patriarcato-costantinopoli.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20170627-delegazione-patriarcato-costantinopoli} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Delegation of the Ecumenical Patriarchate of Constantinople (27 June 2017) {#francis-spe-20170627-delegazione-patriarcato-costantinopoli}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO THE DELEGATION OF THE ECUMENICAL PATRIARCHATE OF CONSTANTINOPLE
+
+*Tuesday, 27 June 2017*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2017/6/27/delegazione-patriarcatocostantinopoli.html)\]
+
+*Your Eminence,\
+Dear Brothers in Christ,*
+
+I offer you a warm welcome and I thank you for being here for the celebration of Saints Peter and Paul, the principal patrons of this Church of Rome.  I am most grateful to His Holiness Ecumenical Patriarch Bartholomew and to the Holy Synod for having sent you, dear brothers, as their representatives, to share with us the joy of this feast.
+
+Peter and Paul, as disciples and apostles of Jesus Christ, served the Lord in very different ways.  Yet in their diversity, both bore witness to the merciful love of God our Father, which each in his own fashion profoundly experienced, even to the sacrifice of his own life.  For this reason, from very ancient times the Church in the East and in the West combined in one celebration the commemoration of the martyrdom of Peter and Paul.  It is right to celebrate together their self-sacrifice for love of the Lord, for it is at the same time a commemoration of unity and diversity.  As you well know, the iconographical tradition represents the two apostles embracing one another, a prophetic sign of the one ecclesial communion in which legitimate differences ought to coexist.
+
+The exchange of delegations between the Church of Rome and the Church of Constantinople on their respective patronal feasts increases our desire for the full restoration of communion between Catholics and Orthodox, of which we already have a foretaste in fraternal encounter, shared prayer and common service to the Gospel.  In the first millennium, Christians of East and West shared in the same Eucharistic table, preserving together the same truths of faith while cultivating a variety of theological, spiritual and canonical traditions compatible with the teaching of the apostles and the ecumenical councils.  That experience is a necessary point of reference and a source of inspiration for our efforts to restore full communion in our own day, a communion that must not be a bland uniformity.
+
+Your presence affords me the welcome opportunity to recall that this year marks the fiftieth anniversary of the visit of Blessed Paul VI to the Phanar in July 1967, and of the visit of Patriarch Athenagoras, of venerable memory, to Rome in October of that same year.  The example of these courageous and farsighted pastors, moved solely by love for Christ and his Church, encourages us to press forward in our journey towards full unity.  Fifty years ago, those two visits were events that gave rise to immense joy and enthusiasm among the faithful of the churches of Rome and of Constantinople, and led to the decision to send delegations for the respective patronal feasts, a practice that has continued to the present.
+
+I am deeply grateful to the Lord for continuing to grant me occasions to meet my beloved brother Bartholomew.  In particular, I recall with gratitude and thanksgiving our recent meeting in Cairo, where I saw once more the profound convergence in our approach to certain challenges affecting the life of the Church and the world in our time.
+
+Next September, in Leros, Greece, there will be a meeting of the Coordinating Committee of the Joint International Commission for Theological Dialogue between the Catholic Church and the Orthodox Church, co-chaired by Your Eminence and Cardinal Kurt Koch, at the gracious invitation of Metropolitan Paisios.  It is my hope that the meeting will take place in a spiritual climate of attentiveness to the Lord’s will and in a clear recognition of the journey already being made together by many Catholic and Orthodox faithful in various parts of the world, and that it will prove most fruitful for the future of ecumenical dialogue.
+
+Your Eminence, dear brothers, the unity of all his disciples was the heartfelt prayer that Jesus Christ offered to the Father on the eve of his passion and death (cf. *Jn* 17:21).  The fulfilment of this prayer is entrusted to God, but it also involves our docility and obedience to his will.  With trust in the intercession of Saints Peter and Paul, and of Saint Andrew, let us pray for one another and ask the Lord to make us instruments of communion and peace.  And I ask you, please, to continue to pray for me.

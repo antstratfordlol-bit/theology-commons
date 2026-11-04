@@ -1,0 +1,45 @@
+---
+id: b16-mes-20060416-urbi-easter.en
+work: b16-mes-20060416-urbi-easter
+title: "Urbi et Orbi Message - Easter 2006"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Message
+url_date: 2006-04-16
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/messages/urbi/documents/hf_ben-xvi_mes_20060416_urbi-easter.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#b16-mes-20060416-urbi-easter} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Urbi et Orbi Message - Easter 2006 {#b16-mes-20060416-urbi-easter}
+## URBI ET ORBI MESSAGE OF HIS HOLINESS POPE BENEDICT XVI
+
+## EASTER 2006
+
+*Dear Brothers and Sisters!*
+
+*Christus resurrexit!*- Christ is risen!
+
+During last night’s great Vigil we relived the decisive and ever-present event of the Resurrection, the central mystery of the Christian faith. Innumerable Paschal candles were lit in churches, to symbolize the light of Christ which has enlightened and continues to enlighten humanity, conquering the darkness of sin and death for ever. And today there re-echo powerfully the words which dumbfounded the women on the morning of the first day after the Sabbath, when they came to the tomb where Christ’s body, taken down in haste from the Cross, had been laid. Sad and disconsolate over the loss of their Master, they found the great stone rolled away, and when they entered they saw that his body was no longer there. As they stood there, uncertain and bewildered, two men in dazzling apparel surprised them, saying: “Why do you seek the living among the dead? He is not here, he is risen” (*Lk* 24:5-6).  “*Non est hic, sed resurrexit*” (*Lk* 24:6). Ever since that morning, these words have not ceased to resound throughout the universe as a proclamation of joy which spans the centuries unchanged and, at the same time, charged with infinite and ever new resonances.
+
+“He is not here . . . he is risen.” The heavenly messengers announce first and foremost that Jesus “is not here”: the Son of God did not remain in the tomb,because it was not possible for him to be held prisoner by death (cf. *Acts* 2:24) and the tomb could not hold on to “the living one” (*Rev* 1:18) who is the very source of life. Like Jonah in the belly of the whale, so too Christ crucified was swallowed up into the heart of the earth (cf. *Mt* 12:40) for the length of a Sabbath. Truly, “that Sabbath was a high day”, as Saint John tells us (*Jn* 19:31): the highest in history, because it was then that the “Lord of the Sabbath” (*Mt* 12:8) brought to fulfilment the work of creation (cf. *Gen* 2:1-4a), raising man and the entire cosmos to the glorious liberty of the children of God (cf. *Rom* 8:21). When this extraordinary work had been accomplished, the lifeless body was suffused with the living breath of God and, as the walls of the tomb were shattered, he rose in glory. That is why the angels proclaim “he is not here”, he can no longer be found in the tomb. He made his pilgrim way on earth among us, he completed his journey in the tomb as all men do, but he conquered death and, in an absolutely new way, by an act of pure love, he opened the earth, threw it open towards Heaven.
+
+His resurrection becomes our resurrection, through Baptism which “incorporates” us into him. The prophet Ezekiel had foretold this: “Behold, I will open your graves, and raise you from your graves, O my people; and I will bring you home into the land of Israel” (*Ez* 37:12). These prophetic words take on a singular value on Easter Day, because today the Creator’s promise is fulfilled; today, even in this modern age marked by anxiety and uncertainty, we relive the event of the Resurrection, which changed the face of our life and changed the history of humanity. From the risen Christ, all those who are still oppressed by chains of suffering and death look for hope, sometimes even without knowing it.
+
+May the Spirit of the Risen one, in particular, bring relief and security in Africa to the peoples of *Darfur*, who are living in a dramatic humanitarian situation that is no longer sustainable; to those of the *Great Lakes* region, where many wounds have yet to be healed; to the peoples of the *Horn of Africa*, of the *Ivory Coast*, *Uganda*, *Zimbabwe* and other nations which aspire to reconciliation, justice and progress. In Iraq, may peace finally prevail over the tragic violence that continues mercilessly to claim victims. I also pray sincerely that those caught up in the conflict in the *Holy Land* may find peace, and I invite all to patient and persevering dialogue, so as to remove both ancient and new obstacles. May the international community, which re-affirms Israel’s just right to exist in peace, assist the Palestinian people to overcome the precarious conditions in which they live and to build their future, moving towards the constitution of a state that is truly their own. May the Spirit of the Risen one enkindle a renewed enthusiastic commitment of the Countries of *Latin America*, so that the living conditions of millions of citizens may be improved, the deplorable scourge of kidnapping may be eradicated and democratic institutions may be consolidated in a spirit of harmony and effective solidarity. Concerning the international crises linked to nuclear power, may an honourable solution be found for all parties, through serious and honest negotiations, and may the leaders of nations and of International Organizations be strengthened in their will to achieve peaceful coexistence among different races, cultures and religions, in order to remove the threat of terrorism.
+
+May the Risen Lord grant that the strength of his life, peace and freedom be experienced everywhere. Today the words with which the Angel reassured the frightened hearts of the women on Easter morning are addressed to all: “Do not be afraid! ... He is not here; he is risen (*Mt* 28:5-6)”. Jesus is risen, and he gives us peace; he himself is peace. For this reason the Church repeats insistently: “Christ is risen - *Christós anésti.*” Let the people of the third millennium not be afraid to open their hearts to him. His Gospel totally quenches the thirst for peace and happiness that is found in every human heart. Christ is now alive and he walks with us. What an immense mystery of love!
+
+*Christus resurrexit, quia Deus caritas est! Alleluia!*

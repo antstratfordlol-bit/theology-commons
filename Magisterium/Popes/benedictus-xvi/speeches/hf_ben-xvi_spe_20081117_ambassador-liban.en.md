@@ -1,0 +1,49 @@
+---
+id: b16-spe-20081117-ambassador-liban.en
+work: b16-spe-20081117-ambassador-liban
+title: "To the Ambassador of Lebanon to the Holy See (November 17, 2008)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2008-11-17
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/november/documents/hf_ben-xvi_spe_20081117_ambassador-liban.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, fr, it, pt"
+anchors: "{#b16-spe-20081117-ambassador-liban} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Ambassador of Lebanon to the Holy See (November 17, 2008) {#b16-spe-20081117-ambassador-liban}
+## ADDRESS OF THE HOLY FATHER BENEDICT XVI TO H.E. Mr GEORGES CHAKIB EL KHOURY, NEW AMBASSADOR OF THE LEBANESE REPUBLIC TO THE HOLY SEE
+
+*Monday, 17 November 2008*
+
+*Mr Ambassador,*
+
+I am pleased to welcome you at the presentation of the Letters accrediting you as Ambassador Extraordinary and Plenipotentiary of the Lebanese Republic to the Holy See. I am grateful for your kind words and for the cordial greetings you have conveyed to me from H.E. Mr Michel Sleiman, President of the Republic, who I recently had the honour of receiving at the Vatican. In return, I would like to thank him kindly and repeat to him the sentiments of affection and trust which I feel for the entire Lebanese People, as I express the hope that he may courageously continue in his efforts to build a united and solidary society.
+
+As you stressed, Mr Ambassador, Lebanon is the cradle of an ancient culture which radiated throughout the Mediterranean and beyond, as well as the country of numerous religious beliefs that have been able to demonstrate that they can live together in fraternity and collaboration. Rich in its diversity, the Lebanese people have great love for their land, their culture and their traditions, while remaining faithful to their vocation to universal openness. This 1,000-year-old history of your country and its position in the heart of a complex regional context confers upon it as a fundamental mission, that of contributing to peace and harmony among all.
+
+Because of its experience of intercommunitarian and intercultural life and collaboration, Lebanon is a "treasure" entrusted to all the Lebanese. It is therefore their duty to preserve it and to make it profitable, for the good of the entire nation. I likewise hope that the international community will protect and value it and that, through its effective engagement, it may help to prevent this country from becoming a battleground for regional or international conflicts. Thus Lebanon must be as a laboratory for the research of effective solutions to the conflicts that for so long have troubled the Middle East.
+
+In this perspective, I am delighted with the courageous efforts, made in the past few months by the entire country and by its leaders, to restore political life and the national institutions as a whole to their normal function, thanks to the patient efforts of all. The election of the President of the Republic, the formation of a nationally united government and the approval of a new electoral law can only encourage national unity and contribute to an authentic coexistence among the different members of the nation. Moreover, the "national dialogue" that began a few weeks ago will certainly be an opportunity to clarify the challenges that the country must face today and to seek the compromises necessary to confront them. I therefore hope that, setting aside private interests and healing the wounds of the past, everyone may effectively pursue the path of dialogue and reconciliation, to permit the country to make stable progress.
+
+Nevertheless, the tensions which unfortunately still exist show that it is necessary to advance decisively on the path opened which was opened a few months ago by the Doha Agreement, to build together Lebanese institutions. The fundamental attitude that must guide each person in this commitment to the service of the common good must remain unchanged. May each member of the Lebanese people feel truly at home in Lebanon and see that his/her concerns and legitimate expectations are effectively taken into consideration, with reciprocal respect for the rights of others. To achieve this, it is necessary to encourage and develop a real education of consciences in peace, in reconciliation and in dialogue, especially for the young generations. As my venerable Predecessor Pope John Paul II wrote: "One must never forget that a gesture of peace can disarm one's adversary and often invites him to respond positively to the hand held out, because peace, which is a good par excellence, tends to be communicated" (Apostolic Exhortation *Une espérance nouvelle pour le Liban*, n. 98). This lasting peace which is a profound aspiration of all the Lebanese, is possible to the extent in which there is an authentic desire to live together in the same land and to consider justice, reconciliation and dialogue as a favourable setting for the resolution of the problems of individuals and groups. To build a society that assures all its members a dignified and free existence, ever deeper cooperation among all of the members of the nation must be developed, founded on relations of trust among individuals and among communities.
+
+Mr Ambassador, in this important phase that your country is experiencing, the Holy See continues to follow developments in the situation with close attention and is especially interested in the efforts made to settle definitively the issues that Lebanon must face. Particularly sensitive to the suffering to which the populations of the Middle East have been subjected for so long, the Holy See proceeds with determination in its commitment towards peace and reconciliation in Lebanon and in all of this region so dear to believers' hearts.
+
+At the end of this meeting, permit me, Mr Ambassador, to greet warmly the Bishops and the Catholic communities of Lebanon through you. In continuation with the recent beatification in Beirut of Fr Jacques Haddad, Abouna Yaacoub, an apostle of mercy and an ardent preacher of the Word of God, I invite Catholics to be in profound communion with their Pastors, enthusiastic architects of unity and fraternity with their fellow citizens. May this intense moment, which united Lebanese of every origin and religious sensibility in the recognition of the figure full of wisdom and of the admirable work of one of them, be prolonged in a common commitment at the service of the peace and of the unity of the nation!
+
+Mr Ambassador, today you inaugurate the noble mission of representing Lebanon to the Holy See and of maintaining the excellent relations that unite your country to the Apostolic See. Please accept the warmest good wishes that I extend for your joyous success, and rest assured of always finding among my collaborators the understanding and support necessary!
+
+I wholeheartedly invoke an abundance of divine Blessings upon you, upon your family, upon your collaborators at the Embassy, upon all the Lebanese and upon your country's leaders.

@@ -1,0 +1,49 @@
+---
+id: francis-spe-20220528-buddisti-mongolia.en
+work: francis-spe-20220528-buddisti-mongolia
+title: "To a Buddhist Delegation from Mongolia (28 May 2022)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2022-05-28
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2022/may/documents/20220528-buddisti-mongolia.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20220528-buddisti-mongolia} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To a Buddhist Delegation from Mongolia (28 May 2022) {#francis-spe-20220528-buddisti-mongolia}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO A BUDDHIST DELEGATION FROM MONGOLIA
+
+*Saturday, 28 May 2022*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2022/5/28/buddisti-mongolia.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+I offer a warm and respectful welcome to you, dear Buddhist leaders from Mongolia, together with Bishop Giorgio *Marengo, Apostolic Prefect of Ulaanbaatar, who is accompanying you*. I am grateful for this, your first visit to the Vatican as official representatives of Mongolian Buddhism, which seeks to consolidate your friendly relations with the Catholic Church for the sake of advancing mutual understanding and cooperation in the building of a peaceful society. The occasion is particularly significant, since this year marks the thirtieth anniversary of the Apostolic Prefecture in your country and of the establishment of diplomatic relations between the Holy See and Mongolia.
+
+Peace is the ardent yearning of humanity today. Consequently, there is an urgent need, through dialogue at all levels, to promote a culture of peace and nonviolence, and to work to that end. This dialogue must invite all people to reject violence in every form, including violence done to the environment. Sadly too, there are those who continue to abuse religion by using it to justify acts of violence and hatred.
+
+Jesus and the Buddha were peacemakers and promotors of nonviolence. “Jesus himself lived in violent times. Yet he taught that the true battlefield, where violence and peace meet, is the human heart… He unfailingly preached God’s unconditional love, which welcomes and forgives. He taught his disciples to love their enemies (cf. *Mt* 5:44)… Jesus marked out the path of nonviolence. He walked that path to the very end, to the cross, whereby he became our peace and put an end to hostility (cf. *Eph* 2:14-16)”. Thus, “to be true followers of Jesus today also includes embracing his teaching about nonviolence” (*[Message for the 2017 World Day of Peace](https://www.vatican.va/content/francesco/en/messages/peace/documents/papa-francesco_20161208_messaggio-l-giornata-mondiale-pace-2017.html)*, 3).
+
+The core message of the Buddha was nonviolence and peace. He taught that “victory begets enmity; the defeated dwell in pain. Happily, the peaceful live, discarding both victory and defeat” (*Dhammapada*, XV, 5 \[201\]). In addition, he insisted that self*-*conquest is greater than the conquest of others: “Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself” (ibid*,* VIII, 4 \[103\]).
+
+In a world ravaged by conflicts and wars, we, as religious leaders deeply rooted in our respective religious teachings, have a duty to awaken in humanity the firm resolve to renounce violence and to build a culture of peace.
+
+Though the presence of more formal communities of the Catholic faithful in your country is fairly recent, and their numbers small but significant, the Church is fully committed to fostering a culture of encounter, in imitation of her Master and Founder, who commanded his disciples: “Love one another as I love you” (*Jn* 15:12). Let us strengthen our friendship for the benefit of everyone. Mongolia has a long-standing tradition of peaceful coexistence between different religions. It is my hope and prayer that this ancient history of harmony in diversity may continue in our own day through the effective implementation of religious freedom and the promotion of joint initiatives for the common good. Your presence here today is itself a sign of hope. With these sentiments, I encourage you to persevere in your fraternal dialogue and your good relations with the Catholic Church in your country, for the sake of peace and harmony.
+
+Thank you once again for your visit, which is greatly appreciated. I trust that your stay in Rome will be both pleasant and enriching. I am also certain that your meeting with the members of the Pontifical Council for Interreligious Dialogue will provide an opportunity to explore further ways to promote Buddhist-Christian dialogue in Mongolia and in the region.
+
+To you and to all those whom you represent in the different Buddhist monasteries in Mongolia, I offer prayerful good wishes of abundant prosperity and peace!

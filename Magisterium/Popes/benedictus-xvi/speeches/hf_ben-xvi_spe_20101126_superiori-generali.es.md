@@ -1,0 +1,45 @@
+---
+id: b16-spe-20101126-superiori-generali.es
+work: b16-spe-20101126-superiori-generali
+title: "A los participantes en la Asamblea general de la Unión de Superiores Generales (USG), y de la Unión Internacional de Superioras Generales (UISG) (26 de noviembre de 2010)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2010-11-26
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2010/november/documents/hf_ben-xvi_spe_20101126_superiori-generali.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20101126-superiori-generali} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los participantes en la Asamblea general de la Unión de Superiores Generales (USG), y de la Unión Internacional de Superioras Generales (UISG) (26 de noviembre de 2010) {#b16-spe-20101126-superiori-generali}
+***DISCURSO DEL SANTO PADRE BENEDICTO XVI\
+A LOS SUPERIORES Y SUPERIORAS GENERALES\
+\***
+*Sala Clementina\
+Viernes 26 de noviembre de 2010*
+
+*Queridos hermanos y hermanas:*
+
+Me alegra encontrarme con vosotros con ocasión de la Asamblea semestral de la Unión de los superiores generales, que estáis celebrando, en continuidad con la de mayo pasado, sobre el tema de la vida consagrada en Europa. Saludo al presidente, don Pascual Chávez —a quien agradezco las palabras que me ha dirigido— al igual que al Consejo ejecutivo; un saludo especial al Comité directivo de la Unión internacional de las superioras generales y a los numerosos superiores generales. Extiendo mi saludo a todos vuestros hermanos y hermanas esparcidos por el mundo, especialmente a cuantos sufren por testimoniar el Evangelio. Deseo expresar mi vivo agradecimiento por lo que hacéis en la Iglesia y con la Iglesia en favor de la evangelización y del hombre. Pienso en las múltiples actividades pastorales en las parroquias, en los santuarios y en los centros de culto, para la catequesis y la formación cristiana de los niños, de los jóvenes y los adultos, manifestando vuestra pasión por Cristo y por la humanidad. Pienso en el gran trabajo en el campo educativo, en las universidades y en las escuelas; en las múltiples obras sociales, a través de las cuales salís al encuentro de los hermanos más necesitados con el mismo amor de Dios. Pienso también en el testimonio, a veces arriesgado, de vida evangélica en las misiones *ad gentes*, en circunstancias a menudo difíciles.
+
+Habéis dedicado vuestras dos últimas Asambleas a considerar el futuro de la vida consagrada en Europa. Esto ha significado reflexionar sobre el sentido mismo de vuestra vocación, que conlleva, ante todo, buscar a Dios, *quaerere Deum*: por vocación sois buscadores de Dios. A esta búsqueda consagráis las mejores energías de vuestra vida. Pasáis de las cosas secundarias a las esenciales, a lo que es verdaderamente importante; buscáis lo definitivo, buscáis a Dios, mantenéis la mirada dirigida hacia él. Como los primeros monjes, cultiváis una orientación escatológica: detrás de lo provisional buscáis lo que permanece, lo que no pasa (cf. *[Discurso en el Collège des Bernardins](https://www.vatican.va/content/benedict-xvi/es/speeches/2008/september/documents/hf_ben-xvi_spe_20080912_parigi-cultura.html)*, París, 12 de septiembre de 2008). Buscáis a Dios en los hermanos que os ha dado, con los cuales compartís la misma vida y misión. Lo buscáis en los hombres y en las mujeres de nuestro tiempo, a los que sois enviados para ofrecerles, con la vida y la palabra, el don del Evangelio. Lo buscáis particularmente en los pobres, primeros destinatarios de la Buena Noticia (cf. *Lc* 4, 18). Lo buscáis en la Iglesia, donde el Señor se hace presente, sobre todo en la Eucaristía y en los demás sacramentos, y en su Palabra, que es camino primordial para la búsqueda de Dios, nos introduce en el coloquio con él y nos revela su verdadero rostro. ¡Sed siempre buscadores y testigos apasionados de Dios!
+
+La renovación profunda de la vida consagrada parte de la centralidad de la Palabra de Dios, y más concretamente del Evangelio, regla suprema para todos vosotros, como afirma el concilio Vaticano II en el decreto *[Perfectae caritatis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_sp.html)* (cf. n. 2) y como bien comprendieron vuestros fundadores: la vida consagrada es una planta con muchas ramas que hunde sus raíces en el Evangelio. Lo demuestra la historia de vuestros Institutos, en los cuales la firme voluntad de vivir el mensaje de Cristo y de configurar la propia vida a este, ha sido y sigue siendo el criterio fundamental del discernimiento vocacional y de vuestro discernimiento personal y comunitario. El Evangelio vivido diariamente es el elemento que da atractivo y belleza a la vida consagrada y os presenta ante el mundo como una alternativa fiable. Esto necesita la sociedad actual, esto espera de vosotros la Iglesia: ser Evangelio vivo.
+
+Otro aspecto fundamental de la vida consagrada que quiero subrayar es la fraternidad: «*confessio Trinitatis*» (cf. Juan Pablo II, Exhort. ap. [*Vita consecrata*,](https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_25031996_vita-consecrata.html) 41) y parábola de la Iglesia comunión. En efecto, a través de ella pasa el testimonio de vuestra consagración. La vida fraterna es uno de los aspectos que mayormente buscan los jóvenes cuando se acercan a vuestra vida; es un elemento profético importante que ofrecéis en una sociedad fuertemente individualista. Conozco los esfuerzos que estáis haciendo en este campo, como conozco también las dificultades que conlleva la vida comunitaria. Es necesario un discernimiento serio e constante para escuchar lo que el Espíritu dice a la comunidad (cf. *Ap* 2, 7), para reconocer lo que viene del Señor y lo que le es contrario (cf. [*Vita consecrata*](https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_25031996_vita-consecrata.html), 73). Sin el discernimiento, acompañado de la oración y la reflexión, la vida consagrada corre el riesgo de acomodarse a los criterios de este mundo: el individualismo, el consumismo, el materialismo; criterios por los que la fraternidad viene a menos y la misma vida consagrada pierde atractivo y garra. Sed maestros de discernimiento, a fin de que vuestros hermanos y vuestras hermanas asuman este *habitus* y vuestras comunidades sean signo elocuente para el mundo de hoy. Vosotros que ejercéis el servicio de la autoridad, y que tenéis tareas de guía y de proyección del futuro de vuestros Institutos religiosos, recordad que una parte importante de la animación espiritual y del gobierno es la búsqueda común de los medios para favorecer la comunión, la mutua comunicación, el afecto y la verdad en las relaciones recíprocas.
+
+Un último elemento que quiero resaltar es la misión. La misión es el modo de ser de la Iglesia y, en esta, de la vida consagrada; forma parte de vuestra identidad; os impulsa a llevar el Evangelio a todos, sin fronteras. La misión, sostenida por una fuerte experiencia de Dios, por una robusta formación y por la vida fraterna en comunidad, es una clave para comprender y revitalizar la vida consagrada. Id, por tanto, y con fidelidad creativa haced vuestro el desafío de la nueva evangelización. Renovad vuestra presencia en los aerópagos de hoy para anunciar, como hizo san Pablo en Atenas, al Dios «ignoto» (cf. *[Discurso en el Collège des Bernardins](https://www.vatican.va/content/benedict-xvi/es/speeches/2008/september/documents/hf_ben-xvi_spe_20080912_parigi-cultura.html)*).
+
+Queridos superiores generales, el momento actual presenta para no pocos Institutos el dato de la disminución numérica, especialmente en Europa. Las dificultades, sin embargo, no deben hacernos olvidar que la vida consagrada tiene su origen en el Señor: él la quiere, para la edificación y la santidad de su Iglesia, y por eso la Iglesia misma nunca se verá privada de ella. Os aliento a caminar en la fe y en la esperanza, a la vez que os pido un renovado compromiso en la pastoral vocacional y en la formación inicial y permanente. Os encomiendo a la santísima Virgen María, a vuestros santos fundadores y patronos, mientras de corazón os imparto mi bendición apostólica, que extiendo a vuestras familias religiosas.

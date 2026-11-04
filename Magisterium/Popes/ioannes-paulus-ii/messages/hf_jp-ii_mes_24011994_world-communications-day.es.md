@@ -1,0 +1,73 @@
+---
+id: jp2-mes-19940124-world-communications-day.es
+work: jp2-mes-19940124-world-communications-day
+title: "XXVIII Jornada Mundial de las Comunicaciones Sociales, 1994"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Message
+url_date: 1994-01-24
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/messages/communications/documents/hf_jp-ii_mes_24011994_world-communications-day.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#jp2-mes-19940124-world-communications-day} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# XXVIII Jornada Mundial de las Comunicaciones Sociales, 1994 {#jp2-mes-19940124-world-communications-day}
+## MENSAJE DEL SANTO PADRE JUAN PABLO II PARA LA XXVIII JORNADA MUNDIAL DE LAS COMUNICACIONES SOCIALES, 1994
+
+## Tema: *«Televisión y familia: criterios para saber mirar»
+
+*Queridos hermanos y hermanas:*
+
+En los últimos decenios la televisión ha revolucionado las comunicaciones influenciando profundamente la vida familiar. Hoy, la televisión es una fuente primaria de noticias, informaciones y entretenimiento para innumerables familias y forma parte de sus actitudes y opiniones, de sus valores y modelos de comportamiento.
+
+La televisión puede enriquecer la vida familiar. Puede unir más estrechamente a los miembros de la familia y promover la solidaridad con otras familias y con la comunidad en general. Puede acrecentar no solamente la cultura general, sino también la religiosa, permitiendo escuchar la palabra de Dios, afianzar la propia identidad religiosa y alimentar la vida moral y espiritual.
+
+La televisión puede también perjudicar la vida familiar: al difundir valores y modelos de comportamiento falseados y degradantes, al emitir pornografía e imágenes de violencia brutal al inculcar el relativismo moral y el escepticismo religioso; al dar a conocer relaciones deformadas, informes manipulados de acontecimientos y cuestiones actuales; al transmitir publicidad que explota y reclama los bajos instintos y exalta una visión falseada de la vida que obstaculiza la realización del mutuo respeto, de la justicia y de la paz.
+
+Incluso cuando los programas televisivos no son moralmente criticables, la televisión puede tener efectos negativos en la familia. Puede contribuir al aislamiento de los miembros de la familia en su propio mundo, impidiendo auténticas relaciones interpersonales, puede también dividir a la familia, alejando a los padres de los hijos y a los hijos de los padres.
+
+Dado que la renovación moral y espiritual de toda la familia humana ha de encontrar su raíz en la auténtica renovación de cada una de las familias, el tema de la Jornada mundial de las comunicaciones sociales de 1994, *Televisión y familia: criterios para saber mirar* resulta especialmente adecuado, sobre todo durante este Año internacional de la familia, en el que la comunidad mundial está buscando la manera de reforzar la vida familiar.
+
+En este mensaje, deseo subrayar especialmente las responsabilidades de los padres, de los hombres y las mujeres de la industria televisiva, de las autoridades públicas y de los que cumplen sus deberes pastorales y educativos en el interior de la Iglesia. En sus manos está el poder de hacer de la televisión un medio cada vez más eficaz para ayudar a las familias a desempeñar su propio papel, que es el de constituir una fuerza de renovación moral y social.
+
+Dios ha confiado a los padres la grave responsabilidad de ayudar a los hijos «desde la más tierna edad, a buscar la verdad y a vivir en conformidad con la misma, a buscar el bien y a fomentarlo (*[Mensaje para la Jornada mundial de la paz de 1991](https://www.vatican.va/content/john-paul-ii/es/messages/peace/documents/hf_jp-ii_mes_08121990_xxiv-world-day-for-peace.html)*, n. 3; cf. *L'Osservatore Romano*, edición en lengua española, 21 de diciembre de 1990, p. 22). Éstos tienen pues, el deber de conducir a sus hijos a que aprecien «todo cuanto hay de verdadero, de noble, de justo, de puro, de amable, de honorable» (*Flp* 4, 8).
+
+Por tanto, además de ser espectadores capaces de discernir por sí mismos, los padres deberían contribuir activamente a formar en sus hijos hábitos de ver la televisión, que les lleven a un sano desarrollo humano, moral y religioso. Los padres deberían informar anticipadamente a su hijos acerca del contenido de los programas y hacer una selección responsable teniendo como objetivo el bien de la familia, para decidir cuáles conviene ver y cuáles no. A este respecto, pueden resultar útiles las recensiones y juicios facilitados por agencias religiosas y por otros grupos responsables, así como adecuados programas educativos propuestos por los medios de comunicación social. Los padres deberían también discutir con sus hijos sobre la televisión, ayudándoles a regular la cantidad y la calidad de los programas, y a percibir y juzgar los valores éticos que encierran determinados programas, porque la familia es «el vehículo privilegiado para la transmisión de aquellos valores religiosos y culturales que ayudan a la persona a adquirir la propia identidad» (*[Mensaje para la Jornada mundial de la Paz 1994](https://www.vatican.va/content/john-paul-ii/es/messages/peace/documents/hf_jp-ii_mes_08121993_xxvii-world-day-for-peace.html)*, n. 2; cf. *L'Osservatore Romano*, edición en lengua española, 17 de diciembre de 1993, p. 5).
+
+Formar esos hábitos en los hijos a veces equivale simplemente a apagar la televisión porque hay algo mejor que hacer porque es necesario en atención a otros miembros de la familia o porque la visión indiscriminada de la televisión puede ser perjudicial. Los padres que de forma regular y prolongada usan la televisión como una especie de niñera electrónica abdican de su papel de educadores primarios de sus hijos. Tal dependencia de la televisión puede privar a los miembro de la familia de las posibilidades de interacción mutua a través de la conversación, las actividades y la oración en común. Los padres prudentes son también conscientes del hecho de que los buenos programas han de integrarse con otras fuentes de información, entretenimiento educación y cultura.
+
+Para garantizar que la industria televisiva tutele los derechos de la familia, los padres deberían poder expresar sus legítimas preocupaciones a productores y responsables de los medios de comunicación social. A veces resultará útil unirse a otros para formar asociaciones que representen sus intereses con respecto a los medios de comunicación, a los patrocinadores y anunciantes, y a las autoridades públicas.
+
+Todos los que trabajan para la televisión —dirigentes y responsables, productores y directores, escritores y estudiosos, periodistas, presentadores y técnicos— tienen gran responsabilidad en relación con las familias, que constituyen una porción muy notable de su público. En su vida profesional y personal, los que trabajan en la televisión deberían tratar de ponerse al servicio de la familia en cuanto comunidad fundamental de vida, amor y solidaridad de la sociedad. Reconociendo la influencia del medio de comunicación en que trabajan, deberían promover los valores espirituales y morales y oponerse a «cuanto pueda herir la familia en su existencia, su estabilidad, su equilibrio y su felicidad» por incluir «erotismo o violencia, apología del divorcio o actitudes antisociales de los jóvenes» ([Pablo VI](https://www.vatican.va/content/dam/john-paul-ii/messages/communications/documents/Pablo%20VI), *[Mensaje para la Jornada mundial de las comunicaciones sociales 1969](https://www.vatican.va/content/paul-vi/es/messages/communications/documents/hf_p-vi_mes_19690407_iii-com-day.html)*, n. 2; cf. *L'Osservatore Romano*, edición en lengua española, 18 de mayo de 1969, p. 2).
+
+La televisión se ocupa a menudo de temas serios: la debilidad humana y el pecado, y sus consecuencias para los individuos y la sociedad; el fracaso de instituciones sociales, incluidos el gobierno y la religión; apremiantes cuestiones acerca del sentido de la vida. Debería tratar estos temas de manera responsable, sin sensacionalismo y con sincera solicitud por el bien de la sociedad, así como con escrupuloso respeto hacia la verdad. «La verdad os hará libres» (*Jn* 8, 32), dijo Jesús y, en último término, toda la verdad tiene su fundamento en Dios, que es también la fuente de nuestra libertad y creatividad.
+
+Al cumplir las propias responsabilidades, la industria televisiva debería desarrollar y observar un código ético que incluya el compromiso de satisfacer las necesidades de las familias y promover los valores que sostienen la vida familiar. También los Consejos de los medios de comunicación, formados tanto por miembros de la industria como por representantes del público, son un modo muy adecuado para hacer que la televisión responda más a las necesidades y a los valores de sus espectadores.
+
+Los canales de televisión, tanto públicos como privados, representan un medio público al servicio del bien común; no son sólo una garantía privada de intereses comerciales o un instrumento de poder o de propaganda para determinados grupos sociales, políticos o económicos; han de estar al servicio del bienestar de la sociedad en su totalidad.
+
+Por tanto, en cuanto célula fundamental de la sociedad, la familia merece ser asistida y defendida con medidas apropiadas por parte del Estado y de otras instituciones (cf. *[Mensaje para la Jornada mundial de la Paz 1994](https://www.vatican.va/content/john-paul-ii/es/messages/peace/documents/hf_jp-ii_mes_08121993_xxvii-world-day-for-peace.html)*, n. 5). Eso implica algunas responsabilidades por parte de las autoridades públicas con respecto a la televisión.
+
+Reconociendo la importancia de un libre intercambio de ideas y de informaciones, la Iglesia apoya la libertad de palabra y de prensa (cf. *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)*, 59). Al mismo tiempo, insiste en el hecho de que se ha de respetar «el derecho de los individuos, de las familias y de la sociedad a la vida privada, a la decencia pública y a la protección de los valores esenciales de la vida» (Consejo pontificio para las comunicaciones sociales, *[Pornografía y violencia en las comunicaciones sociales. Una respuesta pastoral](http://www.vatican.va/roman_curia/pontifical_councils/pccs/documents/rc_pc_pccs_doc_07051989_pornography_sp.html)*, n. 21; cf. *L'Osservatore Romano*, edición en lengua española, 4 de junio de 1989, p. 18). Se invita a las autoridades públicas a que establezcan y hagan respetar modelos éticos razonables para la programación, que promuevan los valores humanos y religiosos en los que se basa la vida familiar y desaconsejen todo lo que le perjudique. También han de promover el diálogo entre la industria televisiva y el público, facilitando estructuras y oportunidades para que pueda tener lugar.
+
+Por su parte, las organizaciones vinculadas a la Iglesia prestan un servicio excelente a las familias, instruyéndolas acerca de los medios de comunicación social y ofreciéndoles juicios sobre películas y programas. En donde los recursos lo permitan, las organizaciones eclesiales de comunicación social pueden también ayudar a las familias produciendo y transmitiendo programas para las familias o promoviendo este tipo de programación. Las Conferencias episcopales y las diócesis deberían mostrar, con energía, la «dimensión familiar» de la televisión, como parte de su programa pastoral para la comunicaciones (cf. Consejo pontificio para las comunicaciones sociales, *[Aetatis novae](http://www.vatican.va/roman_curia/pontifical_councils/pccs/documents/rc_pc_pccs_doc_22021992_aetatis_sp.html)*, 21-23, cf. *L'Osservatore Romano*, edición en lengua española, 20 de marzo de 1992, p. 13).
+
+Ya que los profesionales de la televisión se esfuerzan en presentar una visión de la vida a un amplio público, que incluye niños y jóvenes, es conveniente que cuenten con el ministerio pastoral de la Iglesia, que les puede ayudar a apreciar los principios éticos y religiosos que confieren pleno significado a la vida humana y familiar. «Estos programas pastorales deberán comportar una formación permanente que pueda ayudar a estos hombres y mujeres —muchos de los cuales desean sinceramente saber y practicar lo que es justo en el campo ético y moral— a estar cada vez más imbuidos por los criterios morales, en su vida tanto profesional como privada» (cf. Consejo pontificio para las comunicaciones sociales, *[Aetatis novae](http://www.vatican.va/roman_curia/pontifical_councils/pccs/documents/rc_pc_pccs_doc_22021992_aetatis_sp.html)*, 19, cf. *L'Osservatore Romano*, edición en lengua española, 20 de marzo de 1992, p. 13).
+
+La familia, basada en el matrimonio, es una comunión única de personas que Dios ha querido que sea «la unidad fundamental y natural de la sociedad» (Declaración universal de los derechos del hombre art. 16, 3). La televisión y los otros medios de comunicación social tienen un poder inmenso para sostener y reforzar esa comunión en el interior de la familia, así como la solidaridad con otras familias y un espíritu de servicio con respecto a la sociedad. La Iglesia —que es una comunión en la verdad y en el amor de Jesucristo, la Palabra de Dios—, agradecida por la contribución que la televisión, en cuanto medio de comunicación, ha dado y puede dar a esa comunión en el seno de las familias y entre las familias, aprovecha la ocasión de la Jornada mundial de las comunicaciones sociales de 1994 para animar a las mismas familias, a los que trabajan en el ámbito de los medios de comunicación y a las autoridades públicas a que realicen con plenitud su noble misión de reforzar y promover la familia, primera y más vital comunidad de la sociedad.
+
+*Vaticano, 24 de enero de 1994.*
+
+## JOANNES PAULUS PP. II

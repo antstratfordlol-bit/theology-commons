@@ -1,0 +1,46 @@
+---
+id: francis-spe-20191216-ragazzi-acr.en
+work: francis-spe-20191216-ragazzi-acr
+title: "To a delegation of boys and girls of the Italian Catholic Action (16 December 2019)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2019-12-16
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2019/december/documents/papa-francesco_20191216_ragazzi-acr.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it"
+anchors: "{#francis-spe-20191216-ragazzi-acr} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To a delegation of boys and girls of the Italian Catholic Action (16 December 2019) {#francis-spe-20191216-ragazzi-acr}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO THE YOUNG PEOPLE OF ITALIAN CATHOLIC ACTION
+
+*Consistory Hall\
+Monday, 16 December 2019*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2019/12/16/ragazzi-acr.html)\]
+
+*Dear boys and girls*,
+
+It is always nice to welcome you on the occasion of the Holy Nativity. I greet you with affection and ask you to pass on my greeting and Christmas wishes to all the boys and girls of Catholic Action that you represent. I greet Msgr. Gualtiero Sigismondi, Professor Matteo Truffelli, your central assistant, the national manager and all the other educators who accompany you.
+
+I thank you for your visit, for your good wishes and especially for your prayers. And I renew them with the hope that the Saviour will make complete the joy that I see on your faces today.
+
+I appreciate the proposal for association that you are carrying out in this year, the fiftieth anniversary of the foundation of the ACR. Your formation program outlines a path that helps you to become aware of your vocation as disciples-missionaries. And I am glad that you have had a major meeting entitled “Young people in synod”. It will be interesting to know what came out of this meeting, your observations and your proposals. I would like that.
+
+I leave you a task to do at home: on Christmas Day, gather in prayer and, with the same wonder as the shepherds, look at the Child Jesus, Who came into the world to bring God’s love, Who makes all things new. With His birth, Jesus made Himself a bridge between God and mankind, reconciled earth and sky, and recomposed the whole human race in unity. And today He also asks you to be little “bridges” where you live: you already realize that there is always a need to build bridges, don't you? What is better? Building bridges or walls? \[The young people answer: “Bridges!”\]. And today He also asks you to be little bridges, where you live. Already you realize that this is always necessary. Sometimes it is not easy, but if we are united with Jesus we can do it.
+
+I ask Mary, the Mother of Jesus and our Mother, to accompany your journey. I recommend that you learn from her what it means to say: “Christmas”. She and Saint Joseph can truly teach us how to accept Jesus, how to adore Him and how to follow Him day by day. I bless you and all the boys and girls of the ACR. And you, please, do not forget to pray for me. Thank you!
+
+\*[*Bulletin of the Holy See Press Office,* 16 December 2019](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2019/12/16/191216b.html)

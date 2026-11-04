@@ -1,0 +1,92 @@
+---
+id: jp2-hom-19990612-zamosc.es
+work: jp2-hom-19990612-zamosc
+title: "Viaje Apostólico a Polonia: Liturgia de la Palabra celebrada en la ciudad de Zamosc (12 de junio de 1999)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Homily
+url_date: 1999-06-12
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/homilies/1999/documents/hf_jp-ii_hom_19990612_zamosc.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pl, pt"
+anchors: "{#jp2-hom-19990612-zamosc.N} — numbered paragraphs 1..6 (6 anchors), shared with jp2-hom-19990612-zamosc.en"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje Apostólico a Polonia: Liturgia de la Palabra celebrada en la ciudad de Zamosc (12 de junio de 1999)
+[VIAJE APOSTÓLICO A POLONIA](http://w2.vatican.va/content/john-paul-ii/es/travels/1999/travels/documents/trav_poland-1999.html)**\**
+(5-17 DE JUNIO DE 1999)
+
+## CELEBRACIÓN DE LA PALABRA
+
+## HOMILÍA DEL SANTO PADRE JUAN PABLO II
+
+*Zamosc, 12 de junio 1999*
+
+### 1 {#jp2-hom-19990612-zamosc.1}
+
+«¡*Feliz la que ha creído que se cumplirían las cosas que le fueron dichas de parte del Señor*!» (*Lc* 1, 45).
+
+A lo largo del itinerario de nuestra peregrinación por Polonia nos encontramos nuevamente con María. Es un don especial de la gracia divina el hecho de que precisamente en Zamosc, donde, desde hace muchas generaciones, María es venerada como Madre de la divina protección en el santuario-catedral, debemos celebrar una segunda etapa de la solemnidad de su Corazón inmaculado. La liturgia de hoy nos presenta el pasaje de la Visitación de la Virgen María. Es muy conocido su camino después de la Anunciación: desde Nazaret se dirige a la aldea de montaña de Judea donde habitaba su prima Isabel. María va para ayudarla en los días de su preparación para la maternidad. Camina por las sendas de su tierra *llevando en su interior el sumo misterio*.
+
+Leemos en el evangelio que la revelación de ese misterio aconteció de una manera desacostumbrada. «¡Bendita tú entre las mujeres y bendito el fruto de tu seno!» (*Lc* 1, 42). Con estas palabras Isabel saludó a María. «¿De dónde a mí que la madre de mi Señor venga a mí?» (*Lc* 1, 43). Isabel ya conoce el plan de Dios y lo que, en ese instante, es un misterio suyo y de María. Sabe que su hijo, Juan Bautista, deberá preparar el camino del Señor, deberá convertirse en el heraldo del Mesías, de aquel que la Virgen de Nazaret ha concebido por obra del Espíritu Santo. El encuentro de las dos madres, Isabel y María, anticipa los acontecimientos que habrán de cumplirse y, en cierto sentido, prepara para ellos. ¡Feliz tú, por haber creído en la palabra de Dios que te anuncia el nacimiento del Redentor del mundo!, dice Isabel. Y María responde con las palabras del *Magnificat*: «Proclama mi alma la grandeza del Señor y mi espíritu se alegra en Dios, mi salvador» (*Lc* 1, 46-47). Realmente las maravillas de Dios, *los grandes misterios de Dios, se cumplen de manera oculta, dentro de la casa de Zacarías.* Toda la Iglesia se referirá continuamente a ellos; repetirá con Isabel: «¡Feliz la que ha creído!» y, con María, cantará el *Magnificat.*
+
+En efecto, el acontecimiento que tuvo lugar en la tierra de Judea encierra un contenido inefable. Dios vino al mundo. Se hizo hombre. Por obra del Espíritu Santo fue concebido en el seno de la Virgen de Nazaret, para nacer en el pesebre de Belén. Pero antes de que todo eso suceda, María lleva a Jesús, como toda madre lleva en sí al hijo de su seno. No sólo lleva su existencia humana, sino también todo su misterio, el misterio del Hijo de Dios, Redentor del mundo. Por eso, también la visita de María a la casa de Isabel es, en cierto sentido, un acontecimiento común y, al mismo tiempo, un evento único, *extraordinario e irrepetible.*
+
+Juntamente con María viene el Verbo eterno, el Hijo de Dios. Viene para estar en medio de nosotros. De la misma manera que entonces el tiempo anterior al nacimiento lo había vinculado a Nazaret y luego a Judea, donde vivía Isabel, y definitivamente a la pequeña aldea de Belén, donde debía venir al mundo, así ahora *cada visita suya lo vincula siempre a otro lugar de la tierra, donde la celebramos en la liturgia.*
+
+### 2 {#jp2-hom-19990612-zamosc.2}
+
+Hoy leemos el evangelio de la Visitación en la tierra de Zamosc. En cierto sentido, el misterio de la venida de María y de su Hijo es también nuestro misterio. Me alegra mucho poder vivirlo juntamente con vosotros, en la comunidad de la diócesis de Zamosc-Lubaczów. Es una diócesis reciente, pero con una tradición religiosa y cultural muy rica, que se remonta al siglo XVI. En ella, desde el principio, se realizaron intensos contactos con la Sede apostólica: fruto especial de ellos es la famosa Academia de Zamosc-la tercera, después de Cracovia y Vilna-, una institución académica en la República de Polonia, fundada con el apoyo del Papa Clemente VIII. La colegiata de Zamosc, que tuve el honor de elevar a la dignidad de catedral, es testigo silenciosa pero muy elocuente de una herencia de siglos. No sólo conserva en su interior magníficos monumentos de la arquitectura y del arte religioso, sino también las cenizas de los que formaron esa gran tradición. Al visitar hoy esta hermosa ciudad y la tierra de Zamosc, me alegra poder volver a este tesoro plurisecular de nuestra fe y de nuestra cultura.
+
+Saludo cordialmente a todos los fieles aquí reunidos y a los que se hallan espiritualmente unidos a nosotros. Saludo al pastor de esta comunidad, el obispo Jan Srutwa con su auxiliar Mariusz Leszczynski y a todos los presbíteros y personas consagradas. Saludo asimismo a los representantes de las autoridades estatales y regionales. Quiero expresar mi agradecimiento en particular a los que apoyan mi peregrinación con la oración y con el ofrecimiento de sus sufrimientos. Pido a Dios que participen en las gracias de esta visita.
+
+### 3 {#jp2-hom-19990612-zamosc.3}
+
+La colocación providencial de la escena de la Visitación de María en el marco excepcional de la belleza de esta ciudad y de esta tierra me hace volver con la mente al relato bíblico de la creación, que tiene su explicación y su complemento en el misterio de la Encarnación. En los días de la creación Dios contempló la obra de su plan y vio que *todo lo que había hecho estaba muy bien.* No podía ser de otra manera. La armonía de la creación reflejaba la íntima perfección del Creador. Al final, Dios creó al hombre. Lo creó a su imagen y semejanza. Le encomendó toda la magnificencia del mundo para que, gozando de él y usando sus bienes de modo libre y racional, contribuyera activamente al perfeccionamiento de la obra de Dios. Y la Escritura dice que entonces «Dios vio lo que había hecho, y todo estaba muy bien» (*Gn* 1, 31).
+
+Sin embargo, después del pecado original del hombre, el mundo, al ser su propiedad particular, en cierto sentido compartió su destino. El pecado no sólo rompió el vínculo de amor entre el hombre y Dios y destruyó la unidad entre los hombres; también alteró la armonía de toda la creación. La sombra de la muerte descendió sobre el género humano y sobre todo lo que por voluntad de Dios debería existir *para el hombre*.
+
+No obstante, al hablar de la participación del mundo en los efectos del pecado del hombre, caemos en la cuenta de que no podía quedar privado de la participación en *la promesa divina de la Redención*. El tiempo del cumplimiento de esa promesa para el hombre y para la creación entera llegó cuando María, por obra del Espíritu Santo, se transformó en Madre del Hijo de Dios. Él es el primogénito de la creación (cf. *Col* 1, 15). Todo lo que ha sido creado, desde siempre estaba en él. Cuando vino al mundo, vino a su propiedad, como dice san Juan (cf. *Jn* 1, 11). Vino para abrazar la creación, para iniciar la obra de la redención del mundo, para *devolver a la creación su santidad y dignidad originales*. Vino para hacernos ver, con su venida, esta particular dignidad de la naturaleza creada.
+
+Mientras recorro Polonia, desde el Báltico hasta Wielkopolska, Masovia, Warmia y Masuria, y luego sus regiones orientales, desde Bialystok hasta Zamosc, y contemplo la belleza de esta tierra patria, tomo conciencia de esa dimensión particular de la misión salvífica del Hijo de Dios. Aquí parecen hablar con una fuerza excepcional el azul del cielo, el verde de los bosques y de los campos, la plata de los lagos y de los ríos. Aquí suena de modo muy familiar, polaco, el canto de los pájaros. Y todo ello *testimonia el amor del Creador*, la fuerza vivificante de su Espíritu y la redención realizada por el Hijo para el hombre y para el mundo. Todas estas criaturas *hablan de su santidad y de su dignidad*, recuperadas cuando Aquel que fue «engendrado antes de toda criatura» asumió el cuerpo de la Virgen María.
+
+Al hablar hoy de esa santidad y de esa dignidad, lo hago con *espíritu de acción de gracias* a Dios, que ha realizado obras tan grandes en favor nuestro; al mismo tiempo, lo hago con *espíritu de solicitud por la conservación del bien y de la belleza* concedida por el Creador. En efecto, existe el peligro de que lo que hace gozar así la vista y exultar el espíritu pueda ser destruido. Sé que los obispos polacos expresaron ya esa preocupación hace diez años, dirigiéndose a todos los hombres de buena voluntad, en una carta pastoral sobre el tema de la conservación del medio ambiente. Con razón escribieron que «toda actividad del hombre como ser responsable, tiene una dimensión moral. El deterioro del ambiente afecta al bien de la creación dada al hombre por Dios Creador como indispensable para su vida y para su desarrollo. Existe la obligación de usar correctamente ese don con espíritu de gratitud y respeto. Por otra parte, la conciencia de que este don está destinado a todos los hombres y constituye un bien común engendra una obligación frente al prójimo. Por eso, es preciso reconocer que toda acción que no tiene en cuenta el derecho de Dios sobre su obra, así como el derecho del hombre, objeto del regalo del Creador, va en contra del mandamiento del amor. (...) Así pues, es necesario caer en la cuenta de que existe un pecado grave contra el ambiente natural que grava sobre nuestra conciencia, que engendra una seria responsabilidad frente a Dios creador» (Carta pastoral del 2 de mayo de 1989).
+
+Al hablar de la responsabilidad ante Dios, somos conscientes de que aquí no sólo se trata de lo que, en el lenguaje de hoy, se suele llamar ecología. No basta buscar la causa de la destrucción del mundo en una excesiva industrialización, en una acrítica aplicación en la industria y en la agricultura de conquistas científicas y tecnológicas, o en una afanosa búsqueda de la riqueza sin tener en cuenta los efectos futuros de esas acciones. Aunque no se puede negar que esas acciones producen grandes daños, es fácil observar que *su fuente se encuentra en un nivel más profundo: en la actitud misma del hombre*. Parece que lo que resulta más peligroso para la creación y para el hombre es *la falta de respeto a las leyes de la naturaleza y la pérdida del sentido del valor de la vida.*
+
+La ley inscrita por Dios en la naturaleza y que puede descubrirse por medio de la razón induce al respeto del designio del Creador, un designio que está ordenado al bien del hombre. Esa ley establece *cierto orden* interior *que el hombre encuentra y que debe conservar*. Toda actividad que se oponga a ese orden afecta inevitablemente al hombre mismo.
+
+Así acontece cuando se pierde el sentido del valor de la vida como tal, y especialmente de la vida humana. ¿Cómo se puede defender eficazmente la naturaleza cuando se justifican las iniciativas que afectan al corazón mismo de la creación, que es la existencia del hombre? ¿Es posible oponerse a la destrucción del mundo, cuando en nombre del bienestar y de la comodidad se admiten el exterminio de los niños por nacer, la muerte provocada de los ancianos y de los enfermos, y en nombre del progreso se realizan inadmisibles intervenciones y manipulaciones en los mismos inicios de la vida humana? Cuando el bien de la ciencia o los intereses económicos prevalecen sobre el bien de la persona, e incluso de enteras sociedades, las destrucciones provocadas en el ambiente son *signo de auténtico desprecio del hombre*. Es preciso que todos aquellos que se interesan por el bien del hombre en este mundo den un testimonio constante de que «es el respeto a la vida y, en primer lugar, a la dignidad de la persona humana, la norma fundamental inspiradora de un sano progreso económico, industrial y científico» (*[Mensaje para la XXIII Jornada mundial de la paz](http://w2.vatican.va/content/john-paul-ii/es/messages/peace/documents/hf_jp-ii_mes_19891208_xxiii-world-day-for-peace.html),* 1 de enero de 1990, n. 7: *L'Osservatore Romano*, edición en lengua española, 10 de diciembre de 1989, p. 11).
+
+### 4 {#jp2-hom-19990612-zamosc.4}
+
+«Todo fue creado por él y para él. Él es anterior a todo, y todo se mantiene en él. (...) Porque en él quiso Dios que residiera toda la plenitud. Y por él quiso reconciliar consigo todos los seres: los del cielo y los de la tierra, haciendo la paz por la sangre de su cruz» (*Col* 1, 16-17. 19-20). Estas palabras de san Pablo parecen trazar el camino cristiano de defensa del bien constituido por todo el mundo creado. Es el camino de la *reconciliación en Cristo.* Mediante la sangre derramada en la cruz y la resurrección él ha devuelto a la creación el orden originario. De ahora en adelante el mundo entero, y en su centro el hombre, ha sido arrancado de la esclavitud de la muerte y de la corrupción (cf. *Rm* 8, 21); en cierto sentido, ha sido creado de nuevo (cf. *Ap* 21, 5) y ya no existe para la muerte, sino para la vida, para la nueva vida en Cristo. Gracias a la unión con Cristo *el hombre redescubre su lugar en el mundo*. En Cristo *experimenta de nuevo la armonía original* que existía entre el Creador, la creación y el hombre antes de sucumbir bajo los efectos del pecado. En él relee *la llamada originaria a dominar la tierra*, que es la continuación de la obra divina de la creación, y no una explotación incontrolada.
+
+La belleza de esta tierra me impulsa a invocar su conservación para las generaciones futuras. Si amáis esta tierra patria, *que no quede sin respuesta esta invocación*. De modo especial, me dirijo a cuantos tienen *la responsabilidad de este país* y de su desarrollo, exhortándolos a no olvidar el deber de protegerlo contra la destrucción ecológica. Deben preparar programas para la conservación del medio ambiente y velar por su realización eficaz. Sobre todo, han de promover actitudes de respeto al bien común, a las leyes de la naturaleza y de la vida. Es preciso que cuenten con el apoyo de las *organizaciones* que tienen como fin la tutela de los bienes naturales. En la *familia* y en la *escuela* no puede faltar la educación para el respeto a la vida, al bien y a la belleza. *Todos los hombres* de buena voluntad deben colaborar en esta gran obra. *Todo discípulo de Cristo* debe analizar su propio estilo de vida, para que la justa aspiración al bienestar no ofusque la voz de la conciencia, que pondera lo que está bien y lo que es auténticamente bueno.
+
+### 5 {#jp2-hom-19990612-zamosc.5}
+
+Al hablar del respeto a la tierra, no puedo olvidar a los que están más fuertemente vinculados a ella y conocen su valor y dignidad. Me refiero a los *agricultores*, que no sólo en la tierra de Zamosc, sino también en toda Polonia, afrontan el duro esfuerzo del trabajo en el campo, buscando en él los productos indispensables para la vida de los habitantes de las ciudades y de las aldeas. Nadie mejor que los agricultores puede testimoniar cómo si es estéril no da frutos, mientras que, si se cultiva con amor, da frutos abundantes. Quiero expresar mi gratitud, respeto y aprecio a los que *durante siglos han fecundado esta tierra con el sudor de su frente*, y cuando era preciso defenderla *no temieron derramar su sangre por ella.* Con la misma gratitud y con el mismo respeto me dirijo a los que también *hoy realizan la dura tarea de cultivar la tierra.* Que Dios bendiga el trabajo de vuestras manos.
+
+Sé que en un tiempo de transformaciones sociales y económicas no faltan *problemas, que a menudo afectan duramente al campo polaco.* Es necesario que en el proceso de reformas se analicen los problemas de los agricultores y se resuelvan con espíritu de justicia social.
+
+Hablo de esto en Zamosc, donde la *cuestión de los campesinos es tratada desde hace siglos*. Basta recordar las obras de Szymon Szymonowic, o la actividad de la Sociedad rural, fundada en Hrubieszów hace doscientos años. También el cardenal Stefan Wyszynski, como obispo del lugar y luego primado de Polonia, a menudo recordó la importancia de la agricultura para la nación y el Estado, la necesidad de la solidaridad con la población rural por parte de todos los grupos sociales. *No puedo por menos de insertarme hoy en esa tradición*. Lo hago repitiendo, con el profeta, estas palabras llenas de esperanza: «Como una tierra hace germinar plantas y como un huerto produce su simiente, así el Señor Dios hará germinar la justicia» (*Is* 61, 11).
+
+### 6 {#jp2-hom-19990612-zamosc.6}
+
+Dirijamos nuestra mirada a María e invoquémosla con las palabras de Isabel: «¡Feliz la que ha creído que se cumplirían las cosas que le fueron dichas de parte del Señor!» (*Lc* 1, 45).
+
+Feliz tú, María, Madre del Redentor. Te encomendamos hoy el destino de esta tierra de Zamosc y de la tierra polaca, así como a todos los que viven en ella y la trabajan, realizando la llamada del Creador a dominarla. Guíanos con tu fe en este tiempo nuevo, que se abre ante nosotros. Permanece con nosotros, junto con tu Hijo, Jesucristo, que quiere ser para nosotros camino, verdad y vida.
+
+¡Alabado sea Jesucristo!

@@ -1,0 +1,84 @@
+---
+id: b16-spe-20070909-heiligenkreuz.es
+work: b16-spe-20070909-heiligenkreuz
+title: "Viaje apostólico a Austria: Visita a la abadía de Heiligenkreuz (9 de septiembre de 2007)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2007-09-09
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2007/september/documents/hf_ben-xvi_spe_20070909_heiligenkreuz.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20070909-heiligenkreuz} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje apostólico a Austria: Visita a la abadía de Heiligenkreuz (9 de septiembre de 2007) {#b16-spe-20070909-heiligenkreuz}
+[VIAJE APOSTÓLICO\
+DE SU SANTIDAD BENEDICTO XVI\
+A AUSTRIA\
+CON OCASIÓN DEL 850 ANIVERSARIO\
+DE LA FUNDACIÓN DEL SANTUARIO DE MARIAZELL](http://www.vatican.va/content/benedict-xvi/es/travels/2007/outside/documents/austria.html)
+
+***DISCURSO DEL SANTO PADRE BENEDICTO XVI\
+A LOS MONJES CISTERCIENSES\
+DE LA ABADÍA DE HEILIGENKREUZ**
+
+Domingo 9 de septiembre de 2007*
+
+*Reverendísimo padre abad;\
+venerados hermanos en el episcopado;\
+queridos monjes cistercienses de Heiligenkreuz;\
+queridos hermanos y hermanas de vida consagrada;\
+ilustres huéspedes y amigos del monasterio y de la Academia;\
+señoras y señores:*
+
+Con placer, en mi peregrinación a la *Magna Mater Austriae*, he venido también a la abadía de Heiligenkreuz, que no es sólo una etapa importante en la *via sacra* que lleva a Mariazell, sino también el más antiguo monasterio cisterciense del mundo que ha seguido activo sin ninguna interrupción. He querido venir a este lugar rico en historia, para atraer la atención hacia la directriz fundamental de san Benito, según cuya *Regla* viven también los cistercienses. San Benito dispone concisamente que "no se anteponga nada al Oficio divino" (*Regula Benedicti* 43, 3).
+
+Por eso, en un monasterio de inspiración benedictina, las alabanzas a Dios, que los monjes celebran como solemne plegaria coral, tienen siempre la prioridad. Ciertamente, gracias a Dios, no sólo los monjes oran; también lo hacen otras personas:  niños, jóvenes y ancianos, hombres y mujeres, personas casadas y solteras; todos los cristianos oran o, al menos, *deberían* hacerlo.
+
+En la vida de los monjes, sin embargo, la oración tiene una importancia especial:  es el centro de su tarea profesional. En efecto, ejercen la profesión de orante. En la época de los Padres de la Iglesia, la vida monástica se definía como vida al estilo de los ángeles, pues se consideraba que la característica esencial de los ángeles era ser adoradores. Su vida es adoración. Esto debería valer también para los monjes. Ante todo, no oran por una finalidad específica, sino simplemente porque Dios merece ser adorado. *"Confitemini Domino, quoniam bonus!*", "Dad gracias al Señor porque es bueno, porque es eterna su misericordia", exhortan varios Salmos (por ejemplo, *Sal* 106, 1). Por eso, esta oración sin finalidad específica, que quiere ser puro servicio divino, se llama con razón *officium*. Es el "servicio" por excelencia, el "servicio sagrado" de los monjes. Se ofrece al Dios trino que, por encima de todo, es digno "de recibir la gloria, el honor y el poder" (*Ap* 4, 11), porque ha creado el mundo de modo maravilloso y de modo aún más maravilloso lo ha renovado.
+
+Al mismo tiempo, el *officium* de los consagrados es también un servicio sagrado a los hombres y un testimonio para ellos. Todo hombre lleva en lo más íntimo de su corazón, de modo consciente o inconsciente, la nostalgia de una satisfacción definitiva, de la máxima felicidad; por tanto, en el fondo, de Dios. Un monasterio en el que la comunidad se reúne varias veces al día para alabar a Dios testimonia que este deseo humano originario no cae en el vacío:  Dios creador no nos ha puesto a los hombres en medio de tinieblas espantosas donde, andando a ciegas, deberíamos buscar desesperadamente un sentido último fundamental (cf. *Hch* 17, 27); Dios no nos ha abandonado en un desierto de la nada, sin sentido, donde, en definitiva, nos espera sólo la muerte. No. Dios ha iluminado nuestras tinieblas con su luz, por obra de su Hijo Jesucristo. En él Dios ha entrado en nuestro mundo con toda su "plenitud" (cf. *Col* 1, 19); en él, toda verdad, de la que sentimos nostalgia, tiene su origen y su culmen (cf. *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)*, 22).
+
+Nuestra luz, nuestra verdad, nuestra meta, nuestra satisfacción, nuestra vida no es una doctrina religiosa, sino una Persona:  *Jesucristo*. Mucho más allá de nuestra capacidad de buscar y desear a Dios, ya antes hemos sido buscados y deseados, más aún, encontrados y redimidos por él. La mirada de los hombres de todos los tiempos y de todos los pueblos, de todas las filosofías, religiones y culturas, encuentra finalmente los ojos abiertos del Hijo de Dios crucificado y resucitado; su corazón abierto es la plenitud del amor. Los ojos de Cristo son la mirada del Dios que ama. La imagen del Crucificado sobre el altar, cuyo original romano se encuentra en la catedral de Sarzana, muestra que esta mirada se dirige a todo hombre. En efecto, el Señor mira el corazón de cada uno de nosotros.
+
+El alma del monaquismo es la adoración, vivir al estilo de los ángeles. Sin embargo, al ser los monjes hombres de carne y sangre en esta tierra, al imperativo central *"ora",* san Benito añadió un segundo:  *"labora"*. Según el concepto de san Benito, así como de san Bernardo, no sólo la oración forma parte de la vida monástica, sino también el trabajo, el cultivo de la tierra de acuerdo con la voluntad del Creador. Así, a lo largo de los siglos, los monjes, partiendo de su mirada dirigida a Dios, han hecho que la tierra fuera acogedora y hermosa. Su labor de salvaguardia y desarrollo de la creación provenía precisamente de su mirada puesta en Dios. En el ritmo del *ora et labora* la comunidad de los consagrados da testimonio del Dios que en Jesucristo nos mira; y el hombre y el mundo, mirados por él, se convierten en buenos.
+
+No sólo los monjes rezan el *officium;* siguiendo la tradición monástica, la Iglesia ha establecido para todos los religiosos, y también para los sacerdotes y los diáconos, el rezo del Breviario. Es importante que también las religiosas y los religiosos, los sacerdotes y los diáconos —y, naturalmente, los obispos— en la oración diaria "oficial" se presenten ante Dios con himnos y salmos, con acción de gracias y plegarias sin finalidades específicas.
+
+Queridos hermanos en el ministerio sacerdotal y diaconal; queridos hermanos y hermanas en la vida consagrada, sé que se requiere disciplina; más aún, a veces también es preciso superarse a sí mismo para rezar fielmente el Breviario; pero mediante este *officium* recibimos al mismo tiempo muchas riquezas:  ¡cuántas veces, al rezarlo, el cansancio y el abatimiento desaparecen! Y donde se alaba y se adora con fidelidad a Dios, no falta su bendición. Con razón se dice en Austria:  "Todo depende de la bendición de Dios".
+
+Por consiguiente, vuestro servicio principal a este mundo debe ser vuestra oración y la celebración del Oficio divino. Todo sacerdote, toda persona consagrada, debe tener como disposición interior "no anteponer nada al Oficio divino". La belleza de esta disposición interior se manifestará en la belleza de la liturgia, hasta tal punto que donde cantamos, alabamos, exaltamos y adoramos juntos a Dios, se hace presente en la tierra un trocito de cielo. No es temerario afirmar que en una liturgia totalmente centrada en Dios, en los ritos y en los cantos, se ve una imagen de la eternidad. De lo contrario, ¿cómo habrían podido nuestros antepasados construir, hace cientos de años, un edificio sagrado tan  solemne  como  este? Aquí ya la sola arquitectura eleva nuestros sentidos hacia "lo que ni el ojo vio, ni el oído oyó, ni al corazón del hombre llegó, lo que Dios preparó para los que le aman" (*1 Co* 2, 9).
+
+En toda forma de esmero por la liturgia, el criterio determinante debe ser siempre la mirada puesta en Dios. Estamos en presencia de Dios; él nos habla y nosotros le hablamos a él. Cuando, en las reflexiones sobre la liturgia, nos preguntamos cómo hacerla atrayente, interesante y hermosa, ya vamos por mal camino. O la liturgia es *opus Dei*, con Dios como sujeto específico, o no lo es. En este contexto os pido:  celebrad la sagrada liturgia dirigiendo la mirada a Dios en la comunión de los santos, de la Iglesia viva de todos los lugares y de todos los tiempos, para que se transforme en expresión de la belleza y de la sublimidad del Dios amigo de los hombres.
+
+Por último, el alma de la oración es el Espíritu Santo. En verdad, cuando oramos, siempre es él quien "viene en ayuda de nuestra flaqueza, intercediendo por  nosotros con gemidos inefables" (cf. *Rm* 8, 26). Confiando en estas palabras del apóstol san Pablo os aseguro, queridos hermanos y hermanas, que la oración surtirá en vosotros el efecto que una vez se expresaba llamando a los sacerdotes y a las personas consagradas simplemente *Geistliche* (personas espirituales). Mons. Sailer, obispo de Ratisbona, dijo en cierta ocasión que los sacerdotes deberían ser antes que nada personas espirituales. Me agradaría que volviera a usarse la expresión *Geistliche*. Pero, sobre todo, es importante que se haga realidad en nosotros lo que significa esa palabra:  que en el seguimiento del Señor, en virtud de la fuerza del Espíritu, seamos personas "espirituales".
+
+Austria es verdaderamente, como se dice con doble sentido, *Klösterreich*:  reino de monasterios y rica en monasterios. Vuestras antiquísimas abadías, con orígenes y tradiciones que se remontan a siglos pasados, son lugares de la "preferencia por Dios". Queridos hermanos, manifestad claramente a los hombres esta prioridad de Dios. Como oasis espiritual, un monasterio indica al mundo de hoy lo más importante, más aún, en definitiva, lo único decisivo:  existe una razón última por la que vale la pena vivir, es decir, Dios y su amor inescrutable.
+
+Queridos fieles, os pido que consideréis vuestras abadías y vuestros monasterios como lo que son y quieren ser siempre:  no solamente lugares de cultura y de tradición, o incluso simples empresas económicas. Estructura, organización y economía son necesarias también para la Iglesia, pero no son lo esencial. Un monasterio es sobre todo un lugar de fuerza espiritual. Al llegar a uno de vuestros monasterios aquí, en Austria, se tiene la misma impresión de cuando, después de una caminata por los Alpes, que ha costado sudor, finalmente se puede uno refrescar en un arroyo que viene de un manantial. Aprovechad, pues, estos manantiales de la cercanía de Dios en vuestro país, apreciad las comunidades religiosas, los monasterios y las abadías, y recurrid al servicio espiritual que los consagrados están dispuestos a prestaros.
+
+Por último, mi visita se dirige a la Academia, ya pontificia, que celebra el 205° aniversario de su fundación y a la que, en su nueva condición, el abad ha añadido el nombre del actual Sucesor de san Pedro. Aunque es importante la integración de la disciplina teológica en la *universitas* del saber mediante las facultades teológicas católicas en las universidades estatales, es igualmente importante que haya lugares de estudio tan específicos como el vuestro, donde es posible un vínculo profundo entre teología científica y espiritualidad vivida.
+
+En efecto, Dios no es jamás simplemente el objeto de la teología; al mismo tiempo, también es siempre su sujeto vivo. Por lo demás, la teología cristiana no es jamás solamente un discurso humano sobre Dios, sino que al mismo tiempo es siempre el *Logos* y la lógica en la que Dios se revela. Por eso la intelectualidad científica y la devoción vivida son dos elementos del estudio que, en una complementariedad irrenunciable, dependen una de otra.
+
+El padre de la Orden cisterciense, san Bernardo, luchó en su tiempo contra la separación de una racionalidad objetivante de la corriente de espiritualidad eclesial. Nuestra situación actual, aun siendo diversa, tiene notables semejanzas. En su anhelo de obtener el reconocimiento de un riguroso carácter científico en el sentido moderno, la teología puede perder el aliento de la fe. Pero así como una liturgia que olvida dirigir la mirada a Dios es, como tal, casi insignificante, de igual modo una teología que ya no está animada por la fe, deja de ser teología; acaba por reducirse a una serie de disciplinas más o menos relacionadas entre sí. En cambio, donde se practica una "teología de rodillas", como pedía Hans Urs von Balthasar (cf. *Theologie und Heiligkeit*, Aufsatz von 1948, en:  *Verbum Caro*. Schriften zur Theologie I, Einsiedeln 1960, 195-224), no faltará la fecundidad para la Iglesia en Austria y también más allá.
+
+Esta fecundidad se muestra en el apoyo y en la formación de personas que han recibido una llamada espiritual. Para que hoy una llamada al sacerdocio o al estado religioso pueda sostenerse fielmente durante toda la vida, hace falta una formación que integre fe y razón, corazón y mente, vida y pensamiento. Una vida en el seguimiento de Cristo necesita la integración de toda la personalidad. Donde se descuida la dimensión intelectual, nace muy fácilmente una forma de infatuación piadosa que vive casi exclusivamente de emociones y de estados de ánimo que no pueden sostenerse durante toda la vida. Y donde se descuida la dimensión espiritual, se crea un racionalismo enrarecido que, a causa de su frialdad y de su desapego, ya no puede desembocar en una entrega entusiasta de sí a Dios.
+
+Una vida en el seguimiento de Cristo no se puede fundar en esos criterios unilaterales; con entregas a medias, una persona quedaría insatisfecha y, en consecuencia, quizá también espiritualmente estéril. Toda llamada a la vida religiosa o al sacerdocio es un tesoro tan precioso, que los responsables deben hacer todo lo posible a fin de encontrar los caminos de formación idóneos para promover en unidad *fides et ratio*, la fe y la razón, el corazón y la mente.
+
+Como acabamos de escuchar, san Leopoldo de Austria, siguiendo el consejo de su hijo, el beato obispo Otón de Freising, que fue mi predecesor en la sede episcopal de Freising (en Freising se celebra hoy su fiesta), fundó en 1133 vuestra abadía, dándole el nombre de "Unsere Liebe Frau zum Heiligen Kreuz" (Nuestra Señora de la Santa Cruz). Este monasterio no sólo tradicionalmente está dedicado a la Virgen —como todos los monasterios cistercienses—, sino que aquí arde el fuego mariano de san Bernardo de Claraval. San Bernardo, que entró en el monasterio junto con treinta compañeros, es una especie de patrono de las llamadas espirituales. Si ejercía un ascendiente tan entusiasta y alentador en muchos jóvenes de su tiempo llamados por Dios, era quizá porque estaba animado por una particular devoción mariana. Donde está María, allí está la imagen primigenia de la entrega total y del seguimiento de Cristo. Donde está María, allí está el viento de Pentecostés del Espíritu Santo, allí está el inicio y una renovación auténtica.
+
+Desde este lugar mariano en la *via sacra* deseo a todos los lugares espirituales en Austria fecundidad y capacidad de irradiación. Antes de partir, quiero pedir una vez más a la Madre de Dios, como hice ya en Mariazell, que interceda por toda Austria. Con palabras de san Bernardo, invito a cada uno a hacerse confiadamente "niño" ante María, como lo hizo el mismo Hijo de Dios. San Bernardo dice, y nosotros decimos con él:  "Mira la estrella, invoca a María. (...) En los peligros, en las angustias, en las incertidumbres, piensa en María, invoca a María. Que su nombre no se aleje de tu boca, que no se aleje de tu corazón. (...) Siguiéndola, no te pierdes; invocándola, no te desesperas; pensando en ella, no te equivocas. Si ella te tiene de la mano, no caes; si ella te protege, no temes; si ella te guía, no te cansas; si ella te concede su favor, llegas a tu meta" (*In laudibus Virginis Matris*, Homilía 2, 17).

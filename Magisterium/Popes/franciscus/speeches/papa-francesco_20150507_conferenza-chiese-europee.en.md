@@ -1,0 +1,43 @@
+---
+id: francis-spe-20150507-conferenza-chiese-europee.en
+work: francis-spe-20150507-conferenza-chiese-europee
+title: "To the Joint Committee of the Conference of European Churches (CEC) (7 May 2015)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2015-05-07
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2015/may/documents/papa-francesco_20150507_conferenza-chiese-europee.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, fr, it, pt"
+anchors: "{#francis-spe-20150507-conferenza-chiese-europee} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Joint Committee of the Conference of European Churches (CEC) (7 May 2015) {#francis-spe-20150507-conferenza-chiese-europee}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO THE JOINT COMMITTEE OF THE CONFERENCE OF EUROPEAN CHURCHES (CEC)
+
+*Thursday, 7 May 2015*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2015/5/7/cec.html)\]
+
+*Dear Brothers and Sisters,*
+
+I cordially welcome you and I thank you for your visit. I especially thank Cardinal Péter Erdő and Fr Christopher Hill for their courteous words.
+
+The committee that you are now forming intends to accompany the ecumenical journey in Europe, where the many divisions that still exist among Christians began. Christians of this continent have long been fighting one another. Today, thanks be to God, the situation is very different. The ecumenical movement has permitted the Churches and ecclesial communities to make great leaps on the path of reconciliation and peace. Recent Ecumenical Assemblies and the *Charta Oecumenica*, drafted in Strasbourg in 2001, are elements of the fruitful collaboration between the Conference of European Churches and the Council of European Bishops’ Conferences. These initiatives are the cause of great hope for overcoming division, with the awareness of the long the road to full and visible communion among all the believers in Christ. However, the path, with all its hardships, is already an integral part of the process of reconciliation and communion that the Lord asks of us and helps us to accomplish, provided that it is lived in charity and truth.
+
+The Conciliar Decree on Ecumenism *[Unitatis Redintegratio](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)* affirms that the division among Christians “damages that most holy cause, the preaching of the Gospel to every creature” (n. 1). This is evident when, for example, the Churches and ecclesial communities in Europe present different visions on important anthropological or ethical points. I hope, therefore, that there be no lack in occasions for common reflection, in the light of Sacred Scripture and common tradition, and that they be fruitful. Looking together to the Lord Jesus, as “the very revelation of the mystery of the Father and of his love, fully reveals man to himself and brings to light his most high calling” (Second Vatican Ecumenical Council, Pastoral Constitution *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)*, n. 22), we can find united answers to the questions contemporary society poses to us Christians. The closer we are to Christ, the more united we are among ourselves.
+
+Today the Churches and ecclesial communities in Europe find themselves facing new and decisive challenges, which can only be answered effectively by speaking with one voice. I am thinking, for example, of the challenge posed by legislators who, in the name of some badly interpreted principle of tolerance, end up preventing citizens from freely expressing and practicing their own religious convictions in a peaceful and legitimate way. Moreover, in the face of the attitude with which Europe seems to address the dramatic and often tragic migration of thousands of people fleeing war, persecution and misery, the Churches and ecclesial communities have the duty to collaborate in order to foster solidarity and acceptance. The Christians of Europe are called to intercede through prayer and to work actively in order to bring dialogue and peace to these current conflicts.
+
+In renewing my gratitude for your ecclesial service, I invoke upon it the perpetual blessing of the Lord. Please, do not forget to pray for me. Thank you.

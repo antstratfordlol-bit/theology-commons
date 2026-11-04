@@ -1,0 +1,70 @@
+---
+id: francis-spe-20210927-assemblea-pav.es
+work: francis-spe-20210927-assemblea-pav
+title: "A los participantes en la Asamblea plenaria de la Pontificia Academia para la Vida (27 de septiembre de 2021)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2021-09-27
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2021/september/documents/20210927-assemblea-pav.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, it, pt"
+anchors: "{#francis-spe-20210927-assemblea-pav} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los participantes en la Asamblea plenaria de la Pontificia Academia para la Vida (27 de septiembre de 2021) {#francis-spe-20210927-assemblea-pav}
+## DISCURSO DEL SANTO PADRE FRANCISCO A LA ASAMBLEA PLENARIA DE LA PONTIFICIA ACADEMIA PARA LA VIDA
+
+*Sala Clementina\
+Lunes, 27 de septiembre de 2021*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2021/9/27/assemblea-pav.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Queridas hermanas y hermanos:*
+
+Me es grato poder encontrarme con vosotros con motivo de vuestra Asamblea General y agradezco al arzobispo Paglia sus palabras. También quiero saludar a los numerosos académicos conectados.
+
+El tema que habéis elegido para estos días de trabajo es particularmente actual: la salud pública en el horizonte de la globalización. En efecto, la crisis pandémica ha hecho resonar con más fuerza "el clamor de la tierra como el clamor de los pobres" (Enc.* [Laudato si'](https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html#49),* 49). No podemos hacer oídos sordos a este doble clamor, debemos escucharlo bien. Y eso es lo que os proponéis hacer.
+
+El examen de las numerosas y graves cuestiones que han surgido en los dos últimos años no es una tarea fácil. Por un lado, estamos agotados por la pandemia de Covid-19 y la inflación de argumentos suscitados: ya casi no queremos oír hablar de ello y tenemos prisa por pasar a otros temas. Pero, por otro lado, es imprescindible reflexionar con calma para examinar en profundidad lo que ha ocurrido y ver el camino hacia un futuro mejor para todos. En verdad, «peor que esta crisis, es solamente el drama de desaprovecharla» (*[Homilía de Pentecostés](https://www.vatican.va/content/francesco/es/homilies/2020/documents/papa-francesco_20200531_omelia-pentecoste.html)*, 31 de mayo de 2020). Y sabemos que de una crisis no salimos iguales: o salimos mejores, o salimos peores. Pero no iguales. La decisión está en nuestras manos. Y, repito, peor que esta crisis es sólo el drama de desaprovecharla. Os animo en este esfuerzo; y me parece sabia y oportuna la dinámica de discernimiento según la cual se desarrolla vuestro encuentro: en primer lugar, escuchar atentamente la situación, para poder favorecer una verdadera conversión y llegar a decisiones concretas para salir mejores de la crisis.
+
+La reflexión que estáis llevando a cabo en los últimos años sobre la *bioética global* se está revelando muy valiosa. Os animé en esta perspectiva con la carta *[Humana communitas](https://www.vatican.va/content/francesco/es/letters/2019/documents/papa-francesco_20190106_lettera-accademia-vita.html), *con motivo del 25 aniversario de vuestra Academia. En efecto, el horizonte de la salud pública permite enfocar aspectos importantes para la convivencia de la familia humana y para el fortalecimiento de un tejido de amistad social. Son temas centrales de la encíclica *[Fratelli tutti](https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html)* (véase el capítulo 6).
+
+La crisis pandémica ha puesto de manifiesto qué profunda es la interdependencia tanto entre nosotros como entre la familia humana y la casa común (cf. Enc. *[Laudato si'](https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html#86)*, 86; [164](https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html#194)). Nuestras sociedades, especialmente en Occidente, han tendido a olvidar esta interconexión. Y las amargas consecuencias están ante nuestros ojos. Por lo tanto, es urgente invertir esta tendencia perjudicial en este cambio de época, y es posible hacerlo mediante la sinergia entre diferentes disciplinas: biología e higiene, medicina y epidemiología, pero también economía y sociología, antropología y ecología. El objetivo no es sólo comprender los fenómenos, sino también identificar los criterios tecnológicos, políticos y éticos de actuación en relación con los sistemas sanitarios, la familia, el trabajo y el medioambiente.
+
+Este enfoque es especialmente importante en el ámbito de la salud, porque la salud y la enfermedad están determinadas no sólo por los procesos de la naturaleza, sino también por la vida social. Además, no basta con que un problema sea grave para que salte a las primeras páginas y se le preste así atención: hay tantos problemas muy graves que se ignoran por falta de un esfuerzo adecuado. Pensemos en el impacto devastador de ciertas enfermedades como la malaria y la tuberculosis: la precariedad de las condiciones higiénicas y sanitarias causa cada año en el mundo millones de muertes evitables. Si comparamos esta situación con la preocupación causada por la pandemia de Covid-19, vemos que la percepción de la gravedad del problema y la correspondiente movilización de energía y recursos es muy diferente.
+
+Por supuesto, hacemos bien en tomar todas las medidas para contener y superar el Covid-19 a nivel mundial, pero esta coyuntura histórica en la que nuestra salud se ve amenazada de cerca debería hacernos conscientes de lo que significa ser vulnerable y vivir en la precariedad a diario. Así podríamos también responsabilizarnos de las graves condiciones en las que viven otras personas y por las que hasta ahora nos hemos interesado poco o nada. Aprenderíamos a no proyectar nuestras prioridades sobre poblaciones que viven en otros continentes, donde otras necesidades son más urgentes; donde, por ejemplo, no sólo faltan las vacunas, sino también el agua potable y el pan de cada día. No se sabe si reír o llorar, a veces llorar, cuando escuchamos a los gobernantes o a los líderes comunitarios aconsejar a los habitantes de las chabolas que se higienicen varias veces al día con agua y jabón... Pero, vaya, tú nunca has estado en una chabola: allí no hay agua, no conocen el jabón. "¡No, no salgáis de casa!": pero allí la casa es todo el barrio, porque viven... Por favor, cuidemos estas realidades, también cuando reflexionamos sobre la salud. Sea pues bienvenido el compromiso de una distribución justa y universal de las vacunas —que es muy importante— pero teniendo en cuenta el ámbito más amplio en el que se requieren los mismos criterios de justicia para las necesidades de salud y de promoción de la vida.
+
+Considerar la salud en sus múltiples dimensiones y a nivel global ayuda a comprender y asumir responsablemente la interconexión de los fenómenos. Y así se observa mejor cómo también las condiciones de vida, que son el resultado de políticas, sociales y medioambientales, tienen un impacto en la salud de los seres humanos. Si examinamos la esperanza de vida —y de vida saludable— en diferentes países y en diferentes grupos sociales, descubrimos grandes desigualdades.
+
+Dependen de variables como el nivel salarial, la titulación educativa, el barrio de residencia incluso en la misma ciudad. Nosotros afirmamos que la vida y la salud son valores igualmente fundamentales para todos, basados en la dignidad inalienable de la persona humana. Pero si esta afirmación no va seguida de un compromiso adecuado para superar las desigualdades, estamos aceptando de hecho la dolorosa realidad de que no todas las vidas son iguales y la salud no está protegida para todos de la misma manera. Y aquí quiero reiterar mi preocupación de que siempre haya un sistema de salud gratuito: no lo pierdan los países que lo tienen, por ejemplo Italia y otros, que tienen un buen sistema de salud gratuito, no lo perdamos, porque de lo contrario significaría que sólo tendrían derecho a los cuidados sanitarios los que puedan pagarlos, los demás no. Y esto es un reto muy grande. Esto ayuda a superar las desigualdades.
+
+Por tanto, debemos apoyar las iniciativas internacionales —pienso, por ejemplo, en las recientemente promovidas por el G20— destinadas a crear una gobernanza global para la salud de todos los habitantes del planeta, es decir, un conjunto de normas claras y concertadas a nivel internacional que respeten la dignidad humana. De hecho, el riesgo de nuevas pandemias seguirá siendo una amenaza también en el futuro.
+
+La Pontificia Academia para la Vida también puede aportar una valiosa contribución en este sentido, sintiéndose compañera de camino de otras organizaciones internacionales comprometidas con el mismo objetivo. En este sentido, es importante participar en iniciativas conjuntas y, en vuestro caso, en el debate público. Esto requiere naturalmente, que, sin “aguar” el contenido, tratemos de comunicarlo con un lenguaje adecuado y con argumentos comprensibles en el contexto social actual, para que la propuesta antropológica cristiana, inspirada en la Revelación, pueda ayudar también a los hombres y mujeres de hoy a redescubrir «como primario el derecho a la vida desde la concepción hasta su término natural» [\[1\]](#_ftn1){#_ftnref1 .cleaner}. También aquí me gustaría mencionar que somos víctimas de una cultura del descarte. Monseñor Paglia, en su presentación mencionó algo, pero ahí está el descarte de los niños que no queremos recibir, con esa ley del aborto que los envía al remitente y los mata directamente. Y hoy en día esto se ha convertido en una forma “normal”, un hábito que es muy feo, es realmente un homicidio, y para entenderlo bien quizás nos ayude hacernos una doble pregunta: ¿es justo eliminar, quitar una vida humana para resolver un problema? ¿Es justo contratar a un sicario para resolver un problema? Esto es el aborto. Y luego, por otro lado, los mayores: los mayores también son un poco “material de descarte”, porque no sirven para nada... Pero son sabiduría, son las raíces de la sabiduría de nuestra civilización, y esta civilización los descarta. Sí, incluso en muchos lugares existe la ley de la eutanasia “encubierta”, como yo la llamo: es la ley de “los medicamentos son caros, sólo se da la mitad”, y esto significa acortar la vida de los ancianos. Con esto negamos la esperanza: la esperanza de los niños que nos traen la vida que nos hacen salir adelante, y la esperanza que está en las raíces que nos dan los mayores. Descartamos ambos. Y luego, ese descarte cotidiano, esa vida se descarta. Tengamos cuidado con esta cultura del descarte: no es un problema de una ley u otra, es un problema de descarte. Y en esa dirección vosotros, los académicos, las universidades católicas e incluso los hospitales católicos no podéis permitiros el lujo de ir. Este es un camino que no podemos recorrer: el camino del descarte. Por ello, debe verse como algo positivo el estudio que vuestra Academia ha elaborado en estos últimos años sobre el tema de la repercusión de las nuevas tecnologías en la vida humana y, específicamente, sobre la algorética de forma tal que «la ciencia esté verdaderamente al servicio del hombre y no el hombre al servicio de la ciencia» [\[2\]](#_ftn2){#_ftnref2 .cleaner}.
+
+En este sentido, animo a la labor de la recién creada Fundación *renAIssance* para difundir y profundizar *Rome Call for AI Ethics*, al que espero, sinceramente, se adhieran muchos.
+
+Por último, me gustaría daros las gracias por el compromiso y la contribución de la Academia al participar activamente en la Comisión Covid del Vaticano, muchas gracias. Es hermoso ver la cooperación que tiene lugar dentro de la Curia Romana en la realización de un proyecto compartido. Necesitamos desarrollar cada vez más estos procesos realizados conjuntamente, en los que sé que han participado muchos de vosotros, instando a una mayor atención a los más vulnerables, como los ancianos, los discapacitados y los jóvenes.
+
+Con estos sentimientos de gratitud, encomiendo a la Virgen María los trabajos de esta Asamblea y también todas vuestras actividades como Academia para la defensa y promoción de la vida. Bendigo de todo corazón a cada uno de vosotros y a vuestros seres queridos. Y os pido, por favor, que recéis por mí porque lo necesito. Gracias.
+
+[\[1\]](#_ftnref1){#_ftn1 .cleaner} *[Discurso a los participantes en el encuentro de la Asociación Ciencia y Vida](https://www.vatican.va/content/francesco/es/speeches/2015/may/documents/papa-francesco_20150530_associazione-scienza-vita.html),* 30 de mayo de 2015.
+
+[\[2\]](#_ftnref2){#_ftn2 .cleaner} [Ibid](https://www.vatican.va/content/francesco/es/speeches/2015/may/documents/papa-francesco_20150530_associazione-scienza-vita.html).
+
+*[Boletín de la Oficina de Prensa de la Santa Sede](https://press.vatican.va/content/salastampa/es/bollettino/pubblico/2021/09/27/asab.html)*, 27 de septiembre  de 2021.

@@ -1,0 +1,48 @@
+---
+id: b16-spe-20120225-acdlife.es
+work: b16-spe-20120225-acdlife
+title: "A los participantes en la Asamblea de la Pontificia Academia para la Vida (25 de febrero de 2012)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2012-02-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2012/february/documents/hf_ben-xvi_spe_20120225_acdlife.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20120225-acdlife} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los participantes en la Asamblea de la Pontificia Academia para la Vida (25 de febrero de 2012) {#b16-spe-20120225-acdlife}
+***DISCURSO DEL SANTO PADRE BENEDICTO XVI\
+A LOS PARTICIPANTES EN LA ASAMBLEA DE LA\
+PONTIFICIA ACADEMIA PARA LA VIDA**
+
+Sala Clementina\
+Sábado 25 de febrero de 2012*
+
+*Señores cardenales,\
+venerados hermanos en el episcopado y en el sacerdocio,\
+queridos hermanos y hermanas:*
+
+Me alegra encontrarme con vosotros con ocasión de los trabajos de la XVIII asamblea general de la Academia pontificia para la vida. Os saludo y os doy las gracias a todos por vuestro generoso servicio en defensa y en favor de la vida, en particular al presidente, monseñor Ignacio Carrasco de Paula, por las palabras que me ha dirigido también en vuestro nombre. El enfoque que habéis dado a vuestros trabajos manifiesta la confianza que la Iglesia ha depositado siempre en las posibilidades de la razón humana y en un trabajo científico realizado rigurosamente, que siempre tengan presente el aspecto moral. El tema que habéis elegido este año, «Diagnóstico y terapia de la infertilidad», además de tener relevancia humana y social, posee un peculiar valor científico y expresa la posibilidad concreta de un diálogo fecundo entre la dimensión ética y la investigación biomédica. En efecto, ante el problema de la infertilidad de la pareja, habéis elegido recordar y considerar atentamente la dimensión moral, buscando los caminos para una correcta evaluación diagnóstica y una terapia que corrija las causas de la infertilidad. Este enfoque no sólo nace del deseo de dar un hijo a la pareja, sino también de devolver a los esposos su fertilidad y toda la dignidad de ser responsables de sus decisiones de procreación, para ser colaboradores de Dios en la generación de un nuevo ser humano. La búsqueda de un diagnóstico y de una terapia representa el enfoque científicamente más correcto de la cuestión de la infertilidad, pero también el más respetuoso de la humanidad integral de los sujetos implicados. De hecho, la unión del hombre y de la mujer en la comunidad de amor y de vida que es el matrimonio, constituye el único «lugar» digno para la llamada a la existencia de un nuevo ser humano, que siempre es un don.
+
+Por tanto, deseo alentar la honradez intelectual de vuestro trabajo, expresión de una ciencia que mantiene vivo su espíritu de búsqueda de la verdad, al servicio del bien auténtico del hombre, y que evita el riesgo de ser una práctica meramente funcional. De hecho, la dignidad humana y cristiana de la procreación no consiste en un «producto», sino en su vínculo con el acto conyugal, expresión del amor de los esposos, de su unión no sólo biológica sino también espiritual. A este respecto, la instrucción *[Donum vitae](http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_sp.html)* nos recuerda que «el acto conyugal, por su íntima estructura, al asociar al esposo y a la esposa con un vínculo estrechísimo, los hace también idóneos para engendrar una nueva vida de acuerdo con las leyes inscritas en la naturaleza misma del varón y de la mujer» (n. 4 a). Por eso, las legítimas aspiraciones de paternidad de la pareja que sufre una condición de infertilidad deben encontrar, con la ayuda de la ciencia, una respuesta que respete plenamente su dignidad de personas y de esposos. La humildad y la precisión con que profundizáis en estas problemáticas, consideradas inusuales por algunos de vuestros colegas ante la fascinación de la tecnología de la fecundación artificial, merecen aliento y apoyo. Con ocasión del décimo aniversario de la encíclica *[Fides et ratio](https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html)*, recordé cómo «la ganancia fácil, o peor aún, la arrogancia de sustituir al Creador desempeñan, a veces, un papel determinante. Esta es una forma de *hybris* de la razón, que puede asumir características peligrosas para la propia humanidad» (*[Discurso a los participantes en el congreso internacional organizado por la Pontificia Universidad Lateranense](https://www.vatican.va/content/benedict-xvi/es/speeches/2008/october/documents/hf_ben-xvi_spe_20081016_x-fides-et-ratio.html)*, 18 de octubre de 2008: *L’Osservatore Romano*, edición en lengua española, 7 de noviembre de 2008, p. 6). Efectivamente, el cientificismo y la lógica del beneficio parecen dominar hoy el campo de la infertilidad y de la procreación humana, llegando a limitar también muchas otras áreas de investigación.
+
+La Iglesia presta mucha atención al sufrimiento de las parejas con infertilidad, se preocupa por ellas y, precisamente por eso, alienta la investigación médica. Sin embargo, la ciencia no siempre es capaz de responder a los deseos de numerosas parejas. Por eso quiero recordar a los esposos que viven la condición de infertilidad, que su vocación matrimonial no se frustra por esta causa. Los esposos, por su misma vocación bautismal y matrimonial, siempre están llamados a colaborar con Dios en la creación de una humanidad nueva. En efecto, la vocación al amor es vocación a la entrega de sí, y esta es una posibilidad que ninguna condición orgánica puede impedir. Por consiguiente, donde la ciencia no encuentra una respuesta, la respuesta que ilumina viene de Cristo.
+
+Deseo animaros a todos vosotros, aquí reunidos para estas jornadas de estudio y que a veces trabajáis en un contexto médico-científico donde la dimensión de la verdad resulta ofuscada: proseguid el camino emprendido de una ciencia intelectualmente honrada y fascinada por la búsqueda continua del bien del hombre. En vuestro itinerario intelectual no desdeñéis el diálogo con la fe. Os dirijo a vosotros la apremiante exhortación que hice en la encíclica *[Deus caritas est](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html):* «Para llevar a cabo rectamente su función, la razón ha de purificarse constantemente, porque su ceguera ética, que deriva de la preponderancia del interés y del poder que la deslumbran, es un peligro que nunca se puede descartar totalmente. (...) La fe permite a la razón desempeñar del mejor modo su cometido y ver más claramente lo que le es propio» (n. 28). Por otra parte, precisamente la matriz cultural creada por el cristianismo —basada en la afirmación de la existencia de la Verdad y de la inteligibilidad de lo real a la luz de la Suma Verdad—, repito, la matriz cultural hizo posible en la Europa medieval el desarrollo del saber científico moderno, saber que en las culturas anteriores estaba sólo en germen.
+
+Ilustres científicos y todos vosotros, miembros de la Academia, comprometidos a promover la vida y la dignidad de la persona humana, tened siempre presente también el papel cultural fundamental que desempeñáis en la sociedad y la influencia que tenéis en la formación de la opinión pública. Mi predecesor, el beato Juan Pablo II, recordaba que los científicos, «precisamente porque “saben más», están llamados a “servir más”» (*[Discurso a la Academia pontificia de ciencias](https://www.vatican.va/content/john-paul-ii/es/speeches/2002/november/documents/hf_jp-ii_spe_20021111_academy-sciences.html)*, 11 de noviembre de 2002: *L’Osservatore Romano*, edición en lengua española, 15 de noviembre de 2002, p. 7). La gente tiene confianza en vosotros, que servís a la vida; tiene confianza en vuestro compromiso en favor de quienes necesitan consuelo y esperanza. Jamás cedáis a la tentación de tratar el bien de las personas reduciéndolo a un mero problema técnico. La indiferencia de la conciencia ante la verdad y el bien representa una peligrosa amenaza para un auténtico progreso científico.
+
+Quiero concluir renovando el deseo que el concilio Vaticano II dirigió a los hombres del pensamiento y de la ciencia: «Felices los que, poseyendo la verdad, la buscan más todavía a fin de renovarla, profundizar en ella y ofrecerla a los demás» (*[Mensaje a los intelectuales y a los hombres de ciencia](https://www.vatican.va/content/paul-vi/es/speeches/1965/documents/hf_p-vi_spe_19651208_epilogo-concilio-intelletuali.html)*, 8 de diciembre de 1965: AAS 58 \[1966\], 12). Con estos deseos os imparto a todos vosotros aquí presentes, y a vuestros seres queridos, la bendición apostólica. Gracias.

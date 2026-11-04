@@ -1,0 +1,43 @@
+---
+id: jp2-spe-19941119-ambasciatore-tunisia.en
+work: jp2-spe-19941119-ambasciatore-tunisia
+title: "DISCOURS DU SAINT-PÈRE JEAN-PAUL II AU NOUVEL AMBASSADEUR DE TUNISIE PRÈS LE SAINT-SI&#"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1994-11-19
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/november/documents/hf_jp-ii_spe_19941119_ambasciatore-tunisia.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, fr"
+anchors: "{#jp2-spe-19941119-ambasciatore-tunisia} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# DISCOURS DU SAINT-PÈRE JEAN-PAUL II AU NOUVEL AMBASSADEUR DE TUNISIE PRÈS LE SAINT-SI&# {#jp2-spe-19941119-ambasciatore-tunisia}
+***DISCOURS DU SAINT-PÈRE JEAN-PAUL II AU NOUVEL AMBASSADEUR DE TUNISIE PRÈS LE SAINT-SIÈGE, S.Exc. M. ISMAIL LEJIRI, À L'OCCASION DE LA PRÉSENTATION DES LETTRES DE CRÉANCE***
+
+*Samedi 19 novembre 1994*
+
+Mr. Ambassador,
+
+I am pleased to greet your Excellency and welcome you here on the occasion of the presentation of the Letters accrediting you as Ambassador Extraordinary and Plenipotentiary of the Tunisian Republic.
+
+I thank you for your courteous words which touched me deeply. On this solemn occasion, my thoughts turn first of all to Mr. Zine El Abidine Ben Ali, your President. I ask you please to convey my deferential greetings to him and to express my gratitude for the kind message he has addressed to me through you. I send my best wishes to him personally and to all those who work with him in service to the Tunisian nation. Finally, I cordially greet the men and women of your country who, encouraged by the Head of State, are involved in the exalting task of building a modern, open society which responds to their aspirations for complete and harmonious development. I very gladly pray to God to bless everyone's efforts to build a Tunisia which is increasingly worthy and prosperous, and which, in accordance with its vocation, may duly make a contribution to stability and peace on the African continent as well as among the Mediterranean nations seeking concord and co-operation.
+
+Mr. Ambassador, I am pleased to observe, following your discourse, your fellow-citizens desire for human promotion in a constitutional State, where sovereignty belongs to the law and does not depend upon the arbitrariness of a few. Indeed, an authentic democracy is only possible in a constitutional State and on the basis of a correct conception of the human person. The Church appreciates the democratic system in that it enables citizens to participate in political decisions and guarantees that those who are governed have the possibility to choose those who govern them. She observes that political action must be ultimately based on the truth about man, so that ideas and convictions are not exploited to the advantage of only a few.
+
+Mr. Ambassador, you have clearly wished to stress the efforts I am making with my assistants to come to the aid of peoples who are still suffering from war. Indeed, I ardently hope that peace may become a reality in the family of nations. Because of our faith, we Christians and Muslims are called in particular to be peacemakers. In the sacred books of the different religions, the aspiration to peace and its achievement occupies an important place in the life of man and in his relationship with God. One could even say that a genuinely lived religious life yields fruits of brotherhood and peace, for it is in the nature of religion to foster relations of ever greater solidarity between men, precisely through ever closer links with God.
+
+May I be allowed to take the opportunity of this meeting to convey my greetings through you to your country's Catholic community which, as a family united around its Pastor, Archbishop Fouad Twal, in times of joy and pain, is striving to promote charity, justice and understanding at the service of all Tunisians. The efforts of Catholics especially in training young people and in social assistance, the friendly contacts they are endeavouring to maintain with their compatriots of other beliefs, are a contribution they enjoy making to their country's life.
+
+\**L'Osservatore Roman. Weekly edition in English* n. 51/52 p.8

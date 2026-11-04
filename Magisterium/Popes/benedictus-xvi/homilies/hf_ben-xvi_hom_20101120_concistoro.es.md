@@ -1,0 +1,53 @@
+---
+id: b16-hom-20101120-concistoro.es
+work: b16-hom-20101120-concistoro
+title: "20 de noviembre de 2010: Consistorio Ordinario Público para la creación de los nuevos Cardenales"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Homily
+url_date: 2010-11-20
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/homilies/2010/documents/hf_ben-xvi_hom_20101120_concistoro.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-hom-20101120-concistoro} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 20 de noviembre de 2010: Consistorio Ordinario Público para la creación de los nuevos Cardenales {#b16-hom-20101120-concistoro}
+[CONSISTORIO ORDINARIO PÚBLICO\
+PARA LA CREACIÓN DE NUEVOS CARDENALES](http://www.vatican.va/news_services/liturgy/2010/documents/ns_lit_doc_20101120_index-concistoro_sp.html)
+
+## HOMILÍA DEL SANTO PADRE BENEDICTO XVI
+
+*Basílica Vaticana\
+Sábado 20 de noviembre de 2010*
+
+*Señores cardenales;\
+venerados hermanos en el episcopado y en el sacerdocio;\
+queridos hermanos y hermanas:*
+
+El Señor me da la alegría de realizar, una vez más, este solemne acto, mediante el cual el Colegio cardenalicio se enriquece con nuevos miembros, elegidos de diferentes partes del mundo: se trata de pastores que gobiernan con celo importantes comunidades diocesanas, de prelados que presiden dicasterios de la Curia romana, o que han servido con fidelidad ejemplar a la Iglesia y a la Santa Sede. Desde hoy, entran a formar parte del *coetus peculiaris* que presta al Sucesor de Pedro una colaboración más inmediata y asidua, sosteniéndolo en el ejercicio de su ministerio universal. A ellos, ante todo, dirijo mi afectuoso saludo, renovando la expresión de mi estima y de mi vivo aprecio por el testimonio que dan a la Iglesia y al mundo. En particular, saludo al arzobispo Angelo Amato y le agradezco las amables palabras que me ha dirigido. Asimismo, doy una cordial bienvenida a las delegaciones oficiales de varios países, a los representantes de numerosas diócesis, y a cuantos han venido para participar en este acontecimiento, durante el cual estos venerados y queridos hermanos reciben el signo de la dignidad cardenalicia con la imposición del capelo y la asignación del título de una iglesia de Roma.
+
+El vínculo de especial comunión y afecto que une a estos nuevos cardenales al Papa los hace cooperadores singulares y valiosos del alto mandato encomendado por Cristo a Pedro, de apacentar a sus ovejas (cf. *Jn* 21, 15-17), para reunir a los pueblos con la solicitud de la caridad de Cristo. Precisamente de este amor nació la Iglesia, llamada a vivir y caminar según el mandamiento del Señor, en el cual se resumen toda la ley y los profetas. Estar unidos a Cristo en la fe y en comunión con él significa estar «arraigados y cimentados en el amor» (*Ef* 3, 17), el tejido que une a todos los miembros del Cuerpo de Cristo.
+
+La Palabra de Dios que se acaba de proclamar nos ayuda a meditar precisamente sobre este aspecto tan fundamental. En el pasaje del Evangelio (*Mc* 10, 32-45) se nos presenta el icono de Jesús como el Mesías —anunciado por Isaías (cf. *Is* 53)— que no vino para ser servido, sino para servir: su estilo de vida se convierte en la base de las nuevas relaciones dentro de la comunidad cristiana y de un modo nuevo de ejercer la autoridad. Jesús va de camino hacia Jerusalén y anuncia por tercera vez, indicándolo a los discípulos, el camino a través del cual va a llevar a cumplimiento la obra que el Padre le encomendó: es el camino del don humilde de sí mismo hasta el sacrificio de la vida, el camino de la Pasión, el camino de la cruz. Y, sin embargo, incluso después de este anuncio, como sucedió con los anteriores, los discípulos manifiestan toda su dificultad para comprender, para llevar a cabo el necesario «éxodo» de una mentalidad mundana hacia la mentalidad de Dios. En este caso, son los dos hijos de Zebedeo, Santiago y Juan, quienes piden a Jesús poder sentarse en los primeros puestos a su lado en la «gloria», manifestando expectativas y proyectos de grandeza, de autoridad, de honor según el mundo. Jesús, que conoce el corazón del hombre, no queda turbado por esta petición, sino que inmediatamente explica su profundo alcance: «No sabéis lo que pedís»; después guía a los dos hermanos a comprender lo que conlleva seguirlo.
+
+¿Cuál es, pues, el camino que debe recorrer quien quiere ser discípulo? Es el camino del Maestro, es el camino de la obediencia total a Dios. Por esto Jesús pregunta a Santiago y a Juan: ¿estáis dispuestos a compartir mi elección de cumplir hasta el final la voluntad del Padre? ¿Estáis dispuestos a recorrer este camino que pasa por la humillación, el sufrimiento y la muerte por amor? Los dos discípulos, con su respuesta segura —«podemos»— muestran, una vez más, que no han entendido el sentido real de lo que les anuncia el Maestro. Y de nuevo Jesús, con paciencia, les hace dar un paso más: ni siquiera experimentar el cáliz del sufrimiento y el bautismo de la muerte da derecho a los primeros puestos, porque eso es «para quienes está preparado», está en manos del Padre celestial; el hombre no debe calcular, simplemente debe abandonarse a Dios, sin pretensiones, conformándose a su voluntad.
+
+La indignación de los demás discípulos se convierte en ocasión para extender la enseñanza a toda la comunidad. Ante todo Jesús «los llamó a sí»: es el gesto de la vocación originaria, a la cual los invita a volver. Es muy significativa esta referencia al momento constitutivo de la vocación de los Doce, al «estar con Jesús» para ser enviados, porque recuerda claramente que todo ministerio eclesial siempre es respuesta a una llamada de Dios, nunca es fruto de un proyecto propio o de una ambición, sino que es conformar la propia voluntad a la del Padre que está en los cielos, como Cristo en Getsemaní (cf. *Lc* 22, 42). En la Iglesia nadie es amo, sino que todos son llamados, todos son enviados, todos son alcanzados y guiados por la gracia divina. Y esta es también nuestra seguridad. Sólo volviendo a escuchar la palabra de Jesús, que pide «ven y sígueme», sólo volviendo a la vocación originaria es posible entender la propia presencia y la propia misión en la Iglesia como auténticos discípulos.
+
+La petición de Santiago y Juan y la indignación de los «otros diez» Apóstoles plantea una cuestión central a la que Jesús quiere responder: ¿Quién es grande, quién es «primero» para Dios? Ante todo la mirada va al comportamiento que corren el riesgo de asumir «aquellos que son considerados los gobernantes de las naciones»: «dominar y oprimir». Jesús indica a los discípulos un modo completamente distinto: «No ha de ser así entre vosotros». Su comunidad sigue otra regla, otra lógica, otro modelo: «El que quiera llegar a ser grande entre vosotros, será vuestro servidor, y el que quiera ser el primero entre vosotros, será esclavo de todos». El criterio de la grandeza y del primado según Dios no es el dominio, sino el servicio; la diaconía es la ley fundamental del discípulo y de la comunidad cristiana, y nos deja entrever algo del «señorío de Dios». Y Jesús indica también el punto de referencia: el Hijo del hombre, que vino para servir; es decir, sintetiza su misión en la categoría del servicio, entendido no en sentido genérico, sino en el sentido concreto de la cruz, del don total de la vida como «rescate», como redención para muchos, y lo indica como condición para seguirlo. Es un mensaje que vale para los Apóstoles, vale para toda la Iglesia, vale sobre todo para aquellos que tienen la tarea de guiar al pueblo de Dios. No es la lógica del dominio, del poder según los criterios humanos, sino la lógica del inclinarse para lavar los pies, la lógica del servicio, la lógica de la cruz que está en la base de todo ejercicio de la autoridad. En todos los tiempos la Iglesia se ha esforzado por conformarse a esta lógica y por testimoniarla para hacer transparentar el verdadero «señorío de Dios», el del amor.
+
+Venerados hermanos elegidos para la dignidad cardenalicia, la misión a la que Dios os llama hoy y que os habilita a un servicio eclesial todavía más cargado de responsabilidad, requiere una voluntad cada vez mayor de asumir el estilo del Hijo de Dios, que vino entre nosotros como quien sirve (cf. *Lc* 22, 25-27). Se trata de seguirlo en su entrega de amor humilde y total a la Iglesia su esposa, en la cruz: es en ese madero donde el grano de trigo, que el Padre dejó caer en el campo del mundo, muere para convertirse en fruto maduro. Para esto hace falta un arraigo todavía más profundo y firme en Cristo. La relación íntima con él, que transforma cada vez más la vida a fin de poder decir con san Pablo «ya no vivo yo, sino que es Cristo quien vive en mí» (*Ga* 2, 20), constituye la exigencia primaria para que nuestro servicio sea sereno y gozoso, y para que pueda dar el fruto que el Señor espera de nosotros.
+
+Queridos hermanos y hermanas, que hoy acompañáis a los nuevos cardenales: rezad por ellos. Mañana en esta basílica, durante la concelebración en la solemnidad de Cristo Rey del universo, les entregaré el anillo. Será una ocasión más en la cual alabar al Señor, porque «su fidelidad dura por siempre» (*Sal* 145), como hemos repetido en el salmo responsorial. Que su Espíritu sostenga a los nuevos purpurados en su compromiso de servicio a la Iglesia, siguiendo al Cristo de la cruz también, si fuera necesario, *usque ad effusionem sanguinis*, siempre dispuestos —como nos decía san Pedro en la lectura que hemos proclamado— a responder a todo el que nos pida razón de nuestra esperanza (cf. *1 P* 3, 15). Encomiendo a los nuevos cardenales y su servicio eclesial a María, Madre de la Iglesia, a fin de que, con ardor apostólico, proclamen a todos los hombres el amor misericordioso de Dios. Amén.

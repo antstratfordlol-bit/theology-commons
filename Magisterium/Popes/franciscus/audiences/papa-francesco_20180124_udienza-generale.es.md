@@ -1,0 +1,66 @@
+---
+id: francis-aud-20180124.es
+work: francis-aud-20180124
+title: "Audiencia general del 24 de enero de 2018"
+creator: "Franciscus PP."
+pope: Francis
+document-type: General audience (catechesis)
+url_date: 2018-01-24
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/audiences/2018/documents/papa-francesco_20180124_udienza-generale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt"
+anchors: "{#francis-aud-20180124} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Audiencia general del 24 de enero de 2018 {#francis-aud-20180124}
+PAPA FRANCISCO
+
+## AUDIENCIA GENERAL
+
+*Plaza de San Pedro\
+Miércoles, 24 de enero de 2018*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/24/udienzagenerale.html)\]
+
+*Queridos hermanos y hermanas, ¡buenos días!*
+
+Esta audiencia se hace en dos lugares unidos: vosotros, aquí en la plaza, y un grupo de niños un poco enfermos, que están en el aula. Ellos os verán a vosotros y vosotros les veréis a ellos: y así estamos unidos. Saludamos a los niños que están en el Aula: pero era mejor que no pasaran mucho frío, y por eso están allí.
+
+Volví hace dos días del [viaje apostólico en Chile y Perú](http://w2.vatican.va/content/francesco/es/travels/2018/outside/documents/papa-francesco-cile-peru_2018.html). ¡Un aplauso a Chile y Perú! Dos pueblo buenos, buenos... Doy gracias al Señor porque todo fue bien: he podido ver al Pueblo de Dios en camino en esas tierras —también los que no están en camino, están un poco parados... pero es buena gente— y alentar el desarrollo social de esos países. Renuevo mi gratitud a las autoridades civiles y a los hermanos obispos, que me han acogido con tanta atención y generosidad; como también a todos los colaboradores y los voluntarios. Pensad que en cada uno de los dos países había más de 20 mil voluntarios: más de 20 mil en Chile, 20 mil en Perú. Gente buena: la mayoría jóvenes.
+
+Mi llegada a Chile estuvo precedida de diferentes manifestaciones de protesta, por varios motivos, como vosotros habéis leído en los periódicos. Y esto hizo todavía más actual y vivo el lema de mi visita: «Mi paz os doy». Son las palabras de Jesús dirigidas a los discípulos, que repetimos en cada misa: el don de la paz, que solo Jesús muerto y resucitado puede dar a quien se encomienda a Él. No solo cada uno de nosotros necesita paz, también el mundo, hoy, en esta tercera guerra mundial a pedazos... Por favor, ¡recemos por la paz!
+
+En el [encuentro con las autoridades políticas y civiles del país](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/16/autorita-santiago-cile.html) animé el camino de la democracia chilena, como espacio de encuentro solidario y capaz de incluir las diversidades; para este fin indiqué como método la vía de la escucha: en particular la escucha a los pobres, los jóvenes y los ancianos, los inmigrantes, y también la escucha a la tierra.
+
+En la [primera eucaristía](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/16/messasantiago-cile.html), celebrada por la paz y la justicia, resonaron las bienaventuranzas, especialmente «Bienaventurados los que trabajan por la paz, porque serán llamados hijos de Dios» (*Mateo* 5, 9).
+
+Una bienaventuranza para testimoniar con el estilo de la proximidad, de la cercanía, del compartir, reforzando así, con la gracia de Cristo, el tejido de la comunidad eclesial y de toda la sociedad. En este estilo de proximidad cuentan más los gestos que las palabras, y un gesto importante que pude realizar fue [visitar la cárcel femenina de Santiago](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/16/penitenziarioasantiago-cile.html): los rostros de esas mujeres, muchas de las cuales jóvenes madres, con sus hijos pequeños en brazos, expresaban a pesar de todo mucha esperanza. Las animé a exigir, a sí mismas y a las instituciones, un serio camino de preparación a la reinserción, como horizonte que da sentido a la pena cotidiana. Nosotros no podemos pensar en una cárcel, cualquier cárcel, sin esta dimensión de la reinserción, porque si no está esta esperanza de la reinserción social, la cárcel es una tortura infinita. Sin embargo, cuando se trabaja para reinsertar —también los condenados a cadena perpetua pueden reinsertarse— mediante el trabajo de la cárcel a la sociedad, se abre un diálogo. Pero una cárcel siempre debe tener esta dimensión de la reinserción, siempre.
+
+Con [los sacerdotes y los consagrados](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/16/religiosisantiago-cile.html) y con [los obispos de Chile](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/16/vescovisantiago-cile.html) viví dos encuentros muy intensos, hechos todavía más fecundos por el sufrimiento compartido por algunas heridas que afligen a la Iglesia en ese país. En particular, confirmé a mis hermanos en el rechazo de todo compromiso con los abusos sexuales a menores, y al mismo tiempo en la confianza en Dios, que a través de esta dura prueba purifica y renueva a sus ministros.
+
+Las otras dos misas en Chile fueron celebradas una en el sur y otra en el norte. [La del sur, en Araucanía](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/17/messatemuco-cile.html), tierra donde habitan los indios Mapuche, transformó en alegría los dramas y las fatigas de este pueblo, lanzando un llamamiento por una paz que sea armonía de las diferencias y por el rechazo de toda violencia. [La del norte, en Iquique](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/18/messaiquique-cile.html), entre océano y desierto, fue un himno al encuentro entre los pueblos, que se expresa de forma singular en la religiosidad popular.
+
+Los encuentros [con los jóvenes](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/17/giovanimaipu-cile.html) y con la [Universidad Católica de Chile](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/17/univpont-santiago-cile.html) respondieron al desafío crucial de ofrecer un sentido grande a la vida de las nuevas generaciones. A los jóvenes dejé una palabra programática de san Alberto Hurtado: «¿Qué haría Cristo en mi lugar?». Y en la Universidad propuse un modelo de formación integral, que traduce la identidad católica en capacidad de participar en la construcción de sociedades unidas y plurales, donde los conflictos no son ocultados sino gestionados en el diálogo. Siempre hay conflictos: también en casa; siempre hay. Pero, tratar mal los conflictos es todavía peor. No es necesario esconder los conflictos debajo de la cama: los conflictos que salen a la luz, se afrontan y se resuelven con el diálogo. Pensad vosotros en los pequeños conflictos que tenéis seguramente en vuestra casa: no es necesario esconderlos sino afrontarlos. Buscar el momento y se habla: el conflicto se resuelve así, con el diálogo.
+
+En Perú el lema de la visita fue: «Unidos por la esperanza». Unidos no en una uniformidad estéril, todos iguales: sino en toda la riqueza de las diferencias que heredamos de la historia y de la cultura. Lo testimonió de forma emblemática el [encuentro con los pueblos de la Amazonia peruana](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/19/popoliamazzonia-puertomaldonado-peru.html), que dio inicio también al itinerario del Sínodo Panamazónico convocado para octubre de 2019, como también lo testimoniaron los momentos vividos [con la población de Puerto Maldonado](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/19/popolazione-puertomaldonado-peru.html) y [con los niños de la Casa de acogida «El Principito»](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/19/hogar-puertomaldonado-peru.html). Juntos dijimos «no» a la colonización económica y a la colonización ideológica.
+
+[Hablando a las autoridades políticas y civiles de Perú](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/19/autorita-lima-peru.html), aprecié el patrimonio ambiental, cultural y espiritual de ese país, y enfoqué las dos realidades que más gravemente lo amenazan: el degrado ecológico-social y la corrupción. No sé si vosotros habéis escuchado aquí hablar de corrupción... no lo sé... No solo por allí hay: ¡también aquí es más peligrosa que la gripe! Se mezcla y arruina los corazones. La corrupción arruina los corazones. Por favor, no a la corrupción. Y remarqué que nadie está exento de responsabilidad frente a estas dos plagas y que el compromiso para contrarrestarlas es de todos.
+
+La [primera misa pública en Perú](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/20/messatrujillo-peru.html) la celebré en la orilla del océano, en la ciudad de Trujillo, donde el temporal llamado «Niño costero» el año pasado golpeó duramente a la población. Por eso les animé a reaccionar a este, pero también a otros temporales como la maldad, la falta de educación, de trabajo y de alojamiento seguro. En Trujillo [me reuní con los sacerdotes y los consagrados del norte de Perú](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/20/clero-trujillo-peru.html), compartiendo con ellos la alegría de la llamada y de la misión, y la responsabilidad de la comunión en la Iglesia. Les exhorté a ser ricos de memoria y fieles a sus raíces. Y entre estas raíces está la devoción popular a la Virgen María. También en Trujillo tuvo lugar la [celebración mariana](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/20/celebrazmariana-trujillo-peru.html) en la que coroné a la Virgen de la Puerta, proclamándola «Madre de la Misericordia y de la Esperanza».
+
+La jornada final del viaje, el domingo pasado, transcurrió en Lima, con un fuerte acento espiritual y eclesial. En el Santuario más célebre de Perú, en el que se venera la pintura de la Crucifixión llamado «Señor de los Milagros», [me reuní con unas 500 religiosas de clausura, de vida contemplativa](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/21/preghieraoramedialima-peru.html): un verdadero «pulmón» de fe y de oración para la Iglesia y para toda la sociedad. [En la catedral realicé un acto de oración especia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/21/reliquiesanti-lima-peru.html)l para la intercesión de los santos peruanos, al que siguió el [encuentro con los obispos del país](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/21/vescovi-lima-peru.html), a los cuales propuse la figura ejemplar de san Toribio de Mogrovejo. También [a los jóvenes peruanos](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/21/angelus-peru.html) indiqué los santos como hombres y mujeres que no han perdido tiempo en «maquillar» la propia imagen, sino que han seguido a Cristo, que les ha mirado con esperanza. Como siempre, la palabra de Jesús da sentido pleno a todo, y así también el Evangelio de la [última celebración eucarístic](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/1/21/messalima-peru.html)a resumió el mensaje de Dios a su pueblo en Chile y en Perú: «Convertíos y creed en la Buena Nueva» (*Marcos* 1, 15). Así —parecía decir el Señor— recibiréis la paz que yo os doy y estaréis unidos en mi esperanza. Esto es más o menos el resumen de este viaje. Recemos por estas dos naciones hermanas, Chile y Perú, para que el Señor les bendiga.
+
+## Saludos:
+
+Saludo cordialmente a los peregrinos de lengua española, en particular a los provenientes de España y Latinoamérica. Que la potencia de la fidelidad y del amor misericordioso del Padre que se nos ofrece en Jesús, nos impulse a creer en el Evangelio y a iniciar un camino de conversión, que nos abran a acoger *la paz que él nos da* y a ser hombres y mujeres *unidos en su esperanza*. Muchas gracias.

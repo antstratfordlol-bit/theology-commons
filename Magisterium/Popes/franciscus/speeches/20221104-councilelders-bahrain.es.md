@@ -1,0 +1,61 @@
+---
+id: francis-spe-20221104-councilelders-bahrain.es
+work: francis-spe-20221104-councilelders-bahrain
+title: "Viaje apostólico a Baréin: Encuentro con los miembros del Consejo Musulmán de Ancianos en la mezquita del 'Sakhir Royal Palace' (Awali, 4 de noviembre de 2022)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2022-11-04
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2022/november/documents/20221104-councilelders-bahrain.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#francis-spe-20221104-councilelders-bahrain} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje apostólico a Baréin: Encuentro con los miembros del Consejo Musulmán de Ancianos en la mezquita del "Sakhir Royal Palace" (Awali, 4 de noviembre de 2022) {#francis-spe-20221104-councilelders-bahrain}
+[VIAJE APOSTÓLICO DE SU SANTIDAD EL PAPA FRANCISCO\
+AL REINO DE BARÉIN](https://www.vatican.va/content/francesco/es/travels/2022/outside/documents/bahrain-2022.html)\
+(3 - 6 DE NOVIEMBRE DE 2022)
+
+## ENCUENTRO CON LOS MIEMBROS DEL CONSEJO MUSULMÁN DE ANCIANOS
+
+## DISCURSO DEL SANTO PADRE
+
+*Mezquita del "Sakhir Royal Palace" de Awali\
+Viernes, 4 de noviembre de 2022*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2022/11/4/councilelders-bahrain.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Querido hermano, Doctor Ahmad Al-Tayyeb, Gran Imán de Al-Azhar,\
+queridos miembros del Consejo Musulmán de Ancianos,\
+queridos amigos,\
+*As-salamu alaykum*.
+
+Los saludo cordialmente, deseando que la paz del Altísimo descienda sobre cada uno de ustedes; sobre ustedes, que buscan promover la reconciliación para evitar divisiones y conflictos en las comunidades musulmanas; sobre ustedes, que ven en el extremismo un peligro que corroe la verdadera religión; sobre ustedes, que se comprometen en disipar interpretaciones erradas que a través de la violencia tergiversan, instrumentalizan y dañan un credo religioso. Que la paz descienda y permanezca con ustedes, que desean difundirla inculcando en los corazones los valores del respeto, de la tolerancia y de la moderación; sobre ustedes, que proponen fomentar relaciones amistosas, mutuo respeto y confianza recíproca con todos aquellos que, como yo, adhieren a una fe religiosa distinta; sobre ustedes, hermanos y hermanas, que quieren favorecer en los jóvenes una educación moral e intelectual que se oponga a cualquier forma de odio y de intolerancia. *As-salamu alaykum.*
+
+Dios es fuente de paz. Que nos conceda ser, en cualquier lugar, canales de su paz. Ante ustedes quisiera reiterar que el Dios de la paz nunca conduce a la guerra, nunca incita al odio, nunca respalda la violencia. Y nosotros, que creemos en Él, estamos llamados a promover la paz a través de instrumentos de paz, como el encuentro, las tratativas pacientes y el diálogo, que es el oxígeno de la convivencia común. Entre los objetivos que se proponen está el de difundir una cultura de paz basada en la justicia. Quisiera decirles que este es el camino, más aún, el único camino, en cuanto la paz «es *obra de la justicia* (*[Gaudium et spes](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)*, 78). Brota, pues, de la fraternidad, crece a través de la lucha contra la injusticia y las desigualdades, se construye tendiendo la mano a los demás» (*[Discurso con ocasión de la lectura de la Declaración final y clausura del VII Congreso de Líderes de Religiones Mundiales y Tradicionales](https://www.vatican.va/content/francesco/es/speeches/2022/september/documents/20220915-kazakhstan-finecongresso.html)*, 15 septiembre 2022). La paz no puede ser sólo proclamada, se debe consolidar. Y esto es posible removiendo las desigualdades y las discriminaciones, que producen inestabilidad y hostilidad.
+
+Les agradezco su compromiso en este sentido, como también la acogida que me han dispensado y las palabras que han pronunciado. Vengo entre ustedes como un creyente en Dios, como un hermano y peregrino de paz. Vengo entre ustedes para caminar juntos, con el espíritu de Francisco de Asís, que solía decir: «Que la paz que anuncian de palabra, la tengan, y en mayor medida, en sus corazones» (*Leyenda de los tres compañeros*, XIV, 58. *Directorio Franciscano, Fuentes biográficas franciscanas*). Me ha llamado la atención ver cómo en estas tierras es costumbre, al acoger a un huésped, no sólo estrecharle la mano, sino también llevarse la mano al corazón en señal de afecto. Como diciendo: tu persona no se queda distante de mí, entra en mi corazón, en mi vida. También yo me llevo la mano al corazón con respetuoso afecto, mirando a cada uno de ustedes y bendiciendo al Altísimo por la posibilidad de encontrarnos.
+
+Creo que cada vez tenemos más necesidad de encontrarnos, de conocernos y de preocuparnos por los demás, de poner la realidad antes que las ideas y a las personas antes que las opiniones, la apertura al cielo antes que las distancias de la tierra, un futuro de fraternidad antes que un pasado de hostilidad, superando los prejuicios y las incomprensiones de la historia en nombre de Aquel que es la Fuente de la Paz. Por lo demás, ¿cómo podrán los fieles de religiones y culturas distintas convivir, acogerse y estimarse mutuamente si nosotros seguimos siendo unos extraños los unos para los otros? Dejémonos guiar por el dicho del Imán Alí: «Las personas son de dos tipos: tus hermanos en la fe o tus semejantes en la humanidad», y sintámonos llamados a hacernos cargo de todos aquellos que el designio divino ha puesto a nuestro lado en este mundo. Exhortémonos “a que, olvidando lo pasado, ejercitemos sinceramente la mutua comprensión, procurando y promoviendo unidos la justicia social, los bienes morales, la paz y la libertad para todos los hombres” (cf. *[Nostra aetate](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_sp.html)*, 3). Son tareas que nos incumben a nosotros, los guías religiosos. Ante una humanidad cada vez más herida y desgarrada que, bajo el vestido de la globalización, respira con dificultad y miedo, las grandes religiones están llamadas a ser el corazón que une los miembros del cuerpo, el alma que da esperanza y vida a las más altas aspiraciones.
+
+En estos días he hablado sobre la fuerza de la vida, que sobrevive en los desiertos más áridos bebiendo del agua del encuentro y de la convivencia pacífica. Ayer lo hice tomando el ejemplo del sorprendente “árbol de la vida” que se encuentra aquí en Baréin. El pasaje bíblico que hemos escuchado pone al árbol de la vida en el centro del jardín de los orígenes, en el corazón del maravilloso proyecto de Dios para el hombre, un designio armónico capaz de abrazar toda la creación. Sin embargo, el ser humano se ha alejado del Creador y del orden establecido por Él. A partir de esto se originaron problemas y desequilibrios, que en la narración bíblica van uno detrás del otro: peleas y homicidios entre hermanos (cf. *Gn* 4), desórdenes y devastaciones ambientales (cf. *Gn* 6-9), soberbia y contrastes en la sociedad humana (cf. *Gn* 11). En resumen, un diluvio de maldad y de muerte que brota del corazón del hombre, de la chispa maligna desencadenada por el mal que está agazapado a la puerta de su corazón (cf. *Gn* 4,7), para incendiar el jardín armónico del mundo. Pero este mal tiene su raíz en el rechazo a Dios y al hermano, en el perder de vista al Autor de la vida y en el no reconocernos ya como custodios de los hermanos. Por eso las dos preguntas que hemos escuchado siguen siendo siempre válidas y, más allá del credo que se profese, interpelan a cada vida y a cada época: «¿Dónde estás?» (*Gn* 3,9), «¿Dónde está tu hermano?» (*Gn* 4,9).
+
+Queridos amigos, hermanos en Abraham, creyentes en el único Dios, los males sociales e internacionales, los económicos y los personales, así como la dramática crisis ambiental que caracteriza los tiempos actuales y sobre la que hoy se ha reflexionado, provienen a fin de cuentas del alejamiento de Dios y del prójimo. Por lo tanto, nosotros tenemos una tarea única, imprescindible, la de ayudar a reencontrar estas fuentes de vida olvidadas, de volver a llevar a la humanidad a beber de esta sabiduría antigua, de volver a acercar a los fieles a la adoración del Dios del cielo y también acercarlos a los hombres, para quienes Él hizo la tierra.
+
+Y esto, ¿de qué manera? Nuestros medios son básicamente dos: la oración y la fraternidad. Estas son nuestras armas, humildes y eficaces. No nos debemos dejar tentar por otros instrumentos, por atajos indignos del Altísimo, cuyo nombre de Paz es insultado por quienes creen en las razones de la fuerza y alimentan la violencia, la guerra y el mercado de armas, “el comercio de la muerte” que, con grandes sumas de dinero cada vez mayores, está transformando nuestra casa común en un gran arsenal. Cuántas tramas oscuras y cuántas dolorosas contradicciones hay detrás de todo esto. Pensemos, por ejemplo, en cuántas personas se ven obligadas a migrar de su propia tierra a causa de los conflictos financiados por la compra de armamento anticuado a precios asequibles, para luego ser identificadas y rechazadas en otras fronteras por medio de equipamiento militar siempre más sofisticado. Y de esta manera la esperanza es asesinada doblemente. Pues bien, delante de estos escenarios trágicos, mientras el mundo sigue las quimeras de la fuerza, del poder y del dinero, nosotros estamos llamados a recordar, con la sabiduría de los ancianos y de los padres, que Dios y el prójimo son lo primero y más importante, que sólo la trascendencia y la fraternidad nos salvan. Depende de nosotros volver a abrir esas fuentes de vida, pues de lo contrario el desierto de la humanidad será siempre más árido y mortífero. Sobre todo, depende de nosotros dar testimonio, más con los hechos que con las palabras, de que creemos en esto, en estas dos verdades. Tenemos una gran responsabilidad ante Dios y los hombres, y debemos ser modelos creíbles de lo que predicamos, no sólo en nuestras comunidades y en nuestra casa —ya no es suficiente— sino en el mundo unificado y globalizado. Nosotros, que descendemos de Abraham, padre de los pueblos en la fe, no podemos preocuparnos sólo por “los nuestros”, sino que, cada vez más unidos, hemos de dirigirnos a la entera comunidad humana que puebla la tierra.
+
+Porque, en realidad, todos se hacen, al menos en lo secreto del corazón, las mismas grandes preguntas: ¿quién es el hombre?, ¿por qué el dolor, el mal, la muerte, la injusticia?, ¿qué hay después de esta vida? Para muchos, anestesiados por un materialismo práctico y por un consumismo paralizante, estos mismos interrogantes yacen adormecidos, mientras que para otros están silenciados por las plagas deshumanas del hambre y de la pobreza. Miremos el hambre y la pobreza de hoy. Que entre los motivos que olvidan lo importante no se incluya nuestra negligencia, el escándalo de ocuparnos de otras cosas y no de anunciar al Dios que da paz a la vida y la paz que da vida a los hombres. Hermanos y hermanas, apoyémonos en esto mutuamente, demos seguimiento a nuestro encuentro del día de hoy, caminemos juntos. Seremos bendecidos por el Altísimo y por las creaturas más pequeñas y débiles que Él prefiere: por los pobres, los niños y los jóvenes, quienes después de tantas noches oscuras, esperan el surgir de un amanecer de luz y de paz. Gracias.

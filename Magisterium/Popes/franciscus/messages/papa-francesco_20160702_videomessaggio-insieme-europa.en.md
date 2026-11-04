@@ -1,0 +1,53 @@
+---
+id: francis-mes-20160702-videomessaggio-insieme-europa.en
+work: francis-mes-20160702-videomessaggio-insieme-europa
+title: "Video Message of the Holy Father to participants in the “Together for Europe” Encounter (2 July 2016)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Message
+url_date: 2016-07-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/messages/pont-messages/2016/documents/papa-francesco_20160702_videomessaggio-insieme-europa.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, fr, it, pt"
+anchors: "{#francis-mes-20160702-videomessaggio-insieme-europa} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Video Message of the Holy Father to participants in the “Together for Europe” Encounter (2 July 2016) {#francis-mes-20160702-videomessaggio-insieme-europa}
+## VIDEO MESSAGE OF HIS HOLINESS POPE FRANCIS TO PARTICIPANTS IN THE "TOGETHER FOR EUROPE" ENCOUNTER
+
+## \[MUNICH, 2 JULY 2016\]
+
+Dear Friends of *Together for Europe*,
+
+I know that you are gathered in Munich, Bavaria, from many Movements and Groups, for your meeting called “Encounter. Reconciliation. Future”.
+
+You are right. It is time to get together, to face the problems of our day with a true European spirit. Apart from some visible walls, other invisible walls are being strengthened which tend to divide our continent. These walls are being built in people’s hearts. They are walls made of fear and aggression, a failure to understand people of different backgrounds or faith. They are walls of political and economic selfishness, without respect for the life and dignity of every person.
+
+Europe finds itself in a complex and highly mobile world, which is ever more globalized and therefore ever less Eurocentric.
+
+If we are aware of these momentous issues, then we must have the courage to say: we need change! Europe is called to reflect and to ask itself whether its immense heritage, so permeated with Christianity, belongs in a museum or is still able to inspire culture and to offer its treasures to the whole of humankind.
+
+You are meeting so as to look together at these challenges facing Europe and to highlight testimonies of life in society which enable networking, so as to welcome and show solidarity towards those who are weak and disadvantaged, to build bridges and overcome conflicts whether they are open or latent.
+
+Europe’s history is an ongoing encounter between Heaven and earth. Heaven indicates openness to the Transcendent, to God, which has always been characteristic of European people. Earth represents their practical and concrete ability to address situations and problems.
+
+You too, Christian communities and movements which began in Europe, are bearers of many charisms, which are gifts of God to be made available to others. *Together for Europe* is a unifying power with the clear aim of translating the basic values of Christianity into concrete responses to the challenges of a continent in crisis.
+
+Your lifestyle is based on mutual love, lived out with Gospel radicalness. A culture of reciprocity means talking things over, esteeming one another, welcoming one another, helping one another. It means appreciating the diversity of charisms so as to move together towards unity and enrich it. The tangible and clear presence of Christ among you is the witness which leads to faith.
+
+All authentic unity draws on the wealth of diversity which forms it — like a family which grows in unity insofar as its members can fully and fearlessly be themselves. If Europe as a whole aims to be a family of nations, it must return the human person to the centre; it should be an open and welcoming continent, and continue to create not only economic but also social and cultural forms of cooperation.
+
+God always brings newness. You have experienced this so often in your lives! Are we also open to surprises today? You, who have answered the Lord’s call courageously, are called to show his newness in your lives and bring to life the fruits of the Gospel, fruits that have grown from Christian roots, which for the last 2,000 years have nourished Europe. And you will bear even greater fruit! Maintain the freshness of your charisms; continue to be “*Together*” and extend it further! Make your homes, communities and cities into workshops of communion, friendship and fraternity, which can bring people together and be open to the whole world.
+
+*Together for Europe*? Today this is more necessary than ever. In a Europe made up of many nations, you bear witness to the fact that we are children of one Father and brothers and sisters to one another. You are a precious seed of hope, so that Europe can rediscover its vocation to contribute to the unity of all.

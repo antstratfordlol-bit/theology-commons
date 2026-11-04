@@ -1,0 +1,71 @@
+---
+id: jp2-spe-19800506-arrivo-kenya.en
+work: jp2-spe-19800506-arrivo-kenya
+title: "Welcoming ceremony in Nairobi, Kenya (May 6, 1980)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1980-05-06
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1980/may/documents/hf_jp-ii_spe_19800506_arrivo-kenya.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it, pt"
+anchors: "{#jp2-spe-19800506-arrivo-kenya.N} — numbered paragraphs 1..4 (4 anchors), shared with jp2-spe-19800506-arrivo-kenya.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Welcoming ceremony in Nairobi, Kenya (May 6, 1980)
+[APOSTOLIC PILGRIMAGE TO AFRICA](http://localhost/holy_father/john_paul_ii/travels/sub_index1980/trav_africa.htm)[\
+(MAY 2-12, 1980)](http://localhost/holy_father/john_paul_ii/travels/sub_index1980/trav_africa.htm)
+
+## ADDRESS OF JOHN PAUL II AT THE ARRIVAL IN KENYA
+
+*Nairobi\
+Tuesday, 6 May 1980*
+
+*Your Excellency, the President of the Republic of Kenya,\
+Honourable Members of the Government,\
+Your Eminence, Venerable Brothers in the Episcopate,\
+Mr Mayor of the City of Nairobi,\
+Dear brothers and sisters,*
+
+### 1 {#jp2-spe-19800506-arrivo-kenya.1}
+
+I am deeply grateful for the courteous and cordial words of welcome which His Excellency the President of Kenya has addressed to me. For it is not only a privilege but also a joy to be able to come and visit the people of this country. Hearing these words of welcome, which are the expression of the traditional African hospitality which graces your people, I cannot but feel that I have come among friends, that I have been accepted into your great family, the family of the whole nation of Kenya.
+
+I thank you most sincerely Mr President, for the invitation you extended to me some time ago. In it I have found confirmation of the esteem which you, as Head of this Republic, wish to express for me, the Head of the Catholic Church. In your invitation I feel again your commitment to foster mutual understanding among all peoples and nations. In it I have encountered your deep respect for all men of religion and for the valuable contribution which true believers in God can make to the future of your country and indeed of all nations
+
+Through Your Excellency I greet all your fellow-citizens wherever they may be: in your cities and villages, on your mountains and in your plains, by your rivers and by your lakes. I greet all the men and women of this country, which has been blessed by peace and by the unanimity of its inhabitants in their endeavours to promote just progress for everyone, while preserving a rich cultural identity. I greet the parents and their children, the pride and joy of every family and of the nation as a whole. I greet your elders and all those who are entrusted with the welfare of their fellow-citizens. In a very special way, my heart goes out to the sick and suffering and to all who are weighed down by heavy burdens. Know that there is a brother who has come to you from Rome, one who thinks of you, who loves you and is close to you in prayer. And finally, I wish to extend my warm greetings also to the many citizens living outside the country, for reasons of work or study or service to their homeland.
+
+*Wananchi wote, wananchi wote wapenzi* - to all of you, the people who live and work in Kenya, to all of you I say: thank you for your welcome and may peace be with you!
+
+### 2 {#jp2-spe-19800506-arrivo-kenya.2}
+
+My visit is also the pastoral journey of the Bishop of Rome, the Pastor of the universal Church, to the Church in Kenya. Your Eminence, Cardinal Otunga, and my dear brother Bishops: allow me to tell you how much I appreciate and bless this moment of my first contact with you on your native soil. You have invited me to come, and in the name of the Lord - in the holy name of Jesus Christ - I greet you and all the people who are entrusted to your pastoral care.
+
+Today I am in your midst because I want to heed the command which the Lord Jesus himself gave to Saint Peter and to the other Apostles: that they should be his "witnesses in Jerusalem and in all Judea and Samaria and to the ends of the earth"\[[1](#_ftn1){#_ftnref1}\]; because I want to testify with you that Jesus is the Lord, that he is risen from the dead so that all people may live. I come to you as the Successor of Saint Peter in the See of Rome to praise the Lord together with you for all the marvels which he has wrought in the Church in Kenya.
+
+### 3 {#jp2-spe-19800506-arrivo-kenya.3}
+
+And now I wish to offer a particular greeting to you, the young people present here, and through you to all the youth of this land! For I know that you carry in your hearts your dreams for the future of Kenya, and in your hands the power to make those dreams come true. May peace and joy be always in your hearts!
+
+I have been told that you make up more than half of the population of this nation; and so, talking to Kenya means talking to you! These then are my words to you today: be yourselves, under the fatherhood of God be upright citizens of your country, worthy sons and daughters of Kenya. Be young people, and reach out to each other in generosity and fraternal service. Be young people, and do not let your hearts know selfishness or greed. Be young people, and let your songs reveal your daring and your vision for the future!
+
+Yes, young people of Kenya, what I have told youth all over the world I now repeat to you: the Pope is your friend and he loves you, and he sees in you the hope for a better future, a better world! My special message to you, and through you to all the young people of Kenya is this: "Always treat others as you would like them to treat you"\[[2](#_ftn2){#_ftnref2}\]. Believe in the power of love to uplift humanity. With courage and prayer, with determination and effort, obstacles can be overcome, problems solved. May Almighty God protect you and sustain you in this hour of challenge and destiny.
+
+### 4 {#jp2-spe-19800506-arrivo-kenya.4}
+
+And to all of you, dear friends, I express once again my thanks for the warm hospitality of your land. From this first moment on Kenyan soil you have opened your hearts to me. In return I assure you of my affection, friendship and esteem. And now I would borrow from your National Anthem those words which so aptly express my sentiments and my prayer at this time as I begin my pastoral visit to Kenya: "O God of all creation, bless this our land and nation" - Ee Mungu nguvu yetu* - *Ilete baraka Kwetu!
+
+\[[1](#_ftnref1){#_ftn1}\] *Act*. 1, 8.
+
+\[[2](#_ftnref2){#_ftn2}\] *Matth*. 7, 12.

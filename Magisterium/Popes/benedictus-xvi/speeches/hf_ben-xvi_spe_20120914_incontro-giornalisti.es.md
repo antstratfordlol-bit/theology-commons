@@ -1,0 +1,54 @@
+---
+id: b16-spe-20120914-incontro-giornalisti.es
+work: b16-spe-20120914-incontro-giornalisti
+title: "Viaje apostólico a Líbano: Encuentro de Benedicto XVI con los periodistas durante el vuelo hacia Líbano (14 de septiembre de 2012)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2012-09-14
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2012/september/documents/hf_ben-xvi_spe_20120914_incontro-giornalisti.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#b16-spe-20120914-incontro-giornalisti} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje apostólico a Líbano: Encuentro de Benedicto XVI con los periodistas durante el vuelo hacia Líbano (14 de septiembre de 2012) {#b16-spe-20120914-incontro-giornalisti}
+[VIAJE APOSTÓLICO A LÍBANO\
+(14-16 DE SEPTIEMBRE DE 2012)](https://www.vatican.va/content/benedict-xvi/es/travels/2012/outside/documents/libano.html)
+
+## ENTREVISTA CONCEDIDA POR EL SANTO PADRE BENEDICTO XVI A LOS PERIODISTAS DURANTE EL VUELO HACIA LÍBANO
+
+*Viernes 14 de septiembre de 2012*
+
+**P. Lombardi:** Santidad, bienvenido y gracias por estar aquí con nosotros. Los periodistas de la comitiva son algo más de 50, de diversas lenguas y nacionalidades. Naturalmente son centenares, quizás miles, que nos esperan en el Líbano y todos están muy atentos a este viaje sabiendo el compromiso y la importancia que reviste. Le estamos agradecidos por estar con nosotros para responder a las preguntas tan interesantes que los mismos periodistas han formulado en los días precedentes. Las dos primeras preguntas las formulo en francés. El Santo Padre responde en francés, como lengua más o menos oficial del viaje, y las otras tres en italiano.
+
+Santo Padre, por estos días coinciden aniversarios terribles, como el del 11 de septiembre, o el de la masacre de Sabra y Chatila; en las fronteras del Líbano hay una sangrienta guerra civil, y vemos también que en otros países el riesgo de la violencia está siempre presente. Santo Padre, ¿con qué sentimientos emprende este viaje? ¿Ha estado tentado de renunciar por motivos de inseguridad, o alguien le ha sugerido renunciar
+
+**Santo Padre:** Queridos amigos, estoy muy contento y agradecido por esta posibilidad de hablar con vosotros. Puedo decir que nadie me ha aconsejado renunciar a este viaje y, por mi parte, nunca he contemplado esa posibilidad, porque sé que cuando la situación se hace más difícil, más necesario es ofrecer este signo de fraternidad, de ánimo y de solidaridad. Este es el significado de mi viaje: invitar al diálogo, invitar a la paz contra la violencia, caminar juntos para encontrar la solución a los problemas. Así pues, mis sentimientos en este viaje son sobre todo sentimientos de gratitud por la posibilidad de ir en este momento a este gran país, este país, que –como ha dicho el Papa Juan Pablo II– es un mensaje múltiple, en esta región, del encuentro y de los orígenes de las tres religiones abrahámicas. Agradezco, ante todo, al Señor que me ha dado la posibilidad; agradezco a todas las Instituciones y personas que han colaborado y siguen colaborando por esta posibilidad. Y agradezco a tantas personas que me acompañan con la oración. Con la protección de la oración y de la colaboración, estoy feliz y convencido que podemos hacer un servicio real por el bien del hombre y por la paz.
+
+**P. Lombardi:** Gracias, Santo Padre. Muchos católicos manifiestan su inquietud ante el crecimiento de los fundamentalismos en diversas regiones del mundo y ante las agresiones de las que son víctimas numerosos cristianos. En este contexto difícil y a menudo sangriento, ¿cómo puede la Iglesia responder al imperativo del diálogo con el Islam, sobre el que usted tanta veces ha insistido?
+
+**Santo Padre:** El fundamentalismo es siempre una falsificación de la religión. Va en contra de la esencia de la religión, que quiere reconciliar y crear la paz de Dios en el mundo. Por lo tanto, la tarea de la Iglesia y de las religiones es purificarse; una alta purificación de estas tentaciones por parte de la religión es siempre necesaria. Es tarea nuestra iluminar y purificar las conciencias y mostrar claramente que cada hombre es imagen de Dios; y debemos respetar en el otro, no solamente su alteridad, sino en la alteridad y en la real esencia común, el ser imagen de Dios, y tratar al otro como imagen de Dios. Por tanto, el mensaje esencial de la religión debe ser contra la violencia, que es una de sus falsificaciones, como lo es el fundamentalismo; el mensaje de la religión debe ser la educación, iluminación y purificación de las conciencias, para hacerlas capaces de diálogo, de reconciliación y de paz.
+
+**Padre Lombardi:** Continuemos en italiano. En el contexto de la ola de deseo de democracia que se ha puesto en movimiento en tantos países del Oriente Medio con la llamada “primavera árabe”, dada la realidad social en la mayoría de estos países, en donde los cristianos son minoría, ¿no existe el riesgo de una tensión inevitable entre el dominio de la mayoría y la sobrevivencia del cristianismo?
+
+**Santo Padre:** Diría que, de por sí, la primavera árabe es una cosa positiva: es un deseo de mayor democracia, mayor libertad, de mayor cooperación, de una renovada identidad árabe. Y este grito de libertad, que viene de una juventud más formada cultural y profesionalmente, que desea mayor participación en la vida política, en la vida social, es un progreso, algo muy positivo y acogido también por nosotros los cristianos. Naturalmente, por la historia de las revoluciones, sabemos que el grito de libertad, tan importante y positivo, tiene siempre el peligro de olvidar un aspecto, una dimensión fundamental de esa libertad, que es la tolerancia hacia el otro; el hecho que la libertad humana es siempre una libertad compartida, que sólo puede crecer en el compartir, en la solidaridad, en el vivir juntos, con determinadas reglas. Este es siempre el peligro, también en este caso. Debemos hacer todo lo posible para que el concepto de libertad, el deseo de libertad, vaya en la dirección justa, para que no olvide la tolerancia, el conjunto, la reconciliación, como partes fundamentales de la libertad. Así, también la renovada identidad árabe implica – pienso – igualmente la renovación de la unidad secular y milenaria de cristianos y árabes, que precisamente juntos, en la tolerancia entre mayorías y minorías, han construido estas tierras y no pueden no vivir juntos. Por eso pienso que sea importante ver el elemento positivo de estos movimientos y hacer nuestra parte para que la libertad sea concebida en modo justo y responda a un mayor diálogo y no al dominio de unos contra otros.
+
+**Padre Lombardi:** Santo Padre, en Siria, como hace algún tiempo en Irak, muchos cristianos se sienten forzados a dejar el país muy a su pesar. ¿Qué pretende hacer o decir la Iglesia católica para ayudar en esta situación, para detener la desaparición de los cristianos en Siria y en otros países de Oriente Medio?
+
+**Santo Padre:** Debo decir en primer lugar que no sólo los cristianos huyen, también los musulmanes. Naturalmente el peligro que los cristianos se alejen y pierdan su presencia en estas tierras es grande y nosotros debemos hacer lo posible por ayudarles a permanecer allí. La ayuda esencial sería el cese de la guerra, de la violencia, que crea la huída. Por tanto, la primera acción es hacer todo lo posible para que termine la violencia y se cree realmente una posibilidad para permanecer juntos también en el futuro. ¿Qué podemos hacer contra la guerra? Digamos, naturalmente, que difundir siempre el mensaje de la paz, evidenciar que la violencia no resuelve nunca un problema y reforzar las fuerzas de paz. Importante aquí es el trabajo de los periodistas, que pueden ayudar mucho para mostrar como la violencia destruye, no construye, no es útil a nadie. También diría que tal vez gestos de la cristiandad, jornadas de oración por Oriente Medio, por los cristianos y los musulmanes, mostrar la posibilidad de diálogo y de soluciones. Diría también que debe finalmente cesar la importación de armas, porque sin importación de armas la guerra no podría continuar. En lugar de importar armas, que es un pecado grave, deberíamos importar ideas de paz, creatividad, encontrar soluciones para aceptar a cada uno en su alteridad; debemos por tanto hacer visible en el mundo el respeto de las religiones, las unas por las otras, el respeto del hombre como criatura de Dios, el amor al prójimo como fundamento para todas las religiones. En este sentido, con todos los gestos posibles, con auxilios también materiales, ayudar para que cese la guerra, la violencia, y todos puedan reconstruir el país.
+
+**P. Lombardi:** Santo Padre, usted lleva una Exhortación apostólica dirigida a todos los cristianos de Oriente Medio. Hoy esta es una población que sufre. Además de la oración y de los sentimientos de solidariedad, ¿ve pasos concretos que las Iglesias y los católicos de Occidente, sobre todo los de Europa y América, pueden hacer para apoyar a los hermanos de Oriente Medio?
+
+**Santo Padre:** Diría que debemos influir en la opinión política y en los políticos para comprometerlos realmente, con todas las fuerzas, con todas las posibilidades, con verdadera creatividad, por la paz, contra la violencia. Nadie debería esperar beneficios de la violencia, todos deben contribuir. En este sentido, un trabajo de admonición, de educación, de purificación es muy necesario por nuestra parte. Además, nuestras organizaciones caritativas deben también ayudar materialmente y hacer todo lo posible. Tenemos organizaciones como los Caballeros del Santo Sepulcro, dedicados sólo a Tierra Santa, pero también organizaciones similares podrían ayudar material, política, humanamente a estos países. Diría, una vez más, gestos visibles de solidariedad, jornadas de oración pública, estas iniciativas pueden llamar la atención de la opinión pública, ser factores reales. Estamos convencidos que la oración tiene un efecto, si se hace con mucha confianza y fe, tendrá su resultado.

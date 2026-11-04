@@ -1,0 +1,44 @@
+---
+id: francis-spe-20170512-specola-vaticana.en
+work: francis-spe-20170512-specola-vaticana
+title: "Greeting to participants at the Conference organized by the Vatican Observatory (12 May 2017)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2017-05-12
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2017/may/documents/papa-francesco_20170512_specola-vaticana.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20170512-specola-vaticana} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Greeting to participants at the Conference organized by the Vatican Observatory (12 May 2017) {#francis-spe-20170512-specola-vaticana}
+## GREETING OF HIS HOLINESS POPE FRANCIS TO PARTICIPANTS AT THE CONFERENCE ORGANIZED BY THE VATICAN OBSERVATORY
+
+*Room adjacent to Paul VI Audience Hall\
+Friday, 12 May 2017*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2017/5/12/specola-vaticana.html)\]
+
+*Dear friends,*
+
+I extend a heartfelt welcome to you all, and I thank Brother Guy Consolmagno for his kind words.
+
+The issues you have been addressing during these days at Castel Gandolfo are of particular interest to the Church, because they have to do with questions that concern us deeply, such as the beginning of the universe and its evolution, and the profound structure of space and time, to name but a few.  It is clear that these questions have a particular relevance for science, philosophy, theology and for the spiritual life.  They represent an arena in which these different disciplines meet and sometimes clash.
+
+As both a Catholic priest and a cosmologist, Mgr Georges Lemaître knew well the creative tension between faith and science, and always defended the clear methodological distinction between the fields of science and theology.   While integrating them in his own life, he viewed them as distinct areas of competence.  That distinction, already present in Saint Thomas Aquinas, avoids a short-circuiting that is as harmful to science as it is to faith.
+
+Before the immensity of space-time, we humans can experience awe and a sense of our own insignificance, as the Psalmist reminds us:  “What is man that you should keep him in mind, the son of man that you care for him?” (*Ps* 8:5).  As Albert Einstein loved to say: “One may say the eternal mystery of the world is its comprehensibility”.  The existence and intelligibility of the universe are not a result of chaos or mere chance, but of God’s Wisdom, present “at the beginning of his work, the first of his acts of old”. (*Prov* 8:22).
+
+I am deeply appreciative of your work, and I encourage you to persevere in your search for truth.  For we ought never to fear truth, nor become trapped in our own preconceived ideas, but welcome new scientific discoveries with an attitude of humility.  As we journey towards the frontiers of human knowledge, it is indeed possible to have an authentic experience of the Lord, one which is capable of filling our hearts.

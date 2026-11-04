@@ -1,0 +1,50 @@
+---
+id: b16-spe-20090627-ad-limina-viet-nam.en
+work: b16-spe-20090627-ad-limina-viet-nam
+title: "To Bishops of the Episcopal Conference of Vietnam on their ad Limina visit (June 27, 2009)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2009-06-27
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/june/documents/hf_ben-xvi_spe_20090627_ad-limina-viet-nam.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20090627-ad-limina-viet-nam} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To Bishops of the Episcopal Conference of Vietnam on their ad Limina visit (June 27, 2009) {#b16-spe-20090627-ad-limina-viet-nam}
+## ADDRESS OF HIS HOLINESS BENEDICT XVI TO BISHOPS OF THE EPISCOPAL CONFERENCE OF VIETNAM ON THEIR "AD LIMINA" VISIT
+
+*Saturday, 27 June 2009*
+
+*Your Eminence,\
+Dear Brothers in the Episcopate,*
+
+I receive you with great joy, Pastors of the Catholic Church in Vietnam. Our meeting acquires special significance during these days when the whole Church is celebrating the Solemnity of the Apostles Peter and Paul, and it is a great comfort to me for I know the deep links of fidelity and love that the faithful of your country feel for the Church and for the Pope.
+
+You have come to the tombs of these two Princes of the Apostles to express your communion with the Successor of Peter and to reinforce the unity that must always unite you and that must continue to grow. I thank Bishop Pierre Nguyên Vãn Nhon, Bishop of Ðà Lat, for his kind words on your behalf. Allow me to greet in particular the Bishops who have been appointed since your last *ad limina* visit. I would also like to remember venerable Cardinal Paul Joseph Pham Ðinh Tung, Archbishop of Hanoi for many years. With you, I thank God for the pastoral zeal he exercised humbly in profound fatherly love for his people and great brotherhood for his priests. May the example of holiness, humility, simplicity of life of the outstanding Pastors of your country be for you incentives in your episcopal ministry at the service of the Vietnamese people, to whom I wish to express my high esteem.
+
+Dear Brothers in the Episcopate, the *[Year for Priests](http://www.vatican.va/special/anno_sac/index_en.html)* began a few days ago. It will bring into the limelight the greatness and beauty of the ministry of priests. I would be grateful if you would kindly thank the diocesan and religious priests of your beloved country for their lives consecrated to the Lord and for their pastoral efforts with a view to the sanctification of the People of God. Be concerned for them and full of understanding, and help them to complete their continuing formation. If he is to be an authentic guide conformed to the Heart of God and the teaching of the Church, the priest must deepen his inner life and strive for holiness after the example of the humble Curé d'Ars. The flourishing of priestly and religious vocations, especially in the consecrated life of women, is a gift of the Lord for your Church. Let us give thanks to God for their charisms, which you encourage by respecting and promoting them.
+
+In your Pastoral Letter last year you paid special attention to the lay faithful, highlighting the role of their vocation in the family context. It is to be hoped that every Catholic family, by teaching their children to live in accordance with an upright conscience, in loyalty and truth, may become a home of values and human virtues, a school of faith and love for God. Lay Catholics for their part must show by their life, which is based on charity, honesty and love for the common good, that a good Catholic is also a good citizen. For this reason you must ensure that they have a sound formation, by promoting their life of faith and their cultural standard so that they may serve the Church and society effectively.
+
+I would like to entrust to you the young people in particular, especially rural youth who are attracted by the city to continue their advanced studies in it and to find jobs. It would be desirable to develop appropriate pastoral care for these young internal migrants, starting by strengthening, here too, collaboration between the young people's original dioceses and the host dioceses and by being unsparing in ethical advice and practical directives.
+
+The Church in Vietnam is currently preparing to celebrate the 50th anniversary of the establishment of the Vietnamese episcopal hierarchy. This celebration which will be especially marked by the Jubilee Year 2010, will enable it to share the joy of faith enthusiastically with all the Vietnamese, in renewing their missionary commitments. On this occasion the People of God must be asked to give thanks for the gift of faith in Jesus Christ. This gift was generously received, lived and witnessed to by numerous martyrs who wished to proclaim the truth and universality of faith in God. In this regard, witness born to Christ is a supreme service that the Church can offer to Vietnam and to all the peoples of Asia, because it responds to the profound research for the truth and values that guarantee integral human development (cf. *[Ecclesia in Asia](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_06111999_ecclesia-in-asia.html)*). In the face of the many challenges that this witness currently encounters, closer collaboration is necessary between the different dioceses and between the dioceses and religious congregations, as well as within them.
+
+The Pastoral Letter that your Bishops' Conference published in 1980 emphasized "the Church of Christ in the midst of his People". In contributing her specific message, the proclamation of the Good News of Christ, the Church is contributing to the human and spiritual development of people, but also to the development of the country. Her participation in this process is a duty and an important contribution, especially at the time when Vietnam is gradually opening to the international community.
+
+You know, as well as I do, that healthy collaboration between the Church and the political community is possible. In this regard, the Church invites all her members to be loyally committed to building a just, supportive and fair society. Her intention is certainly not to replace government leaders; she wishes only to be able to play a just role in the nation's life, at the service of the whole people, in a spirit of dialogue and respectful collaboration. By active participation in her own province and in accordance with her specific vocation, the Church can never be exempt from practising charity as an organized activity of believers, and on the other hand, there will never be a situation where the charity of each individual Christian is unnecessary, because in addition to justice humans need, and will always need, love (*[Deus Caritas Est](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html),* n. 29). Furthermore, it seems important to me to emphasize that religions do not represent a threat to the nation's unity since they aim to help individuals to sanctify themselves and through their institutions desire to put themselves generously and impartially at the service of their neighbour.
+
+Your Eminence, dear Brothers in the Episcopate, on your return to your country, please convey the Pope's warm greeting to the priests, men and women religious, seminarians, catechists and all the faithful, especially to the poorest and to those who suffer physically and spiritually. I warmly encourage them to stay faithful to the faith received from the Apostles, whose generous witnesses they are, in conditions that are often difficult, and to show the humble firmness which the Apostolic Exhortation *[Ecclesia in Asia](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_06111999_ecclesia-in-asia.html)*, n. 9) recognizes as one of their characteristics. May the Lord's Spirit be their guide and their strength! As I entrust you to the motherly protection of Our Lady of La Vang and to the intercession of the holy Martyrs of Vietnam, I impart to you all an affectionate Apostolic Blessing.

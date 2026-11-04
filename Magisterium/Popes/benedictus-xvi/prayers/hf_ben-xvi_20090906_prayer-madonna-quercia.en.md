@@ -1,0 +1,140 @@
+---
+id: b16-pra-20090906-prayer-madonna-quercia.en
+work: b16-pra-20090906-prayer-madonna-quercia
+title: "Prayer to Our Lady of the Oak Tree during his Pastoral Visit to Viterbo (September 6, 2009)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Prayer
+url_date: 2009-09-06
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/prayers/documents/hf_ben-xvi_20090906_prayer-madonna-quercia.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-pra-20090906-prayer-madonna-quercia} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Prayer to Our Lady of the Oak Tree during his Pastoral Visit to Viterbo (September 6, 2009) {#b16-pra-20090906-prayer-madonna-quercia}
+[PASTORAL VISIT TO VITERBO AND BAGNOREGIO](http://w2.vatican.va/content/benedict-xvi/en/travels/2009/inside/documents/viterbo-bagnoregio.html)
+
+## PRAYER OF HIS HOLINESS BENEDICT XVI TO OUR LADY OF THE OAK TREE
+
+*Dear Sisters,*
+
+It is a true joy for me to be able to meet with you in this place so dear to popular devotion. You nuns who live a contemplative life have the mission within the Church to be torches that, in the silence of the monastery, burn with prayer and with love for God. I entrust to you my intentions, the intentions of the Pastor of this Diocese and the needs of those who live in this land. Above all, in this [Year for Priests](http://www.vatican.va/special/anno_sac/index_en.html), I entrust to you the priests, seminarians and vocations. In your prayerful silence, may you be their support "from afar" and convey to them your spiritual motherhood, offering to the Lord the sacrifice of your lives for their sanctification and for the good of souls. I thank you for your presence and I bless you wholeheartedly; please extend the Pope's greeting and Blessing also to your Sisters who were unable to attend. I ask you now to join with me in invoking Mary's maternal protection upon this diocesan community and upon the inhabitants of this land, rich in religious and cultural traditions.
+
+***H***oly Virgin, Our Lady of the Oak,\
+Patroness of the Diocese of Viterbo,\
+gathered together in this Shrine\
+consecrated to you,\
+we extend to you a plea and\
+a confident prayer:\
+Watch over the Successor of Peter\
+and over the Church\
+entrusted to his care;\
+watch over this diocesan community\
+and its pastors,\
+over Italy, over Europe and\
+over the other continents.\
+Queen of Peace, obtain for us\
+the gift of harmony and peace\
+for all peoples and all mankind.
+
+Obedient Virgin, Mother of Christ,\
+who, with your docile "yes" to\
+the Angel's announcement,\
+became the Mother of the Almighty,\
+help all your children to follow\
+the plans that the heavenly Father\
+has for each one, in order\
+to cooperate in the universal plan\
+of redemption which Christ fulfilled\
+by dying on the Cross.
+
+Virgin of Nazareth,\
+Queen of the family,\
+make our Christian families\
+schools of evangelical life,\
+enriched by the gift of many vocations\
+to the priesthood and\
+to the consecrated life.\
+Keep intact the unity of our families,\
+today so threatened from all sides.\
+making them hearths of serenity and\
+of harmony, where patient dialogue\
+dispels difficulties and differences.\
+Above all, watch over those\
+who are divided and in crisis,\
+Mother of forgiveness\
+and reconciliation.
+
+Immaculate Virgin,\
+Mother of the Church,\
+nourish the enthusiasm of each\
+component of our Dioceses:\
+of parishes and ecclesial groups,\
+of associations and new forms\
+of apostolic commitment\
+that the Lord inspires with\
+his Holy Spirit;\
+keep steadfast and determined\
+the will of those whom\
+the Guardian of the masses\
+continues to call as labourers\
+in his vineyard, so that,\
+resisting every worldly enticement\
+and temptation,\
+they may persevere generously\
+along the path they have taken,\
+and with your maternal aid,\
+become witnesses to Christ\
+who are drawn by the splendour\
+of his Love, source of joy.
+
+Clement Virgin, Mother of humanity,\
+turn your gaze to\
+the men and women of our time,\
+to peoples and to those\
+who govern them,\
+to nations and to continents;\
+comfort those who weep, who suffer,\
+who struggle because of\
+human injustice; sustain those\
+who waver under the weight of effort\
+and who look at the future\
+without hope; encourage those\
+who work to build a better world\
+where justice triumphs and\
+brotherhood reigns,\
+where selfishness, hate and\
+violence cease.\
+May every form and\
+manifestation of violence\
+be conquered by the\
+peace-making power of Christ.
+
+Virgin of listening, Star of Hope,\
+Mother of Mercy,\
+the source through which\
+Jesus came into the world,\
+our life and our joy,\
+we thank you and we renew\
+the offering of our lives, certain that\
+you will never abandon us,\
+especially in the\
+dark and difficult moments of life.\
+Be with us always,\
+now and at the hour of our death.
+
+Amen!
+
+*Viterbo, 6 September 2009*

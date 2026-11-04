@@ -1,0 +1,46 @@
+---
+id: francis-spe-20130412-commissione-biblica.en
+work: francis-spe-20130412-commissione-biblica
+title: "To the Pontifical Biblical Commission (12 April 2013)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2013-04-12
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2013/april/documents/papa-francesco_20130412_commissione-biblica.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20130412-commissione-biblica} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Pontifical Biblical Commission (12 April 2013) {#francis-spe-20130412-commissione-biblica}
+## ADDRESS OF POPE FRANCIS TO THE MEMBERS OF THE PONTIFICAL BIBLICAL COMMISSION
+
+*Hall of the Popes\
+Friday, 12 April 2013*
+
+*Your Eminence,\
+Venerable Brothers,\
+Dear Members of the Pontifical Biblical Commission,*
+
+I am pleased to welcome you at the end of your Annual Plenary Assembly. I thank Archbishop Gerhard Ludwig Müller, your President, for his greeting and for his concise exposition of the theme which has been the object of attentive thought during your meeting. You have gathered together once again to deepen knowledge of a very important topic: the inspiration and the truth of the Bible. This is a theme that does not only concern the individual believer, but the entire Church, because the Church’s life and mission are founded on the word of God which is the soul of theology and at the same time inspires the whole of Christian life.
+
+As we know, the Sacred Scriptures are the written testimony of the divine word, the canonical memorial that testifies to the event of Revelation. The Word of God therefore precedes and exceeds the Bible. This is why our faith is not only centred on a book but on a history of salvation and above all on a Person, Jesus Christ, the Word of God made flesh. Precisely because the horizon of the divine word embraces and extends beyond Scripture, to understand it adequately the constant presence of the Holy Spirit is necessary, who “will guide you into all the truth” (Jn 16:13). We must put ourselves in line with the great Tradition which, under the guidance of the Holy Spirit and of the Magisterium, recognized the canonical writings as a word which God addressed to his People and never ceased to meditate on them and to discover their inexhaustible riches. The [Second Vatican Council](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm) reasserted very clearly in the Dogmatic Constitution *[Dei Verbum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*: “All that has been said about the manner of interpreting Scripture is ultimately subject to the judgment of the Church which exercises the divinely conferred commission and ministry of watching over and interpreting the Word of God” (n. 12).
+
+As the above mentioned conciliar Constitution reminds us, there is an inseparable unity between Sacred Scripture and Tradition because both come from the same source: “Sacred Tradition and Sacred Scripture, then, are bound closely together, and communicate one with the other. For both of them, flowing out from the same divine well-spring, come together in some fashion to form one thing, and move towards the same goal. Sacred Scripture is the speech of God as it is put down in writing under the breath of the Holy Spirit. And Tradition transmits in its entirety the Word of God which has been entrusted to the Apostles by Christ the Lord and the Holy Spirit. It transmits it to the successors of the Apostles so that, enlightened by the Spirit of truth, they may faithfully preserve, expound and spread it abroad by their preaching. Thus it comes about that the Church does not draw her certainty about all revealed truths from the Holy Scriptures alone. Hence, both Scripture and Tradition must be accepted and honoured with equal feelings of devotion and reverence” (*[ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*., n. 9).
+
+It follows that the exegete must be attentive to perceiving the word of God present in the biblical texts, fitting them into the Church’s faith itself. The interpretation of the Sacred Scriptures cannot only be an individual scientific effort. Rather, it must always be confronted, inserted and authenticated by the living Tradition of the Church. This rule is decisive in order to explain the correct and reciprocal relationship between exegesis and the Magisterium of the Church. The texts inspired by God were entrusted to the Community of believers, to the Church of Christ, to nourish faith and to guide the life of charity. Respect for this profound nature of the Scriptures conditions the validity and effectiveness of biblical hermeneutics. This highlights the inadequacy of every interpretation that is subjective or is limited merely to an analysis incapable of grasping that global meaning which in the course of the centuries has built up the Tradition of the entire People of God which *in credendo falli nequit* \[“cannot err in matters of belief”\] (Second Vatican Ecumenical Council, Dogmatic Constitution *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, n. 12).
+
+Dear Brothers, I would like to end my address by expressing my thanks to you all and by encouraging you in your valuable work. May the Lord Jesus Christ, the Incarnate Word of God and the divine Teacher who opened the minds and hearts of his disciples to understand the Scriptures (cf. Lk 24:45), always guide and support you in your activities. May the Virgin Mary, our model of docility and obedience to the Word of God, teach you to recognize fully the inexhaustible riches of Sacred Scripture, not only through intellectual research but also in prayer and in the whole of your life as believers, especially in this [Year of Faith](http://www.vatican.va/special/annus_fidei/index_en.htm), so that your work may help make the light of Sacred Scripture shine in the hearts of the faithful.
+
+And, in wishing you a fruitful continuation of your work, I invoke upon you the light of the Holy Spirit and I impart to you all my Apostolic Blessing.

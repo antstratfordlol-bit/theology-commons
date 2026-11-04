@@ -1,0 +1,59 @@
+---
+id: leo14-spe-20251215-delegazioni-presepe-albero.en
+work: leo14-spe-20251215-delegazioni-presepe-albero
+title: "To donors of the Nativity Scene and the Christmas tree in St. Peter's Square (15 December 2025)"
+creator: "Leo PP. XIV"
+pope: Leo XIV
+document-type: Address
+url_date: 2025-12-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/leo-xiv/en/speeches/2025/december/documents/20251215-delegazioni-presepe-albero.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pl, pt"
+anchors: "{#leo14-spe-20251215-delegazioni-presepe-albero} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To donors of the Nativity Scene and the Christmas tree in St. Peter's Square (15 December 2025) {#leo14-spe-20251215-delegazioni-presepe-albero}
+## ADDRESS OF POPE LEO XIV TO DONORS OF THE NATIVITY SCENE AND THE CHRISTMAS TREE IN ST. PETER'S SQUARE
+
+*Audience Hall\
+Monday, 15 December 2025*
+
+\[[**Multimedia**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2025/12/15/delegazioni-presepe-albero.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+In the name of the Father, and of the Son, and of the Holy Spirit.\
+Peace be with you!
+
+Dear brothers and sisters, *hermanos y hermanas*,
+
+I am pleased to welcome you all, gathered here for the official presentation of the Nativity scene and the tree that decorate Saint Peter’s Square, as well as the Nativity scene in this Hall.
+
+I greet the delegation of the diocese of Nocera Inferiore-Sarno, from which the nativity scene originates: Bishop Giuseppe Giudice, the civil authorities, and the various ecclesial groups. I am grateful to you for this artistic work, which recalls typical elements of your territory, such as the Baptistery of Saint Mary Major in Nocera Superiore, the Helvius fountain in Sant’Egidio del Monte Albino, and the characteristic courtyards of the Agro Nocerino-Sarnese. These are places that were inhabited by Saint Alphonsus Maria de' Liguori and the Servants of God Don Enrico Smaldone and Alfonso Russo. I thank the companies involved, the workers and all those who conceived the project and collaborated in its realization, aiming to unite art and spirituality in a setting that recounts the faith and cultural roots of your land.
+
+For pilgrims from all over the world who will gather in Saint Peter’s Square, the Nativity scene will remind them that God draws close to humanity, becomes one of us, entering our history in the smallness of a child. Indeed, in the poverty of the stable in Bethlehem, we contemplate a mystery of humility and love. Before every Nativity scene, even those made in our homes, we relive that Event and rediscover the need to seek moments of silence and prayer in our lives, to find ourselves and enter into communion with God.
+
+The Virgin Mary is the model of adoring silence. Unlike the shepherds who, returning from Bethlehem, glorify God and recount what they have seen and heard, the Mother of Jesus keeps everything in her heart (cf. *Lk* 2:19). Her silence is not simply an absence of words: it is wonder and adoration.
+
+Next to the Nativity scene, there is the fir tree from the woods of the municipalities of Lagundo and Ultimo, in the diocese of Bolzano-Bressanone. I greet the delegation from that beautiful land: Bishop Ivo Muser, the mayors, the other authorities and the various ecclesial and civil associations. The tree, with its evergreen branches, is a sign of life and recalls the hope that does not fade even in the cold of winter. The lights that adorn it symbolize Christ, the light of the world, who came to dispel the darkness of sin and illuminate our path. In addition to the large fir tree, other smaller trees from the same locations in South Tyrol are destined for offices, public places and various areas of Vatican City.
+
+The Nativity scene, which will remain in this Hall throughout the Christmas season, comes from Costa Rica and is entitled *Nacimiento Gaudium*. Each of the 28,000 coloured ribbons decorating the scene represents a life preserved from abortion thanks to the prayers and support provided by Catholic organizations to many mothers in difficulty. I thank the Costa Rican artist who, together with the message of peace at Christmas, also wanted to launch an appeal for the protection of life from conception onwards. I greet the Delegation from Costa Rica, in particular Mrs Signe Zeicate, First Lady of the Republic, with her daughter, and the Ambassador of Costa Rica to the Holy See.
+
+Dear brothers and sisters, the Nativity scene and the tree are signs of faith and hope; while we contemplate them in our homes, parishes and squares, let us ask the Lord to renew in us the gift of peace and fraternity. Let us pray for those who suffer as a result of war and violence; in particular, today I wish to entrust to the Lord the victims of yesterday’s terrorist attack on the Jewish community in Sydney. Enough with these forms of anti-Semitic violence! We must eliminate hatred from our hearts.
+
+Let us allow the tenderness of the Infant Jesus to enlighten our life. Let God’s love, like the branches of an evergreen tree, remain vibrant in us. I reiterate my gratitude to all of you, as well as the [Directorate of Infrastructures and Services of the Governorate](https://www.vaticanstate.va/en/directorates/direzione-delle-infrastrutture-e-servizi.html) for its generous commitment and, as I invoke the maternal protection of Mary Most Holy upon you and your families, I cordially impart the Apostolic Blessing.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*[Holy See Press Office Bulletin](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/12/15/251215d.html)*, 15 December 2025

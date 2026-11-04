@@ -1,0 +1,104 @@
+---
+id: francis-mes-20220613-vi-giornatamondiale-poveri-2022.es
+work: francis-mes-20220613-vi-giornatamondiale-poveri-2022
+title: "VI Jornada Mundial de los Pobres 2022: Jesucristo se hizo pobre por ustedes (cf. 2 Co 8,9)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Message
+url_date: 2022-06-13
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/messages/poveri/documents/20220613-messaggio-vi-giornatamondiale-poveri-2022.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt, zh_cn, zh_tw"
+anchors: "{#francis-mes-20220613-vi-giornatamondiale-poveri-2022.N} — numbered paragraphs 1..10 (10 anchors), shared with francis-mes-20220613-vi-giornatamondiale-poveri-2022.en"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# VI Jornada Mundial de los Pobres 2022: Jesucristo se hizo pobre por ustedes (cf. 2 Co 8,9)
+MENSAJE DEL SANTO PADRE FRANCISCO
+
+## VI JORNADA MUNDIAL DE LOS POBRES
+
+*Domingo XXXIII del Tiempo Ordinario\
+13 de noviembre de 2022*
+
+## Jesucristo se hizo pobre por ustedes (cf. 2 Co 8,9)
+
+### 1 {#francis-mes-20220613-vi-giornatamondiale-poveri-2022.1}
+
+“Jesucristo se hizo pobre por ustedes” (cf. *2 Co* 8,9). Con estas palabras el apóstol Pablo se dirige a los primeros cristianos de Corinto, para dar fundamento a su compromiso solidario con los hermanos necesitados. La *Jornada Mundial de los Pobres* se presenta también este año como una sana provocación para ayudarnos a reflexionar sobre nuestro estilo de vida y sobre tantas pobrezas del momento presente.
+
+Algunos meses atrás, el mundo estaba saliendo de la tempestad de la pandemia, mostrando signos de recuperación económica que traerían alivio a millones de personas empobrecidas por la pérdida del empleo. Se vislumbraba un poco de serenidad que, sin olvidar el dolor por la pérdida de los seres queridos, prometía finalmente poder regresar a las relaciones interpersonales directas, a reencontrarnos sin limitaciones o restricciones. Y es entonces que ha aparecido en el horizonte una nueva catástrofe, destinada a imponer al mundo un escenario diferente.
+
+La guerra en Ucrania vino a agregarse a las guerras regionales que en estos años están trayendo muerte y destrucción. Pero aquí el cuadro se presenta más complejo por la directa intervención de una “superpotencia”, que pretende imponer su voluntad contra el principio de autodeterminación de los pueblos. Se repiten escenas de trágica memoria y una vez más el chantaje recíproco de algunos poderosos acalla la voz de la humanidad que invoca la paz.
+
+### 2 {#francis-mes-20220613-vi-giornatamondiale-poveri-2022.2}
+
+¡Cuántos pobres genera la insensatez de la guerra! Dondequiera que se mire, se constata cómo la violencia afecta a los indefensos y a los más débiles. Deportación de miles de personas, especialmente niños y niñas, para desarraigarlos e imponerles otra identidad. Se vuelven actuales las palabras del Salmista ante la destrucción de Jerusalén y el exilio de los jóvenes hebreos: «Junto a los ríos de Babilonia / nos sentábamos a llorar, / acordándonos de Sión. / En los sauces de las orillas / teníamos colgadas nuestras cítaras. / Allí nuestros carceleros / nos pedían cantos, / y nuestros opresores, alegría. / \[...\] ¿Cómo podíamos cantar un canto del Señor / en tierra extranjera?» (*Sal* 137,1-4).
+
+Son millones las mujeres, los niños, los ancianos obligados a desafiar el peligro de las bombas con tal de ponerse a salvo buscando amparo como refugiados en los países vecinos. Los que permanecen en las zonas de conflicto, conviven cada día con el miedo y la falta de alimentos, agua, atención médica y sobre todo de cariño. En estas situaciones, la razón se oscurece y quienes sufren las consecuencias son muchas personas comunes, que se suman al ya gran número de indigentes. ¿Cómo dar una respuesta adecuada que lleve alivio y paz a tantas personas, dejadas a merced de la incertidumbre y la precariedad?
+
+### 3 {#francis-mes-20220613-vi-giornatamondiale-poveri-2022.3}
+
+En este contexto tan contradictorio se enmarca la VI *Jornada Mundial de los Pobres*, con la invitación —tomada del apóstol Pablo— a tener la mirada fija en Jesús, el cual «siendo rico, se hizo pobre por nosotros, a fin de enriquecernos con su pobreza» (*2 Co* 8,9). En su visita a Jerusalén, Pablo se había encontrado con Pedro, Santiago y Juan, quienes le habían pedido que no se olvidara de los pobres. La comunidad de Jerusalén, en efecto, se encontraba en graves dificultades por la carestía que azotaba al país, y el Apóstol se había preocupado inmediatamente de organizar una gran colecta en favor de los pobres. Los cristianos de Corinto se mostraron muy sensibles y disponibles. Por indicación de Pablo, cada primer día de la semana recogían lo que habían logrado ahorrar y todos eran muy generosos.
+
+Como si el tiempo no hubiera transcurrido desde aquel momento, también nosotros cada domingo, durante la celebración de la Santa Eucaristía, realizamos el mismo gesto, poniendo en común nuestras ofrendas para que la comunidad pueda proveer a las exigencias de los más pobres. Es un signo que los cristianos siempre han realizado con alegría y sentido de responsabilidad, para que a ninguna hermana o hermano le falte lo necesario. Lo atestigua ya san Justino, que, en el segundo siglo, explicando la celebración dominical de los cristianos al emperador Antonio Pío, escribía así: «En el día llamado “del Sol” se reúnen todos juntos, habitantes de la ciudad o del campo, y se leen las memorias de los Apóstoles o los escritos de los profetas según el tiempo lo permita. \[…\] Luego se hace la fracción y distribución de los elementos consagrados a cada uno y a través de los diáconos se envía a los ausentes. Los adinerados y los que lo desean dan libremente, cada uno lo que quiere y lo que se recoge viene depositado con el sacerdote. Este socorre a los huérfanos, a las viudas, y a quien es indigente por enfermedad o por cualquier otra causa, a los encarcelados, a los extranjeros que se encuentran entre nosotros: en resumen, tiene cuidado de cualquiera que esté en necesidad» (*Primera Apología*, LXVII, 1-6).
+
+### 4 {#francis-mes-20220613-vi-giornatamondiale-poveri-2022.4}
+
+Regresando a la comunidad de Corinto, después del entusiasmo inicial, su compromiso comenzó a disminuir y la iniciativa propuesta por el Apóstol perdió fuerza. Es este el motivo que estimula a Pablo a escribir de manera apasionada insistiendo en la colecta, «llévenla ahora a término, para que los hechos respondan, según las posibilidades de cada uno, a la decisión de la voluntad» (*2 Co* 8,11).
+
+Pienso en este momento en la disponibilidad que, en los últimos años, ha movido a enteras poblaciones a abrir las puertas para acoger millones de refugiados de las guerras en Oriente Medio, en África central y ahora en Ucrania. Las familias han abierto de par en par sus casas para hacer espacio a otras familias, y las comunidades han recibido con generosidad tantas mujeres y niños para ofrecerles la debida dignidad. Sin embargo, mientras más dura el conflicto, más se agravan sus consecuencias. A los pueblos que acogen les resulta cada vez más difícil dar continuidad a la ayuda; las familias y las comunidades empiezan a sentir el peso de una situación que va más allá de la emergencia. Este es el momento de no ceder y de renovar la motivación inicial. Lo que hemos comenzado necesita ser llevado a cumplimiento con la misma responsabilidad.
+
+### 5 {#francis-mes-20220613-vi-giornatamondiale-poveri-2022.5}
+
+La solidaridad, en efecto, es precisamente esto: compartir lo poco que tenemos con quienes no tienen nada, para que ninguno sufra. Mientras más crece el sentido de comunidad y de comunión como estilo de vida, mayormente se desarrolla la solidaridad. Por otra parte, es necesario considerar que hay países donde, en las últimas décadas, se ha producido un importante aumento del bienestar para muchas familias, que han alcanzado un estado de vida seguro. Este es un resultado positivo debido a la iniciativa privada y a leyes que han apoyado el crecimiento económico articulado con un incentivo concreto a las políticas familiares y a la responsabilidad social. El patrimonio de seguridad y estabilidad logrado pueda ahora ser compartido con aquellos que se han visto obligados a abandonar su hogar y su país para salvarse y sobrevivir. Como miembros de la sociedad civil, mantengamos vivo el llamado a los valores de libertad, responsabilidad, fraternidad y solidaridad. Y como cristianos encontremos siempre en la caridad, en la fe y en la esperanza el fundamento de nuestro ser y nuestro actuar.
+
+### 6 {#francis-mes-20220613-vi-giornatamondiale-poveri-2022.6}
+
+Es interesante observar que el Apóstol no quiere obligar a los cristianos forzándolos a una obra de caridad. De hecho, escribe: «Esta no es una orden» (*2 Co* 8,8); más bien, pretende “manifestar la sinceridad” de su amor en la atención y solicitud por los pobres (cf. *ibíd*.). Como fundamento de la petición de Pablo está ciertamente la necesidad de una ayuda concreta, pero su intención va más allá. Él invita a realizar la colecta para que sea un signo del amor, tal como lo ha testimoniado el mismo Jesús. En definitiva, la generosidad hacia los pobres encuentra su motivación más fuerte en la elección del Hijo de Dios que quiso hacerse pobre Él mismo.
+
+El Apóstol, en efecto, no teme afirmar que esta elección de Cristo, este “despojo” suyo, es una «gracia», más aún, «la gracia de nuestro Señor Jesucristo» (*2 Co* 8,9), y sólo acogiéndola podemos dar expresión concreta y coherente a nuestra fe. La enseñanza de todo el Nuevo Testamento tiene su unidad en torno a este tema, que también se refleja en las palabras del apóstol Santiago: «Pongan en práctica la Palabra y no se contenten sólo con oírla, de manera que se engañen a ustedes mismos. El que oye la Palabra y no la practica, se parece a un hombre que se mira en el espejo, pero en seguida se va y se olvida de cómo es. En cambio, el que considera atentamente la Ley perfecta, que nos hace libres, y se aficiona a ella, no como un oyente distraído, sino como un verdadero cumplidor de la Ley, será feliz al practicarla» (*St* 1,22-25).
+
+### 7 {#francis-mes-20220613-vi-giornatamondiale-poveri-2022.7}
+
+Frente a los pobres no se hace retórica, sino que se ponen manos a la obra y se practica la fe involucrándose directamente, sin delegar en nadie. A veces, en cambio, puede prevalecer una forma de relajación, lo que conduce a comportamientos incoherentes, como la indiferencia hacia los pobres. Sucede también que algunos cristianos, por un excesivo apego al dinero, se empantanan en el mal uso de los bienes y del patrimonio. Son situaciones que manifiestan una fe débil y una esperanza endeble y miope.
+
+Sabemos que el problema no es el dinero en sí, porque este forma parte de la vida cotidiana y de las relaciones sociales de las personas. Más bien, lo que debemos reflexionar es sobre el valor que tiene el dinero para nosotros: no puede convertirse en un absoluto, como si fuera el fin principal. Tal apego impide observar con realismo la vida de cada día y nubla la mirada, impidiendo ver las necesidades de los demás. Nada más dañino le puede acontecer a un cristiano y a una comunidad que ser deslumbrados por el ídolo de la riqueza, que termina encadenando a una visión de la vida efímera y fracasada.
+
+Por lo tanto, no se trata de tener un comportamiento asistencialista hacia los pobres, como suele suceder; es necesario, en cambio, hacer un esfuerzo para que a nadie le falte lo necesario. No es el activismo lo que salva, sino la atención sincera y generosa que permite acercarse a un pobre como a un hermano que tiende la mano para que yo me despierte del letargo en el que he caído. Por eso, «nadie debería decir que se mantiene lejos de los pobres porque sus opciones de vida implican prestar más atención a otros asuntos. Ésta es una excusa frecuente en ambientes académicos, empresariales o profesionales, e incluso eclesiales. \[…\] Nadie puede sentirse exceptuado de la preocupación por los pobres y por la justicia social» (Exhort. ap. *[Evangelii gaudium](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#El_lugar_privilegiado_de_los_pobres_en_el_Pueblo_de_Dios)*, 201). Es urgente encontrar nuevos caminos que puedan ir más allá del marco de aquellas políticas sociales «concebidas como una política *hacia* los pobres pero nunca *con* los pobres, nunca *de* los pobres y mucho menos inserta en un proyecto que reunifique a los pueblos» (Carta enc. *[Fratelli tutti](https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html#169)*, 169). En cambio, es necesario tender a asumir la actitud del Apóstol que podía escribir a los corintios: «No se trata de que ustedes sufran necesidad para que otros vivan en la abundancia, sino de que haya igualdad» (*2 Co* 8,13).
+
+### 8 {#francis-mes-20220613-vi-giornatamondiale-poveri-2022.8}
+
+Hay una paradoja que hoy como en el pasado es difícil de aceptar, porque contrasta con la lógica humana: hay una pobreza que enriquece. Haciendo referencia a la “gracia” de Jesucristo, Pablo quiere confirmar lo que Él mismo predicó, es decir, que la verdadera riqueza no consiste en acumular «tesoros en la tierra, donde la polilla y la herrumbre los consumen, y los ladrones perforan las paredes y los roban» (*Mt* 6,19), sino en el amor recíproco que nos hace llevar las cargas los unos de los otros para que nadie quede abandonado o excluido. La experiencia de debilidad y limitación que hemos vivido en los últimos años, y ahora la tragedia de una guerra con repercusiones globales, nos debe enseñar algo decisivo: no estamos en el mundo para sobrevivir, sino para que a todos se les permita tener una vida digna y feliz. El mensaje de Jesús nos muestra el camino y nos hace descubrir que hay una pobreza que humilla y mata, y hay otra pobreza, la suya, que nos libera y nos hace felices.
+
+La pobreza que mata es la miseria, hija de la injusticia, la explotación, la violencia y la injusta distribución de los recursos. Es una pobreza desesperada, sin futuro, porque la impone la cultura del descarte que no ofrece perspectivas ni salidas. Es la miseria que, mientras constriñe a la condición de extrema pobreza, también afecta la dimensión espiritual que, aunque a menudo sea descuidada, no por esto no existe o no cuenta. Cuando la única ley es la del cálculo de las ganancias al final del día, entonces ya no hay freno para pasar a la lógica de la explotación de las personas: los demás son sólo medios. No existen más salarios justos, horas de trabajo justas, y se crean nuevas formas de esclavitud, sufridas por personas que no tienen otra alternativa y deben aceptar esta venenosa injusticia con tal de obtener lo mínimo para su sustento.
+
+La pobreza que libera, en cambio, es la que se nos presenta como una elección responsable para aligerar el lastre y centrarnos en lo esencial. De hecho, se puede encontrar fácilmente esa sensación de insatisfacción que muchos experimentan, porque sienten que les falta algo importante y van en su búsqueda como errantes sin una meta. Deseosos de encontrar lo que pueda satisfacerlos, tienen necesidad de orientarse hacia los pequeños, los débiles, los pobres para comprender finalmente aquello de lo que verdaderamente tenían necesidad. El encuentro con los pobres permite poner fin a tantas angustias y miedos inconsistentes, para llegar a lo que realmente importa en la vida y que nadie nos puede robar: el amor verdadero y gratuito. Los pobres, en realidad, antes que ser objeto de nuestra limosna, son sujetos que nos ayudan a liberarnos de las ataduras de la inquietud y la superficialidad.
+
+Un padre y doctor de la Iglesia, san Juan Crisóstomo, en cuyos escritos se encuentran fuertes denuncias contra el comportamiento de los cristianos hacia los más pobres, escribió: «Si no puedes creer que la pobreza te enriquece, piensa en tu Señor y deja de dudar de esto. Si Él no hubiera sido pobre, tú no serías rico; esto es extraordinario, que de la pobreza surgió abundante riqueza. Pablo quiere decir aquí con “riquezas” el conocimiento de la piedad, la purificación de los pecados, la justicia, la santificación y otras mil cosas buenas que nos han sido dadas ahora y siempre. Todo esto lo tenemos gracias a la pobreza» (*Homilías sobre la II Carta a los Corintios*, 17,1).
+
+### 9 {#francis-mes-20220613-vi-giornatamondiale-poveri-2022.9}
+
+El texto del Apóstol al que se refiere esta VI *Jornada Mundial de los Pobres* presenta la gran paradoja de la vida de fe: la pobreza de Cristo nos hace ricos. Si Pablo pudo dar esta enseñanza —y la Iglesia difundirlo y testimoniarlo a lo largo de los siglos— es porque Dios, en su Hijo Jesús, eligió y siguió este camino. Si Él se hizo pobre por nosotros, entonces nuestra misma vida se ilumina y se transforma, y ​​adquiere un valor que el mundo no conoce ni puede dar. La riqueza de Jesús es su amor, que no se cierra a nadie y va al encuentro de todos, especialmente de los que son marginados y privados de lo necesario. Por amor se despojó a sí mismo y asumió la condición humana. Por amor se hizo siervo obediente, hasta morir y morir en la cruz (cf. *Flp* 2,6-8). Por amor se hizo «pan de Vida» (*Jn* 6,35), para que a nadie le falte lo necesario y pueda encontrar el alimento que nutre para la vida eterna. También en nuestros días parece difícil, como lo fue entonces para los discípulos del Señor, aceptar esta enseñanza (cf. *Jn* 6,60); pero la palabra de Jesús es clara. Si queremos que la vida venza a la muerte y la dignidad sea rescatada de la injusticia, el camino es el suyo: es seguir la pobreza de Jesucristo, compartiendo la vida por amor, partiendo el pan de la propia existencia con los hermanos y hermanas, empezando por los más pequeños, los que carecen de lo necesario, para que se cree la igualdad, se libere a los pobres de la miseria y a los ricos de la vanidad, ambos sin esperanza.
+
+### 10 {#francis-mes-20220613-vi-giornatamondiale-poveri-2022.10}
+
+El pasado 15 de mayo [canonicé al hermano Charles de Foucauld](https://www.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2022/5/15/canonizzazione.html), un hombre que, nacido rico, renunció a todo para seguir a Jesús y hacerse con Él pobre y hermano de todos. Su vida eremítica, primero en Nazaret y luego en el desierto del Sahara, hecha de silencio, oración y compartir, es un testimonio ejemplar de la pobreza cristiana. Nos hará bien meditar en estas palabras suyas: «No despreciemos a los pobres, a los pequeños, a los trabajadores; ellos no sólo son nuestros hermanos en Dios, sino que son también aquellos que del modo más perfecto imitan a Jesús en su vida exterior. Ellos nos representan perfectamente a Jesús, el Obrero de Nazaret. Son los primogénitos entre los elegidos, los primeros llamados a la cuna del Salvador. Fueron la compañía habitual de Jesús, desde su nacimiento hasta su muerte \[…\]. Honrémoslos, honremos en ellos las imágenes de Jesús y de sus santos padres \[…\]. Tomemos para nosotros \[la condición\] que Él tomó para sí mismo \[…\]. No dejemos nunca de ser pobres en todo, hermanos de los pobres, compañeros de los pobres, seamos los más pobres de los pobres como Jesús, y como Él amemos a los pobres y rodeémonos de ellos» ( *Comentario al Evangelio de Lucas*, Meditación 263) [](#_ftn1){#_ftnref1 .cleaner}\[1\]. Para el hermano Charles estas no fueron sólo palabras, sino un estilo de vida concreto, que lo llevó a compartir con Jesús el don de la vida misma.
+
+Que esta VI *Jornada Mundial de los Pobres* se convierta en una oportunidad de gracia, para hacer un examen de conciencia personal y comunitario, y preguntarnos si la pobreza de Jesucristo es nuestra fiel compañera de vida.
+
+*Roma, San Juan de Letrán, 13 de junio de 2022, Memoria de san Antonio de Padua.*
+
+FRANCISCO
+
+[](#_ftnref1){#_ftn1 .cleaner}\[1\] Meditación n. 263 sobre *Lc* 2,8-20: C. DE FOUCAULD, *La Bonté de Dieu. Méditations sur les saints Evangiles (1)*, Nouvelle Cité, Montrouge 1996, 214-216.

@@ -1,0 +1,44 @@
+---
+id: b16-spe-20110530-nuova-evangelizzazione.en
+work: b16-spe-20110530-nuova-evangelizzazione
+title: "To participants in the Plenary Assembly of the Pontifical Council for Promoting New Evangelization (May 30, 2011)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2011-05-30
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2011/may/documents/hf_ben-xvi_spe_20110530_nuova-evangelizzazione.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20110530-nuova-evangelizzazione} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To participants in the Plenary Assembly of the Pontifical Council for Promoting New Evangelization (May 30, 2011) {#b16-spe-20110530-nuova-evangelizzazione}
+## ADDRESS OF HIS HOLINESS BENEDICT XVI TO PARTICIPANTS IN THE PLENARY ASSEMBLY OF THE PONTIFICAL COUNCIL FOR PROMOTING THE NEW EVANGELIZATION
+
+*Clementine Hall\
+Monday, 30 May 2011*
+
+*Your Eminences,\
+Venerable Brothers in the Episcopate and in the Priesthood,\
+Dear Brothers and Sisters,*
+
+When, on [28 June of last year, at the First Vespers of the Solemnity of Sts Peter and Paul, I announced that I wished to institute a Dicastery for the promotion of the New Evangelization](https://www.vatican.va/content/benedict-xvi/en/homilies/2010/documents/hf_ben-xvi_hom_20100628_vespri-pietro-paolo.html), I opened the way for a reflection to begin on a subject I had pondered over for a long time: the need to offer a specific response to a moment of crisis in Christian life which is occurring in many countries, especially those of ancient Christian tradition. Today, with this meeting, I note with pleasure that the new Pontifical Council has become a reality. I thank Archbishop Salvatore Fisichella for the words which he addressed to me, introducing me to the work of your first Plenary Assembly. I extend my cordial greetings to all of you with my encouragement for the contribution that you will make to the work of the new Dicastery, especially in view of the Thirteenth Ordinary General Assembly of the Synod of Bishops which, in October 2012, will address the theme: *The New Evangelization for the Transmission of the Christian Faith*.
+
+The term, “new evangelization” recalls the need for a renewed manner of proclamation, especially for those who live in a context, like the one today, in which the development of secularization has had a heavy impact, even in traditionally Christian countries. The Gospel is the ever new proclamation of the salvation worked by Christ which makes humanity participate in the mystery of God and in his life of love and opens it to a future of strong, sure hope. Highlighting that at this moment in history, the Church is called to carry out a *new* evangelization, means intensifying her missionary action so that it fully corresponds to the Lord’s mandate. The [Second Vatican Council](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm) recalled that “The groups among whom the Church operates are utterly changed so that an entirely new situation arises” (Decree *[Ad Gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html)*, n. 6). The farsighted Fathers of the Council saw the cultural changes that were on the horizon and which today are easily verifiable. It is precisely these changes which have created unexpected conditions for believers and require special attention in proclaiming the Gospel, for giving an account of our faith in situations which are different from the past. The current crisis brings with it traces of the exclusion of God from people’s lives, from a generalized indifference towards the Christian faith to an attempt to marginalize it from public life. In the past decades, it was still possible to find a general Christian sensibility which unified the common experience of entire generations raised in the shadow of the faith which had shaped culture. Today, unfortunately, we are witnessing a drama of fragmentation which no longer acknowledges a unifying reference point; moreover, it often occurs that people wish to belong to the Church, but they are strongly shaped by a vision of life which is in contrast with the faith.
+
+Proclaiming Jesus Christ the only Saviour of the World, today is more complex than in the past; but our task remains identical to that at the dawn of our history. The mission has not changed, just as the enthusiasm and courage that moved the Apostles and first disciples must not change. The Holy Spirit which prompted them to open the doors and made evangelizers of them (cf. Acts 2: 1-4) is the same Spirit which today moves the Church to a renewed proclamation of hope for the people of our time. St Augustine affirms that we must not think that the grace of evangelization was extended only to the Apostles and with them that fount of grace was exhausted, but “this fount is revealed when it flows, not when it ceases to pour out. And it was in this way that the grace, through the Apostles, reached others too, who were invited to proclaim the Gospel… in deed, it has continued to be a call right up to these days for the entire body of his Only Begotten Son, that is, his Church spread throughout the earth” (cf. *Sermon*, 239, 1). The grace of the mission continually needs new evangelizers capable of receiving it so that the salvific news of the Word of God never fails to be proclaimed in the changing conditions of history.
+
+There is a dynamic continuity between the proclamation of the first disciples and ours. Throughout the centuries, the Church has never ceased to proclaim the salvific mystery of the death and Resurrection of Jesus Christ, but today that same message needs renewed vigour to convince contemporary man, who is often distracted and insensitive. For this reason, the new evangelization must try to find ways of making the proclamation of salvation more effective; a proclamation without which personal existence remains contradictory and deprived of what is essential. Even for those who remain tied to their Christian roots, but who live the difficult relationship with modernity, it is important to realize that being Christian is not a type of clothing to wear in private or on special occasions, but is something living and all-encompassing, able to contain all that is good in modern life. I hope that in your work during this Assembly, you will be able to draw up a plan capable of helping the whole Church and the different particular Churches in the commitment to the new evangelization; a project where the urgency of a renewed proclamation involves formation, especially for the new generations, and is combined with a proposal of concrete signs able to make evident the response which the Church intends to offer in this particular moment. If, on the one hand, the entire community is called to reinvigorate its missionary spirit to proclaim the Good News that the people of our time are waiting for, we cannot forget that the lifestyle of believers needs to be genuinely credible and all the more convincing for the dramatic conditions in which those who need to hear it live. For this reason, we want to make the words of the Servant of God, Pope [Paul VI](http://www.vatican.va/holy_father/paul_vi/index.htm)our own, when he said with regard to evangelization, “It is therefore primarily by her conduct and by her life that the Church will evangelize the world, in other words, by her living witness of fidelity to the Lord Jesus — the witness of poverty and detachment, of freedom in the face of the powers of this world, in short, the witness of sanctity” (Apostolic Exhortation *[Evangelii Nuntiandi](https://www.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html)*, n. 41).
+
+Dear friends, invoking the intercession of Mary, Star of Evangelization, that she accompany those who bring the Gospel and open the hearts of those who hear it, I assure you of my prayers for your ecclesial service and impart to all of you my Apostolic Blessing.

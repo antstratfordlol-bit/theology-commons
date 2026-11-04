@@ -1,0 +1,58 @@
+---
+id: b16-ang-20121125.en
+work: b16-ang-20121125
+title: "Angelus, 25 November 2012"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2012-11-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2012/documents/hf_ben-xvi_ang_20121125.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20121125} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 25 November 2012 {#b16-ang-20121125}
+BENEDETTO XVI
+
+## ANGELUS
+
+*St. Peter's Square\
+Sunday, 25 November 2012*
+
+## \[[Video](https://www.youtube.com/watch?v=ldDahJFbI3I&list=PLC9tK3J1RlaZGkT-qS3F021VSzUv-YuwO&index=14&ab_channel=TheVatican-Archive){target="_blank"}\]
+
+*Dear Brothers and Sisters*,
+
+The Church today is celebrating Our Lord Jesus Christ as as King of the Universe. This Solemnity comes at the end of the liturgical year and sums up the mystery of Jesus “firstborn from the dead and ruler of the kings of the earth” (Collect, Year B), broadening our gaze towards the complete fulfilment of the Kingdom of God, when God will be everything to every one (cf. 1 Cor 15:28). St Cyril of Jerusalem said: “We preach not one advent only of Christ, but a second also, far more glorious than the former. For the former gave a view of his patience; but the latter brings with it the crown of a divine kingdom... in his second, He comes attended by a host of Angels, receiving glory” (*Catechesis* XVI, *1, Illuminandorum, De secundo Christi adventu*: pg 33, 869 a).
+
+Jesus’ entire mission consisted in proclaiming the Kingdom of God and putting it into practice among human beings with signs and miracles. However, as the [Second Vatican Council](http://www.vatican.va/archive/hist_councils/ii_vatican_council/) recalls “this kingdom shone out before men ... in the presence of Christ” (Dogmatic Constitution *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, n. 5) and he established it through his death on the Cross and his Resurrection, with which he manifested himself as Lord and Messiah and Priest for ever.
+
+This Kingdom of Christ has been entrusted to the Church which is its “seed” and its “beginning” and has the task of proclaiming it and spreading it among the peoples, with the power of the Holy Spirit (cf. *ibid.*). At the end of the established time, the Lord will consign the Kingdom to God the Father and will present to him all those who have lived in accordance with his commandment of love.
+
+Dear friends, we are all called to extend God’s saving action, converting to the Gospel, following with determination the King who did not come to be served but to serve and to bear witness to the truth (cf. Mk 10:45; Jn 18:37). In this perspective I invite everyone to pray for the six new Cardinals whom I created yesterday that the Holy Spirit will strengthen them in faith and in charity and fill them with his gifts, so that they may live their new responsibilities as a further dedication to Christ and to his Kingdom. These new members of the College of Cardinals represent well the universal dimension of the Church: they are Pastors of the Church in Lebanon, in India, in Nigeria, in Colombia, and in the Philippines, and one of them has been for many years in the service of the Holy See.
+
+Let us invoke the protection of Mary Most Holy upon each one of them and on the faithful entrusted to their service. May the Virgin help us all to live the present time in expectation of the Lord’s second coming, forcefully imploring God: “Thy Kingdom come”, and undertaking those works of light which bring us ever closer to heaven, in the awareness that, in the turbulent events of history God continues to build his Kingdom of love.
+
+## After the Angelus:
+
+*Dear Brothers and Sisters*,
+
+Maria Troncatti, a Sister of the Daughters of Mary Help of Christians was beatified yesterday, in Macas, Ecuador. She was born in Val Camonica. She served as a nurse during the First World War then left for Ecuador, where she dedicated herself without reserve to the peoples of the jungle in evangelization and human promotion. Let us give thanks to God for her generous witness!
+
+The pilgrimage of the university students of Rome to the tomb of St Peter will take place next Saturday, on the occasion of the [Year of Faith](http://www.vatican.va/special/annus_fidei/index_en.htm). I shall preside at the celebration for them of first Vespers of the First Sunday of Advent.
+
+I offer a warm welcome to all the English-speaking pilgrims and visitors gathered for this Angelus prayer, especially those who have accompanied the new Cardinals created in yesterday’s Consistory. Today, on the Solemnity of Christ the King, the Church invites us to contemplate the Lordship of the Risen Saviour and to pray for the coming of his Kingdom. May Christ’s peace always reign in your hearts!
+
+I wish you all a good Sunday and a good week. Have a happy feast day! My best wishes to you!

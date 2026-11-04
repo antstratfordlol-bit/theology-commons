@@ -1,0 +1,52 @@
+---
+id: b16-spe-20100208-pc-family.es
+work: b16-spe-20100208-pc-family
+title: "A los participantes en la XIX Asamblea plenaria del Consejo Pontificio para la Familia (8 de febrero de 2010)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2010-02-08
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2010/february/documents/hf_ben-xvi_spe_20100208_pc-family.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20100208-pc-family} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A los participantes en la XIX Asamblea plenaria del Consejo Pontificio para la Familia (8 de febrero de 2010) {#b16-spe-20100208-pc-family}
+***DISCURSO DEL SANTO PADRE BENEDICTO XVI\
+A LOS PARTICIPANTES EN LA ASAMBLEA PLENARIA\
+DEL CONSEJO PONTIFICIO PARA LA FAMILIA**
+
+Sala Clementina\
+Lunes 8 de febrero de 2010*
+
+*Señores cardenales;\
+venerados hermanos en el episcopado y en el sacerdocio;\
+queridos hermanos y hermanas:*
+
+Al inicio de la XIX asamblea plenaria del Consejo pontificio para la familia, me alegra acogeros con mi cordial bienvenida. Este año vuestro dicasterio llega a este momento institucional especialmente renovado; han cambiado tanto el cardenal presidente y el obispo secretario, como algunos cardenales y obispos del comité de presidencia, algunos oficiales y cónyuges miembros, al igual que numerosos consultores. Doy las gracias de corazón a cuantos han concluido su servicio en el Consejo pontificio y a quienes todavía desempeñan en él su valiosa labor, e invoco sobre todos abundantes dones del Señor. En particular, pienso con gratitud en el difunto cardenal Alfonso López Trujillo, que durante 18 años dirigió vuestro dicasterio con apasionada entrega a la causa de la familia y de la vida en el mundo de hoy. Deseo, por último, manifestar mi viva gratitud al cardenal Ennio Antonelli por las cordiales palabras que me ha dirigido en nombre de todos vosotros, y por haber querido ilustrar los temas de esta importante asamblea.
+
+La actual actividad del dicasterio se coloca entre el [VI Encuentro mundial de las familias](http://www.vatican.va/roman_curia/pontifical_councils/family/index_sp.htm#VI_Encuentro_Mundial_de_las_Familias), que se celebró en Ciudad de México en 2009, y el VII, programado para el 2012 en Milán. Renuevo mi reconocimiento al cardenal Norberto Rivera Carrera por el generoso compromiso de su archidiócesis en la preparación y realización del encuentro de 2009, y expreso desde ahora mi afectuosa gratitud a la Iglesia ambrosiana y a su pastor, el cardenal Dionigi Tettamanzi, por la disponibilidad a ser la sede del VII Encuentro mundial de las familias. Además de organizar estos eventos extraordinarios, el Consejo pontificio está trabajando en varias iniciativas encaminadas a aumentar la conciencia del valor fundamental de la familia para la vida de la Iglesia y de la sociedad. Entre ellas están el proyecto "La familia, sujeto de evangelización", con el que se quiere recoger experiencias positivas en los diversos ámbitos de la pastoral familiar, a escala mundial, a fin de que sirvan de inspiración y aliento para nuevas iniciativas; y el proyecto "La familia, recurso para la sociedad", con el que se quiere poner de relieve ante la opinión pública los beneficios que la familia aporta a la sociedad, a su cohesión y a su desarrollo.
+
+Otro compromiso importante del dicasterio es la elaboración de un *Vademécum* para la preparación al matrimonio. Mi amado predecesor, el venerable Juan Pablo II, en la exhortación apostólica *[Familiaris consortio](https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)* afirmó que esa preparación "en nuestros días es más necesaria que nunca" y "abarca tres momentos principales: una preparación remota, una próxima y otra inmediata" (n*.* 66). Refiriéndose a dichas indicaciones, el dicasterio se propone delinear convenientemente la fisonomía de las tres etapas del itinerario para la formación y la respuesta a la vocación conyugal. La preparación remota concierne a los niños, los adolescentes y los jóvenes. Implica a la familia, la parroquia y la escuela, lugares en los que se educa a comprender la vida como vocación al amor, que después se especifica en las modalidades del matrimonio y la virginidad por el reino de los cielos, pero se trata siempre de vocación al amor. En esta etapa, además, deberá salir a la luz progresivamente el significado de la sexualidad como capacidad de relación y energía positiva que es preciso integrar en el amor auténtico.
+
+La preparación próxima concierne a quienes están prometidos y debería configurarse como un camino de fe y de vida cristiana que lleve a un conocimiento profundo del misterio de Cristo y de la Iglesia, de los significados de gracia y responsabilidad del matrimonio (cf. *ib.*). La duración y las modalidades para llevarla a cabo necesariamente serán distintas según las situaciones, las posibilidades y las necesidades. Pero es de desear que se ofrezca un itinerario de catequesis y de experiencias vividas en la comunidad cristiana, que prevea las intervenciones del sacerdote y de varios expertos, al igual que la presencia de animadores, el acompañamiento de alguna pareja ejemplar de esposos cristianos, el diálogo de pareja o de grupo y un clima de amistad y de oración. Además, hay que cuidar de modo especial que en dicha ocasión los prometidos reaviven su relación personal con el Señor Jesús, especialmente escuchando la Palabra de Dios, acercándose a los sacramentos y sobre todo participando en la Eucaristía. Sólo poniendo a Cristo en el centro de la existencia personal y de pareja es posible vivir el amor auténtico y donarlo a los demás: "El que permanece en mí y yo en él, ese da mucho fruto; porque sin mí no podéis hacer nada", nos recuerda Jesús (*Jn* 15, 5).
+
+La preparación inmediata tiene lugar cuando se acerca el matrimonio. Además de examinar a los prometidos, como prevé el Derecho canónico, podría incluir una catequesis sobre el rito del matrimonio y sobre su significado, el retiro espiritual y la solicitud a fin de que los fieles y, en particular, quienes se preparan a la celebración del matrimonio lo perciban como un don para toda la Iglesia, un don que contribuye a su crecimiento espiritual. Además, conviene que los obispos promuevan el intercambio de las experiencias más significativas, estimulen un serio compromiso pastoral en este importante sector y muestren especial atención en que la vocación de los cónyuges se convierta en una riqueza para toda la comunidad cristiana y, especialmente en el contexto actual, en un testimonio misionero y profético.
+
+Vuestra asamblea plenaria tiene por tema: "Los derechos de la infancia", elegido con referencia al 20° aniversario de la Convención aprobada por la Asamblea general de la ONU, en 1989. A lo largo de los siglos, la Iglesia, siguiendo el ejemplo de Cristo, ha promovido la tutela de la dignidad y de los derechos de los menores y, de muchas maneras, se ha hecho cargo de ellos. Lamentablemente, en diversos casos, algunos de sus miembros, actuando en contraste con este compromiso, han violado esos derechos: un comportamiento que la Iglesia no deja y no dejará de deplorar y de condenar. La ternura y las enseñanzas de Jesús, que consideró a los niños un modelo a imitar para entrar en el reino de Dios (cf. *Mt* 18, 1-6; 19, 13-14), siempre han constituido una llamada apremiante a alimentar hacia ellos un profundo respeto y a prestarles atención. Las duras palabras de Jesús contra quien escandaliza a uno de estos pequeños (cf. *Mc* 9, 42) comprometen a todos a no rebajar nunca el nivel de ese respeto y amor. Es uno de los motivos por los que la Santa Sede acogió favorablemente la Convención sobre los derechos del niño, porque contiene enunciados positivos acerca de la adopción, la asistencia sanitaria, la educación, la tutela de los discapacitados y la protección de los pequeños contra la violencia, el abandono y la explotación sexual y laboral.
+
+La Convención, en el preámbulo, indica la familia como "medio natural para el crecimiento y el bienestar de todos sus miembros, y en particular de los niños". Pues bien, precisamente la familia, basada en el matrimonio entre un hombre y una mujer, es la mayor ayuda que se puede dar a los niños. Estos quieren ser amados por una madre y un padre que se aman, y necesitan vivir, crecer y vivir junto con ambos padres, porque las figuras materna y paterna son complementarias en la educación de los hijos y en la construcción de su personalidad y de su identidad. Por lo tanto, es importante que se haga todo lo posible para ayudarles a crecer en una familia unida y estable. Para ello, es preciso exhortar a los cónyuges a no perder nunca de vista las razones profundas y el carácter sacramental de su pacto conyugal y a reforzarlo con la escucha de la Palabra de Dios, la oración, el diálogo constante, la acogida recíproca y el perdón mutuo. Un ambiente familiar falto de serenidad, la separación de los padres y, en particular, la separación con el divorcio conllevan consecuencias para los niños, mientras que sostener la familia y promover su verdadero bien, sus derechos, su unidad y estabilidad es el mejor modo de tutelar los derechos y las auténticas exigencias de los menores.
+
+Venerados y queridos hermanos, gracias por vuestra visita. Estoy espiritualmente cercano a vosotros y al trabajo que realizáis en favor de las familias e imparto de corazón mi bendición apostólica a cada uno de vosotros y a todos los que comparten este valioso servicio eclesial.

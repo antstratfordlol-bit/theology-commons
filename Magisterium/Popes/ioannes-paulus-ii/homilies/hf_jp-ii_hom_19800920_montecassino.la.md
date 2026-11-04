@@ -1,0 +1,65 @@
+---
+id: jp2-hom-19800920-montecassino.la
+work: jp2-hom-19800920-montecassino
+title: "Allocutio habita in ecclesia abbatiali Montis Casini a Summo Pontifice, sacris una cum permultis Abbatibus litante, D. 20 m. Septembris a. 1980, Ioannes Paulus PP.II"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Homily
+url_date: 1980-09-20
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: la
+original-language: yes
+original-note: "the Latin text as published by the Holy See; for the modern magisterium the Latin is the editio typica where one exists"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/la/homilies/1980/documents/hf_jp-ii_hom_19800920_montecassino.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "es, it, la, pt"
+anchors: "{#jp2-hom-19800920-montecassino} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across es, la"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Allocutio habita in ecclesia abbatiali Montis Casini a Summo Pontifice, sacris una cum permultis Abbatibus litante, D. 20 m. Septembris a. 1980, Ioannes Paulus PP.II {#jp2-hom-19800920-montecassino}
+IOANNES PAULUS PP. II
+
+## ALLOCUTIO HABITA IN ECCELSIA ABBATIALI MONTIS CASINI A SUMMO PONTIFICE, SACRIS UNA CUM PERMULTIS ABBATIBUS LITANTE
+
+*Die 20 m. Septembris* *A.D. MCMLXXX*
+
+*Venerabiles Fratres ac dilecti Filii et Filiae,\
+\*
+Splendidum inter basilicae huius ornatum quae — ex incursus bellici ruinis prodigiose iterum exsuscitata atque a numquam obliviscendo Decessore Nostro Paulo Sexto rursus consecrata — redundat hodie tam electa, immo vero unica fortassis in Montis Casini historia plus quam mille annorum, congressione filiorum filiarumque Sancti Benedicti ante praeclarum ipsius quasi reviviscentis sepulcrum, circa altare hodierno Sacrificio Eucharistico concelebrando destinatum, venit sua sponte Nobis in mentem ac vocem clamor exsultans ille Isaiae prophetae: O Pater venerande, “leva in circuitu oculos tuos et vide; omnes isti congregati sunt, venerunt tibi; filii tui de longe venerunt et filiae tuae de latere surrexerunt”.
+
+Tuum nempe ut iubilaeum concelebrent, ex omni regione orbis terrarum huc modo confluxerunt, gloriantes se posse fideles tibi filios ac filias confirmare, laetantes in precibus tibi movendis, implorantes cum gaudio fecundam benedictionem tuam in visibili et optatissima coniunctione cum Petri Successore. Quem ipsum Successorem magnopere quidem iuvat inter eos versari ut tibi, tot millenorum milium Patriarchae monachorum, testificetur existimationem et amorem quem universa Ecclesia profitetur in te - natum videlicet consilio gratiaque Dei artificem thesaurorum immensorum expolitae humanitatis et animi cultus at potissimum sanctitatis.
+
+Vita enim tua, licet sit intra arctos unius regionis fines transacta, admirabilis tamen virtutibus signisque refulsit. Effectus autem tui vivificantis nuntii, penetrans in cunctam Europam indeque reliquum in mundum, ad hos dies nostros usque pervenit auxilio parvuli istius sed maximi simul libri tui qui “fermentum divinae iustitiae” factus est ad christianam conformationem multitudinum illarum quas Deus tibi perinde ac prius Abrahamo praeparavit quasi incomparabilem hereditatem.
+
+Delectat vehementer eodemque tempore commovet et Nos et omnes coram adstantes recordari hoc ipso in monasterio, sive potius in perangusto aliquo eius angulo obscuro — e belli cladibus erepto — illum compositum esse librum: Regulam id est eius; quemadmodum infra meminit lapidis titulus: “Hic scripsit Regulam et verbo et opere docuit”.
+
+Venerabiles Abbates, dilectissimi Filii Filiaeque adeo magnifici Patris ac legum Latoris: hac in nostra congressione, quam iure valemus appellare prorsus extraordinariam, et in hoc velut culmine centenariarum omnium commemorationum ipsius ortus, revertamur oportet ad augustum illum libellum ab eoque iterum proficiscamur ad efficiendam moralem ac religiosam renovationem quae instanter nos premit quaeque diligenter a nobis mundo debetur. Per nuperrime editam Epistulam Apostolicam, a verbis “Sanctorum Altrix” incipientem, voluimus tamquam uno in amplissimo prospectu universa vitalia ea et fertilia exponere, quae etiamnunc Sancti Benedicti doctrina institutioque potest praebere non tantum vitae perfectionis monasticae verum etiam restaurationi et inflammationi tum sensuum tum morum qui ex Evangelio derivantur.
+
+Grandi insuper cum solacio cognovimus vos — digne quidem celebrare cupientes hanc centenariam memoriam — iam Romae, in prima christianae religionis sede, agere ex nobili sane proposito Symposium peculiare, videlicet de eadem Regula illa, ut post multa recentiora studia ac secundum experimenta aut iam facta aut quae interim fiunt, reperiatis et definiatis: quid validi, quid vivifici Regula etiam hoc tempore contineat, quae structurae primariae inviolabilesque superare debeant alias adventicias quas progredientia saecula reddiderunt redduntque caducas, quae penitus necessaria bona firmiter in monasteriis retinenda sint, ut sodalibus dicere liceat se adhuc serio animo procedere in Benedictinae familiae semita.
+
+Uti accidit hodie in quibuslibet consiliis et operibus, merito vos — praesertim qui communitatum estis pastores — percipitis omnino oportere ut clarissima eluceat propria indoles et qualitas alicuius filii ac discipuli Sancti Benedicti. “Scientibus loquor”: vos ipsi, totiens qui legistis diuque perpendistis Regulam vestram, probissime novistis quid cupiat Patriarcha construere simulque edocere per Regulam illam a qua — ut admonet — “non temere declinetur a quoquam”.
+
+Plane nimirum constat extruere ipsum velle “dominici scholam servitii”. Vestra igitur proprietas invenitur in hoc absoluto universalique servitio Boni absoluti, quod Deus est. Quamquam totus mundus iam est in Deo, monasterium tamen — sicut Sancto Benedicto describere illud placet - est “domus Dei” peculiari ratione: etenim adest ibi monachus, ut domus illius serviat Domino in humilitate et oboedientia et precatione, in silentio atque opere — ante omnia vero in caritate. Scitis profecto quanta vi et significatione legifer Pater vester ad Christi sequelam inculcet hanc ipsam virtutem velut educatricem omnis monasticae vitae. Quartum capitulum de instrumentis operum bonorum nos certiores facit doctrinam asceticam mysticamque Benedictinam revera simpliciter esse evangelicam — emanantem nempe ex Evangelio quod suscipitur ac vivitur cum omnibus consectariis suis.
+
+Agnita autem semel hac vestra qualitate et natura, ecce proin flagitantur — sicut ubique etiam hodie evenit — voluntas et amor veritatis de genuina illa indole vestra. A sodalibus ergo Benedictinis hoc optamus Nos, hoc omnes in Ecclesia desiderant et in mundo: ipsos eos secundum Patriarchae mentem vere monachos esse, “revera” — quo vocabulo ille utitur — esse Dei inquisitores Deique amantes qui gaudeant se a mundo vivere seiunctos sed per amoris societatem cum fratribus in mundo coniunctos, se praeterea vivere in familiari convictu oboedientiae et caritatis, unde pax enascatur atque laetitia: “nemo perturbetur neque contristetur in domo Dei”.
+
+Longissima quidem nec interrupta umquam traditio — omnium id est longissima quae accedere possit ad ipsius Ecclesiae diuturnitatem — comprobavit nobilitatem et pulchritudinem et fecunditatem Benedictinae spiritualitatis. Ideo de ea sancto cum affectu gloriamini; et necessariis prudentibusque inductis accommodationibus ad mutatum temporum nostrorum statum, procedite per tramitem, ab illo Patre antiquo aliisque traditionis vestrae patribus designatum; ne permiseritis occupari vos aut captari motibus tendentibus ad saeculares consuetudines neque irrationalibus minimeque necessariis novitatibus neque nimiis de pluralismo sententiis quae tandem aliquando efficiunt, ut aberretur a legum Latoris vestri Patris itinere. Iam ipsa perspicuitas denotata est tamquam unae praecipuis Regulae laudibus: etenim facile omnes percipere valent ac pernoscere quid mandet commendetve maximus ille Magister; restat tantummodo, ut id humiles et dociles et hilares exequantur.
+
+Annuente propterea Deo, arridente materno cum sensu Maria monachorum regina, tuente ipso conditore vestro Patre: pergite vos, secundum nuntium eius doctrinae, per traditionem sanam explicatae ac per vestrum fidele exemplum impletae, pergite — inquimus — etiam hodie et futuro tempore praedicare potentiam fidei, suave officium christianae orationis, ardentem liturgiae amorem, auctoritatis et oboedientiae beneficium, cultum lectionis divinae studiorumque omnium sacrorum, dulcedinem vestri Gregoriani cantus, promptam alacritatem in mentis manuumque laboribus, dignitatem exterioris ipsius decoris in actibus necnon in religioso vestitu, iucunditatem vitae communis atque in primis sinceram comparationem caritatis et pacis.
+
+At in singulari hac consolationisque plena congressione cum universis Abbatibus ac Superioribus Benedictinis gratum Nobis est - immo et necessarium Nobis esse videtur — rursus memorare id quod in praedicta Epistula Apostolica iam tradidimus de propria figura paterna quam legifer Pater vester in Abbatis regimine impressit. Superiores sine dubio vos estis et administratores et magistri: verum ante omnia patres. Atque in hac “societate patribus carente” — ut diximus ibidem - testificari debetis Sanctum Benedictum in animo habuisse suum monasterium erigere velut communitatem familiarem in qua pater esset qui provideret ac doceret quique potissimum monachos diligeret suos et respiceret, eorum dignitatem reveritus, qui demum faceret eos insuper consortes suorum consiliorum ac prosequeretur cum animi affectu qui aliquid teneritatis etiam haberet cordis materni.
+
+Vobis ipsis agendi norma est: “plus amari quam timeri”; ac duo illa Regulae capitula quae vestrum quasi Directorium continent: scilicet caput secundum et sexagesimum quartum — praesertim vero mirandum illud sexagesimum quartum caput reapse profluens ex pectore divite sapientiae et caritatis — sunt tamquam “magna charta”, hoc est principalis lex, quae regere debet ac pervadere totam vitae vestrae rationem. Sed cuncta quidem Regula loquitur de vobis ut sapientiam inculcet vobis et prudentiam, immotam repugnantiam vitiis ac promotionem virtutis, commiserationem erga debiles atque in primis illam discretionem Romanam et christianam quae illustrem codicem Regulae vestrae velut peculiari nota distinguit causamque maximam efficit cur quoquoversus diffusus sit, immo ubique gentium invaluerit. Aequilibritas Abbatis generat ac sustentat mutuum amorem inter ipsum et sodales filios interque fratres vicissim. Nostro in mundo, ubi deficiens amor privat animos tum viribus tum gaudiis, cernant omnes et cognoscant per sacrificia magnanima vestra monasterium societatem esse veri humani supernaturalisque amoris.
+
+Ad extremum denique cupimus nominatim singulas consalutare Benedictinas Familias mulierum quarum aliquot suas huc miserunt legatas. Sub lumine ac virtutis odore Sanctae Scholasticae, quae hoc ipso loco iuxta Fratrem requiescit, purissima vestra et virginalis praesentia — o filiae Sancti Benedicti omnes — laetificat Populum Dei et aedificat. In vestri recessus silentio aut in humilitate operum vestrorum singulariter vos repraesentatis — quin immo et magna cum persuasione sectari debetis — affectionem spiritalem Virginis Matris Mariae quae laetabatur esse se Domini ancillam, penitus deditam soli caelestis Patris voluntati. “Florete flores quasi lilium et date odorem et frondete in gratiam”. Atque in iucunditatem et utilitatem omnium fratrum hominum in terris cantate Domino castissimas laudes ac Sponso vestro Christo ipsam cantate exsultationem intimae coniunctionis vestrae ob amorem.
+
+Patres et Fratres et Sorores omnes: gaudeamus igitur gaudio permagno, “diem festum celebrantes in honorem beati Benedicti”, de cuius gloria Angeli et Sancti triumphant, ex cuius doctrina et institutione millenos per orbem homines intra vel extra monasteriorum saepta adiuvamus, a cuius exemplo et patrocinio commoda percipit Ecclesia et mundus universus. Resonat etiam hodie vox eius: “Christo nihil omnino praeponere”. Haec primaria est ipsius nuntiatio; ac si ardens eius desiderium illius est, ut cuncti familiae monasticae sodales in pace consistant, idem profecto propositum optatumque fiet pro universa hominum familia veritas felicissima ac solida res, si modo in eam tandem intraverit Christus.
+
+Haec habuimus quae amanti animo ad vos diceremus. Sit demum auspex ac pignus spiritualium fructuum, ex hac Benedictina celebratione percipiendorum, Apostolica Benedictio, quam vobis libentissime impertimus.

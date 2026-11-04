@@ -1,0 +1,69 @@
+---
+id: jp2-spe-20040402-ad-limina-usa-i.en
+work: jp2-spe-20040402-ad-limina-usa-i
+title: "To the Bishops of the United States of America on their 'ad Limina' visit (April 2, 2004)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2004-04-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2004/april/documents/hf_jp-ii_spe_20040402_ad-limina-usa-i.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-spe-20040402-ad-limina-usa-i.N} — numbered paragraphs 1..6 (6 anchors), shared with jp2-spe-20040402-ad-limina-usa-i.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Bishops of the United States of America on their "ad Limina" visit (April 2, 2004)
+## ADDRESS OF JOHN PAUL II TO THE BISHOPS OF THE UNITED STATES OF AMERICA ON THEIR "AD LIMINA" VISIT
+
+*Friday, 2 April 2004*
+
+*Dear Brother Bishops,*
+
+### 1 {#jp2-spe-20040402-ad-limina-usa-i.1}
+
+"Grace and peace to you from God our Father and the Lord Jesus Christ!" (*Eph* 1:2). At the beginning of this series of visits *ad limina Apostolorum* by the Bishops of the United States of America, I offer a warm welcome to you, my Brother Bishops of the *ecclesiastical provinces of Atlanta and Miami*.
+
+Your visit to the tomb of Peter and to the house of Peter’s Successor is in fact *a spiritual pilgrimage to the heart of the Church*. May it be for you a summons to a more intense encounter with Jesus Christ, a pause for reflection and discernment in the light of faith, and an impulse to new vigor in mission. I trust that this series of *ad limina* visits will also bear particular fruit in a deeper appreciation of the *mystery of the Church* in all its richness, and a far-reaching discernment of the pastoral challenges facing the Bishops of the United States at the dawn of the new millennium.
+
+Our meetings are taking place at a difficult time in the history of the Church in the United States. Many of you have already spoken to me of the pain caused by the sexual abuse scandal of the past two years and the urgent need for rebuilding confidence and promoting healing between Bishops, priests and the laity in your country. I am confident that the willingness which you have shown in acknowledging and addressing past mistakes and failures, while at the same time seeking to learn from them, will contribute greatly to this work of reconciliation and renewal. This time of purification will, by God’s grace, lead to "a holier priesthood, a holier episcopate and a holier Church" (*[Address to American Cardinals and Bishops](https://www.vatican.va/content/john-paul-ii/en/speeches/2002/april/documents/hf_jp-ii_spe_20020423_usa-cardinals.html)*, 23 April 2002, 4), a Church ever more convinced of the truth of the Christian message, the redemptive power of the Cross of Christ, and the need for unity, fidelity and conviction in bearing witness to the Gospel before the world.
+
+### 2 {#jp2-spe-20040402-ad-limina-usa-i.2}
+
+The history of the Church demonstrates that *there can be no effective reform without interior renewal*. This is true not only of individuals, but also of every group and institution in the Church. In the life of every Bishop the challenge of interior renewal must involve an integral understanding of his service as *pastor gregis*, entrusted by Christ’s will with *a specific ministry of pastoral governance* in the Church and the responsibility and apostolic power which accompany that ministry. To be an effective *pastor gregis*, however, the Bishop must also strive constantly to be *forma gregis* (cf. *1 Pet* 5:3); his apostolic authority must be seen first and foremost as a religious witness to the Risen Lord, to the truth of the Gospel and to the mystery of salvation present and at work in the Church. The Tenth Ordinary Assembly of the Synod of Bishops recalled that "the Bishop’s life is to be completely submitted to the word of God in his daily commitment of preaching the Gospel in all patience and sound doctrine" (*[Pastores Gregis](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 28; cf. *2 Tim* 4:2).
+
+The renewal of the Church is thus closely linked to the renewal of the episcopal office. Since the Bishop is called in a unique way to be an *alter Christus*, a vicar of Christ in and for his local Church, he must be the first to conform his life to Christ in holiness and constant conversion. Only by himself *putting on the mind of Christ* (cf. *Phil* 2:5) and acquiring "a fresh, spiritual way of thinking" (*Eph* 4:23), will he be able to carry out effectively his role as a successor of the Apostles, the guide of the faith community, and the coordinator of those charisms and missions which the Holy Spirit constantly pours out upon the Church.
+
+### 3 {#jp2-spe-20040402-ad-limina-usa-i.3}
+
+The recent Synod of Bishops and the Post-Synodal Apostolic Exhortation *[Pastores Gregis](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)* have spoken insistently of the need to appropriate *an ecclesiology of communion and mission*, which must be "our fundamental point of reference" for understanding and exercising the episcopal ministry (*[Pastores Gregis](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 2). In doing so, they have taken up the core vision of the Second Vatican Council, which called for a renewed appreciation of the *mystery of the Church*, grounded in the trinitarian life of Father, Son and Holy Spirit (cf. *[Ad Gentes](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html)*, 2; *[Lumen Gentium](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 2-4), as the basis of a reaffirmation of her inner unity and her missionary outreach to the world.
+
+This appeal of the Council is as valid today as ever. A return to the heart of the Church, a recovery of *faith’s vision of the nature and purpose of the Church* in God’s plan, and a clearer understanding of her relation to the world must be an essential part of that constant conversion to God’s revealed word which is demanded of every member of the Body of Christ, reborn in Baptism and called to work for the spread of God’s Kingdom on earth (cf. *[Lumen Gentium](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 36).
+
+Ecclesia sancta simul et semper purificanda. The Council’s urgent summons to pray, work and hope that the image of Christ may shine ever more brightly on the face of the Church (cf. *[Lumen Gentium](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 15) calls for a constant reaffirmation of faith’s assent to God’s revealed word and a return to the sole source of all authentic ecclesial renewal: *the Scriptures and the Apostolic Tradition* as authoritatively interpreted by the Church’s Magisterium. Indeed, the Council’s vision, which found expression in the great Constitutions *[Lumen Gentium](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)* and *[Gaudium et Spes](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*, remains "a sure compass by which to take our bearings in the century now beginning" (*[Novo Millennio Ineunte](https://www.vatican.va/content/john-paul-ii/en/apost_letters/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html)*, 57).
+
+### 4 {#jp2-spe-20040402-ad-limina-usa-i.4}
+
+Dear Brothers, at the start of these meetings of the Successor of Peter with the Bishops of the United States, I wish to reaffirm *my confidence in the Church in America*, my appreciation of the deep faith of America’s Catholics and my gratitude for their many contributions to American society and to the life of the Church throughout the world. Viewed with the eyes of faith, the present moment of difficulty is also *a moment of hope*, that hope which "does not disappoint" (*Rom* 5:5), because it is rooted in the Holy Spirit, who constantly raises up new energies, callings and missions within the Body of Christ.
+
+The Special Assembly of the Synod of Bishops, celebrated in the wake of the epochal events of September 11, 2001, rightly noted that the Bishop is called to be a *prophet, witness and servant of hope* to the world (cf. *[Pastores Gregis](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 3), not only because he proclaims to all the basis of our Christian hope (cf. *1 Pet* 3:15) but also because he *makes that hope present* through his pastoral ministry, centered as it is on the three *munera* of sanctifying, teaching and governing. The exercise of this prophetic witness in contemporary American society has, as many of you have pointed out, been made increasingly difficult by the aftermath of the recent scandal and the outspoken hostility to the Gospel in certain sectors of public opinion, yet *it cannot be evaded or delegated* to others. Precisely because American society is confronted by a disturbing loss of the sense of the transcendent and the affirmation of a culture of the material and the ephemeral, it desperately needs such a witness of hope. It is in hope that we have been saved (cf. *Rom* 8:24); the Gospel of hope enables us to discern the consoling presence of God’s Kingdom in the midst of this world and offers confidence, serenity and direction in place of that hopelessness which inevitably spawns fear, hostility and violence in the hearts of individuals and in society as a whole.
+
+### 5 {#jp2-spe-20040402-ad-limina-usa-i.5}
+
+For this reason I pray that our meetings will not only strengthen the hierarchical communion which unites the Successor of Peter with his Brother Bishops in the United States, but will bear abundant fruit for the growth of your own local Churches in unity and in missionary zeal for the spread of the Gospel. In this way, they will come to reflect ever more fully the "great mystery" of the Church which, in the words of the Council, is in Christ as it were a "sacrament of intimate union with God and of the unity of all mankind" (*[Lumen Gentium](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 1), the firstfruits of the Kingdom of God and the prophetic foreshadowing of a world reconciled and at peace.
+
+In the coming months, I would like to engage you and your Brother Bishops in a series of reflections on *the exercise of the episcopal office in the light of the threefold munus* by which the Bishop, through sacramental ordination, is conformed to Jesus Christ, priest, prophet and king. It is my hope that a consistent reflection on the gift and mystery entrusted to us will contribute to the fulfillment of your ministry as heralds of the Gospel and to the renewal of the Church in the United States.
+
+### 6 {#jp2-spe-20040402-ad-limina-usa-i.6}
+
+Dear Brothers, I assure you of my prayers for each of you and for all the clergy, religious and lay faithful entrusted to your pastoral care. As we strive to meet the challenges which lie ahead of us, let us never cease to thank the Triune God for the rich variety of gifts which he has bestowed upon the Church in America and to look with confidence to the future which his providence is even now opening before us. With great affection I commend all of you to the loving intercession of Mary Immaculate, Patroness of the United States of America, and cordially impart my Apostolic Blessing as a pledge of joy and peace in the Lord.

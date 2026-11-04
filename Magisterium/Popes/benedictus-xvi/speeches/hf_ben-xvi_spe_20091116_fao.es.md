@@ -1,0 +1,92 @@
+---
+id: b16-spe-20091116-fao.es
+work: b16-spe-20091116-fao
+title: "A la FAO con ocasión de la Cumbre Mundial sobre Seguridad Alimentaria (16 de noviembre de 2009)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2009-11-16
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2009/november/documents/hf_ben-xvi_spe_20091116_fao.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20091116-fao.N} — numbered paragraphs 1..10 (10 anchors), shared with b16-spe-20091116-fao.en"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A la FAO con ocasión de la Cumbre Mundial sobre Seguridad Alimentaria (16 de noviembre de 2009)
+***DISCURSO DEL SANTO PADRE BENEDICTO XVI\
+A LA FAO CON OCASIÓN DE LA CUMBRE MUNDIAL\
+SOBRE SEGURIDAD ALIMENTARIA\***
+
+Roma, lunes 16 de noviembre de 2009*
+
+*Señor Presidente,\
+Señoras y Señores:*
+
+### 1 {#b16-spe-20091116-fao.1}
+
+He acogido con mucho gusto la invitación del Señor Jacques Diouf, Director General de la FAO, a tomar la palabra en la sesión inaugural de esta Cumbre Mundial sobre Seguridad Alimentaria. Le saludo cordialmente y le agradezco sus amables palabras de bienvenida. Saludo, igualmente, a las Altas Autoridades aquí presentes y a todos los participantes. Como ya hicieron mis venerados Predecesores Pablo VI y Juan Pablo II, deseo renovar mi estima por la labor de la FAO, a la que la Iglesia Católica y la Santa Sede prestan atención e interés por el servicio cotidiano que desempeñan todos los que trabajan en ella. Gracias a vuestro generoso trabajo, sintetizado en el lema *Fiat Panis*, el desarrollo de la agricultura y la seguridad alimentaria siguen siendo objetivos prioritarios de la acción política internacional. Estoy seguro de que este espíritu orientará las decisiones de esta Cumbre, como también las que se tomen en el intento común por vencer cuanto antes la batalla contra el hambre y la malnutrición en el mundo.
+
+### 2 {#b16-spe-20091116-fao.2}
+
+La comunidad internacional esta afrontando en estos años una grave crisis económico-financiera. Las estadísticas muestran un *incremento dramático del número de personas que sufren el hambre* y a esto contribuye el aumento de los precios de los productos alimentarios, la disminución de las posibilidades económicas de las poblaciones más pobres, y el acceso restringido al mercado y a los alimentos. Y todo esto, mientras se confirma que la tierra puede nutrir suficientemente a todos sus habitantes. En efecto, si bien en algunas regiones se mantienen bajos niveles de producción agrícola a causa también de cambios climáticos, dicha producción es globalmente suficiente para satisfacer tanto la demanda actual, como la que se puede prever en el futuro. Estos datos indican que no hay una relación de causa-efecto entre el incremento de la población y el hambre, lo cual se confirma por la deplorable destrucción de excedentes alimentarios en función del lucro económico. En la Encíclica *[Caritas in veritate](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html),* he señalado que “el hambre no depende tanto de la escasez material, cuanto de la insuficiencia de recursos sociales, el más importante de los cuales es de tipo institucional. Es decir, falta un sistema de instituciones económicas capaces, tanto de asegurar que se tenga acceso al agua y a la comida de manera regular y adecuada desde el punto de vista nutricional, como de afrontar las exigencias relacionadas con las necesidades primarias y con las emergencias de crisis alimentarias reales...”. Y, he añadido también que: “el problema de la inseguridad alimentaria debe ser planteado en una perspectiva de largo plazo, eliminando las causas estructurales que lo provocan y promoviendo el desarrollo agrícola de los países más pobres mediante inversiones en infraestructuras rurales, sistemas de riego, transportes, organización de los mercados, formación y difusión de técnicas agrícolas apropiadas, capaces de utilizar del mejor modo los recursos humanos, naturales y socio-económicos, que se puedan obtener principalmente en el propio lugar, para asegurar así también su sostenibilidad a largo plazo” ([n. 27](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html#27)). En este contexto, hay que oponerse igualmente al recurso a ciertas formas de subvenciones que perturban gravemente el sector agrícola, la persistencia de modelos alimentarios orientados al mero consumo y que se ven privados de una perspectiva más amplia, así como el egoísmo, que permite a la especulación entrar incluso en los mercados de los cereales, tratando a los alimentos con el mismo criterio que cualquier otra mercancía.
+
+### 3 {#b16-spe-20091116-fao.3}
+
+En cierto sentido, la convocatoria de esta Cumbre es ya un testimonio de la debilidad de los actuales mecanismos de la seguridad alimentaria y la necesidad de una revisión de los mismos. De hecho, aunque los Países más pobres se han integrado en la economía mundial de manera más amplia que en el pasado, la tendencia de los mercados internacionales los hace en gran medida vulnerables y los obliga a tener que recurrir a las ayudas de las Instituciones intergobernativas, que sin duda prestan una ayuda preciosa e indispensable. Sin embargo, el concepto de *cooperación* debe ser coherente con el principio de *subsidiaridad,* se han de implicar “a las comunidades locales en las opciones y decisiones referentes a la tierra de cultivo” (*[ibíd](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html#27)*.), porque el desarrollo humano integral requiere decisiones responsables por parte de todos y pide una actitud solidaria que no considere la ayuda o la emergencia en función de quien pone a disposición los recursos o de grupos de élite que hay entre los beneficiarios. De cara a Países que manifiestan la necesidad que tienen de aportaciones exteriores, la Comunidad internacional tiene el deber de participar con los instrumentos de cooperación, sintiéndose corresponsable de su desarrollo, “mediante la solidaridad de la presencia, el acompañamiento, la formación y el respeto” ([*ibíd*., 47](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html#47)). Dentro de este contexto de *responsabilidad* está el derecho de cada País a definir su propio modelo económico, previendo los modos para garantizar la propia libertad de decisiones y de objetivos. En dicha perspectiva, la cooperación debe llegar a ser un instrumento eficaz, libre de vínculos e intereses que pueden restar una parte nada despreciable de los recursos destinados al desarrollo. Además, es importante subrayar cómo la vía solidaria para el desarrollo de los Países pobres puede llegar a ser también una vía de solución para la actual crisis global. En efecto, sosteniendo con planes de financiación inspirados en la solidaridad estas Naciones, para que ellas mismas sean capaces de satisfacer las propias demandas de consumo y de desarrollo, no sólo se favorece el incremento económico en su interior, sino que puede tener repercusiones positivas para el desarrollo humano integral en otros Países (cf. [*ibíd*., 27](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html#27)).
+
+### 4 {#b16-spe-20091116-fao.4}
+
+En la actual situación persiste todavía un nivel de desarrollo desigual *entre* y *en las* Naciones, que determina, en muchas áreas del planeta, condiciones de precariedad, acentuando la contraposición entre pobreza y riqueza. Esta desigualdad no sólo tiene que ver con los modelos de desarrollo, sino también, y sobre todo, con la forma que parece afianzarse de percibir un fenómeno como el de la inseguridad alimentaria. Existe el riesgo de que el hambre se considere como algo estructural, parte integrante de la realidad socio-política de los Países más débiles, objeto de un sentido de resignada amargura, si no de indiferencia. No es así, ni debe ser así. Para combatir y vencer el hambre es esencial empezar por *redefinir los conceptos y los principios aplicados hasta hoy en las relaciones internacionales*, así como responder a la pregunta: ¿qué puede orientar la atención y la consecuente conducta de los Estados respecto a las necesidades de los últimos? La respuesta no se encuentra en la línea de acción de la cooperación, sino en los principios que tienen que inspirarla: sólo en nombre de la común pertenencia a la familia humana universal se puede pedir a cada Pueblo, y por lo tanto a cada País, ser solidario, es decir, dispuesto a hacerse cargo de responsabilidades concretas ante las necesidades de los otros, para favorecer un verdadero compartir fundado en el amor.
+
+### 5 {#b16-spe-20091116-fao.5}
+
+No obstante, si bien *la solidaridad animada por el amor* excede la justicia, porque amar es dar, ofrecer lo “mío” a otro, ésta no existe nunca sin la *justicia*, que induce a dar al otro lo que es “suyo” y que le pertenece en razón de su ser y de su hacer. De hecho no puedo “dar” a otro de lo “mío”, sin haberle dado antes lo que le pertenece por justicia (cf. [*ibíd*., 6](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html#6)). Si se busca la eliminación el hambre, la acción internacional esta llamada no sólo a favorecer el crecimiento económico equilibrado y sostenible y la estabilidad política, sino también a buscar nuevos parámetros —necesariamente *éticos* y después *jurídicos* y *económicos*— que sean capaces de inspirar la actividad de cooperación para construir una relación paritaria entre Países que se encuentran en diferentes grados de desarrollo. Esto, además de colmar el desequilibrio existente, podría favorecer la capacidad de cada Pueblo de sentirse protagonista, confirmando así que la igualdad fundamental de los diferentes Pueblos hunde sus raíces en el origen común de la familia humana, fuente de los principios de la “ley natural” llamados a inspirar las opciones y las directrices de orden político, jurídico y económico en la vida internacional (cf. [*ibíd*., 59](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html#59)). A este respecto, San Pablo nos ilumina con sus palabras: “No se trata —escribe— de aliviar a otros pasando vosotros estrecheces; se trata de nivelar. En el momento actual, vuestra abundancia remedia la falta que ellos tienen; y un día, la abundancia de ellos remediará vuestra falta; así habrá nivelación. Es lo que dice la Escritura: “Al que recogía mucho, no le sobraba; y al que recogía poco, no le faltaba” (*2 Co* 8, 13-15).
+
+### 6 {#b16-spe-20091116-fao.6}
+
+Señor Presidente, Señoras y Señores, para combatir el hambre promoviendo un desarrollo humano integral es también necesario entender las necesidades del mundo rural, así como impedir que la tendencia a disminuir las aportaciones de los donantes cree incertezas en la financiación de las actividades de cooperación: se ha de evitar el riesgo de que el mundo rural pueda ser considerado, de modo miope, como una realidad secundaria. Al mismo tiempo, se ha de favorecer el acceso al mercado internacional de los productos provenientes de las áreas más pobres, hoy en día relegados a menudo a estrechos márgenes. Para alcanzar estos objetivos es necesario rescatar las reglas del *comercio internacional* de la lógica del provecho como un fin en sí mismo, orientándolas en favor de la iniciativa económica de los Países más necesitados de desarrollo, que, disponiendo de mayores entradas, podrán caminar hacia la autosuficiencia, que es el preludio de la seguridad alimentaria.
+
+### 7 {#b16-spe-20091116-fao.7}
+
+Tampoco se han de olvidar los derechos fundamentales de la persona entre los que destaca *el derecho a una alimentación suficiente*, *sana y nutritiva, y el derecho al agua*; éstos revisten un papel importante en la consecución de otros derechos, empezando por el derecho primario a la vida. Es necesario, por lo tanto, que madure “una conciencia solidaria que considere *la alimentación y el acceso al agua como derechos universales de todos los seres humanos, sin distinciones ni discriminaciones”* (*[Caritas in veritate](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html#27),* 27). Todo lo que la FAO ha realizado con paciencia, aunque por un lado ha favorecido la ampliación de los objetivos de este derecho sólo respecto a garantizar la satisfacción de las necesidades primarias, por otro lado, ha puesto de manifiesto la necesidad de una reglamentación adecuada.
+
+### 8 {#b16-spe-20091116-fao.8}
+
+Los métodos de producción alimentaria imponen igualmente un análisis atento de la relación entre el desarrollo y la *tutela ambiental*. El deseo de poseer y de usar en manera excesiva y desordenada los recursos del planeta es la primera causa de toda degradación ambiental. El cuidado ambiental, en efecto, se presenta como un desafío actual de garantizar un desarrollo armónico, respetuoso con el plan de la creación de Dios Creador y, por lo tanto, capaz de salvaguardar el planeta (cf. *ibíd*., [48](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html#48)-[51](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html#51)). Si toda la humanidad está llamada a tomar conciencia de sus propias obligaciones respecto a las generaciones venideras, es también cierto que el deber de tutelar el medio ambiente como un bien colectivo corresponde a los Estados y a las Organizaciones Internacionales. Desde este punto de vista, se debe profundizar en las conexiones existentes entre la seguridad ambiental y el fenómeno preocupante de los cambios climáticos, teniendo como *focus* la centralidad de la persona humana y, en particular, a las poblaciones más vulnerables ante ambos fenómenos. No bastan, sin embargo, normativas, legislaciones, planes de desarrollo e inversiones, hace falta un cambio en los estilos de vida personales y comunitarios, en el consumo y en las necesidades concretas, pero sobre todo es necesario tener presente ese deber moral de distinguir en las acciones humanas el bien del mal para redescubrir así el vínculo de comunión que une la persona y lo creado.
+
+### 9 {#b16-spe-20091116-fao.9}
+
+Es importante recordar —como he señalado en la Encíclica *Caritas in veritate*— que “la degradación de la naturaleza está estrechamente unida a la cultura que modela la convivencia humana: *cuando se respeta la «ecología humana» en la sociedad, también la ecología ambiental se beneficia”.* Es verdad que “el sistema ecológico se apoya en un proyecto que abarca tanto la sana convivencia social como la buena relación con la naturaleza”. Y que “*el problema decisivo es la capacidad moral global de la sociedad”.* Por tanto, “los deberes que tenemos con el ambiente están relacionados con los que tenemos para con la persona considerada en sí misma y en su relación con los otros. No se pueden exigir unos y conculcar otros. Es una grave antinomia de la mentalidad y de la praxis actual, que envilece a la persona, trastorna el ambiente y daña a la sociedad” ([*ibíd*., 51](https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html#51)).
+
+### 10 {#b16-spe-20091116-fao.10}
+
+El hambre es el signo más cruel y concreto de la pobreza. No es posible continuar aceptando la opulencia y el derroche, cuando el drama del hambre adquiere cada vez mayores dimensiones. Señor Presidente, Señoras y Señores, la Iglesia Católica estará atenta siempre a los esfuerzos para vencer el hambre; trabajará por sostener, con la palabra y con las obras, la acción solidaria —programada, responsable y regulada— que los distintos componentes de la Comunidad internacional estén llamados a emprender. La Iglesia no pretende interferir en las acciones políticas; ella, respetuosa del saber y de los resultados de las ciencias, así como de las decisiones determinadas por la razón cuando son responsablemente iluminadas por valores auténticamente humanos, se une al esfuerzo por eliminar el hambre. Es este el signo más inmediato y concreto de la solidaridad animada por la caridad, signo que no deja margen a retrasos y compromisos. Dicha solidaridad se confía a la técnica, a las leyes y a las instituciones para salir al encuentro de las aspiraciones de las personas, comunidades y Pueblos enteros, pero no debe excluir la dimensión religiosa, con su poderosa fuerza espiritual y de promoción de la persona humana. Reconocer el valor transcendente de cada hombre y mujer es el primer paso para favorecer la conversión del corazón que pueda sostener el esfuerzo para erradicar la miseria, el hambre y la pobreza en todas sus formas.
+
+Agradezco su atención y, para concluir, saludo con mis mejores deseos, en las lenguas oficiales de la FAO, a todos los Estados miembros de esta Organización:
+
+God bless your efforts to ensure that everyone is given their daily bread.
+
+Que Dieu bénisse vos efforts pour assurer le pain quotidien à chaque personne.
+
+Dios bendiga sus esfuerzos para garantizar el pan de cada día para cada persona.
+
+بَارَكَ اللهُ جُهُودَكُم لِضَمان الخُبْز اليَومِيِّ لِكُلِّ إنسان.
+
+为确保每一个人都能够得到他的日常食粮，愿天主降福你们的努力。
+
+Да благословит Господь ваши усилия, чтобы обеспечить каждого человека хлебом насущным.
+
+Gracias.
+
+\**L'Osservatore Romano.* Edición semanal en lengua española*,* n.47, pp.8-9.

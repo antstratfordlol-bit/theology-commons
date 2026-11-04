@@ -1,0 +1,92 @@
+---
+id: leo14-spe-20260608-spagna-vescovi.en
+work: leo14-spe-20260608-spagna-vescovi
+title: "Apostolic Journey to Spain: Meeting with the Bishops of Spain at the offices of the Episcopal Conference (Madrid, 8 June 2026)"
+creator: "Leo PP. XIV"
+pope: Leo XIV
+document-type: Address
+url_date: 2026-06-08
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/leo-xiv/en/speeches/2026/giugno/documents/20260608-spagna-vescovi.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#leo14-spe-20260608-spagna-vescovi} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Apostolic Journey to Spain: Meeting with the Bishops of Spain at the offices of the Episcopal Conference (Madrid, 8 June 2026) {#leo14-spe-20260608-spagna-vescovi}
+[APOSTOLIC JOURNEY OF HIS HOLINESS POPE LEO XIV\
+**TO SPAIN**](https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html)\
+(6-12 JUNE 2026)
+
+## ENCOUNTER WITH BISHOPS OF SPAIN
+
+## ADDRESS OF HIS HOLINESS POPE LEO XIV
+
+*Offices of the Episcopal Conference (Madrid)\
+Monday, 8 June 2026*
+
+\[[**Multimedia**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/6/8/spagna-vescovi.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Dear Brothers in the Episcopate,*
+
+It is a great joy for me to be with you on the third day of [my Apostolic Journey to Spain](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/6/programma-viaggio-spagna.html). After greeting the political representatives who welcomed me in Parliament, I would now like to take advantage of this time together to rekindle our communion, as Jesus counseled his apostles to do (cf. *Mk* 6:31). I thank Bishop Luis Javier Argüello García for his kind words as President of the Conference and on behalf of all of you. I hope that my own words will contribute to that dialogue in the Spirit, which involves welcoming all the good that the Lord speaks to us through our brothers and sisters. The synodal journey undertaken by the Church is a process of attentive listening. Being able to recognize the voice of God speaking through the ecclesial community is one of its fundamental values.
+
+Yours is a fruitful dialogue which, as a Church, you are formulating in various ways. One concrete example is the conferences that you hold. I would like to focus on those that took place in 2020 and 2025, which have had a significant impact: “People of God Going Forth” and “For Whom Am I? Assembly of Those Called to Mission.” The themes address essential questions: How can we face today’s challenges? And who is called to take up this challenge?
+
+In my contribution to this reflection, I would like to propose the image of a journey whose destination is God, toward whom we lift our gaze. It is a *sui generis* journey, since we do not move physically, but we wish to let our hearts soar.
+
+One temptation that can arise when traveling is that of fixating on what we leave behind — places, things, ways of life — without opening ourselves, in docility to the Spirit, to the newness of what we encounter. Along with this temptation, there is also that of our luggage, which, for similar reasons, we fill with useless things that end up being a burden. At the same time, we must not forget something we learn from the troubles of so many migrants: a person who is alone, without roots and without resources, suffers terribly and finds it very difficult to establish solid bonds in the place where they arrive.
+
+Thus, in this first phase of our journey, our response to the question of how to face the challenge before us must prudently combine freedom and courage, so that we may leave behind structures that do not help us, do not respond to our needs, or even lead us away from our goal, while having the strength to treasure what facilitates it. How can we fail to recall here the immense Christian heritage of your land, the enormous power of attraction that this richness offers: through its beauty, which reaches even the non-believer, or through the bonds of belonging weaved into the spiritual identity of every corner of this beloved people, and which remains present even in moments when their faith wavers? This is undoubtedly a tremendous challenge, to which we are called to respond with courage, so that this heritage may reach its potential in bearing good fruit.
+
+Another treasure we cannot forget in our backpack is the pilgrim’s Viaticum. The Bread of the Word and of the Eucharist are even more necessary to us than material food because they open for us the way to salvation. It is not a matter of how to make the celebration more or less attractive; it is about feeling that, if we are part of him, his absence causes in us a restlessness comparable to physical hunger. The sacramental life gives rhythm to our existence, like that of a child receiving nourishment from its mother, or like that of an athlete gauging the strength needed to reach the finish line.
+
+One great difficulty that arises when traveling is that of communicating with others. Whether due to different languages and cultures, mistrust of the unknown, or the quarrels and misunderstandings that can arise even among those close to us, we feel limited when it comes to expressing ourselves or understanding the person with whom we are speaking. We can apply this experience to the proclamation of the Gospel, to welcoming others, to the ability to respond to the questions of the world around us, or to the need to foster shared responsibility among community members in our pastoral actions. We previously said that we must leave behind everything that holds us back and isolates us; here, the guiding principle is that our heritage should be an instrument and an opportunity for dialogue with those we encounter along the way.
+
+As happens to pilgrims on the Camino de Santiago, on our journey we see before us those vast and bare Castilian plains. The few encounters pilgrims have with some elderly people or foreign workers can serve as a metaphor for many social situations that, unfortunately, exist in some of your ecclesial realities. This is not the first time Spain has faced such a situation: in the past, for example, when the Church had to rebuild its presence in scorched lands, models of evangelization emerged that were later exported to the Americas, and they can help us here in our mission.
+
+We too are called to build a new reality through respectful dialogue and the use of new languages, like the famous “holy mufti” of Granada, Friar Hernando de Talavera, and later Saint Toribio de Mogrovejo in the Americas, an exemplary bishop who reached out to others in a time of mission and ecclesial reorganization and whose third centenary of canonization we are celebrating. Although the languages in this digital age are different and the cultures that now make up the mosaic of our realities — with migrants from all parts of the world — have also changed, the spirit must remain.
+
+What are the essential elements of that spirit? The first is the ability to communicate, to speak to every reality present in our territory, to humble oneself so as not only to understand, but to share. Only by gathering all the good that exists in our own heritage, with each of us doing our part, can we build a new reality in which faith can take deep root. Naturally, to make this happen, we must begin by learning the language of the other, initiating processes and weaving bonds where we can sow the seed of the kingdom. The second is the call to create realities that are capable in themselves of communicating the experience of faith, that are capable of bringing — as Toribio did — the experience of Granada to the Americas, that is, of packing in our luggage the resources that allow us to face with openness the ever-new challenges of evangelization in every circumstance.
+
+After the deserted plains, we will also encounter large cities, where silence and distance are not spatial but interpersonal. The responses will be different, but the processes for reaching them are analogous: listening, understanding, respect, generosity and openness.
+
+Pilgrims often set out at night, and the initial darkness of the path can often frighten them. The vespers hymn, “Night is the time of salvation,” reminds us that if we are in good company, the difficulties of the journey and the danger of getting lost are reduced. It is the Lord who leads us; he is the master of history and of each of our stories. He determines the rhythm. We walk behind him; indeed, we walk with him as members of one body. This profound bond demands of the Church, in this time of increasingly drastic polarizations and oppositions, a witness to unity in diversity: a communion capable of embracing the richness of the gifts, charisms and sensibilities that the Holy Spirit stirs up in the people of God. The image of Christ is made visible in the living mosaic of the Church, where many tiles, without blending together, converge to reveal the beauty of the one Lord.
+
+In this task, the ministry of the bishop takes on a particular significance. We are called to be a visible sign of communion: first and foremost, of communion with Christ, lovingly safeguarding the faith we have received, in docility to the Word of God and to the living Tradition of the Church. Secondly, in communion with the Successor of Peter and with the universal Church, with the presbyterate and with the diocesan community itself, with consecrated life, with movements, with associations, and with every authentic charism that the Spirit bestows for the common good. Your mission calls you to safeguard unity, foster dialogue, heal divisions and accompany the journey of the people entrusted to your care.
+
+Communion lived in this way also brings about missionary vitality. A Church that is interiorly at peace can speak more freely to brothers and sisters of other Christian denominations and other religions, to those who do not believe, to civil authorities, and to all people of good will who work for the common good.
+
+This call to be a sign of communion in Christ — walking in unity and reaching out to the brother or sister we meet — places us before another challenge that touches the hearts of many today: the difficulty of making definitive commitments and profound life decisions. For so many young people — and not only them — the question, “For whom am I?” resonates as a sincere search for meaning, belonging and self-giving. The human heart is not filled by accumulating experiences, possibilities or a fleeting sense of security; it is filled when it discovers a calling, when it understands that life reaches its fullness only if it is given away.
+
+For this reason, vocational ministry cannot be reduced to a mere pursuit of numbers. It springs from living communities, from happy priests, from families capable of bearing witness to the beauty of fidelity, from a Church that knows how to show with simplicity that following Christ does not impoverish existence, but rather expands it. Where the Gospel is lived with joy, service and communion, the Lord’s call can also be heard anew as a promise of life.
+
+Previously, we mentioned burdensome luggage. Pilgrims on the Camino de Santiago know well that only the essentials should be carried in a backpack. As [Pope Francis](https://www.vatican.va/content/francesco/en.html) often said, in the current vocational context, the preservation of structures cannot take precedence over the good of the vocation itself. Seminarians have a right to the best possible formation, and the Church, for her part, has a right to well-formed priests. The criterion for seminaries to be authentic houses of formation is that they ensure an adequate experience of community life; that they have formators fully dedicated to study and teaching, with experience in spiritual accompaniment; and that they have centers of higher theological learning, equipped with the necessary means to fulfill their mission. To this end, it is essential not only to join forces but also to learn to work together in managing these challenges.
+
+In this sphere, difficulties can be seen as opportunities. At times, we find it difficult to explain the vocation of the laity and their integration into this journey of life that we as a Church are undertaking. On the other hand, we see how in many ministries, traditionally managed by religious, lay collaborators are being called upon to continue the work. It is a difficulty that we can turn into an opportunity for encounter, dialogue and communication. It is up to us to ensure that these laypeople come to perceive their participation in this ecclesial service as a call from God to take on their responsibility as Christians, internalizing the spirit and feeling part of the mission that the Lord entrusted to the religious who established it.
+
+As you can see, our journey is made up of encounters, and we will also meet people who are going through dark times and who call on us to be their Good Samaritans. One of the most painful encounters is with those who have been wounded precisely by those who were supposed to care for them, including members of the clergy. Faced with this scourge, the ecclesial community is called to respond with listening, truth, justice, reparation and an ever more determined commitment to prevention and a culture of care. Every wounded person must be able to find sincere listening, welcome, protection and real paths to healing.
+
+This same logic also applies to the challenges of a secularized world. Many men and women of our time do not directly reject God; often they carry in their hearts a deep thirst for meaning, truth, belonging and hope, even when they do not know how to name it. The Church is called to recognize these longings, to listen to them with respect, and to offer — as Peter and John did to the paralytic at the temple gate — the treasure entrusted to her: Jesus Christ, in whose name a person can rise and walk (cf. *Acts* 3:1–10). When collaborating with other religious or civil institutions, and also when offering material aid, education, assistance or support for human development, the Church never ceases to offer what is uniquely her own: the love of God revealed in Christ. That message resonates in society, which does not hesitate to express its appreciation for many of these works. Thus, every gesture of Christian charity born of the Gospel carries within it a greater promise: to restore to the person the conviction of being loved.
+
+On our journey, we are travelling through what [Saint John Paul II](https://www.vatican.va/content/john-paul-ii/en.html) chose to call “Mary’s Land” (*Homily at the Celebration of the Word and National Marian Ceremony*, Zaragoza, 6 November 1982, 1). In the Blessed Virgin, the mother of communion and hope, you have your first companion on the journey and your greatest treasure, for she shows us through her life how to welcome the Word and keep it in our hearts, how to accompany the disciples on this path and how to remain present on the Church’s journey. To her I entrust your ministry, that she may help you to be, in the midst of the people entrusted to you, that hidden leaven mentioned in the Gospel. Small in the eyes of the world, yet capable, when united to Christ, of leavening the dough (cf. *Mt* 13:33). The strength of the Church does not come from the greatness of her resources, but from the holiness of her children, from the communion of her pastors, and from the humble and persevering fidelity of those who allow themselves to be guided by the Spirit.
+
+On this journey, Saint John of Avila, patron of the Spanish clergy, also accompanies you as we commemorate this year the fifth centenary of his priestly ordination. [Saint Paul VI](https://www.vatican.va/content/paul-vi/en.html) described him as “a benevolent and wise teacher of the spiritual life, an exemplary renovator of ecclesiastical life and Christian customs” and, at the same time, “a simple priest” (*Homily at the Canonization of Blessed John of Avila*, 31 May 1970). In this holy Doctor of the Church, the Church recognizes the priestly life that every bishop is called to safeguard and foster within his own presbyterate.
+
+Looking to him, I am reminded of those who are the bishops’ closest companions on this journey: “simple priests,” in the highest and most demanding sense of the term. Our journey with them should convey the importance of the essentials: to be priests who are in love with Christ, rooted in prayer, faithful to the Church, close to the people, and capable of uniting sound doctrine, apostolic zeal and pastoral charity. Priests who find in the bishop not only a recognized authority, but a father who accompanies them; and in the other priests, brothers with whom to share the hardships and joys of this pilgrimage that is full of encounters, through which we all seek Christ.
+
+Let us conclude this spiritual journey with a prayer from the holy Doctor, who reminds us that every ecclesial renewal is born of a heart conformed to Christ: “If you command me, Lord, to do what you did, give me your heart” (*Sermon* 57:20). Let this also be our plea: Lord, give us your heart, a heart capable of lifting its gaze toward you, of setting out on the journey, of listening, of discerning, of serving, of correcting with charity, of attending with patience and of proclaiming with joy. For the Church that receives the heart of Christ carries with her the pillar of fire that guides her, sustains her, defends her and comforts her — necessary provisions to face any challenge.
+
+God bless you. Thank you very much.

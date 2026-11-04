@@ -1,0 +1,48 @@
+---
+id: jp2-spe-20000714-arcivescovo-napoli.en
+work: jp2-spe-20000714-arcivescovo-napoli
+title: "Message to the Archbishop of Naples (July 14, 2000)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2000-07-14
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2000/jul-sep/documents/hf_jp-ii_spe_20000714_arcivescovo-napoli.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#jp2-spe-20000714-arcivescovo-napoli} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Message to the Archbishop of Naples (July 14, 2000) {#jp2-spe-20000714-arcivescovo-napoli}
+## MESSAGE OF JOHN PAUL II TO CARDINAL MICHELE GIORDANO, ARCHBISHOP OF NAPLES
+
+*To my Venerable Brother Cardinal Michele Giordano \
+Archbishop of Naples*
+
+I have learned with joy that during the Jubilee Year this Archdiocese intends to commemorate an important anniversary, linked to an historical fact and living reality dear to the people of Naples. This is the fifth centenary of the devout pilgrimage which brought a large group of faithful carrying the icon of "*The Brown Virgin"* from Naples to Rome. This event led to the widespread practice of the "*Wednesdays of Mount Carmel*", an expression of Marian devotion in which, as in other similar displays of popular faith, one can see a reflection of the motherly kindness of Mary Most Holy.
+
+This significant occasion recalls to my mind and heart the homage that I had the joy of paying to this icon during my visit to the city and Archdiocese of Naples almost 10 years ago. With deep emotion I address you, Venerable Brother, and the beloved Neapolitan diocesan community, expressing heartfelt wishes for a generous, fruitful ecclesial journey, constantly placed under the watchful and maternal protection of the Blessed Virgin Mary.
+
+My revered Predecessor, the Servant of God Paul VI, on the occasion of the first centenary of the solemn crowning of the image of the *"Brown Virgin"* wrote:  "The People of God love with immense love the Mother of their Lord, the star of their sky, the haven of their wanderings" (*Letter to Cardinal Corrado Ursi,* 4 July 1975). On our earthly pilgrimage, Mary is the biblical "pillar of fire" lighting our way, the "guiding star" to our heavenly homeland, the "safe haven" in which to find comfort and refuge. Guided by her, the faithful advance confidently, aware of her sweet presence constantly leading them to Christ. Through the Mother, in fact, we meet her Son Jesus and, strengthened by his support, have no reason to tremble in the face of difficulties, but can always feel ready to respond generously to the action of the Holy Spirit.
+
+The Church thus advances amid the trials of this world and the consolations of God towards the fulfilment of the kingdom in its eschatological phase. This journey grows through an ever closer communion with God and with our brethren; therefore, "especially in our own time, \[it\] is marked by the sign of ecumenism" (*[Redemptoris Mater](http://www.vatican.va/edocs/ENG0224/_INDEX.HTM),* n. 29). Mary, Mother of the Church, Mother of unity, hope and love, journeys with us. She spurs us to ever deeper communion with the Holy Trinity; she encourages us, by following the Word of God, to be builders of unity and peace with all our brothers and sisters, and to share with those who are joined by their faith in Christ. "Do whatever he tells you" (*Jn* 2: 5), Mary said to the servants at the wedding in Cana. She repeats the same command to us today, inviting us to follow the example of her Son, who left the commandment of love and unity to his disciples as a testament.
+
+I warmly encourage the beloved Ecclesial Community of Naples, comforted by Our Lady's maternal intercession, to continue unceasingly in this effort of spiritual renewal and of constant search for unity and communion.
+
+I express this wish on so important an anniversary, thinking back to my Pastoral Visit 10 years ago. I pause in spirit, as I did then, before the *"Brown Virgin"* in Piazza del Plebiscito and say again to her:  "O Mother, protect the city of Naples! Guide her sons and daughters along the path of justice and brotherhood! Strengthen their faith, make them courageous witnesses of the Gospel and ardent builders of peace" (*Insegnamenti* XIII/2 \[1990\], 1111).
+
+Mary Most Holy, kindly turn your motherly gaze upon the people of Naples and let them always feel the power of your intercession. Be a gentle and merciful Mother. Watch over them all and over each one in particular!
+
+With these wishes, as I assure you of my prayerful spiritual participation in the centenary celebrations, I affectionately impart to you, Venerable Brother, and to the clergy, the religious and the entire Christian community of Naples, a special Apostolic Blessing.
+
+*From the Vatican, 29 June 2000.*

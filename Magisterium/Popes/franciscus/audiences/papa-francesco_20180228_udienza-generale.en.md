@@ -1,0 +1,55 @@
+---
+id: francis-aud-20180228.en
+work: francis-aud-20180228
+title: "General Audience of 28 February 2018"
+creator: "Franciscus PP."
+pope: Francis
+document-type: General audience (catechesis)
+url_date: 2018-02-28
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/audiences/2018/documents/papa-francesco_20180228_udienza-generale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt"
+anchors: "{#francis-aud-20180228} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# General Audience of 28 February 2018 {#francis-aud-20180228}
+POPE FRANCIS
+
+## GENERAL AUDIENCE
+
+*Wednesday, 28 February 2018*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2018/2/28/udienzagenerale.html)\]
+
+*Dear Brothers and Sisters, Good morning!*
+
+Let us continue with the catechesis on the Holy Mass. The Liturgy of the Word — on which I focused in the last catecheses — is followed by the main part of the Mass which is the *Liturgy of the Eucharist.* In it, through its holy signs, the Sacrifice of the new covenant sealed by Jesus on the altar of the Cross is made continually present by the Church (cf. [Second Vatican Ecumenical Council](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Constitution *[Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*, 47). The Cross was the first Christian altar, and when we approach the altar to celebrate Mass, our memory turns to the altar of the Cross where the first sacrifice was made.
+
+The priest, who represents Christ in the Mass, does what Christ himself did and entrusted to the disciples at the Last Supper: *he took the bread and the cup, gave thanks, gave it to his disciples* and said: “Take, eat ... drink: this is my body.... This is the cup of my blood. Do this in memory of me”.
+
+Obedient to Jesus’ commands, the Church organized the Eucharistic Liturgy into *moments which correspond to the words and the actions performed by him* on the eve of his Passion. Thus in the *preparation of the gifts*, the bread and the wine — that is, the elements which Christ took into his hands — are brought to the altar. In the *Eucharistic Prayer*, we give thanks to God for the whole work of redemption, and the offerings become the Body and Blood of Jesus Christ. This is followed by the *breaking of the Bread and Communion*, through which we relive the experience of the Apostles who received the Eucharistic gifts from Christ’s own hands (cf. [*General Instruction of the Roman Missal*, 72](http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html#C._The_Liturgy_of_the_Eucharist)).
+
+Jesus’ first gesture: “he took the bread and the cup of wine”, thus corresponds to the *preparation of the gifts*. This is the first part of the Liturgy of the Eucharist. It is praiseworthy that the faithful should present the bread and wine to the priest because they symbolize the spiritual offering of the Church assembled for the Eucharist. It is good that the faithful themselves bring the bread and wine to the altar. “Even though the faithful no longer bring from their own possessions the bread and wine intended for the liturgy as in the past, nevertheless the rite of carrying up the offerings still retains its force and its spiritual significance” ([*ibid*., 73](http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html#C._The_Liturgy_of_the_Eucharist)). And in this regard, it is significant that in ordaining a priest, when the Bishop gives him the bread and wine he says: “Accept from the holy people of God the gifts to be offered for the Eucharistic sacrifice” (cf. *Pontificale Romanum — Ordination of Bishops, Priests and Deacons*). The People of God who bring the offering, the bread and wine, the great offering for the Mass!
+
+Therefore, in the symbols of the bread and the wine, the faithful place their offering in the hands of the priest who places them on the altar, or the Lord’s Table, “which is the centre of the whole Liturgy of the Eucharist” ([girm, 73](http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html#C._The_Liturgy_of_the_Eucharist)). Thus, the centre of the Mass is the altar and the altar is Christ. We must always look to the altar which is the centre of the Mass. In the “fruit of the earth and the work of man” the commitment of the faithful to obey the Divine Word is offered as a “sacrifice acceptable to the Almighty Father”, “for the good of all his holy Church”. Thus, “the lives of the faithful, their praise, sufferings, prayer and work, are united with those of Christ and with his total offering, and so acquire a new value” (*Catechism of the Catholic Church*, 1368).
+
+Certainly our offering is small but Christ needs this small amount. The Lord asks little of us and he gives us so much. He asks for little. He asks us for good will in our ordinary lives; he asks us for an open heart; he asks us to seek to be better in order to welcome the One who offers himself to us in the Eucharist; he asks us for these symbolic offerings which will become his Body and Blood. An image of this offering of prayer is represented by incense which, consumed by fire, releases a perfumed smoke that rises upwards: incensing the offerings, as is done on feast days, incensing the Cross and the altar, the priest and the priestly people visibly manifest their bond of offering which unites these realities to Christ’s Sacrifice (cf. [girm, 75](http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html#C._The_Liturgy_of_the_Eucharist)). And do not forget: there is the altar which is Christ, but always in reference to the first altar which is the Cross and, upon the altar which is Christ, we bring our small gifts, the bread and the wine which will become so much: Jesus himself who gives himself to us.
+
+And all of this is also expressed in the *prayer over the offerings*. In it, the priest asks God to accept the gifts offered by the Church, invoking the fruit of the extraordinary exchange between our poverty and his richness. In the bread and wine, we present to him the offering of our life so that it may be transformed by the Holy Spirit in the Sacrifice of Christ and become with him a single spiritual offering pleasing to the Father. While the offerings conclude the preparation of the gifts, they prepare us for the Eucharistic Prayer (cf. [*ibid.*, 77](http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html#C._The_Liturgy_of_the_Eucharist)). May the *spirituality of self-giving* that this moment of Mass teaches us illuminate our days, our relationships with others, the things we do, the suffering we encounter, helping us to build up the earthly city in the light of the Gospel.
+
+## Special greetings:
+
+I greet the English-speaking pilgrims and visitors taking part in today’s Audience, particularly those from England, Denmark, Norway, Sweden, Slovakia and the United States of America. With prayerful good wishes that this Lent will be a time of grace and spiritual renewal for you and your families, I invoke upon all of you joy and peace in our Lord Jesus Christ. God bless you!
+
+Lastly, I greet *young people*, *the elderly*, *the sick* and *newlyweds*. Lent is a favourable time to intensify spiritual life: may the practice of fasting help you, dear *young* *people*, to acquire a greater mastery over yourselves; may thinking about the future help you, dear *elderly*, to give hope to the young: speak with them; may prayer be for you, dear *sick* *people*, a means to entrust your suffering to God and to feel him ever closer; may works of charity help you, dear *newlyweds,* to live your conjugal life always oriented toward the needs of your brothers and sisters.

@@ -1,0 +1,64 @@
+---
+id: b16-ang-20060122.en
+work: b16-ang-20060122
+title: "Angelus, 22 January 2006"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Angelus / Regina Caeli
+url_date: 2006-01-22
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/angelus/2006/documents/hf_ben-xvi_ang_20060122.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#b16-ang-20060122} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 22 January 2006 {#b16-ang-20060122}
+BENEDICT XVI
+
+## ANGELUS
+
+*St Peter's Square\
+Sunday, 22 January 2006*
+
+*Dear Brothers and Sisters,*
+
+This Sunday falls in the middle of the "Week of Prayer for Christian Unity", celebrated every year from 18-25 January. It is an initiative that began at the start of the last century and which has undergone a positive development, becoming more and more an ecumenical reference point where Christians of the various confessions worldwide pray and reflect on the same biblical text.
+
+The passage chosen this year is taken from Chapter 18 of the Gospel of St Matthew, which refers to some of Jesus' teachings regarding the community of disciples. Among other things, he affirms:  "If two of you agree on earth about anything they ask, it will be done for them by my Father in heaven. For where two or three are gathered in my name, there am I in the midst of them" (Mt 18: 19-20).
+
+How much trust and hope these words of the Lord Jesus inspire! They especially spur Christians to ask God together for that full unity among them, for which Christ himself prayed to the Father with heartfelt insistence during the Last Supper (cf. Jn 17: 11, 21, 23).
+
+We understand well, therefore, how important it is that we Christians invoke the gift of unity with persevering fidelity. If we do so with faith, we can be sure that our request will be granted. We do not know when or how, as it is not for us to know; but we must not doubt that one day we will be "one", as Jesus and the Father are united in the Holy Spirit.
+
+The prayer for unity is the soul of the ecumenical movement which, thanks be to God, advances throughout the world. Certainly, difficulties and trials are not lacking; but these too have their spiritual usefulness because they push us to exercise patience and perseverance and to grow in fraternal charity.
+
+God is love, and only if we are converted to him and accept his Word will we all be united in the one Mystical Body of Christ.
+
+The expression "God is love", in Latin *"Deus caritas est",* is the title of my first Encyclical, which will be published this Wednesday, 25 January, Feast of the Conversion of St Paul. I am pleased that it coincides with the conclusion of the Week of Prayer for Christian Unity.
+
+On that day, I will be going to St Paul's Basilica to preside at Vespers, in which Representatives of the other churches and ecclesial communities will take part. May the Virgin Mary. Mother of the Church, intercede for us.
+
+## After the Angelus:
+
+Five hundred years ago, on 22 January 1506, Pope Julius II welcomed and blessed the first contingent of Swiss Guards who came to Rome to ensure the defence of his person and of the Apostolic Palace. Thus was born the Papal Swiss Guard, whom we see in all its splendour gathered in front of us in St Peter's Square. Thank you for your 500 years of service! In recalling that historical event, I am pleased to greet all those who make up this distinguished Corps, to whom, as a sign of appreciation and recognition, I impart my heartfelt Apostolic Blessing.
+
+I greet all the English-speaking visitors present at today's Angelus. During this Week of Prayer for Christian Unity, let us ask the Lord to grant that all his followers may be one, so that the world may believe (cf. Jn 17: 20-21). May all Christians intensify their efforts to be builders of unity in truth and love!
+
+\*\*\*
+
+## Appeal for Africa
+
+Among the many concerns for the international situation, my thought today returns to Africa and especially to Côte d'Ivoire, where grave tensions persist among the Country's different social and political components. I invite all to continue with constructive dialogue in order to attain reconciliation and peace. I entrust these intentions to the intercession of the Holy Virgin, so beloved by the Ivorian people.
+
+I wish everyone a good Sunday!

@@ -1,0 +1,44 @@
+---
+id: b16-spe-20080229-pc-cor-unum.en
+work: b16-spe-20080229-pc-cor-unum
+title: "To participants in the Plenary Assembly of the Pontifical Council Cor Unum (February 29, 2008)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2008-02-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2008/february/documents/hf_ben-xvi_spe_20080229_pc-cor-unum.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#b16-spe-20080229-pc-cor-unum} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To participants in the Plenary Assembly of the Pontifical Council Cor Unum (February 29, 2008) {#b16-spe-20080229-pc-cor-unum}
+## ADDRESS OF BENEDICT XVI TO PARTICIPANTS IN THE PLENARY ASSEMBLY OF THE PONTIFICAL COUNCIL "COR UNUM"
+
+*Clementine Hall\
+Friday, 29 February 2008*
+
+*Your Eminences,\
+Venerable Brothers in the Episcopate and in the Priesthood,\
+Dear Brothers and Sisters,*
+
+I am pleased to meet you on the occasion of the Plenary Assembly of the Pontifical Council *Cor Unum*. To each of you taking part in this gathering, I offer my cordial best wishes. In a special way, I greet Cardinal Paul Josef Cordes, whom I thank for his gracious words, Monsignor Secretary and all the Members and Officials of the Pontifical Council *Cor Unum*. The theme of your reflection in these days – “*The human and spiritual qualities of those engaged in the charitable activity of the Church*” – touches an important element of the Church’s life. It deals, in fact, with those who carry out among the People of God an indispensable service, the *diakonia* of charity. It was precisely to the theme of charity that I wished to dedicate my first Encyclical *[Deus caritas est](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)*.
+
+For this reason, I willingly take this opportunity to express my particular gratitude to those who, in various ways, work in the field of charity, showing with their deeds that the Church makes herself present in a concrete way alongside those who find themselves caught up in different forms of trouble or suffering. For this ecclesial action, it is the Pastors who have the overall and ultimate responsibility with regard to both calling attention to and realizing projects of human development, especially in the case of less fortunate Communities. Let us give thanks to God for the many Christians who give of their time and energy to make available not only material aid, but also support through consolation and hope for those in difficult conditions, nurturing a constant solicitude for the true well-being of the human person. Charitable activity thus occupies a central place in the evangelising mission of the Church. We must not forget that works of charity constitute a privileged meeting place also for those who do not know Christ or know Him only partially. Quite rightly, then, the Pastors and those responsible for the pastoral of charity pay constant attention to those who work in the sphere of *diakonia*, taking care to form them on both the human and professional, as well as the theological-spiritual and pastoral level.
+
+In this moment, much relevance is given to continuing formation in society as well as the Church, seen in the blossoming of institutions and centres set up to provide useful instruments for acquiring specific technical skills. It is essential, however, for those who work in the Church’s charitable organizations to receive that “formation of the heart,” which I cited in the Encyclical *[Deus caritas est](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)* (n. 31a): intimate and spiritual formation that, from the encounter with Christ, ignites that sensibility of the soul, which alone allows for the deepest knowledge and satisfaction of the human person’s longings and needs. This exactly is what enables the acquisition of the same sentiments of merciful love that God enkindles for each individual. In moments of suffering and pain, this is the approach needed. Those who operate in the multiple forms of the Church’s charitable activity cannot, therefore, confine themselves only to the technical presentation or resolving material problems and difficulties. The help that is offered should never be reduced to a philanthropic gesture, but must be a tangible expression of evangelical love. Those, then, who offer their service in favour of the human person in parish, diocesan and international organizations do so in the name of the Church and are called to make shine in their activity an authentic experience of the Church.
+
+In this vital sector, therefore, a valid and effective formation cannot but aim at better qualifying those who are engaged in various charitable activities, so that they are also and above all witnesses of evangelical love. This they are if their mission is not exhausted by being social service workers, but rather heralds of the Gospel of charity. Following in the footsteps of Christ, they are called to be *witnesses of the value of life*, in all of its expressions, protecting most especially the life of the weak and sick, after the example of [Blessed Mother Teresa of Calcutta](http://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20031019_madre-teresa_en.html), who loved and cared for the dying, since life is not measured by its efficiency but always has value and for everyone. In the second place, these ecclesial workers are called to be *witnesses of love* by virtue of the fact that we are fully human when we live for the other; no one can die and live for himself; happiness is not found in the solitude of a life closed in on itself, but in the gift of self. Finally, whoever works within the sphere of the Church’s activity, must be *witnesses of God*, Who is the fullness of love and invites us to love. The source of every deed done by those who work in the Church is God, Creator and Redeemer love. As I wrote in *[Deus caritas est](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)*, we are able to practice love because we have been created in the divine image and likeness in order to “experience love and in this way cause the light of God to enter into the world” (n. 39). This is the invitation I wanted to extend with this Encyclical.
+
+How great the meaning then, that you can draw from your activity! And how precious this is for the Church! I rejoice that, precisely to render the Church an ever-greater witness of the Gospel, the Pontifical Council *Cor Unum* has promoted this coming June a course of Spiritual Exercises in Guadalajara for the Presidents and Directors of the charitable organizations in the American continent. This shall serve to fully recuperate the human and Christian dimension, which I have just mentioned, and I hope that in the future this initiative can be extended to other regions of the world, too. Dear friends, in thanking you for what you do, I assure you that I will remember you with affection in my prayer, and upon each of you and your work, I impart from my heart a special Apostolic Blessing.

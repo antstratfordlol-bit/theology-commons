@@ -1,0 +1,70 @@
+---
+id: francis-spe-20180621-pellegrinaggio-ginevra.es
+work: francis-spe-20180621-pellegrinaggio-ginevra
+title: "Peregrinación ecuménica a Ginebra: Encuentro ecuménico (Centro Ecuménico CMI, 21 de junio de 2018)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2018-06-21
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2018/june/documents/papa-francesco_20180621_pellegrinaggio-ginevra.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#francis-spe-20180621-pellegrinaggio-ginevra} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Peregrinación ecuménica a Ginebra: Encuentro ecuménico (Centro Ecuménico CMI, 21 de junio de 2018) {#francis-spe-20180621-pellegrinaggio-ginevra}
+[PEREGRINACIÓN ECUMÉNICA DEL PAPA FRANCISCO\
+A GINEBRA CON OCASIÓN DEL 70 ANIVERSARIO DE LA FUNDACIÓN\
+DEL CONSEJO MUNDIAL DE IGLESIAS](http://w2.vatican.va/content/francesco/es/travels/2018/outside/documents/papa-francesco-ginevra_2018.html)
+
+## ENCUENTRO ECUMÉNICO
+
+## DISCURSO DEL SANTO PADRE
+
+*Centro Ecuménico (Ginebra)\
+Jueves, 21 de junio de 2018*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2018/6/21/incontroecumenico-ginevra.html)**\]
+
+*Queridos hermanos y hermanas:*
+
+Me es grato encontrarme con vosotros y os agradezco vuestra amable acogida. En particular, doy las gracias al Secretario General, Reverendo Dr. Olav Fykse Tveit, y a la Moderadora, Dra. Agnes Abuom, por sus palabras y por haberme invitado con ocasión del 70º aniversario de la institución del Consejo Ecuménico de las Iglesias.
+
+En la Biblia, setenta años evocan un período de tiempo cumplido, signo de la bendición de Dios. Pero setenta es también un número que hace aflorar en la mente dos célebres pasajes evangélicos. En el primero, el Señor nos ha mandado perdonarnos no siete, sino «hasta setenta veces siete» (*Mt* 18,22). El número no se refiere desde luego a un concepto cuantitativo, sino que abre un horizonte cualitativo: no mide la justicia, sino que inaugura el criterio de una caridad sin medida, capaz de perdonar sin límites. Esta caridad que, después de siglos de controversias, nos permite estar juntos, como hermanos y hermanas reconciliados y agradecidos con Dios nuestro Padre.
+
+Si estamos aquí es gracias también a cuantos nos han precedido en el camino, eligiendo la senda del perdón y gastándose por responder a la voluntad del Señor: «que todos sean uno» (*Jn* 17,21). Impulsados por el deseo apremiante de Jesús, no se han dejado enredar en los nudos intrincados de las controversias, sino que han encontrado la audacia para mirar más allá y creer en la unidad, superando el muro de las sospechas y el miedo. Tenía razón un antiguo padre en la fe cuando afirmaba: «Si el amor logra expulsar completamente al temor y este, transformado, se convierte en amor, entonces veremos que la unidad es una consecuencia de la salvación» (S. Gregorio de Nisa, *Homilía 15, Comentario sobre el libro del Cantar de los Cantares*).
+
+Somos los depositarios de la fe, de la caridad, de la esperanza de tantos que, con la fuerza inerme del Evangelio, han tenido la valentía de cambiar la dirección de la historia, esa historia que nos había llevado a desconfiar los unos de los otros y a distanciarnos recíprocamente, cediendo a la diabólica espiral de continuas fragmentaciones. Gracias al Espíritu Santo, inspirador y guía del ecumenismo, la dirección ha cambiado y se ha trazado de manera indeleble un camino nuevo y antiguo a la vez: el camino de la comunión reconciliada, hacia la manifestación visible de esa fraternidad que ya une a los creyentes.
+
+El número setenta ofrece en el Evangelio un segundo punto de reflexión. Se refiere a los discípulos que Jesús envió a la misión durante su ministerio público (*Lc* 10,1) y cuya memoria se celebra en el Oriente cristiano. El número de estos discípulos remite a las naciones conocidas, enumeradas al comienzo de la Escritura (cf. *Gn* 10). ¿Qué nos sugiere esto? Que la misión está dirigida a todos los pueblos y que cada discípulo, por ser tal, debe convertirse en apóstol, en misionero. El Consejo Ecuménico de las Iglesias ha nacido como un instrumento de aquel movimiento ecuménico suscitado por una fuerte llamada a la misión: ¿cómo pueden los cristianos evangelizar si están divididos entre ellos? Esta apremiante pregunta es la que dirige también hoy nuestro caminar y traduce la oración del Señor a estar unidos «para que el mundo crea» (*Jn* 17,21).
+
+Permitidme, queridos hermanos y hermanas, manifestaros también, además del vivo agradecimiento por el esfuerzo que realizáis en favor de la unidad, una preocupación. Esta nace de la impresión de que el ecumenismo y la misión no están tan estrechamente unidos como al principio. Y, sin embargo, el mandato misionero, que es más que la *diakonia* y que la promoción del desarrollo humano, no puede ser olvidado ni vaciado. Se trata de nuestra identidad. El anuncio del Evangelio hasta el último confín es connatural a nuestro ser cristianos. Ciertamente, el modo como se realiza la misión cambia según los tiempos y los lugares y, frente a la tentación ―lamentablemente frecuente―, de imponerse siguiendo lógicas mundanas, conviene recordar que la Iglesia de Cristo crece por atracción.
+
+¿En qué consiste esta fuerza de atracción? Evidentemente, no en nuestras ideas, estrategias o programas. No se cree en Jesucristo mediante un acuerdo de voluntades y el Pueblo de Dios no es reductible al rango de una organización no gubernamental. No, la fuerza de atracción radica en aquel don sublime que conquistó al apóstol Pablo: «conocerlo a él \[Cristo\], y la fuerza de su resurrección, y la comunión con sus padecimientos» (*Flp* 3,10). Solo de esto podemos presumir: del «conocimiento de la gloria de Dios reflejada en el rostro de Cristo» (*2 Co* 4,6), que nos da el Espíritu vivificador. Este es el tesoro que nosotros, frágiles vasijas de barro (cf. v. 7), debemos ofrecer a nuestro amado y atormentado mundo. No seríamos fieles a la misión que se nos ha confiado si redujéramos este tesoro al valor de un humanismo puramente inmanente, adaptable a las modas del momento. Y seríamos malos custodios si quisiéramos solo preservarlo, enterrándolo por miedo a los desafíos del mundo (cf. *Mt* 25,25).
+
+Tenemos necesidad de un *nuevo impulso evangelizador*. Estamos llamados a ser un pueblo que vive y comparte la alegría del Evangelio, que alaba al Señor y sirve a los hermanos, con un espíritu que arde por el deseo de abrir horizontes de bondad y de belleza insospechados para quien no ha tenido aún la gracia de conocer verdaderamente a Jesús. Estoy convencido de que, si aumenta la fuerza misionera, crecerá también la unidad entre nosotros. Así como en los orígenes el anuncio marcó la primavera de la Iglesia, la evangelización marcará el florecimiento de una nueva primavera ecuménica. Como en los orígenes, estrechémonos en comunión en torno al Maestro, no sin antes arrepentirnos de nuestras continuas vacilaciones y digámosle, con Pedro: «Señor, ¿a quién vamos a acudir? Tú tienes palabras de vida eterna» (*Jn* 6,68).
+
+Queridos hermanos y hermanas: He deseado estar presente en las celebraciones de este aniversario del Consejo también para reafirmar el compromiso de la Iglesia Católica en la causa ecuménica y para animar la cooperación con las Iglesias miembros y con los interlocutores ecuménicos. En este contexto, también quisiera detenerme un poco en el lema elegido para esta jornada: *Caminar – Rezar – Trabajar juntos.*
+
+*Caminar*: sí, pero ¿hacia dónde? En base a cuanto se ha dicho, propongo un doble movimiento: de entrada y de salida. *De entrada*, para dirigirnos constantemente hacia el centro, para reconocernos sarmientos injertados en la única vid que es Jesús (cf. *Jn* 15,1-8). No daremos fruto si no nos ayudamos mutuamente a permanecer unidos a él. *De salida,* hacia las múltiples periferias existenciales de hoy, para llevar juntos la gracia sanadora del Evangelio a la humanidad que sufre. Preguntémonos si estamos caminando de verdad o solo con palabras, si los hermanos nos importan de verdad y los encomendamos al Señor o están lejos de nuestros intereses reales. También preguntémonos si nuestro camino es un volver sobre nuestros propios pasos o si es un ir al mundo con convicción para llevar allí al Señor.
+
+*Rezar*: También en la oración, como en el camino, no podemos avanzar solos, porque la gracia de Dios, más que hacerse a medida individual, se difunde armoniosamente entre los creyentes que se aman. Cuando decimos «Padre nuestro» resuena dentro de nosotros nuestra filiación, pero también nuestro ser hermanos. La oración es el oxígeno del ecumenismo. Sin oración la comunión se queda sin oxígeno y no avanza, porque impedimos al viento del Espíritu empujarla hacia adelante. Preguntémonos: ¿Cuánto rezamos los unos por los otros? El Señor ha rezado para que fuésemos una sola cosa, ¿lo imitamos en esto?
+
+*Trabajar juntos*: En este sentido quisiera subrayar que la Iglesia Católica reconoce la especial importancia del trabajo que desempeña la Comisión *Fe y Constitución*, y desea seguir contribuyendo a través de la participación de teólogos altamente cualificados. El estudio de *Fe y Constitución*, para una visión común de la Iglesia y su trabajo en el discernimiento de las cuestiones morales y éticas tocan puntos neurálgicos del desafío ecuménico. Del mismo modo, la presencia activa en la Comisión para la Misión y la Evangelización; la colaboración con la Oficina para el Diálogo Interreligioso y la Cooperación, últimamente sobre el importante tema de la educación y la paz; la preparación conjunta de los textos para la Semana de oración por la unidad de los cristianos y otras formas de sinergia son elementos constitutivos de una sólida y auténtica colaboración. Asimismo, agradezco la importante labor del Instituto Ecuménico de Bossey en la formación ecuménica de las jóvenes generaciones de responsables pastorales y académicos de tantas Iglesias y Confesiones cristianas de todo el mundo. Desde hace muchos años, la Iglesia Católica colabora en esta obra educativa con la presencia de un profesor católico en la Facultad; y cada año tengo la alegría de saludar al grupo de estudiantes que realiza el viaje de estudios a Roma. Quisiera mencionar también, como signo positivo de “armonía ecuménica”, la creciente adhesión a la Jornada de oración por el cuidado de la creación.
+
+Por otra parte, el trabajo típicamente eclesial tiene un sinónimo bien definido: *diakonia*. Es el camino por el que seguimos al Maestro, que «no ha venido a ser servido, sino a servir» (*Mc* 10,45). El servicio variado e intenso de las Iglesias miembros del Consejo encuentra una expresión emblemática en la *Peregrinación de justicia y paz*. La credibilidad del Evangelio se ve afectada por el modo cómo los cristianos responden al clamor de todos aquellos que, en cualquier rincón de la tierra, son injustamente víctimas del trágico aumento de una exclusión que, generando pobreza, fomenta los conflictos. Mientras los débiles son cada vez más marginados, sin pan, trabajo ni futuro, los ricos son cada vez menos y más ricos. Dejémonos interpelar por el llanto de los que sufren, y sintamos compasión, porque «el programa del cristiano es *un corazón que ve*» ([Benedicto XVI](http://w2.vatican.va/content/benedict-xvi/es.html), Carta enc. *[Deus caritas est](http://w2.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)*, 31). Veamos qué podemos hacer concretamente, antes de desanimarnos por lo que no podemos. Miremos también a tantos hermanos y hermanas nuestros que en diversas partes del mundo, especialmente en Oriente Medio, sufren porque son cristianos. Estemos cerca de ellos. Y recordemos que nuestro camino ecuménico está precedido y acompañado por un ecumenismo ya realizado, el ecumenismo de la sangre, que nos exhorta a seguir adelante.
+
+Animémonos a superar la tentación de absolutizar determinados paradigmas culturales y dejarnos absorber por intereses personales. Ayudemos a los hombres de buena voluntad a dar mayor relieve a situaciones y acontecimientos que afectan a una parte importante de la humanidad, pero que ocupan un lugar muy marginal en el ámbito de la información a gran escala. No podemos desinteresarnos, y es preocupante cuando algunos cristianos se muestran indiferentes frente al necesitado. Más triste aún es la convicción de quienes consideran los propios bienes como signo de predilección divina, en vez de una llamada a servir con responsabilidad a la familia humana y a custodiar la creación. El Señor, Buen Samaritano de la humanidad (cf. *Lc* 10,29-37), nos interpelará sobre el amor al prójimo, cualquiera que sea (cf. *Mt* 25,31-46). Preguntémonos entonces: ¿Qué podemos hacer *juntos*? Si es posible hacer un servicio, ¿por qué no proyectarlo y realizarlo juntos, comenzando por experimentar una fraternidad más intensa en el ejercicio de la caridad concreta?
+
+Queridos hermanos y hermanas: Os renuevo mi cordial agradecimiento. Ayudémonos a caminar, a rezar y a trabajar juntos para que, con la ayuda de Dios, la unidad avance y el mundo crea. Gracias.

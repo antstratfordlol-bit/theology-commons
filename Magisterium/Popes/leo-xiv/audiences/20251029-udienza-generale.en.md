@@ -1,0 +1,80 @@
+---
+id: leo14-aud-20251029.en
+work: leo14-aud-20251029
+title: "General Audience of 29 October 2025 - Catechesis on the occasion of the 60th anniversary of the conciliar Declaration Nostra aetate"
+creator: "Leo PP. XIV"
+pope: Leo XIV
+document-type: General audience (catechesis)
+url_date: 2025-10-29
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/leo-xiv/en/audiences/2025/documents/20251029-udienza-generale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt, zh_tw"
+anchors: "{#leo14-aud-20251029} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# General Audience of 29 October 2025 - Catechesis on the occasion of the 60th anniversary of the conciliar Declaration Nostra aetate {#leo14-aud-20251029}
+LEO XIV
+
+## GENERAL AUDIENCE
+
+*St Peter's Square\
+Wednesday, 29 October 2025*
+
+\[[**Multimedia**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2025/10/29/udienza-generale.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Cycle of Catechesis – Catechesis on the occasion of the 60th anniversary of the conciliar Declaration Nostra aetate
+
+*Dear brothers and sisters, pilgrims in faith and representatives of the various religious traditions! Good morning, welcome!*
+
+At the centre of today’s reflection, in this General Audience dedicated to interreligious dialogue, I would like to place the Lord Jesus’ words to the Samaritan woman: “God is spirit, and those who worship him must worship in spirit and truth” (*Jn* 4:24). In the Gospel, this encounter reveals the essence of authentic religious dialogue: an exchange that is established when people open up to one another with sincerity, attentive listening and mutual enrichment. It is a dialogue that arose from thirst: God’s thirst for the human heart, and the human thirst for God. At the well of Sychar, Jesus overcomes the barriers of culture, gender and religion. He invites the Samaritan woman to a new understanding of worship, which is not limited to a particular place – “neither on the mountain nor in Jerusalem” – but is realized *in Spirit and truth. *This moment captures the very core of interreligious dialogue itself: the discovery of God’s presence beyond all boundaries and the invitation to seek him together with reverence and humility.
+
+Sixty years ago, on 28 October 1965, [Vatican Council II](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), with the promulgation of the [Declaration *Nostra Aetate*](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html), opened up a new horizon of encounter, respect and spiritual hospitality. This luminous Document teaches us to meet the followers of other religions not as outsiders, but as travelling companions on the path of truth; to honour differences affirming our common humanity; and to discern, in every sincere religious search, a reflection of the one divine Mystery that embraces all creation.
+
+In particular, it should not be forgotten that the first focus of *[Nostra Aetate](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)* was towards the Jewish world, which [Saint John XXIII](https://www.vatican.va/content/john-xxiii/en.html) intended to re-establish the original relationship. For the first time in the history of the Church, a doctrinal treatise on the Jewish roots of Christianity was to take shape, which on a biblical and theological level would represent a point of no return. A “bond … spiritually ties the people of the New Covenant to Abraham’s stock. Thus the Church of Christ acknowledges that, according to God’s saving design, the beginnings of her faith and her election are found already among the Patriarchs, Moses and the prophets” (*[Nostra Aetate](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)*, 4). In this way, the Church, “mindful of the patrimony she shares with the Jews and moved not by political reasons but by the Gospel’s spiritual love, decries hatred, persecutions, displays of anti-Semitism, directed against Jews at any time and by anyone” (*[ibid.](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)*). Since then, all my predecessors have condemned anti-Semitism with clear words. And so I too confirm that the Church does not tolerate anti-Semitism and fights against it, on the basis of the Gospel itself.
+
+Today we can look with gratitude at everything that has been achieved in Jewish-Catholic dialogue during these six decades. This is due not only to human effort, but to the assistance of our God who, according to Christian conviction, is dialogue itself. We cannot deny that there have been misunderstandings, difficulties and conflicts in this period, but these have never prevented the dialogue from continuing. Even today, we must not allow political circumstances and the injustices of some to divert us from friendship, especially since we have achieved so much so far.
+
+The spirit of *[Nostra Aetate](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)* continues to illuminate the path of the Church. She recognizes that all religions can reflect “a ray of that Truth which enlightens all men” (*NA*, 2) and seek answers to the great mysteries of human existence, so that dialogue must never be solely intellectual, but profoundly spiritual. [The Declaration](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html) invites all Catholics – bishops, clergy, consecrated persons and lay faithful – to involve themselves sincerely in dialogue and in collaboration with the followers of other religions, recognizing and promoting all that is good, true and holy in their traditions (cf. *[ibid.](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)*). This is necessary today in practically every city where, due to human mobility, our spiritual and cultural differences are called to encounter one another and to live together fraternally. *[Nostra Aetate](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)* reminds us that true dialogue is rooted in love, the only foundation of peace, justice and reconciliation, whereas it firmly rejects every form of discrimination or persecution, affirming the equal dignity of every human being (cf. *[NA](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)*, 5).
+
+Therefore, dear brothers and sisters, sixty years after *[Nostra Aetate](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)*, we can ask ourselves: what can we do together? The answer is simple: we can act together. More than ever, our world needs our unity, our friendship and our collaboration. Each one of our religions can contribute to alleviating human suffering and taking care of our common home, our planet Earth. Our respective traditions teach truth, compassion, reconciliation, justice and peace. We must reaffirm service to humanity, at all times. Together, we must be vigilant against the abuse of the name of God, of religion, and of dialogue itself, as well as against the dangers posed by religious fundamentalism and extremism. We must also face the responsible development of artificial intelligence because, if conceived as an alternative to humans, it can gravely violate their infinite dignity and neutralize their fundamental responsibilities. Our traditions have an immense contribution to make to the humanization of technology and therefore to inspire its regulation, to protect fundamental human rights.
+
+As we all know, our religions teach that peace begins in the human heart. In this regard, religion can play a fundamental role. We must restore hope to our personal lives, our families, our neighbourhoods, our schools, our villages, our countries and our world. This hope is based on our religious convictions, on the conviction that a new world is possible.
+
+Sixty years ago, *[Nostra Aetate](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)* brought hope to the world after the Second World War. Today we are called upon to rekindle that hope in our world, devastated by war and our degraded natural environment. Let us collaborate, because if we are united, everything is possible. Let us ensure that nothing divides us. And in this spirit, I would like to express once more my gratitude for your presence and your friendship. Let us transmit this spirit of friendship and collaboration to the future generation too, because it is the true pillar on which dialogue rests.
+
+And now, let us pause a moment in silent prayer: prayer has the power to transform our attitudes, our thoughts, our words and our actions.
+
+## **
+
+## APPEAL
+
+In recent days Jamaica has been struck by Hurricane Melissa, a storm of catastrophic power, causing violent flooding. It is currently sweeping across Cuba with devastating force. Thousands of people have been displaced, while homes, infrastructure and several hospitals have been damaged. I assure everyone of my closeness, praying for those who have lost their lives, for those who are fleeing and for those populations who, awaiting the storm's developments, are experiencing hours of anxiety and concern. I encourage the civil authorities to do everything possible and I thank the Christian communities, together with voluntary organizations, for the relief they are providing.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Special greetings:
+
+I extend a warm welcome to all English speaking pilgrims and visitors taking part in today’s audience, especially those coming from England, Ireland, Norway, Sweden, Ghana, Kenya, Nigeria, Uganda, Zimbabwe, Australia, Indonesia, Malaysia, the Philippines, Singapore, South Korea, Canada and the United States of America.
+
+In particular, I wish to express my gratitude for the presence of the leaders and representatives of non-Christian religions.
+
+May God, who created all men and women, pour into our hearts a spirit of fraternal love that we may recognize the imprint of God’s goodness and beauty in every human being.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Summary of the Holy Father's words:
+
+Dear brothers and sisters, as we celebrate the sixtieth anniversary of *Nostra Aetate*, the Second Vatican Council’s Declaration on the Relation of the Church with non-Christian Religions, we see how, in today’s Scripture reading, Jesus’ encounter with the Samaritan woman captures the essence of interreligious dialogue, namely, the humble discovery of God’s presence. Indeed, *Nostra Aetate* invites us to view every religion as a quest for truth and to see every sincere seeker of God as one who reflects his divine mystery. Because our Christian faith has its roots in God’s plan of salvation, which began with his chosen people, the Church has a special love and reverence for the Jewish people. At the same time, the world needs more than ever the powerful witness of men and women of all religions living together in unity, friendship and cooperation. In this true way, we can work jointly to achieve the peace, justice and reconciliation so desperately needed today. May we, therefore, never lose hope that a new world without division is possible.

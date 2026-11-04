@@ -1,0 +1,49 @@
+---
+id: b16-spe-20090121-mariazell.en
+work: b16-spe-20090121-mariazell
+title: "Address on the occasion of the conferral of the honorary citizenship of Mariazell (January 21, 2009)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2009-01-21
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/en/speeches/2009/january/documents/hf_ben-xvi_spe_20090121_mariazell.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, it"
+anchors: "{#b16-spe-20090121-mariazell} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Address on the occasion of the conferral of the honorary citizenship of Mariazell (January 21, 2009) {#b16-spe-20090121-mariazell}
+CONFERRAL ON THE HOLY FATHER\
+OF HONORARY CITIZENSHIP\
+FROM THE AUSTRIAN TOWN OF MARIAZELL
+
+## ADDRESS OF HIS HOLINESS BENEDICT XVI
+
+*Wednesday, 21 January 2009*
+
+*Your Excellency,\
+Dear Bishop Kapellari,\
+Dear Mr Mayor,\
+Dear Fr Karl,\
+Dear Friends,*
+
+I cannot manage to name all those whom I ought to list the Ambassador, of course.... At this moment I succeed only in simply saying a heartfelt "thank you" and respond with a *"Vergelt's Gott"* (God bless you). I am glad to be a citizen of Mariazell and to be able to live so close to the Mother of God. The two visits that you mentioned obviously spring to mind: in 2004, with the European notaries when we enjoyed splendid weather. Together we discerned what Europe is capable of building, where all the elements of its identity come from and how Europe could always return to being herself anew: through the encounter with the Lord to whom his Mother leads us. Through the Mother we feel God was made man. And thus we perceived the joy of being together, the strength of our roots and with this strength, also the possibility of a new future together.
+
+Instead, during the Pastoral Visit, it rained; but I found that the rain itself brought us to be even more connected and close, and gave us this sensation of being "together" and moreover, "together with the Lord and with his Mother". At the time Bishop Kapellari coined the expression "Catholics are rain-proof". We were then able to note how true that is and in the rain joy was born. We realized that it can sometimes be positive to be in a downpour, that rain can be a grace the Editor-in-Chief of *L'Osservatore Romano* in turn coined the phrase "shower of graces" (editor's note: in Italian in his speech). It was a rain of graces; we realized that at times, in history, it can be useful "to be in the rain" because we come to find ourselves in the right place to do the right thing.
+
+Mariazell is far more than a "place": it is the actualization of the living history of a pilgrimage of faith and prayer throughout the centuries and in this pilgrimage through centuries of prayer a pilgrimage that is formally, physically perceived there are not only the prayers and invocations of men and women but the reality of a response is also present. We feel that the response exists, that we are not reaching out our hand to something unknown but to what God is, and that through his Mother he wants to be particularly close to us. This sentiment of gratitude comes over and unites us and for this reason I am happy to be at home in my heart, and henceforth also legally so to speak in Mariazell.
+
+According to human predictions, I shall no longer succeed in going on pilgrimage there physically in this life but now I truly live there and in this sense I am ever present. As I stroll through the scenery of memory, I always return to make a stop in Mariazell precisely because I feel that our Mother, here, comes to meet us and gathers us all together. Our Lady of Mariazell has imposing names *Magna Mater Austriae, Domina Magna Hungarorum, Magna Mater Gentium Slavorum* and these great titles express that wherever human beings come to their Mother and to their Father, it is there that they become brothers and sisters, there that unity is born; it can be seen that this emanates a power that creates unity and that on this basis it is possible to build communion. And above all: she is the *Magna Mater,* but her greatness is manifested precisely in the fact that she addresses the little ones and is present for the little one, that we may turn to her at any time without having to buy an entrance ticket, simply by bringing her our heart. Let us learn from her, in this way, what is truly "great": not the fact of being "unapproachable", not external majesty but precisely the goodness of the heart that opens to all the experience of what "being together" means.
+
+So to conclude, once again I warmly say "*Vergelt's Gott"* to you, and thank you so much for having made me a citizen of Mariazell: this will remain deeply rooted in my heart. Dear Bishop Kapellari, dear Professors, perhaps I should also have said something about the book, but Our Lady is so great that in her we have also included the book! Thank you so much for everything!

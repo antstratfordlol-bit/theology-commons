@@ -1,0 +1,53 @@
+---
+id: jp2-ang-20000402.en
+work: jp2-ang-20000402
+title: "Angelus, 2 April 2000"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Angelus / Regina Caeli
+url_date: 2000-04-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/angelus/2000/documents/hf_jp-ii_ang_20000402.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-ang-20000402.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-ang-20000402.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Angelus, 2 April 2000
+JOHN PAUL II
+
+## ANGELUS
+
+*Sunday, 2 April 2000*
+
+*Dear Brothers and Sisters!*
+
+### 1 {#jp2-ang-20000402.1}
+
+*"Laetare Ierusalem*" - Rejoice Jerusalem (cf. *Is* 66: 10).
+
+This is *the invitation* that rings out at the beginning of Mass this Sunday, traditionally known as "*Laetare* Sunday" for this reason. We are now halfway through Lent and the invitation to rejoice encourages us to continue our penitential journey to Easter without halting. Lent is like a pilgrimage, where the effort of the journey does not lessen, but rather increases the happiness of approaching our destination.
+
+"Rejoice Jerusalem...". I too have experienced in recent days *the joy of being a [pilgrim from Rome to the Holy Land](http://www.vatican.va/holy_father/john_paul_ii/travels/sub_index/trav_holyland-2000.htm),* building a bridge between the two focal points of the Great Jubilee of the Year 2000, Rome and Jerusalem. This grace fills my heart with deep spiritual joy, and I constantly thank the Lord for it. I am also grateful to everyone who accompanied me in prayer. At those moments, at those places, I felt the whole Church present with me.
+
+### 2 {#jp2-ang-20000402.2}
+
+"Rejoice with her, you who mourned for her". The joy which the liturgy speaks of on this Fourth Sunday of Lent stems from an *awareness of the mystery of love* which lies ahead of us and which today is re-echoed in the words of John's Gospel: "God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life" (*Jn* 3: 16). How can we not be drawn by this love? God does not want the sinner to die, but to turn from his way and live. In order to live, man must turn to him, forsake the ways that degrade his dignity and return to his Father's house.
+
+This is the meaning of the *Jubilee,* which in this Lenten season *has entered its most intense phase*. This can be clearly seen in Rome: the Holy Doors of the four major basilicas welcome a continuous and ever-growing number of pilgrims. The same is happening in Dioceses all over the world. One can say that Christians everywhere have set out on a journey, both as individuals and as the People of God.
+
+### 3 {#jp2-ang-20000402.3}
+
+In this united jubilee pilgrimage, Blessed Mary leads the way and encourages us as a tender and merciful Mother. Let us learn from her to "hasten" our steps to Christ, whom we will see dying and rising for us at Easter. In our darkest moments let us cherish the memory of God's invitation:"Rejoice ... the Lord is with you".
+
+Blessed Virgin, "*cause of our joy*", obtain for us the grace of following Christ faithfully, so that we may receive the gift of Easter joy in its fullness.

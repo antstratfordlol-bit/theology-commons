@@ -1,0 +1,52 @@
+---
+id: francis-spe-20140515-presentazione-credenziali-ambasciatori.en
+work: francis-spe-20140515-presentazione-credenziali-ambasciatori
+title: "Presentation of Letters of Credence of the Ambassadors of Switzerland, Liberia, Ethiopia, Sudan, Jamaica, South Africa and India (15 May 2014)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2014-05-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2014/may/documents/papa-francesco_20140515_presentazione-credenziali-ambasciatori.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20140515-presentazione-credenziali-ambasciatori} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Presentation of Letters of Credence of the Ambassadors of Switzerland, Liberia, Ethiopia, Sudan, Jamaica, South Africa and India (15 May 2014) {#francis-spe-20140515-presentazione-credenziali-ambasciatori}
+***ADDRESS OF POPE FRANCIS ON THE OCCASION OF THE PRESENTATION OF LETTERS OF CREDENCE OF THE AMBASSADORS OF SWITZERLAND, LIBERIA, ETHIOPIA, SUDAN, JAMAICA, SOUTH AFRICA AND INDIA TO THE HOLY SEE***
+
+*Clementine Hall\
+Thursday, 15 May 2014*
+
+*Your Excellencies,*
+
+I am pleased to welcome you on the occasion of the presentation of the Letters accrediting you as Extraordinary and Plenipotentiary Ambassadors of your respective Countries to the Holy See: Switzerland, Liberia, Ethiopia, Sudan, Jamaica, South Africa and India. I am grateful to you for the readiness with which you take on this mission and I ask you to convey the expression of my gratitude and respect to the Heads of State of your respective Countries. I assure them and each one of you of my prayer, and for the Nations to which you belong I invoke from God Almighty an abundance of prosperity and peace.
+
+Peace. This word sums up every good to which every person and every human society aspires. Indeed, in the final analysis, the commitment with which we seek to foster diplomatic relations has no other scope than this: to foster the growth of peace in justice and development throughout the human family. This end has never been fully reached, it asks to be sought again and again by every generation, confronting the challenges that every epoch poses.
+
+Looking at the challenges that in this time of ours need to be urgently faced in order to build a more peaceful world, I would like to lay emphasis on two things: the arms trade and forced migration.
+
+Everyone speaks of peace, everyone claims to desire it, but unfortunately the proliferation of arms of every kind leads to the opposite. The arms trade has the effect of complicating and hindering conflict resolution, the more so because it develops and works largely outside the law.
+
+I maintain, therefore, that, while we are gathered in this Apostolic See, which by its nature is invested in a special way with serving the cause of peace, we can unite our voices in the hope that the international community will promote a new season of concerted and courageous commitment to prevent the growth of armaments and more especially for their reduction.
+
+Another challenge to peace is right before our eyes, and unfortunately in certain regions and at certain times takes on the character of a very real human tragedy: forced migration. This phenomenon is very complex and we must, of course, acknowledge the noteworthy efforts undertaken by international organizations, States, social powers, as well as religious communities and volunteers that all strive to respond in a civil and organized way to the most critical aspects like: emergencies and the most dire situations. But, here too, we realize that we cannot limit ourselves to helping in emergencies. The phenomenon has already manifested itself in all its breadth and, so to speak, historic character. The time has come to face it politically in a serious, responsible way, involving all levels: global, continental, the macro-regions, relations between States, down to the national and local level.
+
+In this area we see opposite experiences. On the one hand, amazing stories of humanity, encounter and welcome: individuals and families who manage to leave an inhumane situation and rediscover their dignity, freedom and security. On the other, unfortunately, there are stories that would make us weep and feel ashamed: human beings, our brothers and sisters, children of God who, urged by their desire to live and work in peace, face grueling journeys and are subjected to blackmail, torture, harassment of all kinds, to end up in some cases dying in a desert or at the bottom of the sea.
+
+The phenomenon of forced migration is closely tied to conflict and war, and therefore also to the proliferation of weapons, which we spoke about earlier. These are the wounds of a world, which is our world, in which God placed us to live today and calls us to take responsibility for our brothers and for our sisters, that no human being may be violated in his dignity. It would be an absurd contradiction to speak of peace, to negotiate peace and, at the same time, promote or permit the arms trade. We can also think that it would be an attitude of cynicism to proclaim human rights and, simultaneously fail to take responsibility for the men and women who, forced to leave their homeland, die in the attempt or are not accepted by international solidarity.
+
+Your Excellencies, the Holy See declares today to you and to the Governments of your respective countries its firm will to continue to cooperate to ensure that steps forward may be taken on these fronts and on all the roads that lead to justice and peace, on the basis of recognized universal human rights.
+
+At this moment in which you begin your mission, I address my most heartfelt best wishes to you, assuring you of the Roman Curia’s cooperation in the fulfillment of your office. And as I express again my gratitude to you, I gladly invoke upon you, your colleagues and your families an abundance of divine blessings. Thank you.

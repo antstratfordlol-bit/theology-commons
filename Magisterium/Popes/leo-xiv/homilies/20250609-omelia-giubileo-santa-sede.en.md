@@ -1,0 +1,62 @@
+---
+id: leo14-hom-20250609-giubileo-santa-sede.en
+work: leo14-hom-20250609-giubileo-santa-sede
+title: "Holy Mass for the Jubilee of the Holy See (9 June 2025)"
+creator: "Leo PP. XIV"
+pope: Leo XIV
+document-type: Homily
+url_date: 2025-06-09
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20250609-omelia-giubileo-santa-sede.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#leo14-hom-20250609-giubileo-santa-sede} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Holy Mass for the Jubilee of the Holy See (9 June 2025) {#leo14-hom-20250609-giubileo-santa-sede}
+[JUBILEE OF THE HOLY SEE](https://www.vatican.va/news_services/liturgy/libretti/2025/20250609-libretto-giubileo-santa-sede.pdf)
+
+## HOMILY OF THE HOLY FATHER LEO XIV
+
+*Saint Peter's Basilica*\
+*Blessed Virgin Mary Mother of the Church - Monday, 9 June 2025*
+
+\[**[Multimedia](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2025/6/9/giubileo-santa-sede.html)**\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Dear sisters and brothers,*
+
+Today we have the joy and grace of celebrating the [Jubilee of the Holy See](https://www.iubilaeum2025.va/en/pellegrinaggio/calendario-giubileo/GrandiEventi/Giubileo-Santa-Sede.html) on the liturgical feast day of Mary, Mother of the Church. This happy coincidence is a source of light and inner inspiration in the Holy Spirit, who [yesterday, on Pentecost](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2025/6/8/pentecoste.html), poured himself out abundantly upon the people of God. It is in this spiritual setting that we are experiencing a special day; first with the meditation we have heard and now, at the table of the Word and the Eucharist.
+
+The Word of God in this celebration helps us to understand the mystery of the Church and, within it, of the Holy See, in the light of the two biblical images inspired by the Spirit in the Acts of the Apostles (1:12-14) and in the Gospel of John (19:25-34).
+
+Let us begin with the fundamental account, which is the story of Jesus’ death. John, the only one of the Twelve present at Calvary, saw and testified that beneath the cross stood Jesus’ mother together with the other women (cf. *Jn* 19:25). And he heard with his own ears the last words of the Master, among which were these: “Woman, here is your son!” and then, turning to him, “Here is your mother!” (*Jn* 19:26-27).
+
+Mary’s motherhood through the mystery of the Cross took an unimaginable leap: the mother of Jesus became the new Eve, the source of new and eternal life for every person who comes into the world, because her Son associated her with his redemptive death. The theme of fruitfulness is clearly present in this liturgy. The opening prayer immediately highlighted this by asking the Father that the Church, sustained by the love of Christ, “may be more fruitful day by day.” (Collect)
+
+The fruitfulness of the Church is the same fruitfulness as Mary’s; it is realized in the lives of her members to the extent that they relive, “in miniature,” what the Mother lived, namely, they love according to the love of Jesus. All the fruitfulness of the Church and of the Holy See depends on the Cross of Christ. Otherwise, it is only appearance, if not worse. A great contemporary theologian wrote: “If the Church is the tree that grew from the tiny mustard seed of the cross, this tree is destined to produce mustard seeds in turn, and therefore fruits that repeat the shape of the cross, because it is precisely to the cross that they owe their existence” (H.U. von Balthasar, *Cordula ovverosia il caso serio*, Brescia 1969, 45-46).
+
+In the Collect, we also prayed that the Church may exult “in the holiness of her children.” In fact, the fruitfulness of Mary and of the Church are inextricably linked to their holiness, which is their conformity to Christ. The Holy See is holy as the Church is holy, in her original core, in the very fabric of her being. The Apostolic See thus preserves the holiness of its roots while being preserved by them. But it is no less true that it also lives in the holiness of each of its members. Therefore, the best way to serve the Holy See is to strive for holiness, each according to his or her particular state of life and the work entrusted to him or her.
+
+For example, a priest who personally carries a heavy cross because of his ministry, yet every day goes to the office and tries to do his job to the best of his ability with love and faith, this priest participates and contributes to the fruitfulness of the Church. Similarly, a father or mother of a family who lives in a difficult situation at home, with a child who is cause for concern or a sick parent, and continues his or her work with commitment, that man or woman are fruitful with the fruitfulness of Mary and of the Church.
+
+Let us now turn to the second image, the one described by Saint Luke at the beginning of the Acts of the Apostles, which depicts the mother of Jesus together with the Apostles and disciples in the Upper Room (1:12-14). It presents Mary’s motherhood towards the nascent Church, an “archetypal” motherhood that remains relevant in every time and place. It is always and above all the fruit of the Paschal Mystery, of the gift of the Crucified and Risen Lord.
+
+The Holy Spirit, who descends with power upon the first community, is the same Spirit that Jesus bestowed with his last breath (cf. *Jn* 19:30). This biblical image is inseparable from the first. The fruitfulness of the Church is always linked to the grace that flowed from the pierced heart of Jesus, together with blood and water, symbolizing the sacraments (cf. *Jn* 19:34).
+
+In the Upper Room, thanks to the maternal mission she received at the foot of the cross, Mary is at the service of the nascent community: she is the living memory of Jesus and, as such, she is the center of attention that harmonizes differences and ensures the unity of the disciples’ prayer.
+
+In this text too, the apostles are listed by name and, as always, Peter is the first (cf. v. 13). But he himself, in truth, is the first to be supported by Mary in his ministry. In the same way, Mother Church supports the ministry of Peter's successors with the Marian charism. The Holy See experiences in a very special way the coexistence of the two poles; the Marian and the Petrine. It is precisely the Marian pole, with its motherhood, gift of Christ and of the Spirit, that ensures the fruitfulness and holiness of the Petrine pole.
+
+Dear friends, let us praise God for his Word, the lamp that guides our steps, even in our daily life at the service of the Holy See. Enlightened by his Word, let us renew our prayer: Grant, O Father, that your Church, sustained by the love of Christ, may be ever more fruitful in the Spirit, exult in the holiness of her children, and draw to her embrace all the whole human family (cf. Collect in Italian Missal). Amen.

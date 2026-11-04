@@ -1,0 +1,135 @@
+---
+id: francis-spe-20170907-viaggioapostolico-colombia-vescovi.es
+work: francis-spe-20170907-viaggioapostolico-colombia-vescovi
+title: "Viaje apostólico a Colombia: Encuentro con los obispos (Salón del Palacio Cardenalicio, Bogotá, 7 de septiembre de 2017)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2017-09-07
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/speeches/2017/september/documents/papa-francesco_20170907_viaggioapostolico-colombia-vescovi.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, it, pl, pt"
+anchors: "{#francis-spe-20170907-viaggioapostolico-colombia-vescovi} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Viaje apostólico a Colombia: Encuentro con los obispos (Salón del Palacio Cardenalicio, Bogotá, 7 de septiembre de 2017) {#francis-spe-20170907-viaggioapostolico-colombia-vescovi}
+[VIAJE APOSTÓLICO DEL PAPA FRANCISCO A COLOMBIA](http://w2.vatican.va/content/francesco/es/travels/2017/outside/documents/papa-francesco-colombia_2017.html)\
+(6-11 DE SEPTIEMBRE DE 2017)
+
+## ENCUENTRO CON LOS OBISPOS DE COLOMBIA
+
+## DISCURSO DEL SANTO PADRE
+
+*Salón del Palacio Cardenalicio (Bogotá)\
+Jueves, 7 de septiembre de 2017*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2017/9/7/viaggioapostolico-colombia-vescovi.html)\]
+
+## La paz esté con ustedes
+
+Así saludó el Resucitado a su pequeña grey después de haber vencido a la muerte, así consiéntanme que los salude al inicio de mi viaje.
+
+Agradezco las palabras de bienvenida. Estoy contento porque los primeros pasos que doy en este País me llevan a encontrarlos a ustedes, obispos de Colombia, para abrazar en ustedes a toda la Iglesia colombiana y para estrechar a su gente en mi corazón de Sucesor de Pedro. Les agradezco muchísimo su ministerio episcopal, que les ruego continúen realizándolo con renovada generosidad. Un saludo particular dirijo a los obispos eméritos, animándolos a seguir sosteniendo, con la oración y con la presencia discreta, a la Esposa de Cristo por la cual se han entregado generosamente.
+
+Vengo para anunciar a Cristo y para cumplir en su nombre un itinerario de paz y reconciliación. ¡Cristo es nuestra paz! ¡Él nos ha reconciliado con Dios y entre nosotros!
+
+Estoy convencido de que Colombia tiene algo de original, algo muy original, que llama fuerte la atención: no ha sido nunca una meta completamente realizada, ni un destino totalmente acabado, ni un tesoro totalmente poseído. Su riqueza humana, sus vigorosos recursos naturales, su cultura, su luminosa síntesis cristiana, el patrimonio de su fe y la memoria de sus evangelizadores, la alegría gratuita e incondicional de su gente, la impagable sonrisa de su juventud, su original fidelidad al Evangelio de Cristo y a su Iglesia y, sobre todo, su indomable coraje de resistir a la muerte, no sólo anunciada, sino muchas veces sembrada: todo esto se sustrae, como lo hace la flor de la mimosa púdica en el jardín, digamos que se esconde a aquellos que se presentan como forasteros hambrientos de adueñársela y, en cambio, se brinda generosamente a quien toca su corazón con la mansedumbre del peregrino. Así es Colombia.
+
+Por esto, como peregrino, me dirijo a su Iglesia. De ustedes soy hermano, deseoso de compartir a Cristo Resucitado para quien ningún muro es perenne, ningún miedo es indestructible, ninguna plaga, ninguna llaga, es incurable.
+
+No soy el primer Papa que les habla acá en su casa. Dos de mis más grandes Predecesores han sido huéspedes aquí: el beato [Pablo VI](http://w2.vatican.va/content/paul-vi/es/travels/documents/bogota.html), que vino apenas concluyó el [Concilio Vaticano II](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index_sp.htm) para animar la realización colegial del misterio de la Iglesia en América Latina, y san [Juan Pablo II en su memorable visita apostólica del 86](http://w2.vatican.va/content/john-paul-ii/es/travels/1986/travels/documents/trav_colombia.html). Las palabras de ambos son un recurso permanente, las indicaciones que delinearon y la maravillosa síntesis que ofrecieron sobre nuestro ministerio episcopal constituyen un patrimonio para custodiar. No son anticuados. Quisiera que cuanto les diga sea recibido en continuidad con lo que ellos han enseñado.
+
+## Custodios y sacramento del primer paso
+
+«Dar el primer paso» es el lema de mi visita y también para ustedes este es mi primer mensaje. Bien saben que Dios es el Señor del primer paso. Él siempre nos primerea. Toda la Sagrada Escritura habla de Dios como exiliado de sí mismo por amor. Ha sido así cuando sólo había tinieblas, caos y, saliendo de sí, Él hizo que todo viniese a ser (cf. *Gn* 1.2,4); ha sido así cuando en el jardín de los orígenes Él se paseaba, dándose cuenta de la desnudez de su creatura (cf. *Gn* 3,8-9); ha sido así cuando, peregrino, se alojó en la tienda de Abraham, dejándole la promesa de una inesperada fecundidad (cf. *Gn* 18,1-10); ha sido así cuando se presentó a Moisés encantándolo, cuando ya no tenía otro horizonte que pastorear las ovejas de su suegro (cf. *Ex* 3,1-2); ha sido así cuando no quitó de su mirada a su amada Jerusalén, aun cuando se prostituía en la vereda de la infidelidad (cf. *Ez* 16,15); ha sido así cuando migró con su gloria hacia su pueblo exiliado en la esclavitud (cf. *Ez* 10,18-19).
+
+Y, en la plenitud del tiempo, quiso revelarnos el primer paso, el nombre del primer paso, de su primer paso. Se llama Jesús y es un paso irreversible. Proviene de la libertad de un amor que todo lo precede. Porque el Hijo, Él mismo, es expresión viva de dicho amor. Aquellos que lo reconocen y lo acogen reciben en herencia el don de ser introducidos en la libertad de poder cumplir siempre en Él ese primer paso, no tienen miedo de perderse si salen de sí mismos, porque llevan la fianza del amor emanado del primer paso de Dios, una brújula que no les consiente perderse.
+
+Cuiden pues, con santo temor y conmoción, ese primer paso de Dios hacia ustedes y, con su ministerio, hacia la gente que les ha sido confiada, en la conciencia de ser ustedes sacramento viviente de esa libertad divina que no tiene miedo de salir de sí misma por amor, que no teme empobrecerse mientras se entrega, que no tiene necesidad de otra fuerza que el amor.
+
+Dios nos precede, somos sarmientos, no somos la vid. Por tanto, no enmudezcan la voz de Aquél que los ha llamado ni se ilusionen en que sea la suma de sus pobres virtudes ―las de ustedes― o los halagos de los poderosos de turno quienes aseguran el resultado de la misión que les ha confiado Dios. Al contrario, mendiguen, mendiguen en la oración cuando no puedan dar ni darse, para que tengan algo que ofrecer a aquellos que se acercan constantemente a sus corazones de pastores. La oración en la vida del obispo es la savia vital que pasa por la vid, sin la cual el sarmiento se marchita volviéndose infecundo. Por tanto, luchen con Dios, y más todavía en la noche de su ausencia, hasta que Él no los bendiga (cf. *Gn* 32,25-27). Las heridas de esa cotidiana y prioritaria batalla en la oración serán fuente de curación para ustedes; serán heridos por Dios para hacerse capaces de curar.
+
+## Hacer visible su identidad de sacramento del primer paso de Dios
+
+De hecho, hacer tangible la identidad de sacramento del primer paso de Dios exigirá un continuo éxodo interior. «No hay ninguna invitación al amor mayor que adelantarse en ese mismo amor» (San Agustín, *De catechizandis rudibus*, liber I, 4.7, 26: *PL* 40), y, por tanto, ningún ámbito de la misión episcopal puede prescindir de esta libertad de cumplir el primer paso. La condición de posibilidad para el ejercicio del ministerio apostólico es la disposición a acercarse a Jesús dejando atrás «lo que fuimos, para que seamos lo que no éramos» (Id., *Enarr. in psal.*, 121,12: *PL* 36).
+
+Les recomiendo vigilar no sólo individualmente, sino colegialmente, dóciles al Espíritu Santo, sobre este permanente punto de partida. Sin este núcleo languidecen los rasgos del Maestro en el rostro de los discípulos, la misión se atasca y disminuye la conversión pastoral, que no es otra cosa que rescatar aquella urgencia de anunciar el Evangelio de la alegría *hoy, mañana y pasado mañana* (cf. *Lc* 13,33), premura que devoró el Corazón de Jesús dejándolo *sin nido ni resguardo*, reclinado solamente en el cumplimiento *hasta el final* de la voluntad del Padre (cf. *Lc* 9,58.62). ¿Qué otro futuro podemos perseguir? ¿A qué otra dignidad podemos aspirar?
+
+No se midan con el metro de aquellos que quisieran que fueran sólo una casta de funcionarios plegados a la dictadura del presente. Tengan, en cambio, siempre fija la mirada en la eternidad de Aquél que los ha elegido, prontos a acoger el juicio decisivo de sus labios, que es el que vale.
+
+En la complejidad del rostro de esta Iglesia colombiana, es muy importante preservar la singularidad de sus diversas y legítimas fuerzas, las sensibilidades pastorales, las peculiaridades regionales, las memorias históricas, las riquezas de las propias experiencias eclesiales. Pentecostés consiente que todos escuchen en la propia lengua. Por eso, busquen con perseverancia la comunión entre ustedes. No se cansen de construirla a través del diálogo franco y fraterno, condenando como peste las agendas encubiertas, ―por favor―. Sean premurosos en cumplir el primer paso, del uno para con el otro. Anticípense en la disposición de comprender las razones del otro. Déjense enriquecer de lo que el otro les puede ofrecer y construyan una Iglesia que ofrezca a este País un testimonio elocuente de cuánto se puede progresar cuando se está dispuesto a no quedarse en las manos de unos pocos. El rol de las Provincias Eclesiásticas en relación al mismo mensaje evangelizador es fundamental, porque son diversas y armonizadas las voces que lo proclaman. Por esto, no se contenten con un mediocre compromiso mínimo que deje a los resignados en la tranquila quietud de la propia impotencia, a la vez que domestica aquellas esperanzas que exigirían el coraje de ser encauzadas más sobre la fuerza de Dios que sobre la propia debilidad.
+
+Reserven una particular sensibilidad hacia las raíces afro-colombianas de su gente, que tan generosamente han contribuido a plasmar el rostro de esta tierra.
+
+## Tocar la carne del cuerpo de Cristo
+
+Los invito a no tener miedo de tocar la carne herida de la propia historia y de la historia de su gente. Háganlo con humildad, sin la vana pretensión de protagonismo, y con el corazón indiviso, libre de compromisos o servilismos. Sólo Dios es Señor y a ninguna otra causa se debe someter nuestra alma de pastores.
+
+Colombia tiene necesidad de vuestra mirada propia de obispos, para sostenerla en el coraje del primer paso hacia la paz definitiva, la reconciliación, hacia la abdicación de la violencia como método, la superación de las desigualdades que son la raíz de tantos sufrimientos, la renuncia al camino fácil pero sin salida de la corrupción, la paciente y perseverante consolidación de la «*res publica*» que requiere la superación de la miseria y de la desigualdad.
+
+Se trata, por supuesto, de una tarea ardua pero irrenunciable, los caminos son empinados y las soluciones no son obvias. Desde lo alto de Dios, que es la cruz de su Hijo, obtendrán la fuerza; con la lucecita humilde de los ojos del Resucitado recorrerán el camino; escuchando la voz del Esposo que susurra en el corazón, recibirán los criterios para discernir de nuevo, en cada incertidumbre, la justa dirección.
+
+Uno de vuestros ilustres literatos escribió hablando de uno de sus míticos personajes: «No imaginaba que era más fácil empezar una guerra que terminarla» (Gabriel García Márquez, *Cien años de soledad*, capítulo 9). Todos sabemos que la paz exige de los hombres un coraje moral diverso. La guerra sigue lo que hay de más bajo en nuestro corazón, la paz nos impulsa a ser más grandes que nosotros mismos. En seguida, el escritor añadía: «No entendía que hubiera necesitado tantas palabras para explicar lo que se sentía en la guerra, si con una sola bastaba: miedo» (*ibíd.*, cap. 15). No es necesario que les hable de este miedo, raíz envenenada, fruto amargo y herencia nefasta de cada contienda. Quiero animarlos a seguir creyendo que se puede hacer de otra manera, recordando que no han recibido un espíritu de esclavos para recaer en el temor; el mismo Espíritu atestigua que son hijos destinados a la libertad de la gloria a ellos reservada (cf. *Rm* 8,15-16).
+
+Ustedes ven con los propios ojos y conocen como pocos la deformación del rostro de este País, son custodios de las piezas fundamentales que lo hacen uno, no obstante sus laceraciones. Precisamente por esto, Colombia tiene necesidad de ustedes para reconocerse en su verdadero rostro cargado de esperanza a pesar de sus imperfecciones, para perdonarse recíprocamente no obstante las heridas no del todo cicatrizadas, para creer que se puede hacer otro camino aun cuando la inercia empuja a repetir los mismos errores, para tener el coraje de superar cuanto la puede volver miserable a pesar de sus tesoros.
+
+Les confieso que siento como un deber, me sale darles ánimo, así como tengo que decirles: ¡Anímense! Siento ese deber, transmitirles mis ganas de darles ánimo. Los animo, pues, a no cansarse de hacer de sus Iglesias un vientre de luz, capaz de generar, aun sufriendo pobreza, las nuevas creaturas que esta tierra necesita. Hospédense en la humildad de su gente para darse cuenta de sus secretos recursos humanos y de fe, escuchen cuánto su despojada humanidad brama por la dignidad que solamente el Resucitado puede conferir. No tengan miedo de migrar de sus aparentes certezas en búsqueda de la verdadera gloria de Dios, que es el hombre viviente. ¡Ánimo! Los animo en este camino.
+
+## La palabra de la reconciliación
+
+Muchos pueden contribuir al desafío de esta Nación, pero la misión de ustedes es singular. Ustedes no son técnicos ni políticos, son pastores. Cristo es la palabra de reconciliación escrita en sus corazones y tienen la fuerza de poder pronunciarla no solamente en los púlpitos, en los documentos eclesiales o en los artículos de periódicos, sino más bien en el corazón de las personas, en el secreto sagrario de sus conciencias, en el calor esperanzado que los atrae a la escucha de la voz del cielo que proclama «paz a los hombres amados por Dios» (*Lc* 2,14). Ustedes deben pronunciarla con el frágil, humilde, pero invencible recurso de la misericordia de Dios, la única capaz de derrotar la cínica soberbia de los corazones autorreferenciales.
+
+A la Iglesia no le interesa otra cosa que la libertad de pronunciar esta Palabra. Ser libre para pronunciar esta Palabra. No sirven alianzas con una parte u otra, sino la libertad de hablar a los corazones de todos. Precisamente allí tienen la autonomía y el vuelo para inquietar, allí tienen la posibilidad de sostener un cambio de ruta.
+
+El corazón humano, muchas veces engañado, concibe el insensato proyecto de hacer de la vida un continuo aumento de espacios para depositar lo que acumula. Es un engaño.  Precisamente aquí es necesario que resuene la pregunta: ¿De qué sirve ganar el mundo entero si queda el vacío en el alma? (cf. *Mt* 16,26).
+
+De sus labios de legítimos pastores, tal cual ustedes son, Colombia tiene el derecho de ser interpelada por la verdad de Dios, que repite continuamente: «¿Dónde está tu hermano?» (*Gn* 4,9). Es un interrogatorio que no puede ser silenciado, aun cuando quien lo escucha no puede más que abajar la mirada, confundido, y balbucir la propia vergüenza por haberlo vendido, quizás, al precio de alguna dosis de estupefaciente o alguna equívoca concepción de razón de Estado, tal vez por la falsa conciencia de que el fin justifica los medios.
+
+Les ruego tener siempre fija la mirada sobre el hombre concreto. No sirvan a un concepto de hombre, sino a la persona humana amada por Dios, hecha de carne, huesos, historia, fe, esperanza, sentimientos, desilusiones, frustraciones, dolores, heridas, y verán que esa concreción del hombre desenmascara las frías estadísticas, los cálculos manipulados, las estrategias ciegas, las falseadas informaciones, recordándoles que «realmente, el misterio del hombre sólo se esclarece en el misterio del Verbo encarnado» (*[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)*, 22).
+
+## Una Iglesia en misión
+
+Teniendo en cuenta el generoso trabajo pastoral que ya desarrollan, permítanme ahora que les presente algunas inquietudes que llevo en mi corazón de pastor, deseoso de exhortarles a ser cada vez más una Iglesia en misión. Mis Predecesores ya han insistido sobre varios de estos desafíos: la familia y la vida, los jóvenes, los sacerdotes, las vocaciones, los laicos, la formación. Los decenios transcurridos, no obstante el ingente trabajo, quizás han vuelto aún más fatigosas las respuestas para hacer eficaz la maternidad de la Iglesia en el generar, alimentar y acompañar a sus hijos.
+
+Pienso en las familias colombianas, en la defensa de la vida desde el vientre materno hasta su natural conclusión, en la plaga de la violencia y del alcoholismo, no raramente extendida en los hogares, en la fragilidad del vínculo matrimonial y la ausencia de los padres de familia con sus trágicas consecuencias de inseguridad y orfandad. Pienso en tantos jóvenes amenazados por el vacío del alma y arrastrados en la fuga de la droga, en el estilo de vida fácil, en la tentación subversiva. Pienso en los numerosos y generosos sacerdotes y en el desafío de sostenerlos en la fiel y cotidiana elección por Cristo y por la Iglesia, mientras algunos otros continúan propagando la cómoda neutralidad de aquellos que nada eligen para quedarse con la soledad de sí mismos. Pienso en los fieles laicos esparcidos en todas las Iglesias particulares, resistiendo fatigosamente para dejarse congregar por Dios que es comunión, aun cuando no pocos proclaman el nuevo dogma del egoísmo y de la muerte de toda solidaridad, palabra que quieren sacar del diccionario. Pienso en el inmenso esfuerzo de todos para profundizar la fe y hacerla luz viva para los corazones y lámparas para el primer paso.
+
+No les traigo recetas ni intento dejarles una lista de tareas. Con todo quisiera rogarles que, al realizar en comunión su gravosa misión de pastores de Colombia, conserven la serenidad. Yo no sé si decírselo, se me ocurre ahora, pero si exagero me perdonan, se me ocurre que es una de las virtudes que más necesitan: conserven la serenidad. No porque ustedes no la tengan, sino que el momento les exige más. Bien saben que en la noche el maligno continúa sembrando cizaña, pero tengan la paciencia del Señor del campo, confiándose en la buena calidad de sus granos. Aprendan de su longanimidad y magnanimidad. Sus tiempos son largos porque es inconmensurable su mirada de amor. Cuando el amor es reducido el corazón se vuelve impaciente, turbado por la ansiedad de hacer cosas, devorado por el miedo de haber fracasado. Crean sobre todo en la humildad de la semilla de Dios. Fíense de la potencia escondida de su levadura. Orienten el corazón sobre la preciosa fascinación que atrae y hace vender todo con tal de poseer ese divino tesoro.
+
+De hecho, ¿qué otra cosa más fuerte pueden ofrecer a la familia colombiana que la fuerza humilde del Evangelio del amor generoso que une al hombre y a la mujer, haciéndolos imagen de la unión de Cristo y su Iglesia, transmisores y guardianes de la vida? Las familias tienen necesidad de saber que en Cristo pueden volverse árbol frondoso capaz de ofrecer sombra, dar fruto en todas las estaciones del año, anidar la vida en sus ramas. Son tantos hoy los que homenajean árboles sin sombra, infecundos, ramas privadas de nidos. Que para ustedes el punto de partida sea el testimonio alegre de que la felicidad está en otro lugar.
+
+¿Qué cosa pueden ofrecer a sus jóvenes? Ellos aman sentirse amados, desconfían de quien los minusvalora, piden coherencia limpia y esperan ser involucrados. Recíbanlos, por tanto, con el corazón de Cristo, ábranles espacios en la vida de sus Iglesias. No participen en ninguna negociación que malvenda sus esperanzas. No tengan miedo de alzar serenamente la voz para recordar a todos que una sociedad que se deja seducir por el espejismo del narcotráfico se arrastra a sí misma en esa metástasis moral que mercantiliza el infierno y siembra por doquier la corrupción y, al mismo tiempo, engorda los paraísos fiscales.
+
+¿Qué cosa pueden dar a sus sacerdotes? El primer don es aquel de la paternidad que asegure que la mano que los ha generado y ha ungido no se ha retirado de sus vidas. Es verdad, vivimos en la era de la informática y no nos es difícil alcanzar a nuestros sacerdotes en tiempo real mediante algún programa de mensajes. Pero el corazón de un padre, de un obispo, no puede limitarse a la precaria, impersonal y externa comunicación con su presbiterio. No se puede apartar del corazón del obispo la inquietud, la sana inquietud, sobre dónde viven sus sacerdotes. ¿Viven de verdad según Jesús, o se han improvisado otras seguridades como la estabilidad económica, la ambigüedad moral, la doble vida o la ilusión miope de una carrera? Los sacerdotes precisan, con necesidad y urgencia vital, de la cercanía física y afectiva de su obispo. Los sacerdotes requieren sentir que tienen padre.
+
+Sobre las espaldas de los sacerdotes frecuentemente pesa la fatiga del trabajo cotidiano de la Iglesia. Ellos están en primera línea, continuamente circundados de la gente que, abatida, busca en ellos el rostro del pastor. La gente se acerca y golpea a sus corazones. Ellos deben dar de comer a la multitud y el alimento de Dios no es nunca una propiedad de la cual se puede disponer sin más. Al contrario, proviene solamente de la indigencia puesta en contacto con la bondad divina. Despedir a la muchedumbre y alimentarse con lo poco que uno puede indebidamente apropiarse es una tentación permanente (cf. *Lc* 9,13).
+
+Vigilen por tanto sobre las raíces espirituales de sus sacerdotes. Condúzcanlos continuamente a aquella *Cesarea de Filipo* donde, desde los orígenes del *Jordán* de cada uno, puedan sentir de nuevo la pregunta de Jesús: *¿Quién soy yo para ti?* Y la razón del gradual deterioro que muchas veces lleva a la muerte del discípulo siempre está en un corazón que ya no puede responder: «Tú eres el Cristo, el Hijo de Dios» (cf. *Mt* 16,13-16). De aquí se debilita el coraje de la irreversibilidad del don de sí, y deriva también la desorientación interior, el cansancio de un corazón que ya no sabe acompañar al Señor en su camino hacia Jerusalén.
+
+Cuiden especialmente, por favor, el itinerario formativo de sus sacerdotes, desde el nacimiento de la llamada de Dios en sus corazones. La nueva *Ratio Fundamentalis Institutionis Sacerdotalis*, recientemente publicada, es un valioso recurso, aún por aplicar, para que la Iglesia colombiana esté a la altura del don de Dios que nunca ha dejado de llamar al sacerdocio a tantos de sus hijos.
+
+No descuiden, por favor, la vida de los consagrados y consagradas. Ellos y ellas constituyen la bofetada kerigmática a toda mundanidad y son llamados a quemar cualquier resaca de valores mundanos en el fuego de las bienaventuranzas vividas sin glosa y en el total abajamiento de sí mismos en el servicio. Por favor, no los consideren como «recursos de utilidad» para las obras apostólicas; más bien, sepan ver en ellos el grito del amor consagrado de la Esposa: «¡Ven, Señor Jesús!» (*Ap* 22,20).
+
+Reserven la misma preocupación formativa a sus laicos, de los cuales depende no sólo la solidez de las comunidades de fe, sino gran parte de la presencia de la Iglesia en el ámbito de la cultura, de la política, de la economía. Formar en la Iglesia significa ponerse en contacto con la fe viviente de la Comunidad viva, introducirse en un patrimonio de experiencias y de respuestas que suscita el Espíritu Santo, porque es Él quien enseña todas las cosas (cf. *Jn* 14,26).
+
+Y antes de concluir ―estoy un poco largo ya―, un pensamiento quisiera dirigir a los desafíos de la Iglesia en la Amazonia, región de la cual con razón están orgullosos, porque es parte esencial de la maravillosa biodiversidad de este País. La Amazonia es para todos nosotros una prueba decisiva para verificar si nuestra sociedad, casi siempre reducida al materialismo y pragmatismo, está en grado de custodiar lo que ha recibido gratuitamente, no para desvalijarlo, sino para hacerlo fecundo. Pienso, sobre todo, en la arcana sabiduría de los pueblos indígenas amazónicos y me pregunto si somos aún capaces de aprender de ellos la sacralidad de la vida, el respeto por la naturaleza, la conciencia de que no solamente la razón instrumental es suficiente para colmar la vida del hombre y responder a sus más inquietantes interrogantes.
+
+Por esto los invito a no abandonar a sí misma la Iglesia en Amazonia. La consolidación de un rostro amazónico para la Iglesia que peregrina aquí es un desafío de todos ustedes, que depende del creciente y consciente apoyo misionero de todas las diócesis colombianas y de su entero clero. He escuchado que en algunas lenguas nativas amazónicas para referirse a la palabra «amigo» se usa la expresión «mi otro brazo». Sean por lo tanto el otro brazo de la Amazonia. Colombia no la puede amputar sin ser mutilada en su rostro y en su alma.
+
+*Queridos hermanos:*
+
+Los invito ahora a dirigirnos espiritualmente a *Nuestra Señora del Rosario de Chiquinquirá*, cuya imagen han tenido la delicadeza de traer de su Santuario a la magnífica Catedral de esta ciudad para que también yo la pudiera contemplar.
+
+Como bien saben, Colombia no puede darse a sí misma la verdadera *Renovación* a la que aspira, sino que ésta viene concedida desde lo alto. Supliquémosla al Señor, pues, por medio de la Virgen.
+
+Y así como en Chiquinquirá Dios ha renovado el esplendor del rostro de su Madre, que Él siga iluminando con su celestial luz el rostro de este entero País y bendiga a la Iglesia de Colombia con su benévola compañía, y los bendiga a ustedes, a quienes les agradezco todo lo que hacen. Gracias.

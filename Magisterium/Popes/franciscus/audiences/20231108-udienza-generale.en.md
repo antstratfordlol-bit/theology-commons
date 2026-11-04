@@ -1,0 +1,72 @@
+---
+id: francis-aud-20231108.en
+work: francis-aud-20231108
+title: "General Audience of 8 November 2023 - Catechesis. The passion for evangelization: the apostolic zeal of the believer. 25. Madeleine Delbrêl. The joy of faith among non-believers"
+creator: "Franciscus PP."
+pope: Francis
+document-type: General audience (catechesis)
+url_date: 2023-11-08
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/audiences/2023/documents/20231108-udienza-generale.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "ar, de, en, es, fr, hr, it, pl, pt"
+anchors: "{#francis-aud-20231108} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# General Audience of 8 November 2023 - Catechesis. The passion for evangelization: the apostolic zeal of the believer. 25. Madeleine Delbrêl. The joy of faith among non-believers {#francis-aud-20231108}
+POPE FRANCIS
+
+## GENERAL AUDIENCE
+
+*Saint Peter's Square\
+Wednesday, 8 November 2023*
+
+## \[[Multimedia](https://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2023/11/8/udienza-generale.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Cycle of catechesis. The passion for evangelization: the apostolic zeal of the believer. 25. *Madeleine Delbrêl. The joy of faith among non-believers
+
+*Dear brothers and sisters, good morning!*
+
+Among the many witnesses of the passion for the proclamation of the Gospel, those impassioned evangelizers, today I will present a 20th-century French woman, the venerable Servant of God, Madeleine Delbrêl. She was born in 1904 and died in 1964. She was a social worker, writer and mystic, and she lived for more than 30 years in the poor, working class outskirts of Paris. Dazzled by the encounter with the Lord, she wrote: “Once we have heard God’s Word, we no longer have the right not to accept it; once we have accepted it, we no longer have the right not to let it become flesh in us; once it has become flesh in us, we no longer have the right to keep it for ourselves alone. Henceforward, we belong to all those who are waiting for the Word” (*We, the Ordinary People of the Streets*, trans. David Louis Schindler, Jr. and Charles F. Mann. Grand Rapids: Eerdmans, 2000, 62). Beautiful: what she wrote is beautiful.
+
+After an adolescence of agnosticism — she believed in nothing — at the age of around 20, Madeleine encountered the Lord, struck by the witness of some friends who were believers. So she set out in search of God, giving voice to a profound thirst that she felt within, and she came to learn that the “emptiness that cried out her anguish” was God who was seeking her (cf. *The Dazzling Light of God*, trans. Mary Dudro Gordon. San Francisco: Ignatius Press, 2023). The joy of faith led her to choose a life that was given entirely to God, in the heart of the Church and in the heart of the world, simply sharing her life in fraternity with the “street people”. This is how she poetically addressed Jesus: “To be with you on your path, we must go, even when our laziness begs us to stay. You have chosen us to stay in a strange balance, a balance that can be achieved and maintained only in movement, only in momentum. A bit like a bicycle, which does not stay upright unless its wheels turn \[...\]. We can stay upright only by going forward, moving, in a surge of charity”. It is what she calls the “spirituality of the bicycle” (cf. *Umorismo nell’Amore. Meditazioni e poesie*, Milan 2011, 56). Only on the move, on the go, do we live in the balance of faith, which is an imbalance, but it is like that: like the bicycle. If you stop, it does not stay upright.
+
+Madeleine had a constantly outgoing heart, and she let herself be challenged by the cry of the poor. She felt that the Living God of the Gospel should burn within us until we have taken his name to those who have not yet found it. In this spirit, oriented towards the stirrings of the world and the cry of the poor, Madeleine felt called to “live Jesus’ love entirely and to the letter, from the oil of the good Samaritan to the vinegar of Calvary, thus giving him love for love \[...\] because, by loving him without reserve and letting ourselves be loved completely, the two great commandments of charity are incarnated in us and become but one” (cf. *La vocation de la charité*, 1, *Œuvres complètes* xiii, Bruyères-le-Châtel, 138-139).
+
+Lastly, Madeleine teaches us yet another thing: that by evangelizing one is evangelized; by evangelizing we are evangelized. Therefore, she used to say, echoing Saint Paul: “Woe to me if evangelizing, I do not evangelize myself”. Indeed, evangelizing evangelizes oneself. And this is a beautiful doctrine.
+
+Looking to this witness of the Gospel, we too learn that in every personal or social situation or circumstance of our life, the Lord is present and calls us to inhabit our own time, to share our life with others, to mingle with the joys and sorrows of the world. In particular, she teaches us that even secularized environments are helpful for conversion, because contact with non-believers prompts the believer to a continual revision of his or her way of believing and to rediscovering faith in its essentiality (cf. *We, the Ordinary People of the Streets*  trans. David Louis Schindler, Jr. and Charles F. Mann. Grand Rapids: Eerdmans, 2000).
+
+May Madeleine Delbrêl teach us to live this faith “on the move”, so to speak, this fruitful faith that makes every act of faith an act of charity in the proclamation of the Gospel. Thank you.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Special Greetings
+
+I extend a warm welcome to the English-speaking pilgrims and visitors taking part in today’s Audience, especially the groups from England, Denmark, Australia, Indonesia, Malaysia, and the United States of America. Upon all of you I invoke the joy and peace of our Lord Jesus Christ. God bless you!
+
+Let us think about and pray for the people suffering from war. Let us not forget martyred Ukraine and let us think about the Palestinian and the Israeli peoples: may the Lord lead us to a just peace. There is so much suffering: children suffer, the sick suffer, the elderly, and so many young people are dying. War is always a defeat: let us not forget. It is always a defeat.
+
+Lastly, I greet young people, the elderly, the sick and newlyweds.
+
+Tomorrow we will celebrate the liturgical feast of the Dedication of the Basilica of Saint John Lateran. It is the cathedral of Rome, the Seat of the Pope as Bishop of Rome. May this event ignite in every person the desire to become living stones at the service of the Lord.
+
+I offer my blessing to all of you!
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Summary of the Holy Father's words
+
+Dear brothers and sisters: In our catechesis on apostolic zeal, we have been reflecting on the spread of the Gospel through the witness of Christians of every time and place. Today we turn to the Servant of God Madeleine Delbrêl, a 20th century French social worker, writer and mystic. After a period of agnosticism in her youth, Madeleine encountered Christ through the witness of her friends and, following her conversion, chose to live a life completely devoted to God, in the heart of the Church and the world. Madeleine was deeply moved by the plight of the poor and the anguish of those struggling to find meaning in life; she saw this as an urgent summons to reawaken missionary fervour in the Church of our day. For over three decades, she lived, prayed and worked among the poor in the peripheries of Paris. Madeleine Delbrêl’s example of apostolic zeal reminds us of our own baptismal mission to share the joy of the Gosepl with others, and, in the process, to grow in fidelity to the twin commandments of love of God and love of all our brothers and sisters.

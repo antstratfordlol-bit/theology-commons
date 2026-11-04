@@ -1,0 +1,67 @@
+---
+id: jp2-spe-19920224-congedo-gambia.en
+work: jp2-spe-19920224-congedo-gambia
+title: "Apostolic Journey to Gambia: Farewell ceremony at Yundum International Airport in Banjul (February 24, 1992)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1992-02-24
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/february/documents/hf_jp-ii_spe_19920224_congedo-gambia.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, it"
+anchors: "{#jp2-spe-19920224-congedo-gambia.N} — numbered paragraphs 1..4 (4 anchors), shared with "
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Apostolic Journey to Gambia: Farewell ceremony at Yundum International Airport in Banjul (February 24, 1992)
+APOSTOLIC JOURNEY TO SENEGAL, THE GAMBIA AND GUINEA
+
+## FAREWELL CEREMONY
+
+## ADDRESS OF HIS HOLINESS JOHN PAUL II
+
+*Yundum International Airport of Banjul, The Gambia\
+Monday, 24 February 1992*
+
+*Your Excellency President Jawara,\
+Dear Friends,*
+
+### 1 {#jp2-spe-19920224-congedo-gambia.1}
+
+My brief but intense pastoral visit to The Gambia is coming to an end. *The time has come to say goodbye.* At every moment I have been surrounded by your gracious hospitality. As I leave you, I shall take with me many happy images of the people of this beautiful place. Mine is a goodbye full of esteem and gratitude towards all Gambians.
+
+I thank all those who have contributed to the organization of this visit. I am grateful to you, Mister President, to the VicePresident and to the authorities who are present here at this moment. You have made it possible for me to have a first–hand experience of this dynamic, growing nation. May God always inspire the leaders of this country to promote the genuine welfare of the people and to act with deep respect for the dignity and rights of every individual. Only on such a basis will a just and peaceful world be forthcoming.
+
+### 2 {#jp2-spe-19920224-congedo-gambia.2}
+
+*My meeting with the Catholic community has been a joyous celebration of our faith.* We have prayed together, thanking God for his blessings and commending our needs to his loving mercy. The Church is catholic because she is open to peoples of every race, tongue and social condition. She is as much at home here in The Gambia as in every other part of the world. Her desire and commitment is to foster the spiritual life of her children and to cooperate with all believers and men and women of good will in serving the good of the human family.
+
+I give thanks to God for the Catholic community’s vitality and fidelity to his word. I am confident that my Brothers and Sisters in the faith will continue to reflect the image of the earliest Christian community when all "devoted themselves to the apostles’ teaching and fellowship, to the breaking of bread and the prayers" (Acts 2:42). The Successor of Peter will carry you always in his heart.
+
+### 3 {#jp2-spe-19920224-congedo-gambia.3}
+
+In bidding farewell to this peace–loving country, my thoughts turn with concern to another part of West Africa. It had been my wish to visit *the nearby nation of Liberia* but a terrible fratricidal war has ravaged that country and caused immeasurable suffering among its people. I pray for the victims of this conflict. I am deeply disturbed by the plight of the hundreds of thousands of refugees, and so many homeless and hungry people. In addition to the deaths, injuries and sufferings which armed violence always brings with it, we cannot fail to see that *such a situation destroys any chance of economic development and political stability* for the peoples involved.
+
+The *interdependence of all the countries of West Africa* has found expression in concerted efforts to arrive at a solution to this difficult situation. It is my hope that the leaders of the region will persevere in this endeavour and that the parties in conflict will put the genuine good of the local populations before all other considerations.
+
+### 4 {#jp2-spe-19920224-congedo-gambia.4}
+
+While I encourage all those who can influence situations of conflict to pursue the urgent work of peacemaking, I also invite all who believe in Almighty God’s dominion and providence over the affairs of men *to pray unceasingly for the great gift of peace*. Let us beseech the Lord of Life and History to turn hatred into love, and rivalry into solidarity. Let us pray that Africa will not fall into a spiral of conflicts and power-struggles, but that it will set itself firmly on the path of responding to the needs of its peoples and creating conditions that will favour growth and prosperity.
+
+It is clear that the international community has a grave moral duty to implement just and helpful policies in relation to this Continent. A new era of solidarity with Africa is needed. In the name of our shared humanity, and on behalf of those who are without voice, I renew my appeals to those Governments in a position to help, and to the international organizations engaged in assistance to developing countries, *to hurry to Africa’s side in this decisive hour*.
+
+Again, Mister President, I express my deep gratitude to you and all your fellow–citizens.
+
+Upon Bishop Cleary and all the members of the Catholic community I invoke the joy and peace of our Lord Jesus Christ.
+
+Na yalla barkel Gambia bi! (*God bless The Gambia!*).

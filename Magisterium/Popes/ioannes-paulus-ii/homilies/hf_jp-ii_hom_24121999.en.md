@@ -1,0 +1,85 @@
+---
+id: jp2-hom-19991224.en
+work: jp2-hom-19991224
+title: "24 December 1999, Midnight Mass for the Opening of the Great Jubilee of the Year 2000"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Homily
+url_date: 1999-12-24
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/homilies/1999/documents/hf_jp-ii_hom_24121999.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-hom-19991224.N} — numbered paragraphs 1..4 (4 anchors), shared with jp2-hom-19991224.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 24 December 1999, Midnight Mass for the Opening of the Great Jubilee of the Year 2000
+## OPENING OF THE GREAT JUBILEE OF THE YEAR 2000
+
+## MIDNIGHT MASS
+
+## HOMILY OF THE HOLY FATHER JOHN PAUL II
+
+*Friday, 24 December 1999*
+
+### 1 {#jp2-hom-19991224.1}
+
+*“Hodie natus est nobis Salvator mundi*” (Responsorial Psalm).
+
+For twenty centuries this joyful proclamation has burst forth from the heart of the Church. On this holy night the Angel repeats it to us, the men and women living at the end of a millennium: “Be not afraid; for behold, I bring you good news of a great joy... to you is born this day in the city of David a Saviour” (*Lk* 2:10-11). We have prepared to welcome these comforting words during the season of Advent: in them the “today” of our redemption becomes a reality.
+
+At this hour, the word “today” rings out with a unique sound: it is not only the commemoration of the birth of the Redeemer; it is the solemn beginning of the Great Jubilee. We are spiritually linked to that unique moment of history when God became man, taking to himself our flesh.
+
+Yes, the Son of God, of one being with the Father, God from God and Light from Light, eternally begotten of the Father, became incarnate from the Virgin Mary and assumed our human nature. He was born in time. God entered history. The incomparable eternal “today” of God has become present in everyday human life.
+
+### 2 {#jp2-hom-19991224.2}
+
+*“Hodie natus est nobis Salvator mundi*” (cf. *Lk* 2:10-11).
+
+We fall down in adoration before the Son of God. We unite ourselves in spirit to the wonder of Mary and Joseph. As we adore Christ, born in a stable, we make our own the faith, filled with astonishment, of the shepherds of that time; we feel their same amazement and their same joy.
+
+It is difficult not to be overcome by the eloquence of this event: we remain enthralled. We are witnesses of that instant of love which unites the eternal to history: the “today” which begins the time of jubilation and hope, for *“to us a son is given; and dominion is laid upon his shoulders*” (*Is* 9:6), as we read in the text of Isaiah.
+
+At the feet of the Word Incarnate let us place our joys and fears, our tears and hopes. Only in Christ, the new man, is true light shed upon the mystery of human existence.
+
+With the Apostle Paul, let us contemplate the fact that in Bethlehem “the grace of God has appeared for the salvation of all” (*Titus* 2:11). This is the reason why on Christmas Night songs of joy ring out in every corner of the earth, in every language.
+
+### 3 {#jp2-hom-19991224.3}
+
+Tonight, before our eyes we see fulfilled what the Gospel proclaims: *“God so loved the world that he gave his only Son, that whoever believes in him... might have eternal life*” (*Jn* 3:16).
+
+His Only-begotten Son!
+
+You O Christ, are the Only-begotten Son of the living God, come among us in the stable of Bethlehem! After two thousand years, we re-live this mystery as a unique and unrepeatable event. Among all the children of men, all the children born into the world down the centuries, you alone are the Son of God: in an ineffable way, your birth has changed the course of human events.
+
+This is the truth which on this night the Church wants to pass on to the third millennium. And may all you who will come after us accept this truth, which has totally changed history. Ever since the night of Bethlehem, humanity knows that God became Man: he became Man in order to give man a share in his divine nature.
+
+### 4 {#jp2-hom-19991224.4}
+
+You are the Christ, the Son of the living God! On the threshold of the third millennium, the Church greets you, the Son of God, who have come into the world to triumph over death. You have come to illuminate human life through the Gospel. The Church greets you and with you she wishes to enter the third millennium. You are our hope. You alone have words of eternal life.
+
+You who came into the world on Bethlehem night, remain with us!
+
+You who are the Way, and the Truth, and the Life, guide us!
+
+You who came from the Father, lead us to him in the Holy Spirit, along the path which you alone know and which you have revealed to us, that we might have life and have it in abundance.
+
+You O Christ, the Son of the living God, be for us the Door!
+
+Be for us the true Door, symbolized by the door which on this Night we have solemnly opened!
+
+Be for us the Door which leads us into the mystery of the Father. Grant that no one may remain outside his embrace of mercy and peace!
+
+*“Hodie natus est nobis Salvator mundi*”: it is Christ who is our only Saviour! This is the message of Christmas 1999: the “today” of this Holy Night begins the Great Jubilee.
+
+Mary, dawn of the new times, be at our side as we trustingly take our first steps into the Jubilee Year! Amen!

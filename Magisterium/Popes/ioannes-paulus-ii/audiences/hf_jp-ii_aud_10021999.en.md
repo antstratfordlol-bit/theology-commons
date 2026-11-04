@@ -1,0 +1,77 @@
+---
+id: jp2-aud-19990210.en
+work: jp2-aud-19990210
+title: "10 February 1999"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: General audience (catechesis)
+url_date: 1999-02-10
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/audiences/1999/documents/hf_jp-ii_aud_10021999.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-aud-19990210.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-aud-19990210.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 10 February 1999
+JOHN PAUL II
+
+## GENERAL AUDIENCE
+
+*Wednesday 10 February 1999*
+
+*Reflection on the recent Pastoral Visit to Mexico and the United States of America*
+
+### 1 {#jp2-aud-19990210.1}
+
+I still have vivid impressions of my recent pilgrimage to Mexico and the United States, on which I want to reflect today.
+
+Gratitude to the Lord flows spontaneously from my soul: in his providence he wanted me to return to America, exactly 20 years after my first international journey, to conclude at the feet of Our Lady of Guadalupe the Special Assembly for America of the Synod of Bishops, which took place in the Vatican at the end of 1997. From this Assembly - as I did for Africa and will also do for Asia, Oceania and Europe - I gathered the analyses and suggestions into an Apostolic Exhortation entitled *[Ecclesia in America](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)*, which in Mexico City I officially presented to those to whom it is addressed.
+
+Today I would like to express again my most heartfelt thanks to those who helped organize this pilgrimage. First of all, I am grateful to the Presidents of Mexico and the United States of America, who welcomed me with great courtesy; to the Archbishops of Mexico City and St Louis and to my other venerable Brothers in the Episcopate, who gave me an affectionate welcome. I also thank the priests, the religious and the countless brothers and sisters who accompanied me with such faith and warmth during those days of grace. Together we had the moving experience of an "encounter with the living Jesus Christ, the way to conversion, communion and solidarity".
+
+### 2 {#jp2-aud-19990210.2}
+
+I have laid the fruits of the first pan-American Synod in history at the feet of Our Lady of Guadalupe, under whose maternal protection the evangelization of the New World advanced. She is rightly invoked today as the Star of its new evangelization. This is why I decided that the liturgical celebration dedicated to her, 12 December, should be extended throughout the American continent as a feast.
+
+The Church in America accepted the Good News of the Gospel after Our Lady's example, and, in the span of almost five centuries, gave birth to many peoples in the faith. Now - as the motto of the visit to Mexico said: "A millennium is born: Let us reaffirm our faith" - the Christian communities of the North, the Centre, the South and the Caribbean are called to renew their faith in order to develop an ever stronger solidarity. They are invited to collaborate in coordinated pastoral projects, each contributing his own spiritual and material riches to the common effort.
+
+Of course, this spirit of cooperation is also indispensable at the civil level and therefore requires shared ethical foundations, as I had occasion to emphasize at my meeting with the Diplomatic Corps in Mexico.
+
+### 3 {#jp2-aud-19990210.3}
+
+Christians are the "light" and "soul" of the world: I recalled this truth to the immense crowd which gathered for the Eucharistic celebration on Sunday at the racetrack in the Mexican capital. To everyone, especially the young people, I made the appeal contained in the Great Jubilee: repent and follow Christ. Mexicans responded with their unmistakable enthusiasm to the Pope's invitation, and on their faces, in their ardent faith, in their convinced commitment to the Gospel of life, I once again saw consoling signs of hope for the vast American continent.
+
+I also experienced these signs firsthand at the meeting with the world of suffering, where love and human solidarity bring to weakness the strength and concern of the risen Christ.
+
+In Mexico City, the Azteca Stadium, famous for memorable sporting events, was the scene of an extraordinary moment of prayer and celebration with representatives of all the generations of the 20th century, from the oldest to the youngest: a marvellous proof of how faith is able to unite generations and respond to the challenges of every season of life.
+
+In this passing of the century and the millennium, the Church in America and throughout the world sees in young Christians the most beautiful and promising fruits of her work and her suffering. I am overjoyed to have met a great number of young people both in Mexico and in the United States. With their participation, full of enthusiasm but also attentive and anxious, with their applause for the passages of the speech in which I presented the most demanding aspects of the Christian message, they showed their desire to take the lead in a new season of courageous witness, active solidarity and generous commitment to the service of the Gospel.
+
+### 4 {#jp2-aud-19990210.4}
+
+I am pleased to add that I found American Catholics very concerned and committed to the defence of life and the family, inseparable values which are a great challenge for the present and future of humanity. In a certain sense, my journey was a great appeal to America to accept the Gospel of life and the family in order to reject and combat any form of violence against the human person, from conception to natural death, with moral consistency. No to abortion and to euthanasia; enough of the unnecessary recourse to the death penalty; no to racism and to the exploitation of children, women and indigenous peoples; put an end to the arms trade, to drug trafficking and to the destruction of the environmental patrimony!
+
+To win these battles, we must spread the culture of life, which does not separate freedom and truth. The Church works each day for this by proclaiming Christ, the truth about God and the truth about man. She is particularly active in families, which are sanctuaries of life and fundamental schools for the culture of life: it is in the family that freedom learns to grow on firm moral foundations and, ultimately, on the law of God. America will only be able to play its important role in the Church and in the world if it defends and promotes the immense spiritual and social patrimony of its families.
+
+### 5 {#jp2-aud-19990210.5}
+
+Mexico and the United States are two great countries which well represent the multifaceted wealth of the American continent, as well as its contradictions. Woven deeply into the cultural and social fabric, the Church invites everyone to meet Jesus Christ, who continues today to be the "way to conversion, communion and solidarity".
+
+This meeting, with the motherly assistance of Our Lady of Guadalupe, has indelibly marked America's history. I entrust to the intercession of the patroness of that beloved continent the hope that the encounter with Christ will continue to bring light to the peoples of the New World in the millennium which is about to begin.
+
+\*\*\*\*\*
+
+*To the English-speaking pilgrims and visitors the Holy Father said:*
+
+I extend a special greeting to the faculty and students of the University of Dallas, Rome Campus. I welcome all the English-speaking pilgrims and visitors and I pray that, as you visit the Christian monuments of this city, your faith will be deepened and enriched. I invoke the blessings of almighty God upon you and your families.

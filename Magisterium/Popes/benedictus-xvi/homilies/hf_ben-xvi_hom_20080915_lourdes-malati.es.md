@@ -1,0 +1,71 @@
+---
+id: b16-hom-20080915-lourdes-malati.es
+work: b16-hom-20080915-lourdes-malati
+title: "15 de septiembre de 2008: Santa Misa con los enfermos en la Basílica de Nuestra Señora del Rosario (Lourdes)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Homily
+url_date: 2008-09-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/homilies/2008/documents/hf_ben-xvi_hom_20080915_lourdes-malati.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pl, pt"
+anchors: "{#b16-hom-20080915-lourdes-malati} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 15 de septiembre de 2008: Santa Misa con los enfermos en la Basílica de Nuestra Señora del Rosario (Lourdes) {#b16-hom-20080915-lourdes-malati}
+[VIAJE APOSTÓLICO\
+A FRANCIA CON OCASIÓN DEL 150 ANIVERSARIO\
+DE LAS APARICIONES DE LOURDES\
+(12 - 15 DE SEPTIEMBRE DE 2008)](http://www.vatican.va/content/benedict-xvi/es/travels/2008/outside/documents/francia.html)
+
+## SANTA MISA CON LOS ENFERMOS
+
+## HOMILÍA DEL SANTO PADRE BENEDICTO XVI
+
+*Basílica de Nuestra Señora del Rosario, Lourdes\
+Lunes 15 de septiembre de 2008*
+
+*Queridos hermanos en el episcopado y en el sacerdocio,\
+queridos enfermos, acompañantes, y quienes los acogen,\
+queridos hermanos y hermanas:*
+
+Ayer celebramos la Cruz de Cristo, instrumento de nuestra salvación, que nos revela en toda su plenitud la misericordia de nuestro Dios. En efecto, la Cruz es donde se manifiesta de manera perfecta la compasión de Dios con nuestro mundo. Hoy, al celebrar la memoria de Nuestra Señora de los Dolores, contemplamos a María que comparte la compasión de su Hijo por los pecadores. Como afirma san Bernardo, la Madre de Cristo entró en la Pasión de su Hijo por su compasión (cf. *Sermón en el domingo de la infraoctava de la Asunción*). Al pie de la Cruz se cumple la profecía de Simeón de que su corazón de madre sería traspasado (cf. *Lc* 2,35) por el suplicio infligido al Inocente, nacido de su carne. Igual que Jesús lloró (cf. *Jn* 11,35), también María ciertamente lloró ante el cuerpo lacerado de su Hijo. Sin embargo, su discreción nos impide medir el abismo de su dolor; la hondura de esta aflicción queda solamente sugerida por el símbolo tradicional de las siete espadas. Se puede decir, como de su Hijo Jesús, que este sufrimiento la ha guiado también a Ella a la perfección (cf. *Hb* 2,10), para hacerla capaz de asumir la nueva misión espiritual que su Hijo le encomienda poco antes de expirar (cf. *Jn* 19,30): convertirse en la Madre de Cristo en sus miembros. En esta hora, a través de la figura del discípulo a quien amaba, Jesús presenta a cada uno de sus discípulos a su Madre, diciéndole: “Ahí tienes a tu hijo” (*Jn* 19,26-27).
+
+María está hoy en el gozo y la gloria de la Resurrección. Las lágrimas que derramó al pie de la Cruz se han transformado en una sonrisa que ya nada podrá extinguir, permaneciendo intacta, sin embargo, su compasión maternal por nosotros. Lo atestigua la intervención benéfica de la Virgen María en el curso de la historia y no cesa de suscitar una inquebrantable confianza en Ella; la oración *Acordaos, ¡oh piadosísima Virgen María!* expresa bien este sentimiento. María ama a cada uno de sus hijos, prestando una atención particular a quienes, como su Hijo en la hora de su Pasión, están sumidos en el dolor; los ama simplemente porque son sus hijos, según la voluntad de Cristo en la Cruz.
+
+El salmista, vislumbrando de lejos este vínculo maternal que une a la Madre de Cristo con el pueblo creyente, profetiza a propósito de la Virgen María que “los más ricos del pueblo buscan tu sonrisa” (*Sal* 44,13). De este modo, movidos por la Palabra inspirada de la Escritura, los cristianos han buscado siempre la sonrisa de Nuestra Señora, esa sonrisa que los artistas en la Edad Media han sabido representar y resaltar tan prodigiosamente. Este sonreír de María es para todos; pero se dirige muy especialmente a quienes sufren, para que encuentren en Ella consuelo y sosiego. Buscar la sonrisa de María no es sentimentalismo devoto o desfasado, sino más bien la expresión justa de la relación viva y profundamente humana que nos une con la que Cristo nos ha dado como Madre.
+
+Desear contemplar la sonrisa de la Virgen no es dejarse llevar por una imaginación descontrolada. La Escritura misma nos la desvela en los labios de María cuando entona el *Magnificat:* “Proclama mi alma la grandeza del Señor, se alegra mi espíritu en Dios, mi Salvador” (*Lc* 1,46-47). Cuando la Virgen María da gracias a Dios nos convierte en testigos. María, anticipadamente, comparte con nosotros, sus futuros hijos, la alegría que vive su corazón, para que se convierta también en la nuestra. Cada vez que se recita el *Magnificat* nos hace testigos de su sonrisa. Aquí, en Lourdes, durante la aparición del miércoles, 3 de marzo de 1858, Bernadette contempla de un modo totalmente particular esa sonrisa de María. Ésa fue la primera respuesta que la Hermosa Señora dio a la joven vidente que quería saber su identidad. Antes de presentarse a ella algunos días más tarde como *“*la Inmaculada Concepción*”*, María le dio a conocer primero su sonrisa, como si fuera la puerta de entrada más adecuada para la revelación de su misterio.
+
+En la sonrisa que nos dirige la más destacada de todas las criaturas, se refleja nuestra dignidad de hijos de Dios, la dignidad que nunca abandona a quienes están enfermos. Esta sonrisa, reflejo verdadero de la ternura de Dios, es fuente de esperanza inquebrantable. Sabemos que, por desgracia, el sufrimiento padecido rompe los equilibrios mejor asentados de una vida, socava los cimientos fuertes de la confianza, llegando incluso a veces a desesperar del sentido y el valor de la vida. Es un combate que el hombre no puede afrontar por sí solo, sin la ayuda de la gracia divina. Cuando la palabra no sabe ya encontrar vocablos adecuados, es necesaria una presencia amorosa; buscamos entonces no sólo la cercanía de los parientes o de aquellos a quienes nos unen lazos de amistad, sino también la proximidad de los más íntimos por el vínculo de la fe. Y ¿quién más íntimo que Cristo y su Santísima Madre, la Inmaculada? Ellos son, más que nadie, capaces de entendernos y apreciar la dureza de la lucha contra el mal y el sufrimiento. La Carta a los Hebreos dice de Cristo, que Él no sólo *“*no es incapaz de compadecerse de nuestras debilidades, sino que ha sido probado en todo exactamente como nosotros*”* (cf. *Hb* 4,15). Quisiera decir humildemente a los que sufren y a los que luchan, y están tentados de dar la espalda a la vida: ¡Volveos a María! En la sonrisa de la Virgen está misteriosamente escondida la fuerza para continuar la lucha contra la enfermedad y a favor de la vida. También junto a Ella se encuentra la gracia de aceptar sin miedo ni amargura el dejar este mundo, a la hora que Dios quiera.
+
+Qué acertada fue la intuición de esa hermosa figura espiritual francesa, Dom Jean-Baptiste Chautard, quien en *El alma de todo apostolado,* proponía al cristiano fervoroso encontrarse frecuentemente con la Virgen María *“*con la mirada*”.* Sí, buscar la sonrisa de la Virgen María no es un infantilismo piadoso, es la aspiración, dice el salmo 44, de los que son “los más ricos del pueblo” (44,13). “Los más ricos” se entiende en el orden de la fe, los que tienen mayor madurez espiritual y saben reconocer precisamente su debilidad y su pobreza ante Dios. En una manifestación tan simple de ternura como la sonrisa, nos damos cuenta de que nuestra única riqueza es el amor que Dios nos regala y que pasa por el corazón de la que ha llegado a ser nuestra Madre. Buscar esa sonrisa es ante todo acoger la gratuidad del amor; es también saber provocar esa sonrisa con nuestros esfuerzos por vivir según la Palabra de su Hijo amado, del mismo modo que un niño trata de hacer brotar la sonrisa de su madre haciendo lo que le gusta. Y sabemos lo que agrada a María por las palabras que dirigió a los sirvientes de Caná: “Haced lo que Él os diga” (*Jn* 2,5).
+
+La sonrisa de María es una fuente de agua viva. “El que cree en mí -dice Jesús- de sus entrañas manarán torrentes de agua viva” (*Jn* 7,38). María es la que ha creído, y, de su seno, han brotado ríos de agua viva para irrigar la historia de la humanidad. La fuente que María indicó a Bernadette aquí, en Lourdes, es un humilde signo de esta realidad espiritual. De su corazón de creyente y de Madre brota un agua viva que purifica y cura. Al sumergirse en las piscinas de Lourdes cuántos no han descubierto y experimentado la dulce maternidad de la Virgen María, juntándose a Ella par unirse más al Señor. En la secuencia litúrgica de esta memoria de Nuestra Señora la Virgen de los Dolores, se honra a María con el título de *Fons amoris*, “Fuente de amor”. En efecto, del corazón de María brota un amor gratuito que suscita como respuesta un amor filial, llamado a acrisolarse constantemente. Como toda madre, y más que toda madre, María es la educadora del amor. Por eso tantos enfermos vienen aquí, a Lourdes, a beber en la “Fuente de amor” y para dejarse guiar hacia la única fuente de salvación, su Hijo, Jesús, el Salvador.
+
+Cristo dispensa su salvación mediante los sacramentos y de manera muy especial, a los que sufren enfermedades o tienen una discapacidad, a través de la gracia de la Unción de los Enfermos. Para cada uno, el sufrimiento es siempre un extraño. Su presencia nunca se puede domesticar. Por eso es difícil de soportar y, más difícil aún -como lo han hecho algunos grandes testigos de la santidad de Cristo- acogerlo como ingrediente de nuestra vocación o, como lo ha formulado Bernadette, aceptar “sufrir todo en silencio para agradar a Jesús”. Para poder decir esto hay que haber recorrido un largo camino en unión con Jesús. Desde ese momento, en compensación, es posible confiar en la misericordia de Dios tal como se manifiesta por la gracia del Sacramento de los Enfermos. Bernadette misma, durante una vida a menudo marcada por la enfermedad, recibió este sacramento en cuatro ocasiones. La gracia propia del mismo consiste en acoger en sí a Cristo médico. Sin embargo, Cristo no es médico al estilo de mundo. Para curarnos, Él no permanece fuera del sufrimiento padecido; lo alivia viniendo a habitar en quien está afectado por la enfermedad, para llevarla consigo y vivirla junto con el enfermo. La presencia de Cristo consigue romper el aislamiento que causa el dolor. El hombre ya no está solo con su desdicha, sino conformado a Cristo que se ofrece al Padre, como miembro sufriente de Cristo y participando, en Él, al nacimiento de la nueva creación.
+
+Sin la ayuda del Señor, el yugo de la enfermedad y el sufrimiento es cruelmente pesado. Al recibir la Unción de los Enfermos, no queremos otro yugo que el de Cristo, fortalecidos con la promesa que nos hizo de que su yugo será suave y su carga ligera (cf. *Mt* 11,30). Invito a los que recibirán la Unción de los Enfermos durante esta Misa a entrar en una esperanza como ésta.
+
+El Concilio Vaticano II presentó a María como la figura en la que se resume todo el misterio de la Iglesia (cf. *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 63-65). Su trayectoria personal representa el camino de la Iglesia, invitada a estar completamente atenta a las personas que sufren. Dirijo un afectuoso saludo a los miembros del Cuerpo médico y de enfermería, así como a todos los que, de diverso modo, en los hospitales u otras instituciones, contribuyen al cuidado de los enfermos con competencia y generosidad. Quisiera también decir a todos los encargados de la acogida, a los camilleros y acompañantes que, de todas las diócesis de Francia y de más lejos aún, acompañan durante todo el año a los enfermos que vienen en peregrinación a Lourdes, que su servicio es precioso. Son el brazo de la Iglesia servidora. Deseo, en fin, animar a los que, en nombre de su fe, acogen y visitan a los enfermos, sobre todo en los hospitales, en las parroquias o, como aquí, en los santuarios. Que, como portadores de la misericordia de Dios (cf. *Mt* 25, 39-40), sientan en esta misión tan delicada e importante el apoyo efectivo y fraterno de sus comunidades. En este sentido, saludo de modo particular, y doy las gracias también, a mis hermanos en el Episcopado, los Obispos franceses, los Obispos de otros lugares y los sacerdotes, los cuales acompañan a los enfermos y a los hombres tocados por el sufrimiento en el mundo. Gracias por vuestro servicio al Señor que esta sufriendo.
+
+El servicio de caridad que hacéis es un servicio mariano. María os confía su sonrisa para que os convirtáis vosotros mismos, fieles a su Hijo, en fuente de agua viva. Lo que hacéis, lo hacéis en nombre de la Iglesia, de la que María es la imagen más pura. ¡Que llevéis a todos su sonrisa!
+
+Al concluir, quiero sumarme a las oraciones de los peregrinos y de los enfermos y retomar con vosotros un fragmento de la oración a María propuesta para la celebración de este Jubileo:
+
+> “Porque eres la sonrisa de Dios, el reflejo de la luz de Cristo, la morada del Espíritu Santo,\
+> porque escogiste a Bernadette en su miseria,\
+> porque eres la estrella de la mañana, la puerta del cielo y la primera criatura resucitada,\
+> Nuestra Señora de Lourdes,\
+> junto con nuestros hermanos y hermanas cuyo cuerpo y corazón están doloridos, te decimos: ruega por nosotros”.

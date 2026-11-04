@@ -1,0 +1,52 @@
+---
+id: francis-spe-20180504-guardie-svizzere.en
+work: francis-spe-20180504-guardie-svizzere
+title: "To the Pontifical Swiss Guard (4 May 2018)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2018-05-04
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2018/may/documents/papa-francesco_20180504_guardie-svizzere.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20180504-guardie-svizzere} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Pontifical Swiss Guard (4 May 2018) {#francis-spe-20180504-guardie-svizzere}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO THE PONTIFICAL SWISS GUARD
+
+*Clementine Hall\
+Friday, 4 May 2018*
+
+\[**[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2018/5/4/guardie-svizzere.html)**\]
+
+*Mr Commander,\
+Reverend Chaplain,\
+Dear officials and members of the Swiss Guard,\
+Distinguished guests,\
+Dear brothers and sisters!*
+
+I address a warm welcome to you all, in particular to the recruits and their families and friends who have wished to share these days of celebration. I respectfully greet the representatives of the Swiss authorities, who have come for this event.
+
+You, dear Guards, have the possibility of rendering service for a certain period in Rome, obtaining a unique experience of the universality of the Church. May this time strengthen your faith and increase your sense of belonging to the ecclesial community.
+
+The Swiss Guard performs daily a valuable service to the Sucessor of Peter, the Roman Curia, and Vatican City State. It is a job that is carried out in the tradition of steadfast fidelity to the Pope, which had a qualifying moment on 6 May 1527, when your predecessors sacrificed their lives during the “sack of Rome”. The memory of that heroic gesture is a constant invitation to keep present and realize the typical qualities of the Corps: to live consistently the Catholic faith; persevering in friendship with Jesus and in love for the Church; to be joyous and diligent in the great as in the small and humble daily tasks; to have courage and patience, generosity and solidarity with everyone. These are the virtues that you are called to exercise when you provide the service of honour and security in the Vatican, as well as when you are out of uniform. A Swiss Guard, in fact, is always such, both when he is on duty and when he is not in service!
+
+It is nice to see a young man, like you, who pays attention to others, and who with care is available to those who are in need. It is not always easy to bear witness to this attitude, but with the help of the Lord it is possible. Therefore, do not tire of encountering the Lord Jesus in community and personal prayer, in carefully listening to the Word of God, and in fervent participation in the Eucharist. The secret of the effectiveness of your work here in the Vatican, like every one of your projects, is indeed constant reference to Christ.
+
+I take advantage of this occasion to express anew my gratitude to the entire Pontifical Swiss Guard Corps. I admire the discipline, the ecclesial feeling, the discretion and the austere but serene professionalism with which you carry out your service every day. I thank God for the various gifts that He bestows upon you, and assure you of my support and my prayer so that they may be fruitful. And you too, please, pray for me and help me serve the Church also with your prayer.
+
+May the Virgin Mary, whom we honour in a special way in the month of May, and your patron Saints, assist and protect you. With these sentiments, I heartily impart to each one of you my apostolic blessing, which I extend to your loved ones and your homeland.
+
+\*[*Bulletin of the Holy See Press Office,* 4 May 2018](http://press.vatican.va/content/salastampa/en/bollettino/pubblico/2018/05/04/180504d.html)

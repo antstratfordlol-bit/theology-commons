@@ -1,0 +1,86 @@
+---
+id: jp2-hom-20030608-rijeka.en
+work: jp2-hom-20030608-rijeka
+title: "Apostolic Journey to Croatia: Mass - Rijeka Delta : Homily (June 8, 2003)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Homily
+url_date: 2003-06-08
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/homilies/2003/documents/hf_jp-ii_hom_20030608_rijeka.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, hr, it, pt"
+anchors: "{#jp2-hom-20030608-rijeka.N} — numbered paragraphs 1..6 (6 anchors), shared with jp2-hom-20030608-rijeka.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Apostolic Journey to Croatia: Mass - Rijeka Delta : Homily (June 8, 2003)
+APOSTOLIC JOURNEY\
+OF HIS HOLINESS JOHN PAUL II\
+TO CROATIA
+
+## MASS FOR FAMILIES IN RIJEKA
+
+## HOMILY OF JOHN PAUL II
+
+*Solemnity of Pentecost\
+Sunday, 8 June 2003*
+
+### 1 {#jp2-hom-20030608-rijeka.1}
+
+In the final days of his earthly life, Jesus promises his disciples *the gift of the Holy Spirit* as his greatest legacy, the continuation of his own presence (cf. Jn 14:16-17).
+
+The Gospel just proclaimed has enabled us to relive the moment in which that promise became a reality: the Risen Lord enters the Upper Room, greets the disciples, breathes on them and says: "Receive the Holy Spirit" (Jn 20:22). [Pentecost](http://www.vatican.va/liturgical_year/pentecost/2003/index_pentecoste_en.htm), described in today’s first reading from the Acts of the Apostles, is the event that made publicly evident, fifty days later, the gift which Jesus bestowed upon his disciples on the evening of Easter.
+
+The Church of Christ is always, so to speak, in a situation of [Pentecost](http://www.vatican.va/liturgical_year/pentecost/2003/index_pentecoste_en.htm): she is always gathered in the Upper Room *in prayer*, and at the same time, driven by the powerful wind of the Spirit, she is always on the streets *preaching*. The Church is kept ever young and alive, one, holy, catholic and apostolic, because the Spirit *constantly descends upon her in order to remind her* of all that the Lord has said to her (cf. Jn 14:25) and to guide her into the fullness of truth (cf. Jn 16:13).
+
+### 2 {#jp2-hom-20030608-rijeka.2}
+
+Today I wish to greet with special affection *that portion of the Church which makes its pilgrim way in the land of Croatia*, gathered here around its Pastors and represented in its richness and variety by the faithful coming from different regions of the country.
+
+I embrace the Archbishop of Rijeka, the Most Reverend *Ivan Devčić*, who has greeted me in the name of all present, and Archbishop Emeritus *Josip Pavlišić*, who was present with me at the Second Vatican Council: I join him in giving thanks to God for the sixty-fifth anniversary of his Priestly Ordination which he celebrated last April. I wish to greet in particular the President of the Episcopal Conference, the Most Reverend *Josip Bozanić*, the Archbishop of Zagreb, and all the *Bishops of Croatia*, as well as the Cardinals and Bishops who have come from other countries.
+
+My respectful greetings go also to *the President of the Republic* and to the other *civil and military Authorities*. I thank them for their presence and for their valuable assistance in the planning and realization of this, my third Pastoral Visit in Croatia.
+
+I offer a special greeting to *the many families* present here on this day dedicated to the family: you are *an important part of society and the Church*, for "marriage and the family constitute one of the most precious of human values" (*[Familiaris Consortio](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)*, 1).
+
+### 3 {#jp2-hom-20030608-rijeka.3}
+
+We have gathered at the foot of this hill, beneath *the Shrine of Trsat*, where, according to a devout tradition, the house of the Virgin Mary stopped. Recalling the life of Jesus, Mary and Joseph at Nazareth reminds us of the austere beauty and simplicity, and the sacredness and inviolability of the Christian family.
+
+In contemplating Mary and Joseph as they present the Child Jesus in the Temple or on their pilgrimage to Jerusalem, Christian parents can see a reflection of themselves as they take part in the Sunday Eucharist with their children or gather in prayer at home. Here I would recall the programme that your Bishops initiated years ago at Nin: "The Croatian Catholic family prays daily and celebrates the Eucharist every Sunday". If this is to happen, it is essential to show respect for sacredness of Sunday, which enables members of the family to recollect themselves and to join in giving due worship to God.
+
+Nowadays *the family*, also in Croatia, requires *special consideration* and concrete policies aimed at promoting and protecting its essential nature, its development and its stability. Among other things, I am thinking of the serious problems associated with housing and employment. It must not be forgotten that in helping the family we also help to resolve other important problems, such as providing assistance to the sick and the elderly, stopping the spread of crime, and finding a remedy to drug use.
+
+### 4 {#jp2-hom-20030608-rijeka.4}
+
+Dear Christian families, do not be afraid to present to others, first and foremost by the witness of your lives, God’s authentic plan for the family as a *community of life founded on marriage*, in other words, on the stable and faithful union of a man and a woman, bound to each other by a bond which is publicly manifested and recognized.
+
+It is your responsibility to provide for the *human and Christian education of your children*, trusting also in the expert assistance of committed and well-trained educators and catechists. This city of Rijeka venerates as its patron Saint Vitus, a young man who did not hesitate to give his life in order to preserve that fidelity to Christ which he had learned from his holy parents Modestus and Crescentia. Like them, you too must help your children to encounter Jesus and to follow him, even amid the temptations to which young people are continuously exposed, along the path that leads to authentic joy.
+
+In carrying out your ministry as parents, do not tire of repeating the invocation that for centuries the citizens of Rijeka have confidently raised before the miraculous Crucifix venerated in their Cathedral: *"Pomogao nam sveti Križ svetog Vida!"* (May the holy Cross of Saint Vitus come to our aid!).
+
+### 5 {#jp2-hom-20030608-rijeka.5}
+
+Society today is *tragically fragmented and divided*. This is the reason why it is so desperately unfulfilled. But Christians do not become resigned to weariness or paralyzed by inertia. *May you be a people of hope*! May you be a people which prays: "Come from the four winds, O breath, and breathe upon these slain, that they may live" (Ez 37:14). May you be a people which believes in the Word spoken by God and accomplished in Christ: "I will put my Spirit within you, and you shall live, and I will place you in your own land; then you shall know that I, the Lord, have spoken, and I have done it, says the Lord" (Ez 37:14).
+
+Christ’s desire is that all people should be one in him, so that all may experience the fullness of his joy (cf. Jn 15:11; 17:13). Today too he expresses this desire, for the Church which is ourselves. For this reason he, together with the Father, has sent us the Holy Spirit. The Spirit is tirelessly at work, overcoming every division and healing every wound.
+
+### 6 {#jp2-hom-20030608-rijeka.6}
+
+Saint Paul has reminded us that "the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control" (Gal 5:22-23). Today the Pope invokes these gifts of the Spirit on all the Christian married couples of Croatia, that by their mutual gift of self, in fidelity to the duties of marriage and in service to the cause of the Gospel, they may be in the world *a sign of God’s love for humanity*.
+
+I invoke these gifts upon all of you who take part in this celebration and upon all who here reconfirm your commitment to bear witness to Christ and his Gospel.
+
+"Come, Holy Spirit, fill the hearts of your faithful and kindle in them the fire of your love" (*Gospel Acclamation*).
+
+Come, Holy Spirit! Amen.

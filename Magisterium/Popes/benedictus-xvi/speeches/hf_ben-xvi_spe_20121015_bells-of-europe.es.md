@@ -1,0 +1,42 @@
+---
+id: b16-spe-20121015-bells-of-europe.es
+work: b16-spe-20121015-bells-of-europe
+title: "Entrevista al Santo Padre de la película 'Bells of Europe - Campanas de Europa: un viaje en la fe a través de Europa' (15 de octubre de 2012)"
+creator: "Benedictus PP. XVI"
+pope: Benedict XVI
+document-type: Address
+url_date: 2012-10-15
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/benedict-xvi/es/speeches/2012/october/documents/hf_ben-xvi_spe_20121015_bells-of-europe.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#b16-spe-20121015-bells-of-europe} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Entrevista al Santo Padre de la película "Bells of Europe - Campanas de Europa: un viaje en la fe a través de Europa" (15 de octubre de 2012) {#b16-spe-20121015-bells-of-europe}
+DE LA PELÍCULA "BELLS OF EUROPE - CAMPANAS DE EUROPA:\
+UN VIAJE EN LA FE A TRAVÉS DE EUROPA"
+
+## ENTREVISTA AL SANTO PADRE BENEDICTO XVI
+
+*P.* ― *Santidad, en sus encíclicas propone una antropología fuerte, un hombre habitado por el amor de Dios, un hombre de racionalidad ampliada por la fe, un hombre que tiene una responsabilidad social gracias a la dinámica de caridad recibida y dada en la verdad. Santidad, en este horizonte antropológico en que el mensaje evangélico exalta todos los elementos dignos de la persona humana, purificando las escorias que oscurecen el verdadero rostro del hombre creado a imagen y semejanza de Dios, usted ha reafirmado en repetidas ocasiones que este redescubrimiento de rostro humano, de los valores evangélicos, de las raíces profundas de Europa es una fuente de gran esperanza para el continente europeo, y no sólo ... ¿Puede explicar las razones de su esperanza?*
+
+**Santo Padre** ― La primera razón de mi esperanza consiste en que el deseo de Dios, la búsqueda de Dios está profundamente grabada en cada alma humana y no puede desaparecer. Ciertamente, durante algún tiempo, Dios puede olvidarse o dejarse de lado, se pueden hacer otras cosas, pero Dios nunca desaparece. Simplemente, es cierto, como dice san Agustín, que nosotros, los hombres, estamos inquietos hasta que encontramos a Dios. Esta preocupación también existe en la actualidad. Es la esperanza de que el hombre, siempre de nuevo, también hoy, se encamine hacia este Dios.
+
+La segunda razón de mi esperanza consiste en el hecho de que el Evangelio de Jesucristo, la fe en Cristo, es simplemente verdad. Y la verdad no envejece. También se puede olvidar durante algún tiempo, es posible encontrar otras cosas, se puede dejar de lado; pero la verdad como tal no desaparece. Las ideologías tienen un tiempo determinado. Parecen fuertes, irresistibles, pero después de un determinado período se consumen; pierden su fuerza porque carecen de una verdad profunda. Son partículas de verdad, pero al final se consumen. En cambio, el evangelio es verdadero, y por lo tanto nunca se consume. En todos los períodos de la historia aparecen sus nuevas dimensiones, aparece en toda su novedad, para responder a las necesidades del corazón y de la razón humana que puede caminar en esta verdad y encontrarse en ella. Y así, por esta razón, estoy convencido de que también hay una nueva primavera del cristianismo.
+
+Un tercer motivo empírico lo vemos en que esta inquietud se manifiesta en la juventud de hoy. Los jóvenes han visto tantas cosas ―las ofertas de las ideologías y del consumismo― pero perciben el vacío de todo esto, su insuficiencia. El hombre ha sido creado para el infinito. Todo lo finito es demasiado poco. Y por eso vemos cómo, en las generaciones más jóvenes, esta inquietud se despierta de nuevo y cómo se ponen en camino; así hay nuevos descubrimientos de la belleza del cristianismo; un cristianismo que no es barato, ni reducido, sino radical y profundo . Por lo tanto, me parece que la antropología, como tal, nos indica que siempre habrá nuevos despertares del cristianismo y los hechos lo confirman con una palabra: cimiento profundo. Es el cristianismo. Es verdadero, y la verdad siempre tiene un futuro.
+
+*P.― Santidad, usted ha dicho muchas veces que Europa ha tenido y tiene todavía una influencia cultural sobre toda la humanidad y tiene que sentirse especialmente responsable, no sólo del propio futuro, sino también del de todo el género humano. Mirando hacia adelante, ¿es posible trazar los límites del testimonio visible de los católicos y de los cristianos pertenecientes a las Iglesias ortodoxas y protestantes, en Europa del Atlántico a los Urales que, viviendo los valores evangélicos en los que creen, contribuyan a la construcción de una Europa más fiel a Cristo, más acogedora, solidaria, no sólo custodiando la herencia cultural y espiritual que los caracteriza, sino también en el compromiso de buscar nuevas vías para afrontar los grandes desafíos comunes que marcan la época post-moderna y multicultural?*
+
+**Santo Padre** ― Se trata de la gran cuestión. Es evidente que Europa tiene también hoy en el mundo un gran peso tanto económico como cultural e intelectual. Y, de acuerdo con este peso, tiene una gran responsabilidad. Pero como ha dicho usted, Europa tiene que encontrar todavía su plena identidad para poder hablar y actuar según su responsabilidad. El problema hoy no son ya, en mi opinión, las diferencias nacionales. Se trata de diversidades que, gracias a Dios, ya no constituyen divisiones. Las naciones permanecen, y en sus diversidades culturales, humanas, temperamentales, son una riqueza que se completa y da lugar a una gran sinfonía de culturas. Son, fundamentalmente, una cultura común. El problema de Europa para encontrar su identidad creo que consiste en el hecho de que hoy en Europa tenemos dos almas: una de ellas es una razón abstracta, anti-histórica, que pretende dominar todo porque se siente por encima de todas las culturas. Una razón que al fin ha llegado a sí misma, que pretende emanciparse de todas las tradiciones y valores culturales en favor de una racionalidad abstracta. La primera sentencia de Estrasburgo sobre el Crucifijo era un ejemplo de esta razón abstracta que quiere emanciparse de todas las tradiciones, de la misma historia. Pero así no se puede vivir. Además, también la "razón pura" está condicionada por una determinada situación histórica, y solo en este sentido puede existir. La otra alma es la que podemos llamar cristiana, que se abre a todo lo que es razonable, que ha creado ella misma la audacia de la razón y la libertad de una razón crítica, pero sigue anclada en las raíces que han dado origen a esta Europa, que la han construido sobre los grandes valores, las grandes intuiciones, la visión de la fe cristiana. Como decía usted, sobre todo en el diálogo ecuménico entre Iglesia católica, ortodoxa, protestante, este alma tiene que encontrar una común expresión y después tiene que confrontarse con esa razón abstracta, es decir, aceptar y conservar la libertad crítica de la razón con respecto a todo lo que puede hacer y ha hecho, pero practicarla, concretarla en el fundamento, en la cohesión con los grandes valores que nos ha dado el cristianismo. Sólo en esta síntesis Europa puede tener peso en el diálogo intercultural de la humanidad de hoy y de mañana, porque una razón que se ha emancipado de todas las culturas no puede entrar en un diálogo intercultural. Sólo una razón que tiene una identidad histórica y moral puede también hablar con los demás, buscar una interculturalidad en la que todos pueden entrar y encontrar una unidad fundamental de los valores que pueden abrir las vías al futuro, a un nuevo humanismo, que tiene que ser nuestro objetivo. Y para nosotros este humanismo crece precisamente a partir de la gran idea del hombre a imagen y semejanza de Dios.

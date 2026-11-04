@@ -1,0 +1,67 @@
+---
+id: jp2-mes-20020212-giussani.en
+work: jp2-mes-20020212-giussani
+title: "Message to Msgr. Luigi Giussani, founder of the Communion and Liberation Movement (February 11, 2002)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Message
+url_date: 2002-02-12
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+also_listed_on_vatican_va_as: "jp2/speeches/hf_jp-ii_spe_20020212_messaggio-giussani — the same work cross-filed under another heading or slug; one file is kept, this one"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/2002/documents/hf_jp-ii_mes_20020212_messaggio-giussani.html"
+fetch_date: 2026-08-23
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-mes-20020212-giussani.N} — numbered paragraphs 1..4 (4 anchors), shared with jp2-mes-20020212-giussani.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-30
+---
+
+# Message to Msgr. Luigi Giussani, founder of the Communion and Liberation Movement (February 11, 2002)
+## MESSAGE OF JOHN PAUL II TO MONSIGNOR LUIGI GIUSSANI, FOUNDER OF THE "COMMUNION AND LIBERATION" MOVEMENT AND FRATERNITY
+
+*To Rev. Mons. Luigi Giussani\
+Founder of the Movement "Communion and Liberation"*
+
+### 1 {#jp2-mes-20020212-giussani.1}
+
+I join with intense participation in the joy of the Fraternity of "Communion and Liberation" on the 20th anniversary of its recognition by the Pontifical Council for the Laity as an association of the faithful of pontifical right. In 1954, dear Mons. Giussani, you founded the "Communion and Liberation" Movement in Milan, and it soon spread to other parts of Italy and later to other countries of the world. The Fraternity is the mature fruit of this movement.
+
+On the happy occasion of this 20th anniversary, I am particularly pleased to review the important steps of the ecclesial journey of the Movement to thank God for all that he has accomplished through your initiative, Reverend Monsignor, and through the initiative of all who have joined you in the course of the years. It is a great comfort to recall together the events through which God's action became manifest and to recognize the greatness of his mercy.
+
+### 2 {#jp2-mes-20020212-giussani.2}
+
+In reviewing the life and actions of the Fraternity and of the Movement, the first impressive feature is the ability to listen to the needs of human beings today. The human person never stops seeking:  he continues seeking when he is upset by the drama of violence, loneliness and profound doubt, just as when he lives in peace and joy. The only response that can satisfy him, that fulfills this search comes to him from the encounter with the One who is the source of his being and his action.
+
+Therefore the Movement wanted and wants to point out not *a* way but *the* way to arrive at the solution of this existential drama. The way, as you have said so often, is Christ. He is the Way, the Truth and the Life who reaches the person in his daily existence. The discovery of this way usually takes place through the mediation of other human beings. Identified through the gift of faith by the encounter with the Redeemer, believers are called to become an echo of the event of Christ, to become themselves an "event".
+
+Thus, before being a collection of doctrines or a rule for salvation, Christianity is the "event" of an encounter. This is the intuition and experience that in these years you have communicated to so many people who have joined the Movement. "Communion and Liberation", rather than offering new things, aims at helping people rediscover the Tradition and history of the Church, to re-express it in eloquent ways that address and challenge the people of our time. In my *Message to the Participants in the World Congress of Ecclesial Movements and New Communities on* 27 May 1998, I wrote that the originality of the charism of each movement "neither claims nor could claim to add anything to the richness of the *depositum fidei,* safeguarded by the Church with passionate fidelity" (n. 4; *L'Osservatore Romano*, English edition, 10 June 1998, p. 2). This originality, however, "represents a powerful support, a moving and convincing reminder to live the Christian experience fully, with intelligence and creativity. Therein lies the basis for finding adequate responses to the challenges and needs of ever changing times and circumstances" (*ibid.*).
+
+### 3 {#jp2-mes-20020212-giussani.3}
+
+We need to turn to Christ, the Word of God who became flesh for humanity's salvation. Jesus of Nazareth, who lived the human experience as no one else could, himself becomes the goal of every human aspiration. Only in him can man fully arrive at knowing himself.
+
+In this way faith appears as a genuine adventure of human knowing, since it is neither an abstract discourse nor a vague religious sentiment, but a personal encounter with Christ who gives new meaning to life. The educational work, that, in the rich array of your activities and communities, so many parents and teachers have tried to accomplish, consisted precisely in guiding brothers, sisters, children, friends to discover in their affections, their work, their different vocations, the voice that brings each one to the definitive encounter with the Word made flesh. Only in the Only-Begotten Son of the Father can man find a full, definitive response to his deep and basic longings.
+
+This permanent dialogue with Christ, nourished by personal and liturgical prayer, is an incentive for an active social presence, as the history of the Movement and the Fraternity of "Communion and Liberation" testifies. Indeed, yours is also a *history of works* of culture, charity, and formation and, observing the distinction between the aims of civil society and of the Church, it is a history of involvement in the field of politics too, that by its very nature is full of conflicts, in which, faithfully serving the cause of the common good becomes burdensome.
+
+### 4 {#jp2-mes-20020212-giussani.4}
+
+In the past 20 years the Church has seen born and develop within her many other *movements, communities and associations.* The power of Christ's Spirit never ceases to overcome or to break down the fixed patterns and forms previously left in place by life, urging people onwards to unforeseen styles of expression. This urgency is the sign of the living *mission of the Church,* in which the face of Christ appears in the features of people of every time and place. How is it possible not to be filled with awe at these marvelous works of the Holy Spirit? He works wonders, and at the dawn of a new millennium impels believers to put out into the deep towards ever more advanced frontiers in building the Kingdom.
+
+Years ago, on the occasion of the 30th anniversary of the foundation of "Communion and Liberation", I said to you:  "Go out into the world and take with you the truth, the beauty and the peace that are found in Christ the Redeemer" (Rome, 29 September 1984, n. 4). At the beginning of the third millennium of the Christian age, I give you the same mandate, with vigor and with gratitude. I urge you to cooperate conscientiously in the mission of dioceses and parishes, courageously extending their missionary action to the very ends of the earth.
+
+May the Lord go with you and make your work fruitful. May Mary, the faithful Virgin and Star of the new evangelization, be your support and guide you on the path of ever more daring fidelity to the Gospel.
+
+With these sentiments, to you, Mons. Giussani, to those who work with you and to all the members of the Fraternity, and to all the members of the Movement, I gladly impart a special Apostolic Blessing.
+
+*From the Vatican, 11 February 2002, Feast of Our Lady of Lourdes.*
+
+## JOHN PAUL II

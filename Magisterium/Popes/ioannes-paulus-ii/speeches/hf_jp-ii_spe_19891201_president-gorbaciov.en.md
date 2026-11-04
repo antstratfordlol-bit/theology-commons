@@ -1,0 +1,77 @@
+---
+id: jp2-spe-19891201-president-gorbaciov.en
+work: jp2-spe-19891201-president-gorbaciov
+title: "DISCORSO DI GIOVANNI PAOLO II AL PRESIDENTE DEL SOVIET SUPREMO DELL ’ URSS MICHAIL GORBACIOV"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1989-12-01
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1989/december/documents/hf_jp-ii_spe_19891201_president-gorbaciov.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it"
+anchors: "{#jp2-spe-19891201-president-gorbaciov.N} — numbered paragraphs 1..7 (6 anchors), shared with jp2-spe-19891201-president-gorbaciov.es"
+anchor_check: "MISMATCH: en: 6 anchors to 7; es: 7 anchors to 7"
+unnumbered_on_page: "1 — these paragraphs carry no number on the vatican.va page in this language; no anchor is emitted for them"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# DISCORSO DI GIOVANNI PAOLO II AL PRESIDENTE DEL SOVIET SUPREMO DELL ’ URSS MICHAIL GORBACIOV
+## DISCORSO DI GIOVANNI PAOLO II AL PRESIDENTE DEL SOVIET SUPREMO DELL’URSS MICHAIL GORBACIOV
+
+*Venerdì, 1° dicembre 1989*
+
+The visit which you are making to the Successor of Peter is an important event in the history of relations between the Soviet Union and the Apostolic See. As such, it is being followed with great interest by Catholics throughout the world and by all people of good will. It is well known that the Pope’s house has always been a home for the representatives of all the peoples of the earth. You are therefore cordially welcome here, Mr. President. Through you I also wish to greet all the peoples of the Republics of the Soviet Union. My esteem and affection goes out to all of them.
+
+### 2 {#jp2-spe-19891201-president-gorbaciov.2}
+
+Last year we celebrated the Millennium of the Baptism of the Russia, an event which left such a profound mark on the history of the peoples who on that occasion received the message of Christ. In this way, the riches contained in Revelation concerning the dignity and value of the human person, which derive from the person’s relationship to God the Creator and Father of all, admirably merged with the original heritage of those peoples, a heritage which in the course of centuries has been enhanced by so many other religious and cultural values.
+
+As an eloquent expression of this, I am pleased to mention the Icons now on view at the Exhibition which I opened several days ago. An Icon is indeed a wonderful synthesis of art and faith. It uplifts the soul towards the Absolute through a unique blend of colour and message.
+
+### 3 {#jp2-spe-19891201-president-gorbaciov.3}
+
+I am pleased to consider your visit, Mr. President, against the backdrop of the Millennial celebration and, at the same time, to look upon it as a promise – filled sign for the – future. Your visit, in fact, enables us to look with greater confidence to the future of the communities of believers in the Soviet Union.
+
+The events of past decades and the painful trials to which so many citizens were subjected because of their faith are widely known.
+
+In particular, it is well known that many Catholic communities are today eagerly awaiting the opportunity of re-establishing themselves and of being able to rejoice in the leadership of their Pastors.
+
+Recent developments and the new perspectives which have opened up lead us to the hope that the situation will change, thanks to the repeatedly affirmed decision of your Government to proceed with a renewal of internal legislation in order to bring it into full harmony with the solemn international commitments to which the Soviet Union has also subscribed.
+
+On this occasion I make my own the expectation of millions of your fellow citizens – and with them of millions of others throughout the world – namely, that the law on freedom of conscience soon to be discussed by the Supreme Soviet will help to guarantee to all believers the full exercise of the right to religious freedom which, as I have said many times, is the foundation of the other freedoms. My thoughts turn in particular to those Christians living in the Soviet Union who are in full communion with this Apostolic See. On their behalf – whether they be of the Latin, Byzantine or Armenian Rite – I express the fervent hope that they be able to practice freely their religious life.
+
+In a climate of restored freedom, Catholics will thus be able to work together with their brethren of the Orthodox Church, who are so dear to us. Indeed, we share with them a common patrimony and wish to cooperate with them in a renewed ecumenical commitment to preach the Gospel of Christ to new generations and to work together with them in the vast field of human development, as we await the rebuilding of that unity which Christ willed for his Church.
+
+### 4 {#jp2-spe-19891201-president-gorbaciov.4}
+
+With you, Mr. President, we have had the opportunity to dwell on the international situation and on some specific and more urgent problems. We have also discussed the development of contacts between us for resolving the problems of the Catholic Church in the U.S.S.R. as well as for fostering a shared commitment on behalf of peace and cooperation in the world.
+
+### 5 {#jp2-spe-19891201-president-gorbaciov.5}
+
+This cooperation is possible because man is both its subject and its object. Indeed, «man is the way of the Church», as I had occasion to point out at the very outset of my Pontificate (Encyclical Redemptor Hominis, No. 14, 4 March 1979).
+
+While on the one hand the Church comes to know the mystery of man in the light of the mystery of Christ (Vatican Council Il, Constitution Gaudium et Spes, No. 22), she also learns to deepen her understanding of that mystery through the experiences of individuals as well as through the successes and failures of Nations. For this reason, the Church, as an «expert in humanity» (Paul VI, Address to the General Assembly of the United Nations, 4 October 1965), today more than ever joins with all those who desire to serve the cause of man and to contribute to the progress of nations.
+
+At the end of the second millennium of the Christian era, the Church appeals to all those who have the future of mankind at heart, to unite in the service of its material and spiritual betterment. Such concern for man can not only pave the way for overcoming international tensions and ending the confrontation between blocs; it can also favour the birth of a universal solidarity, especially with regard to the developing countries. «Solidarity» – as I have had occasion to affirm – «helps us to see the «other» whether person, people or Nation not just as some kind of instrument... but as our «neighbour», a «helper» (cf. Gen 2 :1 8-20) , to be made a sharer, on a par with ourselves, in the banquet of life to which all are equally invited by God» (Encyclical Sollicitudo Rei Socialis, No. 39).
+
+This is particularly true for the richer and more powerful nations. With respect to them, I have noted that «surmounting every type of imperialism and determination to preserve their own hegemony... (those nations) must have a sense of moral responsibility for the other nations, so that an effective international system may be established which will rest on the foundation of the equality of all peoples and on the necessary respect for their legitimate differences» (loc. cit.).
+
+### 6 {#jp2-spe-19891201-president-gorbaciov.6}
+
+To be sure, mankind today awaits new forms of cooperation and mutual assistance. The tragedy of the Second World War has taught us, however, that if fundamental ethical values are forgotten, fearful consequences for the fate of peoples can result and even the greatest of enterprises can end in failure. Hence, in my Apostolic letter commemorating the outbreak of the Second World War l felt the need to remind all peoples that «there can be no peace if man and law are held in contempt» and «if the rights of all peoples – particularly the most vulnerable – are not respected» (No. 8) . What is more, I expressed to statesmen and the leaders of Nations my profound conviction «that respect for God and respect for man go hand in hand. They make up the absolute principle which allows States and political blocs to overcome their hostilities» (No. 12).
+
+### 7 {#jp2-spe-19891201-president-gorbaciov.7}
+
+Mr. President, our meeting today will hardly fail to have a powerful impact on world opinion. Not only is it something new and unusual: it will also be interpreted as singularly meaningful: a sign of the times that have slowly matured, a sign that is rich in promise.
+
+The Holy See follows with great interest the process of renewal which you have set in motion in the Soviet Union. It wishes you success and declares itself ready to support every initiative that will better protect and integrate the rights and duties of individuals and peoples, so that peace may be ensured in Europe and in the world.
+
+\**L'Osservatore Romano. Weekly Edition in English* n. 49 p. 1, 12.

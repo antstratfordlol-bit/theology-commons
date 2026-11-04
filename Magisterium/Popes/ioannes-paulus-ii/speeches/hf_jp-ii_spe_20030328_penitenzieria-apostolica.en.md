@@ -1,0 +1,61 @@
+---
+id: jp2-spe-20030328-penitenzieria-apostolica.en
+work: jp2-spe-20030328-penitenzieria-apostolica
+title: "To participants in the course on the internal forum organized by the Apostolic Penitentiary (March 28, 2003)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2003-03-28
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2003/march/documents/hf_jp-ii_spe_20030328_penitenzieria-apostolica.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#jp2-spe-20030328-penitenzieria-apostolica.N} — numbered paragraphs 1..5 (5 anchors), shared with jp2-spe-20030328-penitenzieria-apostolica.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To participants in the course on the internal forum organized by the Apostolic Penitentiary (March 28, 2003)
+## ADDRESS OF JOHN PAUL II TO THE OFFICIALS OF THE APOSTOLIC PENITENTIARY
+
+*Friday, 28 March 2003*
+
+*Dear Friends,*
+
+### 1 {#jp2-spe-20030328-penitenzieria-apostolica.1}
+
+The course on the internal forum, organized every year by the Apostolic Penitentiary, gives me the opportunity to greet you at a special Audience. I extend a cordial welcome to the Major Pro-Penitentiary, Archbishop Luigi De Magistris, and I thank him for his kind words of greeting. I also greet the Prelates and Officials of the Tribunal and the Confessors of the Patriarchal Basilicas of Rome, as well as the young priests and candidates for the priesthood who are taking part in this traditional opportunity for their doctrinal formation.
+
+On many occasions I have expressed my gratitude to all who dedicate themselves to the ministry of penance in the Church: indeed, the Catholic priest is, above all, a minister of the redeeming sacrifice of Christ in the Eucharist and a minister of divine forgiveness in the sacrament of Penance.
+
+### 2 {#jp2-spe-20030328-penitenzieria-apostolica.2}
+
+On this occasion I wish to reflect particularly on the close connection that exists between the priesthood and the sacrament of Reconciliation, which the priest must first of all receive with faith and humility and with a frequency born of conviction. Indeed, with regard to priests, the Second Vatican Council teaches: "The ministers of sacramental grace are intimately united to Christ the Saviour and Pastor through the fruitful reception of the sacraments, especially the repeated sacramental act of Penance. If it is prepared for by a daily examination of conscience, it is a powerful incentive to the essential conversion of heart to the love of the Father of mercies" (*[Presbyterorum Ordinis](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html),* n. 18; *CIC,* can 276 2,5 and likewise, *CCEO,* can. 369 1).
+
+In addition to the intrinsic value of the sacrament of Penance when it is received by the priest as penitent, one can mention its ascetical efficacy as an opportunity for self-examination and, consequently, for the pleasant or painful determination, whether the results are pleasing or not, of one's degree of fidelity to his promises. It is also an ineffable moment to "experience" the eternal love with which the Lord cherishes each one of us in his own unique individuality: it is an outlet for disappointment and bitterness, perhaps for something unjustly inflicted on us. It is a comforting balm to alleviate the many forms of suffering that life entails.
+
+### 3 {#jp2-spe-20030328-penitenzieria-apostolica.3}
+
+As the minister of the sacrament of Penance who is conscious of the precious gift of grace placed in his hands, the priest must offer the faithful the charity of warm welcome, without begrudging his time or showing a harsh or cold manner. At the same time, regarding their problems, he must have the charity, indeed, the justice, to convey the genuine teaching of the Church without ideological distortions or arbitrary omissions, avoiding fashionable secular novelties (*profanas vocum novitates*).
+
+I particularly wish to draw your attention to the need for proper adherence to the Magisterium of the Church concerning the complex problems in the bioethical field, and the moral and canonical norms concerning marriage. In my *[Letter to Priests for Holy Thursday 2002](https://www.vatican.va/content/john-paul-ii/en/letters/2002/documents/hf_jp-ii_let_20020321_priests-holy-thursday.html)*, I remarked: "It can happen that in the face of complex contemporary ethical problems the faithful leave the confessional with somewhat confused ideas, especially if "they find that confessors are not consistent in their judgements.' The truth is that those who fulfil this delicate ministry in the name of God and of the Church have a specific duty not to promote and, even more so, not to express in the confessional, personal opinions that do not correspond to what the Church teaches and professes. Likewise, "a failure to speak the truth because of a misconceived sense of compassion should not be taken for love'" (*[Letter to Priests](https://www.vatican.va/content/john-paul-ii/en/letters/2002/documents/hf_jp-ii_let_20020321_priests-holy-thursday.html),* 17 March 2002, n. 10).
+
+### 4 {#jp2-spe-20030328-penitenzieria-apostolica.4}
+
+If the sacrament of Penance is well administered and received, it is the principal means of vocational discernment. The person acting in the internal forum must personally reach a moral certitude about the suitability and integrity of those to whom he gives spiritual direction if he is legitimately to approve and encourage their intention to receive Orders. Besides, one can only attain this moral certitude when the candidate's fidelity to the demands of a vocation has been proved by prolonged experience.
+
+In any case, the spiritual director should offer candidates for the priesthood not only discernment, but also the example of his own life, seeking to reproduce in himself the Heart of Christ.
+
+### 5 {#jp2-spe-20030328-penitenzieria-apostolica.5}
+
+The just and fruitful ministry of penance and love for the personal use of the sacrament of Penance depends above all on the Lord's grace. To obtain this gift for the priest, the mediation of Mary, Mother of the Church and Mother of priests, has unique importance since she is the Mother of Jesus, the Eternal High Priest. May she obtain from her Son the gift of holiness for every priest, through the sacrament of Penance, humbly received and generously offered.
+
+May the Apostolic Blessing which I cordially impart to you, as a pledge of God's blessings, descend upon your convictions, your resolutions and your hopes.

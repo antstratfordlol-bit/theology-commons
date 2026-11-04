@@ -1,0 +1,49 @@
+---
+id: francis-hom-20130731-sant-ignazio.es
+work: francis-hom-20130731-sant-ignazio
+title: "31 de julio de 2013: Santa Misa en la iglesia del 'Gesù', en Roma, con ocasión de la Fiesta de san Ignacio de Loyola"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Homily
+url_date: 2013-07-31
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/es/homilies/2013/documents/papa-francesco_20130731_omelia-sant-ignazio.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-hom-20130731-sant-ignazio.N} — numbered paragraphs 1..3 (3 anchors), shared with francis-hom-20130731-sant-ignazio.en; and {#francis-hom-20130731-sant-ignazio.prooem} — the text the page prints before its first numbered unit, under a heading minted for it (the dei-filius.prooem precedent)"
+anchor_check: "identical across en, es; prooem: identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 31 de julio de 2013: Santa Misa en la iglesia del "Gesù", en Roma, con ocasión de la Fiesta de san Ignacio de Loyola
+***HO******MILÍA DEL SANTO PADRE FRANCISCO\
+CON OCASIÓN DE LA FIESTA DE SAN IGNACIO DE LOYOLA\**
+
+Iglesia del Santísimo Nombre de Jesús, Roma\
+Miércoles 31 de julio de 2013*
+
+### Proemio {#francis-hom-20130731-sant-ignazio.prooem}
+
+En esta Eucaristía en la que celebramos a nuestro padre Ignacio de Loyola, a la luz de las lecturas que hemos escuchado, desearía proponer tres sencillos pensamientos guiados por tres expresiones: poner en el centro a Cristo y a la Iglesia; dejarse conquistar por Él para servir; sentir la vergüenza de nuestras limitaciones y pecados para ser humildes ante Él y ante nuestros hermanos.
+
+### 1 {#francis-hom-20130731-sant-ignazio.1}
+
+El escudo de nosotros, jesuitas, es un monograma, el acrónimo de «*Iesus Hominum Salvator*» (IHS). Cada uno de vosotros podrá decirme: ¡lo sabemos muy bien! Pero este escudo nos recuerda continuamente una realidad que jamás debemos olvidar: la centralidad de Cristo para cada uno de nosotros y para toda la Compañía, a la que san Ignacio quiso precisamente llamar «de Jesús» para indicar el punto de referencia. Por lo demás, también al comienzo de los Ejercicios Espirituales nos sitúa ante nuestro Señor Jesucristo, nuestro Creador y Salvador (cf. EE, 5). Y esto nos lleva a nosotros, jesuitas, y a toda la Compañía a estar «descentrados», a tener delante al «Cristo siempre mayor», el «*Deus semper maior*», el «*intimior intimo meo*», que nos lleva continuamente fuera de nosotros mismos, nos lleva a una cierta *kenosis*, a salir del «propio amor, querer e interés» (ee, 189). No está descontada la pregunta para nosotros, para todos nosotros: ¿es Cristo el centro de mi vida? ¿Pongo verdaderamente a Cristo en el centro de mi vida? Porque existe siempre la tentación de pensar que estamos nosotros en el centro. Y cuando un jesuita se pone él mismo en el centro, y no a Cristo, se equivoca. En la primera lectura Moisés repite con insistencia al pueblo que ame al Señor, que camine por sus sendas, «pues Él es tu vida» (cf. *Dt* 30, 16.20). ¡Cristo es nuestra vida! A la centralidad de Cristo le corresponde también la centralidad de la Iglesia: son dos fuegos que no se pueden separar: yo no puedo seguir a Cristo más que *en* la Iglesia y *con* la Iglesia. Y también en este caso nosotros, jesuitas, y toda la Compañía no estamos en el centro; estamos, por así decirlo, «desplazados», estamos al servicio de Cristo y de la Iglesia, la Esposa de Cristo nuestro Señor, que es nuestra Santa Madre Iglesia Jerárquica (cf. EE, 353). Ser hombres enraizados y fundados en la Iglesia: así nos quiere Jesús. No puede haber caminos paralelos o aislados. Sí, caminos de investigación, caminos creativos, sí; esto es importante: ir hacia las periferias, las muchas periferias. Para esto se requiere creatividad, pero siempre en comunidad, en la Iglesia, con esta pertenencia que nos da el valor para ir adelante. Servir a Cristo es amar a esta Iglesia concreta, y servirla con generosidad y espíritu de obediencia.
+
+### 2 {#francis-hom-20130731-sant-ignazio.2}
+
+¿Cuál es el camino para vivir esta doble centralidad? Contemplemos la experiencia de san Pablo, que es también la experiencia de san Ignacio. El Apóstol, en la segunda lectura que hemos escuchado, escribe: me esfuerzo por correr hacia la perfección de Cristo porque también «yo he sido alcanzado por Cristo» (*Flp* 3, 12). Para Pablo sucedió en el camino de Damasco; para Ignacio en su casa de Loyola; pero el punto fundamental es común: dejarse conquistar por Cristo. Yo busco a Jesús, yo sirvo a Jesús porque Él me ha buscado antes, porque he sido conquistado por Él: y éste es el núcleo de nuestra experiencia. Pero Él es el primero, siempre. En español existe una palabra que es muy gráfica, que lo explica bien: Él nos «primerea». Es el primero siempre. Cuando nosotros llegamos, Él ha llegado y nos espera. Y aquí querría recordar la meditación sobre el Reino, en la segunda semana. Cristo nuestro Señor, Rey eterno, llama a cada uno de nosotros diciéndonos: «quien quisiere venir conmigo, ha de trabajar conmigo, porque siguiéndome en la pena, también me siga en la gloria» (EE, 95): ser conquistado por Cristo para ofrecer a este Rey toda nuestra persona y toda nuestra fatiga (cf. EE, 96); decir al Señor querer hacer todo para su mayor servicio y alabanza, imitarle en soportar también injurias, desprecio, pobreza (cf. EE, 98). Pero pienso en nuestro hermano en Siria en este momento. Dejarse conquistar por Cristo significa tender siempre hacia aquello que tenemos de frente, hacia la meta de Cristo (cf. *Flp* 3, 14) y preguntarse con verdad y sinceridad: ¿Qué he hecho por Cristo? ¿Qué hago por Cristo? ¿Qué debo hacer por Cristo? (cf. EE, 53).
+
+### 3 {#francis-hom-20130731-sant-ignazio.3}
+
+Y llego al último punto. En el Evangelio Jesús nos dice: «Quien quiera salvar su vida la perderá, pero el que pierda su vida por mi causa la salvará... Si uno se avergüenza de mí...» (*Lc* 9, 23-26). Y así sucesivamente. La vergüenza del jesuita. La invitación que hace Jesús es la de no avergonzarse nunca de Él, sino seguirle siempre con entrega total, fiándose y confiándose a Él. Pero contemplando a Jesús, como nos enseña san Ignacio en la Primera Semana, sobre todo contemplando al Cristo crucificado, sentimos ese sentimiento tan humano y tan noble que es la vergüenza de no estar a la altura; contemplamos la sabiduría de Cristo y nuestra ignorancia, su omnipotencia y nuestra debilidad, su justicia y nuestra iniquidad, su bondad y nuestra maldad (cf. EE, 59). Pedir la gracia de la vergüenza; vergüenza que me llega del continuo coloquio de misericordia con Él; vergüenza que nos hace sonrojar ante Jesucristo; vergüenza que nos pone en sintonía con el corazón de Cristo que se hizo pecado por mí; vergüenza que pone en armonía nuestro corazón en las lágrimas y nos acompaña en el seguimiento cotidiano de «mi Señor». Y esto nos lleva siempre, individualmente y como Compañía, a la humildad, a vivir esta gran virtud. Humildad que nos hace conscientes cada día de que no somos nosotros quienes construimos el Reino de Dios, sino que es siempre la gracia del Señor que actúa en nosotros; humildad que nos impulsa a ponernos por entero no a nuestro servicio o al de nuestras ideas, sino al servicio de Cristo y de la Iglesia, como vasijas de barro, frágiles, inadecuados, insuficientes, pero en los cuales hay un tesoro inmenso que llevamos y comunicamos (*2 Co* 4, 7). Siempre me ha gustado pensar en el ocaso del jesuita, cuando un jesuita acaba su vida, cuando declina. Y recuerdo siempre dos imágenes de este ocaso del jesuita: una clásica, la de san Francisco Javier, mirando China. El arte ha pintado muchas veces este ocaso, este final de Javier. También la literatura, en ese bello fragmento de Pemán. Al final, sin nada, pero ante el Señor; esto me hace bien: pensar en esto. El otro ocaso, la otra imagen que me viene como ejemplo, es la del padre Arrupe en el último coloquio en el campo de refugiados, cuando nos había dicho —lo que él mismo decía— «esto lo digo como si fuera mi canto del cisne: orad». La oración, la unión con Jesús. Y, después de haber dicho esto, tomó el avión, llegó a Roma con el *ictus*, que dio inicio a aquel ocaso tan largo y tan ejemplar. Dos ocasos, dos imágenes que a todos nosotros hará bien contemplar, y volver a estas dos. Y pedir la gracia de que nuestro ocaso sea como el de ellos.
+
+Queridos hermanos, dirijámonos a Nuestra Señora; que Ella, que llevó a Cristo en su vientre y acompañó los primeros pasos de la Iglesia, nos ayude a poner siempre en el centro de nuestra vida y de nuestro ministerio a Cristo y a su Iglesia; que Ella, que fue la primera y más perfecta discípula de su Hijo, nos ayude a dejarnos conquistar por Cristo para seguirle y servirle en cada situación; que Ella, que respondió con la humildad más profunda al anuncio del Ángel: «He aquí la esclava del Señor, hágase en mí según tu palabra» (*Lc* 1, 38), nos haga experimentar la vergüenza por nuestra indigencia frente al tesoro que nos ha sido confiado, para vivir la humildad ante Dios. Que acompañe nuestro camino la paterna intercesión de san Ignacio y de todos los santos jesuitas, que continúan enseñándonos a hacer todo, con humildad, *ad maiorem Dei gloriam*.

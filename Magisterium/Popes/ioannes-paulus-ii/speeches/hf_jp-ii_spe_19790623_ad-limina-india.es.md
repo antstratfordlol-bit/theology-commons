@@ -1,0 +1,57 @@
+---
+id: jp2-spe-19790623-ad-limina-india.es
+work: jp2-spe-19790623-ad-limina-india
+title: "A un grupo de obispos de India en visita “ad Limina Apostolorum” (23 de junio de 1979)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 1979-06-23
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/speeches/1979/june/documents/hf_jp-ii_spe_19790623_ad-limina-india.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#jp2-spe-19790623-ad-limina-india} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# A un grupo de obispos de India en visita “ad Limina Apostolorum” (23 de junio de 1979) {#jp2-spe-19790623-ad-limina-india}
+***DISCURSO DEL SANTO PADRE JUAN PABLO II\
+A UN GRUPO DE OBISPOS DE LA REGIÓN TAMIL NADU DE LA INDIA\
+EN VISITA «AD LIMINA APOSTOLORUM»**
+
+Sábado 23 de junio de 1979*
+
+*Queridos hermanos en Nuestro Señor Jesucristo:*
+
+Es difícil acertar a expresar el gozo que siento al encontrarme entre mis hermanos obispos durante sus visitas *ad Limina*. Cada reunión es un encuentro con el Pastor de una Iglesia local, con el líder espiritual de una comunidad eclesial individual que tiene la propia identidad en el contexto de la unidad católica. La Iglesia una, santa, católica y apostólica vive en cada una de vuestras diócesis y en todas ellas juntas. Una visita *ad Limina* es sin duda alguna una celebración de la unidad católica y una manifestación de fidelidad a Jesucristo, "el Pastor soberano" (*1 Pe* 5, 4), de la Iglesia universal.
+
+Como Sucesor de Pedro y Vicario de Cristo deseo saludar hoy en vosotros a todos los católicos de la región de Tamil Nadu, y a los representados aquí por los obispos que se han unido a este grupo regional. Asimismo deseo rendir homenaje lleno de respeto a la cultura tan antigua de vuestro país, una cultura imbuida de sabiduría, rica en experiencia humana y repleta de valores espirituales que apuntan a Dios y a su providencia en la historia humana.
+
+En un momento dado de la historia de vuestro pueblo le fue ofrecido un mensaje único y original de revelación, que fue aceptado libremente por aquellos que quisieron fundar su vida en "todo lo que Jesús hizo y enseñó hasta el día en que fue levantado al cielo" (*Act* 1, 1). Se predicó el nombre de Jesucristo y se proclamó su Evangelio entre vosotros. Su persona divina pasó a ser para muchos el centro de su vida, y su mensaje de bondad y humildad constituyó la motivación de sus actividades. A través de la acción del Espíritu Santo, la semilla de la Palabra de Dios sembrada en tierra buena, produjo frutos de santidad, justicia y amor. Y Dios sigue siendo alabado en las obras maravillosas que su gracia ha realizado en India.
+
+La Palabra de Dios, que contiene la Buena Nueva de la salvación en Jesucristo, comenzó a ser una gran herencia que había de guardarse y transmitirse. Fue aceptada como tesoro que había de pasar de generación en generación. En cuanto a Jesús, El habló como su Padre le había enseñado; no hizo nada de su iniciativa (cf. *Jn* 8, 28). Naturalmente Jesús insiste en el hecho de que habla con la autoridad de su Padre: "Mi doctrina no es mía sino del que me ha enviado" (*Jn* 7, 16). La transmisión de estas enseñanzas está confiada a la acción del Espíritu Santo: ha de tener lugar siempre a través de la Iglesia. El Espíritu Santo, a quien el Padre envía en el nombre de Jesús, suscita en la Iglesia la actuación de su vocación en cuanto comunidad llamada a escuchar y guardar y llevar a la práctica la Palabra de Dios. La transmisión del Evangelio pasa a ser responsabilidad general de toda la comunidad, que vive y actúa bajo la guía del Espíritu Santo.
+
+El mismo Espíritu Santo que penetra todo el Cuerpo de Cristo y lo afirma en la unidad, implanta en la comunidad un carisma de servicio especial —la función del obispo— que se transforma en el instrumento específico de salvaguardia y proclamación de la Palabra de Dios. Y esta tarea distintiva es la vuestra hoy, queridos hermanos que estáis llamados a gobernar la Iglesia junto con el Sucesor de Pedro y dentro de la unidad del Colegio Episcopal. Cada uno de vosotros tiene conciencia de la importancia y urgencia de las palabras de Pablo a Timoteo: "Guarda el buen depósito por la virtud del Espíritu Santo que mora en nosotros" (*2 Tim* 1, 14). Este encargo constituye un aspecto vital de vuestro ministerio en la Iglesia y para bien de la Iglesia, que está destinada al servicio de la Palabra viva de Dios.
+
+En el cumplimiento de vuestra tarea os ayudan vuestros sacerdotes en primer lugar, que sin duda son dignos de vuestro amor fraterno y atención pastoral. En cuanto compañeros vuestros de trabajo, también ellos tienen \`"por deber primero el de anunciar a todos el Evangelio de Dios" (*[Presbyterorum ordinis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_sp.html)*, 4). Os ruego que les repitáis una y otra vez la importancia de la tarea que llevan a cabo en la actuación de la obra de la redención.
+
+Sé que en vuestras Iglesias locales los catequistas desempeñan un papel muy particular en la gran tarea que incumbe a toda la comunidad, la tarea de transmitir la Palabra de Dios. Vuestra dirección en este campo es vital: ocuparse de la preparación doctrinal y espiritual de los catequistas, procurar que los catequistas, ellos mismos, estén formados en la palabra de Cristo e imbuidos del misterio del amor de Cristo, y que compartan su deseo de servicio. Guiados por vosotros, los catequistas comprenderán que en el meollo de su misión está la urgencia de comunicar a Cristo, es decir, de transmitir su palabra a los hermanos, y hacer brotar una respuesta sobrenatural de fe, esperanza y caridad. La comunidad de fieles crece hasta la madurez plena en Cristo Cabeza, sólo si acoge la Palabra de Dios. En el campo catequético el éxito presupone certeza de la responsabilidad general de la Iglesia, certeza de que todos los fieles están encargados por el Señor, a través del bautismo y la confirmación, de tomar parte en el apostolado de su Iglesia (cf. *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, 33). Estad seguros de que el Papa os sostiene y alienta en los esfuerzos por preparar, alentar y perfeccionar a vuestros catequistas. Y ruego al Espíritu Santo que os guíe hasta encontrar oportunidades nuevas de promover esta gran actividad apostólica en vuestras Iglesias locales.
+
+La transmisión de la fe está vinculada de manera muy especial a la formación que se dé a los estudiantes para el sacerdocio. La fidelidad de la Iglesia a su vocación de escuchar, guardar y llevar a la práctica la Palabra de Dios, depende de la eficiencia de los seminarios. Esta es la razón porque el Concilio Vaticano II calificó con acierto a los seminarios de "corazón de la diócesis" (*[Optatam totius](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_sp.html)*, 5). Cada una de las comunidades eclesiales está impactada por la situación de los seminarios que forman a sus sacerdotes. Los efectos de la formación del seminario se prolongan a lo largo de generaciones. Por este motivo hablé hace poco en Roma a un grupo de rectores de seminarios, diciéndoles con claridad cuánto espero y oro por este aspecto importante de la vida de la Iglesia. En dicha ocasión afirmé: "En una palabra, la primera prioridad de los seminarios hoy en día es fa enseñanza de la Palabra de Dios en toda su pureza e integridad, con todas sus exigencias y todo su poder... Un segundo punto de gran importancia... es el de la disciplina eclesiástica" (*[Discurso del 3 de marzo](https://www.vatican.va/content/john-paul-ii/es/speeches/1979/march/documents/hf_jp-ii_spe_19790303_seminari-mag-inglese.html)*, *L'Osservatore Romano*, Edición en Lengua española, 1 de abril de 1979, pág. 6). Y estos dos aspectos —doctrina y disciplina— los encomiendo hoy a vuestro celo pastoral a fin de que vigiléis para que sean mantenidos. Las vocaciones al sacerdocio son un gran don de Dios a la comunidad de su Iglesia. Como obispos que somos debemos constituir la voz del llamamiento de Cristo a los jóvenes; debemos animar a nuestra gente joven a acoger la vocación con valentía y generosidad; y debemos pedir "al dueño de la mies que envíe obreros a su mies" (*Mt* 9, 38).
+
+Y con agudo sentido de responsabilidad debemos impulsar las vocaciones que ya hemos recibido, cuidando la doctrina y disciplina de nuestros seminarios. Esta solicitud, queridos hermanos, la manifesté el Jueves Santo pasado diciendo: "La plena revitalización de la vida de los seminarios en toda la Iglesia será la prueba mejor de la efectiva renovación hacia la que el Concilio ha orientado a la Iglesia" ([Carta a los obispos](http://www.vatican.va/holy_father/john_paul_ii/letters/1979/documents/hf_jp-ii_let_19790409_vescovi-giovedi-santo_sp.html), *L'Osservatore Romano*, Edición en Lengua Española, 15 de abril de 1979, pág. 8).
+
+La acción catequética y los seminarios, son éstos sin duda alguna dos instrumentos privilegiados para que la Iglesia cumpla su misión de transmitir la Palabra de Dios. Me uno hoy a vuestros esfuerzos entusiastas en estos campos y a todas las demás iniciativas vuestras en pro del Evangelio.
+
+Confío también en que encontraréis la simpatía y estima de todos los hombres y mujeres de buena voluntad en la cuestión de la libertad religiosa. El Concilio Vaticano II lanzó de nuevo a la Iglesia a defender la dignidad de la persona humana haciendo ver las exigencias de esta dignidad natural. Y declaró que la persona humana "tiene derecho a la libertad religiosa" (*[Dignitatis humanae](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_sp.html)*, 2). En este documento el Concilio se siente vinculado a millones de personas de todo el mundo que con toda sinceridad abrazan, con todas sus implicaciones prácticas, el artículo 18 de la Declaración de los Derechos Humanos, de las Naciones Unidas: "Cada persona tiene derecho a la libertad de pensamiento, conciencia y religión...".
+
+Con estas esperanzas y oraciones, queridos hermanos en el Episcopado, os manifiesto de nuevo mi profunda solidaridad con vosotros en Cristo y en su Iglesia. Pido a María, Madre de Dios y Madre de la Iglesia, que os mantenga gozosos y fuertes para gloria de su Hijo y servicio generoso de vuestro pueblo. En cuanto a lo demás, "pongamos los ojos en el autor y consumador de la fe" (*Heb* 12, 2).

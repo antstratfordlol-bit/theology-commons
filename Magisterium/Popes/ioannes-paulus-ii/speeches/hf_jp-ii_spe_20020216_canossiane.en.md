@@ -1,0 +1,51 @@
+---
+id: jp2-spe-20020216-canossiane.en
+work: jp2-spe-20020216-canossiane
+title: "To the Canossian Daughters of Charity (February 16, 2002)"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Address
+url_date: 2002-02-16
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/en/speeches/2002/february/documents/hf_jp-ii_spe_20020216_canossiane.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#jp2-spe-20020216-canossiane.N} — numbered paragraphs 1..3 (3 anchors), shared with jp2-spe-20020216-canossiane.es"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Canossian Daughters of Charity (February 16, 2002)
+## ADDRESS OF JOHN PAUL II TO THE CANOSSIAN DAUGHTERS OF CHARITY
+
+*Saturday, 16 February 2002*
+
+*Dear Canossian Daughters of Charity,*
+
+### 1 {#jp2-spe-20020216-canossiane.1}
+
+I am pleased to meet you on the occasion of your 14th General Chapter, an event of grace that is a strong call to return ever more to your Congregation's roots, to grow in your understanding of your charism and to find the best ways to incarnate it in the social and cultural context of today.
+
+I greet the Superior General and the Chapter Delegates, and I cordially greet all the Canossian Sisters who carry out their generous apostolate in Italy, in Europe and on other continents. During these busy days, you have chosen to reflect on the theme "*Telling the men and women of our time of the love of God, who has loved them* *so".* Following your charism, you intend to proclaim and witness to the Gospel of charity, aspiring to be visible signs of God's love and instruments of peace everywhere. May God bless your resolutions! For your part, try to preserve faithfully the spiritual heritage bequeathed to you by your Foundress, St Maddalena of Canossa, who loved the crucified Christ intensely, and was always inspired by him in carrying out her courageous apostolate for the good of her neighbour in need. With all possible zeal, the Foundress confronted the forms of poverty typical of her time:  from financial and moral poverty to the poverty of culture and the lack of means to treat sickness. Follow her example and continue her mission that is still valid today, even in the changed social conditions in which we live.
+
+### 2 {#jp2-spe-20020216-canossiane.2}
+
+To you, her spiritual daughters, St Maddalena of Canossa held up an ideal of consecrated life based on humility. "May your missionary style", she liked to repeat, be "humble and removed from powerful means and human wisdom" and may your apostolic action have one goal:  "for God alone and his glory". Then all this should take place in a condition of "perfectly common" fellowship, fostered by that "perfect charity" that translates into "universal and common spiritual love".
+
+On the basis of these sound spiritual teachings, the missionary style that is the hallmark of your religious family developed over the course of the centuries. These essential lines of your founding charism have become concrete witness through the example of so many Canossian Daughters of Charity, totally consecrated to God and his Kingdom alone. Among them I recall your sisters in East Timor, who at the price of their blood recently paid for their fidelity to Christ the Lord. May their heroic sacrifice be an incentive to you and encourage you to go ahead with confidence and apostolic zeal, aware that this is the only way to express effectively what St Maddalena recommended:  "Above all, make Jesus known!". Let yourselves be pervaded by the intimate desire to serve every human person with charity, without distinction of race or religion. With prophetic freedom and wise discernment every day be a witness to the Gospel. Be an important presence everywhere you work, distinguishing yourselves through an intense communion and active cooperation with the pastors of the Church.
+
+### 3 {#jp2-spe-20020216-canossiane.3}
+
+Today the great challenge of inculturation obliges you to proclaim the Good News in languages and ways understandable to the people of our time, who are swept up in rapidly changing social and cultural processes. Thus a vast field for your apostolate is opening before you! Like your Foundress, give your lives to the poor, cultivate real zeal for teaching, especially the young, and spare no efforts in generous pastoral activity among the people, especially the sick and the suffering.
+
+So many in the world are still waiting to know Jesus and his Gospel. Varying situations of injustice and of moral and material hardship affect peoples in vast regions of the earth. An urgent mission faces believers in every part of the planet. However, dear Sisters, each one of you knows that to respond to these expectations it is necessary first and foremost to strive with all one's might for holiness, for the highest degree of holiness, to be in uninterrupted contact with Christ through continuous and fervent prayer. Only in this way can one point out to others the path to the encounter with the Lord, the Way, the Truth and the Life (cf. Jn 14,6). Only in this way can one collaborate with Christ in saving souls, meeting the needs of the brothers and sisters in the spirit so dear to your Foundress:  the spirit of "Servants of the poor".
+
+May Mary walk with you and protect you on this hard but rewarding missionary journey, bringing to fulfilment all your plans for good. The Pope blesses you and warm-heartedly follows you, assuring you of his remembrance in prayer, for each one of you and for all those you meet in your daily apostolate.

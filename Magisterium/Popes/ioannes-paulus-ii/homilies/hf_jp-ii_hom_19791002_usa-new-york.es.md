@@ -1,0 +1,84 @@
+---
+id: jp2-hom-19791002-usa-new-york.es
+work: jp2-hom-19791002-usa-new-york
+title: "2 de octubre de 1979, Santa Misa en el Yankee Stadium de Nueva York"
+creator: "Ioannes Paulus PP. II"
+pope: John Paul II
+document-type: Homily
+url_date: 1979-10-02
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: es
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/john-paul-ii/es/homilies/1979/documents/hf_jp-ii_hom_19791002_usa-new-york.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, fr, it, pt"
+anchors: "{#jp2-hom-19791002-usa-new-york.N} — numbered paragraphs 1..7 (7 anchors), shared with jp2-hom-19791002-usa-new-york.en"
+anchor_check: "MISMATCH: en: 8 anchors to 8; es: 7 anchors to 7"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# 2 de octubre de 1979, Santa Misa en el Yankee Stadium de Nueva York
+[VIAJE APOSTÓLICO A LOS ESTADOS UNIDOS DE AMÉRICA](http://w2.vatican.va/content/john-paul-ii/es/travels/1979/travels/documents/trav_united-states-america.html)
+
+## SANTA MISA EN EL «YANKEE STADIUM»
+
+## HOMILÍA DE SU SANTIDAD JUAN PABLO II
+
+*Nueva York\
+Martes 2 de octubre de 1979*
+
+### 1 {#jp2-hom-19791002-usa-new-york.1}
+
+¡La paz sea con vosotros!
+
+Fueron estas las primeras palabras que habló Jesús a los Apóstoles después de su resurrección. Cristo resucitado con estas palabras devolvió la paz a sus corazones en un momento en que todavía estaban en estado de shock después de la terrible experiencia precedente del Viernes Santo. En el nombre de nuestro Señor Jesucristo, en el poder de su Espíritu y en medio de un mundo preocupado por su propia existencia, esta noche os repito estas palabras, pues son palabras de vida: "¡La paz sea con vosotros!".
+
+Jesús no nos da simplemente la paz. Nos da su paz acompañada de su justicia. El es paz y justicia. Se hace *nuestra* paz y *nuestra* justicia.
+
+¿Qué significa esto? Significa que Jesucristo —el Hijo de Dios hecho hombre, el hombre perfecto— perfecciona, restaura y manifiesta en sí mismo la insuperable dignidad que Dios desea dar al hombre desde el principio. El es el único que realiza en sí lo que el hombre debe ser por vocación: el único que está plenamente reconciliado con el Padre, plenamente uno en sí mismo, plenamente entregado a los demás. Jesucristo es la paz viviente y la justicia viviente.
+
+Jesucristo nos hace partícipes de lo que El es. Por su Encarnación el Hijo de Dios se unió en cierta manera con cada ser humano. En lo más profundo de nuestro ser nos ha vuelto a crear; en lo más íntimo nos ha reconciliado con Dios, nos ha reconciliado con nosotros mismos, nos ha reconciliado con nuestros hermanos y hermanas. El es *nuestra* paz.
+
+### 2 {#jp2-hom-19791002-usa-new-york.2}
+
+¡Qué insondables riquezas poseemos en nosotros y en nuestras comunidades cristianas! ¡Somos portadores de la justicia y de la paz de Dios! No somos primordialmente constructores meticulosos de una justicia y una paz meramente humanas, perecederas siempre y siempre frágiles. Somos antes que nada humildes beneficiarios de la vida misma de Dios que es justicia y paz en el vínculo de la caridad. Cuando en la Misa el sacerdote nos saluda con estas palabras "La paz del Señor sea siempre con vosotros", pensemos en primer lugar en la paz que es clon de Dios, en Jesucristo nuestra paz. Y cuando antes de la comunión el sacerdote nos invita a darnos unos a otros un gesto de paz, pensemos sobre todo en el hecho de que se nos invita a intercambiamos la paz de Cristo que habita entre nosotros y a participar en su Cuerpo y Sangre, para gozo nuestro y servicio de toda la humanidad.
+
+Es que la justicia y la paz de Dios ansían dar frutos de acciones humanas de justicia y paz en todas las esferas de la vida de hoy. Cuando los cristianos hacemos de Jesucristo el centro de los sentimientos y pensamientos, ni nos alejamos de la gente y de sus necesidades. Por el contrario, nos encontramos envueltos en el movimiento eterno del amor de Dios que vino a nuestro encuentro; nos encontramos envueltos en el movimiento del Hijo que vino a nosotros y se hizo uno de nosotros; nos encontramos envueltos en el movimiento del Espíritu Santo que visita a los pobres, sosiega los corazones turbados, cauteriza los corazones heridos, calienta los corazones fríos y nos da la plenitud de sus dones. La razón por la que el hombre es el camino primario y fundamental de la Iglesia es que la Iglesia camina en las mismas huellas de Jesús; Jesús es quien le ha enseñando este camino. Este camino pasa irremisiblemente por el misterio de la Encarnación y Redención; y va de Cristo al hombre. La Iglesia mira el mundo con los ojos mismos de Cristo; Jesús es el principio de su solicitud por el hombre (cf. *[Redemptor hominis](http://w2.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html),* 13-18).
+
+### 3 {#jp2-hom-19791002-usa-new-york.3}
+
+La tarea es inmensa. Es tarea absorbente. Acabo de acentuar varios de sus aspectos ante la Asamblea General de las Naciones Unidas, y tocaré otras facetas durante mi viaje apostólico a vuestro país. Permitidme hoy que me detenga en el espíritu y naturaleza de la aportación de la Iglesia a la causa de la justicia y la paz, y señale algunas prioridades urgentes en las que deberá concentrarse vuestro servicio a la humanidad.
+
+El pensamiento y la praxis social que se inspiran en el Evangelio deben tener especial sensibilidad hacia los más desventurados, los que son extremadamente pobres, los que padecen los males físicos, mentales y morales que afligen a la humanidad incluidos el hambre, abandono, desempleo y desesperación. Hay muchas personas que padecen esta clase de pobreza en todo el mundo. Hay muchas en vuestro propio ambiente. En muchas ocasiones vuestra nación se ha ganado reputación bien merecida de generosidad tanto pública como privada. Sed fieles a ésta tradición de acuerdo con vuestras grandes posibilidades y vuestras responsabilidades actuales. La red de obras caritativas de toda clase que la Iglesia ha llegado a crear aquí es medio valioso para movilizar eficazmente empresas generosas encaminadas a remediar calamidades que surgen continuamente tanto en la patria como en el resto del mundo. Esforzaos para que esta forma de ayuda mantenga su carácter insustituible de encuentro fraternal y personal con los que padecen desgracias; si fuera necesario, reafirmad este carácter contra los elementos que actúan en dirección opuesta. Que esta clase de ayuda sea respetuosa de la libertad y dignidad de aquellos a quienes se ayuda, y sea éste un modo de formar la conciencia de los donantes.
+
+### 4 {#jp2-hom-19791002-usa-new-york.4}
+
+Pero esto no es bastante. Dentro del cuadro de vuestras instituciones nacionales y en colaboración con vuestros compatriotas, no hay duda de que querréis también descubrir las razones estructurales que alimentan o provocan las formas varias de pobreza en el mundo y en vuestro propio país, para que luego podáis aplicar remedios adecuados. No os dejaréis intimidar o desanimar por explicaciones simplistas que son explicaciones ideológicas más bien que científicas, encaminadas a motivar un mal complejo en una sola causa. Pero tampoco retrocederéis ante reformas, incluso profundas, de actitudes y estructuras que pueden resultar necesarias para volver a crear una y otra vez las condiciones necesarias en las que los desvalidos gocen de oportunidades nuevas en la dura batalla de la vida. Los pobres de Estados Unidos y del mundo son vuestros hermanos y hermanas en Cristo. No podéis contentaros nunca con dejarles sólo las migajas de la fiesta. Tenéis que tomar de vuestras posesiones —y no de lo que os sobre— para ayudarles. Y debéis tratarlos como invitados de vuestra mesa familiar.
+
+### 5 {#jp2-hom-19791002-usa-new-york.5}
+
+Católicos de Estados Unidos: A la vez que desarrolláis vuestras instituciones legales, participáis asimismo en los asuntos de la nación a través de instituciones y organizaciones nacidas de la historia del país y de vuestros intereses comunes. Esto lo hacéis en apretada unión con vuestros ciudadanos de todo credo y confesión. La unión entre vosotros en dicha empresa es esencial bajo la guía de vuestros obispos, para ahondar, proclamar y promover en el terreno de la práctica, la verdad sobre el hombre, su dignidad y derechos inalienables; la verdad tal y como la recibe la Iglesia en 1aRevelación y tal como la desarrolla continuamente en sus enseñanzas sociales a la luz del Evangelio. Pero estas convicciones compartidas no son un modelo ya hecho en la sociedad (cf. *[Octogesima adveniens](http://www.vatican.va/holy_father/paul_vi/apost_letters/documents/hf_p-vi_apl_19710514_octogesima-adveniens_sp.html),* 42). Es tarea de los laicos principalmente el llevarlas a la práctica en proyectos concretos, definir prioridades y desarrollar modelos adecuados para promover el verdadero bien del hombre. La Constitución pastoral del Concilio Vaticano II *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)* nos dice: "De los sacerdotes, los laicos pueden esperar orientación e impulso espiritual. Pero no piensen que sus pastores están siempre en condiciones de poderles dar inmediatamente solución concreta en todas las cuestiones, aun graves, que surjan. No es ésta su misión. Cumplan más bien los laicos su propia función con la luz de la sabiduría cristiana y con la observancia atenta de la doctrina del Magisterio" *([Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html),* 43).
+
+### 6 {#jp2-hom-19791002-usa-new-york.6}
+
+A fin de llevar esta empresa a resultados certeros, se necesitan energías espirituales y morales nuevas, sacadas de la fuente divina inagotable. Estas energías no se desarrollan fácilmente. El estilo de vida de muchos de los miembros de nuestra sociedad rica y permisiva, es un, estilo fácil; y lo es asimismo el estilo de vida de grupos cada vez más numerosos de países más pobres. Como dije el año pasado [en la Asamblea plenaria](http://www.vatican.va/holy_father/john_paul_ii/speeches/1978/documents/hf_jp-ii_spe_19781111_iustitia-et-pax_sp.html) de la Pontificia Comisión *lustitia et Pax,* "los cristianos han de procurar estar a la vanguardia en suscitar convicciones y modos de vida que rompan decisivamente el frenesí del consumo, agotador y falto de alegría" *(L'Osservatore Romano,* Edición en Lengua Española, 26 de noviembre de 1978, pág. 11). No se trata de retardar el progreso, puesto que no existe progreso humano cuando todo conspira a dar suelta absoluta a los instintos del interés propio, el sexo y el poder. Tenemos que encontrar un modo sencillo de vivir. Porque no está bien que el nivel de vida de los países ricos se haya de mantener a base de apropiarse de gran parte de la reserva de energía y materias primas destinadas a toda la humanidad. Por tanto, la disponibilidad a crear mayor y más justa solidaridad entre los pueblos es la primera condición de la paz. Católicos de Estados Unidos y todos vosotros ciudadanos de Estados Unidos: Tenéis tal tradición de generosidad espiritual, laboriosidad, sencillez y sacrificio, que no podéis desoír este llamamiento de hoy a un entusiasmo nuevo y a pronta determinación. En la sencillez y gozo de una vida inspirada en el Evangelio y en el espíritu evangélico del compartir fraterno, encontraréis el mejor remedie de las críticas amargas, y paralizaréis la duda y la tentación de hacer del dinero el medio principal e incluso le medida del progreso humano.
+
+### 7 {#jp2-hom-19791002-usa-new-york.7}
+
+En varias ocasiones he aludido la parábola del Evangelio del rico y Lázaro. "Había un hombre rico que vestía de púrpura y lino y celebraba cada día espléndidos banquetes. Un pobre, de nombre Lázaro, estaba echado en su portal cubierto de úlceras, y deseaba hartarse de lo que caía de la mesa del rico" (*Lc* 16, 19 ss.). Murieron los dos, el rico y el mendigo, y fueron llevados ante Abrahán y se hizo el juicio de su conducta. Y la Escritura nos dice que Lázaro recibió consuelo y, en cambio, al rico se le dieron tormentos. ¿Es que el rico fue condenado porque tenía riquezas, porque abundaba en bienes de la tierra, porque "vestía de púrpura y lino y celebraba cada día espléndidos banquetes"? No, quiero decir que no fue por esta razón. El rico fue condenado porque no ayudó al otro hombre. Porque ni siquiera cayó en la cuenta de Lázaro, de la persona que se sentaba en su portal y ansiaba las migajas de su mesa. En ningún sitio condena Cristo la mera posesión de bienes terrenos en cuanto tal. En cambio pronuncia palabras muy duras contra los que utilizan los bienes egoístamente, sin fijarse en las necesidades de los demás. El Sermón de la Montaña comienza con estas palabras: "Bienaventurados los pobres de espíritu". Y al final de la narración del juicio final tal como lo hallamos en el Evangelio de San Mateo, Jesús dice estas palabras que todos conocemos muy bien: "Porque tuve hambre, y no me disteis de comer; tuve sed, y no me disteis de beber; fui peregrino, y no me alojasteis; estuve desnudo, y no me vestisteis; enfermo, y en la cárcel, y no me visitasteis" (*Mt* 25, 42-43).
+
+La parábola del rico y Lázaro debe estar siempre presente en nuestra memoria; debe formarnos la conciencia. Cristo pide apertura hacia los hermanos y hermanas necesitados; apertura de parte del rico, del opulento, del que está sobrado económicamente; apertura hacia el pobre, el subdesarrollado, el desvalido. Cristo pide una apertura que es más que atención benigna, o muestras de atención o medio-esfuerzos, que dejan al pobre tan desvalido como antes o incluso más.
+
+Toda la humanidad debe pensar en la parábola del rico y el mendigo. La humanidad debe traducirla en términos contemporáneos, en términos de economía y política, en términos de plenitud de derechos humanos, en términos de relaciones entre el "primero", "segundo" y "tercer mundo". No podemos permanecer ociosos cuando miles de seres humanos están muriendo de hambre. Ni podemos quedarnos indiferentes cuando se conculcan los derechos del espíritu humano, cuando se violenta la conciencia humana en materia de verdad, religión y creatividad cultural.
+
+No podemos permanecer ociosos disfrutando de nuestras riquezas y libertad si en algún lugar el Lázaro del siglo XX está a nuestra puerta. A la luz do la parábola de Cristo, las riquezas y la libertad entrañan responsabilidades especiales. Las riquezas y la libertad crean una obligación especial. Y por ello, en nombre de la solidaridad que nos vincula a todos en una única humanidad, proclamo de nuevo la dignidad de toda persona humana; el rico y Lázaro, los dos, son seres humanos, creados los dos a imagen y semejanza de Dios, redimidos los dos por Cristo a gran precio, al precio de la "preciosa Sangre de Cristo" *(1 Pe* 1, 19).
+
+Hermanos y hermanas en Cristo: Con plena convicción y afecto os [repito las palabras que dirigí al mundo](http://w2.vatican.va/content/john-paul-ii/es/homilies/1978/documents/hf_jp-ii_hom_19781022_inizio-pontificato.html) cuando inicié mi ministerio apostólico al servicio de todos los hombres y mujeres: "¡No temáis! ¡Abrid, más todavía, abrid de par en par las puertas a Cristo! Abrid a su potestad salvífica los confines de los Estados, los sistemas económicos y los políticos, los extensos campos de la cultura, de la civilización y el desarrollo. ¡No tengáis miedo! Cristo conoce lo que hay dentro del hombre. Sólo El lo conoce" *(L'Osservatore Romano,* Edición en Lengua Española, 29 de octubre de 1978, pág. 4).
+
+Como os dije al principio, Cristo es nuestra justicia y nuestra paz, y todas nuestras acciones de justicia y paz brotan de esta fuente de energía insustituible que es luz para la gran tarea que tenemos ante nosotros. Al comprometernos resueltamente a estar al servicio de las necesidades de los individuos y los pueblos —porque Cristo nos urge a hacerlo— no debemos olvidar, sin embargo, que la misión de la Iglesia no se limita a este testimonio de frutos sociales del Evangelio. A lo largo de este camino que lleva a la Iglesia hacia el hombre, ésta no sólo ofrece al tratarse de justicia y paz los frutos terrenos del Evangelio; trae al hombre, a cada persona humana, la fuente auténtica de aquellas; Jesucristo mismo, nuestra justicia y nuestra paz.

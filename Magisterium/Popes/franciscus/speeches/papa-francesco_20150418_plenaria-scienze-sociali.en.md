@@ -1,0 +1,51 @@
+---
+id: francis-spe-20150418-plenaria-scienze-sociali.en
+work: francis-spe-20150418-plenaria-scienze-sociali
+title: "To participants in the Plenary Session of the Pontifical Academy of Social Sciences (18 April 2015)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2015-04-18
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2015/april/documents/papa-francesco_20150418_plenaria-scienze-sociali.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20150418-plenaria-scienze-sociali} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To participants in the Plenary Session of the Pontifical Academy of Social Sciences (18 April 2015) {#francis-spe-20150418-plenaria-scienze-sociali}
+.
+
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO PARTICIPANTS IN THE PLENARY SESSION OF THE PONTIFICAL ACADEMY OF SOCIAL SCIENCES
+
+*Saturday, 18 April 2015*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2015/4/18/plenariaascienzesociali.html)\]
+
+*Dear Brothers and Sisters,*
+
+I welcome you, members of the Pontifical Academy of Social Sciences and those attending this plenary session dedicated to human trafficking. I am grateful for the kind words of the President, Ms Margaret Archer. I cordially greet and assure you that I greatly appreciate how much this Academy is doing to increase awareness of the new forms of slavery and to eradicate the trafficking of human beings, with the single intent to serve mankind, especially marginalized and excluded people.
+
+As Christians, you feel challenged by the Lord Jesus’ Sermon on the Mount and also by the ‘protocol’ by which we shall be judged at the end of our lives, according to the Gospel of Matthew, Chapter 25. “Blessed are the poor, blessed are those who mourn, blessed are the meek, blessed are the pure in heart, blessed are the merciful, blessed are those who hunger and thirst for righteousness, blessed are those who are persecuted for righteousness’ sake: for they shall inherit the earth, they shall be called sons of God, they shall see God” (cf. Mt 5:3-10). Those who are “blessed by the Father” — his sons and daughters who shall see Him — are those who concern themselves with the least and who love the smallest among their brothers: “as you did it to one of the least of these my brethren, you did it to me” says the Lord (cf. Mt 25:40). And today, among these most needy brothers and sisters are those who suffer from the tragedy of modern forms of slavery, from forced labour, slave labour, prostitution, organ trafficking, drugs.
+
+At a moment in history when slavery was widespread and socially acceptable, unfortunately — and scandalously — even in the Christian world, for it was a large business, St Peter Claver, who was inspired by these words of the Lord, thus consecrated himself as the “servant of slaves”. Many other saints, such as, for example, St John of Matha, fought against slavery, following Paul’s mandate: “no longer as a slave but as a brother or sister in Christ” (cf. Philem 16).
+
+We know that the historical abolition of slavery as a social structure is the direct result of the message of freedom brought into the world by Christ with his fullness of grace, truth and love, with his programme of the Beatitudes. The progressive awareness of this message in the course of history is the work of the Spirit of Christ and of his gifts, shared with so many of his saints and men and women of good will, who do not identify with a religious faith, but are committed to improving the human condition.
+
+Unfortunately, in a global economic system dominated by profit, new forms of slavery have developed, worse and more inhuman in a certain way, than those of the past. Thus even more today, following the Lord’s message of redemption, we are called to denounce and fight against them. First of all, we must raise awareness of this new evil which, in the world at large, wants to be hidden since it is scandalous and “politically incorrect”. No one likes to acknowledge that in one’s own city, even in one’s own neighbourhood, in one’s region or nation there are new forms of slavery, while we know that this plagues almost all countries. We must then denounce the seriousness of this terrible scourge. Previously Pope Benedict XVI, without mincing words, condemned every violation of the equality of dignity among human beings (cf. *[Address to the New Ambassador of the Federal Republic of Germany to the Holy See](http://w2.vatican.va/content/benedict-xvi/en/speeches/2011/november/documents/hf_ben-xvi_spe_20111107_ambasciatore-germania.html)*, 7 November 2011). For my part, I have declared many times that these new forms of slavery — human trafficking, forced labour, prostitution, organ trade — are extremely serious crimes, “an open wound on the body of contemporary society” (*[Address to Participants in the Second International Conference on Combating Human Trafficking](http://w2.vatican.va/content/francesco/en/speeches/2014/april/documents/papa-francesco_20140410_tratta-persone-umane.html)*, 10 April 2014). All of society is called to grow in this awareness, especially with regard to national and international legislation, in order to be able to ensure that traffickers be brought to justice and their unjust earnings redirected for the rehabilitation of victims.
+
+We must seek the most suitable modalities to punish those who become complicit in this inhuman trade. We are called to improve the means of redress and the social inclusion of victims, also to update the regulations regarding the right to asylum. Civil authorities must be increasingly aware of the seriousness of this tragedy, which constitutes a regression of humanity. And so often — so many times! — these new forms of slavery are protected by the institutions which should be protecting the population from these crimes.
+
+Dear friends, I encourage you to persevere in this work, by which you are helping to make the world more conscious of this challenge. The light of the Gospel is the guide for anyone who places him/herself at the service of a civilization of love, where the Beatitudes have a social resonance, where there is true inclusion of the least. It is important to build the earthly city in the light of the Beatitudes, and thereby journey toward Heaven in the company of the smallest and the least.
+
+I bless you all, I bless your work and your initiatives. I thank you so much for what you do. I accompany you with my prayers, and you too, please do not forget to pray for me. Thank you.

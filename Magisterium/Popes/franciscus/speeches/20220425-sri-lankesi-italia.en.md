@@ -1,0 +1,58 @@
+---
+id: francis-spe-20220425-sri-lankesi-italia.en
+work: francis-spe-20220425-sri-lankesi-italia
+title: "Meeting with the Sri Lankan community in Italy (25 April 2022)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2022-04-25
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2022/april/documents/20220425-sri-lankesi-italia.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "en, es, it, pt"
+anchors: "{#francis-spe-20220425-sri-lankesi-italia} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# Meeting with the Sri Lankan community in Italy (25 April 2022) {#francis-spe-20220425-sri-lankesi-italia}
+MEETING WITH THE SRI LANKAN COMMUNITY IN ITALY
+
+## ADDRESS OF HIS HOLINESS POPE FRANCIS
+
+*St Peter’s Basilica\
+Monday, 25 April 2022*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2022/4/25/sri-lankesi-italia.html)\]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Dear Sri Lankan brothers and sisters, peace be with you!*
+
+I greet you with the words of the Risen Jesus, that resound in the Church during the Easter Octave.
+
+You have come from Rome and from various parts of Italy on a pilgrimage to the Tomb of Saint Peter, led by your pastors. It is a gesture of faith and it is also a beautiful testimony. Thank you for this.
+
+The reason you have come together here is the anniversary of the tragic events that, on Easter Day in 2019, sowed death and terror in Sri Lanka. Today you have offered the Eucharistic sacrifice in memory of the victims of those terrible attacks, and you have prayed for those who were injured – some of who are present here – and for their relatives, as well as for the entire population of Sri Lanka. With all my heart I join in your prayer.
+
+“Peace be with you”, repeats the Risen Lord. He is our Saviour, he alone! Faced with the horror and the absurdity of certain acts, which it is impossible to believe were committed by men, the work of the evil one appears evident. And so we understand why the Son of God, the Innocent, the Holy, the Just, had to die crucified in order to save us. He took upon himself not only death, but the cruelty of evil, of hatred, of fratricidal violence. His Cross and his Resurrection are the light of hope in the darkest shadows. Let us pray today for all the victims of violence and war, in particular terrorism.
+
+Dear brothers and sisters, together with you I wish to pray for your homeland, Sri Lanka, which I had the joy of visiting in January 2015. Let us pray for those who govern, for those who bear social and educational responsibility, and for all the people. May a solution be found to the current difficulties, with the commitment and collaboration of all. Let us pray for the Church in Sri Lanka: by the intercession of Mary Most Holy, may she be filled with the Holy Spirit and announce with joy the Gospel of Christ the Saviour.
+
+Thank you again, dear friends, for your witness.
+
+I would not like to finish without making an appeal to the authorities of your country. Please and for the sake of justice, for the sake of your people, let it be clarified once and for all who were responsible for these events \[the Easter 2019 attacks\]. This will bring peace to your conscience and to your homeland.
+
+I bless each of you and your families, from the bottom of my heart. And you, please do not forget to pray for me. Thank you!
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+[*Bulletin of the Holy See Press Office*](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2022/04/25/220425g.html), 25 April 2022

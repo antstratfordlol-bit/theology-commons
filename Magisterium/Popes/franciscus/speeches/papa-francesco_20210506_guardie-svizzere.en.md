@@ -1,0 +1,50 @@
+---
+id: francis-spe-20210506-guardie-svizzere.en
+work: francis-spe-20210506-guardie-svizzere
+title: "To the Pontifical Swiss Guard (6 May 2021)"
+creator: "Franciscus PP."
+pope: Francis
+document-type: Address
+url_date: 2021-05-06
+url_date_note: "the date in vatican.va's URL slug — the date of publication on the site, which can differ from the document's own date (Dies Domini is dated 31 May 1998 and slugged 5 July); the document's date is in its title and text"
+language: en
+original-language: unknown
+original-note: "vatican.va publishes no Latin for this document and does not mark the language of composition; this is the official text in this language"
+authority-type: papal-magisterium
+status: current
+source_url: "https://www.vatican.va/content/francesco/en/speeches/2021/may/documents/papa-francesco_20210506_guardie-svizzere.html"
+fetch_date: 2026-08-27
+copyright: "Libreria Editrice Vaticana (official text; translator unstated)"
+languages_on_vatican_va: "de, en, es, fr, it, pt"
+anchors: "{#francis-spe-20210506-guardie-svizzere} — the page numbers no paragraphs, so the document carries one anchor, on its title, and is cited whole"
+anchor_check: "identical across en, es"
+unnumbered_on_page: "none"
+derived-by: 99. Tools/fetch/fetch_papal.py
+extracted: 2026-08-27
+---
+
+# To the Pontifical Swiss Guard (6 May 2021) {#francis-spe-20210506-guardie-svizzere}
+## ADDRESS OF HIS HOLINESS POPE FRANCIS TO THE PONTIFICAL SWISS GUARD
+
+*Clementine Hall\
+Thursday, 6 May 2021*
+
+## \[[Multimedia](http://w2.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2021/5/6/guardie-svizzere.html)\]
+
+*Dear officers and members of the Swiss Guard!*
+
+*Dear family members!*
+
+I am pleased to welcome you to the house of the Successor of Peter on the occasion of the swearing in of the recruits.  I greet Colonel Christoph Graf, who leads the Swiss Guard Corps with great dedication, the Chaplain, the Officers, the Non-commissioned Officers and all the members of the Corps. I welcome the parents who join in this celebration: their presence testifies to the attachment of many Swiss Catholics to the Church, and in particular to the See of Peter.
+
+The places where the new recruits are called to serve are steeped in history; since the creation of the Pontifical Swiss Guard, many young men have fulfilled with commitment and fidelity that particular mission which the Corps continues to carry out today. Some have even gone so far as to sacrifice their lives to defend the Pope.
+
+As you well know, the functions of the Swiss Guard, although military in nature, constitute a special service to the Supreme Pontiff and the Apostolic See for the benefit of the whole Church. It is therefore a cause for great appreciation that young people choose to devote several years of their lives to generously serving the Successor of Peter and the ecclesial community. The Lord sometimes calls some of you to follow him on the path of priesthood or  consecrated life, finding ready ground cultivated precisely during your time of service in the Guard. Others instead follow the marital vocation and form their own families. I thank the Lord, the source of all good, with you,  for the various gifts and vocations  he entrusts to you, and I pray that those who are now beginning their service may also respond fully to Christ’s call, following him with faithful generosity.
+
+This occasion gives me the opportunity to publicly thank all the members of the Swiss Guard for the diligent fulfilment of their service. I greatly appreciate your ability to combine professional and spiritual aspects, thus expressing your devotion and fidelity to the Apostolic See. For their part, pilgrims and tourists who come to Rome have the opportunity to experience the courtesy and helpfulness of the guards at the various entrances to Vatican City. Never forget these qualities, which are a beautiful testimony and a sign of the welcome of the Church.
+
+I offer my sincere good wishes to the young recruits and I hope that they will have fruitful spiritual and human experiences both in the Vatican and in the city of Rome. May these years that you will spend here be an opportunity to deepen your faith and to acquire an even stronger love for the Church. I accompany you with my prayers and I thank you for choosing to place some years of your life at the disposal of the Successor of Peter. You too, please pray for me.
+
+With these sentiments, I wish you a happy celebration, and I wholeheartedly impart the Apostolic Blessing to those of you  here and to the entire Pontifical Swiss Guard Corps.
+
+*L'Osservatore Romano*, Weekly Edition in English, 14 May 2021
