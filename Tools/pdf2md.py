@@ -30,6 +30,7 @@ Usage
     python pdf2md.py book.pdf --offset 15        # force the page offset
 """
 import argparse
+import difflib
 import re
 import statistics
 import unicodedata
@@ -253,6 +254,15 @@ def footnote_region(page, lines):
         if l["bbox"][1] < 0.12 * H or l["dom"] > SMALL:
             continue
         if all(m["dom"] <= SMALL or ignorable(m) for m in lines[s:]):
+            # a page that is small type from top to bottom (an endnotes page) has
+            # no body text above this "footnote area": it is not a footnote area
+            if not any(m["dom"] > SMALL and m["bbox"][1] >= 0.12 * H for m in lines[:s]):
+                return None
+            # a chapter's "notes" list that begins part-way down the page: the line
+            # before the small type reads "notes" and the first note is number 1
+            if (s > 0 and re.fullmatch(r"notes?", lines[s - 1]["text"].strip(), re.I)
+                    and re.match(r"\s*1\.\s", lines[s]["text"])):
+                return None
             return s
     return None
 
@@ -866,6 +876,190 @@ def title_case_en(t):
         else:
             out.append(w)
     return " ".join(out)
+
+
+ACCENTS = {"´": "\u0301", "`": "\u0300", "¨": "\u0308", "ˇ": "\u030c", "ˆ": "\u0302", "˜": "\u0303"}
+
+
+def fix_sup_accents(md):
+    """Accents that the PDF stores as separate superscript marks ("E<sup>´</sup> glise")
+    are put back on the letter before them ("Église")."""
+    def rep(m):
+        return unicodedata.normalize("NFC", m.group(1) + ACCENTS[m.group(2)])
+    return re.sub(r"([A-Za-z])<sup>([´`¨ˇˆ˜])</sup> ?", rep, md)
+
+
+def _alpha(x):
+    return re.sub(r"[^a-z]", "", unicodedata.normalize("NFKD", re.sub(r"[*_]", "", x)).lower())
+
+
+def contents_chapter_headings(md):
+    """Edited volumes whose contents read "1. Title, 25 Author": set each chapter
+    title as a heading (##) on the page where the contents say it begins, the Part
+    titles as #, and the bold run-in lines inside chapters as ###. Applied only when
+    the book's own headings do not already follow the contents. Returns (md, message)."""
+    pages = md.split("\n\n---\n\n")
+    label = {}
+    for k, pg in enumerate(pages):
+        m = re.search(r"\*\*\[(?:PDF )?p\. ([^\]]+)\]\*\*", pg)
+        label[k] = m.group(1).strip() if m else None
+    # the contents: the front pages (roman labels) up to the introduction
+    front = [k for k in range(min(40, len(pages)))
+             if (label[k] or "").lower() in {"i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi", "xii"}
+             and len(re.findall(r"(?m),\s*(?:[ivxlc]+|\d{1,3})\b", pages[k])) >= 3]
+    ctext = "\n".join(pages[k] for k in front)
+    entries, parts = [], []
+    for m in re.finditer(r"(?m)^(?:[-*]\s*)?(\d{1,2})\.\s+(.+?),\s*(\d{1,3})\b", ctext):
+        entries.append((int(m.group(1)), m.group(2).strip(), m.group(3)))
+    for m in re.finditer(r"(?mi)^(?:\*\*)?part\s+([ivx]+)\.?\s+(.+?)(?:\*\*)?$", ctext):
+        parts.append((m.group(1).upper(), m.group(2).strip().rstrip("*")))
+    seq = [n for n, _, _ in entries]
+    if len(entries) < 5 or seq != sorted(seq) or seq[0] != 1:
+        return md, None
+    # already fine? count contents titles that a heading line already carries
+    heads = [_alpha(m.group(1)) for m in re.finditer(r"(?m)^#{1,3} (.+)$", md)]
+    have = sum(1 for _, t, _ in entries if any(_alpha(t)[:30] and _alpha(t)[:30] in h for h in heads))
+    if have >= 0.6 * len(entries):
+        return md, None
+
+    pnum = {lab: k for k, lab in label.items() if lab and lab.isdigit()}
+    # an entry the text layer lost (its line sat at the top of a page and was taken for a
+    # running head): find its opener between the neighbours' pages
+    have_n = {n for n, _, _ in entries}
+    stray = [ln.strip() for ln in ctext.split("\n") if 8 < len(ln.strip()) < 70]
+    for n in range(1, max(have_n) + 1):
+        if n in have_n:
+            continue
+        lo = max((int(pg) for m_, _, pg in entries if m_ < n), default=0)
+        hi = min((int(pg) for m_, _, pg in entries if m_ > n), default=10 ** 6)
+        for lab, k in sorted(pnum.items(), key=lambda kv: int(kv[0])):
+            if not (lo < int(lab) < hi):
+                continue
+            bl = [b.strip() for b in pages[k].split("\n\n") if b.strip()]
+            for bi in range(1, min(len(bl) - 1, 6)):
+                if re.fullmatch(r"(?:\*\*)?%d(?:\*\*)?" % n, bl[bi]) and not bl[bi + 1].startswith(("<!--", "**[", "[^")):
+                    full = re.sub(r"[*_]", "", bl[bi + 1])
+                    title = full
+                    for ln in stray:
+                        if _alpha(full).endswith(_alpha(ln)) and len(_alpha(ln)) > 6:
+                            cut = full.lower().rfind(ln.lower()[:12])
+                            if cut > 0:
+                                title = full[:cut].strip()
+                                break
+                    entries.append((n, title, lab))
+                    have_n.add(n)
+                    break
+            if n in have_n:
+                break
+    entries.sort()
+    first_body = min((pnum.get(pg) for _, _, pg in entries if pnum.get(pg) is not None), default=0)
+    done = 0
+    chapter_pages = {}
+    for n, title, pg in entries:
+        k = pnum.get(pg)
+        if k is None:
+            continue
+        blocks = pages[k].split("\n\n")
+        want = _alpha(title)
+        for bi in range(1, min(len(blocks), 8)):
+            txt = blocks[bi].strip()
+            if not txt or txt.startswith(("<!--", "---")):
+                continue
+            plain = re.sub(r"^#{1,6}\s*", "", txt)
+            ap = _alpha(plain)
+            same = ap.startswith(want[:40]) or (
+                len(want) >= 12 and difflib.SequenceMatcher(None, ap[:len(want)], want).ratio() >= 0.8)
+            if same and len(want) >= 6:
+                rest = ap[len(want):]
+                # a bare number just before the title is the chapter number
+                if bi >= 2 and re.fullmatch(r"(?:\*\*)?%d(?:\*\*)?" % n, blocks[bi - 1].strip()):
+                    blocks[bi - 1] = ""
+                # the author's name may run on after the title in the same block
+                author = ""
+                if rest:
+                    tail = re.sub(r"[*_]", "", plain)
+                    mm = re.match(r"(?s)(.{%d,}?)\s+([A-Z].*)$" % max(len(title) - 6, 1), tail)
+                    cut = None
+                    for j in range(max(len(title) - 6, 1), len(tail)):
+                        if _alpha(tail[:j]) == want or (len(_alpha(tail[:j])) >= len(want)):
+                            cut = j
+                            break
+                    if cut:
+                        author = tail[cut:].strip()
+                blocks[bi] = f"## {n}. {title}" + (f"\n\n{author}" if author else "")
+                chapter_pages[k] = n
+                done += 1
+                break
+        pages[k] = "\n\n".join(b for b in blocks if b != "")
+    # Part titles: "part i" / "The Constitutions" on their own page
+    nparts = 0
+    for roman_no, ptitle in parts:
+        for k, pg in enumerate(pages):
+            if k < first_body - 6 or k > len(pages):
+                continue
+            bl = [b for b in pg.split("\n\n") if b.strip()]
+            body = [b for b in bl[1:] if not b.startswith(("<!--", "**["))]
+            if (len(body) == 2 and re.fullmatch(r"(?i)part\s+%s" % roman_no, body[0].strip())
+                    and _alpha(body[1]) == _alpha(ptitle)):
+                pages[k] = bl[0] + f"\n\n# Part {roman_no}. {title_case_en(ptitle) if ptitle == ptitle.upper() else ptitle}"
+                nparts += 1
+                break
+    # bold-only short lines and stray old headings -> ### inside chapters, ## in front matter
+    first_arabic = min((k for k, lab in label.items() if lab and lab.isdigit()), default=0)
+    for k, pg in enumerate(pages):
+        out = []
+        for b in pg.split("\n\n"):
+            t = b.strip()
+            mh = re.fullmatch(r"(?:\*\*(.+?)\*\*|(#{1,6})\s+(.+))", t) if "\n" not in t else None
+            if mh and (k not in front or (mh.group(1) or "").lower() == "contents") and not (k < 3 and (mh.group(1) or "").lower() != "contents"):
+                inner = (mh.group(1) or mh.group(3) or "").strip()
+                if t.startswith("#") and (re.match(r"#{1,2} (\d+\. |Part )", t)):
+                    out.append(b)
+                    continue
+                if (len(inner) <= 110 and not re.search(r"[.!?]$", inner) and not re.fullmatch(r"[\d\s]*", inner)
+                        and not re.match(r"(?i)notes?$", inner) and _alpha(inner)):
+                    # a stray chapter title already turned into a heading by the earlier pass
+                    if any(_alpha(inner).startswith(_alpha(t2)[:30]) for _, t2, _ in entries if len(_alpha(t2)) > 12):
+                        continue
+                    lvl = "##" if (k < first_arabic or inner.lower() == "introduction") else "###"
+                    out.append(f"{lvl} {inner}")
+                    continue
+            out.append(b)
+        pages[k] = "\n\n".join(out)
+    return "\n\n---\n\n".join(pages), f"set {done} of {len(entries)} chapter titles from the contents as headings" + (f" and {nparts} part title(s)" if nparts else "")
+
+
+def clean_ocr_leftovers(md):
+    """Drop the "(no text on this page)" placeholders, and turn OCR'd picture-text
+    blocks (cover art) into plain lines, keeping only lines that read as words."""
+    md = re.sub(r"\n\n\*\(no text on this page\)\*", "", md)
+
+    rest = re.sub(r"<!-- Start of picture text -->.*?<!-- End of picture text -->", " ", md, flags=re.S)
+    seen = Counter(re.findall(r"[a-zà-ÿ]+", rest.lower()))
+
+    def good(line):
+        toks = re.findall(r"[A-Za-zÀ-ÿ]+", line)
+        words = [t for t in toks if len(t) > 1]
+        return bool(words) and all(seen[w.lower()] >= 2 for w in words) and not re.search(r"[|\\@=~]", line)
+
+    def rep(m):
+        lines = [l.strip() for l in m.group(1).split("<br>") if l.strip()]
+        keep = [l for l in lines if good(l)]
+        return "\n\n".join(keep) if keep else ""
+    md = re.sub(r"<!-- Start of picture text -->(.*?)<!-- End of picture text -->", rep, md, flags=re.S)
+    # running heads that survived: a short all-lowercase line that recurs ("part ii: the decrees, inter mirifica"),
+    # and a stray closing bracket
+    blocks = md.split("\n\n")
+    cnt = Counter(b.strip() for b in blocks)
+    md = "\n\n".join(b for b in blocks
+                      if not ((b.strip() == ")") or (cnt[b.strip()] >= 2 and 4 <= len(b.strip()) <= 80
+                                                     and b.strip()[0].islower() and b.strip() == b.strip().lower()
+                                                     and not b.strip().startswith(("[^", "<", "-", "*", "#")))))
+    md = re.sub(r"\n{3,}", "\n\n", md)
+    # typewriter-style doubled single quotes (‘‘like this’’) -> real double quotes
+    if md.count("‘‘") >= 30:
+        md = md.replace("’’’", "’”").replace("‘‘", "“").replace("’’", "”")
+    return md
 
 
 def normalize_headings(md, nonenglish):
@@ -1516,28 +1710,63 @@ def convert_chapter_endnotes(pages):
     # locate each Notes group: its heading item, its note dict, and the items it owns
     groups = []
     i = 0
+    prev_end = 0
     while i < len(items):
         bl_text = text(items[i]).strip()
-        if NOTE_HEAD.match(bl_text.split("\n")[0]):
+        # a list with no "Notes" heading: note 1 and note 2 follow body text that
+        # carries note references no earlier list has claimed
+        implicit = (not NOTE_HEAD.match(bl_text.split("\n")[0]) and re.match(r"^1\.\s", bl_text)
+                    and any(re.match(r"^2\.\s", text(items[i + k]).strip()) for k in (1, 2, 3) if i + k < len(items))
+                    and sum(len(SUP_MARK.findall(text(it))) for it in items[prev_end:i]) >= 3)
+        if implicit or NOTE_HEAD.match(bl_text.split("\n")[0]):
             owned, region_parts = [items[i]], []
+            if implicit:
+                region_parts.append(bl_text)
+            else:
+                rest = "\n".join(bl_text.split("\n")[1:]).strip()
+                if rest:
+                    region_parts.append(rest)
             j = i + 1
+            n_cont = 0                                        # unnumbered blocks in a row (paragraphs of one note)
+            span = [int(v) for it in items[prev_end:i] for v in SUP_MARK.findall(text(it))]
+            ones_ = [q for q, v in enumerate(span) if v == 1]
+            span = span[ones_[-1]:] if ones_ else span
+            expected, last_n = (max(span) if span else None), 0
             while j < len(items):
                 t = text(items[j]).strip()
                 if re.match(r"^#{1,6}\s", t) and not NOTE_HEAD.match(t.split("\n")[0]):
                     break                                     # next chapter heading ends the list
-                if re.match(r"^\d{1,3}\.\s", t) or (region_parts and not t.startswith("#")):
+                if re.match(r"^\d{1,3}\.\s", t):
                     owned.append(items[j])
-                    if not t.startswith(("<!--", "**[", "---")):
-                        region_parts.append(t)
+                    region_parts.append(t)
+                    n_cont = 0
+                    last_n = int(re.match(r"^(\d{1,3})\.", t).group(1))
+                elif (region_parts and n_cont < (1 if expected is not None and last_n >= expected else 6) and len(t) < 6000
+                      and not t.startswith(("**", "#", "<!--", "---", "*(no text"))
+                      and not re.fullmatch(r"\d{1,3}", t)
+                      and not re.match(r"(?i)(part|chapter|introduction|contents|index)\b", t)):
+                    owned.append(items[j])                    # the rest of a note (a second paragraph, or run over the page)
+                    region_parts.append(t)
+                    n_cont += 1
                 elif t.startswith(("<!--", "**[", "---")):
                     owned.append(items[j])                    # keep page markers inside the list
                 else:
                     break
                 j += 1
             notes = split_notes(region_parts)
+            if implicit:
+                # genuine only if it is about as long as the run of references it answers
+                # (the references since the previous list, counted from the last "1")
+                vals = [int(v) for it in items[prev_end:i] for v in SUP_MARK.findall(text(it))]
+                ones = [k for k, v in enumerate(vals) if v == 1]
+                vals = vals[ones[-1]:] if ones else vals
+                if len(notes) < 5 or not vals or max(notes) < 0.8 * max(vals):
+                    i += 1                                    # just a numbered list in the body text
+                    continue
             if notes:
                 groups.append({"notes": notes, "owned": set(owned), "hpos": i})
             i = j
+            prev_end = j
         else:
             i += 1
     if not groups:
@@ -1851,7 +2080,12 @@ def main():
     nonenglish = detect_language(pages)
     if nonenglish and not PROPER:
         globals()["PROPER"] = build_proper(pages)
+    final_md, hrep = contents_chapter_headings(final_md)
+    if hrep:
+        extra.append(hrep)
     final_md = normalize_headings(final_md, nonenglish)
+    final_md = fix_sup_accents(final_md)
+    final_md = clean_ocr_leftovers(final_md)
 
     # Anthony's conventions: ISO-suffixed name, YAML frontmatter, alignment anchors
     lang = args.lang or detect_lang_code(pages)
