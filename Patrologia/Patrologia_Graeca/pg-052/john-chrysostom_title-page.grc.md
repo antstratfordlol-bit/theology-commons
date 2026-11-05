@@ -1,0 +1,23 @@
+---
+id: pg.052.775
+sigla: pg.52.title-page
+title: "Title Page"
+work: "Title Page"
+creator: "John Chrysostom"
+language: grc
+original-language: yes
+authority-type: patristic
+volume: "PG 52"
+columns: "5"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pg.52.colN}"
+---
+
+# Title Page
+
+**Author**: John Chrysostom  
+**Series**: PG 52  
+**Columns**: 5  
+
+[5] {#pg.52.5}
