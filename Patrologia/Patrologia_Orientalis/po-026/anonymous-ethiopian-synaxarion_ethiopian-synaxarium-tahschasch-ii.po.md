@@ -1,0 +1,867 @@
+---
+id: po.026.231
+sigla: po.26.ethiopian-synaxarium-tahschasch-ii
+title: "Ethiopian Synaxarium: Tahschasch II"
+work: "Ethiopian Synaxarium: Tahschasch II"
+creator: "Anonymous (Ethiopian Synaxarion)"
+language: syc
+original-language: yes
+authority-type: patristic
+volume: "PO Tome 26"
+columns: "pp. 6–113"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#po.26.colN}"
+---
+
+# Ethiopian Synaxarium: Tahschasch II
+
+**Author**: Anonymous (Ethiopian Synaxarion)  
+**Series**: PO Tome 26  
+**Columns**: pp. 6–113  
+
+[p. 6] {#po.26.p6}
+
+### THE BOOK OF THE SYNAXARY
+፲ ፲ፕ48፪ለ፪ 1)«65ዝ88ከ5). ፲:666፲0810. ሠ፲31፤0111ሃ6 ጴ, ፲'. በስመ ፡ አብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡፡
+THE 16 TAHSAS. Primitive recension (A, T). In the name of the Father, the Son and the Holy Spirit, one God.
+
+### THE 16 TAAHSAE
+አመ ፡ ፲፪ለታኅሣሥ ፡፡ በዛቲ ፡ ዕለት ፡ ኮነ ፡ ቅዱስ ፡ አባ ፡፣ ህርዋግ ፣ ሰማዕት ። ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፣፡ ምስሌነ ፡ አሜን ፡፡ ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ ኮኑ ፣ ቅዱሳን ፣ ሐናንያ ፡ ወኮዚ ፡ ሰማዕታት ፣ ዘእምሀ ገረ ፡ አክሚም ፡= ጸሎቶሙ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ።፡
+On this day is (commemorated) Saint Abba Herwag, martyr. May his prayer and his blessing be with us. Amen. On this day also are (commemorated) the saints Ananias and Kozi, martyrs, of the city of Akmim. May their prayer be with us. Amen.
+
+
+[p. 8] {#po.26.p8}
+ወበዛቲ ፡ ዕለት ፣ ካዕበ ፣ አዕረፈ ፡ አብ ፡ ጌዴዎን ፣ ዝውእቱ ፡ 8፤ አመሳፍንተ ፡ደ ቂቀ ፡ እስራኤል ።= ዝንቱ ፡ ጻድቅ ፡ ኮነ ፡ አምነገደ ፡ ምናሴ ፡። ወስሙ ፡ ለአቡሁ ፡ ኢዮአስ ።፡ ወአስተ ርአዮ ፣ መልአከ ፡ እግዚኣብሔር ፡ ወአጽንዖ ፡ ወረድኦ ፡ ወሜሞ ፡ መስፍነ ፡ ለደቂቀ ፡ እስራኤል ።፡ ወአዘዞ ፣ እግዚኣብሔር ፡ ከመ ፡ ያንሕል ፡ ምሥዌዓተ ፡ ጣዖታት ፣ወይ ሕንጽ ፡ ምሥዋዓ ፡ ለእግዚኣብሔር ፡ ወይሁሥዕ ፡ ላዕሌሁ ፣ መሥዋዕተ ፡ ወያውፅዮሙ ፡
+On this day also died the Father Gideon. This one was one of the judges of the children of Israel. This righteous man was of the tribe of Manasseh. The name of his father was Joash. The angel of the Lord appeared to him, strengthened him, helped him and established him as judge of the children of Israel. The Lord ordered him to destroy the altars of the idols, to build an altar to the Lord, to offer sacrifices on (this altar) and to burn the woods of the broken idols. He did as the Lord had ordered him
+ለዕፀወ ፡ ጣዖታት ፡ ዘስቡራን ፡ ወገብረ ፡ በከመ ፡ አዘዞ ፡ እግዚኣብሔር ፡፡ ወእምዝ ፡ አዘዞ ፡ እግዚኣብሔር ፣ ከመ ፡ ይጽብኦሙ ፡ ለሰብአ ፡ ምድያም ።፡ ወ ሰአሎ ፡ ለእግዚኣብሔ”ር ፡ ከመ ፡ ያርዕዮ ፡ ትእምርተ ፣ ወከመ ፤ ያጽንዕ ፡ባቲ፡፤ልቦ፣ ወይእቲ ፡ ዛቲ ፡ ከመ ፡ ያንብራ ፡ ለጸጐረ ፡ በግዕ ፡ ፀምረ ፡ ማእከለ ፡ ዘርአ ፡ ገራህት ፡=፡ ወለእመ ፡ ርሕሰት ፣ እምጠል ፡ ወኢርሕሰ ፡ ዘርአ ፡፣ ገራህት ፡፣ አእመርኩ ፡ ከመ ፡ አ
+Then the Lord ordered him to make war on the men of Midian. He asked the * Lord to show him a sign and to strengthen his heart thereby. It would be this: (Gideon) would place a sheep's fleece in the middle (of the grass) of a sown field. "If it is wet with dew, (he said), and (if the grass) of the sown field is not wet, I will know that you are with
+
+
+[p. 9] {#po.26.p9}
+ንተ ፣፤ ምስሌየ ።፡፡ ወአንበራ ፡ ለይእቲ ፡ ፀምር ፣ በማእከለ ፡ ዘርእ ፡ ወርሕሰት ፡ እአምጠ ል ፡ ዘእንበለ ፡ ይርሐስ ፡ ዘርእ ።፡ ወእምዝ ፡ በሳኒታሁ ፡ ይቤ ፡ ኦእግዚኦ ፡ ናሁ ፡ ኣነብ ራ ፡ ከዕበ ፡ ወለእመ ፡ ርሕሰ ፡ ዘርእ ፡ ወምድር ፣ ወኢርሕሰ ፣ ፀምር ፣ አእመርኩ ፡፤ ከመ ፡ አንተ ፡ ትፃባእ ፡ በእንቲአየ ።፡ ወገብረ ፣ ከመዝ ፣ በሳኒታሁ ፡ ወኮነ ፣ ሎቱ ፡ በከ መ ፡ተመነየ ፡ ወጸንዓ ፡ ልቡ ፡=፡ ወወረደ ፡ ላዕሌሁ ፡ መንፈሰ ፡ ኃይል ፡ እምኅበ ፡ እግዚኣ ብሔር ፡ ወነፍኀ ፤ አቅርንተ ፣ ወተጋብኡ ፡ ሎቱ ፣ ደቂቀ ፣ አስራኤል ።= ወይቤሎ፣ እግዚኣብሔር ፡ እስመ ፡ ሕዝብ ፣ ብዙኃን ፡ ሶበ ፣ ይመውኡ ፡ ጸላእቶሙ ፣ ይብሉ ፡ ከመ ፡ እሙንቱ ፡ ሞእዎሙ ፡ በኃይሎሙ = አላ ፡ አኡድ ፡ አዋዴ ፡ ውስቴቶሙ ፡ ወይ ቤሎሙ ፡፤ እመቦ ፡ ዘኮነ ፡ ሃካየ ፣ ወይፈርህ ፣ ለይትመየጥ ።፡ ወሶዕበ ፡ አኦደ ፡ ዐዋ ዴ ፡ ውስቴቶሙ ፡ ተመይጡ ፡ አምደቂቀ ፡ አስራኤል ፡ ፪፳ወ፳፻ ፡=፡
+me." He placed this wool in the middle of the grass; it was wet with dew without the grass being wet. Then the next day he said: "O Lord, behold I will place it again. If the grass and the earth are wet without the wool being wet, I will know that you will fight for me." He did so the next day. It happened to him as he had wished and his heart was strengthened. The spirit of strength descended on him (coming) from the Lord. He blew the trumpet and the children of Israel gathered to him. The Lord said to him: "The people are numerous. If they defeat their enemies, they will say that they themselves defeated them by their strength. Make a herald circulate among them (who) will say to them: If someone is lazy and afraid, let him return." When he had made the herald circulate among them, twenty-two thousand of the children of Israel returned.
+ወእምዝ ፣ ይቤሎ ፣ እግዚኣብሔር ፡ እስመ ፣ እሙንቱ ፣ ብዙኃን ፡፣ ካዕበ ፥ ወስዶ
+Then the Lord said to him: "They are still numerous. Lead them to
+
+
+[p. 10] {#po.26.p10}
+ሙ ፡ ግበ ፡ ማይ ፡ ወአዝዞሙ ፡ከመ ፡ ይስተዩ ፡ ወዘሰትየ ፡ ማየ ፡ ከመ ፡ ከልብ ፡ በልሳ ኑ ፡ ንሥኦሙ ፣ ወኅድጎሙ ፡ ለአለ ፣ ተርፉ ፳ ወወሰዶሙ ፡ ኀበ ፡ ባሕር ፡ ወሰትዩ፣ ማየ ፡ በከመ ፡ አዘዘ ፣ እግዚኣብሔር ፡ ወኮነ ፡ ጐልቆሙ ፡ ለእለ ፡ ሰትዩ ፡ ማየ ፡ በል ሳኖሙ ፣ ከመ ፡ ከልብ ፡ ፻የ፻ብእሲ = ወይቤሎ ፣ እግዚኣብሔር ፡ በአሉ ፡፣ ኣድኀኅነከ ፡ ወአሜጥዎሙ ፡ ለሰብአ ፡ ምድያም ፡ ውስተ ፡ እዴከ ፡=፡ ወበይእቲ ፡ ሌሊት ፡፣ ነፍ ፡ አቅርንተ ፣ በማእከሌሆሙ ፡ ወይቤሉ ፡ ፀብእ ፡ ለእግ ዚኣብሔር ፡ ወለጌድዮን ። ወሶበ ፣ ሰምዑ ፡ ሰብአ ፡ ምድያም ፡ቃለ ፡ አቅርንት ፣፡ወ ደየ ፣ እግዚኣብሔር ፡ ውስተ ፡ ልቦሙ ፡፣ ፍርሃተ ፣ ወድንጋፄ ፡ ወጐዩ ፡ ወኮኑ ፡ ለለ፳ እምኔሆሙ ፡ ይቀትል ፡ ቢጾ ፡ ወቀተሉ ፣ መላእክቲሆሙ ፡ ሄሬብ ፡ ወዜብ ፣ ወቀተ ሉ ፡ ፪ነገሥቶሙ ፣ ዝብሄል ፡፣ ወስልማና ፤ ወቀተሉ ፡ እምኔሆሙ ፡ ፲፳ወ፪፳ሰብአ ፡ አ ፍራስ ፡=፡
+the water and command them to drink. Whoever has drunk the water like a dog, with his tongue, take him and * leave those who remain." He led them to the river. They drank the water, as the Lord had commanded. The number of those who drank the water with their tongue, like a dog, was three hundred men. The Lord said to him: "By these I will save you and I will deliver the men of Midian into your hand." That night they sounded trumpets in their midst and they said: "The war is for the Lord and for Gideon." When the men of Midian heard the sound of the trumpets, the Lord put fear and dread into their hearts. They fled. Each of them killed his companion. (The Israelites) killed the princes (of Midian) Oreb and Zeeb; they killed their two kings Zebah and Zalmunna; they killed among them one hundred and twenty thousand horsemen.
+ወተፈሥሑ ፡ ደቂቀ ፡ እስራኤል ፡ በይእቲ ፡፣ ፅለት ። ወይቤልዎ ፡ ለጌድዮን ፣ኩ
+The children of Israel rejoiced that day. They said to Gideon: "Be
+
+
+[p. 11] {#po.26.p11}
+ን ፡ ንጉሠ ፡ ላዕሌነ ፡ አንተ ፣ ወደቂቅከ ፣፡ እምድኅሬከ ። ወአውሥኦሙ ፡ በትሕትና ፤ ልብ ፡ እንዘ ፡ ይብል ፡ አልቦ ፣ አነ፣ ወኢውሉድየ ፡ ኢይደልወኒ ፡ ዘንተ ፡ ዳአሙ ፡እ ግዚኣብሔር ፡ ውእቱ ፡ ዘስሉጥ ፡ ላዕሌክሙ ፡ አላ ፡ ሀቡኒ ፡ ለለ ፡ ጸአምኔክሙ ፡ 8ባዝ ግና ፣ ወር"ቅ ፣ እምዘ ፣ ማሀረክሙ ፡ እለ ፡ ኮኑ ፡ ውስተ ፡ ክሳደ ፣ አግማላት ፍ ወ አምጽኡ ፡ ሎቱ ፡ ወኮነ ፡ ጐልቆሙ ፡ ለወርቅ ፣ ወብሩር ፣፡ ዘአምጽኡ ፡ ሎቱ ፡ ፲፳ወ ኒ፻ዲናር ፡ ዘእንበለ ፡ ሰርጎን ፣ ለአንስት ፣ ወአልባሳተ ፡ ሐሪር ፡ እለ ፡ ኮኑ ፡ ላዕለ ፣
+our king, you, and your sons after you." He answered them with humility of heart, saying: "Neither I, nor my sons. That does not belong to me. It is only the Lord who has power over you. But let each of you give me a collar * of gold from among those you have seized (and) which were on the necks of the camels." They brought (them) to him. The quantity of gold and silver they brought him was one hundred thousand seven hundred dinars, not counting the women's ornaments and the silk garments that were on the camels.
+አግማላት።፡፡ ወነበረ ፡ ጻድቅ ፣ ጌድዮን ፡ እንዘ ፣ ይሜግቦሙ ፡ ለደቂቀ ፣ እስራኤል ፤ ጓዓመተ = ወኮነ ፣ አግዚኣብሔር ፡ ምስሌሁ ፡ በኩሉ ፣ ምግባሩ ፡ ወእምዝ ፡፣ አዕረፈ ፡ በሰላም ፡ ወተቀብረ ፡ ውስተ ፡ መቃብረ ፡ አበዊሁ ፡፡ ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ፡ ወአሜን ፡፡
+The righteous Gideon continued to govern the children of Israel for forty years. The Lord was with him in all his acts. Then he died in peace. He was buried in the tomb of his fathers. May his prayer and his blessing be with us. Amen. Amen.
+
+
+[p. 12] {#po.26.p12}
+
+### THE 17TH OF TAHSAH
+፲5 ፕ485ለ5 13«05ዝ885). ፪. -፦- ፲86663,8103 ህፔ10ር011196 ል, ፲፪]. በስመ ፡ አብ ፡ ወወልድ ፣ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡፡
+|. - Primitive Recension (A, T). In the name of the Father, of the Son, and of the Holy Spirit, one God.
+
+### THE 17TH OF TAHSAH. READING
+አመ ፡ ፲ጻለታኅሣሥ ፡ምንባብ። በዛቲ ፡ ዕለት ፣ ፍልሰተ ፡ ሥጋሁ ፡ ለቅዱስ ፡ ሉቃስ ፣ ዘአምድ ፡=፡ ዝንቱ ፡ ቅዱስ ፡ ኮነ ፡ እምብሔረ ፡ ፋርስ ፣ ወኮነ ፡ መኩ›ንነ ፡ ላዕለ ፡ ፻ ፡ ሐራ ፡፡ ወ እምድኅረዝ ፡ ኅደገ ፣ ሚመቶ ፡ ወለብሰ ፡ አልባሰ ፡ ምንኩስና ፣ ወኀደረ ፡ ውስተ ፡ ደብ ር ፡ እምነ ፡ አድባራት ፡ ዘሀገረ ፡ ምሥራቅ ፡ ወነበረ ፡ ውስቴታ ፡ ብዙኃ ፡ መዋዕለ ፣ ወሶ በ ፡ ፈጸመ ፡ ሕገ ፣፤ ምንኩስና ፣ ወተከሥተ ፣ ተጋድሎቱ ፣ ወትሩፋቲሁ ፣ ወተሠይ መ ፡ ቀሲሰ ፡ በውስተ ፡ ውእቱ ፡ ደብር ፡ ወበጊዜ ፡ ሚመቱ ፡ ለብሰ ፡ ልብሰ ፡ ሐጺን ፡ በከመ ፡ መጠነ ፡ ንብረቱ ።፡፡ ወሶበ ፡ ይነብር ፣ ውስተ ፡ ደብር ፣ ወተጸምደ ፡ ለጾም ፡
+On this day is the translation of the body of Saint Luke the Stylite. This saint was from the land of Persia. He was a commander of one hundred soldiers. Then he resigned his charge and put on the monastic habit; he lived in one of the convents of the land of the East and remained there for many days. When he had fully observed the monastic rule and his asceticism and virtues had been manifested, he was ordained a priest in this convent. At the time of his ordination he put on an iron garment large enough to sit in. When he settled
+
+
+[p. 13] {#po.26.p13}
+እምይእቲ ፡ ዕለት ፤ "ወኮነ ፡ ይጸውም ፡ 8መዓልተ ፡ ወበሳብፅ ፡ ዕለት ፡ ኮነ ፤ ይቄድስ ፡ ፉርርባነ ፣ ወይትሜጠው ፡ ምሥጢራተ ፡ ቅድሳት ፡ ወይበልዕ ፡ አሐደ ፡ ኅብስተ ፡ ንኡ ሰ፣ወሐምለ፡፣ ሐመልሚለ።
+in the convent, he was assiduous in fasting from that day on; * he would fast for six days and on the seventh day he would celebrate the Mass, take the holy mysteries, and eat a small loaf of bread and green vegetables.
+ወእምዝ ፡ ዐርገ ፡ ዲበ ፡ ዓምድ ፡፣ ወቆመ ፡ ዲቤሁ ፡ የዓመተ ። ወሰምዓ፣፡ቃለ፣መ ልአክ ፡እንዘ ፡ ይጹውዕፅ ፡ በስሙ ፣ ወይኤዝዞ ፡ ከመ ፡ ይረድ ፣ እመልዕልተ ፡ ዓምድ፣ ወአርአዮ ፣ መስቀለ ፡ ብርሃን ፣ ወወረደ ፡ ወተለዎ ፡ ለውእቱ ፡ ቃል ፡ ዘሰምዓ ፡ ወኮነ፤ ውእቱ ፡ መስቀል ፡ ይመርሖ ፡ እስከ ፡ አብጽሖ ፡ ኀበ ፡ 8፳እምነ ፡ አድባራት ፡ ወነበረ ፡ ውስቴቱ ፡ ብዙኃ ፣ መዋዕለ ።፡ ወኮኑ ፣ ኩሎሙ ፡ ሰብእ ፣ ይበጽሑ ፡ ኀቤሁ ፡ ወይትና ዘዙ ፣ በትምህርቱ ። ወእምድኅረዝ ፡ ኮነ ፡ አርማሜ ፡ ወረሰየ ፡ ውስተ ፡ አፉሁ ፡ እብ ነ ፡ ከመ ፡ ኢይትናገር ፡ ምስለ ፡ ሰብእ ፡ ግሙራ ።፡
+Then he climbed onto a column and stood on it for three years. He heard the voice of an angel calling him by his name and ordering him to descend from the top of the column. He showed him a cross of light. He descended and followed the voice he had heard. The cross led him until it had brought him to one of the convents. He remained there for many days. All the people came to him and were comforted by his teaching. Afterward he became silent. He put a stone in his mouth, so as never to converse with men.
+ወእምዝ ፡፣ አዘዞ ፣ እግዚኣብሔር ፡ ከመ ፡ ይሖር ፡ ኀበ ፡ ጽንፈ ፡ ሀገረ ፡ ቀሩኑስጥን ጥንያ ። ወሖረ ፡ ኅበ ፣ አሐቲ ፡፣ ዓጸድ ፣ ዘቅሩብ ፡ እምኔሃ ፡ ወዓርገ ፡ ዲበ ፣፡ ዓምድ፣
+Then the Lord commanded him to go to the outskirts of the city of Constantinople. He went to a village that was near (the city). He climbed onto a
+
+
+[p. 14] {#po.26.p14}
+ወነበረ ፡ መልዕልቴሁ ፣ ማጣወ፳ዓመተ ፡፣ እንዘ ፣ ይትጋደል ፡ ተጋድሎ ፡ መንፈሳዌ ፡= ወወሀቦ ፣ እግዚኣብሔር ፡ ጸጋ ፡ ትንቢት ፡ ወጸጋ ፡ ግብረ ፡ ተኣምራት ፣ ወመንክራት ፤ ወኮነ ፡ ይፌውሶሙ ፡ ለዙሎሙ ፡ ድውያን ፡ እለ ፡ ይበጽሑ ፡ ኀቤሁ ።= ወሶበ ፣ ፈቀደ ፣ እግዚኣብሔር ፡ ዕረፍቶ ፡ እ”ምጻማ ፡ ዝንቱ ፡ ዓለም ፡ ወአዕረፈ፣ አመ ፡ ፲ወድደለወርኃ ፡ ታኅሣሥ ፡ ወሖረ ፡ ዘኮነ ፡ ይትለአኮ ፡ ወነገሮ ፡ ለሊቀ ፡ ጳጳሳት ፡ ወለካህናት ፡ በእንተ ፣ ዕረፍቱ ። ወተንሥአ ፡ ሊቀ ፡ ጳጳሳት ፡ ወምስሌሁ ፡ ካህናት ፡ ወነሥኡ ፡፤ መስቀላተ ፣ ወማዕጠንታተ ፡ ወበጽሑ ፡ ኅበ ፣ መ'ኑ ፡ ወጸለዩ ፡ ላዕሌሁ ፡ ወጾርዎ ፡ ኅበ ፡ ሀገረ ፣ ቀስጥንጥንያ ፣ በሣልስት ፡ ዕለት ፣ እምአረፍቱ ፡ ዝውእቱ ፡ አ መ ፡ ፲ወጻለታኅሣሥ ፡ ወአንበርዎ ፣ ውስተ ፡ ቤተ ፣ መቅደስ ፡ ወፈጸሙ ፡ ላዕሌሁ ፡ ጸሎተ ፡ ሣልስ ፡ ዕለት ፣ ወተባረኩ ፡ እምኔሁ ፣ መሃይምናን ፡ ወእምዝ ፡፣ አንበርዎ ፡ ውስተ ፡ ሣጹን ፣ በኀበ ፡ ሥጋሆሙ ፡ ለቅዱሳን ። ወከሠተ ፡ እግዚኣብሔር ፣፡ እምሥጋ
+column and remained at the top of it for forty-five years, fighting the spiritual fight. The Lord gave him the grace of prophecy and the grace of performing miracles and wonders. He healed all the sick who came to him. When the Lord desired his rest * from the toil of this world, he died on the fifteenth of the month of Tahsah. The one who served him went to inform the patriarch and the priests of his death. The patriarch rose, as did the priests. They took the crosses and the censers and arrived at the place (where he was). They prayed over him and carried him to the city of Constantinople on the third day after his death, that is to say, the seventeenth of Tahsah. They placed him in the sanctuary and recited over him the prayers of the third day. The faithful were blessed by him. Afterward he was placed in a reliquary near the bodies of the saints. The Lord
+
+
+[p. 15] {#po.26.p15}
+ሁ ፡ ቅዱስ ፡ ተአምራተ ፡ ወመንክራተ ፡ ብዙኃ ፣ ወበቀሩዔተ ፡ ወፈውሰ ፡ ለኩሉ ፡ ዘይ በጽሕ ፡ ኀቤሁ ፡ በአሚን ፡=፡ ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስሌነ ፣ ለዓለመ ፡ ዓለም ፡ አሜን ፡፡
+manifested through his holy body many miracles and wonders, benefits and healings for all those who came to him with faith. May his prayer and his blessing be with us for the ages of
+፲፪. ፲:6፡9181033. “ህ19516 ጅ, .ሷ). ወበዛቲ ፡ ዕለት ፣ ክዕበ ፣ ተዝካሮሙ ፡፣ ለቅዱሳን ፡ ሰማዕታት ፣ አውስርያኖስ ፡፤ ወአ ውስትዮስ ፡ ወሱርያና ፡ ወማርቆስ ፣ ወበርጠልኤል ፡ ወናትናኤል ፡ መነኮስ ፡ ፃማዊ ።
+ages. Amen. II. - Revision or Vulgate (P, A). On this day also is the commemoration of the holy martyrs Auseryanos and Ausetyos, of Suryana, of Mark, of Bartal'el, and of Nathanael, a monk burdened with trials.
+በረከቶሙ ፡ ቅድስት ፡ ወሀብተ ፣ ረድኤቶሙ ፡ ተሀሉ ፡ ምስለ ፣ ንጉሥነ ፡ ኢያ ሱ ፡ ወምስለ ፡ ዙልነ ፡ ውሎደ ፡ ጥምቀት ፡ ለዓለመ ፡ ዓለም ።
+May their holy blessing and the gift of their help be with our king Iyasu and with us all, children of baptism, for the ages of ages.
+
+### THE 18TH OF TAHSAH
+፲8 ፕላክ54፪ 1)«65ዝ8ከ5). ፤ ፪. ዌጀህ911196 ል, ጄ]. በስመ ፡ አብ ፡ ወወልድ ፣ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡=፡
+|. - Primitive Recension (A, T). In the name of the Father, of the Son, and of the Holy Spirit, one God.
+
+
+[p. 16] {#po.26.p16}
+
+### THE 18TH OF TAHSAH
+አመ ፡ ፲ኛ፻ለታኅሣሥ ።፡፡ በዛቲ ፡ ዕለት ፡፣ ተዝካሩ ፡ ለአርቅላ ፣ ሰማዕት ፣ ወለፊልሞና ፡ ሰማዕት ፡ ቀሲስ ፡ ባ ሕታዊ። ጸሎቶሙ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ።፡
+On this day is the commemoration of Archelaus, martyr, and of Philemon, martyr, priest, solitary. May their prayer be with us. Amen.
+ወበዛቲ ፡ ዕለት ፣ ካዕበ ፣ ፍልሰተ ፡ ሥጋሁ ፡ ለቅዱስ ፡ ዓቢይ ፡ ቲቶ ፣ ሐዋርያ፡ረ ድኡ ፡ ለጳውሎስ ፡ ሐዋርያ ። አፍለሶዕ ፡ ንጉሥ ፡ ዓቢይ ፣ ”እምነገሥት ፣፡ ቄስጠንጢኖስ ፡ ጻድቅ ፡ እምሀገረ ፡ አ ቅሪጥስ ፡ እስከ ፡ ሀገረ ፡ ቀሩስጥንጥንያ ። አስመ ፣ ውእቱ ፡ ሶበ ፡ ነግሠ ፡ በፈቃዱ ፡ ለክ ርስቶስ ፣ ሐለየ ፡ በእንተ ፡ ሥርዓተ ፡ ዓብያተ ፡ ክርስቲያናት ፣ ወዥሉ ፣ ግብሮሙ ፡ፈ ድፋደ ።፡፡ ወአሰርገዎሙ ፡ ለዙሎሙ ፡ አብያተ ፣ ክርስቲያናት ፡ እለ ፣ ውስተ ፣ መንግ ሥቱ ፡ በኩሉ ፡ ስርጉት ፡ ሠናይ ፡ ወፈድፋደሰ ፡ አብያተ ፡ ክርስቲያናት ፡ ዘሀገረ ፡ ቀሩ ስጥንጥንያ ፡ እስመ ፡ ይእቲ ፡ መንበረ ፣ መንግሥቱ ፡= ወፈቀድ ፡ ከመ ፡ ያሰርግዋ ፡ ምስ
+On this day also is the translation of the body of the holy (and) great Titus, apostle, disciple of Paul, apostle. The great king * among kings, Constantine the Just, had him transferred from the land of Crete to the city of Constantinople. Indeed, the latter, when he reigned by the will of Christ, was extremely concerned with the direction of the churches and all their affairs. He adorned all the churches that were in his kingdom with beautiful decorations of all kinds and especially the churches of the city of Constantinople, for it was the seat of his kingdom. He wanted to adorn them with
+
+
+[p. 17] {#po.26.p17}
+ለ ፡ ስርጉት ፣ ሥጋዊ ፡ ወዕንቄ ፡ ባሕርይ ፡ ወአአባን ፡ ክቡራን ፣ ወያክብራ ፡ ካዕበ፣ በአእባን ፣ መንፈሳዊያን ፡ ወፅንቀ፦ ፣ ሰማያዊያን ። ወአስተጋብአ ፣ ኀቤሃ ፣ ሥጋሆሙ ፡ ለሐዋርያት ፡ ቅዱሳን ፡ ወዘረከበ ፡ እምነ ፡ ሥጋሆሙ ፡ ለሰማዕታት ፡ ክቡራን ፡ ወሶበ ፣ ሰምዓ ፡ እምነ ፣፤ ሥጋሁ ፡፣ ለቅዱስ ፡ ቲቶ ፡ ሐዋርያ ፡ በሀገረ ፡ አቅሪጥስ ፡ ወፈነወ ፣ሊ ቃነ ፡ ከሀናት ፡፣ ወምስሌሆሙ ፡፣ ንዋይ ፣ ብዙኅ ፡ ወጾሩ ፣ ሥጋሁ ፡ ለቅዱስ ፡ በክብር ፡ ዓቢይ ፣ ወአብጽሕቻዎ ፡፣ ኅበ ፣ ሀገረ ፡ ቀሩስጥንጥንያ ። ወሐነጹ ፡ ሎቱ ፡ ቤተ ፡ ክርስ ቲያነ ፡ ሠናይተ ፣ ወአንበርዎ ፣ ውስተ ፡፣ ሣጹን ፡ ዘእብን ፡ ክቡር ፣ ውስተ ፡ ቤተ ፡ መቅ
+material ornaments, rare gems, precious stones, and also to honor them with spiritual stones and heavenly gems. He gathered in (these churches) the bodies of the holy apostles and what he found of the bodies of the glorious martyrs. When he learned that the body of Saint Titus, apostle, was in the land of Crete, he sent the archpriests (there) with much money. They carried the body of the saint with great honor and brought it to the city of Constantinople. A beautiful church was built for him. He was placed in a reliquary of precious stone in the sanctuary.
+ደስ ፡፡ ወከሠተ ፡ እግዚኣብሔር ፡ እምኔሁ ፡ ተኣምራተ ፡ ዓበይተ ፣ ወመንክራተ ፡ ብዙ ኃተ ወእምኔሆሙ ፡ ሶበ ፡ ጾርዎ ፣ ከመ ፣ ያብእዎ ፣ ውስተ ፡ ቤተ ፡፣ መቅደስ ፡ወድ ቀ ፡ ጽንፈ ፡ ሣጹን ፡ ዘእብን ፡ ዲበ ፡ እግረ ፡ አሐዱ ፡ እምአለ ፡ ይጸውርዎ ፡ ወቀጥቀጠ ፡ ወሰበረ ፣ አዕጽምቲሁ ።፡ ወነሥአ ፣ ውእቱ ፡ ብአሲ ፡ እምቅብአ ፡ ማኅቶት ፡ ዘስቁል ፡
+The Lord manifested through him great miracles and many wonders. Among others: when they were carrying him to introduce him into the sanctuary, the end of the stone reliquary fell on the foot of one of those who were carrying it, breaking and crushing his bones. This man took with faith some oil from the lamp that was hanging before the image of Saint Titus; he anointed his
+
+
+[p. 18] {#po.26.p18}
+ቅድመ ፡ ሥዕሉ ፡ ለቅዱስ ፡ ቲቶ ፡ በሃይማኖት ፡፣ ወቀብአ ፡ ቦቱ ፡ እግሮ ፡ ወአሰራ ፡ እንዘ ፡ የሐምም ፡ ወይጸርኅ ።፡ ወኢተክህሎ ፡ ከመ ፡ ይሖር ፡ ኅበ ፡ ቤቱ ፡ ወኅደረ ፡ ይእተ ፡ ሌሊተ ፡ ኅበ ፡ ሀሎ ፣ ሣጹኑ ፡ ለቅዱስ = ወበሳኒታሁ ፡ ፈትሐ ፡ እግሮ ፡ ከመ ፡ ይርአይ ፡ ወይግበር ፡ ዲቤሃ ፡ መድኃኒተ ፡ ወረከባ ፡ በዘሐይወት ፡ ዘእንበለ ፣ ሙስና ፡ ከመ ፡ ዘኢበጽሐ ፡ ሕማም ፡ ግሙራ ፡፡ አላ ፡ ረከበ ፡ ዲቤሃ ፡ አሰረ ፡ ደም ፡ ባሕቲቱ ፣ ወአንከረ ፡ ፈድፋደ ፡= ወከማሁ ፤ ኩሎሙ ፡ እለ ፡ ርአይዋ ፡ ለዛቲ ፣፡ ትእምርት ፡ አን ከሩ ፡ ፈድፋደ ፡ ወሰብሕዎ ፣፤ ለእግዚኣብሔር ።፡ ወተንሥአ ፡ ውእቱ ፡ ብአሲ ፣ ወሐፀ በ ፡ ደመ ፡ ወአንሶሰወ ፡ በከመ ፡ ልማዱ ፡ ዘእንበለ ፣ ሕማም ፡ እንዘ ፡ ይሴብሖ ፡ለአ
+foot and bound it while suffering and crying out. It was not possible for him * to go to his house and, that night, he remained where the reliquary of the saint was. The next day he unbound his foot to look at (it) and put a remedy on it. He found it healed, without lesion, as if no harm had happened to him. But he found traces of blood on it only. He was extremely astonished. All those who saw this miracle were likewise extremely astonished and glorified the Lord. This man rose, washed the blood, and walked, according to his habit, without pain, while he glorified the Father, the Son, and the Holy Spirit. Numerous were the miracles of this holy apostle Titus.
+ብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ። ወብዙኃት ፣ ተኣምራቲሁ ፡ ለዝንቱ ፡ ቅዱስ ፡ ሐ ዋርያ ፡ ቲቶ። ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ፡፡
+May his prayer and his blessing be with us. Amen.
+
+
+[p. 19] {#po.26.p19}
+፲፪. ፲:0691810ቧ “ዝ19316 ጅ, .ሷ). በዛቲ ፡ ዕለት ፡ ተዝካሩ ፡ ለአባ ፡ ሰላማ ፡ ከሣቴ ፡ ብርሃን ፡ ወዜናሁሰ ፣ ሀሎ ፡ ጽሑ ፈ፡ አመ ፡ ፳ወጴጳለወርኃ ፡ ሐምሌ ፡ እስመ ፡ ውእቱ ፡ ብርሃና ፡ ለኢትዮጵያ ። በረከቱ ፡ ቅድስት ፡ ተሀሉ ፡ ምስለ ፡ ንጉሥነ ፡ ኢያሱ ፡ ለዓለመ ፡ ዓለም ። ወበዛቲ ፡ ዕለት ፡ ኮነ ፡ ተዝካሮሙ ፡ ለፋርክዮን ፡ ወሰሊክዮን ፡ ወገለኒጎስ ፡ ወአው ናስ ፡ ወአብያጺሆሙ ፡ ሰማዕታት ። ወፍልሰተ ፣ ሥጋሆሙ ፡ ለአርሲስ ፡ ወዳስያ ፡ ወዲ ሞን ። ወፍልሰተ ፤ ሥጋሁ ፡ ለቶማስ ፡ ሐዋርያ ። ወአስተርአዩ ፡ ተኣምራት ፣ ወመንክ ራት ፡ ዘአልቦ ፡ ጐልቀ፦ ፡ እምሥጋሁ ። ወሐነጹ ፡ ሎቱ ፡ ቤተ ፡ ክርስቲያነ ፡ ሠናይተ ፡ ውስተ ፡ባሕር ፡ ወአንበሩ ፡ ውስቴታ ፡ ሥጋሁ ፡ ለቅዱስ ። ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስለ ፡ ፍቁሩ ፡ ዘመንፈስ ፡ ቅዱስ ፣፡ ለዓለመ ፡ ዓለም ። አሜን።
+II. - Revision or Vulgate (P, A). On this day is the commemoration of Abba Salama, the revealer of the Light. As for his history, it is found written on the 26th of the month of Hamle, for he is the light of Ethiopia. May his holy blessing be with our king Iyasu for the ages of ages. On this day is the commemoration of Farekyon, of Salikyon, of Galanigos, of Awnas, and of their companion martyrs. Translation of the bodies of Arsis, Dasya, and Dimon. Translation of the body of Thomas, apostle. Miracles and wonders without number were manifested through his body. A beautiful church was built for him near the river and the body of the saint was placed in this (church). May his prayer and his blessing be with his beloved Za-Manfas-Qedous for the ages of ages. Amen.
+
+
+[p. 20] {#po.26.p20}
+
+### THE 19TH OF TAHSAH
+፲5 ጥ488ለ8 13፤ርሄ3(8ክ5). ፪. -፦ ፻መ0666:9810ዉ. 5፲1901(196 ል, ዊ)›- በስመ ፡ አብ ፡ ወወልድ ፣ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡=፡
+|. - Primitive Recension (A, T). In the name of the Father, of the Son, and of the Holy Spirit, one God.
+
+### THE 19TH OF TAHSAH
+አመ ፡ ፲8ለታኅሣሥ ፡፡ በዛቲ ፡ ዕለት ፡ አዕረፈ ፡ አብ ፣ ቅዱስ ፡ አባ ፣ ዮሐንስ ፡ ኤጴስ ፡ ቆዕስ ፡ ዘሀገረ ፡ ቦርልስ ፡=፡
+On this day died the holy Father Abba John, bishop of the city of Borles.
+ዝንቱ ፡ ቅዱስ ፡ ኮነ ፡ እምዘመድ ፡ ክቡር ፡ ወኮኑ ፡ አበዊሁ ፡ ካህናት ፡ ወኮኑ ፣ ይሁቡ ፡ እምንዋዮሙ ፡ ለነዳያን ፡ ወለምስኪናን ።፡ ወሶበ ፡ አዕረፉ ፣ አበዊሁ ፡ ነሥአ ፡ ዘኃደጉ ፤ አምንዋይ ፣ ወሐነጸ ፡ እምኔሁ ፡ ቤተ ፡ ነግድ ፣፡ ወአስተጋብአ ፡ ውስቴቱ ፣፡ ድ ውያነ ፡ ወኮነ ፡ ይትላአኮሙ ፡ በርአሱ ፡ ወያቄርብ ፣ ሎሙ ፡ ዘይፈቅዱ ።፡ ወበውእቱ ፡ ጊዜ ፣ በጽሐ ፡ ኀቤሁ ፡፣ ፳መነኮስ ፡ ወርእየ ፡ ዘይገብር ፡ ወወደሰ ፡ ሎቱ ፡ ምንኩስና ፡
+This saint was of noble family; his parents were priests. They gave their money to the poor and the unfortunate. When his parents died, he took what money they had left and built a hospice with it. He gathered the sick there; he served them himself and offered them what they desired. At that moment a monk came to him. He saw what he was doing; he praised monasticism to him and revealed its glory to him. When this monk had
+፲5 19 ጥ488ለ8 (15 13፤ርሄ3(8ክ5). ፪. -፦ ፻መ0666:9810ዉ. 5፲1901(196 (ል, ዊ)›- በስመ ፡ አብ ፡ ወወልድ ፣ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡=፡ አመ ፡ ፲8ለታኅሣሥ ፡፡ በዛቲ ፡ ዕለት ፡ አዕረፈ ፡ አብ ፣ ቅዱስ ፡ አባ ፣ ዮሐንስ ፡ ኤጴስ ፡ ቆዕስ ፡ ዘሀገረ ፡ ቦርልስ ፡=፡
+
+
+[p. 21] {#po.26.p21}
+ወከሠተ ፡ ሎቱ ፡ ክብራ ፡፡ ወሶበ ፣ ሖረ ፣ እምኅቤሁ ፡ ውእቱ ፡ መነኮስ ፡ ተንሥአ ፡፣፡ ወወሀበ ፡ ኩሎ ፡፣ ንዋዮ ፡ ለምስኪናን ፡ ወሖረ ፡ ኀበ ፡ ገዳም ፡ ዘአስቄጥስ ፡፡ ወኮነ ፡ በ መዋዕሊሁ ፡ ለአባ ፡ ዳንኤል ፡ አበ ፡ ምኔት ፡ ዘገዳመ ፡ አስቄጥስ ፣ "ወመንኩሰ ፣ በኀቤ ሁ ፡ ወተጋደለ ፡ ተጋድሎ ፡ ዓቢየ ፡=
+gone from him, he rose, gave all his money to the unfortunate, and went to the desert of Scetis. It was in the days of Abba Daniel, superior of a monastery in the desert of Scetis *. He became a monk under him and practiced great asceticism.
+ወአምዝ ፡ ነበረ ፡ ባሕቲቱ ፡ ውስተ ፡ ዖማዕት ፡ ወቀንኡ ፡ ላዕሌሁ ፡ ሰይጣናት ፡በ እንተ ፡ ሠናይ ፡ ገድሉ ፣ ወቀሠፍዎ ፡ መቅሠፍተ ፡ዓቢየ ፡ እስከ ፡ ነበረ ፡ ብዙኃ ፡ መ ዋዕፅለ ፡ እንዘ ፡ ይደዊ ፣ አምቅሥፈት ፣ ዘቀሠፍዎ ፡ ሰይጣናት ።= ወእምድኅረዝ ፡ፈ ወሶ ፡ እግዚአነ ፡ ክርስቶስ ፡ ወኮነ ፡ ጽኑዓ ፡ ወኃያለ ፡ ወሞኦሙ ፡ ለሰይጣናት ፡፡ ወአምዝ ፣ በፈቃደ ፡ እግዚኣብሔር ፡ ተሠይመ ፡ ኤጴስ ፡ ቆይፅሰ ፡ ላዕለ ፡ ሀገረ ፣ ቦርልስ = ወኮነ ፡ በመዋዕሊሁ ፡ ኑፋቂ ፣ ብዙኅ ፡ ውስተ ፡ አህጉር ፡ ወተጋደለ ፡ ተጋ ድሎ ፡ ዓቢየ ፡ ከመ ፡ ይምሳሕ ፡ ክርዳደ ፡ እማእከለ ፡ ስርናይ ፡ ወሜጦሙ ፡ ለአሕዛ ብ ፡ እምኑፋቂ ፡ ሃይማኖት ፡ ወአብኦሙ ፡ ውስተ ፡ ሃይማኖት ፡ ርትዕት ፡፡ ወአስተርአየ ፣ በመዋዕሊሁ ፡ ፳መነኮስ ፡ እምላዕላይ ፡ ግብጽ ፡ ይትናገር ፣ በብዙኅ ፡
+Then he lived alone in a cell. The satans were jealous of him because of his beautiful asceticism. They struck him with great blows to the point that he remained, for many days, sick from the scourging with which the satans had scourged him. Afterward Our Lord Christ healed him. He became strong and powerful and defeated the satans. Then, by the will of the Lord, he was instituted bishop of the city of Borles. There were during the days (of his episcopate) many dissensions in the cities. He fought a great fight, in order to uproot the tares from the midst of the wheat. He converted the peoples from heresy (against) the faith and brought them back into the right faith. During the days (of his episcopate) appeared a monk from Upper Egypt.
+
+
+[p. 22] {#po.26.p22}
+ነገር ፡ ወይቤ ፡ ከመ ፡ ሚክኤል ፡ ይከሥት ፣ ሎቱ ፡ ወውእቱ ፡ አስሐቶሙ ፡ ለብዙኃ ን ፡ ሰብእ ፡=፡ ወሶበ ፡ አእመረ ፣ ቅዱስ ፣ ከመ ፡ ምግባሩ ፡ ለውእቱ ፡ እምነ ፡ ሰይጣን ፡ አዘዘ ፡ ከመ ፡ የአኃዝዎ ፣ ወይዝብጥዋዎ ፡ ወሶዕበ ፣ ዘበጥዎ ፣ ተአምነ ፡ በስሕተቱ ፡ ወሰደ ድዎ ፡ እምነ ፡ አህጉር ፡=
+He expounded many things and said that Michael was making revelations to him. He was leading many people astray. When the saint knew that the work of this (monk) was of Satan, he ordered him to be arrested and beaten. When he had been beaten, he confessed his error and he was driven out of the cities.
+ወሀሎ ፡ ክልእ ፡ ዘኮነ ፡ ይቤ ፡ እስመ ፡ እንባቆም ፡ ነቢይ ፡ ያስተርኢ ፡ ሊተ ፡ ወይከ ሥት ፡ ሊተ ፡ ምሥጢራተ ፡ ብዙኃተ ፡ ወተለዎ ፡ ብዙኅ ፡ ሰብአ ፡=፡ ወሰደዶ ፡ ቅዱስ ፡ ከዕበ ፣ ለውእቱ ፡ ወሠዐረ ፡ ትምሀርቶ ፡ ወሠዐረ ፡ መጻሕፍተ ፡ ከንቶ ፣ ብዙኃነ ፡ ዘኮ
+There was another (monk) who said: "The prophet Habakkuk appears to me and reveals many mysteries to me." Many people followed him. The saint drove that one out too and destroyed his teaching. He destroyed the many vain books that existed and brought the heretics back into the Church.
+ኑ ፡ ወአብኦሙ ፡ ለኑፉቃነ ፡ ሃይማኖት ፡ ውስተ ፡ ቤተ ፡ ክርስቲያን ፡፡ ወኮነ ፡ ቅዱስ ፡ ዮሐንስ ፡ ኩሎ ፡ ጊዜ ፡ ዘዓርገ ፡ ውስተ ፡ ቤተ ፡ መቅደስ ፡ ወይቄድ ስ ፡ ጐርባነ ፡ ወይከው”ን ፡ ገጹ ፡ ከመ ፡ እሳት ፣ ወሥጋሁ ፡ ኩሉ ፡ ይከውን ፡ ከመ፣፥ ዘወጽአ ፡ እምእቶነ ፡ እሳት ፡ ወኮነ ፡ ሶበ ፣ ይቄድስ ፣ ቅዳሴ ፣ ይውሕዝ ፡፣ አንብዑ ፡ ከ መ ፡ ዝናም ፡ እስመ ፡ ውእቱ ፡ ኮነ ፡ ይኔጽር ፡ ሰራዊተ ፡ ሰማያዊያን ፡ ዲበ -፣፡ምሥዋ
+Each time Saint John went up to the sanctuary and celebrated the Mass, his face * became like fire and his whole body became as if it were coming out of a furnace of fire. When he celebrated the Mass, his tears flowed like rain, for he, he saw the armies of the heavenly (beings)
+
+
+[p. 23] {#po.26.p23}
+ዕ ፣ ወካዕበ ፡ ሰለሥተ ፡ ጊዜ ፡ ቀደሰ ፣ ቅዳሴ ። ወሶበ ፡ ያነብር ፡ አጽባዕቶ ፡ ውስተ ፡ ጽዋፅ ፡ ከመ ፡ ይዕትብ ፣ ሞርባነ ፡ በጊዜ ፡ ፈትቶ ፡ ወይረክቦ ፡ ለጽዋዕ ፡ ከመ ፡ አሳ ት ፡ እንተ ፡ ትነድድ ፡=
+above the altar, especially (when) he sang the Trisagion. When he put his finger into the chalice, in order to consign the Eucharist at the moment of the fraction, he found the chalice like a fire that was burning.
+ወኮኑ ፡ በመዋዕሊሁ ፡ ሰብእ ፡ እኩያን ፡ ወአላዊያን ፡ ዘአስሐቶመሙ ፡ ሰይጣን ፡ ወኮ ኑ ፡ ያቄርቡ ፡ ፪ጊዜ ፣ በመዓልት ፡ እምድኅረ ፡ ይበልዑ ፡ ወአውገዞሙ ፡ ወረገሞሙ፣0፣ ከመ ፡፤ ኢይግበሩ ፡ ዘንተ ፥፣ ምግባረ ፣ እኩየ ።፡= ወዕበ ፣ ኢሰምዑ ፡ ትእዛዞ ፡ ሰአሎ፣ ለእግዚኣብሔር ፡ በእንቲአሆሙ ፡ ወወረደት ፡ እሳት ፡ እምሰማይ ፡ ወአውዓየቶ ፡ ለሊቆ ሙ ፡፡ ወዕበ ፡ ርእዩ ፡ ሕዝቡ ፡ ዘንተ ፡ ፈርሁ ፣ ፈድፋደ ፡ ወቦኡ ፡ ውስተ ፡ ሃይማኖት ፡ ርትዕት ፡=
+In the days (of his episcopate) there were evil and heretical men whom Satan had led astray. They communicated twice a day, after they had eaten. He excommunicated them and cursed them, so that they would not do this evil action. As they did not listen to his command, he prayed to the Lord about them. Fire descended from heaven and burned their leader. When these people saw that, they feared extremely and returned to the right faith.
+ወእምድኅረዝ ፡ ፈቀደ ፣ እግዚኣብሔር ፡ ከመ ፡ ያዕርፎ ፡ እምጻማ ፡ ዝንቱ ፡ ዓለም ፡ ኃላፊ ፡= ወፈነወ ፣ ሎቱ ፡ ቅዱሰ ፡ አባ ፡ እንጦንዮስ ፡ ወቅዱሰ ፡ አባ ፣ መቃር ዮስ ፡ ከመ ፡ ያጠይቅዎ ፡ ጊዜ ፡ ፅረፍቱ ። ወአብጽሖሙ ፡፤ ለሕዝቡ ፡ ወአዘዞሙ ፡
+Then the Lord wanted to let him rest from the toil of this passing world. He sent him Saint Abba Anthony and Saint Abba Macarius, in order to inform him of the time of his death. He brought his faithful ones and ordered them to love one another
+
+
+[p. 24] {#po.26.p24}
+ከመ፣ ይትፋቀሩ፡፣ በበይናቲሆሙ ፡ ወይጽንዑ ፡ ዲበ ፡ ሃይማኖት ፡ ርትዕት ፡ ወእምዝ ፡ ሰከበ ፡ ዲበ ፡ ምስካቢሁ ፡ ወአዕረፈ ፡ በሰላም ፡፡፡ ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስሌነ ፡ ለዓለም ፡ አሜን ፡=፡
+them and to be firm in orthodoxy. Then he lay down on his bed and died in peace. May his prayer and his blessing be with us forever. Amen.
+1፪. ፲0691810ኳ. ዣዝህ10806 ጅ, ወበዛቲ ፡ ዕለት ፡ ካዕበ ፣ ወደይዎሙ ፡፣ ውስተ ፡ እቶነ ፡ እሳት ፡ ለአናንያ ፣ ወአዛር ያ ፣ ወሚሳኤል ፡=፡
+II. - Revision or Vulgate (P, A). On this day also, Ananias, Azarias, and Misael were cast into the furnace of fire.
+ጸሎቶሙ ፡ ወበረከቶሙ ፡ዩየሀሉ ፡ ምስሌነ ፡ ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ ኮነ ፡ በዓሉ ፡ ለገብርኤል ፡ መልአክ ፡=፡ ጸሎቱ ፡ ወበረከቱ ፡ የሃሉ ፡ ምስሌነ ፡ ለዓለመ ፡ ዓለም ፲5 ጥ48845 3505ዝ8ከ5)- -፦ ፲86660810. ህ፲1)111ሦ6 ጴ, ፲).
+May their prayer and their blessing be with us. On this day also is the feast of the angel Gabriel. May his prayer and his blessing be with us for ages of ages.
+
+### THE 20TH OF TÂHSAË
+በስመ ፡ አብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡=፡
+I. - Primitive Recension (A, T). In the name of the Father, and of the Son, and of the Holy Spirit, one God.
+
+
+[p. 25] {#po.26.p25}
+
+### THE 20TH OF TÂHSAË
+አመ ፡ ፳ለታኅሣሥ ፡=፡ በዛቲ ፡ ዕለት ፡ አዕረፈ ፡ ነቢይ ፡ ሐጌ ፡ ጻድቅ = ዝንቱ ፣ ጻድቅ ፡ ኮነ ፡ አምውሎድ ፡ አሮን ፣ ካህን ፣ አምደቂቀ ፡ ሌዊ ፡ ዘእም፲ወ ፪ደቂቀ ፤ ነቢያት ፡ ወዕበ ፡ ፄወዋ ፡፣ ”"ናቡክድናጾር ፣ ለኢየሩሳሌም ፣ ወወሰዶሙ ፡ ለ ደቂቀ ፡ እስራኤል ፡ ኀበ ፡ ሀገረ ፡ ባቢሎን ፡ ወኮኑ ፡ አበዊሁ ፡ ለዝንቱ ፡ ጻድቅ ፡ እም ጐልቆሙ ፡ ወወለድዎ ፡ ለዝንቱ ፡ ጻድቅ ፡ በውስተ ፡ ሀገረ ፡ ባቢሎን ፡፡፡
+On this day died the prophet Haggai, the righteous. This righteous man was of the sons of Aaron, the priest, of the children of Levi (and one) of the twelve minor prophets. When * Nebuchadnezzar took Jerusalem and led the children of Israel to the city of Babylon, the parents of this righteous man were among that number. They begat this righteous man in the city of Babylon.
+ወሶበ ፡ ነግሠ ፡ ኮርስ ፡ ዘይሠመይ ፡ ዳርዮስ ፡ ተነበየ ፡ ዝንቱ ፡ ነቢይ ፡ በዳግማይ ፡ ዓመተ ፡መንግሥቱ ፡ ወሶበ ፡፣ ሰደዶሙ ፡ ኮርስ ፡ ለደቂቀ ፡ አስራኤል ፡ ከመ ፡ ይትመ የጡ ፡ ኀበ ፣ ኢየሩሳሌም ፡ ወገብኡ ፣ ወፈቀዱ ፡ ከመ ፡ ይሕንጹ ፣ ቤተ ፡ መቅደስ =፡ ወተነበየ ፡ ዝንቱ ፡ ነቢይ ፡ በእንተ ፥፡ ሕንጸቱ ፣ ለቤተ ፡ መቅደስ ፣ ወገሠጾሙ ፡ ለሕዝበ ፣ እስራኤል ፡ እስመ ፡ እሙንቱ ፡ የኀድሩ ፡ ውስተ ፡ አብያት ፡ ሠናያት ፡ ወስርግዋት ፡ ወቤቱ ፡ ለእግዚኣብሔር ፡ በድው ፡፡ ወይቤሎሙ ፡ ለእመ ፡ አሙንቱ ፡ ኢሐለዩ ፡ በእን
+When Cyrus, who is called Darius, reigned, this prophet prophesied in the second year of his reign. When Cyrus sent back the children of Israel so that they might return to Jerusalem, they returned and wished to rebuild the temple. This prophet prophesied concerning the reconstruction of the temple. He rebuked the people of Israel, for (the Israelites) were living in beautiful and ornate houses while the house of the Lord was a desert. He told them that if they
+
+
+[p. 26] {#po.26.p26}
+ተ ፡ ቤቱ ፡ ለእግዚኣብሔር ፡ ወይሕንጽዖ ፡ በከመ ፡ ይደሉ ፡ ወእመ ፡ አኮ ፡ እግዚኣብ ሔር ፡ ይምትር ፡ ሥረዊሆሙ ፡ ወያሕጽጽ ፡ ፍሬ ፡ ዘርኦሙ ፡ ወይረሲ ፡ ረሐበ ፡ ወጽ ምዓ ፤ ወጽልሑተ ፡ ውስተ ፡ አልባቢሆሙ ፡ ወያሕጽጽ ፡ በረከተ ፣ አምነገዶሙ ፡= ወሰምዑ ፡ ጻድቃኒሆሙ ፡ ለሕዝብ ፡ ነገሮ ፡ ዘተነበየ ፣ ላዕሌሆሙ ፡ ወፈርሁ ፡ እም ኔሁ ፡ ፈድፋደ ፡ ወሐነጹ ፡ ቤተ ፡ መቅደስ ፣ በከመ ፣ ይደሉ = ወተነበየ ፡ በእንተ ፣ ቤተ ፡ መቅደስ ፡ ከመ ፡ እግዚኣብሔር ፡ ሠምረ ፡ በሕንጸቱ ። ወሐይወ ፡ ዘይፈደፍድ ፡ እምቋዓመት ፡ ወተነበየ ፡ እምቅድመ ፡ ምጽአቱ ፡ ለእግዚእነ ፡ ክርስቶስ ፡ በ8፻፲ዉዓመት፡ ወአዕረፈ ፡ በሰላም ፡ ወተቀብረ ፡ ውስተ ፡ ኢየሩሳሌም ፡ ውስተ ፡ መቃብረ ፡ ካሀናት = ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስሌነ፣ ለዓለም ፡ አሜን ፡፡ ፲:0691810ኳ ዐክኳ “ዝሀህ19316 ጅ, .ል). ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ ኮኑ ፡ ታውፊና ፡ ንግሥት ፣ ወአውጋንዮስ ፣ ወማርድዮስ።
+did not concern themselves with the house of the Lord in order to rebuild it as was fitting, the Lord would cut their roots, dry up the fruits of their seed, bring hunger and thirst as well as guile into their hearts, and dry up the blessing of their nation. The righteous among the people listened to the words he had uttered against them and were extremely afraid. They rebuilt the temple as was fitting. He prophesied concerning the temple that the Lord accepted its reconstruction. He lived more than seventy years. He prophesied four hundred and thirty years before the coming of Our Lord Christ. He died in peace and was buried in Jerusalem in the sepulcher of the priests. May his prayer and his blessing be with us forever. Amen. II. - Revision or Vulgate (P, A). On this day also are (the commemorations of) Täwfinä, queen, of Eugene, and of Mârdyos.
+
+
+[p. 27] {#po.26.p27}
+ጸሎቶሙ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ።
+May their prayer be with us. Amen.
+
+### THE 21ST OF TÂHSAË
+ጥ4ከቨ፳45 ሄር5ዝ885)›- ፲፳8666፤0810እ 5፲1:0101:6 ል, ፔ]. "በስመ ፡ አብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡=፡
+Primitive Recension (A, T). * In the name of the Father, and of the Son, and of the Holy Spirit, one God.
+
+### THE 21ST OF TÂHSAË
+አመ ፡ ፳፳8ለታኅሣሥ ፡=፡ በዛቲ ፡ ዕለት ፡ ተዝካረ ፣ እግዝእትነ ፣ ቅድስት ፣ ድንግል ፡ ማርያም ፡=፡ ጸሎታ ፡ ወበረከታ ፣ ወትንብልናሃ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ፡፡ ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ ኮነ ፡ ቅዱስ ፡ ሐዋርያ ፡ ወነቢይ ፡ ዘበትርጓሜ ፡ ስሙ ፡በ ርናባስ ፡ ወልደ ፡ ኑዛዜ ፡ ኮነ ፡ ሰማዕተ።፡
+On this day is the commemoration of Our Lady the Holy Virgin Mary. May her prayer, her blessing, and her intercession be with us. Amen. On this day also is (the commemoration of) the holy apostle and prophet Barnabas, whose name literally means "son of consolation." He was a martyr. This saint was from the country of Cyprus, of the tribe of Levi. His name was
+ዝንቱ ፣ ቅዱስ ፣ ኮነ ፡ እምሀገረ ፡ ቆብሮስ ፡ እምነገደ ፡ ሌዊ ፡ ወኮነ ፡ ስሙ ፡ ዮሴ ፍ ።= ወኅረዮ ፣ እግዚእነ ፤ እምጐልቆሙ ፡ ለፎወ፪አርድአት ፣ ዘፈነዎሙ ፡ ይስብኩ ፤ እምቅድመ ፡ ሕማማቲሁ ፡ ወሰመዮ ፡ በርናባስ ።= ወእምዝ ፡ ወረደ ፡ ላዕሌሁ ፣ መንፈ ስ ፡ ቅዱስ ፣ ጳራቅሊጦስ ፡፣ በጽርሐ ፡ ጽዮን ፡ ምስለ ፣ ሐዋርያት ፡ ወሰበከ ፡ በስመ ፡ እግዚእነ ፡ ክርስቶስ ፡ ምስለ ፣፤ ሐዋርያት ። ወኮነት ፡ ሎቱ ፡፣ ዓጸድ ፡ ወሜጣ ፣ ወአም ጽአ ፡ ሜጦ ፡ ወወሀቦሙ ፡ ለሐዋርያት ፡፡
+Joseph. Our Lord chose him from the number of the seventy-two disciples whom He sent to preach before His passion, and He named him Barnabas. Then the Holy Spirit the Paraclete descended upon him in the upper room of Zion (where he was) with the apostles. He preached the name of Our Lord Christ with the apostles. He possessed a field; he sold it; he brought the price of it and gave it to the apostles.
+ጸሎቶሙ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ። 55 21 ጥ4ከቨ፳45 (17 [)ሄር5ዝ885)›- ፲፳8666፤0810እ 5፲1:0101:6 (ል, ፔ]. "በስመ ፡ አብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡=፡ አመ ፡ ፳፳8ለታኅሣሥ ፡=፡ በዛቲ ፡ ዕለት ፡ ተዝካረ ፣ እግዝእትነ ፣ ቅድስት ፣ ድንግል ፡ ማርያም ፡=፡ ጸሎታ ፡ ወበረከታ ፣ ወትንብልናሃ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ፡፡ ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ ኮነ ፡ ቅዱስ ፡ ሐዋርያ ፡ ወነቢይ ፡ ዘበትርጓሜ ፡ ስሙ ፡በ ርናባስ ፡ ወልደ ፡ ኑዛዜ ፡ ኮነ ፡ ሰማዕተ።፡
+
+
+[p. 28] {#po.26.p28}
+ወዕበ ፣ አምነ ፡ ሐዋርያ ፡ ጳውሎስ ፣ በእግዚእነ ፣ ክርስቶስ ፣ ወተደመረ ፡ምስለ፣ ሐዋርያት ፣ ኢአምንዎ ፡ ብዙኃን ፣ እምኔሆሙ ፡ ከመ ፡ ውእቱ ፡ ኮነ ፣ ረድኦ ፡ ለክርስ ቶስ ፡=፡ መጽአ ዝንቱ ፡ በርናባስ ፡ ኅበ ፡ ሐዋርያት ፣ ወአቅረበ ፣ ሎሙ ፡ ጳውሎስ ፡ ወኮነ ፣ ስምዐ ፣ ኀቤሆሙ ፡፣ በእንቲአሁ ፡ ከመ ፡፣ ውእቱ ፡ ኮነ ፡ እምአርዳኢሁ ፡ ለክ ርስቶስ ፣ ወነገሮሙ ፣ ዘከመ ፣ አስተርአየ ፣ ሎቱ ፡፣ እግዚእነ ፣ ወዘከመ ፡ ተናገረ ፡ም ስሌሁ = ወሖረ ፣ በርናባስ ፡ ምስለ ፣ ጳውሎስ ፡ ብዙኃ ፡ አህጉረ ፡ ወሰበኩ ፡ በእግዚ እነ ፡ ክርስቶስ ፣፤ ሶበ ፣ ይቤሎሙ ፣ መንፈስ ፡ ቅዱስ ፣ ለሐዋርያት ፣ ፍልጡ ፡ሊተ፣
+When the apostle Paul believed in Our Lord Christ and joined the apostles, many of them did not believe that he had become a disciple of Christ. This Barnabas came to the apostles, presented Paul to them, and testified to them concerning him that he was a disciple of Christ. He told them how Our Lord had appeared to him and how He had spoken to him. Barnabas went with Paul to many countries and they preached Our Lord Christ, when the Holy Spirit had said to the apostles: "Separate for me Barnabas and Paul for the work (of preaching)." When they
+
+
+[p. 29] {#po.26.p29}
+ለበርናባስ ፣ ወለጳውሎስ ፣ ለግብር ፡ ወሶበ ፡፣ ቦኡ ፣፡ ው"ስተ ፡ ሀገረ ፡ ልስጥራ ፡ ወሰበ ኩ ፡ ወአሕየዎ ፡ ጳውሎስ ፡ ለመፃኾዕ ፡ ዘሀሎ ፡ ውስቴታ ፡ ወኮነ ፡ ዝንቱ ፡ በርናባስ ፡ ምስሌሁ ። ወሶበ ፡ ፈቀዱ ፡ ሰብአ ፡ሀገረ ፣ ልስጥራ ፡ ከመ ፡ ይዑ ፡ ሎሙ ፡ ወሰመ ይዎሙ ፡ አማልክተ ፤ ኢተወክሩ ፡ ክብረ ፡ ሰብእ ፡ አላ ፣ ሰጠጡ ፡ አልባሲሆሙ ፡ወ
+entered * into the city of Lystra, and they preached, and Paul healed the paralytic who was there, this Barnabas was with him. When the people of the city of Lystra wanted to offer them a sacrifice and called them gods, they did not accept the honors of men, but they tore their clothes and confessed that they were men like them.
+ተአምኑ ፡ ከመ ፡ እሙንቱ ፡ ሰብእ ፡ ከማሆሙ ፡፡ ወእምድኅረ ፡ ሖረ ፡ በርናባስ ፡ ምስለ ፡ ጳውሎስ ፡ አህጉረ ፡ ብዙኃ ፣፡ ተፈልጠ ፣ እምኔሁ ፡ ወነሥኦ ፡ ምስሌሁ ፡፣ ለማርቆስ ፡ ወሖሩ ፡ ኅበ ፣ ቆብሮስ ፡፡ ወሰበኩ ፡ ውስቴ ታ ፣፡ ወሜጡ ፣ ለብዙኃን ፡ እምነ ፡ ሰብአ ፡ ዚአሃ ፡ ውስተ ፡ ሃይማኖተ ፡ ክርስቶስ ፡ ወ አጥመቆሙ ፡ ቅዱስ ፡ በርናባስ ፣ ጥምቀተ ፡ ክርስትና ። ወቀንኡ ፣ ላዕሌሁ ፡፤ አይሁ ድ ፡ አለ ፡ በሀገረ ፡ ቆብሮስ ፡ ወአስተዋደይዎ ፡ ኅበ ፡ መኩንን ፡ ወኅበ ፡ ሥዩማን ።፡፡ ወአኀዝዎ ፡ ወቀሠፍዎ ፡ መቅሠፍተ ፡ ዓቢየ ፡ ማሕምመ ፡ ወአምዝ ፡ ወገርዎ ፡ በአአ
+After Barnabas had gone with Paul to many cities, he separated from him. He took Mark with him and they went to Cyprus. They preached there and converted many men of that (country) to the faith of Christ. Saint Barnabas baptized them with Christian baptism. The Jews who were in the country of Cyprus were enraged against him. They accused him before the judge and before the chiefs. He was arrested and struck with great and painful blows. Then he was stoned with stones. He was taken from under the stones and burned in the fire. He completed his martyrdom.
+ባን ፣ ወነሥአዎ ፡ እምታሕተ ፡፣ አእባን ፡ ወአውዓይዎ ፡ በእሳት ፣ ወፈጸመ ፡ ስምዖ ፡=፡ ወኮነ ፡ ማርቆስ ፡ ሐዋርያ ፡ ምስሌሁ ፡ ዘዓቀቦ ፣ አግዚኣብሔር ፡ወአትረፎ ፡ ከመ ፡
+With him was the apostle Mark, whom the Lord had protected and reserved, so that
+
+
+[p. 30] {#po.26.p30}
+ይስብክ ፡ በሀገረ ፣ እስክንድርያ ፣ ወዙሉ ፣ በሓውርቲሃ ፡=፡ ወአውፅኦ ፡ ለቅዱስ ፡ በር ናባስ ፣ እምውስተ ፡ እሳት ፣ ወውእቱ ፣ ጥዑይ ፡ ዘእንበለ ፣ ሙስና ፣ ወኢለከፈቶ ፡ እሳት ፤ ግሙራ ፡= ወጾሮ ፡ ወገነዞ ፣ በአልባሳት ፣ ሠናያት ፡ ወአንበሮ ፡ ውስተ ፡ በዓት፣ በአፍኣ ፣ሀገረ ፡ ቆብሮስ =
+he might preach in the city of Alexandria and in all the (surrounding) regions. He pulled Saint Barnabas from the fire. He was intact, without injury. The fire had not touched him at all. He took him, wrapped him in beautiful clothes, and placed him in a cave outside the city of Cyprus.
+ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስሌነ ፡ ለዓለመ ፡ ዓለም ፡ አሜን ፡=፡ ፲8 ፕ38848 3፪065)(885).
+May his prayer and his blessing be with us for ages of ages. Amen.
+
+### THE 22ND OF TÂHSAË
+፪. -፦ ፲06060810ኬ. ፔ፲1001011ኛ6 ል, ጃ]. በስመ ፡ አብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡=፡
+I. - Primitive Recension (A, T). In the name of the Father, and of the Son, and of the Holy Spirit, one God.
+
+### THE 22ND OF TÂHSAË
+አመ ፡ ፳፪ለታኅሣሥ ፡፡ በዛቲ ፡ ፅለት ፣ ተዝካሩ ፣ ለመልአክ ፣ ክቡር ፡ ሊቀ ፣ መላእክት ፡ ገብርኤል ፡መ ብስር ፡ ወሕንጸተ ፡ ቤተ ፡ ክርስቲያኑ ፡ በውስተ ፡ሀገረ ፡ ዳናሕ ፡ ወአስተርእዮ ፡ ተኣ ምራት ፡ ባቲ ፡ ወቅዳሴሃ ፣ በከመ ፡ ዛቲ ፡፣ ዕለት ። ወኮነ ፡ ስምዓ ፡ በዝንቱ ፡ አርኪላኦ ስ ፡ ኤኒስ ፡ ቆፅስ ፡ ዘይእቲ ፡ ሀገር ፡=፡
+* On this day is the commemoration of the glorious angel, the archangel Gabriel, the announcer, of the building of his church in the city of Dânâh, of the manifestation of miracles in (this church), and of its dedication on this day. Archelaus, bishop of this city, was a witness to it.
+
+
+[p. 31] {#po.26.p31}
+ዝንቱ ፡ መልአክ ፡ ክቡር ፡ ዘተፈነወ ፡ እምኅበ ፡ እግዚኣብሔር ፡ ኅበ ፡ እግዝእትነ ፡ ቅድስት ፡ ድንግል ፡ ማርያም ፡ ወኮነ ፡ ምእመነ ፡ ላዕለ ፡ ዘዜነዋ ፡ ወክቡር ፡ ፈድፋደ ፣ እምኩሎሙ ፡ መላእክት ። ወሶበ ፣ መጽአ ፡ ኀበ ፣ ድንግል ፡፣ ወይቤላ ፡ ተፈሥሒ ፡ ኦ ምልእተ ፡ ጸጋ ፣ እግዚኣብሔር ፣ ምስሌኪ ።= ወውእቱ ፡ ካዕበ ፡ ዘኮነ ፡ አብሰሮ ፡ ለዘ ካርያስ ፡ በእንተ ፡ ልደቱ ፣ ለዮሐንስ ፡ ወልዱ ። ዓቢይ ፣ ውእቱ ፡ ክብሩ ፡ ለዝንቱ ፡መ ልአክ ፡ ገብርኤል ፡ ክቡር ፡ ዜናዌ ፡ ትፍሥሕት ፡ ዓቢይ ፡ ወኅሩይ ፡=
+It is this glorious angel who was sent by the Lord to Our Lady the Holy Virgin Mary. He was a faithful (Messenger) in what he announced to her. He is much more glorious than all the angels. When he came to the Virgin, he said to her: "Rejoice, full of grace; the Lord is with you." It is he also who had made the announcement to Zechariah concerning the birth of John, his son. Great is the glory of this angel Gabriel, glorious announcer of joy, great and chosen.
+ይደልወነ ፡ ይእዜ ፡ ከመ ፡ ንትጋባእ ፡ በዕለተ ፣ በዓሉ ፡ በአልባብ ፡ ንጽሕት ፡ ወበሃ ይማኖት ፡ ርትዕት ፡ ወናሰስል ፡፤ ጽልአ ፣ ወንግበር ፡ ሰላመ ፡ በማእከሌነ ፡ ምስለ ፡ አ ብያጺነ ፡ ወንትፋቀር ፡ በበይናቲነ ፡ ወንስቅል ፡፣ ሕሊናነ ፣ ኀበ ፡ እግዚኣብሔር ፣ መሓ ሪ ፡ ከመ ፡ ይነጽር ፡ ላዕሌነ ፣ ወይሣሀለነ ።=፡ ወናስተብቀኦዕ ፡ በኩሉ ፡ ልብነ ፡ ኅበ ፡ ዝን ቱ ፣ መልአክ ፡ ገብርኤል ፡ ምስለ ፡ ቢጹ ፡ በሚመት ፡ ሚካኤል ፡ መልአክ ፡ ከመ፣፡ይ ስአሉ ፡ ኀበ ፣ አግዚኣብሔር ፡ በእንቲአነ ፣ ከመ ፡፣ ያድኅነነ ፡ ወይዕቀበነ ፡ እምኩሉ ፤
+It behooves us now to gather on the day of his feast with pure hearts and in the right faith, to cast aside hatred, to make peace among us with our neighbor, to love one another, and to suspend our thought upon the merciful Lord, so that He may look toward us and be merciful to us. Let us beseech with all our heart this angel Gabriel, as well as his equal in (celestial) office, the angel Michael, so that they may ask the Lord for us to save us and keep us from all the snares of Satan,
+
+
+[p. 32] {#po.26.p32}
+መሣግሪሁ ፡ ለሰይጣን ፡ እስመ ፡ ዘእንበለ ፣ ረድኤተ ፣ እግዚኣብሔር ፣ ወትንብልና ሆሙ ፡ ለኅሩያኒሁ ፣ ኢይድኅን ፡ መኑሂ ፡ ወትርጓሜሁ ፡ ለገብርኤል ፡ አምላክ ፡ ወ"ሰብእ ፡፡ ወውእቱ ፡ ዘዜነዎሙ ፡ ለኖሎት ፡ እንዘ ፡ ይብል ፡ ናሁ ፡ተወልደ ፡ ለክሙ፣ ዮም ፡ መድኅን ፡ ዝውእቱ ፡ ክርስቶስ ፣ ወልደ ፡ እግዚኣብሔር ፡፡
+for, without the help of the Lord and the intercession of His chosen ones, no one is saved. The meaning of Gabriel is: "God and * man." It is he who made the announcement to the shepherds, saying: "Behold, there is born to you today the Savior. He is Christ, Son of the Lord."
+ትንብልናሁ ፡ ለዝንቱ ፡ መልአክ ፡ ዓቢይ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ።፡ ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ ተዝካረ ፡ በዓል ፡ በዘዜነዋ ፡ ክቡር ፣ ገብርኤል =
+May the intercession of this great angel be with us. Amen. On this day also is the commemoration of the feast of the Annunciation (to Mary) by the glorious Gabriel.
+እስመ ፡ ሀሎ ፡ ፳ኤሏስ ፡ቆኦስ ፣ ጻድቅ ፡ በብሔረ ፡ ሮም ፡ ዘስሙ ፡ ደቅስዮስ ፡ወአ ስተርአየት ፡ ሎቱ ፡ እግዝእትነ ፡ ቅድስት ፣ ድንግል ፥፡ ማርያም ፡ ወትቤሎ ፡ ኦፍቁርየ ፡ግ በር ፣ ሊተ ፡ ተዝካረ ፡ በዓል ፡ በዘዜነወኒ ፣ መልአክ ፡ በዛቲ ፡ ዕለት ፣ ዝውእቱ ፡ ፳ወ፪ለ ታኅሣሥ ፡ ዝውእቱ ፡ ተዝክሩ ፡ ለገብርኤል ፡ መልአክ ። እስመ ፡ ገብርኤል ፡ መልአ ክ ፡ ዜነወኒ ፡ በዕለተ ፣ ፳ወ፪ለወርኃ ፣ መጋቢት ፡ ወውእቱ ፡ ይከውን ፡ በጾም ፡ ዓቢይ ፡
+Indeed, there was in the land of Rome a righteous bishop called Daqseyôs. Our Lady the Holy Virgin Mary appeared to him and said to him: "O my beloved, perform for me on this day, that is to say the 22nd of Tähsâé, the commemoration of the feast on which the angel made the announcement to me. It is (the day of) the commemoration of the angel Gabriel. Now the angel Gabriel made the announcement to me on the day of the 29th of the month of Magâbit. This (day) falls within Lent and, in many years,
+
+
+[p. 33] {#po.26.p33}
+ወብዙኃ ፡ ዓመታተ ፡ ይከውን ፡ በሰሙነ ፣ ሕማማት ።፡፡ ወበእንተዝ ፡ ኢይትከሀሎሙ ፣ ለሕዝበ ፡ ክርስቲያን ፡ ከመ ፡ ይግበሩ ፡ ሊተ ፡ በዓለ ፡ ዘዜነዋ ፣ በእንተ ፡ ጾም ፡=፡ ወሶበ ፣ ትቤሎ ፡ ዘንተ ፡ ተሰወረት ፡ እምኔሁ ፡=፡
+it falls within the week of the Passion. That is why it is not possible for the people of the Christians, because of the fast, to celebrate the feast of the Annunciation for me." When she had said this to him, she disappeared from (before) him.
+ወሶቤሃ ፣ ተፈሥሐ ፡ ዓቢየ ፡ ፍሥሓ ፡ ወሠርዓ ፡ በዓለ ፡ ዘዜነዋ ፣ በከመ ፡ ዛቲ፣ ፅለት ፤ አመ ፣ ፳ወ፪ለታኅሣሥ ፡ እምቅድመ ፡ በዓለ ፣ ልደት ፣ በ፳መዓልት ፡ ወተፈ ሥሑ ፡ ሕዝብ ፡ ዓቢየ ፡ ፍሥሓ ።፡ ወእምውእቱ ፡መዋዕል ፤ ተሠርዓ ፡ በዓል ፡ዘዜነዋ፣ በከመ ፡ ዛቲ ፡ ዕለት ፡ እስከ ፡ ዮም ፡=፡
+Immediately he rejoiced with great joy. He instituted the feast of the Annunciation on this day, the 22nd of Tähsäs, the eighth day before the feast of the Nativity (of the Lord). The people rejoiced with great joy. From that time until today, the feast of the Annunciation was established on this day.
+ጸሎታ ፡ ወበረከታ ፡ ወትንብልናሃ ፣ ለእግዝእትነ ፣ ቅድስት ፣ ድንግል ፤ ማርያም ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ፡፡ ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ አዕረፈ ፡ አብ ፡ ቅዱስ ፡ አባ ፡ አንስጣስዮስ ፡ ሊቀ ፡ ጳጳ ሳት ፡፤ ዘሀገረ ፡ እስክንድርያ ፤ ዝውእቱ ፣ እምጐልቆሙ ፡፣ ለሊቃነ ፡ ጳጳሳት ፡ ጠወፄ = ዝንቱ ፣ ቅ"ዱስ ፡ ኮነ ፡ አምውሉድ ፡ ልሂቃነ ፡ ሰብአ ፡ ሀገረ ፡ እስክንድርያ ፡ ወ ኮነ ፡ መስፍነ ፣፤ በውስተ ፡ ቤተ ፡ መንግሥት ።= ወእምዝ ፡ ተሰይመ ፡ ቀሲሰ ፡ ውስተ ፡ ቤተ ፡ ክርስቲያን ፡ ዘእለ ፡ እስክንድርያ ፣ ወበፈቃደ ፡ እግዚኣብሔር ፡ ተሰይመ ፡ ሊቀ፣
+May the prayer, the blessing, and the intercession of Our Lady the Holy Virgin Mary be with us. Amen. On this day also died the holy Father Abba Anastasius, patriarch of the city of Alexandria. He was the thirty-sixth in the order of patriarchs. This * saint was among the sons of the notables of the city of Alexandria. He was a prefect in the royal house. Then he was ordained priest in the church
+
+
+[p. 34] {#po.26.p34}
+ጳጳሳት ፡= ወሶበ ፡ ተሰይመ ፡፣ ዝንቱ ፡ አብ ፡ ሐለየ ፡ በእንተ ፡ አብያተ ፡ ክርስቲያናት ፡ ወሐነጸ ፡ አብያተ ፡ ክርስቲያናተ ፣ ብዙኃተ ፡ ወመ ፡ ኤጴስ ፡ ቆፅሳተ ፣፡ ውስተ ፡ ኩሉ ፡ መካናት ። ወነሥአ ፡ እምነ ፤ መለክዊያን ፡ አብያተ ፡ ክርስቲያናተ ፣ ብዙኃ ተ ፡ ዘኢኮኑ ፣ ጐልቆሙ ፡ ላዕሌሁ ፡ ምስለ ፣ አብያተ ፡ ክርስቲያናት ፡ ዘያዕቆባዊያ ን ፡ አስመ ፡ ውእቱ ፡ ኮነ ፡ ክቡረ ፡ በኅቤሆሙ ፡ በአእምሮቱ ፡ ወበሃይማኖቱ ፡ ወት
+of Alexandria and, by the will of the Lord, he was instituted patriarch. When this Father was instituted, he cared for the churches. He built many churches and established bishops in all places. He (was able) to take back from the Melkites many churches which, for his (jurisdiction), were no longer counted with the churches of the Jacobites, for he was famous among them for his knowledge, his faith, and his virtues. He converted many of them to the right faith.
+ሩፋቲሁ ፡፡ ወሜጦሙ ፡ ለብዙኃን ፡ እምኔሆሙ ፡ ውስተ ፡ ሃይማኖት ፡ ርትዕት ፡፡ ወኮነ ፣ ንጉሥ ፡፣ በሀገረ ፡ ቱ“ስጥንጥንያ ፣ ሞተ ፡ በውእቱ ፡ መዋዕል ፡ ወነበረ ፡ ሀየንቴሁ ፡ ካልእ ፡፣ ንጉሥ ፣ ዘሃይማኖቱ ፡ እኪት ። ወፈነወ ፡ ኀቤሁ ፡ አሐዱ እምነ ፣ እኩያን ፣ መልእክተ ፡ ያስተዋድዮ ፡፣ ለዝንቱ ፡ ቅዱስ ፡ ውስቴታ ፡ ወይቤ ፡ እስመ ፡ አንስጣስዮስ ፡ ሊቀ ፡ ጳጳሳት ፡ ዘያፅቆባዊያን ፡ ሶበ ፡ ሠርዓ ፡ ውስተ ፡ ቤተ ፡ክርስቲያን ፡ አውገዞ ፡ ለንጉሥ ፣ ወለሃይማኖቱ ።፡፡ ወኢኮነ ፡ ዝንቱ ፡ አብ ፣ ገብረ ፡ ወኢምንተኒ ፣
+The emperor died in the city of Constantinople in those days. In his place sat another emperor whose faith was evil. One of the perverse sent him a letter in which he accused this saint and said that Anastasius, patriarch of the Jacobites, while he was officiating in the church, had anathematized the emperor and his faith. This Father had done no such thing. When the emperor
+
+
+[p. 35] {#po.26.p35}
+እምዝንቱ ።፡፡ ወሶበ ፡ አንበበ ፣ ንጉሥ ፣ መልእክቶ ፣ ለውእቱ ፡ ብእሲ ፣ እኩይ ፡ተም ዐ ፡ ፈድፋደ ፡ ወፈነወ ፡ ኀበ ፡ መኩንነ ፡ ሀገረ ፣ እስክንድርያ ፡ ወአዘዞ ፡ ከመ ፡ ይንሣእ ፣ እምዝንቱ ፡፣ አብ ፡ ቤተ ፣ ክርስቲያኖሙ ፡፣ ለቅዱሳን ፣ ቆዝሞስ ፣ ወዲሚያ ኖስ ፡ ወኩሎ ፡ ንዋያ ፡ ወይመጥዋ ፡ ለአሎጊዮስ ፡ ሊቀ ፡ ጳጳሳት ፡ ዘሮም ፡=፡
+had read the letter of this perverse man, he became extremely angry. He sent (a message) to the governor of the city of Alexandria and ordered him to take from this Father the church of the saints Cosmas and Damian with all its goods and to deliver it to Eulogius, patriarch of Rome.
+ወበእንተዝ ፡፣ ሐዘነ ፣ ዝንቱ ፡ አብ ፣ ”ብዙኃ ፡ አላ ፣ እስመ ፣ እግዚኣብሔር ፡ ዘ የሐትት ፡ ሕሊናተ ፡ አልባብ ፡ ናዘዞ ፡= ወአጥፍኦ ፡ ለጴጥሮስ ፡ ዓላዊ ፡ ሊቀ ፡ ጳጳሳት ፡ ዘሀገረ ፤ አንጾኪያ ፣ ወሜመ ፡ ሀየንቴሁ ፡ አሐደ ፡ ብእሴ ፡ መነኮሰ ፡ ጻድቀ ፡ ማእምረ ፡ ክቡረ ፡ ዘስሙ ፡ አትናስዮስ ። ወፈነወ ፡፤ ሎቱ ፡፣ ዝንቱ ፡ አብ ፣፡ መልእክተ ፡ በሃይማ ኖት ፡ ርትፅት ። ወተፈሥሐ ፡ ውእቱ ፡ በብጽሐታ ፡ ኀቤሁ ፡ ወአስተጋብኦሙ ፡ ለኤ ጺስ፣ቶቆኦሳት፣ ወለካህናት፣ወአንበባ ፣ ለይእቲ ፡ መልእክት ፡ ላዕሌሆሙ ፣ ወተፈሥሑ፣
+That is why this Father was * very sad. But behold, the Lord who searches the thoughts of hearts consoled him. He annihilated Peter the heretic, patriarch of the city of Antioch, and established in his place a righteous, learned, illustrious monk called Athanasius. This Father sent him a letter in accordance with the right faith. He rejoiced when it reached him. He gathered the bishops and the priests and he read this letter before them. They rejoiced at it and they admired what was written in it and the knowledge of the one who had sent it.
+ባቲ ፡ ወአንከሩ ፡ እምነ ፡ ዘጽሑፍ ፡ ውስቴታ ፡፣ ወእምነ ፡ አእምሮቱ ፡ ለዘ ፡ ፈነዋ = ወአምዝ ፡ ተንሥአ ፡ አባ ፣፡ አትናስዮስ ፡ ሊቀ ፣ ጳጳሳት ፡፣ ዘሀገረ ፡ አንጾኪያ ፡ወ ነሥአ ፡ ምስሌሁ ፡ ኤጴስ ፡ ቆይፅሳተ ፡ ወካህናተ ፡ ወመጽአ ፡ ኅበ ፡፣ ሀገረ ፡ አስክንድ
+Then Abba Athanasius, patriarch of the city of Antioch, arose, took with him bishops and priests, and came to the city of Alexandria. The Father Abba
+
+
+[p. 36] {#po.26.p36}
+ርያ = ወወፅአ ፡ ዝንቱ ፡ አብ ፡ አባ ፡ አንስጣስዮስ ፣ ወተቀበሎ ፡ ለአባ ፡ አትናስዮስ ፡ ወምስሌሁ ፡ ኤሏስ ፡ ቆኦሳት ፡ ወካህናት ፣ ወመነኮሳት ፡ ወረበናት = ወእምዝ ፡ ይቤ ፡ አባ ፡ አትናስዮስ ፡ ኦፍቁራንየ ፡ ይደልወነ ፡ ከመ ፡ ንንሣእ ፣ መሰንቆሁ ፡ ለዳዊት ፡ ነቢይ ፡ ወንዘምር ፤ በቃለ ፡ መዝሙር ፡ እንዘ ፡ ንብል ፤ ሣህል ፡ ወርትዕ ፡ ተራከባ ፡ጽ ድቅ ፡ ወሰላም ፡ ተሳዓማ ። እስመ ፡ አትናስዮስ ፣ ወአንስጣስዮስ ፡ ተኣምጉ ፡ በበይና ቲሆሙ ።፡ ጽድቅ ፣ አስተርአየ ፣ እምድረ ፡ ግብጽ ፡ ወርትዕ ፡ ሠረቀ ፤ እምሥራቅ ፡ ወኮነት ፡ ምድረ ፡ ግብጽ ፡ ወምድረ ፡ ሶርያ ፡ አሐቲ ፡ ሃይማኖት ፡ ወሀገረ ፡ እስክንድ ርያ ፣፤ ወሀገረ ፡ አንጾኪያ ፡ አሐቲ ፡ ቤተ ፡፣ ክርስቲያን ፡ ወአሐቲ ፡ ድንግል ፡ ለጸሰብእ ፡ ንጹሕ ፣ ዝውእቱ ፡ እግዚእ ፡ ክርስቶስ ፣ ወልድ ፡፣ ዋሕድ ፡ ቃለ ፣ እግዚኣብሔር ፡ አብ ፡፡ ወነበረ ፣ ቅዱስ ፣፤ አትናስዮስ ፡ ኀበ ፣ ቅዱስ ፡ አንስጣስዮስ ፡ ”በ፳ደብር ፡ መጠ ነ ፡ በመዓልት ፡ እንዘ ፣ ይትመሀሩ ፣ በበይናቲሆሙ ፣ ወይትዋሥኡ ፡ ወየሐትቱ ፡ በ እንተ ፡ ስርወ ፣ ሃይማኖት ፣ ርትዕት ። ወእምድኅረዝ ፣ ተመይጠ ፡ ኀበ ፡ ብሔሩ ፡=
+Anastasius departed and went to meet Abba Athanasius; with him were bishops, priests, monks, and doctors. Then Abba Athanasius said: "O my beloved, we must take the harp of David the prophet and sing with the voice of the psalms, saying: Mercy and truth have met together; righteousness and peace have kissed each other." Thus Athanasius and Anastasius greeted one another. Righteousness appeared (coming) from the land of Egypt and truth arose from the East. The land of Egypt and the land of Syria became one single faith, the city of Alexandria and the city of Antioch one single church, one single virgin for one single pure man, (who) is the Lord Christ, only-begotten Son, Word of the Lord Father. Saint Athanasius remained with Saint Anastasius * in a convent for thirty days, while they taught one another, discussed, and examined (what concerns) the roots of the right faith. Then he returned to his country. From that
+
+
+[p. 37] {#po.26.p37}
+ወእምውእቱ ፣ መዋዕል ፡ ኮነ ፡ ተሰናአዎ ፡፣ ማእከለ ፡ ብሔረ ፡ እስክንድርያ ፣ ወብሔ ረ ፡ አንጾኪያ ፡ በአሐቲ ፡ ሃይማኖት ፡ ርትዕት ።፡ ወኮነ ፡ ዝንቱ ፡ አብ ፡ አንስጣስዮስ ፣ ይሜህሮሙ ፡ ለመርዔቱ ፡ በዘይበቀሩፆሙ ፣ ለነፍሶሙ ፣ ወበመጻሕፍቲሁ ።፡=፡ ወእአምብዝኃ ፡ አእምርሮቱ ፡ ወጥበቡ ፡ ኮነ ፡ ይሬሲ ፡ጥ ንተ ፡ መጻሕፍቲሁ ፡ ወመልእክታቲሁ ፡ ኩሉ ፡ ለለ ፡ ዓመት ፣ በ፳እምሆህያት ፡ አል ፋ ፡ ዝውእቱ ፡ አሌፍ ፡ ወወጠነ ፤ በቀዳሚት ፡ ዓመት ፤ ወጸሐፈ ፡ ኩሎ ፡ መልእክታ ቲሁ ፡ ወቃላቲሁ ፣ ወተግሣጻቲሁ ፣ በአሌፍ ።፡፡ ወበዳግም ፡ ዓመት ፡፣ ጸሐፈ ፡ ኩሎ ፣ መልእክታቲሁ ፣፤ ወትምህርታቲሁ ፡ በቤት ፣ ወከማሁ ፡ በሣልስት ፣ ዓመት ፡ እስከ ፣፡ ፈጸመ ፡ ሚመቶ ፡ ፲ወ፪ዓመተ ፡=፡ ወጸሐፈ ፡ በ፲ወ፪ሆህያት ፡ ወጸሐፈ ፡ ፳ወ፳፻መጻሕ ፍተ ።=፡ ወሶበ ፡ በጽሐ ፡ ጾመ ፡ ልደት ፡ ሐመ ፡ ንስቲተ ፡ ወአዕረፈ ፡ በሰላም ፡ በዓ መት ፡ ፻፻8ወፄለሰማዕታት ፡ ንጹሓን ፡፡
+In those days, concord was established, in one single orthodox faith, between the land of Alexandria and the land of Antioch. This Father Anastasius taught his flock through what was salutary for the souls (of the faithful) and through his writings. Due to the extent of his knowledge and his wisdom, he placed, each year, the beginning of his books and his epistles under one of the letters, (such as) 'alfā, that is to say, aleph. The first year, he began by writing all his epistles, his sermons, and his admonitions with aleph; the second year, he wrote all his epistles and his teachings with beth, and similarly the third year, until he had fulfilled his charge for twelve years. He wrote under twelve letters and composed 12,000 writings. When the fast of the Nativity (of the Lord) arrived, he was slightly ill. He died in peace in the year 336 of the pure Martyrs.
+እግዚኣብሔር ፡ ይምሀረነ ፡ በጸሎቱ ፡ ለዝንቱ ፡ አብ ፡ ለዓለመ ፡ ዓለም ፡ አሜን ፡=፡
+May the Lord have mercy on us through the prayer of this Father for ever and ever. Amen.
+
+
+[p. 38] {#po.26.p38}
+፻06918108 “ህ105616 ጅ, ወካዕበ ፣ አስተርአየቶ ፡ እግዝእትነ ፣ ቅድስት ፡ ድንግል ፡ ማርያም ፡ ለብፁዕ ፡ ደቅ ስዮስ ፡ ወውስተ ፡ እዴሃ ፡ ልብስ ፡ ሠናይ ፡ ወብሩህ ፣ ወትቤሎ ፡ ንሣእ ፡ ወሀብኩከ፡፣ ዘንተ ፡ ልብሰ ፡ አልቦ ፡ ዘይክል ፡ ለቢሶታ ፡ ዘአንበሌክከ ፡ ወዲበ ፡ መንበርከሂኒ ፡ አልቦ ፡ ዘይነብር ። ወዕበ ፣ ተዓደወ ፡ ቃልየ ፡ አነ ፣ አትቤቀል ፡ ላዕሌሁ ። ወእምዝ ፣ እምድኅረ ፡ አፅረፈ ፡ ተሠይመ ፡ ክልእ ፡ ኤጴስ ፡ ቆኦስ ፡ ወለብሳ ፡ ለይእቲ ፡ ልብስ ፡ ወነበረ፡ ዲበ፣ መንበሩ ። ወበጊዜሃ ፡ ወድቀ ፡ እምላዕለ ፡ መንበሩ ፣ ወሞተ ፡ እኩየ ፡ ሞተ ።« ወእለ ፣፡ ርእዩ ፡ አንከሩ ፡ እምተኣምራቲሃ ፡ ለእግዝእትነ ፣ ቅድስት ፣፤ ድንግል ፣ ማርያም ፡ ወላዲ ተ ፡ አምላክ ።
+II. - Revision or Vulgate (P, A). Again, Our Lady the Holy Virgin Mary appeared to the blessed Dagseyos. (She held) in her hand a magnificent and radiant garment. She said to him: "Take, I give you this garment. No one except you will be able to wear it. Nor will anyone sit on your throne. When (someone) transgresses my word, I will apply the punishment to him." Then, when he was dead, another bishop was instituted. He put on this garment and sat on the throne. Immediately he fell from the top of this throne and died a bad death. Those who saw (this) were astonished at the miracle of Our Lady the Holy Virgin Mary, Mother of God.
+ጸሎታ ፡ ወበረከታ ፡ የሀሉ ፡ ምስለ ፣ ፍቁራ ፡ ዘመንፈስ ፡ ቅዱስ ፡ለዓለመ ፣ ዓለም።
+May his prayer and his blessing be with his beloved Za-Manfas-Qedous for ever and ever.
+
+### THE 23RD OF TAHSAAS
+ፐ38548 3653(8ከ5)› ፪. ፲8666፲0810. ህ፲1፲:010፲76 ል, ፔ). በስመ ፡ አብ ፣ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡፡
+I. - Primitive Recension (A, T). In the name of the Father, and of the Son, and of the Holy Spirit, one God.
+
+
+[p. 39] {#po.26.p39}
+
+### THE 23RD OF TAHSAAS
+አመ ፡ ፳፻ለታኅሣሥ ፡=፡ በዛቲ ፡ ፅለት ፡ አዕረፈ ፡ አብ ፡ ቅዱስ ፡ መስተጋድል ፡ ጢሞቴዎስ ፡ ገዳማዊ ፡=፡ ለዝንቱ ፡ ቅዱስ ፡ ኮኑ ፡ አበዊሁ ፡ መፍቀርያነ ፡ እግዚኣብሔር ፡ ወሐጸንዎ ፡ ወመሀ ርዎ ፡ በትምህርተ ፡ ቤተ ፡ ክርስቲያን ፡ ቅድስት ፡፡ ወፈተወ ፡ ከመ ፡ ይልበስ ፡ አልባሰ ፣ ምንኩስና ፡ ወወፅአ ፡ አምኅበ ፡ አበዊሁ ፡ ወኀደረ ፡ ውስተ ፡ አሐዱ ፡ ደብር ፡ ወመን ኩኤ”ሰ-፣ ውስቴቱ ።፡ ወእምዝ ፡ ሐለየ ፡ በልቡ ፣ ከመ ፡ ይንበር ፡ በባሕቲቱ ፡ ውስተ ፡ መካን ፡ ቅሩብ ፤ አምደብር ፡ ከመ ፡ ይትወከፎሙ ፡ ውስቴቱ ፡ ለፈላሲያን ፡ ወያብልዖ ሙ ፡ ለነዳያን ፡=፡ ወወፅአ ፡ እምደብር ፡ ወሐነጸ ፡ ሎቱ ፡ በዓተ ፡ ቅሩበ ፡ እምኔሁ ፡ ወነ በረ ፡ ውስቴቱ ፡ መጠነ ፡ ድዓመት ፡ እንዘ ፡ ይትጋደል ፡ ወይገብር ፡ ግብረ ፡ አዴሁ ፡ወ
+On this day died the holy Father (and) ascetic Timothy, hermit. The parents of this saint had the love of the Lord. They raised him and instructed him in the doctrine of the holy Church. He desired to put on the monastic habit. He left his parents, stayed in a convent, and * became a monk there. Then he thought in his heart to live apart, in a place near the convent, in order to receive strangers there and to feed the poor. He left the convent and built himself a cave near (this convent). He stayed there for five years, practicing asceticism and doing manual labor by which he lived.
+የሐዩ ፡ ቦቱ ወተመካነየ ፡ ላዕሌሁ ፡ ጸላኤ ፡ ሠናያት ፣፤ ወአምጽአ ፡ ሎቱ ፡ ብአሲተ ፡ መበለተ ፤ ከመ ፡ ትሣየጥ ፡ እምኔሁ ፡ ግብረ ፡ እደዊሁ ፡ ወበእንተ ፡፤ ብዝኃ ፡፣ ዘትትመየጥ ፡፣ ኀቤ
+The enemy of good plotted a ruse against him: he made a widow woman come to him (who came) to buy the work of his hands. Through
+
+
+[p. 40] {#po.26.p40}
+ሁ ፡ ኮነ ፡ ማአከሌሆሙ ፡ ፍቅረ ፡ ኃጢአት ፡ ወተጋብኡ ፡ በበይናቲሆሙ ፡ በጊዜ ፡መ ብልፅ ፡ ወአምዝ ፡ ሐሙ ፡ በሕማመ ፣ ዝሙት ፡ ወወይደቁ ፡ ውስተ ፡ ኃጢአት ፡ ወነበ ሩ፤ ውስተ ፣፡ ሞተ፣ ኃጢአት፣0 5አውራኃ ፡= አሜሃ፣ ኢገደፎ ፤ አግዚኣብሔር ፡ ልዑል፣ ለዝንቱ ፡ ቅዱስ፣ጢሞቴዎስ፡አላ ፡አዘከሮ ፣ ጊዜ ፡ ሞት፣ ወቀዊመ፡፣ ቅድመ ፡ ንጉሠ ፡ ነገሥት ፣ አግዚአነ ፡ ክርስቶስ ፡ በይእቲ ፡ ዕለት ፡ መፍርህ ፣ ወመደንግፅ ፡፡ ወዕ ቤሃ ፡ ኮነ ፡ ይጌሥጽ ፡ ርእሶ ፡ ወይዛለፍ ፡ ወተንሥአ ፡ እምውእቱ ፡ መካን ፡ ወቦአ ፣ ው ስተ ፡ ገዳም ፡፡ ወመርሖ ፡ እግዚኣብሔር ፡ ልዑል ፡ ኅበ ፡ መካን ፡ ዘውስቴታ ፡ ነቅዓ ፡ ማይ ፡ ይውሕዝ ፡ ወበኅቤሃ ፡ ተምር ፡፡ ወነበረ ፡ በውስተ ፣ ውእቱ ፣ መካን ፡ ብዙኃ ፡
+her insistence on returning to him, there was between them a love of sin. They met at the time of the meal, then they suffered from the suffering of the flesh and they fell into sin. They remained in the death of sin for six months. Then the Most High Lord did not reject this saint Timothy, but he made him remember the moment of death and of appearing before the King of kings, Our Lord Christ, on that terrible and frightening day. Immediately he reprimanded himself and scolded himself. He rose from that place and entered the desert. The Most High Lord led him to a place where a spring flowed; near it there was a palm tree. He stayed in this place for many days.
+መዋዕለ። ወተንሥአ ፡ ላዕሌሁ ፡ ሰይጣን ፡ በእንተ ፣ አድኅኖተ ፡ ነፍሱ ።፡ ወአምጽአ ፡ ላዕሌ ሁ ፡ ደዌ ፡ ዕፁበ ፡ ውስተ ፡ ከርሠ ፡ ወኮነ ፡ እምብዝኃ ፡ ሕማሙ ፡ ውዱቀ ፡ በገጹ ፡ ዲበ ፡ ምድር ፡ ወውእቱ ፡ ይጴሊ ፡፡ ወኮነ ፡ ይቤላ ፡ ለነፍሱ ፡ እስመ ፡ ዝንቱ ፡ሕማም ፡
+Satan rose against him because of the salvation (recovered) of his soul. He brought upon him, in his belly, a violent illness. Due to the intensity of his sufferings, he was prostrate with his face to the ground and he prayed. He said to his
+
+
+[p. 41] {#po.26.p41}
+ፍሬ ፤ ጥዕመተ ፤ ኃጢአት ፡ ርኩስት ፣ ዘገበርኪ ።፡ ተዓገሚ ፡ ኦነፍስየ ፡ ላዕለ ፡ ምንዳ ቤ ፡ ሕማም ፡ ከ መ ፡ ትትፈወሲ ፡ አምደዌኪ ፡፡ ወነበረ ፡ ከመዝ ፡ በዝንቱ ፡ ሕማም ፡ ፪ዓመተ ። ወእምድኅረዝ ፡ ነጸረ ፣ እግዚኣብሔር ፡ ላዕሌሁ ፡፣ ወፈነወ ፣፡ ሎቱ ፣ መል አኮ ፣ ወመዝመዘ ፡ በአዴሁ ፡ ዲበ ፡ ከርሠ ፡ ወተፈወሰ ፡ እምኩሉ ፣ ሕማም ፡ዘኮነ ፣ ውስተ ፡ ከርሠ ፡ ወእምዝ ፡ ሰጠቀ ፡ ገቦሁ ፣ በአጻብዒሁ ፡ ወአንጽሐ ፡፣ ከብዶ ፡ ወሜ ጣ ፡ ውስተ ፡ መካና ፡ ወአልጸቀ ፡ ከርሠ ፡ ወአሕየዎዖ ፡ በከመ ፡ ኮነ ፣ ቀዳሚ ።፡ ወይቤ ሎ።፣ናሁ ፡ አንተ ፡ ኮንከ ፡ ጥዑየ ፡ ተዓቀብ ፡ ወኢተአብስ ፡ ዳግመ ፡ ከመ ፡ ኢይብጻ
+soul: "This pain is the fruit of the taste of the impure sin that you have committed. Be patient, O my soul, against the crushing of the suffering, * so that you may be healed of your illness." He remained thus in these pains for four years. Then the Lord looked toward him and sent him his angel. He passed his hand over his belly and he was healed of all the evil that was in his belly; then he split his side with his fingers, purified his liver, put it back in its place, and his belly healed; he made it sound as it was before. He said to him: "Behold, you have become healthy; guard yourself and do not sin again, so that nothing worse than this happens to you."
+ሕከ ፡ ዘየአኪ ፡ እምዝንቱ ፡= ወነበረ ፡ ውስተ ፡ ገዳም ፡ ጓዓመተ ፣ እንዘ ፣ ይጸመድ ፣ ወይትጋደል ፡ ወኮነ ፡ እ ምቅድመ ፡ ዝንቱ ፡ ነበረ ፡ ውስተ ፡ ደብር ፡ ወበውስተ ፡ በዓት ፡ ፲ዓመተ ፡ ወኮነ ፡ በ ኑኃ ፣ ዝንቱ ፡ ኩሉ ፡ ዓመታት ፡ እንዘ ፡ ይነብር ፡ ውስተ ፡ ገዳም ፡ እሩቅ ፡ እምነ ፡ አል ባስ ፡ አላ ፡ እግዚኣብሔር ፡ አኖኅ ፡ ሥዕርቶ ፡ ወኮነ ፣ ክዱን ፣ ቦቱ ፣፡ እምድኅሬሁ ፤ ወእምቅድሜሁ ፡ ወበጽሐ ፡ ለዝንቱ ፡ አብ ፡ጸጋ ፡ ዓቢይ ፡ በተጸምዶቱ ፣ ወተጋድሎ
+He remained in the desert for forty years, practicing devotion and asceticism. Before that, he had remained in the convent and in the cave for ten years. Throughout all these years that he remained in the desert, he was stripped of clothing; but the Lord lengthened his hair and he was covered by it from behind and from before. There happened to this Father a great grace in his
+
+
+[p. 42] {#po.26.p42}
+ቱ ፡ ወአምልኮቱ ፡ ለእግዚኣብሔር ፡ እስከ ፡ ኮኑ ፡ አራዊተ ፡ ገዳም ፡ ይሔሴውጽዎ ፡ ወ ይልሕሱ ፡ እገሪሁ ። ወአሥመሮ ፣ ለእግዚኣብሔር ፡ ወአዕረፈ ፡ በሰላም ፡ እንዘ ፡ይ ጸውር ፡ አክሊለ ፡፣ ተጋድሎቱ ።
+devotion, his asceticism, and his worship of the Lord to the point that the wild beasts of the desert visited him and licked his feet. It pleased the Lord, and he died in peace, wearing the crown of his struggle.
+ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስሌነ ፤ አሜን ፡፡ ወበዛቲ ፡ ዕለት ፡ ካዕበ ፣ አዕረፈ ፡ ዳዊት ፡ ነቢይ ፡ ንጉሥ ፣ ወጻድቅ ፡ ወልደ ፡ኤ
+May his prayer and his blessing be with us. Amen. On this day also died David, prophet, king, righteous, son of Jesse.
+ሴይ። ዝንቱ ፡ ነቢይ ፡ ጻድቅ ፡ ኮነ ፡ ዳግማየ ፡ ንጉሠ ፡ ላዕለ ፡ ደቂቀ ፡ አስራኤል ።፡ ወው እቱ ፣ ቀዳሚ ፡ ዘሖረ ፡ ሑረተ ፡ ሠናይተ ፡ ወተጋደለ ፡ ወገብረ ፡ ፍትሐ ፡ ወጽድቀ፣ እምኩሎሙ ፡ ነገሥተ ፡ እስራኤል ።፡፡ ዝንቱ ፡ ጻድቅ ፡ ኮነ ፡ እምነገደ ፡ ይሁዳ ፡ እምቤ ተ ፡ ልሔም ወኀኅረዮ ፣ አግዚኣብሔር ፡ ከመ ፡ ይኩን ፡፣ ንጉሠ ፡ ላዕለ ፣ ደቂቀ፣ እስራኤል ፡ ሶበ ፡ ተዐደወ ፡ ሳኦል ፡ ወልደ ፡ ቂስ ፡ ትእዛዘ ፡ እግዚኣብሔር ።፡ ወአዘ ዞ ፣ እግዚኣብሔር ፡ ለሳሙኤል ፡ ከመ ፡ ይቅባእ ፡ ቅብዓ ፣ መንግሥት ፡ አሐደ ፡እ ምውሉድ ፡ እሴይ ፡ ንጉሠ ፡ ላዕለ ፤ እስራኤል ።፡ ወኅረዮ ፣ ሳሙኤል ፡ ለወልደ ፡እ
+This righteous prophet was the second king of the sons of Israel. He was the first who walked in a good walk; he fought and did right and justice more than all the kings of Israel. This righteous man was of the tribe of Judah * of Bethlehem. The Lord chose him, so that he would become king of the Israelites, when Saul, son of Kish, had transgressed the commandment of the Lord. The Lord ordered Samuel to anoint with royal oil one of the sons of Jesse, king of Israel. Samuel
+
+
+[p. 43] {#po.26.p43}
+ሴይ ፤ ዘይልህቅ ፣ ዘሠናይ ፡ አርአያሁ ፡ ወጽኑዕ ፣ ሥጋሁ ።= ወኢኀረዮ ፣ እግዚኣብ ሔር ፡ አላ ፡ ይቤሎ ፡ ለሳሙኤል ፤ ኢትነጽር ፡ ለአርአያሁ ፡ ሠናይ ፣ ወኢለኑጐ ፡እ ስመ ፡ አነ ፡ ኢኮንኩ ፡ ከመ ፡ ሰብእ ፡ እለ ፡ ይኔጽሩ ፡ ኅበ ፣ አርእያ ፣ ሠናይ ፣ ዘአ ፍጻ ፡ አነ ፡ አፈትን ፡ አልባበ ፡ ወዥዙልያተ ፡ ወኣአምር ፣ ኅቡኣተ ። ወእምዝ ፣፡ ቀብ ኦ ፡ ሳሙኤል ፡ ለዳዊት ፡ ንጉሠ ፡ ላዕለ ፡ አስራኤል ፡ ወኮነ ፡ አግዚኣብሔር ፡ ምስሌሁ ፡
+chose a son of Jesse who was tall, of beautiful appearance, and of robust body. The Lord did not elect him, but he said to Samuel: "Do not look at the beautiful appearance nor the stature, for I am not like men who look at the beautiful appearance from the outside; I, I probe the hearts and the kidneys and I know hidden things." Then Samuel anointed David king of Israel and the Lord was with him in all his works.
+በኩሉ ፡ ግብሩ ፡=፡ ወበአንተ ፣ ንጹሕ ፡ ልቡ ፣ ወየውሃቱ ፡ ረከቦ ፡ ለጸላኢሁ ፡ ሳኦል ፡ ብዙኃ ፡ ጊዜ፣ ወኢገብረ ፡ ላዕሌሁ ፡ ወኢምንተኒ ፡ እምእኩይ ፡ ወአትረፎ ፡ ሶበ ፡ ኮነ ፡ ሳኦል ፡ የኀሥ ሥ ፡ ከመ ፡ ይቅትሎ ፡ ለዳዊት ፡፡ አሐተ ፡ ጊዜ ፡ ወፅአ ፡ ሳኦል ፡ እንዘ ፡ የኀሥሦ ፡ለ ዳዊት ፡ ከመ ፣፤ ይቅትሎ ፡ ወዕበ ፡ በጽሐ ፡ ጊዜ ፡ ምሴት ፡ ሰከበ ፡፣ ሳኦል ፡ ወኖመ፣ ወኩሎሙ ፡ ሰራዊቱ ፡ ኖሙ ፡ እንዘ ፡ የዐውድዎ ።= ወመጽአ ፡ ዝንቱ ፡ ነቢይ ፡ ዳዊ ት ፡ ኅበ ፡ ሳኦል ፡ እንዘ ፡ ንውም ፡ ውእቱ ፡ ወበተከ ፡ ዘፈረ ፡ ዓጽፉ ፡ ወኢገብረ ፡ ቦ
+Because of his pure heart and his meekness, (when) many times he met his enemy Saul, he did nothing evil against him. He left him (alive), while Saul sought to kill him, (him) David. Once Saul went out seeking David, in order to kill him. When the time of evening arrived, Saul lay down and slept. All his soldiers who surrounded him slept. This prophet David came toward Saul, while he was asleep. He tore a
+
+
+[p. 44] {#po.26.p44}
+ቱ ፣ ወኢምንተኒ ፡ እምእኩይ ፡ ከመ ፡ ያጠይቆ ፡ በዝንቱ ፡ እስመ ፡ ውእቱ ፡ ኮነ ፡ ክ ሂለ ፣ ለቀቲሎቱ ፡ ወአትረፎ ። ወእምዝ ፡ ነስሐ ፡ ዳዊት ፡ ወሐዘነ ፡ ሶበ ፣ በተከ ፡ ዘፈረ ፣ ዓጽፉ ፣ ለሳኦል ፡= ወረከቦ ፣ ምዕረ ፡፣ ዳግመ ፡ እንዘ ፡ ንውም ፡ ውእቱ ፡ ወነሥ አ ፡ ኩናቶ ፡ ወማኅየበ ፡ ማይ ፡ እምኅበ ፣ ርእሱ ፣ ወኢገብረ ፡ "ቦቱ ፡ እኩየ ።፡ ወ ዕበ ፡ ይቤልዎ ፡፣ ሰብአ ፡ ዚአሁ ፡፣ ቅትሎ ፡፣ ለጸሳኢከ ፡ ሳኦል ፤ ወአውሥአ ፡ ዳዊት ፡ ወይቤሎሙ ፡ ሐሰ ፡ ሊተ ፡ ከመ ፡ እስፋሕ ፡ እዴየ ፡ ላዕለ ፡ መሲሑ ፡ ለእግዚኣብሔ ር ፣ እግዚእየ ፡= ወሶበ ፡ ዜነዎ ፡ አሐዱ ፡ ብእሲ ፡ በእንተ ፡፣ ቅትለቱ ፡ ለሳኦል ፡ ጸላ ኢሁ ፡ ወይቤሎ ፡ አነ ፡ ቀተልክዎ ፡ ሐዘነ ፡ ፈድፋደ ፡ ወሰጠጠ ፡ አልባሲሁ ፡ ወቀተ
+hem of his cloak, but he did no harm to him, in order to assure him by this that he had had the power to kill him and that he had left him (alive). Then David repented and became sad, when he had torn the hem of Saul's cloak. He found him a second time, while he was asleep. He took his sword and the pot of water near his head and he did not do him * any harm. When his men said to him: "Kill your enemy Saul", David answered and said to them: "Far from me (the thought) of extending my hand over the anointed of the Lord, my master!" When a man announced to him the murder of Saul, his enemy, and said to him: "I, I killed him", he became extremely sad; he tore his clothes and he killed this man who had said to him: "I, I killed Saul."
+ሎ ፡ ለውእቱ ፡ ብእሲ ፡ ዘይቤሎ ፡ አነ ፡ ቀተልክዎ ፡ ለሳኦል ፡=፡ ወአስተጋብአ ፣ እግዚኣብሔር ፡ ውስተ ፣ ዝንቱ ፡ ነቢይ ፡ ትሩፋተ ፣ ብዙኃተ ፡ ወዘ ይፈደፍድ ፣ እምዙሎሙ ፡ ትሕትና ፡ ውእቱ ፡ ወኮነ ፡ ነቢየ ፡ ወጻድቀ ፡ ፍጹመ ፡ ወ
+The Lord gathered in this prophet numerous virtues; the one that surpassed them all was humility. He was a prophet, righteous, perfect, king.
+
+
+[p. 45] {#po.26.p45}
+ንጉሠ ወኮነ ፡ ይሰሚ ፡ ርእሶ ፡ ከልብ ፡ ምውቱ ፡ ወቀኑንጽል ፡ ሕር ፡ ወዕፄ ፡ ወእን ስሳ =፡ ወኮነ ፡ በዝንቱ ፡ ትሕትና ፡ ክቡረ ፡ ወልዑለ ፡ እምኩሎሙ ፡ ሰብእ ፡፡ ወወደዕ ፡ እግዚኣብሔር ፡ በብዙኅ ፡ መጻሕፍት ፡ ወይቤ ፡፤ እስመ ፡ አነ፣ ረከብኩ ፡ ለዳዊት ፡፤ ወልደ ፡ ኤሴይ ፡ ብእሴ ፡ ዘከማየ ፡ ወዘከመ ፡ ልብየ ፡ ይገብር ፣፡ ፈቃድየ = ወዓቀቦ ሙ ፡ እግዚኣብሔር ፡ ለደቂቀ ፣ እስራኤል ፡ ወዓቀባ ፣ ለኢየሩሳሌም ፡ ብዙኃ ፣ ጊዜ፣ በእንተ ፣ ዳዊት ፡ በሕይወቱ ፣፤ ወእምድኅረ ፣ ሞቱ ።፡ ወአክበሮ ፡ እግዚኣብሔር ፡ ለዳ ዊት ፡ በአፈ ፡ ነቢያቲሁ ፣ ወረሰዮሙ ፡ ለነገሥተ ፡ ሕዝብ ፡ እምዘርኡ ፣ ወሰመየ ፡ ርእ ሶ ፡ ወልዶ ወተነበየ ፡ በመጽሐፈ ፣፤ መዛሙር ፡ ዘዕውቅ ፡ ቦቱ ፡ ዝውእቱ ፡ ወልታ ፡
+He called himself a dead dog, a vile fox, a worm, an animal. He was by this humility more noble and higher than all men. The Lord praised him in many (passages) of the Scriptures and said: "I, I have found in David, son of Jesse, a man according to me and according to my heart: he does my will." The Lord guarded the children of Israel and guarded Jerusalem many times because of David, during his life and after his death. The Lord honored David through the mouth of his prophets; he took the kings of the people from his lineage and he named himself his son. (David) prophesied in the famous book of Psalms (written) by him. It is a shield against the satans. (This book) is full of every good word and every noble teaching.
+ላፅለ ፡ ሰይጣናት ፡ ወምሉእ ፡ እምኩሉ ፡ ቃል ፡ ሠናይ ፡ ወኩሉ ፡ ትምህርት ፡ ክቡር ፡=፡ ወኮነ ፤ አርአያሁ ፡ ቀይሕ ፡ ገጹ ፡ አዝራቅ ፡ አዕይንቲሁ ፡ ማእከላይ ፣ ቆሙ = ወኮነ ፡ ኅያለ ፡ ወጽኑዓ ፣ ፈድፋደ ፣ ርዱእ ፣ እምኀበ ፣ እግዚኣብሔር ፡፡ አስመ ፣ ው
+His appearance was (this): his face was red, his eyes blue, his height average. He was extremely strong and robust. He was helped by the
+
+
+[p. 46] {#po.26.p46}
+እቱ ፡ "ሶበ ፡ ኮነ ፣ ወሬዛ ፡ እንዘ ፣ የዓቅብ ፣ አባግዓ ፣ አቡሁ ፡ መጽኡ ፣ ኅኀቤሁ፣ተ ዙላ ፡ ወአንበሳ ፡ በ፳ጊዜ ፡ ከመ ፡ ይምሥጥዎሙ ፡ ለአባግዕ ፡ ወቀተሎ ፡ ለተኩላ ፡ወ ሰጠቆ ፡ መንከሶ ፡ ለአንበሳ ፡፡
+Lord. Thus, * when he was an adolescent, while he was guarding his father's sheep, a wolf and a lion came once toward him to snatch the sheep. He killed the wolf and split the lion's jaw.
+ወሶበ ፣ ኮነ ፡ ሳኦል ፣ ይፃብኦሙ ፣ ለፍልስጥኤማዊያን ፡ ሕዝብ ፡ ነኪራን ፡ ወወ ፅአ ፡ ጎልያድ ፣ ረዓይታይ ፡ ዘኮነ ፡ ኑጉ ፡ ኒበአመት ፣ ወስዝር ፡ እንዘ ፡ ይለብስ ፡ ንዋየ ፣ ሐቅል ፡ ዘኀጺን ፡ ዲበ ፣ ኩሉ ፡ ሥጋሁ ፡ ወበእዴሁ ፡ ረምሕ ፡ ግዙፍ ፡ከመ፣ ሜስቅሎን ፡ ሥቅሁቅ ፡ ላዕሌሁ ፡= ወኩሩናቱ ፡ ፪፻ስቅሎን ፣ ሐጺን ፣ ወጌራ ፡ ውስተ-፣ ርአሱ ፡ ወኩሉ ፡፣ ብርት ፣፤ ወሐጺን ፣ ዘላዕሌሁ ፡ ዛ፻ስቅሎን ፣ ወውስተ ፡ አዕማደ ፡እ ገሪሁ ፣፤ ልቡስ ፡፣ ብርተ ፤ ወአራዊተ ፡ ብርት ፣ ማእከለ ፣ መታክፍቲሁ ።፡ ወዘይጸውር ፡ ንዋየ ፡ ሐቅሉ ፡ የሐውር ፡ ቅድሜሁ ።፡፡ ወቆመ ፡ ወጸርኃ ፡ ላዕለ ፡ ደቂቀ ፡ እስራኤል ፡ ወይቤሎሙ ፡ ምንተ ፤ ወፃእክሙ ፣ ትፃብኡ ፡ ወትትቃተሉ ፡ ምስሌነ ፡ አኮኑ ፡ አ ነ ፡ ውእቱ ፡ ኢሎፍላዊ ፣ ወአንትሙ ፡ ዕብራዊያን ፡፡ ዘሳኦል ፡ ኀረየ ፡ እምውስቴትክ
+When Saul was making war against the Philistines, a foreign people, Goliath, a giant whose height was seven cubits and a span, came out wearing iron armor on his whole body. In his hand was a spear thick as a weaver's beam. (A breastplate) made of mail was on him. His spear (weighed) 600 shekels of iron. A helmet was on his head; all the bronze and iron that were on him (weighed) 5000 shekels. On his legs he was (also) covered with bronze and bronze animals were between his shoulders. The one who carried his weapons went before him. He stood, shouted against the Israelites, and said to them: "Why have you come out to make war and fight against us? Am I not, I, a Philistine and you Hebrews?
+
+
+[p. 47] {#po.26.p47}
+ሙ ፡ ብእሴ ፡ ለይረድ ፡ ኀቤየ ፡ ወለአመ ፡ ክህለ ፡ ተቃትሎትየ ፡ ወቀተለኒ ፡ ንከውነክ ሙ ፡፣ አግብርተ ። ወአመሰ ፡ ክህልክዎ ፡ አነ ፡ ወቀተልክዎ ፡ ትከውኑነ ፡ አግብርተ ፣ ወትትቀ?ንዩ ፡ ለነ ፡፡ ወነበረ ፣፡ ከመዝ ፡ እንዘ ፡ ይትዔየሮሙ ፡ ለሕዝበ ፡ እስራኤል ፡ ወይ ትሜካክሕ ፡ ላዕሌሆሙ ፡ መጠነ ፡ ግመዓልት ።፡ ወኢተሐበለ ፡ መኑሂ ፡ እምሰራዊተ ፡ እ ስራኤል ፡ ከመ ፡ ይፃአ ፣ ኀቤሁ ፡ ወይፃብኦ ።= ወሶበ ፡ ሰምዓ ፡ ሳኦል ፡ ቃሎ ፡ ለውእ ቱ ፡ ኢሎፍላዊ ፡ ደንገፀ ፡ ወፈርሀ ፣ ጥ”ቀ ። ወኮነ ፣ ዳዊት ፡ መጽአ ፡ ከመ ፣ የሐው ጽ ፡ አኅዊሁ ፡፡ ወዕበ ፣፤ ርእዮ ፡ ለውእቱ ፡ ኢሎፍላዊ ፡ ወሰምዓ ፡ ቃሎ ፡ ቀንአ ፡እ ምኔሁ ፡ ቅንአተ ፡ መለኮታዊተ ።፡፡ ወይቤሎ ፡ ዳዊት ፡ ለሳኦል ፡ አነ ፣ አሐውር ፡ ወእ ቀትሎ ፡ ለዝንቱ ፡ ኢሎፍላዊ ፤ ቄላፍ ፡ ወኣሴስል ፡፣ ዮም ፡ ትዕይርተ ፡ እምነ ፡ እስ ራኤል ምንት ፡ ውአቱ ፡ ዝንቱ ፡ ቄላፍ ፡ ከመ ፣ ይትዓየር ፡-ፀባኢተ ፣ እግዚኣብሔ ር ።=፡ ሕያው ፣ ውእቱ ፡ እግዚኣብሔር ፡ ዘአድኀነኒ ፡ እምአፈ ፡ አንበሳ ፣ ወድብ ፣ ው እቱ ፡ ያድኅነኒ ፡ እምኔሁ ፡ ለዝንቱ ፤ ኢሎፍላዊ ፡ ቁላፍ ።፡ ወይቤሎ ፡ ሳኦል ፡ ለዳዊ
+The man whom Saul will have chosen among you, let him descend toward me. If he can fight against me and (if he) kills me, we will become slaves for you; but if I have power over him and (if) I kill him, you will become slaves for us and you will be enslaved to us." He continued thus for forty days to insult the people of Israel and to boast at their expense. No one among the armies of Israel dared to go out toward him and fight him. When Saul heard the words of this Philistine, he was terrified and feared * greatly. David was coming to visit his brothers. When he saw this Philistine and heard his words, he burned with divine zeal. David said to Saul: "I, I will go and I will kill this uncircumcised Philistine and today I will remove the reproach from Israel. What is this uncircumcised one to insult the army of the Lord? Living is the Lord who saved me from the mouth of the lion and the bear! He himself will save me from this uncircumcised Philistine." Saul said to David: "Go and may the Lord be with you!"
+ት ፡ ሖር ፡ ወእግዚኣብሔር ፡ ምስሌከ ፡=፡ ወነሥአ ፡ ዳዊት ፡ ቀስታመ ፡ ውስተ ፡ እዴሁ ፡ ወኀረየ ፡ ሎቱ ፡ ፳አአባነ ፡ አእምው ስተ ፡ ፈለግ ፡ ወወደየ ፡ ውስተ ፡ መምጠቂሁ ፡ ሶበ ፡ ይትረዓይ ፣ ወሞጸፈ ፡ ውስተ፣0፣ እዴሁ ፡ ወሖረ ፡ ኅበ ፡ ውእቱ ፡ ብአሲ ፡ ኢሎፍላዊ ፡=፡ ወሶበ ፡ ርእዮ ፡ ጎልያድ ፡ ለዳ ዊት ፡ አስተሐቀሮ ፡ እስመ ፡ ሕፃን ፡ ውእቱ ፡ ወቀይሕ ፡ ውእቱ ፡ ወሠናይ ፡ አፅይን ቲሁ ።፡ ወይቤሎ ፡ ዝክቱ ፡ ኢሎፍሳዊ ፡ ለዳዊት ፡ ከመ ፡ ከልብኑ ፡ አነ ፡ ከመ፣ ትምጻ እ ፡ ላዕሌየ ፡ በበትር ፡ ወበአእባን ።፡ ወይቤሎ ፡ እወ ፡ ተአኪ ፡ እምነ ፡ ከልብ ።፡፡ ወረ ገሞ ፣ ዝንቱ ፣ ኢሎፍላሳዊ ፡ ለዳዊት ፡ በአማልክቲሁ ፣፡ ወይቤሎ ፡ ኢሎፍሳላዊ ፡ ለዳዊ ት ፡ ነዓ ፡ ኀቤየ ፡ ወአነ ፡ እሁብ ፡ ሥጋከ ፡ ለአአዋፈ ፡ ሰማይ ፡ ወለአራዊተ ፡ ምድር ።= ወይቤሎ ፡ ዳዊት ፡ ለውእቱ ፡ ኢሎፍላዊ ፡ አንት ፡ ትመጽእ ፡ ኅቤየ ፡ በሰይፍ ፡ ወበኩ ናት ፡ ወአነ ፡ እመጽእ ፡ ኀቤከ ፡ በስሙ ፡ ለእግዚኣብሔር ፡ ጸባኦት ፡ ፀባኢተ ፡ እስራ ኤል ፡ ዘተዓየርከ ፡ ዮም ፡ የዓፅወከ ፡ እግዚኣብሔር ፡ ዮም ፡ ውስተ ፡ እዴየ ፡ ወ”አቀ
+David took (his) shepherd's staff in his hand and he chose for himself five stones in the torrent. He put (them) in the bag (that he carried), when he was leading the grazing, and, the sling in his hand, went toward this Philistine. When Goliath saw David, he despised him, for he was a child; he was red and his eyes were beautiful. This Philistine said to David: "Am I like a dog that you come against me with a staff and with stones?" (David) said to him: "Yes, you are worse than a dog." This Philistine cursed David by his gods. The Philistine said to David: "Come toward me and I will give your flesh to the birds of the sky and to the beasts of the earth." David said to this Philistine: "You, you come toward me with the sword and with the spear; I, I come toward you in the name of the Lord Sabaoth, (God of) the army of Israel that you have despised today; today the Lord will enclose you in my hand; today * I will
+
+
+[p. 48] {#po.26.p48}
+ትለከ ፣› ወእመትር ፡ ርእሰከ ፣ እምኔከ ፡ ወእሁብ ፡፣ በድነከ ፡ ወበድነ ፣ ትአይንቶሙ ፥ ለኢሎፍሊ ፡ ዮም ፡ ለአፅዋፈ ፡ ሰማይ ፣ ወለአራዊተ ፡ ምድር ።= ወያአምር ፡እንከ፣ ኩሉ ፡ ምድር ፡ ከመ ፡ ሀሎ ፡ እግዚኣብሔር ፡ ምስለ ፡ እስራኤል ፡ ወያአምሩ ፡ እንከ፣ ዙሉ ፡ ዝንቱ ፡ ተዓይን ፡ ከመ ፡ አኮ ፡ በሰይፍ ፡ ወበከ፡ናት ፡ ዘያድኅን ፣፡ እግዚኣብሔር ፡ አስመ ፡ ለእግዚኣብሔር ፡ ውእቱ ፡ ቀትል ። ወወደየ ፡ ዳዊት ፡ አዴሁ ፡ ውስተ0፣ መምጠቂሁ ፡ ወነሥአ ፡ እምህሆየ ፡ አሐደ ፡ አብነ ፡ ወወጸፎ ፡ ወሄይፅ ፣፡ ለዝክቱ ፡ ኢሎፍ ላዊ ፡ ውስተ ፡ ፍጽሙ ፡ ወቦአት ፡ ይእቲ ፡ እብን ፡ እንተ ፡ ፍጽሙ ፡ ውስተ ፡ ናላሁ፣ ወወድቀ ፡ በገጹ ፡ ውስተ ፡ ምድር ጦ፡፡ ወሮጸ ፡ ዳዊት ፡ ወነሥአ ፡ ሰይፎ ፡ ወቀተሎ ፡ ቦ
+kill you and I will cut off your head; I will give your corpse and the corpses of the troops of the Philistines to the birds of the sky and to the beasts of the earth. The whole earth will therefore know that the Lord is with Israel; all the troops will therefore know that it is not by the sword and the spear that the Lord saves, for to the Lord belongs the war." David put his hand in his bag and took a stone from it; he threw it with the sling and hit this Philistine in the forehead. This stone entered through his forehead into his brain. He fell face to the ground. David ran, took the sword (of Goliath), killed him with it, and cut off his head. He removed the reproach from the Israelites.
+
+
+[p. 49] {#po.26.p49}
+ቱ ፡ ወመተሮ ፡ ርአሶ ፡ ወአሰሰለ ፣ ትዕይርተ ፡ እምደቂቀ ፡ እስራኤል ።፡ ወኮነ ፡ ዙሉ ፡ መዋዕለ ፡ ሕይወቱ ፡ ለዳዊት ፡ ድዓመተ ፡ አምኔሃ ፡ ቋዓመተ ፡ ነበረ ፡ እምቅድመ ፡ ይቅብዕዎ ፡ ሕዝብ ፡ ንጉሠ ፡ ላዕሌሆሙ ፡ ወጓዓመተ ፡ ነበረ ፡ በውስተ ፣ መንግሥቱ ፡፡ ወተነበየ ፡ እምቅድመ ፡ ትስብእቱ ፡ ለአግዚእነ ፡ ክርስቶስ ፡ በ፲፻ዓመት ፣፡ ወጸ፻ዓመት ። ወአዕረፈ ፡ በሰላም ፣ ወቦአ ፣ ውስተ ፣ መንግሥተ ፡ ሰማያት ፡ ወተቀ ብረ ፡ ውስተ ፡ መቃብረ ፡ አበዊሁ ፡=፡
+All the days of David's life were seventy years. Of (these years) he remained thirty years, before he was anointed king over the people and he remained forty years in the kingship. He prophesied 1100 years before the Incarnation of Our Lord Christ. He died in peace and entered the kingdom of heaven. He was buried in the tomb of his fathers.
+እግዚኣብሔር ፡ ይምሀረነ ፡ በጸሎቱ ፡ ለዓለም ፡ አሜን ።፡ -፦- ፲:6918፲0ኳ ዣ:ህ19816 ጅ, .ሷ). ወበዛቲ ፡ ዕለት ፣ ካዕበ ፡ አዕረፉ ፡ አባ፣ ሳሙኤል ፡ ወአባ ፡ ገብርኤል ፡ ወአባ፣
+May the Lord have pity on us through his prayer, forever. Amen. II. - Revision or Vulgate (P, A). On this day also died Abba Samuel, Abba Gabriel, and Abba Simeon.
+
+
+[p. 50] {#po.26.p50}
+ስምዖን ። ወዝንቱ ፡ ቅዱስ ፡ አበ ፣ ሳሙኤል ፡ ኮነ፣ መነኮሰ፣0 ባሕታዊ ፣ ወየኃድር ፡ በገቦ ፣ ሀገር ፡ ዘስማ ፡ ቀርጣሜን ። ወሀሎ ፡ ሀየ ፡ አስከሬን ፡ ዘ8ሰማዕት ፣፡ ዘስሙ ፡ አቅራፎስ ፡ ወይትባረክ ፡ እምኔሁ ፡ በጥንተ ፡ ጸሎቱ ፣ ወበተፍጻሜቱ ፡ ወኮነ ፡ መኩንን ፡ ዘስሙ ፡ ሰ ሊባ ፡ወሀለዎ ፡ ወልድ ፡ ዘስሙ ፡ ስምዖን ፡ ወደወየ ፡ ደዌ ፡ ሞት ፡ ወለአኩ ፡ ኅበ ፡ አ ባ፣ ሳሙኤል ፡ ወአምጽእዎ ፡ ከመ ፡ ይጸሲ ፡ ላዕለ ፡ ወልድ ። ወጸለየ ፡ ወአንሥኦ፡እ ምድኅረ ፡ ሞተ ፡ ወተለዎ ፡ ውአቱ ፡ ወልድ ፡ ለአባ ፡ ሳሙኤል ፡ ወኮነ ፡ ረድኦ ፡ ወመ ንኩሰ ። ወአሐተ ፡ ዕለተ ፡ ሖረ ፡ ውእቱ ፡ ረድእ ፡፣ ነሚኦ ፡ ቀሱተ ፡ ከመ ፡ ይቅዳሕ ፡ ማየ ፡ ወሰበረ ፡ ቦቱ ፡ ሰይጣን ። ወሶበ ፡ ነገሮ ፡ ለአባ ፡ ሳሙኤል ፡ ወሀ” ቦ ፡ ከረቦ ፡ወ ይን ፡ ከመ ፡ ይምላእ ፡ ቦቱ ፡ ማየ ፡ ወነበረ ፡ ፲አመተ ፡ እንዘ ፡ ይቀድኅ ፡ ቦቱ ፡ ማየ፣
+This saint Abba Samuel was a solitary monk. He lived on the outskirts of the city called Qartamen. There was there the shrine of a martyr called 'Agrafos. He was blessed by him at the beginning and at the end of his prayer. There was (also) a governor called Saliba. He had a son called Simeon (who) was sick with a mortal illness. They sent (a messenger) toward Abba Samuel and had him come, in order that he might pray over (this) son. He prayed and he resurrected him, after he was dead. This son followed Abba Samuel, became his disciple, and became a monk. One day, this disciple, having taken a pitcher, went to draw water. Satan broke it. When he had told (this) to Abba Samuel, (the latter) gave him * a wine skin, so that he might fill it with water. He continued for ten years to draw water with (this skin) and the water was not lost. They went into
+ወኢይትከዓው ፣ ማዩ ። ወሖሩ ፣ ውስተ ፡ ካልእ ፡ መካን ፡ እምህየ ፡ ወሐነጹ ፡ ንስቲ ተ ፡ ቤተ ፡ ጸሎት ፡ ወነበሩ ፡ ሀየ ። ወአሐተ ፡ ዕለተ ፡ አርአዮሙ ፡ በሕልም ፡ መልአ ከ ፡ እግዚአብሔር ፡ ኅበ ፡ የሐንጹ ፣ ቤተ ፡ ክርስቲያነ ። ወመጺኦ ፡ አንስጣስዮስ ፣ ንጉ ሥ ፣ ሐነጸ ፡ ሎሙ ፡ ቤተ ፡ ክርስቲያነ ፡ ሠናየ ፡ ወዐቢየ ፡ ወ፳፻አብያተ ፡ መነኮሳት ። ወ ሶበ ፡ ረስዓ ፡ አባ ፡ ሳሙኤል ፡ ወጻመወ ፡ ፈድፋደ ፡ እምብዝኃ ፡ገድል ፡ ፈለሰ ፡ ኅበ ፡ እግዚአብሔር ፡ ዘአፍቀሮ ፡ ኀዲጎ ፡ ደቂቆ ፡ ውስተ ፡ እደ ፡ ወልዱ ፡ አባ ፣ ስምዖን ።
+another place (far) from there. They built a small oratory and they stayed there. One day, the angel of the Lord made them see in a dream (the place) where they would build a church. The emperor Anastasius having come, he built them a beautiful and large church and 500 monks' cells. When he had become old and had labored extremely in great asceticism, Abba Samuel emigrated toward the Lord whom he had loved, after having left his children in the hands of his son Abba Simeon.
+
+
+[p. 51] {#po.26.p51}
+ወበዝጉ ፡ በዝንቱ ፡ አባ ፡ ስምዖን ፣ መጠነ ፡ ፳ወ፳፻ ። ወበመዋዕሊሁ ፡ ለዝንቱ ፡ አብ ፡ ተንሥአ ፡ ፳ብእሲ ፡ ዓላዊ ፤ ዘኢየአምን ፣፡ ትንሣኤ ፣ ሙታን ፡ ወጸለየ ፡ አባ ስምዖን ፣ ላዕለ ፡ ምውት ፣ ወተንሥአ ፡ በቅድሜሁ ። ወሶበ ፡ ኢተመይጠ ፡ ልቡ ፡ እም ኑፋቄ ፡ ጸለየ ፡ ኀበ ፡ እግዚአብሔር ፡ ወአውረደ ፡ እሳተ ፡ እምሰማይ ፡ ወአውዓዮ ። ወ እምድኅረዝ ፡ ረሲኦ ፡ ሞተ ፡ ወአዕረፈ ፡ በሰላም ፡ ክቡር ፡ አባ ፡ ስምዖን ፣ ወተቀብረ ፡ ውስተ ፡ መቃብረ ፡ መምሀሩ ።
+Under this Abba Simeon they were 12,000 in number. In the days of this Father arose a heretic who did not believe in the resurrection of the dead. Abba Simeon prayed over a dead man and he resurrected before him. As his heart did not convert from doubt, (Abba Simeon) prayed to the Lord. He made fire descend from heaven (which) consumed him. Then, having become old, the famous Abba Simeon died and rested in peace. He was buried in the tomb of his master.
+ወተሠይመ ፡ አባ ፡ ገብርኤል ፡ አበ ፡ እምድኅሬሁ ፡ ወኮነ ፡ የዋሃ ፡ ወትሔሑተ ፡ ወይ ለብስ ፡ ሠቀ ፡ ወሐዊዩነ፣ እምታሕተ ፡ መልበሱ ፣ ወኢይወዲ ፡ አሣፅነ፣ ውስተ ፡ እገሪሁ ፡
+Abba Gabriel was appointed superior after him. He was gentle and humble. He wore a hair shirt and iron under his habit, and he did not put shoes on his feet. He did not take shelter in a house during the winter, (nor) during
+ወኢይበውአ ፡ ውስተ ፡ ቤት ፡ በክረምት ፡ ወበሐጋይ ፡ ወይጸውም ፡ አምሰንበት ፡ እስከ ፡ ሰንበት ፣፡ ወኢይበልዕ ፡ እንበለ ፡ ፄው ፡ ወ”ይቡስ ፡ ኅብስት ። ወኮነ ፡ ይገብር ፡ ተኣምረ ፡ ወመንክረ ፡ ወአሐተ ፡ ዕለተ ፡ ዕበ ፡ ፈቀዱ ፡ አርድእቲ ሁ ፡ ያብኡ ፡ እብነ ፡ ዐቢየ ፡ ውስተ ፡ ደብር ፡ በዘቦቱ ፡ ይገብሩ ፡ ብዙኃ ፡ ኅብስተ ፡ ወ ኃጥኡ ፡ ሎሙ ፡ ዘይጸውር ፡ ሰብአ ፡ ወሰሚዖ ፡ አባ ፡ ገብርኤል ፡ አውገዘ ፡ ከመ ፣ ኢይ ትርፍ ፡፳ሂ ፡ ውስተ ፡ ደብር ፡ ከመ ፡ ይምጽኡ ፡ ለፀዊረ ፡ እብን ። ወሰሚዖሙ ፡ ቃሎ፣ ተንሥኡ ፡ ምውታን ፡ ፳ወጓነፍስ ፡ ወርእዮ ፣ አባ ፡ ገብርኤል ፡ ይቤሎሙ ፡ አኮ ፡ኪ ያክሙ ፡ዘእቤ ፡ አላ ፣ ሕያዋነ ፡ ወሶቤሃ ፡ ተመይጡ ፡ ውስተ ፡ መቃብር ። ወበ፳አመዋዕል ፡ አንበረ ፡ ጸ፳ብአሲ ፡ ወርቀ ፡ ኅበ ፡ ፳መነኮስ ፡ ወነገደ ፡ ርቀ ፡ወ በተመይወጦቱ ፡ ረከቦ ፡ ለመነኮስ ፡ ዘሞተ ፡ እንበለ ፡ ይንግር ፡ ለረድኡ ። ወሶበ ፤፡ ሐተት ዎ፣ ለረድእ ፣ በኣንተ ፣፡ ወርቅ ፣ ወኢያአመረ ፡ ኅበ ፣ አንበረ ፣ መምህሩ ። ወሐዊሮ ፡ አባ ፡ ገብርኤል ፡ ኀበ ፣ መቃብረ ፡ ምውት ፡ ሐተቶ ፡ በእንተ ፡ ንዋይ ፡ ወነገሮ ፡ ኅበ ፣ አንበሮ ። ወነሚኦ ፡ በዓለ ፡ ንዋይ ፡ ሖረ ፡ እንዘ ፡ ያነክር ።
+the summer. He fasted from week to week and ate only salt and * dry bread. He performed miracles and wonders. One day, while his disciples wanted to bring a large stone into the convent with which they would make much bread, they lacked men to carry it. When he learned (this), Abba Gabriel forbade anyone from remaining in the convent, so that (all) would come to carry the stone. Having heard his voice, the dead rose to the number of 10,040 souls. Abba Gabriel, seeing (this), said to them: "It is not you I called, but the living." And immediately they returned to the tomb. One day, a man deposited gold with a monk and went far away. Upon his return, he found that the monk had died without having said (anything) to his disciple. When the disciple was questioned about the gold, he did not know where his master had placed it. Abba Gabriel, having gone to the tomb of the dead man, consulted him about the money, and (the latter) told him where he had placed it. After having taken it, the owner of the money went away amazed. There was a friend of (Abba Gabriel) named Salib, who died without having
+
+
+[p. 52] {#po.26.p52}
+ወሀሎ ፡ ፍቁሩ ፡ ዘስሙ ፡ ሰሊብ ፣ ወሞተ ፡ ዘእንበለ ፡ ይትራከቦ ። ወሰሚዖ ፡አባ፣ ገብርኤል ፡ ሖረ ፡ ኀበ ፡ መቃብሩ ፡ በከየ ፡ ወጸለየ ፡ ወይቤ ፡ በስመ ፡ አግዚእነ ፡ ኢየሱ ስ፣ፎክርስቶስ ፡ ተንሥእ ፡ ንዜያነው፣ ወተንሥአ ፡ ሕያው ፡ወነበረ ፡ ሕያዎ ፡ ፲ወ፪8ዓመተ ።
+seen him again. Having learned (of his death), Abba Gabriel went to his tomb, wept, prayed, and said: "In the name of Our Lord Jesus Christ, rise so that we may speak to one another." He rose alive. || remained alive for
+
+
+[p. 53] {#po.26.p53}
+ወበመዋዕሊሁ ፡ ለዝንቱ ፡ አብ ፡ ኮነ ፡ ስደት ፡ ዐቢይ ፡ ለአብያተ ፡ ክርስቲያናት ፡ ወለሕዝበ ፣ ክርስቲያን ፡ አምነገሥተ ፡ ሮም ፣፤ ወተቀትሉ ፡ ብዙኃን ፡ አለ ፡አልቦሙ ፡ ጐልቀነ ። ወእምድኅረ ፡ ኅዳጥ ፡ መዋዕል ፡ ነግሠ ፡ እስላም ፡ ወድኅኑ ፡ ክርስቲያን ፡ እምስደት ። ወሶበ ፡ ኮኖ ፣ ፳ዓመት ፡ እምድኅረ ፡ ነበረ ፡ በተጋድሎ ፡ ብዙኅ ፣ ወአዕረ ፈ፡ በሰላም ።
+fourteen years. In the days of this Father, there was a great persecution of the churches and the Christian people by the emperors of Rome. Many (faithful) who cannot be * counted were killed. A few days later, the Muslims reigned. The Christians were saved from the persecution. After he had remained for twenty years in great asceticism, he died in peace.
+በረከቶሙ ፡ ቅድስት ፡ ተሀሉ ፡ ምስለ ፣ ፍቁሮሙ ፡ ዘመንፈስ ፡ ቅዱስ ፣፡ ለዓለመ ፡፣ ዓለም ። ወካዕበ ፡ በዛቲ ፡ ዕለት ፡ ተዝክሮሙ ፣፡ ለመቃርስ ፡ ወአንድርስ ፡ ወፊልዕስ ፣ ወአ ይታልታዎስ ፡ ቀኒልዮስ ፣፡ ወመርቆሬዎስ ።
+May their holy blessing be with their beloved Za-Manfas-Qedous for centuries of centuries. On this day also is the commemoration of Macarius, Andrew, Philip, Aytältäwos, Cornelius (Qanilyos), and Mercury.
+ጸሎቶሙ ፡ ወበረከቶሙ ፡ የሀሉ ፡ ምስለ ፡ ንጉሥነ ፣፡ ኢያሱ ፡ ለዓለመ ፡ ዓለም =
+May their prayer and their blessing be with our king Iyasu for centuries of centuries.
+
+
+[p. 54] {#po.26.p54}
+፪፪. ጅጀዐህሯ6 ወበዛቲ ፡ ዕለት ፡ ካዕበ ፣ ኮነ ፡ ተዝካሩ ፣ ለይስሐቅ ፡ ዘነጸረ ፡ ገጻ ፡ ለአግዝእትነ፡፣ ማርያም ። ጸሎቱ ፡ ወበረከቱ ፡ የሃሉ ፡ ምስለ ፡ ውዳሴ ፡ ማርያም ፡ ለዓለመ ፡ ዓለም ፡=፡ ፲8 ፕፈቨ848 ፪65)(885). -፦ ፲:6666.,810ዉ. ዕጀ፤ዝርቧ0ቨር176 ል, በስመ ፡ አብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፣ አምላክ =
+Ill. - Proper (A). On this day also is the commemoration of Isaac who contemplated the face of Our Lady Mary. May his prayer and his blessing be with Weddâsé-Märyâm for centuries of centuries. THE 24TH OF TÂHSAË. 1. - Primitive recension (A, T). In the name of the Father, the Son, and the Holy Spirit, one God.
+
+### THE 24TH OF TÂHSAS
+አመ ፡ ፳፪ለታኅሣሥ ፡ ምንባብ =፡ በዛቲ ፡ ዕለት ፡ ኮነ ፣ ቅዱስ ፣ ወክቡር ፣ አግናጥዮስ ፡ ሰማዕት ፣ ሊቀ ፣ ጳጳሳት ፡ ዘሀ ገረ ፡ አንጾኪያ ፡=፡ ዝንቱ ፡ ቅዱስ ፡ ኮነ ፡ ረድኦ ፡ ለሐዋርያ ፣ ቅዱስ ፡ ዮሐንስ ፡ ወንጌላዊ ፡ ወተለአ ኮ ፡ በስብከት ፡ ወሖረ ፡ ምስሌሁ ፡ ”አሀጉረ ፡ ብዙኃ ።፡ ወእምዝ ፡ ሜሞ ፡ ሊቀ ፡ ጳጳሳ
+READING On this day is the holy and glorious Ignatius, martyr, patriarch of the city of Antioch. This saint was the disciple of the apostle Saint John the Evangelist. He served him in preaching. He went with him * into many cities. Then (John)
+
+
+[p. 55] {#po.26.p55}
+ተ ፡ ላዕለ ፡ ሀገረ ፡ አንጾኪያ ፡ ወሰበከ ፣ ውስቴታ ፡ በስብከት ፡ ማሕየዊት፣0፣ ወሜጦ ሙ ፡ ለብዙኃን ፡ ውስተ ፡ አእምሮ ፡ እግዚኣብሔር ፡ ወአጥመቆሙ ፡ ጥምቀተ ፡ ክርስት ና ፡ ወአብርሆሙ ፡፣ በአእምሮ ፡ ወከሠተ ፡ ሎሙ ፡ ስሕተቶሙ ፡፣ ለአለ ፣ ያመልኩ ፡ጣ ዖታተ።
+instituted him patriarch of the city of Antioch. He preached there the life-giving preaching and converted many (people) to the knowledge of the Lord, baptized them with Christian baptism, enlightened them by (divine) science, and revealed to them the error of those who worship idols.
+ወተምዕፁ ፡ ላዕሌሁ ፡ አረማዊያን ፡ ወአስተዋደይዎ ፡ ኀበ ፡ ጠራብያኖስ ፡ ቄሣር ፡ ንጉሥ ፡ ዓላዊ ፡ ወይቤልዎ ፡ ከመ ፡ አግናጥዮስ ፣ ይሥዕር ፡ አምልኮ ፡ አማልክቲከ ፡ ወ ይሜህሮሙ ፡ ለሰብእ ፡ ወያበውኦሙ ፡ ውስተ ፣ ሃይማኖተ ፡ ክርስቶስ ፡ ወሶቤሃ ፣ ፈነ ወ ፡ ወአብጽሖ ፡ ኀቤሁ ፣ ወይቤሎ ፣ ንጉሥ ፡ ኦአግናጥዮስ ፡ ለምንት ፡ ገበርከ ፡ ዘንተ ፡ ወለምንት ፡ ሠዓርከ ፡ አምልኮ ፡ አማልክትየ ፡ ወአባእክሙ ፡ ለዙሎሙ ፡ ሰብእ ፣ ውስ ተ ፡ አምልኮቱ ፡ ለክርስቶስ ።፡ ወይቤሎ ፣ አግናጥዮስ ፡ እመሰ ፡ ተክህለኒ ፡ እምአባእኩ ከ፣ ኦንጉሥ ፣ ውስተ ፡ አምልኮቱ ፡ ለክርስቶስ ፡ አምላከ ፣ ዙሉ ፡ እስከ ፡ እሬስየከ ፡ ዓርከ ፡ ሎቱ ፡፡ ወይቤሎ ፣ ንጉሥ ፣፡ ኅድግ ፡ዘንተ ፡ ነገረ ፡ ወሥዕ፣ለአማልክትየ ፡ ወእመ፤ አኮሰ ፡ እኬንነከ ፡ ዓቢየ ፡ ዙነኔ ፡ ወይቤሎ ፡ ቅዱስ ፣ አግናጥዮስ ፡ ግበር ፣ ዘትፈቅ ድ ፡ ኦንጉሥ ፡ እስመ ፡ አነ ፡ ኢይሠውዕ ፡ ለጣዖታቲከ ፡ ርኩሳት ፣ ወኢይፈርሀ ፡ እም
+The pagans became angry with him and accused him before Trajan Caesar, the impious emperor. They said to him: "Ignatius abolishes the worship of your gods; he teaches men and introduces them into the faith of Christ." Immediately the emperor sent (a messenger), had him brought to him, and said to him: "O Ignatius, why have you done this? Why have you abolished the worship of my gods and introduced all men into the worship of Christ?" Ignatius said to him: "If it were possible for me, I would introduce you, O emperor, into the worship of Christ, God of all, even to making you his friend." The emperor said to him: "Cease this discourse; sacrifice to my gods, otherwise I will torture you with a great torture." Saint Ignatius said to him: "Do what you will, O emperor, for I will not sacrifice to your impure idols; I am not afraid of your torture,
+
+
+[p. 56] {#po.26.p56}
+ኩነኔከ ፡ ወኢአምአሳትከ ፡ ወኢአምአናብስቲከ ፡ ወኢትክል ፡ ትፍልጠኒ ፡ አምፍቅሩ ፡ ለክርስቶስ ፡ ንጉሥ ፣፡ ሕያው ።፡ ወሶበ ፡ ሰምዓ ፡ ንጉሥ ፡ ዘንተ ፡ ተምዓ ፡ ፈድፋደ ፡ ወአዘዘ ፡ ከመ ፡ ይኩንንዎ ፡ ዙነኔ ፡ ብዙኃ ፡፡
+nor of your fire, nor of your lions. You will not be able to separate me from the love of Christ, the living king." When the emperor heard this, he became extremely angry and ordered him to be tortured with an intense torture.
+ወኩነንዎ ፡ ዓቢየ ፣ "ዙነኔ ፡ ወወደዩ ፣፡ ፍሕመ ፡ እሳት ፡ ውስተ ፡ እዴሁ ፣ ወአኃዝ ዎ ፡ በጐጠት ፡ ብዙኃ ፡ ጊዜ ፡ ወአሳት ፡ ውስተ ፡ አዴሁ ። ወአምዝ ፣፡ ዓውአዩ ፡ ገበዋ ቲሁ ፡ በተይ ፡ ወቅብእ ፡ ዘይነድድ ፡ ድበእሳት ፡፡ ወእምዝ ፣ ሠጠጡ ፡ ዙሎ ፡ ሥጋሁ ፡ በመጥባሕታተ ፡ ሐጺን ፡ ወዕበ ፡ ደክሙ ፡ እንዘ ፡ ይኬንንዎ ፡ ወደይዎ ፡ ውስተ፣ ቤተ ፡ ሞቅሕ ፡ እስከ ፡ ይገብሩ ፡ ቦቱ ፣ ዘይፈቅዱ ። ወነበረ ፣ ውስተ ፡ ቤተ ፡ ሞቅሕ ፡ ብዙኃ ፡ መዋዕለ ፡=፡
+He was tortured with a great * torture. They put a burning coal in his hand; they held it with tongs for a long time, the fire being in his hand. Then they burned his sides with sulfur and flaming oil. Then they tore all his flesh with iron knives. When they were weary of torturing him, they threw him into prison, so that they (could) do with him what they wanted. He remained in prison for many days.
+ወእምድኅረዝ ፡ ተዘከርዎ ፣ ወአውፅእዖዎ ፡ ወአቆምዎ ፡ ቅድመ ፣ ንጉሥ ።፡ ወይቤ ሎ፥ ንጉሥ ፡ ኦአግናጥዮስ ፡ ለእመሰ ፣ ርኢኮሙ ፡ ለአማልክት ፡ አምዐደመከ ፣፡ ሥኖ ሙ ፡5፡ ወይቤሎ ፡ ቅዱስ ፡ አመሰ ፣ አመንከ ፡ በክርስቶስ ፣ እምረሰየከ ፡ ታንሥኦሙ ፡
+Then they remembered him, brought him out, and made him appear before the emperor. The emperor said to him: "O Ignatius, if you saw the gods, their beauty would please you." The saint said to him: "If you believed in Christ, he would make you raise the dead and heal the sick." The emperor said to him: "It
+
+
+[p. 57] {#po.26.p57}
+ለምውታን ፣ ወትፈውሶሙ ፡ ለድውያን ።፡፡ ወይቤሎ ፡ ንጉሥ ፡ አልቦ ፣ ሰጊድ ፡ ዘይጌቴ ይስ ፡ እፖሰጊፒድ ፡ ለፀሐይ ።፡ ወይቤሎ ፡ ቅዱስ ፡ ኦንጉሥ ፡ እፎ ፡ ይዔይስ ፡ ሰጊደ ፡ ለፀ ሐይ ፡ ዘተፈጥረ ፡ ወተኃድግ ፣፡ ፈጣሬ ፡ ዘኢይተረጐም ፣፡ መንግሥቱ ፡ ወይቤሎ ፡ ን ጉሥ ፡ ሠናየ ፡ ዘትቤ ፡ አላ ፡ በተዓድዎትከ ፡ ሰሐብከ ፡ ኩሎ ፡ ሰብአ ፡ ብሔረ ፡ ሶዕርያ፣ ኅበ ፣፣ አምልኮቱ ፡ ለክርስቶስ ። ወተምዕዓ ፣ ቅዱስ ፣ ወይቤሎ ፡ ኦንጉሥ ፡ በእንተ ዘሰሐብክዎሙ ፡ ለሰብእ ፣ አምአምልኮ ፡ ጣዖታት ፡ ወአባአክዎሙ ፡ ውስተ ፣ አምልኮ ቱ ፡ ለክርስቶስ ፡ ፈጣሬ ፡ ሰማያት ፡ ወምድር ፡ ዘሀሎ ፡ እምቅድመ ፡ ይትፈጠር ፡ ዓለ ም ፡ ትትመዓዕ ፡ ላዕሌየ ፡ ወትኤዝዘኒ ፡ ከመ ፡ ፅሠእ ፣ ለጣዖታቲከ ፡ ርኩሳን ፡=፡ አን ሰ፣0 ኢይትወከ”ፍ ፡ ቃለከ ፡ ወኢይሠውዕ ፡ ለሰይጣናት ፡ አላ ፣ እሠውዕፅ ፡ ለአምላኪየ ፡
+is no better worship than to worship the sun." The saint said to him: "O emperor, how is it better to worship the sun which has been created? You abandon the creator whose royalty is unspeakable." The emperor said to him: "What you say is beautiful, but by your transgression you have led all the men of the land of Syria toward the worship of Christ." The saint became angry and said to him: "O emperor, because I have drawn men (away) from the worship of idols and have introduced them into the worship of Christ, creator of the heavens and the earth who existed before the world was created, you are irritated against me and you order me to sacrifice to your impure idols; as for me, I will not accept * your words and I will not sacrifice to the satans, but I will sacrifice to my true God: Father, Son, and Holy Spirit."
+ዘበአማን ፡ አብ ፡ ወወልድ ፤ ወመንፈስ ፡ ቅዱስ ፡=፡ ወሶቤሃ ፡ ተምዕዓ ፡ ንጉሥ ፡ ወአዘዘ ፡ ከመ ፡ ይስድዱ ፡ ላዕሌሁ ፡ ፪አናብስተ ፡ ር ባነ ፡ እስከ ፡ ኢያተርፉ ፡ እምሥጋሁ ፡ ወኢምንተኒ ፡፡ ወሶበ ፡ ርእዮሙ ፡ ቅዱስ ፡ ለአና
+Immediately the emperor became angry and ordered two hungry lions to be released against him, so that they would leave nothing of his flesh. When the saint saw the
+
+
+[p. 58] {#po.26.p58}
+ብስት ፡ እንዘ ፡ ይቀርቡ ፡ ኅቤሁ ፣ ወጸርኃ ፡ በልዑል ፡ ቃል ፡ ወይቤሎሙ ፡ ለሕዝብ፣ ስምዑኒ ፡ ቃልየ ፡ ኦሰብአ ፡ ሀገረ ፣ ሮሜ ፡ እለ ፡ ተጋባእክሙ ፡ ዝየ ፣ ወአእምሩ ፡ እስ መ ፡ አነ ፡ አኮ ፡ በእንተ ፡ ትእቢት ፡ ወኢትምክሕት ፡ ተዓገሥኩ ፡ ለዝንቱ ፡ ኩነኔ ፡ አላ ፡ ትዕግሥትየሰ ፡ በእንተ ፡ እግዚእየ ፡ ወአምላኪየ ፡ ወኀይልየ ፡ ኢየሱስ ፡ ክርስቶ ስ = ወናሁ ፡ ፈተወት ፡ ነፍስየ ፣ ከመ ፡ ይኅርፁኒ ፡ እሉ ፡ አናብስት ፡ ከመ ፡ ስርናይ ፡ እ ስመ ፡ ነፍስየ ፣ ይእዜ ፡ ፈተወት ፡ ከመ ፡ ትሖር ፡ ኅበ ፡ እግዚእየ ፡ ክርስቶስ ። ወዕበ ፣ ሰምዓ ፡ ንጉሥ ፡ ቃሎ ፡ አንከረ ፡ ወደንገፀ ፣ ወይቤ ፡ምንት ፡፣ ዘየዐቢ ፡ ትዕግሥቶሙ ፣ ለክርስቲያን ፣ ላዕለ ፡ ዝንቱ ፡፣ ኩነኔ ፣ መኑ ፣ ውእቱ ፡ እምነ ፡ አረማዊያን ፡ ዘይክል ፡ ይትዓገሥ ፡ ላዕለ ፡ ዝንቱ ፣ ኩነኔ ፣፡ በእንተ ፤ አማልክት ፡=፡ ወሶቤሃ ፡ በጽሑ ፡ አናብስ ት ፡ ኅበ ፡ ቅዱስ ፡ ወሶበ ፡ ርእዩ ፡ ኪያሁ ፡ ቆሙ ፣ ድንጉፃን ፡ ወእምዝ ፡ ሰፍሐ ፡ አሐ ዱ ፡ እምኔሆሙ ፡ እዴሁ ፡ ኅበ ፡ ክሳዱ ፡ ለቅዱስ ፣ ወአኃዞ ፣ ወሶቤሃ ፡ መጠወ ፡ ነፍሶ ፡ ውስተ ፡ እዴሁ ፡ ለክርስቶስ ፡ አምላክ ፡ በፍሥሓ ፣ ወተፈጸመ ፡ ሎቱ ፡ ስእለቱ ። ወኢ ተክህሎሙ ፡ ለእሙንቱ ፡ አናብስት ፣ ይግሥሱ ፡ ምንተኒ ፣ እምሥጋሁ ፡ አላ ፡ ኮነ ፅቁበ ፡ ውስተ ፡ ሀገረ ፣ ሮሜ ፣ እስከ ፣ ዳግም ፡ ምጽአቱ ፡ ለአግዚእነ ፡ ክርስቶስ ፡፡
+lions approaching him, he cried out with a loud voice and said to the people: "Listen to my word, O people of the city of Rome who are gathered here, and know that it is not out of pride or boasting that I endure this torture; but my patience is for my Lord, my God, and my strength, Jesus Christ. Behold, my soul desires that these lions grind me like wheat, for my soul now desires to go to my Lord Christ." When the emperor heard his words, he was astonished and terrified. He said: "What is greater than the patience of the Christians in these tortures? Who, among the pagans, could endure this torture for the gods?" Then the lions arrived near the saint. When they saw him, they stopped terrified. Then one of them stretched its paw toward the neck of the saint and seized it. Immediately he surrendered his soul into the hand of Christ-God, with joy, and for him his request was fulfilled. It was not possible for these lions to touch anything of his body, for it (must) be kept in the city of Rome until the second coming of Our Lord Christ. Then they buried
+
+
+[p. 59] {#po.26.p59}
+ወእምዝ ፡ ቀበሩ ፣፡ ሥጋሁ ፡ ለቅዱስ ፣ አግናጥዮስ ፣ ው”ስተ ፣ መቃብር ፡ አፍኣ ፡ ሀገ ር፣ በስባሔ ፣ ወበዝማሬ ። ወፈጸመ ፡ ስምዖ ፡ በእንተ ፡ ስሙ ፣ ለእግዚአነ፣ ወአምላ ክነ ፡ ኢየሱስ ፡ ክርስቶስ ፡= ወጸሐፉ ፡ ገድሎ ፣ በቀዔት ፡ ለዘ ፡ ያነብባ ፡ ከመ ፡ ይዝ ክሩ ፡ ስሞ ፡ ወይግበሩ ፡ ሎቱ ፡ በዓለ ፡ ውስት ፣ ዙሉ ፡ መካን ፡ ወይተንብል ፡ ሎሙ፤ ውስተ ፣ ኩሉ ፡ ምንዳቤሆሙ ፡ እስመ ፡ ውእቱ ፡ ጸልአ ፡ ሕይወተ ፡ ዝንቱ ፡ ዓለም ፡
+the body of Saint Ignatius * in a tomb outside the city, with hymns and psalms. He finished his martyrdom for the name of Our Lord and our God Jesus Christ. They wrote his combat (gadl), a profit for those who will read it, so that they may remember his name, celebrate a feast for him in all places, and that he may intercede for them in all their afflictions, for he himself hated the life of this passing world and inherited eternal life.
+ኃላፊ ፣ ወወረሰ ፡ ሕይወተ ፣ ዘለዓለም ፡፡ ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ።፡ ወበዛቲ ፡ ዕለት ፡ ክዕበ ፡ አዕረፈ ፡ አብ ፡፣ ቅዱስ ፣ ፊሎጎስዮስ ፡ ሊቀ ፣ ጳጳሳት ፡ ዘሀ ገረ ፡ አንጾኪያ ፡= ዝንቱ ፡ ቅዱስ ፡ ኮነ ፡ አውሰበ ፡ ብእሲተ ፡ ወወለደ ፡ እምኔሃ ፡ አሐተ ፡ ወለተ ፡ ወእ ምዝ ፡ ሞተት ፡ ብእሲቱ ፡ ወለብሰ ፣ አልባሰ ፡ ምንኩስና ፡ ወተጋደለ ፡ ተጋድሎ ፡ ዓቢየ ፡ በምንኩስናሁ ።፡ ወበእንተ ፡ ትሩፋቲሁ ፡ ወሠናይታቲሁ ፡ ወአእምሮቱ ፡ ወተፀምዶቱ ፤ ወየውሃቱ ፡ ኀረዮ ፡ እግዚኣብሔር ፡ ከመ ፡ ይኩን ፡ ሊቀ ፡ ጳጳሳተ ፡ ላዕለ ፡ ሀገረ ፡ አ
+May his prayer and his blessing be with us. Amen. On this day also died the holy Father Philogonius (Filogosyos), patriarch of the city of Antioch. This saint had married a woman and from her he begot a daughter. Then his wife died. He donned the monastic habits and practiced great asceticism in the monastic life. Because of his virtues, his good works, his science, his devotion, and his gentleness, the Lord chose him, so that he
+
+
+[p. 60] {#po.26.p60}
+ንጾኪያ ። ወዕበ ፡ ተሰይመ ፡ ዓቀበ ፣ መርዔቶ ፡ ለክርስቶስ ፡ በሠናይ ፡ ተዓቅቦ ፣ እም ነ ፡ ተኩላት ፡ አሮሳዊያን ፡ ወእምነ ፣ ሕዝበ ፡ ሙቅዶንዮስ ፡ ወሰብልዮስ ፡ ዓላዊያን = ወሐይወ ፡ በሚመቱ ፡ ሊቀ ፡ ጵጵስና ፡ ከመ ፡ ሕይወቶሙ ፡ ለመላእክት ፡ ወኢያጥረየ ፡ ፪አልባሰ ፣ ወኢድርኅመ ፡ ብሩር =፡ ወዕበ ፣ ፈጸመ ፣ ገድሎ ፣ ወአሥመሮ ፣ ለእግዚኣ ብሔር ፡ ወአዕረፈ ፣ በሰላም ።፡ ወወደሶ ፡ ቅዱስ ፡ ዮሐንስ ፡ አፈ ፡ ወርቅ ፡ በውዳስያት ፡ ወበድርሳናት ፣ ወከሠተ ፡ ውስቴቱ ፡ ትሩፋቲሁ ፣ ወጽድቆ =፡
+became patriarch of the city of Antioch. When he was instituted, he guarded the flock of Christ, in a good guard, from the Arian wolves and the sects of Macedonius and Sabellius, heretics. In his patriarchal office he lived according to the life of the angels. He did not possess two garments nor a dirham of silver. When he had finished his combat and had pleased the Lord, he died in peace. Saint John Chrysostom praised him in panegyrics and in homilies where he revealed his virtues and his justice.
+ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ፡፡ ፲፪. ፲:6:1810. “ሀሠ119ል16 ጅ, በዛቲ ፡ ዕለት ፡፣ አዕረፈት ፡ አስቴር ፡ ጻድቅት ፡ ወለተ ፣ እኅወ ፣፡ መርዶኪዎስ ፡ወ ለተ ፡እኅወ ፡ ኤርምያስ ፡ ነቢይ ።
+May his prayer and his blessing be with us. Amen. II. - Revision or Vulgate (P, A). On this day died Esther the righteous, daughter of the brother of Mordecai (and) daughter of the brother of the prophet Jeremiah.
+ወሀሎ ፡ አይሁዳዊ ፡ ብእሲ ፡ ውስተ ፡ ሱሳ ፡ ሀገር ፣ ዘስሙ ፣ አሚናዳብ ፡ ወልደ ፥ ኢያፅመሩ ፡ ዘእምነገደ ፡ ብንያም ፡ ዘፄወዎ ፡ ናቡከደነጾር ፣ ንጉሠ ፡ ባቢሎን ፡ ወቦቱ ፡
+There was a Jew in the city of Susa, called Aminadab, son of Iya'marou, of the tribe of Benjamin, whom Nebuchadnezzar, king of Babylon, had taken
+
+
+[p. 61] {#po.26.p61}
+ወለት ፡ ሠናይት ፡ ዘስማ ፡ አስቴር ፡ ወሶበ ፡ ሞተ ፡፣ አቡሃ ፣ ተሐፅነት ፡ በቤተ ፣መርዶ ኪዎስ ፡ እኅወ ፡ አቡሃ ። ወአሐተ ፡ ዕለተ ፣ አስተዳለወ ፣፤ አርስጥርክሴስ ፡ ንጉሥ ፣ ወ አስተጋብአ ፣ ተድላ ፣ ብዙኃ ፣ ወጸውዓ ፣ ወአስተጋብአ ፣፥ መኳንንቲሁ ፣ ወርአሰ መኳንንቲሁ ፡ ሐማ ፡ ዓማሌቃዊ ፡ እስመ ፡ ውእቱ ፡ ክቡር ፣ እምዙሎሙ ፡ እሊአሁ ። ወሶበ ፡ ጸውዓ ፡ ለንግሥት ፡ አስጢን ፡፣ ውስተ ፡ ማእዱ ፣ ዓበየቶ ፣ ወሜጠቶ ፡ ሎቱ፣ ተሣልቆ ። ወስእንተዝ ፡ ነገር ፡ ተምዕዓ ፡ ላዕሌሃ ፡ ወሠዓራ ፡ እምንግሣ ። ወእምዝ ፡ አ ዘዘ ፣ ይኅርዩ ፣ ፲፻አንስተ ፣ እምኩሉ ፡ ሀገረ ፣ መንግሥቱ ፣ ዘጐልቆሙ ፡፣ ፻ወ፳ወኒአህ ጉር ። ወኃረዩ ፡ ሎቱ ፡ እምነ ፡ ፲፻ወእምነ ፡ ፻፲ወእምነ ፡ ፲ወ፻ወእምነ ፡ ቦዘትፈደፍድ ፡ በስን ፣ ወበላህይ ፤ ወበጥበብ ። ተረክበት ፣ ኦስቱር ፣ ወኪያ፣ ፡ ረሰያ ፣ ንግሥተ ፡ወአ ፍቀራ ፡ ፈድፋደ ፡፡
+captive. He had a beautiful daughter, called Esther. When her father died, she was raised in the house of Mordecai, brother of her father. One day, King Artaxerxes had prepared (a feast) and gathered a * numerous pomp. He invited and gathered his governors and the chief of his governors, Haman the Amalekite, for he was more illustrious than all his own. When he invited Queen Vashti to his table, she refused him and sent him back a mockery. Because of this fact, he became angry with her and deposed her from her royalty. Then he ordered that 1,000 women be chosen from all the provinces of his kingdom, the number of which was 127 provinces. Among 1,000, (then) among 110, (then) among 13, 3 (women) were chosen for him who excelled in beauty, charm, and wisdom. Esther was found. || He made her queen and he loved her extremely.
+ወመርይኪዮስሰ ፡ ነበረ ፡ እንዘ ፡ ይጸመድ ፡ ውስተ ፡ ዓፀደ ፡ ንጉሥ ፡ ወኢኮነ ፡ ይት ኤዘዝ ፡ ለሐማ ። ወአስቴርሰ ፡ ቦአት ፡ ኅበ ፡ ንጉሥ ፡ በ፲ወ፪አውራኅ ፡ በወርኃ ፡ ኅዳር ፡ በሳብዕ ፡ ዓም ፡ እመንግሥቱ ፡ ወረከበት ፡ ሞገሰ ፣ በቅድሜሁ ፡ ፈድፋደ ። ወመርዶኪ ዎስሰ ፡ ሶበ ፣ አእመረ ፡ ምሥጢሮሙ ፡ ለ፪ሳአካ፣ነ ፡ ንጉሥ ፡ እለ ፡ ይፈቅዱ ፡ ቀቲሎቶ ፥፡
+Mordecai continued to serve at the king's court and he did not obey Haman. Esther entered to the king in the twelfth month, (corresponding to) the month of Hedâr, in the seventh year of his reign, and she found full favor before him. Mordecai, when he had known the secret of two royal ministers who wanted to kill the king, entered (to the king and) exposed (the fact) to him secretly. When he
+
+
+[p. 62] {#po.26.p62}
+ለንጉሥ ፡ ወበዊኦ ፡ ነገሮ ፣ ጽሚተ ። ወሶበ ፡ ጠየቀ ፡ እከዮሙ ፡ አዘዘ ፡ ይቅትልዎሙ ፡ ወጸሐፈ ፡ ሎቱ ፡ ሠናይቶ ፡ ለመርዶኪዎስ ። ወሐማሰ ፡ ጥቀ ፡ ይጸልኦ ፡ ለመርይኪዎስ ፣ ወለኩሎሙ ፡ ሕዝበ ፡ እስራኤል ፣ እስመ ፣ አማሌቃዊ ፡ ውእቱ ፡ ወፈቀደ ፡ ከመ ፣ ያጥፍኦሙ ፡ ለኩሎሙ ፡፣ አይሁድ ፣ ወተሀውከት ፡ ዙላ ፡ ሀገር ። ወሶበ ፣ አእመረ ፡ መርዶኪዎስ ፡ ዘከመ ፡ ኮነ ፣ ሠጠጠ ፡ አልባሲሁ ፡ ወለብሰ ፡ ”ሠቀ ። ወጸውዓቶ ፡ አስቴር ፡ ለሕዕዋ ፡ ወነገረቶ ፣ ወለአከቶ ፣ ይስማፅ ፡ ነገረ ፡ መርይኪዎስ ፡፣ ወነገሮ ፣ መርዶኪዎስ ፡ ዘከመ ፡ ኮነ ። ወአግብአቶ ፡ አ ስቴር ፡ ለዝንቱ ፡ ዘመጽአ ፡ ኅቤሃ ፣ እምኅበ ፡ መርዶኪዎስ ፡ ወአዘዘቶ ፡ እንዘ ፡ት ብል ፡ ሑርአ ፣ ወአስተጋብኦሙአ ፡ ለአይሁድአ ፡ አለአ ፡ ውስተአ ፡ ሱሳአ ፡ ወበሎ ሙአ ፡ ጹሙአ ፡ ሊተ ፡ ወኢትብልሁአ ፡ አነኒአ ፡ ወአዋልድየአ ፡ ንጸውምአ ። ወ በአሐቲ ፡ ሌሊት ፡ አንፈጸ ፡ እግዚአብሔር ፡ ንዋመ ፡ እምኔሁ ፡ ለንጉሥ ፡፣ ወአምጽአ ፣፡ መጽሐፈ ፡ ነቢያት ፡ ከመ ፡ ያንብብ ፡ ወአንበቡ ፣ ወረከቡ ፣ አኩቴቶ።፣ ለመርዶኪዎስ ። ወአዘዞ ፡ ለሐማ ፡ ከመ ፡ ያክብርዎ ፣ ለመርዶኪዎስ ፡ ደቀ ፡ ንጉሥ ፡ ወያልብስዎ ፡ ሜ
+knew well their malice, (the king) ordered them to be killed and he recorded for himself the good deed of Mordecai. As for Haman, he hated Mordecai and all the people of Israel greatly, for he was an Amalekite. He wanted to annihilate all the Jews. The whole city was agitated. When Mordecai learned how (this) had happened, he tore his clothes and put on * a hair shirt. Esther called her eunuch, exposed (the facts) to him, and sent him to listen to Mordecai's account. Mordecai exposed to her how (this) had happened. Esther recalled this (eunuch) who came to her on behalf of Mordecai. She gave him orders, saying: "Go, gather the Jews who are in Susa and say to them: 'Fast for me and do not eat; I also and my (ladies-in-waiting) will fast.'" One night, the Lord chased sleep (away) from the king. He had the book of the Prophets brought so that it might be read. They read and found the gratitude to Mordecai. He ordered Haman that the king's children honor Mordecai, that they clothe him in purple, that they make him ride on a horse, and that a
+
+
+[p. 63] {#po.26.p63}
+ላተ ፡ ወያፅዕንዎ ፡ ዲበ ፡ ፈረስ ፣ ወይስብክ ፡ ሎቱ ፡፣ አዋዲ ፡ ከመ ፡ ውእቱ ፡ ዓርከ ፣ ንጉሥ ፡ ወበእንተዝ ፡ ቀንዓ ፡ ሐማ ፡ ወአስተዳለወ ፡ ሎቱ ፡ ዕፀ፣ በዘይሰቅሎ ። ወአምዝ ፡ አመ ፡ ሣልስት ፡ ዕለት ፡ ዕበ ፣ አኅለቀት ፡ ጸሎታ ፡፣ አሰሰለት ፡ አልባሰ ፡ ላህ ፣ ወለብሰት ፡ አልባሰ ፣ ክብራ ፡ ወበጽሐት ፡ ኀበ ፣ ንጉሥ ፣ ወሰገደት ፡፣ ቅድሜሁ ፣ ወቆመት ፡ አንጻሪሁ ። ወይቤላ ፡ ንጉሥ ፡ ምንተ ፡ ትፈቅዲ ፣ አስቴር ፡ ወትቤሎ ፡ እመ ሰ፣ ረከብኩ ፡ ሞገሰ ፣፡ በቅድመ ፣ ንጉሥ ፡ ትትወሀብ ፡ ለነፍስየ ፡ ስአለትየ ፡ እስመ ፡ ተሠየጥነ ፡ አነ ፡ ወሕዝብየ ፡ ወኮነ፣ ለሞት ፣ ወለተሐኾጐሎ። ወይቤ ፡ ንጉሥ ፡ መኑ ፡ው እቱ ፡ ዘተሀበለ ፣ ይግበር ፡ ዘንተ ፡ ግብረ ፡ ወትቤ ፡ አስቴር ፡ ጸላአ. ፡ ሐማ ።
+herald proclaim for him that he is the friend of the king. That is why Haman was jealous and prepared for (Mordecai) the wood on which he would hang him. Then, the third day, when she had finished her prayer, (Esther) left her mourning clothes and put on clothes of glory. She arrived before the king, prostrated herself before him, and stood facing him. The king said to her: "What do you desire, Esther?" She said to him: "If I have found favor before the king, may my request be granted to my soul, for I and my people have been sold and have been given to death and perdition." The king said: "Who is the one who dared to do this action?" Esther said: "The enemy Haman."
+ወሶበ ፡ ሰምዓ ፣፤ ሐማ ፡ ፈርሃ ፡ እምነ፣ ንጉሥ ። ወ"ሶበ-፣ ተግሕሠ ፣ ንጉሥ ፣፡ው ስተ ፡ ገነት ፡ ሰገደ ፡ ሐማ ፣ ለአስቴር ፣ ታሕተ ፡ እገሪሃ ፣ እንዘ ፡ ይትጋነይ ፡ ላቲ ። ወዕ በ ፡ ረከበ ፡ ንጉሥ ፡ ምስሌሃ ፡ ተምዓ ፡ መዓተ ፡ ወይቤሎ ፡ ብአሲትየኑ ፡ ትትዔገለኒ ፡ በቤትየ ። ወእምዝ ፡ አዘዘ ፡ ክመ ፡ ይስቅልዎ ፡ ዲበ ፡ ዕፅ ፡ ዘአስተዳለወ ፡ ለመርዶኪዎስ ፡ ወከመዝ ፡ ገብረ ፡ በጸሎታ ፡ለአስቴር ።
+When Haman learned (this), he feared the king. * When the king had retired into the gardens, Haman prostrated himself at the feet of Esther, begging her. When the king found (him) with her, he became angry in a (great) rage and said to him: "Will you do violence to my wife in my house?" Then he ordered that he be hanged on the wood he had prepared for Mordecai. That is how he acted upon the prayer of Esther.
+ይዕቀቦ ፡ እግዚአብሔር ፣ በጸሎታ ፡ ለንጉሥነ ፡ ኢያሱ ፡ ለዓለመ ፡ ዓለም ።
+May the Lord guard by his prayer our king Iyasu for centuries of centuries.
+
+
+[p. 64] {#po.26.p64}
+ወበዛቲ ፡ ዕለት ፡ ካዕበ ፣ አዕረፈ ፣ አባ ፡ ጳውሊ ፣ ዘተዋሥኦ ፡ ለሰይጣን ፡ በሀገረ ፡ ሳምር ፡ እንተ ፡ ትሠመይ ፡ ሰሎንቅያ ። ወሰብአ ፡ ዚአሃ ፣፡ አምዘመደ ፡ ሄሮድስ ፡ እኩያን ፡ እሙንቱ ፡ ወቦሙ፡ ፡ ሕግ፣ወ ይበውኡ ፡ ውስተ ፡ ቤተ ፡ ብለኔ ፡ እድ ፡ ወአንስት ፡ ኅቡረ ። ወበጽሐ ፣ ውስተ ፡ ይእ ቲ፣ ሀገር ፡ አባ ፣ ጳውሊ ፡ ወምስሌሁ ፡ ዲያቆን ፡ ወሬዛ ፡ ወረከቦሙ ፡ በዕለተ ፡ ረቡ ፅ ፡ እንዘ ፣፡ ይበውኡ ፡ ውስተ ፡ ቤተ ፡ ብለኔ ፡ አድ ፡ ወአንስት ፣ ኅቡረ ። ወሶበ ፡ ርእ የ ፡ አባ ፡ ጳውሊ ፡ አንከረ ፡ ጥቀ ፡ ወይቤሎ ፣፡ ለ8እምኔሆሙ ፡ ለምንት ፡፣ ትገብሩ ፡ ዘን ተ፡ ግብረ ፡ ሕሱመ ። ወይቤሎ ፡ በከመ ፡ ንትጋባእ ፡ ምስለ ፡ አንስቲያነ ፤ በውስተ
+On this day also died Abba Paul who argued with Satan in the city of Sâmer, which is called Saloneqyâ (Thessalonica). The people of (this city), of the family of Herod, were evil. They had the habit of entering the bathhouse, men and women together. Abba Paul arrived in this city. With him was a young deacon. He found them, on the day of Wednesday, as they were entering the bathhouse, men and women together. When Abba Paul saw (this), he was greatly astonished and said to one of them: "Why do you do this shameful thing?" He said to him: "Just as we unite with our wives in our bed, so we unite with them * in the bathhouse."
+ምስካቢነ ፡ ከማሁ ፡ ንትጋባእ ፡ ውስተ ፡ ቤተ ፣ ብለኔ ፡ ምስሌ”ሆን ። ወዕበ ፡ ኮነ ፣ ሌሊተ ፡ ወኖሙ ፡ ሰብእ ፡ ወአኃዘ ፡ አባ ፡ ጳውሊ ፡ ይጸለ. ፡ ኀበ ፡ እግ ዚአብሔር ፡ በሕማመ ፡ ልብ ፡ ከመ ፡ ይቅሥፎሙ- ፡ በመቅሠፍት ፡ ዐቢይ ። ወሶበ ፡ ፈጸ መ ፡ ጸሎቶ ፡ ርእየ ፡ ብእሴ ፡ ጸሊመ ፡ መጽአ ፡ ፅራቁ ፣፡ እምቤተ ፡ ብለኔ ፡ እንዘ ፡ ይጸው ር፣ሰይፈ ፡ በአምሳለ ፣ አሳት ። ወይቤሎ ፡ አባ ፡ ጳውሊ ፡ መኑ ፡ አንተ ፡ ወምንተ ፡ ተኃ ሥሥ ፡ ወይቤሎ ፡ ሰይጣን ፡ አነ ፣ ፈነወኒ ፡ እግዚአከ ፡ ዕበ ፣ ሰአልከ ፣ ኀቤሁ ። ወይ ቤሎ ፡ አባ ፡ ጳውሊ ፡ እሴአለከ ፡ ከመ ፡ ትንግረኒ ፣ ዙሎ ፡ አስሕቶተከ ፡ ወይቤሎ ፣፡ሰ
+When night came and the people slept, Abba Paul began to pray to the Lord in the suffering of his heart, so that he would punish them with a great punishment. When he had finished his prayer, he saw a black man. He was coming naked from the bathhouse, carrying a sword like fire. Abba Paul said to him: "Who are you and what are you looking for?" He said to him: "I am Satan. Your Lord sent me, when you prayed to him." Abba Paul said to him: "I will question you, so that you may expose to me all your seductions." Satan said to him: "Ask me
+
+
+[p. 65] {#po.26.p65}
+ይጣን ፡ ሰአለኒ ፡ ዘትፈቅድ ። ወይቤሎ ፡ አባ ፡ ጳውሊ ፡፣ እፎ ፡ ትረክብ ፡ ምክንያተ ፣ ከመ ፡ ትባእ ፡ ውስተ ፡ ሰብእ ፡ ዘእንበለ ፡ ፈቃደ ፡ እግዚአብሔር ፡ ወይቤሎ ፡ ሰይጣን ፡ እስመ ፡ አልብነ ፡ ሥልጣን ፡ ከመ ፡ ንባእ ፡ ውስተ ፡ ሰብእ ፡ እንዘ ፡ ሀሎ የሐውር 0፡በ ፍኖት ፡ ዘእግዚአብሔር ፡ ወለዘይጴጹውዕ ፡ ስመ ፡ አብ ፣ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ ወለአለ ፣ ይትሜጠዉ ፡ ሥጋሁ ፡ ወደሞ ፡ ለክርስቶስ ፣ በንጽሕ ። ወእምዝ ፡ ነገሮ ፡ አስ ሕቶቶ ፡ ወሶቤሃ ፡ ነጸረ ፡ አባ ፣፡ ጳውሊ ፡፣ ከመ ፣ ተወለጠ ፡ ኅብሩ ፡ ለሰይጣን ፡፣ ወኮነ ፡ ከመ ፡ ነበልባለ፣ አሳት ። ወደንገፀ ፡ አባ ፣ ጳውሊ ፣ ወአስተርአዮ ፣ መልአከ ፡ እግዚአ
+what you want." Abba Paul said to him: "How do you find occasion to enter into men without the will of the Lord?" Satan said to him: "Indeed, we have no power to enter into man, as long as he continues to go in the way of the Lord, in him who invokes the name of the Father, the Son, and the Holy Spirit, (nor) in those who receive the flesh and blood of Christ with purity." Then he told him his seductions. Immediately Abba Paul noticed that the color of Satan had changed and that he had become like the flame of fire. Abba Paul was terrified. The angel of the Lord appeared to him and strengthened him.
+ብሔር ፡ ወአጽንዖ ። ወበይእቲ ፡ ሌሊት ፡ ወረደ ፡ መቅሠፍተ ፡ እግዚአብሔር ፣ ወአጥፍኦሙ ፡ ለእለ ፡ ሀለዉ ፡ ውስተ ፡ ቤተ ፡ "ብለኔ ፣ ወኢተርፉ ፣ ዘእንበለ ፣ ፳ዕደው ፣ ወ፳አንስት ። ወይ ቤሎሙ ፡ አባ ፡ ጳውሊ ፡ ለምንት ፣ ትገብሩ ፡ ከመዝ ፡ ወይቤልዎ ፡ እስመ ፣ አበዊነ አዘዙነ ፡ ከመ ፡ ንባእ ፡ ውስተ ፡ ቤተ ፡ ብለኔ ፡ ወንግበር ፣ ፍሥሓ ፡ አሐተ ፡ ዕለተ ፡ለ ለወርጉ ። ወንበውእ ፡ ምስለ ፡ አንስቲያ፣ነ ፣ ወነዓጹ ፡ ፕኅተ ፣ ወናጠፍእ ፡ ማኅቶተ ፡ ወ ንሰክብ ፡ ምስለ ፡ ብእሲት ፡ ዘወድቀት ፡ እዴነ ፣ ላዕሌሃ ። ወይቤሎሙ ፡ አባ ፡ ጳውሊ ፡ አፎ ፡ ያኦምር ፡ ወለቶ ፣ ወእኅቶ ፡ እምኔክሙ ፡ ወይቤልዖ ፡ አልቦ ፡ አላ ፡ ኮነ0፣ከመ፣
+That night the punishment of the Lord descended. He annihilated those who were in the bathhouse. There remained only five men and five women. Abba Paul said to them: "Why do you do thus?" They said to him: "It is that our parents ordered us to enter the bathhouse, to practice joy one day each month. We enter with our wives, we close the door, we extinguish the lamp, and we lie with the woman upon whom our hand falls." Abba Paul said to them: "Is it that one
+
+
+[p. 66] {#po.26.p66}
+እንስሳ ፡ ዘአልቦ ፡ ልብ ። ወመሐሮሙ ፡ አባ ፡ ጳውሊ ፡ ሃይማኖተ ፡ ክርስቶስ ፡ ወአጥ መቆሙ ፡ በስመ ፡ አብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ፣ ወመጠዎሙ ፣ ምሥጢራተ ፣ ቅድሳት። ወሖረ ፡ ውስተ ፡ በዓቱ ፡ ወፈጸመ ፡ ተጋድሎቶ ፡ ወፈለሰ ፡ ኀበ ፡ እግዚአብሔ ር ፡ በርስዓን ፡ ጥሉል ። በረከቱ ፡ ቅድስት ፡ ተሀሉ ፡ ምስለ ፡ ፍቁሩ ፡ ዘመንፈስ ፡ ቅዱስ ፡ ለዓለመ ፡ ዓለም ፡=፡
+recognize his daughter and his sister among you?" They said to him: "No, but we are becoming like animals that have no reason." Abba Paul taught them the faith of Christ, baptized them in the name of the Father, and of the Son, and of the Holy Spirit, and gave them the holy mysteries. || went into his cave, finished his struggle, and migrated to the Lord in a green old age. May his holy blessing be with his beloved Za-Manfas-Qedous for ever and ever.
+ወበዛቲ፡፣ዕለት ፡ካዕበ ፡ኮነ፣ ዕረፍቶሙ ፡ ለጻድቃን ፡ዘከዲሕ ፡ በአሐቲ፣ዕለት ፡በከ መ ፡ ነገሮሙ ፡ መልአከ ፡ እግዚአብሔር ። እግዚአብሔር ፡ ይምሐሮ ፡ ለንጉሥነ ፡ ኢያሱ ፡ ለዓለመ ፣ ዓለም ። ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ ልደቱ ፡ ለአብ ፤ ቅዱስ ፣፤ ወብፁዕ ፡ ወክቡር ፡ አባ ፡ ተክ ለ፣ሃይማኖት።
+On this day also is the death of the righteous of Kadih, on the same day, as the angel of the Lord had told them. May the Lord have mercy on our king 'Iyâsou for ever and ever. On this day also is the birth of the holy, blessed, and glorious Father Abba Takla-Hâymânot.
+ጸሎቱ ፡ ወበረከቱ ፡ የሃሉ ፡ ምስለ ፡ ስአለ ፡ ጽዮን ፡ ለዓለመ ፡ ዓለም ።
+May his prayer and his blessing be with Se'ela-Seyon for ever and ever.
+
+
+[p. 67] {#po.26.p67}
+፲8 ፕሏክ548 1)«0፪ዝ8ከ5)›. ፪. -፦፦ ፲:60660810ዉቧ. ህጀዝቬቧዐ፤;ቨ6 ሲሴ, ጄ፪). "በስመ ፡ አብ ፡ ወወልድ ፣ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡፡
+THE 25TH OF TÂHSAŚ. | - Primitive Recension (A, T). * In the name of the Father, and of the Son, and of the Holy Spirit, one God.
+
+### THE 25TH OF TAHSAS READING
+አመ ፡ ፳፳ለታኅሣሥ ፡ ምንባብ ፡=፡ በዛቲ ፡ ዕለት ፡ አዕረፈ ፡ አብ ፡ አባ ፣ ዮሐንስ ፡ ከማ ። ዝ ዝንቱ ፡ ቅዱስ ፡ ኮነ ፡ እምሰብአ ፡ ሀገረ ፣ ስብራ ፡ መንጹ ፡ እምብሔረ ፡ ፃ ፡ አምደ በበ ፡ ግብጽ ። ወኮኑ ፡ አበዊሁ ፡ መሃይምናነ ፡ ወፈራህያነ ፡ አግዚኣብሔር ፡ ወኢኮነ ፡ ሎሙ ፡ ወልድ ፡ ዘእንበሌሁ ።፡፡ ወፈቀዱ ፡ ከመ ፣ ይትፈሥሑ ፡ ቦቱ ፡ በዝንቱ ፡ ዓለም ፡ ወአስተዋሰብዎ ፡ ለአሐቲ ፡ ወለት ፡፣ ድንግል ፡ዘእንበለ ፡ ፈቃዱ ፡ ወዕበ ፡ ቦአ ፡ ውስ ተ ፡ ጽርሑ ፡ ወቆመ ፡ ይጴሊ ፡ ወትረ ፡ ወአምዝ ፡ ቀርበ ፡ ኅበ ፡ ይእቲ ፡ ወለት ፣ ወይ ቤላ ፡ ኦእኅትየ ፣ አንቲ ፡ ታአምሪ ፡ ከመ ፡ ዝንቱ ፣ ዓለም ፡ የኃልፍ ፡ ወኩሉ ፡ ፍ ትወቱ ፡ ቦኑ ፣ ትፈቅዲኑ ፡ ንሰናአው ፡ በበይናቲነ ፣ ወንዕቀብ ፣ ሥጋነ ፣ በንጽሕ ፡፡
+On this day died the Father Abba John Kamâ. This saint was from the people of the city of Sebrâ-Mansou in the land of θᾶ in the north of Egypt. His parents were believers who feared the Lord. They had no (other) son but him. They wanted to rejoice through him in this world and they married him to a young virgin against his will. When he entered his chamber, he stood, prayed continuously, then approached the young girl and said to her: "O my sister, you yourself know that this world will pass away with all its lust. Do you want us to make an agreement
+
+
+[p. 68] {#po.26.p68}
+ወአውሥአቶ ፡ ወትቤሎ ፡ ኦእኅየ ፡ ሕያው ፡ ውእቱ ፡ አግዚኣብሔር ፡ እስመ ፡ ዛቲ ፣ ፍትወት ፡ ኢሐለይኩ ፡ ባቲ ፡ በውስተ ፡ ልብየ ፣ ግሙራ ፡ ወኢያፍቀርኩ ፡ ሰብሳበ፣ አላ ፡ አገበሩኒ ፣ አበዊየ ፣፡ ወአስተዋሰቡኒ ፣ ዘእንበለ ፣ ፈቃድየ ።= ወይቤ ፡ ናሁ ፡እ ግዚኣብሔር ፡ ፈጸመ ፡ ሊተ ፡ ስአለትየ ፣ ወተሰናአኦዉ ፡ ከመ ፡ ይዕቀቡ ፡ ድንግልናሆ ሙ ፡ በንጽሕ ፡ ወነበሩ ፡ ብዙኃ ፣ መዋዕለ ፡ እንዘ ፡ ይሰክቡ ፣ በበይናቲሆሙ ፡ በድ ንግልናሆሙ ፡ ወኮነ ፡ ሶበ ፡ ይሰክቡ ፡ ኅቡረ ፡ ይወርድ ፡ ላዕሌሆሙ ፡ መልአከ ፣ አግዚ ኣብሔር ፡ እምሰማይ ፡ ከመ ፡ ዖፍ ፡ ወይከድኖሙ ፡ በክነፊሁ ፡=፡ ወበእንተ ፡ ዕበየ ፡ ጽድ ቆሙ ፡ አብቁለ ፡ እግዚኣብሔር ፡ ውስተ ፡ ቤቶሙ ፡ ዓጸ”ደ ፡፣ ወይን ፡ ዘኢዘርአ ፡ መኑ ሂ ፡ ወልሀቀት ፣ ወዓርገት ፡ ወጸለለት ፡ ላዕለ ፤ ጽርሖሙ ፡ ወትኤምር ፡ ትእምርተ ፡ በእ ንተ ፡ ድንግልናሆሙ ፣፡ ወቅድስናሆሙ ፡ እስመ ፡ ዝንቱ ፡ ግብር ፡፣ ይትሌዓል ፡ ላዕለ ፡ ፍጥረተ ፡ እጓለ ፡ እመሕያው ፡ ከመ ፡ ይከውኑ ፡ ወራዙት ፡ ሶበ ፡ ይሰክቡ ፡ በበይናቲ ሆሙ ፡፣ ወኢይትነሣእኑ ፣ ውስቴቶሙ ፡፣ ሕሊና ፡ ፍትወት ፣ ግሙራ ፡ አስመ ፡ መኑ፣0፣
+between us and keep our bodies in purity?" She answered him and said to her: "O my brother, the Lord is living! Indeed, this lust, I have not thought of it at all in my heart. I did not love marriage, but my parents forced me and married me against my will." He said: "Behold, the Lord has answered my own request." They made an agreement to keep their virginity in purity. They continued for many days to sleep together in their virginity. And when they slept together, the angel of the Lord would descend from heaven upon them, like a bird, and cover them with his wings. Because of the greatness of their holiness, the Lord made a * vine grow in their house that no one had planted. It grew, climbed, and cast its shadow over their chamber; it signified the sign of their virginity and their holiness, for this fact rises above the nature of humans, that when young people sleep together, the thought of lust does not arise in them at all. Indeed, who is it that approaches fire and does not burn, unless heavenly help guards him?
+
+
+[p. 69] {#po.26.p69}
+ውእቱ ፡ ዘይቀርብ ፡ ኅበ ፡ እሳት ፡ ወኢይውዒ ፡ ወሶበ ፡ አኮ ፡ ረድኤት ፡ ሰማያዊት ፡ ዘኮነት ፡ ተዓቅቦሙ ።፡ ወአበዊሆሙሰ ፡ ሶበ ፣ ርአይዎሙ ፡ ነበሩ ፣ ነዊኃ ፡ መዋዕለ ፡ ወ ኢወለሩ ፡ ወልደ ፡ መሰሎሙ ፡ ከመ ፡ በእንተ ፡ ውርዙቶሙ ፡ ዘኢወለዱ ።፡
+As for their parents, when they saw that they remained for long days without begetting a child, it seemed to them that it was because of their youth that they were not begetting.
+ወእምድኅረዝ ፡ ይቤላ ፡ ቅዱስ ፡ ዮሐንስ ፡ ከማ ፣ ኦአኅትየ ፡ አንሰ ፡ አፈቱ ፡ ከመ ፣፡ እሖር ፤ ኅበ ፣ ገዳመ ፡ አስቄጥስ ፡ ወእመንኩስ ፣ ወኢይትከሀለኒ ፡ እግበር ፣ ወኢምን ተኒ ፡ ዘእንበለ ፡ ፈቃድኪ ፡=፡ ወአውሥአቶ ፣ ወትቤሎ ፡ ግበር ፡ ዘትፈቅድ ፡ ወእግዚኣብ ሔር ፡ ይረሲከ ፡ ፍቱሐ ፡ በእንቲአየ ፡፡ ወዕበ ፡ ትቤሎ ፡ ዘንተ ፡ ነሥኣ ፡ ወወሰዳ ፡ ው ስተ ፡ ቤተ ፡ ደናግል ፡ ወመንኩሰት ፡ ወኮነት ፡ እመ ፡ ምኔት ፡ ወገብረት ፡፣ ተኣምራተ ፡ ወመንክራተ ፡ ወአሥመረቶ ፡ ለእግዚኣብሔር ፡፡
+Then Saint John Kamâ said to her: "O my sister, for my part I desire to go to the desert of Scetis and become a monk, (but) it is not possible for me to do anything without your will." She answered him and said to him: "Do what you want and may the Lord make you free regarding me." When she had said this to him, he took her and led her to a convent of virgins. She became a nun, became superior of the monastery, performed miracles and wonders, and pleased the Lord.
+ወቅዱስሰ ፡ ዮሐንስ ፡ ከማ ፡ ሶበ ፡ ወፅአ ፡ አምሀገሩ ፡ ከመ ፡ ይሖር ፡ ኅበ ፡ ገዳመ፣ አስቄጥስ ፡ አስተርአየ ፡ ሎቱ ፡ ገጽ ፣ ብሩህ ፡ ቅድሜሁ ፡ ወተስአለ ፡ እምኔሁ ፡ በእን ተ ፡ ፀአቱ ፡ ወይቤሎ ፤ ቅዱስ ፣ ዮሐንስ ፡ ከማ ፡ ለእመ ፡ ፈቀደ ፡ እግዚኣብሔር ፡ አ ንሰ ፡ አፈቅድ ፡ ከመ ፡ አመንኩስ ። ወአምከሮ ፣ ወይቤሎ ፣ ውእቱ ፡ ገጽ ፡ ብሩህ፣
+As for Saint John Kamâ, when he left his city to go to the desert of Scetis, a luminous person appeared to him before him, (who) questioned him about his departure. Saint John Kamâ said to him: "If the Lord wills, I myself want to become a monk." This luminous person advised him and
+
+
+[p. 70] {#po.26.p70}
+ሖር ፡ ኅበ ፡ "በዐቱ ፡ ለቅዱስ ፡ አባ ፡ ደሮዲ ፡ ዘበደብረ ፡ ቅዱስ ፡ አባ ፡ መቃርስ ፡ ወን በር ፡ ኀበ ፡ አረጋዊ ፡ አባ ፡ ደሮዲ ፡ ወውእቱ ፣ ያመንኩስከ ፡ ወይምሀርከ ፡ ፍኖተ ፡ ምንኩስና ።፡ ወኮነ ፡ ውእቱ ፡ ገጽ ፣ ብሩህ ፡ ያንሶሱ ፡ ምስለ ፣ ቅዱስ ፡ ዮሐንስ ፡ ከማ፣ ወይናዝዞ ፡ እስከ ፡ አመ ፡ አብጽሖ ፡ ኅበ ፡ በዐቱ ፡ ለቅዱስ ፡ አባ ፡ ደሮዲ ።፡ ወሶቤሃ ፡ ቦአ ፡ ቅዱስ ፡ አባ ፡ ዮሐንስ ፡ ከማ ፡ ኅበ ፡ ቅዱስ ፡ አባ ፣ ደሮዲ ፣ ወተወክፎ ፡ ኅቤሁ ፡ ወአልበሶ ፡ አልባሰ ፡ ምንኩስና ፡ ወተምህረ ፡ እምኔሁ ፡፣ ሕገ ፡ ምንኩስና ፣ ወፍኖተ ፡ ጽድቅ ፡ እስከ ፡ አመ ፡ አዕረፈ ፡ አባ ፡ ደሮዲ ።፡
+said to him: "Go towards * the cave of Saint Abba Darodi, which is at the convent of Saint Abba Macarius, and stay near the old man Abba Darodi. May he make you a monk and teach you the way of monasticism." This luminous person walked with Saint John Kamâ: he consoled him until he had brought him to the cave of Saint Abba Darodi. Immediately Saint Abba John Kamâ entered to Saint Abba Darodi, (who) received him near him and clothed him in monastic habits. He learned from him the monastic law and the way of justice, until Abba Darodi died.
+ወሶበ ፡ አዕረፈ ፡ አባ ፡ ደሮዲ ፣ አዘዞ ፡ መልአከ ፡ እግዚኣብሔር ፡ ለቅዱስ ፡ ዮሐ ንስ ፡ ከማ ፡ ከመ ፡ ይሖር ፡ ኅበ ፡ ምዕራበ ፡ ደብረ ፡ ቅዱስ ፣ አባ ፡ ዮሐንስ ፡ ሐጺር ፣ ወይሕንጽ ፡ ሎቱ ፡ በህየ ፣ ማኅደረ ፡=፡ ወዕበ ፡ ሖረ ፡ ኀበ ፡ ህየ ፡ ተጋብኡ ፡ ኅቤሁ ፡ ፻፻አኃው ፤ ወአልበሶሙ ፡ አልባሰ ፡ ምንኩስና ። ወሐነጸ ፡ ቤተ ፡ ክርስቲያነ ፡ ወማኅ ፈደ ፡ ወመሀሮሙ ፡ ጸሎታተ ፤ ወዝማሬ ፡ ወቅኔ ፣ ወውዳሴ ፡ እግዝእትነ ፡ ማርያም ፡፡
+When Abba Darodi was dead, the angel of the Lord ordered Saint John Kamâ to go to the west of the convent of Saint Abba John the Little and to build there a dwelling for himself. When he had gone there, three hundred brothers gathered near him and he clothed them in the monastic habit. He built a church and a tower. He taught them the prayers, the hymns, the chants, and the praises of Our Lady Mary.
+
+
+[p. 71] {#po.26.p71}
+ወበአሐቲ ፡ ሌሊት ፡ እንዘ ፡ እሙንቱ ፡ ይቀውሙ ፡ ለጸሎት ፡፣ ጊዜ ፣ መንፈቀ፣ ሌሊት ፡ በውዳሴ ፡ እግዝእትነ ፣ ማርያም ፡ አስተርአየ ፡ ሎቱ ፡ ቅዱስ ፡፤ አትናስዮስ ፡ ሐዋርያዊ ፡ ወከሠተ ፡ ሎቱ ፡ ምሥጢራተ ፣ ብዙኃተ ።፡ ወእምይእቲ ፡ ዕለት ፡ ኮኑ፣ ይዝክሩ ፡ ስሞ ፡ ለቅዱስ ፣ አትናስዮስ ፡ በተፍጻሜተ ፡ ጸሎተ ፡ የደቂቅ ፡፡ ወአሐተ ፡ ጊዜ ፡ አስተርአየት ፡ ሎቱ ፡ እግዝእትነ ፡ ቅድስት ፣ ድንግል ፡ ማርያም ፡ ወትቤሎ ፡ እስመ ፡ ዝንቱ ፡ መካን ፡ ውእቱ ፡ ቤትየ ፡ እስከ ፡ ለዓለም ፡ ወአንሰ ፣ ሀለ ውኩ ፡ ም"ስለ ፡ ውሉድከ ፡ በከመ ፡ ሀሎኩ ፡ ምስሌከ ፡ ወይሰመይ ፡ ስምየ ፡ በላዕለ ፡ ዝንቱ ፡ ደብር ።፡፡ እስመ ፡ ቤተ ፡ ክርስቲያን ፡ ኮነት ፡ በስማ ፡ ለአግዝእትነ ፡ ቅድስት ፡
+One night, while they were standing for prayer, at the hour of the middle of the night, during the praises of Our Lady Mary, Saint Athanasius the Apostolic appeared to him and revealed to him many mysteries. From that day on they made a memorial of the name of Saint Athanasius at the end of the prayer of the Three Children. Once Our Lady the Holy Virgin Mary appeared to him and said to him: "This place is forever my house and I will be, myself, * with your sons, as I have been with you. My name will be invoked in this convent." Indeed, the church was (placed) under the patronage of Our Lady the Holy Virgin Mary.
+ድንግል ፡ ማርያም ፡= ወኮነ ፡ በላዕላይ ፡ ግብጽ ፡ አድባራት ፣ ወውስቴቶሙ ፡፣ መነኮሳት ፡ ፈተዉ ፡ ከ መ ፡ ይኩኑ ፡ ታሕተ ፡ ጽላሎተ ፡ ጸሎቱ ፡ ለቅዱስ ፡ አባ ፡ ዮሐንስ ፣ ከማ ።፡ ወፈነዉ፣፣ ኀቤሁ ፡ እንዘ ፡ ይስእልዎ ፡ ከመ ፡ ይብጻሕ ፡ ኀቤሆሙ ፡ ወያጽንዖሙ ፣ ውስተ ፣ ሥር
+There were convents in Upper Egypt and in these (convents) the monks desired to place themselves under the shadow of the prayer of Saint Abba John Kamâ. They sent to him asking that he come to them and that he
+
+
+[p. 72] {#po.26.p72}
+ዓቱ ፡ ወሕገ ፡ ዚአሁ ፡=፡ ወቅዱስሰ ፡ አባ ፣ ዮሐንስ ፡ ከማ ፣ ጸውዖ ፡ ለ8አኅው ፡ እምአ ርድእቱ ፡ ዘስሙ ፡ ሲኖዳ ፡ ወይቤሎ ፡ ቁም ፡ ላዕለ ፡ አኃው ፡ እስከ ፡ አመ ፡ አገብእ ፡፡ ወውእቱ ፡ እኅው ፡ ቅዱስ ፡ ዘስሙ ፡ ሲኖዳ ፡ ቆመ ፡ በእገሪሁ ፣ ወኢነበረ ፡ ወኢሰከበ ፡ ዲበ ፡ ምድር ፡ እስከ ፡ ጊዜ ፡ ገብአ ፡ ቅዱስ ፡ አባ ፡ ዮሐንስ ፤ ከማ ፡ አምላዕላይ ፡ ግብ ጽ =፡ ወረከቦ ፡ እንዘ ፡ ይቀውም ፡ በእገሪሁ ፡ ወሐበጡ ፡ ወኮኑ ፡ ዕፄ ፡ ይወፅአ ፡ እምኔ ሆሙ ፡፣ ወይቤሎ ፡ ቅዱስ ፡ አባ ፡ ዮሐንስ ፡ ከማ ፡ ኦወልድየ ፡ ሲኖዳ ፣ ለምንት ፡ ገበ ርከ ፡ ዘንተ ፡ አንሰ ፡ አዘዝኩከ ፡ ከመ ፡ ትቁም ፡ ላዕለ ፡ አኃው ፡ ሀየንተ ፡ ዚአየ ፡ ወተ ሐውጽ ፡ ምግባሮሙ ፡ ወተአዝዞሙ ። ወሰገደ ፡ ሎቱ ፡ ታሕተ ፡ እገሪሁ ፡እንዘ ፡ ይብ ል፡ስረይ ፡ሊተ ፡ ኦአቡየ ፡ አስመ ፡ አነ ፡ ኢገበርኩ ፣ ምንተነ ፡ እምሠናየት =
+strengthen them in his rule and in his own law. Saint Abba John Kamâ called a brother from among his disciples named Sinodâ and said to him: "Stand over the brothers, until I return." This holy brother named Sinodâ stood on his feet and did not sit or lie on the ground, until the moment when Saint Abba John Kamâ returned from Upper Egypt. He found him standing on his feet. They were swollen and worms were coming out of them. Saint Abba John Kamâ said to him: "O my son Sinodâ, why did you do this? For my part, I had ordered you to stand over the brothers in my place, to provide for their affairs, and to direct them." He prostrated himself at his feet, saying: "Forgive me, O my Father, for I have done nothing good."
+ወእምድኅረዝ ፡ ቀርበ ፣፡ መዋዕሊሁ ፡ ለቅዱስ ፡ አባ ፡ ዮሐንስ ፡ ከማ ፡ ከመ ፡ ያዕር ፍ ፡ እምጻማ ፣ ዝንቱ ፡ ዓለም ፡ ኃላፊ ፡ ወይፍልስ ፡ ኅበ ፡ ማኅደር ፡ ዘለዓለም ።፡ ወሐ መ ፡ ንስቲተ ፡ ወመጠወ ፡ ነፍሶ ፡ ውስተ ፡ እዴሁ ፡ ለእግዚኣብሔር ።
+Then approached for Saint Abba John Kamâ the time to rest from the toil of this passing world and to migrate to the eternal dwelling. He was a little sick and he committed his soul into the hand of the Lord.
+
+
+[p. 73] {#po.26.p73}
+"ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ፡፡ ፲፲. ፲86፡1810ኳ. ዐኳ “ሀ19819 ጅ, .ሷ). ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ አዕረፉ ፡ ጸመቃብያን ፣ በመንግሥተ ፣ ሜዶናውያን ፡ ወ ሞአባውያን ። ወሀሎ ፡ 8ንጉሥ ፡ ዘስሙ ፡፣ ጽሩፃይዳን ፡ ፈታዊሃ ፡ ለእኪት ፣ ወይትሜካህ ፡ በብዝ ኃ ፡ አፍራሲሁ ፡ ወበጽንዓ ፡ ሐራ ፡ ዘታሕተ ፡ እዴሁ ። ወቦ ፡ ብዙኅ ፡ አማልክት ፡ አለ፣ ይሰግድ ፡ ወያመልክ ፡ ሎሙ ፡ ዛበአምሳለ ፡ ተባዕት ፣ ወ፳በአምሳለ ፡ አንስት ፡ ወይሠ ውፅ ፡ ሎሙ ፡ ነግሀ ፡ ወሰርከ ፡ ወለሰብእኒ ፡ ያጌብሮሙ ፡ ከመ ፡ ይዑ ።
+* May his prayer and his blessing be with us. Amen. II. - Revision or Vulgate (P, A). On this day also died the five Maccabees in the kingdom of the Midianites and the Moabites. There was a king called Seroudâyedän who had the desire for evil. He boasted of the multitude of his horses and the strength of the armies that were under his hand. He had many gods that he worshipped and to whom he rendered cult: fifty in the form of males and twenty in the form of females. He sacrificed to them morning and evening and he also forced men to sacrifice (to them).
+ወሀሎ ፡ 8ብአሲ ፡ እምሕዝበ ፣ ብንያም ፡ ዘስሙ ፡ መቃብዮስ ጦ። ወቦቱ ፡ ፻ደቂቅ ፤ ሠናያን ፡ ወጽኑዓን ፡ ወቦ ፡ እምኔሆሙ ፡፣ ዘየሐንቅ ፡ ድበ ፣፡ ወይቀትሎ ፡ ከመ ፡ እንተ፣ ዶርሆ ፡ ወቦ ፡ እምኔሆሙ ፡ ዘይቀትል ፡ አንበሳ ፡ በአሐቲ ፣ ዝብጠት ። ወከመዝ ፡ ስሞ ሙ ፡ ሴላ ፡ አብያ ፡ ወፊንቶስ ። ወቦሙ ፡ ስን ፡ ወሞገስ ፡ ወእምዙሉሰ፣ ትዔይስ ፡ ስነ ፡ ልቦሙ ፡ በእንተ ፡ ዘአምለክዎ ፣፡ ለእግዚአብሔር ፡ ወኢፈርህዎ ፡ ለሞት ።
+There was a man of the tribe of Benjamin called Maccabee. He had three children, beautiful and strong. Among them one had strangled a bear and killed it as if it were a rooster; another of them had killed a lion with a single blow. Here are their names: Sêlà, 'Abyâ, and Fintos. They had beauty and grace, but the beauty of their heart exceeded everything, because they rendered divine worship to the Lord and did not fear death.
+
+
+[p. 74] {#po.26.p74}
+ወይቤሎሙ ፡ ንጉሥ ፡ አንትሙ ፣ ዓላውያን ፡ እፎኑ ፣ ኢትሠውዑ ፡ ወኢትሰግዱ፣ ለአማልክትየ ፡ ወአውሥአዎዖ ፡ ከመ ፡ ዘበ8አፍ ፡ ወይቤልዎ ፡ ንሕነሰ ፡ ኢንሠውዕ ፡ ለአ ማልክቲከ ፡ ርኩሳን ፣ አላ ፡ ንሰግድ ፡፣ ለእግዚአብሔር ፡ አምላክነ ፡ እስመ ፡ ውእቱ ፡ "ፈጠረከ ፡ ወገብረከ ፡ ወአንገሠከ ፡ ዲበ ፡ ዙሉ ፡ ተግባሩ ፡ ከመ ፡ ትርአይ ፡ በጽድቅ ፣ ወበርትዕ ፡ ሕዝበከ ። አኮኑ ፡ ሶበ ፣ ይብለከ ፡ ኅድግ ፣ አንተሂ ፡ ተኃድግ ፡ ወይሁብ ፤ ለባዕድ ፡ ክብረከ ፡ እስመ ፡ ተዓውሮ ፡ ተዓወርከ ፡ ላዕለ ፡ ምግብ ፡ ዘአመገበከ ፡ እስመ ፡ ግብተ ፡ ይመጽእ ፡ ከመ ፡ ሠራቂ ፡ ላዕሌከ ፡ ሞት ። ወበትንሣኤ ፡ ይከውን ፡ ፍትሕ ፡ አ መ ፡ ይትሐተት ፡ ምግባራተ ፡ ሰብእ ፡ ወለነገሥተ ፡ ምድርኒ ፡ አልቦ ፡ ዘያከብሮሙ ፡እ ስመ ፡ ባዕል ፡ ወነዳይ ፡ ይቀውሙ ፡ ኅቡረ ፡ ውስተ ፡ ኩነኔ ፡ ወፍትሕ ፡ እስመ ፡ መኩን ን ፡ ርቱፅ ፡ ወኩነኔ ፡ ድልው ፡ ሀሎ ። ወትርዕድ ፡ ነፍስ ፡ ወመጻሕፍት ፡ ይትከሠቱ ፡ወ ምግባራተ ፡ ሰብእ ፡ ያስተርእዩ ፡ ወአልቦ ፡ ዘይትከደን ፡ ወይትከበት ፡ አመ ፡ ትንሣኤ ፡ ምውታን ። እስመ ፣ ምድርኒ ፡ ታገብእ ፡ ማኅፀንታ ፣ ዘተሠይመ ፡ ላዕሌሃ ፡ በከመ ፡ ብ እሷት ፡ ኢትክል ፡ ዓወ ፡ ማኅፀና ፡ ዕበ ፣፡ በጽሐት ፡ ለወሊድ ፡ ወአልጸቀ ፡ ለወእ፣ ዘውስተ ፡ ከርሣ ። ወሚመ ፡ ይክሉ ፡ ደመናት ፡ ይዕቀሩሩ ፡ ማየ ፡ ኅበ ፡ አዘዞሙ ፡ እግ ቪኦሙ ፡ ዘእንበለ ፣ ያውርዱ ። ወለነፍሳተ ፣ ኃጥኣን ፣ ያዓጽዎሙ ፡ ውስተ ፡ ጽልመት ፡
+The king said to them: "You are impious. Why do you not sacrifice to my gods and do not worship them?" They answered him as with one mouth and said to him: "As for us, we will not sacrifice to your impure gods, but we worship the Lord, our God, for He Himself * created you, made you, and established you king over all His work, so that you might pasture your people in justice and righteousness. Is it that, when He says to you: "Leave (this world)", you will not leave (it) too? He will give your glory to another, for you have blinded yourself with blindness regarding the charge with which He had charged you. Indeed, suddenly it will come upon you, like a thief, death. At the resurrection the judgment will take place, when the actions of men and of the kings of the earth will also be scrutinized. No one will honor them, for the rich and the poor will appear together for judgment and justice, for the judge is righteous and the punishment is found prepared. The soul will tremble, the books will be opened, the actions of men will appear, and nothing will be covered or hidden at the resurrection of the dead. And the earth also will restore the deposit that was entrusted to it, just as a woman cannot close her womb, when (the time) has arrived to give birth and is about to come out that
+
+
+[p. 75] {#po.26.p75}
+ኀበ ፣ ብካይ ፡ ወሐቅየ ፡ ስነን ፡ ሀሎ ። ወለነፍሳተ ፡ ጸድቃንሰ ፣፡ ይወስድዎሙ ፡ ውስተ ፡ አብያተ ፡ ብርሃናት ፡ ኅበ ፡ ሀሎ ፡ ፍግዓ ፣ ወተድላ ፡ ዘኢየኃልቅ ። ወበትንሣኤ ፡ ምው ታንሰ ፡ ይትጋብኡ ፡ እምፀነፋሳት ፣ ያመጽእ ፡ ማይ ፡ ጠለ ፡ ወፀሐይ ፡ ሙቀተ ፡ ወመሬ ት ፡ ሐመደ ፡ ወነፋ”ስ ፡ እስትንፋሰ ፣ ወእግዚአብሔር ፡ ያመጽእ ፡ እምኅበ ፡ ማኅደሩ ፣ መንፈሰ ። ወሶበ ፡ ጸውዓ ፡ በ8ቃል ፡ ይትጋብኡ ፣ ኩሎሙ ፣ ወይከውን ፡ ትንሣኤ ። መጠነ ፡ ጳአዴሃ ፡ ለአሐቲ ፡ ኅጠት ፡ ይሁብ ፡ እግዚአብሔር ፡ ሕያው ፡ መንፈሰ ፡ ሕ ይወት ፡ በከመ ፡ ፈቀደ ፡ ወትወዲ ፡ ሥርወ ፡ ውስተ ፡ ምድር ፡ ወትሰርፅ ፡ ወታወፅእ ፡ ቄጽለ ፡ በመልዕልተ ፡ ምድር ። ርኢኬ ፡ ይእቲኒ ፡ ለእመ፣ ኢሞተት ፡ ከመ ፡ ኢትክ ል፡ሐይወ፣ምንተኒ።
+which is in her belly. Can the clouds hold back the water without making it descend where their Master has ordered them? |! will have the souls of the sinners locked in darkness, where there is weeping and gnashing of teeth. As for the souls of the righteous, they will be led into the dwellings of light, where there are delights and happiness that will not end. At the resurrection the dead will gather (coming) from the four winds. (As) water brings the dew, the sun the heat, the humus the dust, * the wind the breath, the Lord will bring the Spirit from His dwelling. When He calls (them) with a single word, they will all gather and it will be the resurrection. To a grain the living Lord, Spirit of life, gives, as He wills, the measure of seven hands; it takes root in the earth, grows, and produces foliage above the earth. See then, if this one were not dead, it could not live again at all."
+ወሶበ ፡ ሰምዓ ፡ ንጉሥ ፡ ዘንተ ፡ አዘዘ ፣ ከመ፣ ይውርውዎሙ ፡ ውስተ ፣ እቶነ፤ እሳት ፡ ዘይነድድ ፡ ወገብሩ ፡ ሐራ ፤ በከመ ፡ አዘዞሙ ፣ እግዚኦሙ ፡ ንጉሥ ። ወበዊኦ ሙ ፡ ውስቴቱ ፡ አሉ ፡ ቡሩካን ፣ ወቅዱሳን ፡ መጠዉ ፡ ነፍሶሙ ፡ ውስተ ፡ እደ ፡ እግ ዚአብሔር ፡ አምላኮሙ ፡ ወተቀበልዎሙ ፡ መላእክት ፡ በፍሥሓ ፣ ወበኃሜት ፣ ወወሰ
+When the king heard this, he ordered that they be thrown into a furnace of burning fire. The soldiers did as their master, the king, had ordered them. Having entered into (the furnace), these blessed and holy ones committed their soul into the hand of the Lord, their God. The angels came to meet them
+
+
+[p. 76] {#po.26.p76}
+ዱ ፡ ነፍሳቲሆሙ ፡ ውስተ ፡ ሕፅነ ፡ አብርሃም ፡ ይስሐቅ ፡ ወያዕቆብ ፡ ውስተ ፡ ገነተ ፣ ትፍሥሕት ። ወካዕበ ፡ አዘዘ፣ ከመ፣ ይውርዉ ፣ ሥጋሆመ-፡ውስተ፡፣ ባሕር ። ወወረውዎሙ፣ወ አልቦ ፡ ዘውሕጦሙ ፡ ባሕር ፡ አስመ ፡ መንፈሰ ፣ እግዚአብሔር ፡ ሀሎ ፡ ምስሌሆሙ ። ወካዕበ ፡ አዘዘ ፣ ከመ ፡ ይግድፉ ፡ ሥጋሆሙ ፡ ለአራዊት ፡ ወለአፅዋፍ ፡፣ ወገደፍዎሙ ፡ ወኢለከፍዎሙ ፡ አራዊት ፡ ወአፅዋፍ ። ወነበሩ ፡ ፲ወ፪መዋዕለ ፡ እንዘ ፡ ይጹልልዎሙ ፡ ወይከድንዎሙ ፡ በአክናፊሆሙ ፡ አንስርት ፡ ወአዕፅዋፍ ፣ ወበረቀ ፡ ሥ”ጋሆሙ ፡ ከመ ፡
+in joy and in gladness and led their souls into the bosom of Abraham, Isaac, and Jacob, in the paradise of happiness. Furthermore, (the king) ordered their bodies to be thrown into the sea. They were thrown and the sea did not devour any of them, for the Spirit of the Lord was with them. Again, he ordered their bodies to be thrown to the beasts and the birds. They were thrown and the beasts and the birds did not touch them. The eagles and the birds remained fourteen days shading them and covering them with their wings. * Their bodies shone like the rays of the sun and like tabernacles of light.
+እግረ ፡ ፀሐይ ፡ ወከመ ፣ ደብተራ ፡ ብርሃን ። ጸሎቶሙ ፡፣ ወበረከቶሙ ፡ የሀሉ ፡ ምስለ ፡ ፍቁሮሙ ፡ ዘመንፈስ ፡ ቅዱስ ፡ ለዓለ መ፥፣ዓለም።
+May their prayer and their blessing be with their beloved Za-Manfas-Qedous for ever and ever.
+ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ ኮነ ፡ ተዝካሮሙ ፡፣ ለኒቆላዎስ ፣ መኩንን ፣ ወለብአሲቱ ፡ መሃይምንት ፡ ወዳንኤል ፡ መነኮስ ፡ ንዑስ ፡ መስተጋድል ። በረከቶሙ ፡ የሀሉ ፡ ምስሌነ ፡ ለዓለመ ፡ ዓለም ።
+On this day also is the commemoration of Nicholas, judge, of his wife, a believer, and of Daniel the Younger, monk, ascetic. May their blessing be with us for ever and ever.
+
+
+[p. 77] {#po.26.p77}
+
+### THE 26TH OF TÂHSAŚ
+፲5 ፲ፕ4ዝ845 ዩር538ክ5)- ፲፲666፲0810ጪ ጅ፲1፲0111:6 ሻ). በስመ ፡ አብ ፡ ወወልድ ፣ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ =፡
+Primitive Recension (A, T). In the name of the Father, and of the Son, and of the Holy Spirit, one God.
+
+### THE 26TH OF TÂHSAŚ
+አመ ፡ ፳8፪ለታኅሣሥ ፡=፡ በዛቲ ፡ ዕለት ፡ ኮነት ፣ ቅድስት ፣ ወንጽሕት ፡ አንስጣስያ ፡ ሰማዕት ፡፡ ዛቲ ፡ መስተጋድልት ፡ ኮነት ፡ እምሰብአ ፡ ሀገረ ፡ ሮሜ ፣ ወኮነ ፡ አቡሃ ፡ ያመልክ ፡ ጣዖታተ ፡ ወእማ ፡ ክርስቲያናዊት ።፡ ወሶበ ፣ ወለደታ ፣ አጥመቀታ ፡ ጥምቀተ ፡ ክርስ ትና ፡ በኅቡእ ፡ ዘእንበለ ፡ ያእምር ፡ አቡሃ ፡ ወኢየኅድጋ ፡ ታጥምቃ ወሐፀነታ ፡ በሠ ናይ ፡ ወኮነት ፡ ታጠብባ ፡ ኩሎ ፡ አሚረ ፡ ለለ ፡ ዕለት ፡ ወለለ ፡ ሌሊት ፡ በትምህርታ ተ ፡ ክርስቲያን ፡ እስከ ፡ አጽንዓታ ፡ ውስተ ፣ ሃይማኖት ፡ ርትዕት ፡ ጽንዕት ፡ ዘኢይክ ል ፡መኑሂ ፡ ከመ ፡ ይወልጥ ፡ ግፅዛ =፡
+On this day is the holy and pure Anastasia, martyr. This ascetic was from the people of the city of Rome. Her father worshipped idols and her mother (was) Christian. When she had given birth to her, she baptized her secretly with Christian baptism, without her father knowing (it), (for) he would not have allowed her to baptize her. She raised her in good. She initiated her throughout the day, every day and every night, into the doctrines of the Christians, to the point of strengthening her in a right (and) firm faith whose nature no one could change
+ወሶበ ፡ ልህቀት ፡ አስተዋሰባ ፡ አቡሃ ፣ ለ፳ብእሲ ፡ ከሓዲ ፡ ዘከማሁ ፡ ወይእቲ ፡
+When she had grown up, her father married her to an infidel man like
+
+
+[p. 78] {#po.26.p78}
+ጸልአቶ ፡ ፈድፋደ ፡ ወኢፈቀደት ፡ ትትራከብ ፡ ምስሌሁ ፡ ግሙራ ፡፡ ወኮነት ፡ ትትመከ ነይ ፣ ላዕሌሁ ፡ ዙሎ ፡ ጊዜ ፣ በደዊ ፣ ወበምክንያተ ፡ አንስት ፣ ዘይከልኣ ፡ ለተራክቦ ፡ ምስለ ፡ ምታ ወኮነት ፡ ወትረ ፡ ትለብስ ፣ አልባሳተ ፣ ርሱሓተ ፣ ወኅሠራተ ፡ ወት ፈቅድ ፡ በዝክቱ ፡ ከመ ፡ ይጽላእ ፡ አርአያሃ ፣ ወኢይትራከብ ፡ ምስሌሃ ፡ ዮጊ ፡ ይትፈ ለጥ ፡ እምኔሃ 5፡ ወኮነት ፡ ወትረ ፡ ተኃሥሥ ፣ ወታስተበቀዕፅ ፣ ኅበ ፡ እግዚእነ ፣ ክርስ ቶስ ፡ ከመ ፡ ይፍልጣ ፡ እምኔሁ ፣ ፍጡነ ፡፡ ወኮነ ፡ ሶበ ፣ ይወፅእ ፡ ምታ ፡፣ እምቤቱ ፡ ከመ ፡ ይሖር ፡ ኀበ ፡ ግብሩ ፡ ትወፅእ ፡ "ይእቲ ክዕፅበ ፣ ወትሔውጾሙ ፣ ለሙቁሓን ፡ እምሰብአ ፡ ሃይማኖት ፡ ርትዕት ፡ ወትትለአክሙ ፡ ወትሁቦሙ ፡ ዘይፈቅዱ ፡=፡ ወዕበ ፡ አ እመረ ፡ ምታ ፡ አሞቅሓ ፡ ውስተ ፡ ቤቱ ፡ ወዐፀወ ፡ ላዕሌሃ ፣ ከመ፣ ኢትየፃአ ፡ አፍ ኣ =፡ ወኮነት ፡ ይእቲ ፡ ወትረ ፡ ትስአሎ ፡ ለአማዚኣብሔር ፡ በብካይ ፡ ወሐዘን ፡ ወገ ዓር ፡ ከመ ፡ ይፍትሓ ፡ እምእዴሁ ፡፡ ወሰምን ፣ እግዚኣብሔር ፡ ልዑል ፡ ስአለታ ፡ ወ
+himself. She hated him extremely and she never wanted to have relations with him. She feigned towards him, at all times, illness and the pretext of the woman that prevents her from having relations with her husband. She was continuously dressed in dirty and vile clothes; she wanted by this that he would detest her appearance and not have relations with her. Perhaps he would separate from her? Continuously she implored and begged Our Lord Christ to separate her from him quickly. When her husband went out of his house, in order to go to his occupations, she would go out * herself too, visit the prisoners among the men of the right faith, serve them, and give them what they wanted. When her husband knew (it), he imprisoned her in his house and locked her up, so that she would not go outside. Continuously she asked the Lord in tears, sadness, and groans to deliver her from his hand. The Lord Most High heard her request, accepted her groans, and made her husband disappear quickly.
+
+
+[p. 79] {#po.26.p79}
+ተወክፈ ፡ ገዓራ ፡ ወአጥፍኦ ፡ ለምታ ፡ ፍጡነ ፡፡ ወሶበ ፣ ሞተ ፣፡ ተፈሥሐት ፡ ፈድፋደ ፡ በሞቱ ፡ ወእምዝ ፡ ተንሥአት ፡ ፍጡነ ፡ ወወሀበት ፡ ኩሎ ፡ ንዋያ ፡ ለነዳያን ፡ ወለምስ ኪናን ፡ ወለሙቁሓን ፡ ወለተአማንያን ፡ ወለመስተጋድላን ።፡
+When he died, she rejoiced extremely at his death. Then she rose in haste and gave all her goods to the poor, the unfortunate, the prisoners, the confessors, and the ascetics.
+ወሰምዓ ፡ ዜናሃ ፡ መኩንን ፡ ዘሀገረ ፡ ሮሜ ፡ ወፈነወ ፡ ወአብጽሓ ፡ ኅቤሁ ፡ ወተስ እላ ፡ በእንተ ፡ ሃይማኖታ ፡ ወተአምነት ፡ ቅድሜሁ ፡ ከመ ፡ ክርስቲያናዊት ፡=፡ ወተናገ ራ መኩንን ፡ብዙኃ ፡ ነገረ ፡ ልምሉመ ፡ ወተካየዳ ፡ ኪዳናተ ፡ ብዙኃተ ፡ ከመ ፡፣ ያጽ ንና ፡ እምክራ ፡፡ ወሶበ ፡ ኢሰምዐት ፡ ትእዛዞ ፡ ኩነና ፡ ኩነኔ ፡ ብዙኃ ፡ ወዕበ ፡ ደክመ ፡ እምዘ ፡ ይቤንና ፡ አዘዘ ፡ ከመ ፡ ያስጥምዋ ፡ ውስተ ፣ ባሕር ፡ ወአስጠምዋ ፡፡ ወሶቤሃ አዕረጋ ፤ እግዚኣብሔር ፡ አምባሕር ፡ ሕያውታ ፡፣ ዘእንበለ ፡ ሙስና ፡= ወሶበ ፡፣ ሰምዓ ፡ በእንቲአሃ ፡ መኩንን ፡ ከመ ፡፣ ይእቲ ፡ ሕያውታ ፡ አዘዘ ፡ ከመ ፡ ያስክብዋ ፡ ማአከለ ፡ ፪መታክል ፡ ወይአስርዋ ፤ ቦሙ ፡ ወይቅሥፍዋ ፡ መቅሠፍተ ፡፣ ዓቢየ ፡ ማሕምመ ፡ ወገ
+The judge of the city of Rome learned of her fame. He sent (for her) and had her brought to him. He questioned her about her faith. She confessed before him that she was Christian. The judge said many sweet words to her and made her numerous promises, in order to make her bend from her purpose. As she did not listen to his order, he tortured her with numerous tortures. When he was tired of torturing her, he ordered that she be swallowed in the sea. And she was swallowed. Immediately the Lord made her come up alive from the sea, without injury. When the judge, regarding her, learned that she was alive, he ordered her to be stretched between four stakes, to be tied to them, and to be flogged with a great (and) cruel flogging. It was done to her as he had ordered.
+
+
+[p. 80] {#po.26.p80}
+ብሩ ፡ ባቲ ፡ በከመ ፡ አዘዘ ፣ ወኢበጽሓ ፣፡ ወኢምንትኒ ፡ እምእኩይ ።፡ ወእምዝ ፡ አዘ ዘ፣ ከመ ፣ ያው”ዕይዋ ፡ ውስተ ፡ ዓዘቅት ፣ እንተ ፡ ምልአት ፡ እሳት ፡ ዘአስተዳለወ ፣ ላቲ ።= ወወገርዋ ፡ ውስተ ፡ ዓዘቅተ ፡ እሳት ፡ ወመጠወት ፡ ነፍሳ ፡ ውስተ ፡ አዴሁ፣ ለእግዚኣብሔር ፡ ወቦአት ፡ ውስተ ፡ መንግሥተ ፡ ሰማያት
+Nothing bad happened to her. Then he ordered * her to be burned in a cistern filled with fire that was prepared for her. She was thrown into the cistern of fire. She committed her soul into the hand of the Lord and she entered into the kingdom of heaven.
+ጸሎታ ፡ ወበረከታ ፡ ወትንብልናሃ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ፡=፡ ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ ተዝክራ ፡ ለቅድስት ፡ዮልያና ፡ ሰማዕት = ጸሎታ ፡ ወበረከታ ፣ ወትንብልናሃ ፡ የሀሉ ፡ ምስሌነ ፡ አሜን ፡፡
+May her prayer, her blessing, and her intercession be with us. Amen. On this day also (is) the commemoration of Saint Juliana, martyr. May her prayer, her blessing, and her intercession be with us. Amen.
+
+### THE 27TH OF TÂHSAŚ
+፲5 ፕለ8548 13)፪65)(885). ፪. -፦ ፻፳066668108. ዕ፲1ሀ0111ኛ6 ል, %]. በስመ ፡ አብ ፡ ወወልድ ፣ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ =፡
+| - Primitive Recension (A, T). In the name of the Father, and of the Son, and of the Holy Spirit, one God.
+
+### THE 27TH OF TÂHSAŚ
+አመ ፡ ፳ፄለታኅሣሥ ፡፡ በዛቲ ፡ ዕለት ፡ ኮነ ፡ ቅዱስ ፡ አባ ፡ አብሳዲ ፡ ኤጴስ ፡ ቆኦስ ፣ ወሰማዕት ፡፡
+On this day is Saint Abba 'Absâdi, bishop and martyr.
+
+
+[p. 81] {#po.26.p81}
+ወአሜሃ ፡ ሶበ ፡ ሰምዓ ፣ ዲዮቅልጥያኖስ ፣ ንጉሥ ፣ ዜናሆሙ ፡ ለኤጴስ ፡ ቆኔሳ ት ፡ ዓቢያን ፡ አባ ፡ አብሳዲ ፡ ወአላኒቆስ ፣ ዘላዕላይ ፣ ግብጽ ፣ ከመ ፡ አ‹፦ንቱ ፡ ያ ጸንፅዎሙ ፡ ለክርስቲያን ፡ ውስተ ፡ ሃይማኖተ ፡ ክርስቶስ ፡ ርትዕት ፣ ወይሥዕሩ ፡ አም ልኮ ፡ ጣዖታት ፡ ወፈነወ ፣፡ ወአብጽሖሙ ፡፣ ኅቤሁ ፡ ወኩነኖሙ ፡ ዓቢየ ፡ ኩነኔ =፡ ወ ቅዱስሰ ፡ አባ ፡ አብሳዲ ፡ ሰአሎ ፣ ለላእኩ ፡ ለንጉሥ ፡ ከመ ፣ ይትዓገሥ ፡ ላዕሌሁ ፡ አሐተ ፡ ፅለተ ፡=፡ ወውእቱሰ ፡ ሠርዐ ፡ ቅዳሴ ፡ ቀሩርባን ፡ ወመጠዎሙ ፡ ለሕዝብ፣ም ሥጢራተ ፡፣ ቅድሳት ፣ ወአዘዞሙ ፡ ከመ ፡፣ ይጽንዑ ፡ ውስተ ፣ ሃይማኖት ፡ ርትዕት == ወተኣምፕሙ ፡ ወወፅአ ፣፡ እምኀቤሆሙ ፡ ወመጠወ ፡ ርአሶ ፡ ውስተ ፡ እዴሁ ፡ ለእግ
+In that time, when the emperor Diocletian learned of the fame of the great bishops Abba 'Absâdi and 'Alânigos of Upper Egypt (and knew) that they were strengthening the Christians in the right faith of Christ and abolishing the worship of idols, he sent (an officer), had them brought to him, and tortured them with a great torture. But Saint Abba 'Absâdi asked the officer of the emperor to be patient with him for a single day. As for him, he celebrated the sacrifice of the mass, gave the people the holy mysteries, and ordered (the faithful) to be firm in the right faith. He greeted them, left them, and committed himself into the hand of the Lord.
+ዚኣብሔር ፡=፡ ወወሰዶ ፡ ውእቱ ፡ ላእክ ፡ ኅበ ፡ አርያኖስ ፡ መኩንነ ፡ ሀገረ ፡ አንዴናው ።፡፡ ወሶበ ፣ ርእየ ፡ ገጾ ፣ ለአባ ፣ አብ”ሳዲ ፣ ወአርአያሁ ፤ ወግርማሁ ፡፤ ሐዘነ፣ ሎቱ ፣ ወይቤሎ 0፣ አንተ ፡ ብእሲ ፡ ክቡር ፡ ወግሩም ፣፡ መሐካ ፡ ለነፍስከ ፡ ወስማዕ ፡ ትእዛዞ ፡ ለንጉሥ ፡=፡ ወአውሥአ ፣ ቅዱስ ፡ ወይቤሎ ፣፡ አንሰ፣ ኢይሰምዕ ፡ ትእዛዞ ፡ ለንጉሥ ፡ ከሓዲ ፡፣
+This officer led him to Arianus, judge of the city of Andênäw. When he saw the face of Abba 'Absädi, his appearance, his dignity, he felt sorrow for him and said to him: "You are an illustrious and venerable man; spare your life and listen to the emperor's order." The saint answered and said to him: "As for me, I will not listen
+
+
+[p. 82] {#po.26.p82}
+ወኢይዌልጥ ፡ መንግሥተ ፡ ሰማያት ፡ በሕይወተ ፡ ዝዓለም ፡ ኀላፊ ።፡ ወኮነ፣ ማአከሌሆ ሙ ፣ ብዙኅ ፡ ነገር ፡ ወቅዱስሰ ፡ ኢተመይጠ ፡ እምክሩ ፡ ሠናይ ። ወአምዝ ፡ አዘዘ ፡ ከመ ፡ ይኩንንዎ ፡ በመንኩራኩራት ፡ ወይደይዎ ፡ ውስተ ፡ እሳት ፡ ወአምድኅረዝ ፡ ወደይዎ ፡ ውስተ ፡ ምንዳደ ፡ ብለኔ ፡፡ ወኮነ ፡ ቅዱስ ፡ አባ ፣ አብሳዲ ፡ ይትዔገሥ ፡ ውስተ ፡ ዝንቱ ፡ ኩሉ ፡ ኩነኔ ፡ ወእግዚኣብሔር ፡ ያነሥኦ ፡ ዘእንበለ ፡ ሕማም ፡ ወኢ ሙስና ።፡ ወእምድኅረዝ ፡ አዘዘ ፡ መኩንን ፡ ከመ ፡፣ ይምትሩ ፡ ርአሶ ፡=፡ ወሶበ ፡ ሰም ዓ ፡ ቅዱስ ፡ዘንተ ፡ ተፈሥሐ ፡ ዓቢየ ፡ ፍሥሓ ፡ ወለብሰ ፡ አልባሰ ፡ ክሀነት ፡ ወሰፍሐ ፡ እደዊሁ ፡፡ ወመተሩ ፡ ርአሶ ፡ ቅድስተ ፡ በሰይፍ ፣፡ ወነሥአ ፣ አክሊለ ፡ ስምዕ ፡ ወሕይ
+to the order of the impious emperor, and I will not exchange the kingdom of heaven for the life of this passing world." There were many words between them, but the saint did not turn away from his noble purpose. Then (the judge) ordered him to be tortured on the wheels and thrown into the fire. Then they threw him into the furnace of a bathhouse. Saint Abba 'Absädi showed patience in all these tortures. The Lord made him rise without pain or injury. Then the judge ordered his head to be cut off. When the saint learned this, he rejoiced with great joy. He put on his priestly vestments and stretched out his hands. His holy head was cut off with the sword. He received the crown of martyrdom and eternal life in the kingdom of heaven.
+ወት ፡ ዘለዓለም ፡ በመንግሥተ ፡ ሰማያት ።፡ ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስሌነ ፡ ለዓለመ ፡ ዓለም ፡ አሜን ።=፡
+May his prayer and his blessing be with us for ever and ever. Amen.
+
+
+[p. 83] {#po.26.p83}
+፲፲. ፲86918103 “ሀ10316 ወበዛቲ ፡ ፅለት ፡ ካዕበ ፡ ኮነ ፡ ብፁዕ ፡ አቦሊ ፡ ለተጸምዶ ፡ ጸሎት ፡፡ አግዚአብሔር ፡ ይምሐሮ ፡ በጸሎቱ ፡ ለፍቁሩ ፡ ስአለ ፡ ጽዮን ፡ ለዓለመ ፡ ዓለም ፡= ወበዛቲ ፡ ፅለት ፡ ኣዕበ ፡ አፅረፈ ፡ ፊልዕስ ፣ ድንግል ፡ ፍድፉደ ፡ ገድል = ጸሎቱ ፡ ወበረከቱ ፡ የሃሉ ፡ ምስለ ፡ ስእለ ፡ ጽዮን ፡ ለዓለመ ፡ ዓለም ።፡፡ ፲11. ጅጀዕሠ፣ሯፀ ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ አዕረፈ ፡ አባ ፣ በግዑ ፡፣ ዘመካነ ፡ ሐይቅ ፡ ዘተሐረመ፣ማ የ ፡ መጠነ ፡ ሰብዓቱ ፡ ዓመት ።
+II. - Revision or Vulgate (A). On this day also is 'Aboli, blessed for having been assiduous in prayer. May the Lord have mercy through his prayer upon his beloved Se'ela-Seyon for ever and ever. On this day also died Philip, chaste, eminent by (his) struggle. May his prayer and his blessing be with Se'ela-Seyon for ever and ever. II. - Proper (A). On this day also died Abba Bag'ou of Makâna-Hayq who abstained from water for seven years.
+ጸሎቱ ፡ ወበረከቱ ፡ የሃሉ ፡ ምስለ ፡ ፍቁሩ ፡ ስአለ ፡ ጽዮን ፡ ለዓለመ ፡ ዓለም ።፡
+May his prayer and his blessing be with his beloved Se'ela-Seyon for ever and ever.
+
+
+[p. 84] {#po.26.p84}
+
+### THE 28 TÂAHSAS
+፲5 ፕጥ4ክ545 1)5ር53(885)- ፪. ፦፦ ፻0666.0810ዉ. ህ፲ህር9111ኛ6 ል, ፲!. በስመ ፡ አብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ አሐዳ-፣ አምላክ
+I. - Primitive Recension (A, T). In the name of the Father, and of the Son, and of the Holy Spirit, one God.
+
+### THE 28 TÂAHSAS
+አመ ፡ ፳፳ለታኅሣሥ ፡= በዛቲ ፡ ፅለት ፣ ተዝካረ ፡ በዓለ ፣ ልደት ፣ ክቡር ፣ ዘእግዚእነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ዘተወልደ ፡ በሥጋ ፡ እምእአግዝአእትነ ፡ ቅድስት ፡ ድንግል ፡ ማርያም ፡፡ ወውእቱኬ ፡ እስመ ፡ ኪነ ፡ ጥበቡ ፣ ለአምላክ ፡ አዘዘ ፣ ከመ ፡ ይፃአ ፡ ትእዛዝ ፡እ ምኅኀበ ፡ አውግስጦስ ፡ ንጉሥ ፡ ከመ ፡ ይትጐ”ለቁ ፡ ሎሙ ፡ ሰብእ ፡ ወይጸሐፉ ፡ አ ስማቲሆሙ ፡= ወበእንተዝ ፡ ዓርገ ፡ ዮሴፍ ፡ አምናዝሬት ፣ ወምስሌሁ ፡ ድንግል ፡ ማ ርያም ፡ ኀበ ፡ ቤተ ፡ ልሔም ፡ ከመ ፡ ይጸሐፍ ፡ ስሙ ፡ ወስማ ፡ እስመ ፡ ውእቱ ፡ እም ነገደ ፡ ይሁዳ ፡ ወእምቤተ ፡ ዳዊት ፡ እስመ ፣ ቤተ ፡ ልሔም ፡ ይእቲ ፡ ዓጸዱ ፣ ለዳዊ ት ፡ በከመ ፡ ይቤ ፡ ወንጌል ፡ ቅዱስ ። እስመ ፡ አሙንቱ ፡ ሶዕበ፣ በጽሑ ፡ህየ ፡ በጽሐ ፡
+On this day is the commemoration of the feast of the glorious Nativity of Our Lord Jesus Christ who, in the flesh, was born of Our Lady the Holy Virgin Mary. It is therefore (evident) that God, (in) the skill of his wisdom, ordered that the edict of the emperor Augustus should appear, so that all men should be counted and their names inscribed. That is why Joseph, the Virgin Mary being with him, went up from Nazareth to Bethlehem, so that his name and the name of (Mary) should be inscribed. He was, in fact, of the tribe of Judah and of the house of David, for Bethlehem was the village of David, as the holy gospel says. Thus, when they had arrived there, the day of her
+
+
+[p. 85] {#po.26.p85}
+ዕለተ ፡ ወሊዶታ ፡ ወወለደት ፡ ወልደ ፡ ዘበዙራ ፡ ወአሰረቶ ፡ መንኩብያቲሁ ፡ ወአስከ በቶ ፡ ውስተ ፡ ጎል ፡ እስመ ፡ አልቦ ፡ መካን ፡ ውስተ ፡ ማኅደሮሙ ፡፡
+childbirth arrived, and she gave birth to a son who (was) her firstborn. She wrapped him in swaddling clothes and laid him in a manger, for there was no room in the inn.
+ወሀለዉ ፡ ኖሎት ፡ ውስተ ፡ ውእቱ ፡ ብሔር ፡ ወይተግሑ ፡ ወይሔልዉ ፡ ወየዓቅ ቡ፣፡ መራፅዩሆሙ ፡ ወቆመ ፡ መልአከ ፡ እግዚኣብሔር ፡ ኀቤሆሙ ፡ ወስብሐተ ፡፣ እግ ዚኣብሔር ፡ ሠረቀ ፣ ላዕሌሆሙ ፡ ወፈርሁ ፡፣ ዓቢየ ፡ ፍርሃተ = ወይቤሎሙ ፣፡ መልአ ክ ፡ ኢትፍርሁ ፡ እስመ ፡ ናሁ ፡ አዜንወክሙ ፡ ዐቢየ ፡ ፍሥሓ ፡ ዘይከውን ፡ ለክሙ፣ ወለኩሎሙ ፡፣ ሕዝብ ፡ እስመ ፡ ናሁ ፣ ተወልደ ፡ ለክሙ ፡ ዮም ፡ መድኅን ፡ዘውእቱ፣ ክርስቶስ ፣ እግዚአ ፡ ቡሩክ ፡ በሀገረ ፡ ዳዊት ።፡ ወከመዝ ፡ ትእምርቱ ፡ ትረክቡ ፡ ሕፃነ ፡ እሱረ ፡ መንኮብያቲሁ ፡ ወስኩበ ፡ ውስተ ፡ ጎል ።፡ ወግብተ ፡ መጽኡ ፡ ምስለ ፡ ውእቱ ፤ መልአክ ፡ ብዙኃን ፡ ሐራ ፡ ሰማይ ፣፤ ወይሴብሕዎ ፡ ለእግዚኣብሔር ፡ ወይብሉ ፡ ስብ ሐት ፡ ለእግዚኣብሔር ፡ በሰማያት ፡ ወሰላም ፡ በምድር ፡ ለእጓለ ፡ እመሕያው ፤፣ ሥም ረቱ ወእምዝ ፡ ዓሪጎሙ ፡ መላእክት ፡ ኃለፉ ፣ እምኀቤሆሙ ፡፣ ወዓርጉ ፣ ውስተ፣ ሰማይ ፦ ወይቤሉ ፡ እሙንቱ ፡ ሰ"”ብእ ፡ ኖሎት ፡ በበይናቲሆሙ ፡ ንሖር ፡ ወናንሶሱ ፡ እስከ ፣ ቤተ ፡ ልሔም ፡ ወናእምር ፡ ዘንተ ፡ ነገረ ፡ ዘአርአየነ ፡ እግዚኣብሔር ።፡፡ ወሖ
+"Shepherds were in this country. They were watching, keeping guard, and tending their flocks. The angel of the Lord stood by them and the glory of the Lord rose upon them. They feared with a great fear. The angel said to them: Do not fear, for behold I announce to you a great joy which will be for you and for all the people. Indeed, behold there is born to you today, in the city of David, the Savior, that is to say the blessed Lord Christ. This is the sign: you will find a child wrapped in swaddling clothes and lying in a manger. Suddenly there came with this angel many armies of heaven (who) glorified the Lord and said: Glory to the Lord in the heavens and peace on earth to humans (by) his benevolence. Then having risen, the angels disappeared from them and went up to heaven. These shepherds said among themselves: Let us go and walk to Bethlehem, so that we may know this thing that the Lord has revealed to us. They went quickly and found
+
+
+[p. 86] {#po.26.p86}
+ሩ ፡ ፍጡነ ፡ ወረከብዎሙ ፡ ለማርያም ፡ ወለዮሴሌፍ ፡ ወሕፃንኒ ፡ይሰክብ ፡ ውስተ ፡ ጎል ፡ ወመካን ፡ ብሩህ ፡ በብርሃን ፡ ወርእዮሙ ፡ አእመሩ ፡፣ ከመ ፡ ነገር ፡ በእንተ ፡ ሕፃን፣ ዘይቤልዎሙ ፡ አሙን ፡ ውእቱ ።፡ ወሰገዱ ፤ ለሕፃን ፣ ወተመይጡ ፡ ኃበ ፣፡ መካኖሙ፣ እንዘ ፡ ይሴብሕዎ ፣፡ ወያአኩትዎ ፣ ለእግዚኣብሔር ። ወኮኑ ፡ ይዜንውዎሙ ፡ ለኩሉ፣
+Mary, Joseph, and the Child lying in a manger. The place was shining with light. "Having seen (this), they knew that the word that (the angels) had said to them concerning the Child was true. They worshipped the Child "and returned to their place, glorifying and thanking the Lord. They announced to everyone what they had seen and heard, just as it had been told to them.
+በዘ ፡ ርእዩ ፣ ወሰምዑ ፣ በከመ ፡ ተብህለ ፡ ሎሙ ፡፡ ወስብሐት ፡ ለእግዚእነ ፣ ወለአምላክነ ፣ ወመድኃኒነ ፤ ኢየሱስ ፡ ክርስቶስ ፡ ለዓለ መ፥፡ ዓለም ፡ አሜን ፡ ወአሜን ፡=፡
+Glory to our Lord, to our God, and to our Savior Jesus Christ for ever and ever. Amen. Amen.
+ወበዛቲ ፡ ዕለት ፡ ካዕበ ፣ ኮኑ ፡ ሰማዕታት ፡፣ ፻ወፃዕደው ፡ ወ፳ወ8አንስት = አሉ ፡ ቅዱሳን ፡ ኮኑ ፡ እምሰብአ ፡ ሀገረ ፡ አንዴናው ፡ ወኮኑ ፡ ከሓዲያነ ፡፡ ወዕበ ፡ ኮነ ፣ መኩንነ ፡ አንዴናው ፡ ይኬንኖ ፡ ለቅዱስ ፡ ጳውሎስ ፡ ሶርያዊ ፡ ሰማዕት ፣ ሀለዉ፣፣ እሙንቱ ፡ ሰብእ ፡ እንዘ ፡ ይሬአይዎ ፡ ለቅዱስ ፣ ጳውሎስ ፡ እንዘ ፡ ይኬንንዎ ፡ ወሶበ ፥፣ አዘዘ ፡ መኩንን ፡ ከመ ፡ ያርስኑ ፣ ቅንዋተ ፡ ሐጺን ፣ ውስተ ፡፣ እሳት ፣፡ ወይምልሑ ፤ቦ
+On this day also were martyred 150 men and 24 women. These saints were people of the city of Andênäw. They were infidels. When the judge of Andênäw was torturing Saint Paul the Syrian, martyr, it happened that these people saw Saint Paul, while he was being tortured, that the judge was ordering iron nails to be heated in the fire and to tear out with
+
+
+[p. 87] {#po.26.p87}
+ሙ ፡ አፅይንቲሁ ፡ ለቅዱስ ፣ ጳውሎስ ፡ ወሶበ ፡ ገብሩ ፡ ቦቱ ፡ዘንተ ፣ ተመልሑ፡አዕ ይንቲሁ ፡ ወወገርዎ ፣ ውስተ ፡ ቤተ ፡ ሞቅሕ = ወሶበ ፡ መጽኡ ፡ ኅቤሁ ፡ በሳኒታ ፡ ከመ ፡ ይርአይዖ ፡ ካፅበ ፣ ወርእዩ ፣ አፅይንቲ ሁ ፡ ጥዑያነ ፡ ዘእንበለ ፡ ሙስና ፡ ወአሕ”የዎሙ ፡ እግዚእነ ፡ ክርስቶስ ፡ ወኮኑ ፡ ከመ ዘኢበጽሖሙ ፡ ወኢምንትኒ ፡ እምሕማም ፡ በከመ ፡ ኮነ ፡ ስምዓ ፡ በዝንቱ ፣ ገድሉ ፡=፡ ወሶበ ፡ ርእዩ ፡ እሙንቱ ፡፣ ፅደው ፡ ወአላንቱ ፡ አንስት ፡ ዛተ ፡ ተኣምረ ፡፣ አንከሩ ፡ ፈ ድፋደ ፡ ወአእመሩ ፡ ከመ ፡ ጣዖታቲሆሙ ፡ ኢይክሉ ፡ ይግበሩ ፡ ዘንተ ፣ ተኣምረ ፡=፡ ወአ ምላክሰ ፡ ዘፈጠሮሙ ፡ ውእቱ ፡ ፈጣሬ ፡ ፍጥረት ፡ ወቀዳሚ ፤፡ ወውእቱኬ ፡ ዘአሕየዎሙ፣፤ ለአፅይንቲሁ ፡ ለቅዱስ ፡ ጳውሎስ ፡፡ ወጸርጉ ፡ ኩሎሙ ፡ በ8ቃል ፡ እንዘ ፡ ይብሉ፡ን ሕነ ፡ ክርስቲያን ፡ ገሃደ ፡ ነአምን ፣፡ በአምላኩ ፣ ለቅዱስ ፡ ጳውሎስ ። ወእምዝ ፡ ቀር ቡ፣፡ ኀበ።፣ ቅዱስ ፡ ወሰገዱ ፡ ሎቱ ፡ ታሕተ ፡ እገሪሁ ፡ ወሰአልዎ ፡ ከመ ፡ ይጸሊ ፡ ላዕ ሌሆሙ ፡ ወአውሥኦሙ ፡ ወባረኮሙ ፣ ወይቤሎሙ ፡ እግዚኣብሔር ፡ ይትወከፍ ፡ ተ አምኖተክሙ ፣፤ ወይጐልቅሙ ፡ ምስለ ፡ ሰማዕታት ።፡ ወቀርቡ ፣ ኀበ፣፤ መኩንን ፡
+(these nails) the eyes of Saint Paul, that this was being done to him, that his eyes were torn out and that he was thrown into prison. When they came to him the next day to see him again, they saw his eyes healthy, without injury: Our Lord Christ had healed them. They were as if no harm had happened to them, as it is testified in his gadi. When these men and women saw this miracle, they were extremely astonished and they recognized that their idols could not perform this miracle; but God, he who had created them, creator of creation and principle (of all), was therefore the one who had healed the eyes of Saint Paul. They all cried out with one voice, saying: "We are Christians openly; we believe in the God of Saint Paul." Then they approached the saint, prostrated themselves at his feet, and asked him to pray over them. He answered them, blessed them, and said to them: "May the Lord receive your confession and may he count you with the martyrs." They approached the judge and confessed
+
+
+[p. 88] {#po.26.p88}
+ወተአምኑ ፡ በእግዚአነ ፡ ክርስቶስ፣ በቅድሜሁ ። ወአዘዘ ፡ ከመ ፡ ይምትሩ ፡ ርእሶሙ ፥ ወመተሩ ፣ ርእሶሙ ፡፣ በሰይፍ ፡ ወነሥኡ ፡ አክሊለ ፣፡ ስምዕ ፣ በመንግሥተ ፣ ሰማያት =
+Our Lord Christ before him. He ordered that their heads be cut off. And their heads were cut off with the sword. They received the crown of martyrdom in the kingdom of heaven.
+ጸሎቶሙ ፡ ወበረከቶሙ ፡ የሀሉ ፡ ምስሴነ ፡ ለዓለም ፡ አሜን ፡፡ ፲፪. ፲:691810ፌቧ. 'ዝህ10866 ወበዛቲ ፡ ዕለት ፡ ክዕበ ፡ ኮነ ፣ በዓሎሙ ፡ ለአብርሃም ፡ ይስሐቅ ፡ ወያዕቆብ ፡ አበ ው ክቡራን ፪
+May their prayer and their blessing be with us forever. Amen. II. - Revision or Vulgate (A). On this day also is the feast of Abraham, Isaac, and Jacob, the glorious patriarchs.
+አግዚአብሔር ፡ ይምሐሮ ፡ በጸሎቶሙ ፡ ወበረከቶሙ ፡ የሃሉ ፡ ምስለ ፡ ፍቁሮሙ ፣ ስአለ ፣ ጽዮን ፡ ለዓለመ ፡ ዓለም ፡=፡
+May the Lord through their prayer have mercy on their beloved Se'ela-Seyon and may their blessing be with (him) for ever and ever.
+
+### THE 29 TÂAHSAS
+፲5 ፲48548 ፪. -፦ ፲606፲0810፲ጪ ጅ፲31፲ቧ1፲11ሆ6 ጴ, ፪ፔ). በስመ ፡ አብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፣ አሐዱ ፡ አምላክ ፡፡
+I. - Primitive Recension (A, T). In the name of the Father, and of the Son, and of the Holy Spirit, one God.
+
+
+[p. 89] {#po.26.p89}
+
+### THE 29 TÂAHSAS
+አመ ፡ ፳8ለታኅሣሥ ።፡ በዛቲ ፡ ፅለት ፡ በዓለ ፣ ልደቱ ፡ ክቡር ፡ ለእግዚእነ ፡ ኢየሱስ ፡ ክርስቶስ ፡፡ እስመ ፡ አበዊነ ፣ መምህራነ ፡ ቤተ ፡ ክርስቲያን ፡ ተሰናአዉ ፣፡ በምክሮሙ ፡ ከመ፣ ይግበሩ ፡ በዓለ ፡ ልደት ፡ ቅዱስ ፣ በ፪መዓልት ፡ እስመ ፣ ልደ"ት ፡ ኮነ ፣ በደኃሪት ፣ሌ ሊት ፡ አመ ፡ ፳ወ፳ ፡ ወበመዓልት ፡ ፳ወ፪ ፡=፡ ወሶበ ፡ ይከውን ፣ ጳጐሜን ፡ 5መዓልተ ፡ በይእቲ ፡ ዓመት ፡ ይከውን ፡ በዓለ ፡ ልደት ፡ በዕለት ፣ ፳ወ፳ቿ ፣ በመዓልት ፡ ወለእመ ፡ ኮ ነ ፡ ጳጐሜን ፣ ፳መዓልተ ፡ ይከውን ፡ በዓለ ፡ ልደት ፡ በዕለት ፡ ፳ወ፪ = ወሠርዑ ፡ ወአዘዙ ፡ ከመ ፡ ይግበሩ ፡ በዓለ ፣ ልደት ፡ በ፪መዓልት ፡ በእንተ ፡፣ ክብሩ ፡ ለበዓለ ፡ ል
+On this day is the feast of the glorious Nativity of Our Lord Jesus Christ. Indeed, our Fathers, the doctors of the Church, agreed in their decision to celebrate the feast of the holy Nativity for two days, for the Nativity took place in the last (part of the) night, the 28th, and in the (following) day, the 29th. When Pâguemên has six days, the feast of the Nativity, that year, will be on the twenty-eighth day. If Pâguemên has five days, the feast of the Nativity will be on the twenty-ninth day. They decreed and ordered to celebrate the feast of the Nativity for two days, because of the glory of the feast of the holy Nativity.
+ደት ፡ ቅዱስ ፡=፡ ይቤ ፡ ወንጌል ፡ ቅዱስ ፡ ወተወሊዶ ፡ እግዚአ ፡ ኢየሱስ ፣ ክርስቶስ ፡ በቤተ ፡ ልሔ ም ፡ ዘይሁዳ ፡ በመዋዕለ ፡ ሄሮድስ ፡ ንጉሥ ፣ ወናሁ ፡ መጽኡ ፡ ሰብአ ፡ ሰገል ፡ እምብ ሔረ ፡ ጽባሕ ፡ ወበጽሑ ፡ ወቦኡ ፡ ውስተ ፣ ኢየሩሳሌም ፡ እንዘ ፡ ይብሉ ፡ አይቴ ፣ ሀ
+The holy Gospel says: "The Lord Jesus Christ being born in Bethlehem of Judah in the days of King Herod, behold there came magi from the country of the East, that they arrived and entered Jerusalem, saying: Where is the king of the Jews who is born, for we have seen his own star in
+
+
+[p. 90] {#po.26.p90}
+ሎ ፡ ዘተወልደ ፡ ንጉሠ ፡ አይሁድ ፡ እስመ ፡ ርኢነ ፡ ኮከበ ፡ ዚአሁ ፣ በምሥራቅ ፡ ወመ ጸእነ ፥ ከመ ፡ ንስግድ ፡ ሎቱ =፡ ወውእቱኬ ፡ እስመ ፡ እሎንቱ ፡ ሰብአ ፡ ሰገል ፡ ኮኑ 0፤ እምዘመዱ ፡ ለበለዓም ፣ ወኮኑ ፡ ጠንቋልያነ ፡ እንዘ ፣ የዓቅቡ ፡ ከዋክብተ ፡ ወያአምርዎ ሙ ፡ ወይትናተሩ ፡ ላዕሌሆሙ ። ወኮነ ፡ ጽሑፈ ፡ በኅቤሆሙ ፡ ውስተ ፡ መጻሕፍተ ፡ በለዓም ፡ እስመ ፡ ሀሎ ፡ ይትወለድ ፡ ለክሙ ፡ ንጉሥ ፡፣ ዓቢይ ፣ በይሁዳ ፡።፡ እስመ፣ ው እቱ ፡ ይቤ ፡ ይሠርቅ ፡ ኮከብ ፡ እምያዕቆብ ፡ ወንጉሥ ፣ እምእስራኤል ። ወአግዚኣብሔ ር ፡ በኪነ ፡ ጥበቡ ፡ አለበዎሙ ፡ ለእሉ ፡ ሰብአ ፡ ሰገል ፡ ወሰሐቦሙ ፡ በዘ ፣ የአምኑ፣ ቦቱ ፡ ዝውእቱ ፡ ዓቂበ ፡ ከዋክብት ፡ ወከሠተ ፡ ሎሙ ፡ "ዘንተ ፡ ኮከበ ፡ ወሶበ ፣ ርእ ይዎ ፡ ተፈሥሑ ፡ እስመ ፡ አርአያሁ ፡ ውሉጥ ፡ አምከዋክብት ፡ በብዙኅ ፡ መክፈልት ፡፡ ወዝንቱ ፡ ውእቱ ፡ አምሳሉ ፡ እስመ ፡ ውእቱ ፡ ኮክብ ፡ ኮነ ፡ ከመ ፥ ድንግል ፡ እንተ ፡ተ ሐቅፍ ፡ ሕፃነ ፡ ውስተ ፡ ሕፅና ፡፡ ወኮነ ፡ የሐውር ፡ እምፀጋም ፡ እስከ ፡ የማን ፡ ወየሐው
+the East and we have come to worship him?" It is therefore that these magi were of the family of Balaam and that they practiced divination, by observing the stars. They knew them and they interpreted according to them. It was written among them in the books of Balaam: "A great king must be born for you in Judah." Indeed, it is said (there): "A star shall rise from Jacob and a king (shall rise) from Israel." The Lord instructed the magi in the art of his wisdom and he drew them by that in which they believed, that is to say the observation of the stars. He revealed this star to them. When they saw it, they rejoiced, for its appearance was different from the stars in many ways. Its likeness was this: this star was like a virgin who was embracing a child on her breast. It went from left to right. It went during the day and hid during the night. Then it went when they went; it stopped when
+ር በመዓልት ፡ ወይትኅባእ ፡ በሌሊት ፡ ወእምዝ ፡ የሐውር ፡ ሶበ ፣ የሐውሩ ፡ ወይቀው ም፡ሶበ፣ ይቀውሙ ፣ወይትከሠት ፡ ሎሙ ፡ በመካን ፡ ወይትኅባእ ፡ እምኔሆሙ ፡ በካ ልእ ፡ መካን ፡=፡ እስመ ፡ ውእቶሙ ፡ ሶበ ፡ በጽሑ ፡ ኀበ ፣፡ ኢየሩሳሌም ፡ ተኀብአ ፡ እም ኔሆሙ ፡ ወሶበ ፣ ተኃብአ ፣ እምኔሆሙ ፡ ሐዘኑ ፡ ፈድፋደ ፡ ወኢያአመሩ ፡ ዘይገብሩ ፡ ወበእንተዝ ፡ ቦኡ ፡ ውስተ ፡ ኢየሩሳሌም ፣ ወተስእሉ ፡ በእንተ ፣ ዘተወልደ ። ወኮኑ ፡ ይነገሥት ፡ ወምስሌሆሙ ፡ ፻ሸሰብአ ፡ አፍራስ ፡፡ ወቦበ ፡ ሰምዓ ፡ ሄሮድስ ፡ በእንተ ፡ ሰብአ ፡ ሰገል ፡ ዘበጽሑ ፡ ኀበ ፣ ኢየሩሳሌም ፡ ወበእንተ ፡ ንጉሥ ፡ ዘተወልደ ፡ ደንገፀ ፤ ወፈርሀ ፣ በእንተ ፡ መንግሥቱ ፡= እስመ ፣ ውእቱ ፡ ኮነ ፡ ይሰምዕ ፡ አምነ ፡ አይሁድ ፡ ከመ ፡ ሀሎ ፡ ይትወለድ ፡ ክርስቶስ ፡፡ ወአ ስተጋብኦሙ ፣ ለኩሎሙ ፡ ሊቃነ ፣ ካህናት ፡ ወጸሐፍቶሙ ፡ ለሕዝብ ፡ ወተስእሎሙ ፡ በአይቴ ፡ ይትወለድ ፤ ክርስቶስ ፡= ወይቤልዎ ፡ በቤተ ፣ ልሔም ፡ ዘይሁዳ ፣ እስመ ፡ ከማሁ ፡ ጽሑፍ ፡ በነቢይ ፡ አንቲኒ ፡ ቤተ ፡ ልሔም ፡ ምድረ ፡ ይሁዳ ፡ ለግሙራ ፡ ኢተ ሐጽጺ ፡፣ እምነ ፡ መሳፍንተ ፡ ይሁዳ ፡ እስመ ፡ እምኔኪ ፡ ይወፅእ ፡ ወ”ይትወለድ ፡ ንጉ
+they stopped. It showed itself to them in one place and hid from them in another place. Thus, when they arrived in Jerusalem, it hid from them and, when it had hidden from them, they became extremely sad and did not know what they (should) do. That is why they entered Jerusalem and questioned about the one who was born. They were three kings. With them were 30,000 horsemen. When Herod learned that the Magi had arrived in Jerusalem and that the King was born, he was terrified and feared for his royalty. Indeed, he had learned from the Jews that the Christ was to be born. "He gathered all the princes of the priests and the scribes of the people and asked them where the Christ would be born. They said to him: In Bethlehem of Judah, for it is written thus in the prophet: For you, Bethlehem, land of Judah, you are not at all the least among the principal (cities) of Judah, for from you will come out and be born the King and the Judge who will shepherd my people Israel. Herod called the Magi aside (and)
+
+
+[p. 91] {#po.26.p91}
+
+
+[p. 92] {#po.26.p92}
+ሥ ፡ ወመኩንን ፡ ዘይሬእዮሙ ፡ ለሕዝብየ ፡ እስራኤል ።፡ ወጸውያሙ ፡ ሄሮድስ ፡እንተ፣ ባሕቲቶሙ ፡ ለመሰግላን ፣ ጽሚተ ፡ ወተጠየቆመ-፣፤ እምኀቤሆሙ ፡-መዋዕሊሁ ፡ ለዘ ፡ አ ስተርአዮሙ ፡ ኮከብ ።፡ ወፈነዎሙ ፡ ቤተ ፡ ልሑምሃ ፡ ወይቤሎሙ ፡ ሐዊረክሙ፣፡ተ ሰአሉ ፡ ጥዩቀ ፡ በእንተ ፣፡ ውእቱ ፡ ሕፃን ፡ ኀበ ፡ ተወልደ ፣ ወእምከመ ፡ ረከብክምዎ ፡ ግብኡ ፡ ወዜንዉኒ ፡ ከመ ፣ እምጻእ ፡ አነሂ ፡ ወአስግድ ፡ ሎቱ ፡ ወኮነ ፡ ዝንቱ ፡ ነገር ፡
+in secret and inquired of them about the days when the star had appeared to them. He sent them to Bethlehem and said to them: When you go, ask carefully where this Child is born and, as soon as you have found him, return and inform me, so that I may go also and worship him. This word was on his part a ruse (in the sense) that he was thinking of killing (the Child), when he would have found him.
+እምኔሁ ፡ በጽልሑት ፡ ከመ ፡ ሶበ ፡ ይረክቦ ፡ ሐለየ ፡ ከመ ፡ ይቅትሎ ። ወሰሚዖሙ ፡ እምኅበ ፡፣ ንጉሥ ፡ ዘንተ ፡ ኩሎ ፡ ሖሩ ።= ወናሁ ፡ ውእቱ ፡ ኮከብ ፡ ዘርእዩ ፣ እምጽባሕ ፣ ይመርሖሙ ፡ እስከ ፡ ሶበ ፣ አብጽሖሙ ፡ ኅበ ፡ በዓት ፣፡ ወቆመ፣ መልዕልተ ፡ በዓት ፡ ኅበ ፡ ሀሎ ፣ ሕፃን ።=፡ ወሶበ ፡ ርእይዎ ፡ ለውእቱ ፡ ኮከብ ፡ ተፈሥ ሑ፡ ዓቢየ ፡ ትፍሥሕተ ፡ ጥቀ ፡=፡ ወበፈቃደ ፣፡ አግዚኣብሔር ፡ መጽኡ ፡ ዮሴፍ ፡ ወማር ያም ፡ ወሕፃን ፡ እግዚእነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ በይእቲ ፡ ዕለት ፡ ኀበ ፡ ይእቲ ፡ በዓ
+"Having heard all this from the king, they went away. Behold, the star that they had seen in the East led them, until it had brought them to the cave. It stood above the cave where the Child was. When they saw this star, they rejoiced with a very great joy. By the will of the Lord, Joseph, Mary, and the Child Our Lord Jesus Christ, that day,
+
+
+[p. 93] {#po.26.p93}
+ት ፡ እስከ ፡ ይረክብዎሙ ፡ ሰብአ ፡ ሰገል ።፡፡ እስመ ፡ እግዚእነ ፡ ክርስቶስ ፡ ኢተሐፅነ ዘእንበለ ፡ በናዝሬት ፡ ወኮነ ፣ ሎቱ ፡ እምዘ ፡ ተወልደ ፡ ፪ዓመት ፡ ዕበ ፣ በጽሑ ፡ ኀቤ ሁ ፡ ሰብአ ፡ ሰገል ።፡ ወበዊኦሙ ፡ ውስተ ፡ በዓት ፡ ረከብዎ ፡ ለሕፃን ፡ ወለማርያም ፡ እ ሙ ፡ ወወድቁ ፡ ወሰገዱ ፡ ሎቱ ፡ ወአምጎዎ ፡ ወፈትሑ ፡ መዛግብቲሆሙ ፡ ወአምጽኡ ፥ ወአብኡ ፡ ሎቱ ፡ አምኃ ፡ ወርቀ ፡ እስመ ፡ ውእቱ ፡ ንጉሥ ፡ ወስጊነ ፡ እስመ ፡ ውእቱ ፡ ኦምላክ ፡ ወከርቤ ፡ ትእምርተ ፡ "በእንተ ፣ ሞቱ ፣ ማሕየዊ ፡= ወአስተርአዮሙ ፡ካ ፅበ ፣ ወነገሮሙ ፣ በሕልም ፣፡ ከመ ፡ ኢይግብኡ ፡ ኅበ ፡ ሄሮድስ ፡ አላ፣ ይሖሩ ፡ው ስተ ፡ ካልእ ፡ ፍኖት ፣ ኅበ ፡ ብሔሮሙ ፡ ወሖሩ ፡ ወኮኑ ፡ ሰባኪያነ ፡ ወአዋዲያነ ፡ በ
+had come to this cave, so that the Magi found them. Indeed, Our Lord Christ was only raised in Nazareth and he was two years old when the Magi arrived to him. "Having entered the cave, they found the Child and Mary, his mother. They prostrated themselves, worshipped him, greeted him, and opened their treasures. They brought him and offered gifts: gold, for he was king; incense, for he was God; myrrh, as a sign of his life-giving death. (An angel) also appeared to them and told them in a dream not to return to Herod, but to go by another way to their country. They went away and became preachers and announcers of the manifestation of God in the flesh.
+አስተርእዮቱ ፡ ለአምላክ ፡ በሥጋ ፡=፡ ዛቲ ፡ ዕለት ፡ ዘተነበየ ፣ በእንቲአሃ ፣ ኢሳይያስ ፡ ነቢይ ፡ እንዘ ፣ ይብል ፡ ናሁ ፡ ድንግል ፡ ትፀንስ ፡ ወትወልድ ፡ ወልደ ፡ ወይሰመይ ፡ ስሙ ፡ አማኑኤል ፡ ዘበትርጓ ሜሁ ፡ እግዚኣብሔር ፡ ምስሌነ ።፡፡ ወበእንተ ፡ ዛቲ ፣ ድንግል ፣ ተነበየ ፡ ሕዝቅኤል ፡ ነቢይ ፡ እንዘ ፡ ይብል ፡ አስመ ፡ አነ ፣ ርኢኩ ፣ ኖኅተ ፡ በምሥራቅ ፡ ዕፅወ ፡ ወይቤ
+It is concerning this day that the prophet Isaiah prophesied, saying: "Behold a virgin will conceive and give birth to a son; he will be called by the name Emmanuel whose interpretation is: "The Lord with us." Concerning this virgin the prophet Ezekiel prophesied, saying: "I, I saw at the east
+
+
+[p. 94] {#po.26.p94}
+ለኒ ፡ እግዚኣብሔር ፡ ዝንቱ ፡ ኖጎት ፣ ይከውን ፡ ዕፅወ ፡ ወኢይበውእ ፡ ውስቱቱ ፡ ወኢይወፅእ ፡ እምኔሁ ፡ ዘእንበለ ፣ እግዚኣብሔር ፡ አምላከ ፡ አስራኤል ።፡ ወበእንተ ፡ ዝንቱ ፡ ዘተወልደ ፡ ይቤ ፡ ዳንኤል ፡ ነቢይ ፡ እስመ ፡፣ አነ ፡ ርኢኩ ፡ ከመ ፡ወልደ፣ እጓለ ፣ እመሕያው ፡ መጽአ ፡ ላዕለ ፡ ደመና ፡፣ ሰማይ ፡ እስከ ፡ በጽሐ ፡ ኀበ ፡ ብሉየ ፡ መዋዕል ፡ ወቀርበ ፡ ኀቤሁ ፡ ወወሀቦ ፡ ስልጣነ ፣ ወመንግሥተ ፡ ወክብረ ፡ ወያመል ክዎ ፣ ኩሎሙ ፡ አሕዛብ ፡ ወሕዝብ ፣ ወስልጣኑ ፡ ስልጣን ፡ ዘለዓለም ፡ ወአልቦ፣ማ ኅለቅተ ፣ ለመንግሥቱ ፡ ወካዕበ ፣ ይቤ ፣ ኢሳይያስ ፡ ነቢይ ፡ እስመ ፡ እግዚኣብሔር ፡ ኦስተርአየ ፡ ለነ ፡ አምውስተ ፣ ጽዮን ፣ ምንጡሉዕ ፡ በመንጦላዕተ ፡ ሥጋ ፡ ሰብእ፣ ዘከማየ ፡፣ ወይቤለኒ ፡ ናሁ ፡፣ እነሥአ ፡ ሥጋ ፣ እምዘርአ ፡ ዳዊት ፡ ወልደ ፡ ኤሴይ ።፡ ወ ካዕበ ፣ ይቤ ፣ ኢሳይያስ ፡ ነቢይ ፡ እስመ ፡ እግዚኣብሔር ፡ ይቤለኒ ፡ ናሁ ፡ "አነ ፡ ሀለ ውኩ ፡፣ እግበር ፡ ሰማየ ፣ ሐዲሰ ፡ ወምድረ ፡ ሐዳሰ ፡፣ ወአነብር ፡ ውስቴቶሙ ፡ ምስለ ፡ እለ ፣ ኣፈቅሮሙ ፣ ወይትፌሥሑ ፡፤እስከ ፡ ለዓለም ፡ ወካዕበ ፡ ይቤ ፡ እሬስዮ ፡ ለወ ልድየ ፣ ትእምርተ ፡ ለአሕዛብ ፤ ወንጉሠ ፣ ላዕሌሆሙ ፣ ወየአምኑ ፡ ቦቱ ፣ ወይትዌከ ሉ ፡ ቦቱ ፡ እስመ ፡ ውእቱ ፡ ይከውን ፡ ለፅረፍት ፣ ወለክብር ፡ ወትመልእ ፡ ምድር፣0፣
+a closed gate. The Lord said to me: This gate is closed. Only the Lord, God of Israel, will enter into it and come out of it." Concerning the one who is born the prophet Daniel said: "I, I saw that the Son of man was coming on the clouds of heaven, until he arrived toward the Ancient of days and was near him. And he gave him power, royalty, and glory. All peoples and (all) nations will worship him. His power is an eternal power and his kingdom will have no end." Again, the prophet Isaiah said: "The Lord has appeared to us from Zion, veiled with the veil of the flesh, man like me. He said to me: Behold I will take flesh from the seed of David, son of Jesse." Again, the prophet Isaiah said: "The Lord said to me: Behold I will have to make a new heaven and a new earth and I will dwell in them with those whom I love and they will rejoice forever." Again, he said: "I will establish my Son as a sign for the peoples and king over them. They will believe in him and will put their trust in him, for he himself will be for rest and for glory and the earth will be filled with the knowledge
+
+
+[p. 95] {#po.26.p95}
+
+
+[p. 96] {#po.26.p96}
+እምአአምሮ ፣ እግዚኣብሔር ፡= ወካዕበ ፡ ይቤ ፡ እስመ ፣ እግዚኣብሔር ፡ ያበሞልል ፡ በትረ ፡ እምስርወ ፡ ኤሴይ ፣ ወይሬሲሷ ፡ ጥበበ ፣ ወአእምሮ ፣ ወኀይለ ፣ ውስቴቱ ፡ ወ ውእቱ ፡ ይገብር ፡፣ ፍትሐ ፡ ለምስኪናን ፣ ወይዘብጣ ፡ ለምድር ፡ በቃለ ፡ አፉሁ ፡ ወ ይቀትሎሙ ፡ ለዓላዊያን ፣ በመንፈሰ ፡ ከናፍሪሁ = ወካዕበ ፡፣ ይቤ ፣ እስመ ፡ ሕፃን፣0 ተወልደ ፡፣ ለነ ፡ ወልድ ፡ ተውህበ ፡ ለነ ፡ ዘስልጣኑ ፡ ዲበ ፣ መንኮብያቲሁ ፡ ወይ ሰመይ ፡ ስሙ ፡ ንጉሠ ፡፣ ምክር ፡ ዓቢይ ፡ አምላክ ፣ ከሓሊ ፡ ስሉጥ ፡ ንጉሠ ፡ ሰላ ም ፡ ወአበ ፡ ዓለም ፡ ዘይመጽእ ።፡ ወይቤ ፣ ኤርምያስ ፡ ነቢይ ፡ ከመዝ ፡ ይቤ ፡ እግዚኣ ብሔር ፤ እስመ ፡ በውእቱ ፡ መዋዕል ፡ ኣቀውም ፣ ለዳዊት ፡ ብርሃነ ፣ ብዙኃ ፣ ወይሬ ሲ ፡ ፍትሐ ፡ ወርትዓ ፡ ውስተ ፡ ምድር ፡ ወያድኅኖሙ ፣፡ እግዚኣብሔር ፡ ለእለ ፣ የአም ኑ ፡ ቦቱ ፡ እምይሁዳ ፡ ወእምእስራኤል ።፡ ወይቤ ፡ ኤልሳዕ ፡ ነቢይ ፡ እስመ ፡ እግዚኣብ ሔር ፡ ይወርድ ፣፡ አምሰማይ ፡ ወያንሶሱ ፡ ውስተ ፡ ምሥያጣተ ፡ ደቂቀ ፡ እስራኤል ፡ ወይሜህሮሙ ፡ ለአሕዛብ ፡ ጽድቀ ፡ ወይትኤዘዙ ፣ ሎቱ ፡ ዙሎሙ ፡ አሕዛብ ፡ ዘእንበለ ፡
+of the Lord." Again he said: "The Lord will make a shoot grow from the root of Jesse. He will put wisdom, knowledge, and strength in him. He will do justice to the poor, he will strike the earth with the word of his mouth and he will kill the impious with the breath of his lips." Again, he said: "A child is born to us; a son is given to us whose power is on his little shoulders; he will be called by (these) names: King of the great counsel, God, Mighty, Strong, King of peace, Father of the age to come." The prophet Jeremiah said: "Thus said the Lord: In those days I will make a just sprout arise for David; he will establish right and equity on the earth and the Lord will save those who will believe in him in Judah and in Israel." The prophet Elisha said: "The Lord will descend from heaven; he will walk on the public squares of the Israelites; he will teach justice to the peoples and all the peoples will obey him except the people of the foreign sons of Abraham." The
+ሕዝበ ፣ ውሉድ ፡ ነኪር ፣ ዘአብርሃም ። ወተነ" በየ ፡ ናሖም ፡ ነቢይ ፡፣ ወይቤ ፡ እስመ ፡ እግዚኣብሔር ፡ ይመጽእ ፡ በአርአያ ፡ ዚአየ ፡ ወልብሱ ፡ ከመ ፡ ልብስየ ።፡
+prophet Nahum prophesied and said: "The Lord will come in my appearance and his garment will be like my garment."
+ወተነበየ ፡ ኢዩኤል ፡ ነቢይ ፡ ወይቤ ፡ እስመ ፡ አነ ፡ ርኢኩ ፡ ወለተ ፡ ድንግለ ፡ እ ምነገደ ፡ ይሁዳ ፡ ወእምዘርአ ፡ ዳዊት ፡ ኮነት ፡ መንበሮ ፡ ለአግዚኣብሔር ፡ ወይእቲ ፡ ትልህብ ፡ ከመ ፡ እሳት ፡፡ ወሰአልክዎ ፡ ለኪሩቤል ፡ በእንቲአሃ ፡ ወአቤሎ ፡ መኑ ፡ ይአ ቲ ፡ዛቲ ፣ ወይቤለኒ ፡ ዛቲ ፡ መንበሩ ፡ ለእግዚኣብሔር ፡ ኅሩይ ፡ ዘውሉዱ ፡ ለአዳም ፡፡ ወባቲ ፡ ይድኅኑ ፡ አሕዛብ ፡ ኅሠራን ፡ ወይእቲ ፡ ረድኤት ፡ ወጸወን ፡ ለዘ ፣ አምነ ፡ባ ቲ =፡ ወይቤ ፡ ዳዊት ፡ ነቢይ ፡፣ በመዝሙር ፡ ፪አግዚኣብሔር ፡ ይቤለኒ ፡ ወልድየ ፡ አንተ ፡ ወአነ ፡ ዮም ፣ ወለድኩከ ፡፡ ሰአል ፡ እምኔየ ፡ እሁበከ ፡ አሕዛበ ፡ ለርስትከ ፡ ወ ምዙናንከኒ ፡ እስከ ፡ አጽናፈ ፡ ምድር ።፡ ወትሬአእዮሙ ፡ በበትረ ፡ ኅጺን ፣ ወከመ ፡ ንዋ የ ፡ ለብሓ ፡ ትቀጠቅጦሙ ፡ ወይእዜኒ ፡ ነገሥት ፡ ለብዉ ፡ ወተገሠጹ ፡ ኩልክሙ ፡ እ ለ ፡ ትቤንንዋ ፡ ለምድር ።=፡ ተቀነዩ ፣ ለአግዚኣብሔር ፡ በፍርሃት ፡ ወተሐሠዩ ፡ ሎቱ ፡
+The prophet Joel prophesied and said: "I, I saw a virgin of the tribe of Judah and of the seed of David. She became the seat of the Lord; she was throwing flames like fire. I questioned the cherub concerning her and I said to him: Who is this? He said to me: This is the seat of the Lord, the chosen one among the sons of Adam. Through her the debased peoples will be saved. She is the help and the refuge of the one who will have believed in her." The prophet David said in Psalm II: "The Lord said to me: You are my son and I today I have begotten you. Ask me: I will give you the peoples for your inheritance and your dominion will be to the ends of the earth; you will shepherd them with a rod of iron and, like pottery, you will break them. Now, kings, understand; be instructed, you all who judge the earth. Serve the Lord in fear and rejoice in him in trembling. Strengthen the
+በረዓደ ፡=፡ አጽንዕዋ ፣ ለጥበብ ፣፡ ከመ ፡ ኢይትመዓዕ ፡ አግዚኣብሔር ፣፡ ወኢትትሐጐሉ ፡ እምፍኖተ ፡ ጽደቅ ፡ ዕባ ፡ ነደት ፡ ፍጡነ ፡ መንቱ ፡ ብፁንን ፡ ኩሎሙ ፡ እለ ፡ ተወከ ሱሉ ፡ቦቱ ፡፡ ወካዕበ ፡ ይቤ ፡ ዳዊት ፣ ነቢይ ፣ በመዝሙር ፡ ዘ፻ዘወለድኩከ ፡ እምከርሥ ፡ አምቅድመ ፡ ኮከበ ፡ ጽባሕ ፡=፡ መሐለ ፡ አግዚኣብሔር ፡ ወኢይኔስሕ ፡ እስመ ፡ አንተ ፡ ክሀኑ ፥ ለዓጳም ፡ ከመ ፡ ሚመቱ ፡ ለ”መልክ ፣ ጹዴቅ ፡=፡ ወበከመ ፡ ከሠተ ፡ ዕፀ ፡ ሳቤቅ ፡ በገን ፡ አብርሃም ።፡ ወበከመ ፣ ውሕዘ ፡ ማይ ፡ እምኩዬኩሕ ፡ በውስተ ፡ ገዳም ፡=፡ ወበከ መ ፡ ሠረፀት ፡ በትረ ፡ አሮን ፡ ይብስት ፣ ወፈረየት ፡= ወበከመ ፡ ወለደት ፤ አድግተ ፤ በለዓም ፣ ጽምምት ፡ ዕዋለ ፡ ዘይትናገር ፍ= ወበከመ ፡ ውሕዘ ፡ ማይ ፡ እመንከሰ ፡ አድ ግ፣ ውስተ ፡ እዴሁ ፡ ለሳምሶን ፡ ረዓይት ፡ ወአምዓጽመ ፡ አንበሳ ፣ ማይ ፣ ወመዓር ፡፡ ወበከመ ፡ ኮነት ፡ እሳት ፡ ትነድድ ፡ ውስተ ፡ ፅፀ ፡ ጳጦስ ፡ በቅድመ ፡ ሙሴ ፡ ነቢይ ፡ ወኢውዕየት ፡፡ ከማሁ ፤ ወለደቶ ፡ እግዝእትነ ፡ ማርያም ፡ ለእግዚእነ ፡ ኢየሱስ ፡ ክርስ ቶስ ፡ ወኢያውዐያ ፡ እሳተ ፡ መለኮት ፡=፡
+wisdom, so that the Lord may not be angry and that you may not perish (far) from the path of justice, when his anger will quickly flare up. Blessed are all those who have put their trust in him." Again, the prophet David said in Psalm CIX: "I have begotten you from the womb before the morning star. The Lord has made an oath and he will not repent, for you are his priest forever, according to the function of Melchizedek." As the bush revealed the ram of Abraham, as water flowed from the rock in the desert, as the dry rod of Aaron sprouted and bore fruit, as the mute donkey of Balaam gave birth to a foal that spoke, as water flowed from the jawbone of the donkey in the hand of Samson the giant, and from the bones of the lion water and honey, as the fire in the bush burned without being consumed before the prophet Moses, so Our Lady Mary gave birth to Our Lord Jesus Christ and the fire of divinity did not burn her.
+
+
+[p. 97] {#po.26.p97}
+ወሎቱ ፡ ስብሐት ፡ ወክብር ፡ ወሰጊድ ፡ ምስለ ፡ አቡሁ ፣ ዔር ፡ ወመንፈስ ፤ ቅዱ
+To him glory, honor, adoration with his good Father and the life-giving Holy Spirit
+ስ ፡ ማሕየዊ ፡ ዘዕሩይ ፣ ምስሌሁ ፡ ይእዜኒ ፡ ወዘልፈኒ ፡ ወለዓለመ ፡ ዓለም = አሜን ኦሜን ።፡፡ ወአሜን ።፡ ፪፪. ፲06:18108. 0ኳ ዣዝ:9219 ኞጅ, .ል.). ወበዛቲ ፡ ዕለት ፡ ክዕበ ፣ ተወልደ ፣ ኢያሱ ፣ እምቤተ ፡ ኤፍሬም ። ወውእቱ ፡ ዘኮነ ፡ መድኃኒቶሙ ፣ ለደቂቀ ፡ እስራኤል ፡ እምፀባኢተ ፣ አጽራር ፤ ወልደተ ፣ እግዚእነሂ ፡ ኮነ ፣ መድኃኒቶሙ ፡ ለአዳም ፡ ወለደቂቁ ። ወውእቱ ፡ ኮነ፣ስ ሙ ፡ ቀዳ ”ሚ ፡ ዮሴዕ ። ወሶበ ፣ አድኃኖሙ ፡ እምፀብአ ፡ አማሌቅ ፡ ለደቂቀ ፡ እስራኤ ል ፡ በራፊድ ፡ ተሰምየ ፡ ኢያሱ ፡ ዘውእቱ ፡ መድኅን ። ወእምድኅረ ፡ ሞተ ፡ ሙሴ ፤ ኃረዮ ፤ እግዚአብሔር ፡፤ ወረሰዮ ፣ መስፍነ ፡ ላዕለ ፡ እስራኤል ። ወአድኃኖሙ ፣ እምቀ ትለ ፡ አሕዛብ ፡ ነኪራን ፡፣ ወአስተዋረሶሙ ፡ ምድሮሙ ። ወእምዝ ፡ አፅረፈ ፡ በሰላም ፤
+who is equal to him, now, always and for ever and ever. Amen. Amen. Amen. II. - Revision or Vulgate (P, A). On this day also was born Joshua of the house of Ephraim. It is he who was the salvation of the Israelites against the army of the enemies, (like) the birth of Our Lord also was the salvation of Adam and his children. His first name was Yosê'. When he had saved the Israelites from the war of Amalek at Râfid, he was called 'Iyâsou (Joshua), which means "savior." After the death of Moses the Lord chose him and established him judge over Israel. He saved the (Israelites) from the massacre of the foreign peoples and established them as heirs of their land. Then he died in peace and inherited the kingdom of heaven.
+
+
+[p. 98] {#po.26.p98}
+ወወረሰ ፡ መንግሥተ ፡ ሰማያት ። እ, በረከቱ ፡ ቅድስት ፡ ትኩን ፡ ምስለ ፡ ንጉሥነ ፡ ኢያሱ ፡ ለዓለመ ፡ ዓለም ። ወበዛቲ ፡ ዕለት ፡፣ኣዕበ ፤ ኮነ ፣ ተዝካረ ፣ ያዕቆብ ፡ ወፊልሲስ ፣ ወቴዎድሮስ ፤ ሰማፅ ት ፡ከካልእ።
+May his holy blessing be with our King Iyasu for ever and ever. On this day also is the commemoration of James, of Philip (Filsis), and of Theodore, the second martyr (of that name).
+
+
+[p. 99] {#po.26.p99}
+ጸሎቶሙ ፡ ወበረከቶሙ ፡ የሀሉ ፡ ምስሌነ ፡ ለዓለመ ፡ ዓለም ፡፡
+May their prayer and their blessing be with us for ever and ever.
+ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ አዕረፈ ፡ አቃርዮስ ፣ ንጉሠ ፡ ሮሃ። ለዝንቱ ፡ ቅዱስ ፡ ኮነ ፡ መንግሥቱ ፡ በብሔረ ፡ ሶርያ ፡ ዘትሠመይ ፡ ሰርሜን ፡ ወይ እቲ ፡ ሀገረ ፡ ሮሃ ። ወኮነ ፡ ያመልክ ፡ ጣዖተ ፡ ወመፃጐዕ ፡ ውእቱ ፡ ወወሀበ ፡ ንዋዮ 0፣ ለዓቀብተ ፡ ሥራይ ፡ ወኢክሀሉ ፡ ፈውሶቶ ። ወሶበ ፡ ሰምዓ ፡ ምግባራቲሁ ፡ ለእግዚእነ ፣ ወተኣምራተ ፡ ዘገብረ ፣ በፈውሶ ፣ ድ ውያን ፡ ወአውፅኦ ፡ አጋንንት ፡ ወከሚተ ፡ አፅይንተ ፣ ዕውራን ፣ ወአንሥኦ ፡ ሙታ ን ፡ ለአከ ፡ ኀቤሁ ፡ እንዘ ፡ ይብል ፡ ሰላም ፡ ለከ ፡ አግዚአብሔር ፡ ዘአስተርአይከ ፡ በ ሥጋ ፡ ሰብእ ፡ ወሰላም ፡ ለአቡከ ፡ ዘፈነወከ ፡ ታሕተ ፡ እንዘ ፡ ኢትትፈለጥ ፡ እምኔሁ ፡ ወሰላም ፡ ለመንፈስ ፡ ቅዱስ ፣ ዘአልፕሰሰ ፣ ውስተ ፡ እዝነ ፡ ሕሊናየ ፡ ከመ ፡ አንተ ፣ መሲሑ ፡ ወመዓርዩ ፡ ሰላም ፡ ለእም"ከ ፡ ዘወለደተከ ፡ በድንግልናሃ ፡ ዘእንበለ ፡ ብእ ሲ ፡ ወሰላም ፡ ለዙሎሙ ፡ እለ ፡ የአምኑ ፡ ብከ ። አንሰ ፡ አመንኩ ፡ ብከ ፣ ወተመየጥ ኩ ፡ አምአምልኮ ፡ ጣዖት ፡ ኅበ ፡ አምልኮ ፡ ዚአከ ። ነዓ ፣ ኀቤየ ፡ ከመ ፡ ትኩን ፡ ንጉ ሠ ፡ ላዕሌየ ፡ ወትባርክ ፡ ሀገርየ ፡ ወትፈውስ ፡ ደዌየ ፡ ወታንጽሕ ፡ ርስሐትየ ። ለምን
+On this day also died Abgar, King of Edessa. The kingdom of this saint was in the land of Syria which is called Sarmên. (The capital) was the city of Edessa, || worshipped idols. He was a paralytic. He gave his money to physicians, but they could not heal him. When he learned of the works of Our Lord and the miracles that He performed for the healing of the sick, the expulsion of demons, the opening of the eyes of the blind, and the resurrection of the dead, he sent Him a letter saying: "Greetings to you, Lord, who have appeared in the flesh of men. Greetings to your Father who sent you here below, while you are not separated from him. Greetings to the Holy Spirit who whispered in the ear of my thought that you are his Messiah and his equal. Greetings to * your mother who bore you in her virginity, without a man. Greetings to all those who believe in you. I have believed in you and I have converted from the worship of idols to your own worship. Come to me, so that you may become king over me, that you may bless my city, that you may heal my sickness, and that you may purify my defilement. As for the people of the Jews who hate you and envy your
+
+
+[p. 100] {#po.26.p100}
+ት ፡ ለከ ፡ ሕዝበ ፡ አይሁድ ፡ አለ ፡ ይጸልኡከ ፡ ወይቀንዑ ፡ ስመከ ፡ ቅዱሰ ፡ ትጻሙ፣0፣ በከ ፡ እስመ ፡ ሕዝብ ፡ ሕጉላነ ፡ ምክር ፡ አሙንቱ ፡ ቀዳሚ ፡ ዘኢአምኑከ ፡ አመ ፡ አው ጻጸአክኮሙ ፡ እምግብጽ ፡ በገቢረ ፡ ተኣምራት ፣ ወመንክራት ፣ ወሴሰይኮሙ ፡ መና ፡ሣ ዓመተ ። ሚመጠን ፡ ዘአንጐርጐሩ ፡ ላዕሌከ ፡ እስከ ፣ ረሰይኮሙ ፣ ለተሐጉጐሎ ፡ እፎ ኬ ፡ ይእዜ ፡ ሶበ ፡ ይኔጽሩከ ፡ ለቢሰከ ፡ ሥጋ ፡ ምድራዊ ፡ ዘይርሀብ ፡ ወዘይጸምእ ፡ ይ መስለከኑ ፡ ዘይትበዓድ ፣ እከዮሙ ፡ እስመ ፡ አንተ ፣ ማእምረ ፡ ሀቡኣት ። ወዘንተ ፡ወ ዘይመስሎ ፡ ፈነወ ፡ ኅቤሁ ፡ በክታብ ። ወዕበ ፡ በጽሑ ፡ ላእቫኒሁ ፣፥ ለንጉሥ ፡፣ ኅበ ፣ እግዚአነ ፡ አእመረ ፡ ዘውስተ ፡ ል ቦሙ ፡፣ ወነገሮሙ ፡ ዘአምጽኡ ፡ ሎቱ ፣ መልእክተ ፡ እምቅድመ ፡ ይንግርዎ ። ወእም ዝ ፡ ነሥአ ፡ ልብሰ ፡ ፀዓዳ ፡ ወመዝመዘ ፡ ቦቱ ፡ ገጾ ። ወገብአ ፡ መልክና ፡ ገጹ ፡ ቀይ ሕ ፡ ውስተ ፡ ውእቱ ፡ ልብስ ፡ ወፈነወ ፡ ሎቱ ፡ ምስለ ፣ ታዴዎስ ፡ ረድኡ ፡ እንዘ ፡ ይብ ል ፤ ንሣእ ፡ ዘንተ ፡ ሥዕለ ፡ መልክፅየ ፡ ውእቱ ፡ ይፌጽም ፡ ለከ ፡ ዙሎ ፡ መፍቅደከ፣(፣ ወይፌውስከ ፡ እምደቄከ ፣ ”ወይባርክ ፡ ሀገረከ ፡ ወያረትዕ ፡ መንግሥተከ ፡ እስመ ፡ ዝ ንቱ ፡ ሥዕል ፡ አነ ፡ ውእቱ ፡ ፍትኖ ፡ በእሳት ፣ ወበማይ ፡ ለእመ ፡ ይትዌለጥ ።
+holy name, why do you labor in vain? For it is a people lost in (evil) designs, they who formerly did not believe in you, when you brought them out of Egypt through the accomplishment of miracles and wonders and fed them with manna for forty years. How many were those who murmured against you, to the point that you destined them for perdition! How then now, when they look upon you clothed in earthly flesh that hungers and thirsts, would it seem to you that their malice has become different, since you know hidden things?" He sent him this and similar (words) in a letter. When the king's messengers arrived near Our Lord, He knew what was in their hearts and He explained to them, before they had spoken to Him, the message they were bringing Him. Then He took a white cloth with which He wiped His face. The image of His face was fixed in red on this cloth and He sent it to him by Thaddaeus, His disciple, saying: "Take this imprint of my image. It will accomplish for you all your desires, it will heal you of your sickness, * it will bless your city, and it will make your kingship upright, for this image is myself. Test it by fire and by water (and see) if it alters."
+ወሶዕበ ፣ በጽሑ ፡ ላእክን ፣ ኀበ ፣ አቃርዮስ ፡ መጠውዎ ፡ ውእተ ፡ሥዕለ ፡ ወፈተን
+When the messengers arrived to Abgar, they delivered this image to him
+
+
+[p. 101] {#po.26.p101}
+ዎ ፡ በአሳት ፣ ወበማይ ፡ ወኢለከፎ ፡ ምንተኒ ፡ ወአምኑ ፡ ቦቱ ፡ ሀገረ ፡ ሮሃ ፡ በሥል ጣነ ፡ መለኮቱ ፡ ወገብረ ፡ ተኣምራተ ፡ ወመንክራተ ፡ ዐበይተ ፡ ዘአልቦ ፡ ጐልቀነ ። ወንጉሥኒ ፡ ተፈወሰ ፡ እምደዌሁ ። ወአዕረፈ ፡ በሰላም ፡ በዛቲ ፡ ዕለት ።
+and they tested it by fire and by water. (That) did not affect it in any way. Through it the city of Edessa believed in the power of His divinity. It performed great (and) innumerable miracles and wonders. The king was healed of his sickness.
+በረከቱ ፡ ቅድስት ፡ ተሀሉ ፡ ምስለ ፡ ንጉሥነ ፡ ኢያሱ ፡ ለዓለመ ፡ ዓለም ። ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ አዕረፈ ፣ ቄሪል ፡ ገመላዊ ። ዝንቱ ፡ ቅዱስ ፡ ኮነ ፡ እምሀገረ ፡ ሰምኑድ ፡ ወውእቱሰ ፡ ተጸማዲ ፡ ለጾም ፡ ወለጸ ሎት ፡ ወወሀቦ ፡ እግዚአብሔር ፤ አእምሮ ፡ ምሥጢራት ፣፤ ወሥውራት ። ወቦቱ ፡ ፻አ ግማል ፡ ዘይትንጌበር ፡ ቦሙ ፡፣ መፍቅዶ ፡ ወይፅዕን ፣ ቦሙ ፡፣ መፍቅዶ ፡ እምገራህሀቱ ፡ ተላቤ ። ወሀሎ ፣፡ ፳ብእሲ ፡ እምሰብአ ፡ ፈራኾን ፡ ዘኮነ ፡ ሊቀ ፡ ክህናት ፡ ለመርጡለ ፡ እግዝእትነ ፡ ቅድስት ፣፤ ድንግል ፡ ማርያም ፡ ወላዲተ ፡፣ አምላክ ፡ ዘይእቲ ፡፣ሀገር ፡ ዘክ ነ ፡ አቡሁኒ ፣ ስዩመ ፡ እምቅድሜሁ ። ወባቲ ፡ ንዋያት ፡ ብዙኃት ፡ ለይእቲ ፡ ቤተ ፣ ክርስቲያን ፡ ዘወሀብዋ ፣ ነገሥት ፣ ወመኳንንት ፡፣ ወውእ”ቱ ፡ይነብር ፡ ውስተ ፣ መዝ ገብ ፡ ኅቡእ ፡ ወያአምር ፣፡ ጐልቆ ፣ ኤሏስ ፣ ቆይስ ፡ ወእምታሕቴሁ ፡ ዝንቱ ፡ ሊቀ፣ ከህናት ። ወእምዝ ፡ ዘእንበለ ፡ ይንግሮ ፡ ለወልዱ ፡ ሞተ ፡ ግብተ።
+He died in peace on this day. May his holy blessing be with our King Iyasu, for ever and ever. On this day also died Cyril the Camel-driver. This saint was from the city of Samnoud. He was assiduous in fasting and prayer. The Lord gave him the knowledge of mysteries and arcana. He had three camels with which he worked and which he loaded, according to his needs, with the flax from his field. There was a man, among the people of Farâguen, who was archpriest of a sanctuary of Our Lady the Holy Virgin Mary, Mother of God, in the city where his father also before him had been appointed. This church possessed many goods that kings and governors had given it. * || had charge of the hidden treasure. The bishop knew the account (of the treasure). Under him was this archpriest. Then, without having spoken of it to his son, (the archpriest) died suddenly.
+
+
+[p. 102] {#po.26.p102}
+ወሶበ ፡ ሰምዓ ፣ ኤጴስ ፡ ቆኦስ ፡ ሞቶ ፣ መጽአ ፡ ውስተ ፡ ይእቲ ፡ ቤተ ፡ ክርስቲ ን ፡ ወተኃሠሠ ፡ ንዋየ ፡ እምወልዱ ፡ ወይቤ ፡ ኢያአመርኩ ፡ ኅበ ፡ ሀሎ ፡ መዝገብ፣ ኅቡእ ፡ ወኢነገረኒ ፡ አቡየ ፡ እስመ ፡ ነሥኦ ፡ እደ ፡ ሞት ፡ ግብተ ። ወሰሚዖ ፡ ኤሏስ ፡ ቆኦስ ፡ ተምዓ ፣ ላዕሌሁ ፣ ወፈቀደ ፣ ይሣቅዮ ። ወሰአሎ ፡ ለኤዲስ ፡ ቆዕስ ፡ ወይቤሎ ፡ ጽንሐኒ ፡ እስከ ፣ አኃሥሥ ፣ ማኅደረ ፡ መዝገብ ፡ ወሶበ ፡ ኢረከብኩ ፡ትሬስየኒ ፡ ዘ ፈቀድከ ። ወወሀቦ ፡ ኤኢስ ፡ ቆዕስ ፡ ዕድሜ ፣፡ ወበዊኦ ፡ ውስተ ፡፣ ቤቱ ፡ ነገራ ፡ ለብእ ሷቱ ፡ ኩሎ ፡ ትካዞ ፣ ወትቤሎ ፣ ተአመን ፡ በአግዚአብሔር ፡ ወሑር ፡ ኅበ ፡፣ መነኮ ሳት ፣ አበው ፡ ዘደብረ ፡ አባ ፣ መቃርዮስ ፡ ወኅሥሥ ፣ አምኔሆሙ ፡ ወአምአግዋሪ ሆሙ ፡ እስመ ፡ አሙንቱ ፡ ይነግሩከ ። ወበጺሖ ፡ ህየ ፡ ሰአሎሙ ፡ ለመነኮሳት ፡ ምስ ለ ፡ አንብፅ ፣ ከመ ፡ ያሥልጡ ፡ ሎቱ ፡ ትካዞ ፣ ወኃጥአ ፡ ዘይነግሮ ፣፡ አሐዱሂ ፡ እምኔ ሆሙ ፡፡ ወቀጸቦ ፡ 8ባሕታዊ ፡፤ ወይቤሎ ፡ ሑር ፡ ኅበ ፡ ሰምኑድ ፡ ወተሰአል ፡ በእንተ ፡
+When the bishop learned of his death, he came to this church and demanded the money from his son. (The latter said to him): "I do not know where the hidden treasure is; my father did not tell me, for the hand of death took him suddenly." Having heard (this), the bishop became angry with him and wanted to punish him. He implored the bishop and said to him: "Wait for me, until I have searched for the place of the treasure. If I do not find it, you will do to me what you wish." The bishop gave him a delay. Having entered his house, (the son of the archpriest) told his wife all his worry. She said to him: "Have confidence in the Lord and go to the monks, the Fathers of the convent of Abba Macarius; seek from them and their neighbors, for they will inform you." Having arrived there, he asked the monks, with tears, to put an end to his worry. There was none among them who informed him. (But) a solitary made a sign to him and said to him: "Go to Samnoud, ask for Cyril the Camel-driver, stay with him, and he himself will inform you."
+ቄሪል ፡ ገመላዊ ፡ ወኅድር ፡ ኅቤሁ ፡ ወውእቱ ፡ ይዜንወከ ። ወበዊኦ ፡ ውስተ ፡ ሰምኑድ ፡ ሀገር ፡ ወተስእለ ፡ በእንቲአሁ ፡ ወነገርዎ ። ወበጺሖ ፡ ሀየ ፡ ረከቦ ፡ ውስተ ፣ ማኅደሩ ፡ ወያአግማል ፡ ምስሌሁ ። ወሶዕበ ፡ ርእዮ ፡ አእመረ ፡ በ መንፈስ ፡ ኩሎ ፡ መፍቅዶ ። ወእምዝ ፡ አብኦ ፡ ውስተ ፥፡ “ማኅደሩ ፡ ወአቅረበ ፡ ሎቱ ፡
+Having entered the city of Samnoud, he inquired about him and they told him (where he was). Having arrived there, he found him in his dwelling. The three camels were with him. When (Cyril) saw him, he knew in spirit all his desire. Then he brought him into * his dwelling and offered him food. (This man) said to him: "O my Father, I will not eat, before you satisfy my desire."
+
+
+[p. 103] {#po.26.p103}
+መብልዓ ፡ ወይቤሎ ፡ ኦአቡየ ፡ ኢይበልፅዕ ፡ ዘእንበለ ፡ ትፈጽም ፡ መፍቅድየ ። ወይቤ ሎ ፡ ቄሪል ፡ መፍቅድከሰ ፡ ይትፌጸም ፡ በጊዜሁ ። ወእምድኅረ ፡ ድራር ፡ ኖሙ ፡ ለለ፣ ማኅደሮሙ ፡ ወጊዜ ፡ መንፈቀ ፣ ሌሊት ፡ ከዊኖ ፡ ርእዮ ፡ ውእቱ ፡ ብአሲ ፡ ለቄሪል ፡ ገመላዊ ፡ እንዘ ፣ ይቀውም ፡፣ ምስለ ፣ አግማሊሁ ፡ ወሶበ ፡ ይሰግድ ፣ ይሰግዱ ፣ ምስሌ ሁ ፡ ወሶበ ፡ ይጹሊ ፡ ይጹልዩ ፡ ምስሌሁ ። ወበሳኒታ ፡ ወሰዶሙ ፡ ውስተ ፡ ገራህት፣ ለአግማሊሁ ፡ ከመ ፡ ይጽአን ፣ ቦሙ ፣ መፍቅይ ፡ ወውእቱኒ ፡ ብእሲ ፡ ሖረ ፡ ምስሌ ሁ ፡ ከመ ፡ ይትራድኦ ። ወበጺሖሙ ፡ ውስተ ፡ ገራህት ፡ አኃዞ ፡ ቄሪል ፡ ለ8ገመል ፤ ከመ ፡ ይፅአን ፡ ቦቱ ፡ ተላቤ ፡ ወውእቱሂ ፡ ብአሲ ፡ እንዘ ፡ ይፅዕን ፣ ውስተ ፡ ክልእ፣ ገመል ፡ አክበደ ፡ ሎቱ ፡ ፈድፋደ ፡ እምዓቅሙ ፡ ወዕበ ፡ ፈቀደ ፡ ይንሣእ ፡ጾሮ ፡ ስዕነ፣ ተሐውሶ ። ወነሥአ ፡ በትረ ፣ ከመ ፡ ይዝብጦ ፡ ወጸርሐ ፡ ገመል ፡ በልሳነ ፡ ሰብእ ፡እ ንዘ ፣ ይብል ፡ ኦአቡየ ፣ ቄሪል ፡፤ ኢትኅድጎ ፡ ለዝንቱ ፡ ብእሲ ፡ ከመ ፡ ያኅስም ፡ ላዕሌ የ ፡ እስመ ፣ ውእቱ ፡ አጾረኒ ፡ ዘእንበለ ፣ ድልወትየ ። ወመጽአ ፡ ቁረል ፡ ወአቅለለ ፡ ሎቱ ፡ ክበዶ ፡ ዘጾሮ ፣ ወይቤሎ ፡ ለውእቱ ፡ ብእሲ ፣ ኦወልድየ ፡ ለምንት ፣ አጾርኮ ፣ መጠነ ፡፤ ኢይክል ፡ ጸዊረ ፡ አኮኑ ፡ አንተ ፡ ተኃዝን ፡ ሶዕበ ፡ አምጽኡ ፡ ላዕሌከ ፡ ጾረ ክቡደ ፡ ወግብረ ፡ ዘኢትክል ፡ ጸዊሮቶ ።
+Cyril said to him: "As for your desire, it will be satisfied in its time." After supper, they slept each in his room. At the hour of midnight, this man saw Cyril the Camel-driver standing with his camels. When he prostrated himself, they prostrated themselves with him; when he prayed, they prayed with him. The next day he led his camels into the field, in order to load them (with the flax) he needed. This man also went with him to help him. When they had arrived in the field, Cyril took a camel, in order to load it with flax, (but) this man, while he was loading another camel, overloaded it far beyond measure. When he wanted to lift its load, it could not move. (This man) took a stick to strike it. The camel cried out in the language of men, saying: "O my father Cyril, do not allow this man to mistreat me, for he himself has loaded me beyond my (just) weight." Cyril came, lightened it of the burden it was carrying, and said to this man: "O my son, why did you load it with a weight it cannot carry? Are you yourself not sad, when one puts on you a heavy load and a thing that you cannot carry?"
+
+
+[p. 104] {#po.26.p104}
+ወእምዝ ፡ ሶበ ፣ አተዉ ፡ ውስተ ፡ ማኅደሮሙ ፡ ሰአሎ ፡ በእንተ ፡ ትካዙ ፣ ከመ፣ ይንግሮ ፡ ወይክሥት ፡ ሎቱ ፡ መካነ ፡ መዝገብ ፣ ኅቡእ ። ወእምድኅረ ፣፡ አምሐ"”ሎ ፣ ከመ ፡ ኢይንግር ፡ ለካልእ ፡ ነገሮ ፣ ወይቤሎ ፡ ሀሎ ፣ በምሥራቂሃ ፡ ለይእቲ ፡ ቤተ፣ ክርስቲያን ፡ ታቦት ፡ ንኡስ ፣ ወህየ ፣ ውእቱ ፣ አንቀጸ ፣ ቤተ ፣ መዝገብ ። ወበጺሖ ፤ ውስተ ፡ ቤቱ ፡ ነገራ ፡ ለብእሲቱ ፣፡ ወሐዊሮሙ ፡ ኅቡረ ፡ ኅበ ፡ ውእቱ ፡ መካን ፡ ረከ ቡ ፡ ውእተ ፡ መዝገበ ፡ ዘአልቦ ፣ ከማሁ ፡ ውስተ ፡ መዛግብተ ፡ ነገሥት ።፡ ወነገሮ ፡ ለ ኤዲስ ፡ ቆፅስኒ ፡ ወውእቱኒ ፣ አወፈዮ ፡ ሎቱ ። ወዝንቱኒ ፡ ቄሪል ፡ ብእሲ ፡ ቅዱስ ፡ እምድኅረ ፣ ተጋድሎ ፡ ብዙኅ ፣ ወርስዓን ፡ ጥሉል ፡ አዕረፈ ፡ በሰላም ።
+Then, when they returned to their dwelling, he asked him, regarding his worry, to tell him and reveal to him the place of the hidden treasure. (Cyril), after he * had made him swear not to tell his words to another, said to him: "There is to the east of the church a small tabernacle. There is the door of the place of the treasure." Having arrived in his house, he explained (this) to his wife and, having gone together to this place, they found the treasure which had no equal among the treasures of kings. He explained (this) to the bishop and he himself handed over the (treasure) to him. As for this Cyril, a holy man, after great asceticism and a green old age, he died in peace.
+
+
+[p. 105] {#po.26.p105}
+ትንብልናሁ ፡ የሀሉ ፡ ምስለ ፡ ንጉሥነ ፡ ኢያሱ ፡ ለዓለመ ፡ ዓለም ። ወበዛቲ ፡ ዕለት ፡፣ ካዕበ ፣ ኮኑ ፣ ሰማዕታት ፣ዘአክሚም ።
+May his intercession be with our King Iyasu for ever and ever. On this day also are the martyrs of Akhmim.
+እንዘ ፡ ሀለዉ ፣ ጉቡኣነ ፣ ውስተ ፣ ቤተ ፡ ክርስቲያን ፣ በበዓለ ፡ ልደት ፡ ስቡሕ፣ ወክቡር ፣ እምዙሎን ፡ በዓላት ፡ ወገብሩ ፣ ቅዳሴ ፣ ዮርባን ፣ ወርእይዎ ፡ ነቢሮ ፣ ለእግ ቪእነ ፡ ዲበ ፡ ታቦት ፣ እንዘ ፣ ይሜጥዎሙ ፣ ለሕዝብ ፣ ምሥጢራተ ፡ቅድሳት ። ወእ ንዘ ፣ ሀለዉ ፣ በዝንቱ ፣ ፍሥሓ ፡ መጽእ ፡ አርያኖስ ፣ ወዓገቶሙ ፡ ወቦአ ፡፣ ውስተ፣
+While they were gathered in the church, on the feast of the Nativity (of the Lord), glorious and illustrious more than all feasts, and mass was being celebrated, they saw Our Lord sitting on the tabernacle, while He was giving the holy mysteries to the people. While they were in this joy, Arianus came. He surrounded them and entered the church. He arrested
+
+
+[p. 106] {#po.26.p106}
+ቤተ ፡ ክርስቲያን ። ወአኃዞሙ ፣ ለ፪ሊቃውንተ ፡ሀገር ፣ ዘስሞሙ ፣ ምሕዋፍ ፣ ወውን ኒ ፡ ወመተሩ ፡ ርእሶሙ ፡ በሰይፍ ። ወድኅሬሁ ፡ ቀተለ ፡ ዲያቆናተ ፡ ወንፍቀ ፡ ዲያቆ ናት ፣ ”ወመዘምራነ ፡ ወመገብተ ፡ ቤተ ፡ ክርስቲያን ፣ ወኢያትረፈ ፡ አንስተ ፡ ወደቀ ፡ እስከ ፡ ወፅአ ፡ ደሞሙ ፡ እምአንቀጸ ፡ ቤተ ፡፣ ክርስቲያን ፡ ወውሕዘ ፡ መጠነ ፡ ፳አመ ት ። ወለአባ ፣፡ ቡንድያስ ፡ ኤኢስ ፡ ቆፅስ ፡ ወለዲዮስቆሮስ ፣ ወለሰከላብዮስ ፣ ወለአኃ ው ፡ አለ ፡ ምስሌሆሙ ፡ ወሰዶሙ ፡ ምስሌሁ ፡ አርያኖስ ፡ እንዘ ፡ እሱራን ፡ አሙንቱ ።
+two notables of the city called Mehwâf and Wenni. Their heads were cut off with the sword. Then they killed the deacons, the subdeacons, * the cantors, and the stewards of the church. They left neither women (nor) children, to such an extent that their blood came out of the church door and flowed for a length of twenty cubits. Arianus took with him, while they were in chains, Abba Boundyâs, bishop, Dioscorus, Sakaläbyos, and the brothers who were with them. Here is written the commemoration of their martyrdom on the 1st of Ter.
+ወናሁ ፡ ጽሑፍ ፡ ተዝካረ ፡ ስምዖሙ ፡ አመ ፡ ጸለጥር ። በረከቶሙ ፡ ቅድስት ፡ ተሀሉ ፡ ምስለ ፡ ፍቁሮሙ ፡ ዘመንፈስ ፡ ቅዱስ ፡ ለዓለ መ፡ዓለም።
+May their holy blessing be with their beloved Za-Manfas-Qedous for ever and ever.
+
+### THE 30TH OF TÂHSAË
+፲5 ፲ፕ48548 13505),88እ). ፪. ፪6666.610ጺ. ዌጄህአዐ11196 ፈ, ፔ). በስመ ፡ አብ ፣ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡=፡
+|. - Primitive recension (A, T). In the name of the Father, of the Son, and of the Holy Spirit, one God.
+
+### THE 30TH OF TAHSAS, READING
+አመ ፡ ፳ለታኅሣሥ ፡-ምንባብ ፡፡ በዛቲ ፡ ዕለት ፡ አዕረፈ ፡ አብ ፣ ቅዱስ ፡ አባ ፡ ዮሐንስ ፡ አበ ፡ ምኔት ፣ ዘገዳመ፣ አስቄጥስ ፡፡
+On this day died the holy Father Abba John, abbot in the desert of Scetis.
+ዝንቱ ፡ ቅዱስ ፡ ሶበ ፡ ተሠይመ ፡ አበ ፡ ምኔት ፡ ላዕለ ፣ ደብረ ፡ ቅዱስ ፡ አባ፡መ ቃርስ ፡ ተበርሀት ፡፣ ቦቱ ፡ ቤተ ፡ ክርስቲያን ፡ ወኮነ ፣ አበ ፡ ለብዙኃን ፣ ቅዱሳን ፡=፡ ወእምኔሆሙ ፡ አባ ፡ ጋኣርጊ ፡ ወአባ ፡ አብርሃም ፡ ከዋክብት ፡ ዓበይት ፡ ወአባ፣0፣ ሚናስ ፡ ኤሏስ ፡ ቆፅስ ፡ ዘሀገረ ፣ ተመይ ፡ ወአባ ፡ ዘካርያስ ፡ ኤጴስ ፡ ቆፅስ ፡ ዘሀገረ ፡ ስሓ ፡ ወብዙኃን ፡ ዘአምሳሎሙ ።፡ ወኮነ ፡ መርሶ ፡ መድኃኒት ፣ ለነፍ” ሳት ፣፡ ብዙኃት ፡ ወኮነ ፡ ብዙኃ ፡ ጊዜ ፡ ዕበ ፣ ያቄርቦሙ ፣፤ ለሕዝብ ፡፣ ይትከሠት ፡ ሎቱ ፡ ኃጥእ ፡ ወጻ ድቅ ፣ ወብዙኃ ፣ ጊዜ ፡ ኮነ ፡ ይሬእዮ ፣ ለእግዚእነ ፡ ክርስቶስ ፣ ወለመላእክቲሁ ፡ ቅ
+When this saint was instituted abbot of the monastery of the holy Abba Macarius, the Church was illuminated by him and he became the father of many saints. Among them were Abba Gä'ârgi, Abba Abraham, great stars, Abba Minas, bishop of the city of Tamay, Abba Zacharias, bishop of the city of Sehâ, and many (others) similar to them. He was the port of salvation for many * souls. Often, when he gave communion to the people, the sinner and the righteous were revealed to him, and often he saw Our Lord Christ and His holy angels on the altar.
+ዱሳን ፡ ዲበ ፣ ምሥዋዕ = ወርእዮ ፡ አሐተ ፡ ጊዜ ፣ ለ፳ቀሲስ ፡ዘዝኮነ-፣ ምግባሩ ፣ እኩየ ፡ ሶበ ፣ መጽአ ፡ ኀበ፣ አንቀጸ ፡ ቤተ ፡ ክርስቲያን ፣ ወምስሌሁ ፣ ብዙኃን ፣ መናፍስት ፡ ርኩሳን ፡ እንዘ ፡ የዓ ግትዎ ፡ ወገብሩ ፡ ውስተ ፡ አፉሁ ፣ ልጓመ ፡= ወእምቅድመ ፡ ይባእ ፡ ውስተ ፡ ቤተ ፡ክ ርስቲያን ፣ ወጽአ ፣ መልአከ ፣ እግዚኣብሔር ፡ እምነ ፣ ምሥዋዕ ፡ ወበሰይፈ ፡ እሳት ፣ ሰደዶሙ ፡ እምኔሁ ፡ ወሶበ ፡ ቦአ ፣ ውአቱ ፡ ቀሲስ ፡ ወለብሰ ፡ አልባሰ ፡ ክሀነት ፡ ዘቅዳ
+He once saw a priest whose actions were evil, as he was coming to the door of the church. With him were many impure spirits who surrounded him and put a bit in his mouth. Before he entered the church, the angel of the Lord departed from the altar and, with a sword of fire, drove them (far) from him. When this priest had entered and had put on the priestly vestments
+
+
+[p. 107] {#po.26.p107}
+ሴ ፡ ኮነ ፡ ኩለንታሁ ፡ ከመ ፡ አሳት ።፡ ወቀደሰ ፡ ቀሩርባነ ፡ ወመጠዎሙ ፡ ለሕዝብ ፡ እ ምሥጢራተ ፡ ቅድሳት ።፡ ወሶበ ፡ ተዓርቀ ፡ አልባሰ ፡ ክህነት ፡ዘቅዳሴ ፣፡ ወወፅአ ፡ ኅበ ፡ አፍኣ ፡ ተመጠውዎ ፡ እሙንቱ ፡ መናፍስት ፡ ርኩሳን ፡ ወጸሊማን ፡ ወገብሩ ፡ ሎቱ ፡ በ ከመ ፡ ቀዳሚ ወዘንተ ፡ ነገረ ፡ ይቤሎሙ ፡ ቅዱስ ፡ አባ ፡ ዮሐንስ ፡ ለአኃው ፡ ከመ ፡ ያጠይቆሙ ፡ እስመ ፡ አልቦ ፡ ፍልጠት ፡ ለካህን ፡ ኃጥእ ፡ ወለጻድቅ ፣ በጊዜ ፡ መልእ ክተ ፡ ቅዳሴ ፡ እስመ ፡ በእንተ ፣ አሚኖቶሙ ፡ ለሕዝብ ፡ ይከውን ፣ ውእቱ ፡ ኅብስ ት፤ ሥጋሁ ፡ ለክርስቶስ ፤ ወውእቱ ፡ ወይን ፡ ደሙ ፡ ለክርስቶስ ።፡ ወይቤሎሙ ፡ በም ሳሌ ፡ እስመ ፡ ውእቱ ፡፣ በከመ ፣ ማኅተመ ፡ ንጉሥ ፡ ዘየኃትሙ ፡ቦቱ ፡ ኃጺነ ፡ ወወ ርቀ ፡ ወማኅተምሰ ፡ ኢይትዌለጥ ፡ ወከማሁ ፡ እምካሀናትኒ ፣ አሐዱ ፡ ኢይትዌለጥ ፡ አ
+for the mass, he became entirely like fire. He celebrated the mass and he gave the holy mysteries to the people. When he had taken off the priestly vestments of the mass and had gone outside, these impure and black spirits took him again and treated him as before. This fact, the holy Abba John told (it) to the brothers, in order to let them know that there is no distinction between the sinful priest and the righteous one at the moment of the celebration of the mass, for, as far as the faith of the people is concerned, the bread becomes (always) the body of Christ and the wine the blood of Christ. And he said to them by comparison: "(The priest) is like the king's seal with which one marks iron and gold. The seal itself does not change; likewise, none of the priests changes, but it is the Lord (who) will reward each according to his work."
+ላ ፡ እግዚኣብሔር ፡ ውእቱ ፡ ዘይፈድዮ ፡ ለለ ፡ 8፳8በከመ ፡ ምግባሩ ፡=፡ ወለዝንቱሰ ፣ ቅዱስ፣ በ”ጽሖ ፡ ምንዳቤ፣ ዓቢይ፣ ወጹወውዎ፣ በርባር ፡ አረማዊያን፤
+A great affliction * came to this saint, (for) pagan barbarians took him
+
+
+[p. 108] {#po.26.p108}
+ኀበ ፡ ብሔሮሙ ፡ ወአኅሠርዎ፣ ፈድፋደ፣ ወአመንደብዎ ፣ ወነበረ ፡ በኀቤሆሙ ፣ ብዙኃ ፡ ዓመታተ ፡ በውስተ ፡ ምንዳቤ ፡ ወእምዝ ፡ አግብኦ ፡ ክርስቶስ ፡ ኀበ ፡ ደብሩ ፡፡
+captive into their country. They mistreated him extremely and tormented him. He remained with them for many years in affliction. Then Christ made him return to his monastery.
+ወእምቅድመ ፡ ፍልሰቱ ፡ አአመረ ፡ ጊዜ ፣ ዕረፍቱ ፡ በአስተርእዮ ፡ መለኮታዊት ።፡ ወአስተጋብኦሙ ፡ ለአኃው ፡፣ ወአዘዞሙ ፡ ከመ ፡ ይፅቀቡ ፡ ትእዛዛተ ፣ ወንጌል ፡ ቅዱ ስ ፡ ወይሐሩ ፡ ከመ ፡ ሑረቶሙ ፡ ለአበው ፡ ቅዱሳን ፡ ከመ ፡ ይንሥኡ ፡ ምስሌሆሙ ፡ መክፈልተ ፡ ወርሥተ ፡ በመንግሥተ ፡ ሰማያት ። ወእምዝ ፡ ሐመ ፡፣ ንስቲተ ፡ ወርእዮ ሙ ፡ ለማኅበረ ፣ ቅዱሳን ፣ መጽኡ ፡ ከመ ፣ ይንሥኡ ፡ ነፍሶ ፣ ወተፈሥሐ ፡ ዓቢየ ፣ ፍሥሓ ፡ ወመጠወ ፡፣ ነፍሶ ፣ ውስተ ፡ እዴሁ ፡ ለእግዚኣብሔር ፡ ወአዕረፈ ፡ በሰላም ።
+Before his departure (from this world) he knew the moment of his death by a divine apparition. He gathered the brothers and ordered them to keep the commandments of the holy Gospel and to walk according to the path of the holy Fathers, in order to receive with them a share and inheritance in the kingdom of heaven. Then he was a little sick. He saw the assembly of the saints (who) were coming to take his soul. He rejoiced with great joy, surrendered his soul into the hand of the Lord, and died in peace.
+ወጾርዎ ፤ አኃው ፡ ወአብእዎ ፡ ውስተ ፡ ቤተ ፡ ክርስቲያን ፡ ቅድስት ፡ ጉባኤ ፡ወ ገነዝዎ ፣ በዝማሬ ፣ ወበማኅሌት ፣ ዓቢይ ። ወበእንተ ፣ ፍቅሮሙ ፣ ወብዝኃ ፣ አሚኖ ቶሙ ፡ ቦቱ ፡ መተሩ ፡ እምልብሰ ፡ ግንዘቱ ፡ አጽርቅተ ፡ ወኮኑ ፡ እሙንቱ ፡ አጽርቅት ፡ በኀቤሆሙ ፡ ፈውሰ ፡ ለኩሉ ፡ ዘይደዊ ፡ በኩሉ ፡ ደዌ ፡= ወሐይወ ፡ ዝንቱ ፡- አብ፣
+The brothers carried him and brought him into the holy church (of) the community. They buried him with many hymns and chants. Because of their love (for him) and the greatness of their confidence in him, they cut pieces from his funeral garments and these pieces, in their homes, became healing for all those who were sick with any
+
+
+[p. 109] {#po.26.p109}
+ቅዱስ ፡ አባ ፣ ዮሐንስ ፣ ሻጓዓመተ ። ወማኅደሩ ፡ ይነብር ፡ እስከ ፡ ዮም ፡ ወውእቱ ፡ በ ዓት ፡ ይሰመይ ፡ ቢግቢግ =፡
+sickness. This holy Father Abba John lived ninety years. His dwelling remains until today and this cave is called Bigbig.
+ጸሎቱ ፡ ወበረከቱ ፡ ወትንብልናሁ ፡ የሀሉ ፡ ምስሌነ ፣ አሜን ፡ ወአሜን ፡=፡ ተፈጸመ ፡ በዝየ ፡ ወርኃ ፡ ታኅሣሥ ፡ በሰላመ ፡ እግዚኣብሔር ፡ ሎቱ ፡ ስብሐት ፡፡ ወላዕሌነ ፡ ይኩን ፣ ሣህሉ ፡ ወምሕረቱ ፡ እስከ ፡ ለዓለመ ፡ ዓለም ፡ አሜን ፣ ወአሜን ፡=
+May his prayer, his blessing, and his intercession be with us. Amen. Amen. Here is completed the month of Tâhsâs in the peace of the Lord. To Him be glory. May His clemency and His mercy be upon us for ever and ever. Amen. Amen.
+፲፪. ፲0691810ኳ. “ህ19816 ጅ, .ሷ). ወበዛቲ ፡ ዕለት ፡ ካዕበ ፣ ኮኑ ፡ ስምዓ ፡ ካርዮን ፡፣ ወፊልሞን ፡ ዐበይት ፡ ሐራሁ ፣ ለአርያኖስ ፣ ወግሐራ ፡ እለ ፡ ምስሌሆሙ ። ወኮነ ፡ ምክንያተ ፣ ስምዖሙሰ ፡ ሶበ ፡፣ ርእዩ ፡ ተኣምራተ ፡ ወመንክራተ ፡ ዘተገ ብረ ፣ እምሰማዕታት ፣ ዲዮስቆሮስ ፣ ወሰከላብዮስ ፡ ወአባ ፣ ብኑድዮስ ፡ ዓበይተ ፡ አ ክሚም ፡ ገደፉ ፡ ትርሲተ ፡ ሐራ ፡ ወቆሙ ፡ ቅድመ ፡ አርያኖስ ፡ ወጸርጉጐ ፡ እንዘ ፡ ይ
+II. - Revision or Vulgate (P, A). On this day also were martyrs Gorion and Philemon, officers of Arianus, and the forty soldiers who were with them. Here is the occasion of their martyrdom. When they saw the miracles and wonders that were accomplished by the martyrs Dioscorus, Sakaläbyos, and Abba Benoudyos, notables of Akhmim, they threw away their military insignia, stood before Arianus, and cried out, saying: "We are Christians and believers
+
+
+[p. 110] {#po.26.p110}
+ብሉ ፡ ንሕነ፣ ክርስቲያን ፣ ወምእመናን ፡ በክርስቶስ ። ወአምዝ ፡ አዘዘ ፡ መኩንን ፡ ይው ርውዎሙ ፡ ውስተ ፡ እቶነ፣እሳት፣ ወከመዝ ፡ ፈጸሙ ፡ ስምፆሙ ። ወብዙኃን ፡ ጉቡኣን ፡ ዕበ ፡ ርአዩ ፡ ዘንተ ፣ ወረዉ ፡ ርእሶሙ ፡ ውስተ ፡ እቶን ፡ እንዘ ፡ አልቦ ፡ ዘያጌኔብሮሙ ። በረከቶሙ ፡ ተሀሉ ፡ ምስለ ፣ ንጉሥነ ፡ ኢያሱ ፡ ለዓለመ ፡፣ ዓለም ። ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ አዕረፈ ፡ ቅዱስ ፡ ዮሐንስ ፣፡ ዘሊቆስ ። ዝንቱ ፡ ቅዱስ ፡ ኮነ ፡ መስተጋድለ ፡ እምንአሱ ፣ እምአመ ፡ ለብሰ ፡ አልባሰ ፡ ምን ዙስና ። ወተውህቦ ፡ ጸጋ ፡ ትንቢት ፡ ወፈውሶዕ ፡ ድውያን ፡ እስከ ፡ ተሰምዓ ፡ ዜና ፡ ዝክ ሩ፣ውስተ ፡ ዙሉ ፡ ምድር።
+in Christ." Then the judge ordered them to be thrown into the furnace of fire. Thus they completed their martyrdom. Many (people were) gathered. When they saw this, they threw themselves into the furnace, without anyone forcing them. May their blessing be with our King Iyasu for ever and ever. * On this day also died Saint John of Ligos. This saint was an ascetic from his youth, as soon as he had put on the monastic habit. The grace of prophecy and of healing the sick was given to him to the point that the report of his fame was heard in the whole country.
+ወሀሎ ፡ ፳መኩንን ፣ ዘይሔውይ ፡ ወትረ ፡ ለአባ ፡ ዮሐንስ ፡ ወነበረት ፣ ብእሲቱ ፣ እንዘ ፣ ታጌብሮ ፣ ወታምሕሎ ፡ ከመ ፡ ያብጽሓ ፡ ኀበ ፡ ቅዱስ ፣ ዮሐንስ ፡ ወይቤላ ፡ እ ስመ ፡ ቅዱስሰ ፡ ኢይሬኢ ፡ ገጸ ፡ አንስት ፡ እምአመ ፣ ጣዓመት ። ወሐዊሮ ፡ መኩን ን ፡ ነገሮ ፡ ለአባ ፣ ዮሐንስ ፡ ዘከመ ፣ ትቤሎ ፡ ብእሲቱ ፡ ወይቤሎ ፡ አባ ፣ ዮሐንስ፣ በሥምረተ ፡ እግዚአብሔር ፡ እፌጽም ፡ ላቲ ፡ ፈቃዳ ። ወበይእቲ ፡ ሌሊት ፡ አስተር አየ ፡ ቅዱስ ፡ ዮሐንስ ፤ በሕልም ፡ ለይእቲ ፡ ብእሲት ፥ ወይቤላ ፡ ሚሊተ ፡ ወለኪ ፡ ብ እሷቶ ፣ ዘኃሠሥኪ ፡ ገጽየ ፡ ትርአዩ ፡ ሊተ ፡ ለኃጥእ ፡ ዘኢኮንኩ ፡ ጻድቀ ፣ ወኢነቢየ ፡
+There was a judge who visited Abba John continually. His wife did not cease to constrain him and to adjure him to lead her to Saint John. He said to her: "The saint has not seen the face of a woman for forty years." Having gone (to him), the judge explained to Abba John what his wife had said to him. Abba John said to him: "With the Lord's approval I will accomplish her will for her." That night, Saint John appeared in a dream to this woman. || He said to her: "What does this matter to me and to you, woman, who have sought to see my face, I who am a sinner, who am (neither) righteous nor a prophet. Henceforth do not
+
+
+[p. 111] {#po.26.p111}
+ወእምይእዜ ፡ ኢትድግሚ ፡ ኃሣሚሠ ፣፤ ገጽየ ። ወዘንተ ፡ ብሂሎ ፣ ጸለየ ፡ ላዕሌሃ ፣ ወባ ረካ ። ወበሳኒታ ፡ ነገረቶ ፣ ለምታ ፡ ዘከመ ፡ ሐወጻ ፡ ቅዱስ ፣ ዮሐንስ ፣ በመንፈስ ፡ ወ አመረቶ ፡ አርአያሁ ፡ ወአምሳሊሁ ። ወለአከቶ ፡ ኀቤሁ ፡ ምስለ ፡ ቃለ ፡ ተውዳስ ፡ ወ ምዝጋና ። ወሶዕበ ፡ ርአዮ ፡ ቅዱስ ፡ ለምታ ፡ አክሞሰሰ ፡ እምርቅ ፡ ወይቤሎ ፡ አኮኑ ፡ ፈጸምኩ ፡ ላቲ ፥ ተምኔታ ፡ ለብእሲትከ ፣ ወተራከብክዋ ። ወሰሚዖ ፡ ምታ ፡ አንከረ ፡ ፈድፋደ ፡ እምትሩፋቲሁ ፡ ወጽድቁ ። ወነበ”ረ ፡ አባ ፡ ዮሐንስ ፡ በተጋድሎ ፡ ጽፉቅ ፡ መጠነ ፡ ጻዓመት ፡ ወእምዝ ፡ አዕረፈ ፡ በሰላም ።
+begin again to seek my face." Having said this, he prayed for her and blessed her. The next day she told her husband how Saint John had visited her in spirit and she described to him his appearance and his likeness. She sent him to him with words of praise and gratitude. When the saint saw her husband, he smiled from afar and said to him: "Did I not accomplish your wife's desire and did I not meet with her?" Having heard (this), her husband admired his virtues and his righteousness extremely. Abba John * remained in intense asceticism for ninety years. Then he died in peace.
+በረከቱ ፡ቅድስት ፡ ወቡርክት ፡ ተሀሉ ፡ ምስለ ፡ ንጉሥነ ፡ ኢያሱ ፡ ለዓለመ ፡ ዓለም ። ወካዕበ ፡ በዛቲ ፡ ዕለት ፣ አዕረፈ ፡ አባ ፡ ዘክርያስ ፡ መስተጋድል ። ወዝንቱ ፡ ቅዱስ ፡ እምቅድመ ፡ ይመንዙስ ፡ እንዘ ፣ የሐውር ፡ በፍኖቱ ፣ ተንሥ ኡ ፡ ላዕሌሁ ፡ በርበር ፡ ወአኃዝዎ ፣፡ ወፈቀዱ ፣ ይኅርድዎ ። ወበፈቃደ ፡ እግዚአብሔር ፤ እንዘ ፡ የኃልፍ ፡ ሊቀ ፡ምኔት ፡ እንተ ፡ ይእቲ ፡ ፍኖት ፡ ከልሐ ፣ ላዕሌሆሙ ። ወእሙ ንቱ ፡ ተሐዘቡ ፣ ከመ ፡ መጽኡ ፣ ኀቤሆሙ ፡ ሠራዊት ፡ ወጉዩ ፡ ፈሪሆሙ ፡ ወእንዘ፣ ይጐይዩ ፤ ተሰጥሙ ፡ ውስተ ፡ ባሕር ። ወዕበ ፡ ድኅነ ፡ እምቀትል ፡ ነሥአ ፡ ንዋዮሙ ፤
+May his holy blessing and (his) blessed (prayer) be with our King Iyasu for ever and ever. On this day also died Abba Zacharias, ascetic. Before he became a monk, while he was going on his way, brigands rose up against this saint, stopped him, and wanted to cut his throat. By the will of the Lord, while a monastery superior was passing by this path, he shouted against them. They imagined that soldiers were coming toward them. They fled, being afraid, and, while fleeing, they were swallowed up in the river. When (Abba Zacharias) was saved from murder, he took their property and entered
+
+
+[p. 112] {#po.26.p112}
+ወቦአ ፡ ውስተ ፡ ሀገር ፡ ከመ ፡ ይሚጥ ፡ ወአኃዞ ፡ መኩንነ ፡ ሀገር ፡ እንዘ ፣ ይሄሊ ፡ ከመ ፡ ውእቱ ፡ ሠራቂ ፡ ወፈቀደ ፡ ከመ ፡ ይቅትሎ ፡ ወሶዕበ ፡ አእመረ ፡ ግብሮ ፡ ኃደጎ ። ወእምዝ ፡ ሖረ ፡ ኀበ ፡ ደብረ ፡ አባ ፣ ጳኩሚስ ፡ ወለብሰ ፡ አልባሰ ፡ ምንኩስና ፡ ወተፀምደ ፡ ለጸሎት ፣ ወጾም ፡ እስከ ፡ ቀንዓ ፡ ላዕሌሁ ፡ ሰይጣን ፣ ወተመስለ ፣ በአም ሳለ ፡ አቡሁ ፡ ወአስተርአዮ ፡ በሌሊት ፡ ወይቤሎ ፡ እስመ ፡ናሁ ፡ ቀርበ ፡ ፍልሰትየ፣ ነዓ ፡ ከመ ፡ ትቅብረኒ ። ወሐለየ ፡ ቅዱስ ፡ "ከመ ፡ አሙን ፡ ውእቱ ፡ ሖረ ፡ ኀበ ፡ አቡ ሁ ፡ ወረከቦ ፡ ሕያወ ፡ ወአአእመረ ፡ ከመ ፡ ትምይንተ ፡ ሰይጣን ፡ ውእቱ ። ወተመይጠ ፤ ኀበ ፡ ማኅደሩ ፤ ወዓፀወ ፡ ፕኅቶ ፡ ወነበረ ፣ እንዘ ፣ ይትጋደል ፡ ምስለ ፡ ሰይጣን ፡እ
+the city, in order to sell (it). The judge of the city arrested him, thinking that he was a thief, and wanted to kill him. When he knew his act, he let him go. Then (Abba Zacharias) went to the convent of Abba Pachomius. He put on the monastic habit, was assiduous in prayer and fasting, to the point that Satan envied him. He took the appearance of his father and appeared to him in the night. He said to him: "Behold, my passing is near; come to bury me." The saint thought * that this was true. He went to his father and found him alive. He knew that it was a ruse of Satan. He returned to his dwelling and closed his door. He continued to struggle with Satan, until he had defeated him.
+ስከ፣ሞኦ። ወበዕለተ ፡ ሆሣዕና ፡ ሖረ ፡ ኀበ ፡ አበ ፡ ምኔት ፣ ወሰአሎ ፡ ከመ ፡፣ ያብሖ ፡ ይሖ ር ፡ ኀበ ፡ ኢየሩሳሌም ። ወበሳኒታ ፡ ዕለት ፣ ረከቦሙ ፡ ለ፻ዕደው ፡ ብሩሃን ፡ እንዘ ፡ይ ፀንሕዎ ፣ ወሖረ ፣፡ ምስሌሆሙ ። ወእምዝ ፣ ሖረ ፡ አበ፣ ምኔት፣ ከመ፣ ይርአይ፡ማ ኅደሮ ፣ ወረከቦሙ ፣ ለ፻ተመናት ፣ ዐቢያን ፡ እንዘ ፡ ይልሕሱ ፡ ምድረ ። ወሶበ ፡ፈ ርሃ ፡ እምኔሆሙ ፡ ጸውዕዎ ፣ በስሙ ፡ ፻የጊዜ ። ወዕበ ፡ ተመይጠ ፣ ኀቤሆሙ ፡ ተናገ ርዎ ፡ በልሳነ ፡ ሰብእ ፡ እንዘ ፣ ይብሉ ፡ ኦአቡነ ፣ አይቴ ፡ ሖረ ፡ ዘካርያስ ፡ እተነ ፡ዘነ
+On Palm Sunday he went to the superior of the monastery and asked him to permit him to go to Jerusalem. The next day he found three luminous men waiting for him and he went away with them. Then the superior of the monastery went to see his dwelling; he found three large serpents licking the earth. As he was afraid of them, they called him by his name three times. When he turned toward them, they spoke to him in the language of men, saying: "O our Father, where has Zacharias, our brother, who used to feed us, gone?"
+
+
+[p. 113] {#po.26.p113}
+በረ ፡ እንዘ ፣ ይሴስየነ ፡ ወአምዝ ፣ ወሀቦሙ ፡፣ መብልዓ ። ወተመይጠ ፡ አባ ፡ ዘካርያስ ፡ ውስተ ፡ ማኅደሩ ፡ ወነበረ ፡ በተጋድሎ ፣ ብዙኅ ፡ ወአዕረፈ ፡ በሰላም ። ጸሎቱ ፡ ወበረከቱ ፡ የሀሉ ፡ ምስለ ፡ ፍቁሩ ፡ ዘመንፈስ ። ቅዱስ ፡ ለዓለመ ፡ ዓለም ።
+Then he gave them food. Abba Zacharias returned to his dwelling. He remained in great asceticism and died in peace. May his prayer and his blessing be with his beloved Za-Manfas-Qeddus for ever and ever.
+ወበዛቲ ፡ ዕለት ፡ ካዕበ ፣ ይገብሩ ፡ ሰብአ ፣ ”ኢትዮጵያ ፡ ተዝካረ ፡ ሕፃናት ፡ ዘቤ ተ ፡ ልቲሑም ፡ ዘቀተሎሙ ፡ ሄሮድስ ፡ ዓላዊ ። ወዜናሆሙሰ ፡ ናሁ ፡ ሀሎ ፡ ጽሑፍ ፣ አመ ፡ የለጥር ።
+On this day also * the Ethiopians commemorate the children of Bethlehem whom Herod the impious killed. As for their history, behold, it is written on the 3rd of Ter.
+በረከቶሙ ፡ ቅድስት ፡ ተሀሉ ፡ ምስለ ፡ ጸሓፊሁ ፡ ለዓለመ ፡ ዓለም ።
+May their holy blessing be with the scribe for ever and ever.

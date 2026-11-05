@@ -11,6 +11,7 @@ theology-commons/
 ├── .gitignore
 ├── Scripture/              # Sacred Scripture in original languages, Vulgate, and vernaculars with Navarra commentary
 ├── Magisterium/            # Ecumenical Councils, Papal Encyclicals, Vatican II, Curial Documents, Catechism, Canon Law
+├── Patrologia/             # Complete Patrologia Graeca (PG), Patrologia Latina (PL), and Patrologia Orientalis (PO)
 └── Library/                # Primary scholarly literature across theology, patristics, and philosophy
     ├── aquinas/            # St Thomas Aquinas Opera Omnia (Latin, English, Spanish)
     ├── fathers/            # Apostolic, Ante-Nicene, Nicene, and Post-Nicene Fathers
