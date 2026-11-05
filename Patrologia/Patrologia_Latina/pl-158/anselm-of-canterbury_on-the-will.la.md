@@ -1,0 +1,34 @@
+---
+id: pl.158.441
+sigla: pl.158.on-the-will
+title: "On the Will"
+work: "On the Will"
+creator: "Anselm of Canterbury"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 158"
+columns: "158"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.158.colN}"
+---
+
+# On the Will
+
+**Author**: Anselm of Canterbury  
+**Series**: PL 158  
+**Columns**: 158  
+
+[158] {#pl.158.158}
+De voluntate
+SANCTI ANSELMI LIBER DE VOLUNTATE
+116 1 Voluntas aequivoce dicitur: dicitur enim voluntas instrumentum volendi, sicut visus instrumentum videndi; et dicitur voluntas affectio ejusdem instrumenti, sicut dilectio filii, quae semper est in voluntate matris, scilicet in instrumento volendi, quod ea affectione semper promptum est ad volendum salutem filii, sive cum hoc cogitat, sive cum hoc non cogitat. Dicitur etiam voluntas opus instrumenti, cum cogitando vult aliquid. Voluntas instrumentum naturale est animae. Affectiones principales duae sunt: affectio, scilicet volendi commodum quod velle potest aliquid antequam habeat, et affectio volendi justitiam. Affectio volendi commodum semper et inseparabiliter est in instrumento; affectio volendi justitiam nec semper inest, sicut in injusto homine; nec cum inest, semper est inseparabilis, sicut in justis hominibus in hac vita apparet; et aliquando est inseparabilis, sicut in electis angelis, et in sanctis; in sanctis, post hanc vitam; sed in angelis, semper 2 . Ex his duabus affectionibus volumus quidquid volumus. Aut enim volumus commodum aut justitiam; et haec, aut propter commodum, aut propter justitiam. Voluntas, quae usus dicitur vel opus instrumenti, sicut visio opus vel usus visus instrumenti videndi, nonnisi in cogitante est, et est pariter cum ipso instrumento opus affectionis, sicut acuta visio opus est visus et acuminis visus. Haec igitur voluntas aut est propter rem, quam velle dicitur, ut cum cogitando salutem, eam volumus; aut propter aliud, ut equitare volumus propter salutem. Est etiam alia divisio hujus voluntatis; quia aut vult esse aliquid, aut vult non esse 3 ; ut velle esse hominem, et velle non esse hominem. Recipit etiam divisionem, quam recipit facere . Sex enim modis dicimus facere esse, et totidem facere non esse. Dici etiam potest haec voluntas, alia efficiens, alia approbans, alia permittens: efficientem dico, quae efficit quod vult, et quae efficeret, si posset; approbantem vero, quae approbat quod est, et quae approbaret, si esset; permittentem vero, quae permittit esse quod velle dicitur, si est, et quae permitteret, si esset: efficiens quidem est etiam approbans et permittens; approbans autem est et permittens, permittens vero tantum nec efficiens, nec approbans recte dici potest. Secundum efficientem dictum est: Omnia quae cunque voluit Dominus fecit (Psal CXIII, 3) ; secundum approbantem vero dicitur quia Deus vult omnem hominem salvum fieri. Approbat enim Deus, et placet illi de omnibus justis quia justi sunt, ut salvi fiant; et nihilominus placeret eis de injustis, si justi essent, ut salvi fierent. Tale est enim quod dictum est, ac si dicatur: Deus nullum facit injustum; sed unusquisque a se habet injustitiam ut damnetur: et ideo non potest dici displicere Deo, si justus sit et salvetur; nec potest dici Deum repugnare saluti alicujus, sed approbare si sit qui salvetur. Secundum permittentem vero voluntatem dicitur quia quem vult indurat , quoniam permittit indurari; quod enim praemissum est, cui vult miseretur , secundum efficientem voluntatem dictum est. Patet autem quia de duabus affectionibus instrumenti volendi, illa omnino melior est et omnino praeponenda, quae est ad volendum justitiam: per hanc enim omnis justus justus est; nec, nisi per istam, aliquis beatus esse potest: et si illa quae est volendi commodum propter justitiam, omnino non esset in anima, beata tamen esset anima sola dilectione justitiae, nec ullatenus esset misera per absentiam alicujus alterius commodi, quia non indigeret ea re quam non vellet: illa vero affectio, quae est volendi commodum, per quam etiam omnes justi volunt esse beati, si sola adsit; nonnisi miserum facit; quia nusquam ad hoc quod appetit, sine justitia pertingit.
+
+
+[0488B] {#pl.158.0488b}
+Potestas est aptitudo ad faciendum: pono autem hic, facere , pro omni verbo finito vel infinito, quod frequens usus habet. Qui enim loquitur cum debet, vel sedet, vel stat; et qui vult, aut patitur quod debet; et qui est ubi, et quando debet, bene facit; qui autem non loquitur cum debet, nec sedet, nec stat; et qui nec vult, nec patitur quod debet; et qui non est ubi, aut quando debet, male facit: et qui non facit quod debet, male facit; et qui non facit quod non debet, bene facit. Liquet igitur, facere , poni pro omnino verbo finito vel infinito, etiam pro, non facere . Est igitur potestas aptitudo ad faciendum; et omnis aptitudo ad faciendum, potestas. In quo cavendum ne omnino pro eodem accipiatur aptitudo ad faciendum, et aptitudo faciendi: omnis enim aptitudo ad faciendum, est et faciendi; sed non omnis faciendi, est etiam ad faciendum: aptitudo enim scribendi, quae est ad scribendum, est etiam antequam scribatur quae et dicitur potestas scribendi; aptitudo vero scribendi, quae est in scribendo, secundum quam dicimus, apte scribit , non praecedit ipsam scriptionem; nec est potestas scribendi, sed effectum potestatis scribendi: quia enim praecedit potestas apte scribendi, ideo apte scribitur; non quia apte sit scriptio, ideo potest fieri scriptio. Dictum est autem aptitudo ad faciendum, et non absolute ad aliquid; quia non est aptitudo ad aliquid et non ad faciendum, quae non est potestas, ut aptitudo vestis ad corpus: dicitur enim apta ad corpus; nec ideo tamen dicitur potens vestis. Bene igitur dictum est quia potestas est aptitudo ad faciendum; quia in eo quod aptitudo dicitur, separatur ab omni re quae aptitudo non est; et in eo quod ad faciendum determinatur, dividitur ab omni aptitudine, sive ab ea quae non est ad aliquid, ut quae est in scribendo; sive ab ea quae est ad aliquid et non ad faciendum, ut ea quae est in veste ad corpus, quae et corpori melius dici potest: dicitur enim vestis apta corpori. Nihil igitur plus vel minus habet haec diffinitio potestatis, quam debet. Est autem haec diffinitio potestatis facta secundum usum, non secundum proprietatem potestatis: quidquid enim aliquomodo potest, hac diffinitione potestatis potest; ut lignum potest incidi, et homo potest incidere: nam et lignum ideo potest incidi, quia habet aptitudinem ad incidendum; et homo ideo potest incidere, quia habet aptitudinem ad incidendum.
+
+
+[158] {#pl.158.158}
+Vide lib. de Conc. praesc . etc., q. 3. c. 11 et l. de Liber. arbitr . c. 3, 7. Lib. de Liber. arbitr ., c. 14. De multiplici voluntatis divisione scripturum se promiserat l. de Concor. praesc . q. 3, c. 11, al ., 21.

@@ -1,0 +1,30 @@
+---
+id: pl.208.4412
+sigla: pl.208.order-of-things
+title: "Order of things"
+work: "Order of things"
+creator: "The Editors"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 208"
+columns: "208–1352"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.208.colN}"
+---
+
+# Order of things
+
+**Author**: The Editors  
+**Series**: PL 208  
+**Columns**: 208–1352  
+
+[208] {#pl.208.208}
+Ordo rerum
+ORDO RERUM QUAE IN HOC TOMO CONTINENTUR.
+S. MARTINUS LEGIONENSIS. Typographus lectori. 9 Vita S. Martini a Luca episcopo Tudensi scripta. 9 CAP. I.--Qualiter B. Isidorus mirabiliter dedit sapientiam B. Martino canonico sui monasterii, mediante parvo libro, quem ipsum devorare compulit. 9 CAP. II.--De ortu et genere B. Martini canonici S. Isidori, et de nominibus patris et matris ejus, et eorumdem nominum significatione. 11 CAP. III.--De laudabiliter acta vita B. Martini a pueritia sua; et qualiter ejus pater post mortem uxoris suscepit habitum in monasterio S. Marcelli. 12 CAP. IV.--Qualiter B. Martinus post patris obitum ad subdiaconatus ordinem promotus, ad illicitos motus carnis comprimendos seipsum pluribus sanctis peregrinationibus fortiter maceravit. 12 CAP. V.--De maxima abstinentia B. Martini dum Romae existeret peregrinus; et qualiter obtinuit gratiam coram oculis summi pontificis et custodientium ecclesiam Sancti Petri. 13 CAP. VI.--Qualiter B. Martinus ab urbe Roma secessit in diversas alias sanctas peregrinationes; et Constantinopolim veniens, planctam pulchram emit in partes suas deferendam. 13 CAP. VII.--Qualiter B. Martinus, dum ad propria rediret, in civitate quadam fuit captus tanquam planetam praedictam furatus esset. 14 CAP. XIV.--Qualiter minor pars ordinariae portionis, CAP. VIII.--Qualiter B. Martino in carcere existente, venit ad ipsum angelus Dei ad ipsius custodiam deputatus, et eripuit eum, praecipiens ei ut Legionem rediret 14 CAP. IX.--Qualiter B. Martinus statim veniens Legionem, diaconatus et presbyteratus ordines suscepit, et B. Augustini habitum in Sancti Marcelli monasterio recepit, ibique honestissime et laudabiliter vivebat. 15 CAP. X.--Qualiter Legionensis episcopus extraxit canonicos regulares ab ecclesia Sancti Marcelli, et immisit clericos saeculares: et B. Martinus se transtulit ad ecclesiam Sancti isidori, et postea rediit ad Sanctum Marcellum, finaliter ad Sanctum Isidorum jussu ipsius. 15 CAP. XI.--De maxima vitae asperitate et abstinentia B. Martini, ac de sancta ipsius conversatione, dum in dicto S. Isidori monasterio viveret. 16 CAP. XII.--Qualiter B. Martinus licet senex et infirmus incoepit opus magnum librorum suorum, et reges atque magnates ipsum nimis venerabantur, et, eo vivente daemones ipsius sanctitatem fatebantur. 16 CAP. XIII.--Qualiter B. Martinus petiit licentiam a suo abbate recipiendi eleemosynas ad opera sua perficienda et scribenda necessarias, eique revelavit qualiter beatus Isidorus dederat sibi sapientiam, mediante parvo libro, quem compulit devorare: et qualiter fecit opera jam dicta et insuper ecclesiam Sanctissimae Trinitatis. 17 quae B. Martino, prout aliis canonicis dabatur, sufficiebat quotidie septem clericis suis, semperque reliquiae ipsius portionis supererant. 18 CAP. XV.--Qualiter B. Martinus curavit decanum Legionensem quartana febre, dum ipsi insimul de sacra pagina decertarent. 18 CAP. XVI.--Qualiter B. Martinus mulierem nobilem a mamillae dolore curavit. 19 CAP. XVII.--Qualiter B Martinus suum concanonicum acerrimo dentium dolore curavit. 19 CAP. XVIII.--Qualiter B. Martinus puerum quemdam in Sancti Isidori monasterio existentem a morbo squinantivo liberavit. 19 CAP. XIX.--Qualiter B. Martinus comitissam devotam suam partus doloribus morti propinquam a morte ipsa liberavit. 20 CAP. XX.--Qualiter consilio et revelatione B. Martini Legionensis civitas se defendit a regibus Castellae et Aragonum, qui eam obsessam habebant. 20 CAP. XXI.--Qualiter B. Martinus longe ante praescivit sui obitus diem, eumdemque fratribus suis priori et canonicis S. Isidori, et aliis revelavit. 20 CAP. XXII.--Qualiter B. Martinus antequam de hoc saeculo migraret, tradidit priori suo claves, et omnia quae de ipsius licentia administrabat, et petiit ab eo benedici. 21 CAP. XXIII.--Qualiter B. Martinus certus de transitu suo ad gloriam, ad id se totis viribus praeparabat. 21 CAP. XXIV.--De pretioso fine et glorioso transitu B. Martini, et notabili doctrina quam nobis reliquit quoad sanctissimum viaticum sacramentum. 22 Elogia nonnullorum de B. Martino. 23 LIBER SERMONUM S. MARTINI. Praefatio auctoris. 27 Incipit prologus in libro sermonum. 29 SERMO I.--In Adventu Domini I. 31 SERMO II.--In Adventu Domini II. 37 SERMO III.--De Natale Domini I. 65 SERMO IV.--In Natale Domini II. 83 SERMO V.--In Epiphania Domini. 550 SERMO VI.--In Septuagesima I. 554 SERMO VII.--In Septuagesima II. 559 SERMO VIII.--In Sexagesima. 607 SERMO IX.--In Quinquagesima. 621 SERMO X.--In capite jejunii. 631 SERMO XI.--In prima Dominica Quadragesimae. 675 SERMO XII.--In Quadragesima 733 SERMO XIII.--Dominica secunda in Quadragesima. 741 SERMO XIV.--In Dominica tertia Quadragesimae. 755 SERMO XV.--In Dominica quarta Quadragesimae. 769 SERMO XVI.--De Passione Domini. 791 SERMO XVII.--In Passione Domini. 799 SERMO XVIII.--In ramis Palmarum. 811 SERMO XIX.--In ramis. 827 SERMO XX.--In ramis. 831 SERMO XXI.--In Coena Domini I. 837 SERMO XXII.--In Coena Domini II. 843 SERMO XXIII.--In Coena Domini III. 865 SERMO XXIV.--In Resurrectione Domini I. 921 SERMO XXV.--De Resurrectione Dommini II. 925 SERMO XXVI.--De Resurrectione Domini III. 931 SERMO XXVII.--In Dominica secunda post Pascha. 977 SERMO XXVIII--In Litaniis. 1009 SERMO XXIX.--In Rogationibus. 1035 SERMO XXX.--In Ascensione Domini. 1085 SERMO XXXI.--In Ascensione Domini II. 1197 SERMO XXXII.--In festo Sancti Spiritus. 1203 SERMO XXXIII.--In festo Sancti Spiritus II. 1265 SERMO XXXIV.--In festivitate Sanctae Trinitatis. 1269
+
+
+[1352] {#pl.208.1352}
+FINIS TOMI DUCENTESIMI OCTAVI.

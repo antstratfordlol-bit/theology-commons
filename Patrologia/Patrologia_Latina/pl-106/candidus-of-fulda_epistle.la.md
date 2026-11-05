@@ -1,0 +1,73 @@
+---
+id: pl.106.3440
+sigla: pl.106.epistle
+title: "Epistle"
+work: "Epistle"
+creator: "Candidus of Fulda"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 106"
+columns: "106"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.106.colN}"
+---
+
+# Epistle
+
+**Author**: Candidus of Fulda  
+**Series**: PL 106  
+**Columns**: 106  
+
+[106] {#pl.106.106}
+Epistola
+INCIPIT EPISTOLA CANDIDI MONACHI FULDENSIS Num Christus corporeis oculis Deum videre potuerit. (Pez., Thes. noviss. Anecd.)
+
+
+[0103] {#pl.106.0103}
+I. Domino in Christo venerabili, summa charitate diligendo fratri, presbyter 1 Candidus salutem.
+
+
+[0103B] {#pl.106.0103b}
+Non omnimodis ab re agis, qui relativo loquendi more loquens, te filium, me autem patrem appellas, qui utique Patrem habens in coelis Christum, hujus de dignitate et charitate honorandum amplectendumque non dubitas. Sed hunc Patrem nobis omnibus communem simul credimus, speramus et amamus. Quod autem me patrem vocare voluisti ad hoc quod agere disposuisti, non inconveniens esse videtur. Nam cum in sanctis Scripturis praeceptum sit ut interrogentur patres, ut annuntient et seniores, ut dicant si ille qui interrogatur pater est et presbyter, quare non recte patrem appellas, quem interrogare non dubitas? Sed utinam tibi sic utilis ad interrogata fierem sicut desideras, qui me talem putas qui tibi vera charitate velim, et scientia valeam, solvere quae quaeris! Est autem quaestio de qua pulsatum te a quodam dicis: Quod Christus Dominus noster, in quantum homo fuit, cum hic mortalis inter mortales viveret, Deum videre potuisset? quae quidem quaestio, si jam dudum a sanctis Patribus mota simul et soluta fuerat, nescio, utrum vel a te, vel ab aliquo veterum sic exposita habeatur, sicut iste, de quo scripsisti, interrogare dicitur: videlicet, si corporeis ejus oculis Pater videretur? Sed sive habeas illius quaestionis ab aliis jam solutionem expositam, sive non habeas, ego te, quid inde sentiam, non celabo.
+
+
+[0103C] {#pl.106.0103c}
+II. Deus sicut summus spiritus est, sic et summe incorporalis est. Hoc autem ideo dico, quia et angeli et animae, et quicunque spiritus creati sunt, licet incorporales et dicantur, et sint, ejus tamen incorporalitatis, et ut ita dicam spiritalitatis comparatione corporales quodam modo sunt. Licet namque alias forte inlocales vel animae, vel angeli dici possint; in comparatione tamen summae illius divinitatis locales sunt: quia etsi non altero, ipso tamen mundo, qui utique locus est, continentur. Deus autem nec mundo, nec creatura aliqua continetur; quia ab ipso continentur omnia creata, ut sint et maneant. Qui ergo hoc a te quaerebat, scilicet, utrum Deus corporalibus oculis videatur, aut videretur, aut videndus sit, hoc et a me, et a cunctis catholicis Christianis responsum audiat: quod Deus spiritus spiritu cernitur, non carne. Mundo corde videtur ab hominibus, non, licet mundissimo, corpore: a spiritali substantia et cernitur, et cernendus est, non autem carnali per carnem.
+
+
+[0104B] {#pl.106.0104b}
+III. Si autem forte respondeat ille, et dicat: Et hoc, quod modo per corpus videmus, spiritus per corpus videt, et nobis omnibus futurum promissum est post judicium, corporibus jam incorruptibilibus, Dei visione aeterna gavisuros; vere, ut est, ita dicit qui hoc dicit; sed spiritus ideo modo per corpus corpora videt, quia non aliter videri corpora valent, nisi per corpus; nec aliud quid per corpus, nisi corpus videri potest. Nam si interrogas, utrum Christus corporalibus oculis Deum videret? et ego interrogo, utrum tu modo aut possis, aut si possis, velis veritatem corporalibus oculis videre? Et si mihi dicis, nec te hoc velle, nec posse, scias quod et Christus Deum nec aliter voluit videre, nisi sicut videri potest. Nec aliquid vult, aut voluit, nisi quod potuit; nec aliquid potest, nisi quod vult: quia voluntas et potestas Dei ipsa [ Forte ipse] Deus sunt, non aliud aliquid. Ideoque Christus seipso, quo spiritus est, et ipso spiritu, quem implevit, hominem assumens, seipso, inquam et ipso spiritu, quem implevit, Deum vidit; corporalibus autem eum cernere oculis, qui summus spiritus est, ideo, ni fallor, noluit, quia non potuit; et ideo non potuit, quia noluit. Vult enim omnia, ut dixi, quae potest, et potest omnia quae vult.
+
+
+[0105A] {#pl.106.0105a}
+IV. Et ut hoc tibi quantulocunque exemplo manifestius fiat, si tamen potest, imo quia non potest tali rei simile inveniri exemplum, ex parte tamen aliqua simile est quod dicam: ac si media die lucente sole velis lucerna aliqua materiali uti, cum tibi sufficiat undique circumfusus solis splendor. Hoc autem eo solo rei de qua agitur simile est, quod non quaerendum erat corpore videre Deum, quem semper spiritu cernebat. Ego de me ipso dico: si mihi corpora ad videndum necessaria non fierent, ego nihil corporeis oculis videre curassem; et hoc forte omnibus est. Nam dic mihi, si litteras aut habere, aut videre curasses, si omnia quae scire voluisses, sine litteris scires et memoria retineres? Ego certe invitus litteris utor vel ad me admonendum, vel ad alios docendos: qui si oblivisci nihil possem eorum quae a me scita sunt, vel scire valerem sine litteris ea quae scienda erant, et eadem indesinenter scire, jam litteris non indigerem, quod ipsum et mihi, et omnibus futurum est, videlicet ut sine litteris et sciant et non obliviscantur ea quae scituri sunt.
+
+
+[0105B] {#pl.106.0105b}
+V. Non ergo infirmiore visus genere quaerendum erat, ut videretur Deus a Christo, qui firmiore et meliore semper ab illo visus est et videndus. Non hoc autem ita dico quasi putem Deum non potuisse suo corpori concedere ut aliquid excellentius prae caeteris corporibus haberet. Potuit enim, et fecit, concedens scilicet corpori suo quae concedenda erant, magnam plane ineffabilemque prae caeteris corporibus gratiam; primo, si tamen hoc primum est, ut Dei caro fieret, et ut sine peccato ex hominis, et hoc Virginis, carne fieret caro, et matrem suam non macularet nascendo: quin potius Dei, propter illam diceretur genitrix, et esset, et ut sine peccato viveret, et ut ex fide ipsam tangentes sanarentur; et quod mihi vel maximum videtur, vel non minimum, ut talis fieret quae pro omnibus humanae naturae consortibus, et ad salutem praedestinatis victima cunctis corporalibus creaturis Deo Patri acceptabilior fieret, et quod corruptionem mortua non videret, et quod gloria resurrectionis exaltata super coelos coelesti fieret sede sine fine beata. Haec sunt quae concedenda eidem carni Christi, et concessa non dubitantur. Ut autem corporalibus suis sensibus Patrem suum summum spiritum videret, hoc quid ordini illi summo et intransgressibili conferret, non satis mihi apparet. Nam quia hoc ab humana natura quaerebatur ut quia adhuc tunc spiritu videri non valuit corporaliter, corporalis videretur Deus, ille fragilitati ejusdem naturae consulens, ipse corporalis factus corporis oculis videri voluit et corpore tangi. Et hujus rei causa facta est tota illa singulariter mirabilis et mirabiliter singularis dispensatio incarnationis Christi, scilicet, ut per eum quem mortalem et corporalem viderant, ad ejus visionem perducerentur homines, qui non corpore, sed spiritu videndi sunt.
+
+
+[0105D] {#pl.106.0105d}
+VI. Ei ergo qui tibi hoc genus quaestionis proposuit, tu ita responde: Si Deum tu videre desideras, munda cor, et videbis. Nam Christus ita Deum Patrem videre voluit sicut potuit, et ita potuit ut voluit: et quia nos mundis cordibus Deum visuros esse praedixit, non est dubitandum quin ita eum ipse videret, sicut nos ad eum videndum pervenire posse docuit. Nam tria sunt quae mihi modo occurrunt, unum quod Deus a creatis spiritibus mundis videri potest, non quantum se ipse videt, sed quantum se ipse videri concesserit; et a corporibus, licet mundis, videri non potest Deus ipse in sua natura divina: et ab immundis, et spiritibus, et corporibus non solum non videtur, sed etiam longe ab eorum visione recedit: et quanto ille, ut pote vita et salus, longius ab eis recesserit, tanto illi miseriores et infeliciores fiunt. Videtur ergo Deus totus a seipso, a spiritu bono creato, quantum ille concesserit, ab homine bono per spiritum: ab immundo, nullo modo. Nam corpora per corpus videt spiritus, et corpus per spiritum creatum videt spiritum non creatum, per se autem, non. O anima, te ipsam fide munda, corpori dominare, et ad bona utere; Deo, ut fruaris, stude.
+
+
+[0106B] {#pl.106.0106b}
+VII. De anima autem Christi, utrum illo modo Deum Patrem videat, nullo modo dubitandum est, quin ipsa eum plus omnibus creaturis videat. Nam et nostris, ut supra dictum est, animabus mundatis ejus visio in fine promittitur, qua illa Christi anima semper munda jam fruitur. Quod autem evangelista dixit: Deum nemo vidit unquam, attende quid dicat nemo, quasi nec homo, nemo, hoc est hominum, nemo Deum in natura divinitatis vidit unquam. Ipse autem unus, qui est Deus homo, suo spiritu illum videre non dubitatur, nisi ab infidelibus. Et quod dixit: Deum nemo vidit, attende quod dixit praeterito tempore, vidit, non autem: Nemo visurus est; quia, ut idem evangelista ait, visuri sumus eum sicuti est, quod Christi anima semper habuit, ex quo ab eo assumpta est et impleta. Nisi forte dicat aliquis quod aliquod tempus ante fuisset illa sancta et vere sanctissima omnium creaturarum anima Christi sine Deo, et postea accessisset illi divinitas. Sed hoc catholicae fidei contrarium est. Tene ergo illam animam Deo semper plenam, Deum sicuti est semper vidisse. Tene, et non dubites, Christum, ex quo homo esse coepit, suo semper spiritu Deum vidisse, quem et ante assumptionem humanae naturae semper vidit. Nam et angeli nostri vident faciem Patris, qui in coelis est, quanto magis illa anima, quae omnibus creaturis, ut pote Deo plena, excellentior est? Nemo ergo hominum Deum vidit in sua natura, extra illum solum qui solus peccator non est. Visuri sunt autem omnes justi, et a peccatis purgati. Nam si unigenitus Filius, qui est in sinu Patris, ipse enarrabit, attende cui narrabit, videlicet creaturae: et quali creaturae narraturus est, si suae animae quam suscepit, non narrat? Narrat itaque, et, ut dixi, eam fecit omnibus creaturis excellentius et magnificentius Deum videre.
+
+
+[0107A] {#pl.106.0107a}
+VIII. Si haec ita se habere, ut dixi, tibi videantur, his contentus sis. Sin autem aliquid extra videris, ignosce, quia homo sum et falli possum: et veritatem tamen amo, ideoque et corrigi. Obsecro fraternitatem tuam ut me commilitonibus suis saepius commendare dignetur. Ego certe si quid valeo illis utilitatis conferre, satis desidero, nimirum, quia me debitorem intelligo et illis, et omnibus Ecclesiae catholicae filiis. Admone etiam illos verbis meis et tuis, ut se sobrie, et pie, et juste agant. Et quia magnae aestimationis apud homines sunt, curent esse in conspectu Dei quod dicuntur. Dicuntur namque servi Dei, et quid servis Dei opus sit, non dubitant: videlicet, ut serviat Domino suo servus; nam servi estis Dei, non autem saeculi hujus, nec mammonae. Ei ergo serviendum est volendo, cujus servi sumus, etiamsi nolimus. Fides recta legatur et teneatur; spes indubitata habeatur, et omnia nostra cum charitate incipiant, transeant, finiantur. Charitas autem nunquam excidat. Ex omnibus virtutibus animae nihil vobis specialius, nihil familiarius, nihil amabilius debet esse charitate; et talis est, quae plena ipsa sola sufficiat. Humilitas est conversionis vestrae fundamentum; patientia parietes, fides tectum, spes in Deo culmen; cum charitate autem haec omnia si sunt, valent; sine illa, horum nihil. Si enim humilis es, et eum non amas cui humiliaris, Deum, falsa est humilitas. Si patiens es, et eum non amas cujus causa pateris, inanis est patientia. Si credis, et non amas Deum, in quem credis, et daemones ita agunt. Si speras et eum non amas a quo speras, spem pascis inanem. Ideo omnia cum charitate fiant, primo Dei, et postea proximi, et iterum Dei; ut omnia quae aguntur, Dei amore agantur. Ille sit auctor operis, ille ductor, ille perfector, ille merces, perfectio operis.
+
+
+[0107C] {#pl.106.0107c}
+IX. Humiliamini invicem, diligite invicem, patientes estote invicem, diligite invicem. Credite in Deum, et diligete invicem. Sperate in Deum, et diligite invicem. Qui sciat (Ita cod.), instruat nescientem; qui nescit, diligat instruentem; et ab ambobus diligatur Deus, qui fecit scientem scire, et dedit illum nescienti ut et ipse scire discat. Qui scia non infletur contra nescientem; quia scientia inflat, charitas autem non inflat, sed aedificat. Sciens sciat se debitorem esse ut aedificet; ideo enim factus est ipse sciens a Deo, ut aedificetur nesciens: quia Deus utrorumque Deus est. Et revera sicut omnes potuit divites facere, si voluisset; voluit autem aliquantos, non omnes; ut divitum misericordia utilis fieret, et inopum humilitas: sic, sic potuit quidem Omnipotens omnes scientes facere, qui vult omnes salvos fieri; sed voluit quosdam per se docere, ut per illos alii docerentur, et charitas inter omnes firma haberetur, sciens diligeret discentem humilem, et discens diligeret docentem benevolum.
+
+
+[0108A] {#pl.106.0108a}
+X. Haec non ideo dico, frater mi in Christo dilectissime, quasi aliquid de vobis audirem sinistrum, sed vere ab omnibus qui eam sciunt, laudatur vestra sublimis et sancta conversatio: sed quia boni estis et sapientes, libenter etiam me suffertis insipientem, qui hoc, quo nihil ego melius scio, vobis ingero, charitatem scilicet, de qua pauca dixi, de qua nemo tanta dicere valet, quanta illa digna est. Est enim virtus maxima, et Deus est ipse charitas, et quicunque vere Deum et proximum diligit, Deum in se esse non dubitet. Commendo me charitati vestrae omnium patrum ut filius, fratrum ut frater, filiorum ut pater. Omnipotens Deus sua misericordia vos protegat, regat et in se proficientes ad perfectionem sanctitatis perducat. Valete semper in Christo. Si aliter tibi responderi quam tua interrogatio flagitasset, forte nimum tuae charitatis offendat; scias etiam hujus rei causam hanc fuisse. Cum primo scriberem, non habui in praesenti epistolam tuam, et ob hoc non bene recordatus sum quid interrogasti. Sed postquam illam inveni, etiam ad hoc quod interrogasti, respondi. Si autem aliquis adhuc in mente scrupulus remansit; et hoc scriptis innotesce; ut et ille, Deo donante, aperta veritate illuminari valeat. Tempus erit, quando frater cum fratre loquetur. Tempus erit, quando gaudens gaudente fruetur. Omnia tempus habent: charitas sine fine. Valeto. Pasce jubente pio patres juvenesque novellos Christo, quo valeant dulces gustare loquelas. Explicit.
+
+
+[106] {#pl.106.106}
+Sic lego. Forte legend. Pater. Cod. habet PR.

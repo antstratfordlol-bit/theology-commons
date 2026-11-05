@@ -1,0 +1,48 @@
+---
+id: pl.063.5850
+sigla: pl.63.appendix-to-the-letters
+title: "Appendix to the letters"
+work: "Appendix to the letters"
+creator: "Hormisdas I"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 63"
+columns: "63"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.63.colN}"
+---
+
+# Appendix to the letters
+
+**Author**: Hormisdas I  
+**Series**: PL 63  
+**Columns**: 63  
+
+[63] {#pl.63.63}
+Appendix ad epistolas
+APPENDIX AD EPISTOLAS HORMISDAE.
+
+### ADMONITIO COLLECTORIS.
+ADMONITIO COLLECTORIS.
+
+
+[0527B] {#pl.63.0527b}
+Cum laudabili consilio ad genuinas pontificum epistolas spurias etiam illis affictas vir cl. Labbeus in sua collectione adjiciendas censuerit, ego pariter ejus exemplo spurias, si quas forte offendi, pontificum litteras dandas proposui. Aequi igitur bonique facient lectores, si hoc loco epistolam Hormisdae papae legerint, quam suppositionis suae expressos characteres praeferre constat, cum Joannem papam laudet, qui sane pontifex Hormisdae posterior fuit. Desumpta est ex Poenitentiali Halitgarii episcopi Cameracensis ante annos 900 collecto, vulgatoque a Canisio Veter. Lect. tom. II, part. 2, pag. 143 edit. Basnag. 1 .
+
+### INCIPIT EPISTOLA HORMISDAE PAPAE PER UNIVERSAS PROVINCIAS.
+INCIPIT EPISTOLA HORMISDAE PAPAE PER UNIVERSAS PROVINCIAS.
+Ecce manifestissime constat, quia secundum titulos antiquorum Patrum a sancto Joanne papa transmissos, et trecentorum decem et octo episcoporum sententias, sed et canones Gallicani concilii continere videntur.
+
+
+[0527C] {#pl.63.0527c}
+Clerici in adulterio deprehensi, et aut ipsi confessi, aut ab iis convicti, ad honorem redire non possunt. Et quia forte non desunt, quibus vel pro nimia pietate suprascripta sanctorum Patrum severitas minime placet, sciant se trecentorum decem et octo episcoporum, et qui reliquos canones statuerunt, sententias reprehendere vel damnare. Sed forte major est in illis pietas, quam in supradictis 318 episcopis, major in illis misericordia quam in sancto Joanne apostolico papa, major caritas quam in reliquis sacerdotibus, qui hoc per exempla vel remedia Ecclesiarum suis diffinitionibus deliberaverunt. Et ideo aut per promptam voluntatem praeceptis illorum consentiant; aut si non fecerint, omnibus contrarios se, et inimicos esse cognoscant. Quae est ista inimica benignitas, palpare criminosos, et vulnera eorum usque ad diem judicii incurata servare? Quod si etiam eos durissima poenitentia per plures annos agere viderint, sic idipsum et saluti eorum consulere, et canonum debemus statuta servare. Cum vero in aliquibus nec compunctio humilitatis, nec instantia orandi vel plangendi appareat, nec beatum. David imitentur, qui dixit: Lavabo per singulas noctes lectum meum, lacrymis stratum meum rigabo (Psal. VI) ; et illud: Cinerem tanquam panem manducabam, et potum meum cum fletu miscebo (Ps. X) , nec eos jejuniis vel lectioni vacare videmus, possimus agnoscere si ad honorem pristinum redirent, cum quanta negligentia, et cum quanto tepore, et inimica animae securitate permaneant, credentes quod sic eis non acta poenitentia digna dimiserit Deus, quomodo sacerdotes indulsisse vident. Vero dico, quia illi ipsi, quibus cum periculosa et falsa misericordia indulgere videmur, cum ante tribunal Christi pro tantis peccatis damnandi advenerint, contra nos ipsas causas dicturi sunt, dicentes: quod dum aut asperitatem linguae eorum expavimus, aut falsa blandimenta et periculosas adulationes ipsorum libenter accepimus, nos eos dum illis inutilitatem indulgemus in peccatis permanere, aut ipsa peccata etiam augere permiserimus: nec recordantes illud quod in Veteri Testamento scriptum est: Quia per unum peccantem contra omnes ira Dei desaeviit. O pietas! O misericordia! Uni parcere, et omnes per exemplum malum in discrimen adducere! Non ita suadet sanctus et beatissimus Cyprianus martyr dicens: Qui peccantem verbis adulantibus palpat, peccandi fomitem subministrat. Nec perimit delicta illi, sed fovet iterum, imperitus medicus, qui tumentes vulnerum sinus manu parcente contrectat; et absconditum in profundis secessibus virus, dum servat, exaggerat. Unde et sanctus Joannes Constantinopolitanus episcopus arguit dicens: Imperitus medicus est qui indigesta putredine superducit vulneri cicatricem.
+
+
+[0528C] {#pl.63.0528c}
+Et ideo diligenter perpendite, si aut potest, aut debet fieri, aut tantorum, aut talium, quod supra memoravimus, sacerdotum canones contemnentes, aliter quod illa statuerunt observare vel agere praesumamus: praecipue tum illorum trecentorum decem et octo episcoporum, qui per omnes Ecclesias concilia fieri praeceperunt, tam sancta decreta negleximus, non illos solos despicimus, sed et, sicut supra dictum est, et Africanos, et omnes reliquos qui ipsis ordinantibus per totum mundum per ecclesiasticam disciplinam aliquid statuerunt, cum peccato animae nostrae contemnimus. Ego me in hoc periculo immittere non audeo, quia nec talia sunt merita mea, ut aliorum peccata in me excipere praesumam. Nec tantam eloquentiam habeo, ut ante tribunal Christi contra tantos ac tales sanctos sacerdotes, qui canones statuerunt, causas dicere possim. Videat unusquisque qualiter sentire vel observare disponit, qualiter possit in die judicii reddere rationem. Ego in quantum vires Deus dignatur dare, studere volo eorum praeceptionibus et obaudire: quia cum talibus non rixas, sed pacem ex qualicunque parte habere desidero. Et hoc diligenter attendendum est. Quod si secundum quod scriptum est, illi clerici qui ad uxores proprias redeunt, ab integro ab officio suspendantur. Quod si etiam dicam et internuptiarum mariti; qui utique rem licitam faciunt, clerici tamen ordinari non possunt: aut si ordinati fuerint, dejiciantur. De quibus sanctus Faustus episcopus in epistola sua dixit: Perdit gratiam consecrati, qui ad officium vult exercitari mariti. Cum haec ita sint, qua conscientia quisque dicere poterit quod ille qui adulterium commiserit iterum ad honorem venire poterit? Hoc loco, si aliquis fuerit qui dicat: Ergo negas misericordiam Dei, qui dixit: Nolo mortem peccatoris, sed ut convertatur et vivat; et illud: Nunquid qui cadit, non adjiciet ut resurgat; et illud: Peccator in quacunque die conversus fuerit, omnes iniquitates ejus oblivioni tradentur? Sed ad haec voce libera respondere, et possumus, et debemus. Absit nobis ut de istis sententiis videamur vel leviter dubitare. Diffinitissime enim credimus quod quisque ad finem vitae suae poenitentiam egerit, non solum indulgentiam accipiet, sed etiam ad praemia aeterna perveniet. Propter regulam tamen ecclesiasticam et propter antiquorum Patrum instituta, quod absit a nobis, aut reprehendere, aut discutere audeamus. Cumque credimus ad vitam aeternam post beatam poenitentiam venire, ad honorem clericatus secundum tantorum Patrum praecepta novimus non debere reverti, in tantum, ut in canonibus scriptum est, ne ullus unquam poenitens clericus ordinetur. Et si ille qui ultro petit poenitentiam, quamvis eam perfecte egit, non potest episcopus aut presbyter ordinari, ita ut etiamsi per ignorantiam ordinatus fuerit, et postea convincitur poenitentiam accepisse, dejiciatur ille; qui invitus ad poenitentiam agendam in monasterium mittitur, et utique quid aliud quam poenitens dicendus est, qua conscientia ad sacerdotium pervenire permittitur? Nemo mihi alia quamlibet contra auctoritatem sedis apostolicae, vel contra trecentorum decem et octo episcoporum praecepta, vel reliquorum canonum statuta objiciat: quia quidquid contra illorum diffinitionem in quibus Spiritum sanctum locutum esse credimus, dictum fuerit, recipere, non solum temerarium, sed etiam periculosum esse non dubito. Valde enim metuo et contremisco illam damnationem quam ille sacerdos propter stultam indulgentiam accipere meruit, qui pro eo quod filios suos nec negligenter castigavit, et eos nec cedere [ F. caedere], excommunicare voluerit, ipsi filii una die occisi sunt, et XXX millia de populo interfecti sunt, et arca testamenti capta est, et ipse retro cadens fractis cervicibus mortuus est, et nomen ipsius de libro vitae deletum est, etc. Contra Phinees, qui, pro eo quod, zelo Dei commotus, duos adulteros pariter interfecit, totum populum de Dei iracundia liberavit. Nec hoc ideo dico, ut, sicut ille fecit, etiam nunc per mortem corporum sacerdotes Domini debeant vindicare; sed quia melius est unusquisque parvo tempore, donec vivit in hoc mundo, verecundiam vel confusionem sustineat, quam postea ad supplicia aeterna perveniat. Et multum ei utilius est propter aliorum exemplum, quandiu vivit, remotus ab honore poenitentiam agat, et remedium sibi in die necessitatis acquirat. Quicunque parvitati meae in hac causa voluerit onerosus existere, aliud responsum dare non delibero, nisi quod supradicti canones continere videntur.
+
+
+[63] {#pl.63.63}
+Hanc ipsam epistolam iisdem fere verbis descriptam, si pauculas quasdam variantes exceperis, vulgavit Jacobus Petit in tom. I Poenitential. Theodori Cantuar. inter excerpta canonum ex antiqua collectione cod. Herovalliani desumpta. Ibi vero inscriptionem hanc ferre testatur Petit: Epistola Hormisdae papae in universas provincias, quam tamen inscriptionem posteriore manu additam idem Petit fatetur. Animadvertisse etiam juvat Gratianeos canones 29 et 58, dist. 50, ex hac apocrypha epistola desumptos fuisse. Porro epistola apud Petit legenda nonnulla in exordio praefert, quae in Canisiana desiderantur; incipit enim: Si quis diaconus vel presbyter post acceptam benedictionem leviticam cum uxore sua incontinens invenitur, incontinens abjiciatur. Ecce manifestissime, etc.

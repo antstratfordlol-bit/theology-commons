@@ -1,0 +1,40 @@
+---
+id: pl.048.5042
+sigla: pl.48.admonition-on-the-excerpts-from-theodore-of-mopsuestia
+title: "Admonition on the Excerpts from Theodore of Mopsuestia"
+work: "Admonition on the Excerpts from Theodore of Mopsuestia"
+creator: "Joannes Garnier"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 48"
+columns: "48–1041"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.48.colN}"
+---
+
+# Admonition on the Excerpts from Theodore of Mopsuestia
+
+**Author**: Joannes Garnier  
+**Series**: PL 48  
+**Columns**: 48–1041  
+
+[48] {#pl.48.48}
+Admonitio
+ADMONITIO.
+ADMONITIO.
+Nulla fuit umquam haeresis dogmatis sui in populos spargendi studiosior quam Nestoriana. Credas daemonem, omnium haereseon satorem, prae caeteris istam excoluisse, ut suam in Christum Deum-hominem hominesque Christi sanguine redemptos invidentiam plenius expleret.
+Suum illa studium, non tam concionibus promovit quam scriptis libris, idque procul dubio daemonis instinctu; nam impietas, ad quam cohorrescunt Christianae aures, cum palam effertur, toleratur aliquando patientius, a curiosis oculis in recessu, dum, lenocinante sermonis eloquentia, et placet alieno veneno, et suo nocet.
+Ex eo tempore quo Nestorius apertum Ecclesiae bellum indixit, ad mortem usque Cyrilli quae anno 444 contigit, libri tres prodierunt, velut totidem factionis symbola; alterque ex alterius interitu enascens, tribus formis unam impietatem exhibuit. Primus complectebatur Nestorii sermones, artificioso quodam ordine ad errorem insinuandum dispositos; secundus excerpta ex Operibus Diodori Tarsensis, et Theodori Mopsuesteni, quibus nominibus vix ullum fuit hac tempestate nobilius; tertius πενταλόγιν Theodoreti et Eutherii sermones atque etiam Eranistae dialogos. Alii aliis successerunt, ut cum unus proscriptus fuisset, aut certe vim nocendi amisisset propter eruditum aliquod opus elaboratum et editum, velut antidotum adversus venenum, alius substitueretur, minus invidioso nomine, sed non minus pestifera virtute. Primum confutavit Cyrillus libris quinque Contradictionum; alterum Proclus in tomo ad Armenos; postremum Mercator, in opere cujus partem nunc edimus, neque enim integrum superesse puto.
+
+
+[1041] {#pl.48.1041}
+Libri hujus tertii, quem Pentalogium Theodoreti, sermonesque Eutherii ac Eranistem comprehendisse diximus, meminit Photius codice 49, ubi tamen semel in numero librorum, iterum in appellando auctore, peccavit: nam viginti septem libros numerat, et omnium facit auctorem unum Theodoretum, cum duos auctores demonstret Mercator, eo fide dignior quod ea aetate scriberet qua illi viverent. In hoc deinde volumine quinque tantum fuerunt Theodoreti libri, uno Pentalogii nomine inscripti, et viginti omnino sermones Eutherii, cum praefixa instar praefationis epistola. Operae pretium est verba Photii exscribere.
+« Lecti sunt Theodoreti episcopi Cyri libri septem et viginti, adversus varias propositiones.
+« Primus liber agit contra asserentes unius fuisse naturae Deum Verbum, et quod ex semine David sumpsit principium; itemque adversus eos qui Divinitati passiones attribuunt. Secundus liber cum eisdem e Scriptura manum validius conserit. Tertius de eadem re disputat. Quartus sanctorum Patrum continet doctrinam de gloriosa incarnatione Domini nostri Jesu Christi Filii Dei. Quintus haereticorum colligit opiniones, quas componit cum opinione eorum qui in Christo duas naturas minime agnoscunt, et ostendit magnam eos inter se affinitatem habere. Sextus ponit unum esse Filium Dominum nostrum Jesum Christum. Septimus epistolae locum tenet, quibus volumen primum absolvitur. Octavus vero contra eos qui multitudine dumtaxat veritatem dijudicant. Nonus in eos qui jactant non oportere e Scripturis aut loqui, aut quaerere, sed fidem suam sibi sufficere. Decimus in male objicientes illud, Verbum caro factum est. Undecimus adversus prohibentes duas capere in incarnatione naturas. Duodecimus in eos qui asserunt dicentem aliud esse Verbum, aliud esse carnem, duos filios profiteri. Decimus tertius contra dicentes quod idem sit Christum hominem agnoscere atque in homine spem collocare. Decimus quartus adversus enuntiantes: Passus est sine passione. Decimus quintus in eos qui dicunt: Passus est uti voluit. Decimus sextus in asserentes oportere voces ipsas accipere; non autem earum sensa, ut quae omnium captum excedant, considerare. Decimus septimus adversus dicentes: Verbum per carnem passum est. Decimus octavus contra asserentes quales Judaei poenas daturi fuissent, si Deum cruci non affixissent? Decimus nonus in affirmantes Judaeum illum esse, qui Deum minime crucifixum asserat. Vicesimus contra aientes angelos eos qui apud Abrahamum cibum sumpserunt, non continuo etiam carnis naturam attulisse. Vicesimus primus adversus eos qui miracula singulatim extenuant, dum carnem negant. Vicesimus secundus adversus eos qui humano generi damnum irrogant, dum concedere nolunt ex nostra natura principium sumptum esse. Vicesimus tertius contra jactantes credere simpliciter iis quae dicuntur, et non attendere quid decens sit aut indecens. Vicesimus quartus adversus tollentes naturarum differentiam, post passionem et ascensionem. Vicesimus quintus summatim ea repetit quae per partes hactenus tradita sunt. Vicesimus sextus de post manifestata compositione, seu consubstantiatione. Vicesimus septimus de eo quod secundum communem hominem est exemplo.
+« Clarum vero, vel ex solo argumento, quinam ex suprascriptis libris orthodoxam corroborent doctrinam, quique ab ea discedant.
+« Adhuc in eodem ipso volumine legi tres ejusdem libros superioribus majores; titulum praeferunt Ε ΡΑΝΙΣΤΗ Σ ἢ Πολύμορφος, id est, sodalis seu multiformis. Horum primus, Deum Verbum immutabilem esse docet; alter inconfusam minimeque mixtam unionem esse; tertius impassibilem sive imperturbabilem esse Deum Verbum. Accedit quartus, in quo syllogismis haec eadem argumenta retexit. »
+Ex verbis Photii quinque colligere est: 1o quo tempore scriptus sit Eranistes, de quo prolixius dicendi locus erit in auctario Theodoreti, quod propediem edemus; 2o quot sermones Eutherii desiderentur in secundo Operum Athanasii tomo; habentur enim septemdecim dumtaxat cum epistola praefixa seu praefatione, atque ita desunt postremi tres; 3o quod fuerit argumentum Pentalogii, atque etiam qui finis, idem scilicet ac Eranistae, cum eaedem utrobique propositiones catholicorum doctorum, et eodem fere modo, impugnentur; 4o quae fuerit opinio de Theodoreti fide, etiam temporibus Photii, a quo tamen immensis laudibus effertur; 5o volumine quod memorat Photius tria Opera comprehensa esse ejusdem omnino argumenti: nam Eutherii sermonibus idem virus continetur quod Pentalogio, nisi quod nocentius sermonibus inest, quia eloquentius. Verum ista enucleatius in praefato Operum Theodoreti auctario.
+Jam vero de opere Mercatoris antirrhetico, adversus librum tertium, quem dixi, atque etiam secundum, saltem ex parte. Crediderim equidem, aut conjecerim potius, a Mercatore compositum opus, seu codicem, tripartitum de causa Nestoriana. Et prima quidem parte comprehendisse omnia quae Nestorii ac Cyrilli. In secunda quae Theodori Mopsuesteni; in tertia quae Theodoreti atque Eutherii. Nos primam divisimus in duas, propter enormem prae caeteris magnitudinem. Secundam et tertiam conjunximus, propter oppositam rationem. Non mediocriter juvisset, ad dogma Nestorii penitius perspiciendum adjungere Marianis ex Theodoro excerptis alia quae sparsa reperiuntur, et apud Leontium Scholasticum, qui Theodorum accusat; et apud Facundum Hermianensem, qui defendit; et in Vigilii pontificis constituto, quintaque synodo, ubi damnatur.
+Porro autem de nomine auctorum trium, quorum ex Operibus excerpsit Mercator quae hic eduntur, nihil admodum praefari juvat, cum Theodoreti, immo et Eutherii historia in auctario, nec indigna curiosis lectoribus, nec mediocriter ad res ecclesiasticas utilis, texenda sit; et Theodori mentio, non tantum saepe facta sit, tum in dissertatione prima in priorem partem Operum Mercatoris, tum in notis ad varia loca; sed iterum etiam facienda sit, pluribus in dissertatione prima in posteriorem hanc partem.

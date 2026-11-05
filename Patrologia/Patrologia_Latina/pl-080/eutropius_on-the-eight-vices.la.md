@@ -1,0 +1,84 @@
+---
+id: pl.080.4611
+sigla: pl.80.on-the-eight-vices
+title: "On the Eight Vices"
+work: "On the Eight Vices"
+creator: "Eutropius"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 80"
+columns: "80–0014C"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.80.colN}"
+---
+
+# On the Eight Vices
+
+**Author**: Eutropius  
+**Series**: PL 80  
+**Columns**: 80–0014C  
+
+[80] {#pl.80.80}
+De octo vitiis
+SANCTI EUTROPII ABBATIS ET EPISCOPI EPISTOLA AD PETRUM PAPAM. DE OCTO VITIIS.(Ex Bibliot. Pat. t. VIII.)
+Octo sunt vitia principalia quae humanum genus infestant. Primum, gastrimargia, quod sonat ventris ingluvies; secundum; fornicatio; tertium, philargyria, id est avaritia, sive amor pecuniae; quartum, ira, quintum; tristitia; sextum, acedia, id est anxietas sive taedium cordis; septimum, cenodoxia, id est jactantia seu vana gloria; octavum, superbia. Haec igitur octo vitia, licet diversos ortus ac difficiles efficientias habeant, sex tamen priora, id est, gastrimargia, fornicatio, philargyria, ira, tristitia, acedia, quadam inter se cognatione et, ut dixerim, concatenatione, connexa sunt. Ita ut prioris exuberantia sequentium efficiatur exordium.
+
+
+[0011A] {#pl.80.0011a}
+Nam de abundantia gastrimargiae fornicationem, de fornicatione philargyriam, de philargyria iram, de ira tristitiam, de tristitia acediam, necesse est pullulare. Ideoque simili contra haec modo atque eadem ratione pugnandum est, et praecedentium semper adversus sequentes oportet nos inire certamen. Quamobrem, ut acedia vincatur, superanda est tristitia; ut tristitia propellatur, ira exstinguenda est; ut exstinguatur ira, philargyria conculcanda; ut evallatur philargyria, fornicatio compescenda est; ut fornicatio subruatur, gastrimargiae vitium est castigandum. Residuae vero duae, id est, cenodoxia et superbia sibi quidem similiter illa qua de superioribus diximus ratione junguntur, ita ut incrementum prioris ortus efficiatur alterius. Cenodoxiae exsuperantia superbiae fomitem parit. Nam illis sex evulsis, haec duo vehementius fructificant, et illis mortuis, vivacius istae pullulant et succrescunt. Unde et diverso modo ab his duobus impugnamur.
+
+
+[0011B] {#pl.80.0011b}
+In unumquodque illorum sex vitiorum tunc incidimus cum a praecedentibus illorum fuerimus elisi. In his vero duobus etiam victores post triumphos periclitamur.
+Nam et ista octo vitia quae commemoravimus in quatuor conjugationes et copulas dividuntur. Gastrimargia namque et fornicatio peculiari consortio foederantur, simili modo philargyria cum ira. Tristitia quoque et acedia eadem copulatione junguntur. Cenodoxia quoque atque superbia familiariter et ipsa sibi conjunguntur. Audivisti copulationes, audi nunc genera vitiorum.
+
+
+[0011C] {#pl.80.0011c}
+Gastrimargiae genera sunt tria. Primum quod ante horam canonicam perurget Christianum comedere: in hac peccavit Jonathan, filius Saul, irrumpens juramentum patris, unde nec victoriam meruit populus de inimicis habere; secundum, ex quarumlibet escarum vel potus superfluitate, in qua peccavit populus Israeliticus cum fabricavit vitulum aureum, sicut scriptum est (Exod. XXXII) : Sedit populus manducare et bibere, et surrexerunt ludere; tertium, quod accuratiores et delicatissimos cibos desideret. In hoc peccaverunt filii Heli qui noluerunt carnem coctam accipere a populo, sed crudam, ut diligentius sibi praepararent (I Reg. II) . Ex his tribus generibus diversae et pessimae valetudines animae procreantur. Nam de primo ira illi qui parare cibum debuit, de secundo luxuriae ac libidinis aculei suscitantur; tertium autem inextricabiles philargyriae laqueos nectit cervicibus captivorum.
+
+
+[0011D] {#pl.80.0011d}
+Fornicationis genera tria sunt: Primum, cogitatio est, de qua Dominus ita in Evangelio (Matth. V) dicit: Qui viderit mulierem ad concupiscendam eam, et caetera; secundum, quod per commistionem sexus utriusque perficitur; tertium, absque feminae tactu, quod Apostolus immunditiam (Gal. IV) nuncupat. Quae tria sic sunt a nobis pari observatione cavenda, ne a regno Christi unumquodlibet horum nos deterreat et excludat.
+
+
+[0012A] {#pl.80.0012a}
+Philargyriae genera sunt tria: primum quod exspoliari non sinit hominem facultatibus superfluis, in hoc peccaverunt (Act. V) Ananias et Sapphira; secundum quod ea quae a nobis dispersa sunt indigentibus, cum majori cupiditate persuadet resumere: in hanc culpam incidit Judas, qui Dominum vendidit; tertium quod ea quae ante non possedimus infrunite desiderari vel acquiri compellimur. In hac peccavit Giezi.
+Irae genera sunt tria: unum quod exardescit intrinsecus et prae indignatione non valet loqui; aliud, quod in verbum et opus effectumque prorumpit; tertium, quod per dies et tempora reservatur.
+Tristitiae genera sunt duo: unum quod ira desinente de illato damno vel desiderio praepedito generatur; aliud quod de rationabili mentis anxietate seu desperatione descendit.
+
+
+[0012B] {#pl.80.0012b}
+Acediae sunt genera duo: unum quod ad summum praecipitat aestuantes; aliud quo nec bonum facere nec audire delectat. Ista ejicit monachum de cella sua.
+Cenodoxia, licet multiplex ac multiformis est et in diversas species dividitur, genera tamen ejus sunt duo: primum quod pro carnalibus ac manifestis extollitur rebus; secundum, quod pro spiritualibus et occultis desideriis vanae laudis inflamur.
+Superbiae genera sunt duo: primum, carnale; secundum, spirituale, quod etiam perniciosius est. Illos namque specialius impugnat quos in quibusdam virtutibus profecisse reperit. Audisti genera et conjunctionem atque concatenationem, audi nunc quales habeant filias quae de eis nascuntur.
+
+
+[0012C] {#pl.80.0012c}
+De gastrimargia namque nascuntur comessationes, ebrietates; de fornicatione, turpiloquia, scurrilitates, ludicra ac stultiloquia; de philargyria, mendacium, fraudatio, perjuria, turpis lucri appetitus, falsa tesmonia, violentia, inhumanitas ac rapacitas; de ira, homicidia, clamor et indignatio; de tristitia, rancor, pusillanimitas, amaritudo, desperatio; de acedia, atrocitas, somnolentia, importunitas, inquietudo, pervagatio, instabilitas mentis et corporis, verbositas et curiositas; de cenodoxia, contentiones, haereses, jactantia ac praesumptio novitatum; de superbia, contemptus, invidia, inobedientia, blasphemia, murmuratio atque detractio. Haec igitur octa vitia sunt, cum hominum genus impulsent, non tamen uno modo impetunt cunctos. In alio namque spiritus fornicationum locum obtinet principalem. In alio superequitat furor. In alio cenodoxia vindicat tyrannidem. In alio arcem superbia tenet. Et cum constet omnes ab omnibus impugnari, diverso tamen modo et ordine singuli laboramus.
+
+
+[0012D] {#pl.80.0012d}
+Quamobrem ita nobis adversus haec arripienda sunt praelia, ut unusquisque vitium quo maxime infestatur exploret et adversus illud arripiat principale certamen. Unum namque nos ordinem praeliorum exercere debere nec de nosrta virtute confidere etiam legislator (Deut. VII) docet his verbis: Non timebis eos, quia Dominus Deus tuus in medio tui est, Deus magnus et terribilis. Ipse consumet nationes has in conspectu tuo paulatim atque per partes. Non poteris eas delere pariter, ne forte multiplicentur contra te bestiae terrae, dabitque eos Dominus Deus tuus in conspectu tuo, donec penitus deleantur. Sed neque debere nos in eorum extolli victoria similiter (Deut. VIII) monet: Ne postquam comederis, inquit, et satiatus fueris, domos pulchras aedificaveris et habitaveris in eis, habuerisque armenta et ovium greges, argenti et auri cunctarumque rerum copiam, elevetur cor tuum, et non reminiscaris Domini Dei tui, qui eduxit te de terra Aegypti, de domo servitutis, et ductor tuus fuit in solitudine magna atque terribili. Salomon quoque in Proverbiis (Prov. XXIV) : Si ceciderit inimicus tuus, noli gratulari. In supplantatione autem ejus noli extolli. Ne videat Dominus ejus et avertat iram suam ab eo; id est, ne dispertias elationem cordis tui, ab ejus impugnatione discedet, et incipies, derelicturus ab eo, rursus ab illa quam per Dei gratiam superaveras passione vexari.
+
+
+[0013B] {#pl.80.0013b}
+Quamobrem certos nos esse convenit, tam ipsis rerum quam innumeris Scripturarum testimoniis eruditos, nostris nos viribus, nisi solius Dei auxilio fulciamur, tantos hostes superare non posse, et ad ipsum quotidie summam victoriae nostrae referre debere. Ita super hoc quoque per Moysen (Deut. IX) , Domino commonente: Ne dicas in corde tuo, cum deleverit eas Dominus Deus tuus in conspectu tuo: Propter justitiam meam introduxit me Dominus, ut terram hanc possiderem, cum propter impietates suas istae deletae sint nationes. Nec enim propter justitias tuas et aequitates cordis tui ingredieris ut possideas terram eorum, sed quia illae egerunt impie, te introeunte, deletae sunt. Rogo quid apertius potuit dici, vel cautius? Cum quanta cautela oportet nos esse!
+
+
+[0013C] {#pl.80.0013c}
+Hae septem gentes, quarum terras egressis ex Aegypto filiis Israel daturum se Dominus repromittit. Quae omnia secundum Apostolum, cum in figura contigerint illis ad nostram commonitionem scripta (Deut. VII) debemus accipere.
+Ita enim dicitur: Cum introduxerit te Dominus Deus in terram quam possessurus ingredieris et deleverit gentes multas coram te, Hethaeum, et Gergezaeum, et Amorrhaeum, Chananaeum, et Pherezaeum, et Jebusaeum, et Nevaeum, septem gentes multo majoris numeri quam tu es et robustiores te, tradideritque Dominus tibi eas, percutiesque eas usque ad internecionem.
+
+
+[0013D] {#pl.80.0013d}
+Quod vero multo majoris numeri esse dicuntur, haec ratio est, quia plura sunt vitia quam virtutes. Et ideo in catalogo quidem dinumerantur septem gentes; in expugnatione vero earum sine numeri ascriptione ponuntur. Ita enim dicitur: Et deleverit gentes multas coram te. Numerosior est enim quam Israel carnalium passionum populus, qui de hoc septenario fomite vitiorum ac radice procedit, atque de octavo, qui notior est omnibus, regina, ut ita dicam, atque mater omnium vitiorum; ex his enim octo pullulant atque nascuntur hae filiae, id est, comessationes, ebrietates, turpiloquia, etc., superius descripta, quae commemorare perlongum est. Quae cum nobis levia judicentur, quid Apostolus de illis senserit (II Cor. X) , vel quam super his sententiam tulerit, audiamus: Neque murmuraveritis, inquit, sicut quidam illorum murmuraverunt, et perierunt ab exterminatore. Et de tentatione: Neque tentemus Christum, sicut quidam eorum tentaverunt et a serpentibus perierunt. De detractione: Noli diligere detrahere, ne eradiceris; aliaque complura his similia. Quae cum sint multo majoris numeri quam virtutes, devictis tamen illis octo principalibus vitiis, ex quorum natura eas certum est emanare, omnes protinus conquiescunt, ac perpetua pariter cum eis internecione delentur.
+
+
+[0014B] {#pl.80.0014b}
+Etenim quantum docet vetus traditio, has easdem terras Chananaeorum in quas introducuntur filii Israel, Sem filii Noe fuerant quondam, in orbis divisione, sortiti; quas deinceps per vim atque potentiam posteritas Cham persuasionis iniquitate possedit, in quo et Dei judicium rectissimum comprobatur. Qui et illos de locis alienis quae male occupaverant expulit, et istis antiquam patrum possessionem quae prosapiae eorum in divisione orbis fuerat deputata restituit. Quae figura in nobis quoque stare, certissima ratione cognoscitur. Nam voluntas Domini possessionem cordis nostri non vitiis, sed virtutibus naturaliter deputavit. Quae post praevaricationem Adae, insolescentibus vitiis, id est populis Chananaeis, a propria regione depulsae, cum ei rursum per Dei gratiam, diligentia nostra ac labore fuerint restitutae, non tam alienas occupasse terras quam proprias credendae sunt recepisse.
+
+
+[0014C] {#pl.80.0014c}
+De hoc septenario fomite vitiorum Salomon quoque in Proverbiis ita describit (Prov. XXVI) : Si te rogaverit inimicus voce magna, non consenseris ei, septem enim nequitiae sunt in anima ejus; id est, si gastrimargia te persuadet, ut relaxes corpori, quod continentiae decreveras modo, ne resolvas ejus subjectionem, quia confestim septem spiritus vitiorum aderunt tibi acriores quam illa passio quae primordiis fuerat superata, qui te mox ad deteriora pertrahant genera vitiorum. Quapropter Dominus per omnia est deprecandus, ut quod nostrae vires non habent ipsius misericordia succurrat.

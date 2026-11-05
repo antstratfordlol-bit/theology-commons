@@ -1,0 +1,51 @@
+---
+id: pl.020.2076
+sigla: pl.20.doubtful-letters
+title: "Doubtful letters"
+work: "Doubtful letters"
+creator: "Uncertain author (Anastasius I?)"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 20"
+columns: "20"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.20.colN}"
+---
+
+# Doubtful letters
+
+**Author**: Uncertain author (Anastasius I?)  
+**Series**: PL 20  
+**Columns**: 20  
+
+[20] {#pl.20.20}
+Epistolae dubiae
+APPENDIX. EPISTOLAE DUAE S. ANASTASIO PERPERAM ATTRIBUTAE.(Ex Labb. Conc. tom. II.)
+
+### EPISTOLA PRIMA. AD OMNES GERMANIAE AC BURGUNDIAE EPISCOPOS. I. Ut sanctum Evangelium universi, non sedentes, sed stantes audiant. --II. Transmarini quomodo ad clerum recipi debeant. --III. De Manichaeis in urbe Romana repertis.
+1 EPISTOLA PRIMA. AD OMNES GERMANIAE AC BURGUNDIAE EPISCOPOS. I. Ut sanctum Evangelium universi, non sedentes, sed stantes audiant. --II. Transmarini quomodo ad clerum recipi debeant. --III. De Manichaeis in urbe Romana repertis.
+ANASTASIUS episcopus cunctis Germaniae et 2 Burgundiae regionis episcopis in Domino salutem.
+Exigit dilectio vestra, charissimi, ut ex auctoritate sedis apostolicae vestris deberemus respondere consultis. Et quamvis non prolixe, sed succincte hoc agere, propter quasdam alias occupationes festinaremus, denuo tamen, si necesse fuerit, ob has vel alias necessitates, quasi ad caput, mittere charitative non dubitetis, quia vestras preces et nunc et tunc acceptas habemus.
+
+
+[0075D] {#pl.20.0075d}
+I. Significastis enim quosdam sacerdotes in ecclesia, quando leguntur Evangelia, sedere, et Domini Salvatoris verba non stantes, sed sedentes audire, et hoc ex majorum traditione se accepisse narrant: quod ut nullatenus deinceps fieri sinatis, apostolica auctoritate mandamus. Sed dum SS. Evangelia in ecclesia recitantur, sacerdotes et caeteri omnes praesentes, non sedentes, sed venerabiliter curvi, in conspectu sancti Evangelii stantes, Dominica verba intente audiant, et fideliter adorent.
+
+
+[0076C] {#pl.20.0076c}
+II. Similiter et transmarinos homines, de quibus nos consuluistis, in clericatus honore nolite suscipere, nisi quinque aut eo amplius episcoporum chirographis sint designati; quia multa per subreptionem solent evenire. Ideo et haec summopere sunt cavenda.
+III. Manichaeos vero, quos in urbe Roma invenimus, et sequaces eorum nolite recipere, neque eis communicare, aut ullam cum eis participationem habere, priusquam ad rectam convertantur fidem; ne eorum male pullulantia semina, quae a nobis in Urbe exstinguuntur, pessimis vobiscum radicibus seminentur vel germinent. Plurimos vero eorum, et suae sequaces impietatis, atque illorum doctores investigatio nostra reperit, vigilantia divulgavit, auctoritas et censura coercuit. Quos potuimus emendare, correximus: et ut damnarent Manichaeum cum praedicatione et disciplinis suis, publica in ecclesia professione et manus suae subscriptione compulimus: et ita de voragine impietatis suae confessos, poenitentiam concedendo, levavimus. Aliquanti vero, qui ita se demerserunt, ut nullum his auxiliantis remedium posset subvenire, subditi legibus, secundum Christianorum principum constituta, ne sanctum gregem sua contagione polluerent, per publicos judices perpetuo sunt exsilio relegati, et omnia quae tam in scriptis, quam in occultis traditionibus suis habent profana vel turpia, ut nosset populus quid fugeret aut vitaret, oculis Christianae plebis certa manifestatione probavimus ( fort. propalavimus), adeo ut ipse qui eorum dicebatur episcopus, a nobis tentus, proderet flagitiosa in suis mysteriis ( fort. mysticis), quae teneret, sicut gestorum vos series poterit edocere. Ad instructionem enim vestram etiam ipsa direximus: quibus lectis, omnia quae a nobis deprehensa sunt, nosse poteritis. Et quia aliquantos de his, quos, ne absolverentur, arctior ( fort. atrocior) reatus involverat; cognovimus aufugisse, hanc ad dilectionem vestram epistolam misimus, ut effecta certior sanctitas vestra, sollicitius agere dignetur et cautius, nec ubi Manichaeae perversitatis homines plebes vestras facultatem laedendi, et hujus sacrilegii possint invenire doctores. Aliter enim nobis commissos regere non possumus, nisi eos, qui sunt perversi doctores ( fort. proditores) et perditi, zelo fidei dominicae persequamur, et a sanis mentibus (ne pestis haec latius divulgetur) ( al. perditores, ita ms. Justell.) severitate, qua possumus, abscindamus. Unde hortor dilectionem vestram, obtestor et moneo, ut qua debetis et potestis, sollicitudine vigiletis ad investigandos eos, necubi occultandi se reperiant facultatem. Hi, fratres, valde cavendi sunt, ne dominicum gregem perversitatibus, quibus possunt, contaminare valeant. Sunt ergo quidam eorum veste sua oves significantes, interius vero lupi rapaces existunt: Quos (juxta veritatis vocem) ex fructibus eorum debemus agnoscere (Matth. VII, 16) . Quando autem coeperint assumere impietatem, illud quod occultabatur in illis, aperitur, et dolus omnis fit omnibus manifestus. Inveniuntur quoque infirmae fidei homines, et qui divinas lectiones sitiunt, secum eos in perditionem praecipitant. Dissipant enim et vituperant patrum disciplinas, et relinquunt sanctas Scripturas ad suam perditionem. Quos, ut praedictum est, debemus praevidere, et ab his multum cavere, ne in malitia sua aliqui occupati, concidant de sua firmitate. Saluto itaque vos, fratres, et omnes quae vobiscum bene sentiunt, ecclesias. Nos quoque, ut modo facitis, et alloquamini, peto, crebrius litteris, et frequentius de fide et bona intentione vestra atque sospitate, laetificate, ut et gaudium commune habeamus, et Domino pari voto fideliter serviamus. Data Nonis Octobris, Arcadio et Bautone viris clarissimis consulibus.
+
+### EPISTOLA II. AD NERIANUM. Nerianum religiosum virum ob parentum amissionem solatur.
+
+
+[0078A] {#pl.20.0078a}
+3 EPISTOLA II. AD NERIANUM. Nerianum religiosum virum ob parentum amissionem solatur.
+Dilectissimo fratri Neriano Anastasius.
+Multa mihi in omnibus fidei et bonitatis tuae litteris causa gaudii est, quod tantum studium circa religionis cultum exhibes, et Domini sacerdotes tuis in partibus adjuvare studes. Unde et Deo gratias ago, qui te ad hoc instigat, et ut perseverabilem in bonis operibus te faciat, exoro. Vos tamen et in prosperis et in adversis Deum laudare magnifice oportet, ejus sub potenti humiliari manu: ut in tempore vos tribulationis (juxta Petrum apostolum) confortet et exaltet (I Pet. V, 6) . Fraternitatis ergo vestrae afflictio, quam de amissione parentum vestrorum vos habuisse audivimus, tantam nobis causam moeroris injecit, ut quia nos de duobus charitas unum fecit, cor nostrum in vestris specialiter uri tribulationibus sentiremus. Sed in hoc dolore multum me consolata est sanctitatis tuae ad animum res deducta, quia ( fort. qua) et patienter ferre tristitiam decet, et de morte plebis tuae ulterius longam non habere moestitiam. Ne tamen aliqua adhuc tribulatio in vestra mente resideat, hortor quiescere ( fort. quiesce) a dolore: quia indecens est, te illis taedio affectionis addici, quos credendum est ad veram moriendo vitam pervenire. Habent forsitan illi justam longi doloris excusationem, qui vitam alteram nesciunt, qui de hoc saeculo ad melius esse transitum non confidunt. Nos autem qui novimus, qui credimus et docemus, contristari nimium de obeuntibus non debemus, ne quod apud alios pietatis tenet speciem, hoc nobis magis in culpa sit. Nam diffidentiae quodammodo genus est; contra 4 quod quisque praedicator queritur, justitiam amans, dicente Apostolo: Nolumus autem vos ignorare de dormientibus, ut non contristemini, sicut et caeteri qui spem non habent. Hac itaque, frater charissime, ratione perspecta, studendum nobis est, ne (sicut diximus) de mortuis affligamur, sed affectum viventibus impendamus, quibus et pietas ad utilitatem, et sit ad fructum dilectio. Depone ergo, charissime, moerorem, et assume spiritualem fructum laetitiae ad utilitatem sanctae Dei Ecclesiae, servorumque ejus profectum: et vitae hujus quaecumque sunt spatia aeternis divinisque officiis illustrare contende, ut qui insignem te prestitit, reddat per saecula clariorem. 5 Data septimo Idus Junii, Theodosio Augusto VII et Palladio, viris clarissimis consulibus.
+
+
+[20] {#pl.20.20}
+Epistola. Anastasius plures scripsit epistolas in causa Origenistarum et Donatistarum, et inter alias ad Ursinum de incarnatione Filii Dei, cujus tria exstant fragmenta in appendice ad breviarium Liberati diaconi. Haec si, quod reperitur in fine illius, scripta fuit Arcadio atque Bautone consulibus, anno Domini 385 atque adeo quatuordecim annis ante ingressum Anastasii exaratam fuisse oportet. Unde si eam legitimam et non potius supposititiam esse velimus, apparet, eam vel aliis pontificibus quam Anastasio ascribendam esse, vel in notam consularem mendum irrepsisse. Imposturae suspicionem auget, quod maxima pars epistolae, qua agitur de Manichaeis, reperiatur apud sanctum Leonem magnum Romanum pontificem, in epistola illius secunda ad universos Italiae episcopos scripta. Haec post Surium Baronius anno 402, num. 48.[SEVERIN. BINIUS.] Vel hoc verbum imposturam arguit, nam sub Valentiniani III imperio primum ad fidem christianam conversi sunt Burgundiones. [LABB.] Epistola II. Eadem fere suspicione imposturae haec, sicut etiam praecedens epistola, laboraret, si non in manuscriptis codicibus nota consularis hic circa finem addita abesset. Septimus enim consulatus Theodosii, habens collegam Palladium, incidit in annum Domini 416, qui est 15 post obitum Anastasii. Qua ratione isto tempore Anastasius epistolam scripsisse dicatur, non video. Ne igitur totius epistolae fides et auctoritas periclitetur, ob manuscriptos codices, unde haec Anastasii in tomum primum epistolarum pontificiarum relata est; notam consularem in fine superadditam, hac virgula censoria perstringendam esse judicavimus. [SEVER. BINIUS.] Quod quisque . . . . Hoc est, quod quisque praedicat torqueri moestitia mentis, dicente, etc. [LABB.] Data septimo Idus Junii. Haec est illa consularis nota, de fide integre suspecta, quaeque tomo primo epistolarum pontificiarum ab hac epistola ex manuscriptis codicibus scripta, abest. [SEVER. BINIUS.]

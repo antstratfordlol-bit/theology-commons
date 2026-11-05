@@ -1,0 +1,40 @@
+---
+id: pl.139.3691
+sigla: pl.139.acts
+title: "Acts"
+work: "Acts"
+creator: "Council of Mouzon; Uncertain author (Gerbert of Aurillac)"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 139"
+columns: "139"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.139.colN}"
+---
+
+# Acts
+
+**Author**: Council of Mouzon; Uncertain author (Gerbert of Aurillac)  
+**Series**: PL 139  
+**Columns**: 139  
+
+[139] {#pl.139.139}
+Acta
+ACTA CONCILII MOSOMENSIS AUCTORE GERBERTO ARCHIEPISCOPO. ( Ann. 995, Jun. 2.)Apud Pertz, Monumenta Germaniae historica, Script. tom. III, pag. 690.
+ACTA CONCILII MOSOMENSIS AUCTORE GERBERTO ARCHIEPISCOPO. ( Ann. 995, Jun. 2.)[Apud Pertz, Monumenta Germaniae historica, Script. tom. III, pag. 690.]
+CONCILIUM MOSOMENSE 1
+
+
+[0343C] {#pl.139.0343c}
+Anno ab incarnatione Domini 995, indictione VIII, a papa Johanne synodus denuntiata est habenda in parroechia Remensi metropoli. Itaque IV Nonas Junii convenientibus Mosomum venerabilissimis episcopis Liodulfo 2 Treverensi, Aymone 3 Verdunensi, Notkero 4 Leodicensi, Suitgero 5 civitatis Minigardevurdae, Leo abbas monasterii sancti Bonefacii urbis Romae vicem agens domni Johannis papae, medius inter eos consedit, in aecclesia beatae Dei genetricis Marie; atque in eorum prospectu Gerbertus Remorum archiepiscopus, pro sua ordinatione rationem redditurus. Interfuerunt etiam huic concilio diversarum urbium abbates non ignobiles, sed vita, moribus et scientia inter suos praeclari. Ex laicis quoque admissi sunt Godefridus comes et reliqui. Facto itaque silentio, cunctis residentibus qui aderant. Aymo episcopus surrexit et Gallice concionatus est, domnum Johannem papam episcopos Galliarum causa synodi ad Aquasgrani palatii invitasse, et eos illo venire noluisse. Item invitasse ad Urbem, et eos non venisse. Nunc pro sua sollicitudine in Remensi provintia concilium statuisse, et quae de Arnulfi dejectione et Gerberti promotione contraria sibi dicerentur, per suum vicarium velle cognoscere. Post haec protulit epistolam plumbeo sigillo munitam. Quam dissolvens, coram omnibus recitavit hoc modo se habentem: Johannes episcopus servus servorum Dei, omnibus archiepiscopis Galliarum salutem et apostolicam benedictionem, et reliqua. Hac epistola recitata, surrexit Gerbertus Remorum archiepiscopus, et hanc orationem subintulit.
+
+
+[0345A] {#pl.139.0345a}
+Exordium: Semper quidem (vide Patrologiae tom. CXXXVIII, col. 166) , usque in commune oramus.
+Hanc orationem Gerbertus finiens, Leoni abbati scriptam protulit 6 , et epistolam papae recepit, atque ita resedit. Tum episcopi a concilio secedunt, et comitem Godefridum consultationibus suis adhibent. Post haec Gerbertum ad se vocant, et Leonis abbatis monacum Johannem ad reges Francorum cum omni honore deduci faciat, orant et obtinent. Deinde Kalendis Julii Remis habendam synodum denuntiant. Jam synodus soluta esse videbatur, cum ecce Gerbertus 7 episcopus legatos episcopos accipit tanquam a parte Leonis, ut a divino officio usque ad denuntiatam synodum abstineat. Qui cum renueret, in praesentia ipsius Leonis perventum est. Ibique breviter commemorat, non esse in potestate cujusquam episcopi vel patriarchae vel apostolici, quemquam fidelium a communione removere, nisi sponte confessum vel convictum, vel ad concilium venire nolentem. Sibi autem nichil horum obstare, quippe qui nec confessus nec convictus sit, et qui solus de Gallia ad concilium venerit. Non ergo se suo juditio dampnaturum, qui in nullo genere oppositorum sibi male conscius sit. Sed modestia et probitate domni Liodulfi Treverensis archiepiscopi conventus et fraterne commonitus, ne occasionem scandali suis emulis daret, quasi jussionibus domni apostolici resultare vellet, sub nomine obedientiae, ut a missarum tantummodo celebritate abstineret, adquievit, usque ad proximas Kalendas Julias, quo tempore altera synodus indicta erat, Et sic discessum est.
+
+
+[139] {#pl.139.139}
+MOSONSE c. L. c. A. c. N. c. S. c. porrexit in marg. girbertus c.

@@ -1,0 +1,37 @@
+---
+id: pl.162.428
+sigla: pl.162.epistle
+title: "Epistle"
+work: "Epistle"
+creator: "Ansellus Cantor of the Holy Sepulchre"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 162"
+columns: "162–0731A"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.162.colN}"
+---
+
+# Epistle
+
+**Author**: Ansellus Cantor of the Holy Sepulchre  
+**Series**: PL 162  
+**Columns**: 162–0731A  
+
+[162] {#pl.162.162}
+Epistola
+ANSELLI CANTORIS S. SEPULCRI EPISTOLA AD ECCLESIAM PARISIENSEM. Portionem ligni S. Crucis mittit. (Anno 1108.)( Gall. Christ. nov. VII, instrum., 44.)
+
+### I.
+I.
+GALONI Dei gratia Parisiorum episcopo, et STEPHANO archidiacono, cujus laudis et potestatis magnitudo per multa terrarum loca etiam apud nos celebris habetur, et B. decano, et R. archidiacono, et N. praecentori, omnique conventui sanctae Mariae Parisiensis, ANSELLUS gloriosissimi Sepulcri cantor et presbyter. licet indignus, subjectionem, reverentiam, et amorem, et sic in hoc saeculo vivere ut per orationes vestras in futuro vobiscum merear sine fine gaudere.
+Cum ab ecclesia vestra, et a vobis, in qua, et cum quibus nutritus et eruditus fui, jam per viginti quatuor annos remotus sim corpore, tamen animo fervens in amore vestro, et Ecclesiae vestrae vobiscum cohabito mente. Namque cum his qui per singulos annos a vobis ad nos venerunt, qui vos noverunt, et a vobis noti fuerunt, semper fuit mihi sermo, et est sedulae inquisitionis de statu Ecclesiae vestrae, et de vobis quid agatis, et quomodo vos habeatis, de vobis praecipue quos vidi, et quos cognovi, et quandiu vixero, licet absens, semper amabo, saepe quoque per somnia, in solemnitatibus et processionibus, nec non et ferialibus matutinis et officiis vestris videor interesse, et vobiscum psallere. Hac ergo dilectione pro vobis sollicitus dominum venerabilem patriarcham, et canonicos nostros rogavi, ut orationibus et beneficiis nostrae congregationis fratres et participes jungeremini: cui petitioni concedentes itidem a vobis rogant, et requirunt. Praeterea, de donis quae dedit mihi Deus ad honorem et gloriam, et sublimationem ecclesiae vestrae, et vestri, vestraeque civitatis; donum maximum, et incomparabile, videlicet crucem unam de ligno sanctae crucis per Anselmum fidelem vestrum vobis devotus transmisi, a quo et litteras vestras nobis missas accepi. Sicut a Graecorum et Syriacorum scripturis didicimus, patibulum crucis Christi, de quatuor lignis fuit, unum in quo Pilatus titulum scripsit, aliud in quo brachia ejus extenta, et palmae affixae fuerunt, tertium in quo corpus ejus appensum est, quartum in quo crux affixa fuit, quod etiam aspersione sanguinis lateris, et pedum intinctum, et sanctificatum est; et crux ista, quam vobis misi, de duobus est lignis, quia crux inserta est cruci. Inserta est de eo in quo pependit, in qua inseritur, de suppedaneo in quo crux affixa fuit, utrumque dignum, utrumque sanctum. Porro David rex Georgianorum, qui cum suis praedecessoribus portas Caspias tenuit et custodivit, ubi sunt inclusi Gog et Magog, quod et filius ejus adhuc facit, cujus terra et regnum contra Medos et Persas est nobis quasi antemurale; hanc vero crucem, quandiu vixit, in summa veneratione et dilectione habuit, quo defuncto, et filio in regno promoto, uxor ejus venerabilis plus sanctitate quam generis nobilitate caput totondit, habitumque religionis suscepit, et assumpta cruce ista, multo auro Hierusalem cum paucis non reditura, sed ut ibi in quieto silentio et oratione vitam finiret, advenit, et de auro quod attulerat, congregationibus sanctae civitatis partes distribuit, pauperibusque et peregrinis eleemosynas erogavit, postea sub manu domini Gibbelini patriarchae congregationem sanctimonialium Georgianarum, quae est in Hierusalem, instituit. Nec multo post rogatu sororum, et patriarchae, regimen congregationis suscepit; denique distributis et erogatis, et in necessitatibus commissae congregationis, omnibus quae attulerat, expensis, cum inedia regionem nostram oppressisset, ipsa cum subditis coepit egere, cumque jam multa dono, multa mutuo recepisset, quod nullo modo pro necessitatibus sui corporis faceret, pro necessitatibus congregationis sibi commissae, pio affectu facere compulsa est. Itaque istud lignum nulli pretio comparandum hac ratione pretio est comparatum, ecce illud vobis misi, precor habetote illud honorifice sicut debetis. Verumtamen, ut memoriale sit posteris, et successoribus nostris, unde et quomodo illud habuistis, scribite in libris vestris: Ansellus clericus noster hanc crucem de ligno sanctae crucis Ecclesiae nostrae, et nobis, de Hierusalem transmisit. Postulo igitur a vobis ut me diligentem vos diligatis, et post mortem meam in orationibus vestris mei memoriam habeatis. Quid vero tanti thesauri latori contigerit, utrumne ad vos prospere pervenerit, per litteras vestras mihi notum faciatis.
+
+### II.
+
+
+[0731A] {#pl.162.0731a}
+II.
+Quaesistis qua ratione, qua necessitate portio ista de dominica cruce assumpta fuerit; ego quid inde ex litteris et relatione seniorum Surianorum audivi, et didici vobis manifestabo. Legitur in Evangelio, multa quidem, et alia signa fecit Jesus in conspectum discipulorum suorum, quae non sunt scripta in libro hoc, et vos multa legistis, sed non omnia: multa enim habent Graeci, quae non habent Latini: legistis tamen quod sancta Helena crucem dominicam per medium secari fecit, et crucem Constantinopolim ad filium detulit, crucemque Hierosolymis reliquit; relictam Chosdroe vastata Hierusalem rapuit, et in Persidem detulit, quam interfecto Chosdroe Heraclius imperator Hierosolymam retulit, et in Calvariae loco ut a populo christiano veneraretur, reposuit. Post mortem vero Heraclii populus infidelium adeo christianos oppressit, ut nomen Christi conarentur exstinguere, et memoriam crucis, et sepulcri delere. Itaque congerie lignorum supposita partem sepulcri combusserunt, et crucem similiter comburere voluerunt; sed christiani eam absconderunt; quocirca multos ex eis occiderunt. Denique christiani habito consilio secatam in multas portiones diviserunt, et per ecclesias fidelium distribuerunt, quatenus si eis una pars ad comburendum auferretur, tali modo aliae partes reservarentur. Itaque in Constantinopolitana urbe, praeter imperatoris crucem, sunt inde tres cruces, in Cypro duae, in Creta una, in Antiochia tres, in Edessa una, in Alexandria una, in Ascalone una, in Damasco una, in Hierusalem quatuor, Suriani habent unam, Graeci de Sancto Saba unam, monachi de valle Josaphat unam, nos Latini ad Sanctum Sepulcrum habemus unam, quae habet palmum et dimidium longitudinis, et pollicem unum latitudinis, et grossitudinis in quadro. Patriarcha quoque Georgianorum habet unam, rex etiam Georgianorum habuit unam, quam modo, Deo gratias, vos habetis. Nunc vero ad supplendum gaudium vestrum, et ad gloriam et honorem ecclesiae vestrae, et regiae dignitatis et civitatis vestrae, et vestrum donum maximum, et thesaurum incomparabilem, nec inferiorem priore, videlicet crucem unam de lapide dominici sepulcri per Bernardum Sanctae Genovefae praecentorem, testimonio vestro virum honestum, vobis devotus transmisi, quam obnixe imploro, ut honorifice, sicut dignum est, habeatis. Postulo igitur a vobis ut post mortem meam in orationibus vestris mei memoriam habeatis. Quid vero tanti thesauri latori contigerit, utrum prospere ad vos pervenerit, per litteras mihi vestras notum faciatis. Valete.

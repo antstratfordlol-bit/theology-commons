@@ -1,0 +1,34 @@
+---
+id: pl.155.8121
+sigla: pl.155.notice-on-sulcard-of-westminster
+title: "Notice on Sulcard of Westminster"
+work: "Notice on Sulcard of Westminster"
+creator: "Denis de Sainte-Marthe"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 155"
+columns: "155"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.155.colN}"
+---
+
+# Notice on Sulcard of Westminster
+
+**Author**: Denis de Sainte-Marthe  
+**Series**: PL 155  
+**Columns**: 155  
+
+[155] {#pl.155.155}
+Notitia
+NOTITIA( Histoire littéraire de la France, VIII, 138)
+Pitseus (Script. Angl., p. 188) , qui fait en peu de mots un éloge avantageux des grandes qualités de Sulcard, le suppose Anglais de nation. Sur ce principe il prétend que, s' étant fait moine à Westminster, il s' appliqua avec tant de succès à l' étude des lettres et à la pratique de la vertu, qu' il acquit un grand fonds de science et de piété. En conséquence Sulcard était aimé et honoré de tous ceux qui le connaissaient. Il eut même, ajoute-t-on, beaucoup de part à l' honneur de la confiance du roi saint Edouard le Confesseur. Telle est l' idée que Pitseus nous donne de ce pieux et savant moine.
+Elle peut être vraie en toutes ses parties, si l' on en excepte ce qui regarde le pays dont on le suppose natif. Il est effectivement beaucoup plus vraisemblable qu' il était né en Normandie, d' où il passa ensuite en Angleterre avec tant d' autres Normands, soit sous le règne de Guillaume le Conquérant, soit dès le temps même du roi saint Edouard, qui avait commencé à y en attirer plusieurs. Deux raisons principales suffisent pour le persuader. C' est une chose avouée de tous ceux qui savent l' histoire qu' avant les temps qu' on vient de marquer il était extrêmement rare de voir en Angleterre, dans le cours du XIe siècle, des hommes lettrés; ils y furent plus communs depuis le règne de ces princes; mais c' est qu' ils les y avaient appelés de nos provinces, surtout de Normandie. Il est certain, d' ailleurs, que sous le règne de Guillaume le Conquérant en particulier, temps auquel florissait Sulcard, les moines de Westminster, comme ceux de quelques autres monastères d' Angleterre, étaient presque tous Normands.
+Pitseus fixe le terme de la vie de Sulcard à l' année 1070. Mais il faut le reculer de beaucoup. La preuve est sans replique, puisque ce ne fut qu' en 1070 que Vital succéda à Eadwin, ou Edouin, dans la dignité d' abbé de Westminster qu' il remplit jusqu' en 1082, et que Sulcard a vécu sous Vital, à qui il a dédié un de ses ouvrages. Ajoutons pour fortifier nos preuves précédentes que ce Vital était Normand, et qu' il eut pour successeur Gilbert Crispin, autre Normand et grand homme de lettres pour son siècle. Sulcard fut enterré dans son monastère, où du temps de Pitseus on voyait encore, dit-on, sa tombe sépulcrale avec cette inscription:
+SULCARDUS MONACHUS ET CHRONOGRAPHUS.
+On lui attribue plusieurs écrits; mais à un seul près, dont il y a quelque chose d' imprimé, l' attribution des autres n' a que l' autorité de Pitseus pour principal garant.
+1o Une chronique qu' on ne fait point autrement connaître, et dont les compilateurs du Monasticon Anglicanum ont publié un assez long morceau. A en juger par cet échantillon, l' ouvrage, qui se trouve apparemment manuscrit dans les bibliothèques d' Angleterre, doit être fort étendu, et roule principalëment sur l' histoire de Westminster. Possevin semble en avoir eu connaissance (App. t. III, p. 443) . Le morceau imprimé contient la description du lieu, et les premières dispositions pour l' établissement du monastère, sous l' invocation de saint Pierre. Mais ce qui a trait à ce dernier objet n' est établi que sur une vision assez singulière, que l' auteur décrit avec toutes ses moindres circonstances, ce qui montre qu' il était fort crédule. L' ouvrage est dédié à Vital, abbé de Westminster.
+2o Un recueil de sermons, sur lequel on ne nous donne aucun éclaircissement, sinon qu' on dit qu' une des occupations ordinaires de Sulcard était d' instruire le peuple en lui annonçant la parole de Dieu. Ce recueil est apparemment un fruit des prédications de l' auteur.
+3o Un autre recueil de lettres, sans nous apprendre ni à qui elles sont adressées, ni de quoi elles traitent, ni même s' il en existe encore quelques-unes.
+4o Un troisième recueil de divers opuscules, dont on n' indique ni ne spécifie aucune des matières qui en peuvent faire l' objet. A tout cela on ajoute en général que Sulcard avait encore fait d' autres écrits, mais que le malheur des temps est cause que les titres mêmes n' en sont pas venus jusqu' à nous.

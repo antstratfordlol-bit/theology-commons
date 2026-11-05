@@ -1,0 +1,75 @@
+---
+id: pl.138.3472
+sigla: pl.138.capitulary-of-quierzy
+title: "Capitulary of Quierzy"
+work: "Capitulary of Quierzy"
+creator: "Charles the Bald"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 138"
+columns: "138"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.138.colN}"
+---
+
+# Capitulary of Quierzy
+
+**Author**: Charles the Bald  
+**Series**: PL 138  
+**Columns**: 138  
+
+[138] {#pl.138.138}
+Capitulare Carisiacense
+KAROLI II CAPITULARE CARISIACENSE. ( An. 873. Jan. 4.)
+
+### NOTA.
+NOTA.
+Anno incarnationis Dominicae 873, indictione VI, pridie Nonas Januarii haec quae sequuntur capitula domnus rex Karolus in Carisiaco palatio cum fidelium suorum consilio decrevit, et per suum regnum denuntiari et observari mandavit 2 .
+
+
+[0745C] {#pl.138.0745c}
+Quia necesse est, ut quod male reincrescit, iterum recidatur, de constitutionibus antecessorum nostrorum et nostris, quae in illorum et nostris capitulis constitutae sunt, ad resecanda mala quae specialiter iterum remergunt, missis et comitibus nostris firmiter exequenda proponimus, id est, ut quando missi vel comites nostri latronem vel aliquem malefactorem vel infidelem nostrum forbannierint, hoc nobis in nostro palatio et aliis missis et comitibus scire faciant, ut si ad nostram curtem venerit, inde faciamus quod nostrum est. Et si de uno missatico vel comitatu in alium missaticum vel comitatum fugerit, missus vel comes in cujus missaticum fugerit, per fidejussores constringat, ut velit nolit illuc reveniat, et ibi malum emendet ubi illud perpetravit. Et si fidejussores non habuerit, sub custodia illum habeat, donec ad illum comitem, in cujus comitatu forbannitus fuerit, illum revenire faciat. Et si alodem habuerit vel in illo comitatu unde fugit, vel in illo comitatu ad quem fugit, comes ipsum alodem in fiscum recipiat. Et qui talem forbannitum receperit, secundum quod constitutum est in capitularibus avi et patris nostri in libro tertio, si Francus est, cum duodecim similibus Francis juret quod ipsum latronem vel forbannitum esse non scisset, licet pater ejus sit, aut frater aut propinquus. Si hoc jurare non potuerit, vel ab alio convictus fuerit quod latronem vel malefactorem aut infidelem nostrum forbannitum in hospitio suscepisset, sicut ipse forbannitus et ut infidelis judicetur.
+
+
+[0747A] {#pl.138.0747a}
+2. Ut comites et missi nostri maximam curam adhibeant, quatinus in illorum comitatibus et missaticis populus justitiam et pacem habeat, et de latronibus exturbandis maximum certamen habeant. Et si talis malefactor aut infidelis noster emerserit, ut per se illum comprehendere comes in suo comitatu non possit, accipiat homines tam nostros quam episcoporum vel abbatum et abbatissarum in suo comitatu commanentes, et sic illum persequatur donec comprehendat. Et qui ad talem malefactorem accipiendum vocatus fuerit, et se inde retraxerit ut ad hoc adjutorium non praestet, si liber homo fuerit, bannum dominicum componat; et si colonus fuerit sexaginta ictus accipiat. Et si talis malefactor in illa persecutione occisus fuerit, qui eum occiderit leudem inde non solvat, et nullus illi inde faidam portare praesumat. Quod si quis facere praesumpserit, per certos fidejussores ad nostram praesentiam perducatur.
+
+
+[0747B] {#pl.138.0747b}
+3. De illis liberis hominibus qui infames vel clamodici sunt de testejis vel latrociniis et rapacitatibus et assalturis vel de infidelitate nostra, et cum furto non comprehenduntur, si eis jam vita perdonata est propter aliquod malefactum, fiat de illis sicut in capitulari avi et patris nostri continetur in libro 3. capitulo 47. et si jam de latrocinio revicti sunt, fiat de illis sicut de revictis. Si autem illis adhuc vita perdonata non fuit, et revicti non sunt, et res et mancipia vel mobile habent, fiat de illis sicut in quarto libro Capitulorum capitulo 29 dicitur, cum ad mallum comitis venerint. Si autem ad mallum non venerint, banniantur, et per res et mancipia vel mobile 3 distringantur ut veniant. Si autem non venerint, fiat de illis sicut in capitulari continetur. Et si post secundam comitis admonitionem ad mallum venire noluerint, rebus eorum in bannum missis venire et justitiam reddere compellantur. Et si talis est quem aut parentes aut propter faidam homines accusare noluerint aut ausi non fuerint, et cum malefacto comprehensus non fuerit et negaverit, juret cum duodecim talibus Francis, quorum testimonium leges publicae non rejiciunt, quod testejam vel latrocinium aut rapinam non fecerit; et post haec juret ipse tantum, quod deinceps testejam vel latrocinium non faciet, neque facienti consentiet, et si scierit qui haec fecerit, illis ministris nostris, per quos talis causa emendari debet, non celet. Et qui res et mancipia vel mobile non habent per quae distringi possint ut ad mallum veniant, et ibi aut se legaliter, ut praemisimus, excondicant 4 , aut si se excondicere non potuerint, quod male fecerint legaliter emendent. Post secundam bannitionem comitis si ad mallum non venerint, comprehendantur secundum praefatum capitulare libri tertii capitulo 56, quo dicitur de latronibus qui magnam habent blasphemiam. Quicumque aliquem ex his comprehenderit, nullum damnum exinde patiatur. Comprehensus autem, si fidejussores habere potuerit, per fidejussores ad mallum adducatur; si fidejussores habere non potuerit, a ministris comitis custodiatur, et ad mallum perducatur. Et si aliquis eum accusaverit, fiat de illo secundum praefatum capitulum libri capitularis. Si autem eum nullus accusaverit, excondicat se praedicto modo, et juret, quod deinceps testejam vel latrocinium non faciet, neque facienti consentiet, et si scierit qui hoc faciet, non celet ministris regni per quos talis causa emendari debet. Si vero tales, ut praediximus, ad mallum adduci non potuerint, in forbannum mittantur, et de his missi vel comites, sicut supra diximus, faciant; et de illis qui tales receperint, sicut praescripsimus, fiat. Si autem fiscalinus noster ita infamis in fiscum nostrum confugerit, vel colonus de immunitate in immunitatem confugerit, mandet comes judici nostro vel advocato cujuscumque casae Dei, ut talem infamem in mallo suo praesentet. Et si talem praesentaverit, si aliquis eum comprobare voluerit, faciat: et si nullus eum comprobare voluerit, tamen suam infamiam ad Dei judicium purget, et per illud Dei judicium aut liberetur aut condemnetur. Si autem judex noster vel advocatus de casa Dei commonitus talem blasphemum comiti in mallo suo non praesentaverit, fiat inde secundum capitulare libri tertii, capitulo 26. Et si servus alicujus ita clamosus est, comes dominum servi commoneat, ut eum in mallo praesentet, et praesentatum, si aliquis comprobare voluerit, faciat. Et si nullus eum comprobare voluerit, ad Dei judicium praedicto modo se examinet, et per illud Dei judicium aut liberetur aut condemnetur. Si autem dominus servi eundem servum suum comiti in mallo praesentare noluerit, fiat inde secundum capitulare libri tertii capitulo 46.
+
+
+[0748C] {#pl.138.0748c}
+4. De illis hominibus qui cum Carlomanno praeteritis annis tanta mala et tanta scelera in regno nostro fecerunt, sicut tunc et verbis et scriptis praecepimus, ita comites et missi nostri exequantur in eos in quibus nostra jussio, quam consilio fidelium nostrorum jussimus, executa non est. Id est, ut fidelitatem nobis promittant, sicut tunc scarivimus 5 , et scriptam comitibus nostris dedimus. Et cui aliquid abstulerunt, aut emendent aut deprecentur, et poenitentiam faciant, sicut tunc constitutum fuit. Et qui seniores, sicut tunc praecepimus, acceptos non habent, per fidejussores ad nostram praesentiam perducantur, et alodes quos habent comites, in quorum comitatibus sunt, in fiscum recipiant.
+
+
+[0748D] {#pl.138.0748d}
+5. Ut unusquisque comes in suo comitatu provideat, ut qui fidelitatem nobis adhuc promissam non habent, fidelitatem nobis promittant, sicut in capitulis avi et patris nostri continetur.
+6. Ut unusquisque comes in comitatu suo magnam providentiam accipiat, ut nullus liber homo in nostro regno immorari vel proprietatem habere permittatur cujuscumque homo sit, nisi fidelitatem nobis promiserit.
+
+
+[0749A] {#pl.138.0749a}
+7. Et quia audivimus, quod malefici homines et sortiariae per plura loca in nostro regno insurgunt, quorum maleficiis jam multi homines infirmati 6 , et plures mortui sunt; quoniam, sicut sancti Dei homines scripserunt, regis ministerium est, impios de terra perdere, maleficos et veneficos non sinere vivere, expresse praecipimus, ut unusquisque comes in suo comitatu magnum studium adhibeat, ut tales perquirantur et comprehendantur. Et si jam inde comprobati masculi, vel comprobatae feminae sunt, sicut lex et justitia docet, disperdantur. Si vero nominati vel suspecti, et necdum inde comprobati sunt, vel per testes veraces inde comprobari non possunt, Dei judicio examinentur; et sic per illud Dei judicium aut liberentur aut condemnentur. Et non solum tales istius mali auctores, sed et conscii ac complices illorum, sive masculorum, sive feminarum, disperdantur, ut una cum eis scientia tanti mali de terra nostra pereat.
+
+
+[0749B] {#pl.138.0749b}
+8. Quia, sicut et per scripturas et per auctoritatem et per rationem manifestum est, duo sunt quibus principaliter mundus hic regitur, regia potestas et pontificalis auctoritas, et in libro capitulorum avi et patris nostri conjuncte ponitur, ut res et mancipia ecclesiarum eo modo contineantur sicut res ad fiscum dominicum pertinentes contineri solent, juste et rationabiliter de rebus et mancipiis quae in regia et in ecclesiastica vestitura fuerunt, uniformiter et uno modo tenendum est (BENED. c. ult.) . Ut sicut quaecumque res et mancipia in regia vestitura avi et patris nostri et nostra fuerunt, et nunc ab aliis detinentur, demonstretur, qualiter de regia vestitura avi et patris nostri et nostra exierunt, quia plures inde per mendacium quaedam obtinuerunt, et quidam plura per fraudem obtinent, ita et de rebus quae in ecclesiarum vestitura fuerunt, unde quaestio fuerit, demonstretur, qua auctoritate in proprietatem eas quisque obtineant. Et quoniam quidam non contradicunt quod res et mancipia quae tenent, in vestitura nostra vel antecessorum nostrorum sive ecclesiarum Dei non fuissent, sed patres illorum morientes eis in hereditatem dimiserunt, ideo non volunt inde ullam auctoritatem ostendere, sed suam hereditatem probare, contra illos dicitur quia potest fieri ut aliquis de fisco regio vel de rebus ecclesiae aliquid proprindat aut per fraudem obtineat, et mortuo illo filius ejus aut filia illas res tenere in hereditatem velit. Propterea per capitula avi et patris nostri, quae Franci pro lege tenenda judicaverunt, et fideles nostri in generali placito nostro conservanda decreverunt discernendum est, de quali hereditate auctoritas non debet requiri, sed legitima hereditas ab aliquo approbari. Ostenditur enim in eis capitulis ubi de rebus alienis alicui per malum ingenium venditis vel datis loquitur, quae sit unicuique legitima hereditas, cum dicitur inter alia: « Similiter de omnibus justitiis ad eum pertinentibus rationem reddere compellatur, excepta sua legitima hereditate, quae ei per successionem parentum suorum legitime evenire debuit. » Et de hac legitima hereditate non est auctoritas requirenda. Sed si interpellatio inde fuerit, legitima hereditas approbanda. Quia vero de rebus ex fisco regio et de rebus ecclesiasticis, quae ita ut in eisdem capitulis habetur contineri debent, sicut res ad fiscum dominicum pertinentes contineri solent, auctoritas est requirenda, per quam auctoritatem quisque illas retineat, in ipsis capitulis demonstratur, cum dicitur: Ubicumque commutationes tam tempore nostro quam tempore genitoris et avi nostri legitime et rationabiliter atque utiles ecclesiis Dei factae sunt, permaneant. Ubicumque vero inutiles et incommodae atque inrationabiles factae sunt, dissolvantur, et recipiat unusquisque quod dedit. Ubi vero mortua manus interjacet, aut alia quaelibet causa quae rationabilis 7 esse videatur, inventa fuerit, diligenter describatur, et ad nostram notitiam perferatur. Sed et justum atque rationabile videtur, ut si rectores ecclesiarum negligenter res quas acceperunt in commutationem neglexerunt, et commutantes commutatas excoluerunt, non compensentur excultae et neglectae aequaliter: sed sicut tunc fuerunt compensentur quando commutatae fuerunt. Et ita compensatio ad nostram notitiam perferatur, et nostro ac fidelium nostrorum judicio, utrum permanere an dissolvi debeant istae commutationes, decernatur.
+
+
+[0750C] {#pl.138.0750c}
+9. (BENED. Add. IV, 105.) Ut sicut in capitulis avi et patris nostri continetur, missi nostri, ubi boni scabinei non sunt, bonos scabineos mittant; et ubicumque malos scabineos inveniunt, ejiciant, et totius populi consensu in locum eorum bonos eligant; et cum electi fuerint, jurare eos faciant ut scienter injuste non judicent.
+10. (Cap. 107.) Volumus ut secundum capitulare avi et patris nostri, quicumque de scabineis deprehensus fuerit propter munera aut propter amicitiam injuste judicasse, per fidejussores missus ad praesentiam nostram veniat. Et omnibus scabineis denuntietur, ne quis etiam justum judicium vendere praesumat.
+
+
+[0750D] {#pl.138.0750d}
+11. (Cap. 106.) Volumus ut secundum capitulare avi et patris nostri, in comitatu omni hi qui meliores et veraciores inveniri possunt, eligantur a missis nostris ad inquisitionem faciendam et rei veritatem discendam, et ut adjutores comitum sint ad justitias faciendas.
+
+
+[0751A] {#pl.138.0751a}
+12. (ANSEG. IV, 26.) Volumus ut secundum capitula avi et patris nostri et nostra mallus neque in ecclesia neque in porticibus, aut atrio ecclesiae, neque in mansione presbyteri juxta ecclesiam habeatur: quia non est aequum ut ibi homines ad mortem judicentur et dismembrentur et flagellentur, ubi si confugerint, secundum aliud capitulum pacem habere debent. Domus vero, sicut in capitulis avi et patris nostri continetur, a comite in loco ubi mallum tenere debet construatur, quatenus propter calorem solis et pluviam publica utilitas non remaneat. Minora vero placita comes, sive intra suam potestatem, vel ubi impetrare potuerit, excepto in ecclesia, et porticibus, atque atrio ecclesiae, et mansione presbyteri, habeat, sicut in eisdem capitulis continetur.
+
+
+[138] {#pl.138.138}
+Sirmondi et Baluzii editiones, recepta tantum quae potior est (cf. et Hincmari Annales an. 873 ineunte) codicis Laudunensis inscriptione, iterum expressimus. ita codex Laudunensis. Bellovacensis vero et codex Antonii Augustini, atque editiones Baronii, Sirmondi et Baluzii haec habent: Anno incarnationis dominicae 873. regni vero domni Karoli 33. indictione 5. haec capitula quae sequuntur, ab eodem rege statuta sunt in placito generali apud Carisiacum, omnium cum voluntate et consensu, et a praefato rege et ab omnibus qui praesentes fuerunt confirmata. v. m. desunt Sirm. i. e. excusent. distribuimus, instituimus. informati [SIRM.] rebellis. [SIRM.]

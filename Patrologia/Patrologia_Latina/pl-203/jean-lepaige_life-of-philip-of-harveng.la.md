@@ -1,0 +1,27 @@
+---
+id: pl.203.6390
+sigla: pl.203.life-of-philip-of-harveng
+title: "Life of Philip of Harveng"
+work: "Life of Philip of Harveng"
+creator: "Jean Lepaige"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 203"
+columns: "203"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.203.colN}"
+---
+
+# Life of Philip of Harveng
+
+**Author**: Jean Lepaige  
+**Series**: PL 203  
+**Columns**: 203  
+
+[203] {#pl.203.203}
+Vita Philippi de Harveng
+PHILIPPI ABBATIS BONAE SPEI VITA.(LEPAIGE, Bibliotheca Praemonstratensis ordinis, Parisiis 1633, fol., p. 508.)
+Venerabilis Philippus Harvengius, cognomento Eleemosynarius, monasterii Bonae-Spei Praemonstratensis ordinis, Cameracensis dioecesis, abbas secundus, vir disertissimus et mirifice doctus, pius et sanctus, et sancto Bernardo Claraevallensi familiaris, originem traxit ex mediocris fortunae parentibus. Sic enim de seipso epistola decima tertia loquitur: « Ne nobiliori plebeius videar adulari, et magis verbo quam opere gratiam tuam aucupari, etc. » A pueritia sua litteris admodum deditus, quadam infirmitate, licet per intervalla, correptus est; cujus molestias ut minus praesentiret, quam propulsasset facilius, lectioni ardentius insistebat. Puer grandiusculus episcopo suo se ultro praesentavit, a quo clericali indutus veste, et coronae titulo summum capitis insignitus, a conditione laicali ad clericalem professionem est annumeratus. Egressus fines adolescentiae suae, dum velut interiori domo juventus ejus tenera versaretur, divina gratia, quae potentior est quam natura, colaphum timoris repentinum ei incussit, et de manibus ejus ludicra pristinae vanitatis, et spem saeculi fallacem, quam avidus amplectebatur, excussit; movens, imo cogens eum, ut qui gaudebat clericum profiteri, diutius non differret clericalis religionis legibus cohiberi. Grata igitur violentia tractus, obedire monitis non refugit. Sicque valefaciens saeculo, abjecit quidquid in illo seductus ambiebat, habens multa contemptui, quae ante plurimum dilexerat. Mox ad Odonem Bonae Spei abbatem, vitae sanctitate et asperitate celebrem, se contulit, ut ad arctam et sublimem perfectionis viam eo magistro ac duce uteretur. A quo habitu Praemonstratensis religionis in Bonae Spei ecclesia assumpto, ibidem claustrali diversorio se reclusit. Ubi cum et de praeteritis veniam postularet, et pro posse mala praesentia declinaret, ad haec illi locum et exemplum suffragari plurimum sentiebat, et invento portui non mediocriter aggaudebat. Per annum fere integrum ibidem conversatus est, antequam ad sacros ordines promoveretur, et antequam ad mininistrandum altari ullatenus admoveretur. Quibus postmodum initiatus, prior suae Bonae Spei Ecclesiae eligitur constituiturque. Quo in munere, quamvis multa ad fratrum suorum instructionem et consolationem spectantia dixisset luculenterque scripsisset, eisque per octodecim fere annos sanctissime praefuisset, quorumdam nihilominus invidia ac livore oppugnatus, gravem persecutionem summumque conflictum, ut ex binis ejus subjunctis litteris liquet, passus est. « Deploranda certe est, inquiebat, temporum nostrorum injuria, ac hominum praesertim religiosorum seu Deo dedicatorum assueta, obstinataque nequitia, qui status vocationisque obliti, livoris ac invidiae spiritu excaecati, plerumque viros magis litteratos ac idoneos, magisque pios ac religiosos acerrimo persequi odio, injuriarum procellis obruere, ac omni qua possunt via, facta eorum et opera bona, vel tollere, vel oblitterare caeca et audaci mente consilioque non verentur. » His praesertim rerum adversarum conflictibus agitatus venerabilis Philippus, immobilis perstitit, pietasque ejus ac patientia inconcussa, probataque toti mundo patuit et effulsit. Noverat quippe, quod Tribulatio patientiam operatur, patientia autem probationem, probatio vero spem; spes autem non confundit (Rom. V, 3, 4) . Proinde quo magis oppugnabatur, tanto humilior se jejuniis et orationibus exercebat, ac rerum coelestium meditatione, vim lacrymarum profundens, fruebatur; atque patientis animi mansuetudine omnia feliciter hilariterque sufferendo, charitatis officia aemulatoribus suis, quacunque ratione posset, exhibere nunquam praetermittebat. De quibus sicut et de nonnullis ordinis primatibus epistola nona, quae est ad Bartholomaeum Laudunensem episcopum, et epistola duodecima, ad Eugenium papam tertium, conqueritur.
+Vir beatus sanctitatis et doctrinae claritate non solum Praemonstratensem ordinem illustravit, sed toti Ecclesiae Dei luxit. Ea quippe divini ingenii sui monimenta posteris, magna Ecclesiae Dei utilitate, reliquit, quibus fidei catholicae veritas et coenobitica clericalisque disciplina illustratur, vitia profligantur, et piae fidelium mentes ad Dei amorem, et coelestis patriae desiderium mirabiliter inflammantur. Odoni ejusdem Bonae Spei primo abbati suffectus, monasticam disciplinam ibidem fratrum discordia utcunque collapsam, mirifice restituit, atque sibi commissos in spiritu lenitatis sanctissime ac piissime rexit. Ad culmen tantae erga pauperes et inopes liberalitatis et charitatis ascendit, ut Eleemosynarii nomine insigniri meruerit. Tandem sanctitatis laude conspicuus et multis virtutum titulis gloriosus, cum praefecturae suae munus fideliter religioseque annis circiter viginti septem administrasset, illudque jam senex in Adventu Domini anni 1182, reliquisset, in Quadragesima sequenti, sicut vitam suam ad Christi Salvatoris exemplum direxerat, sic ad ipsum, exuto corpore, recto cursu migravit.

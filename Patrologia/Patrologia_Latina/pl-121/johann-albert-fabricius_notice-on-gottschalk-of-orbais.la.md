@@ -1,0 +1,38 @@
+---
+id: pl.121.4632
+sigla: pl.121.notice-on-gottschalk-of-orbais
+title: "Notice on Gottschalk of Orbais"
+work: "Notice on Gottschalk of Orbais"
+creator: "Johann Albert Fabricius"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 121"
+columns: "121"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.121.colN}"
+---
+
+# Notice on Gottschalk of Orbais
+
+**Author**: Johann Albert Fabricius  
+**Series**: PL 121  
+**Columns**: 121  
+
+[121] {#pl.121.121}
+Notitia
+NOTITIA HISTORICA IN GOTTESCHALCUM.(Apud Fabricium, Bibl. med. et inf. Lat.)
+Inter Walafridi Strabi poemata legitur carmen ad Gotteschalcum monachum, qui et Fulgentius, tom. XV Bibliothecae Patrum Lugdunensis, pag. 232. Hic est nominatissimus ille Gotteschalcus, ordinis Benedictini monachus, Orbacensis in dioecesi Suessionensi, qui ob acrius motas de Praedestinatione controversias condemnatus in synodo Moguntina anno 848, et conventu Carisiacensi anno 849, inclususque in coenobio Altivillarensi, post viginti amplius annorum custodiam, obiit circa annum 870. Durius cum Gotteschalco actum ab Hincmaro Rhemensi 1 , Rabano Mauro, Amolone sive Amalario Lugdunensi, Joanne Scoto, caeterisque ejus adversariis, non obscure queritur Florus contra Joannem Scotum et Remigius Lugdunensis in libro Ecclesiae Lugdunensis nomine scripto de tribus Epistolis, qui exstat tomo XV Bibliothecae Patrum Lugdunensis, p. 666 seq. Prudentius Tricassinus, Ratramnus sive Bertramnus Corbeiensis, etc. Neque ultra Augustini sententiam processisse 2 Gotthescalcum contendit Jacobus Usserius in Gotteschalci et Praedestinatianae controversiae Historia, post editionem Dublinensem 1631, 4o recusa Hanoviae, 1662, 8, ad hujus calcem duas Gotteschalci Confessiones publicavit, unam breviorem, et alteram longiorem. In utraque praescientiam divinam a decreto divino non patitur dividi: in utraque identidem ad Augustinum et Fulgentium 3 Ruspensem provocat, et de sententia sua tam firmiter profitetur se esse persuasum, ut pag. 345 affirmet se, si posset fieri, millies potius pro veritate optare occumbere, quam semel (quod absit) cuilibet secus loquenti, cedendo succumbere. Et p. 353, ab ipsa Veritate edoctum et gratis ab ea pieque satis afflatum, animatum, armatum, misericorditerque simul ac mirabiliter adjutum et tutum, fretum et fultum, fideliter illi credere, fortiter tenere, veraciter patienterque defendere, et quemcunque contraria dogmatizare cognosco, tanquam pestem fugio et tunquam haereticum abjicio. Et pag. 354, ad Deum ipsum provocat his verbis: Atque utinam placeret tibi, cunctipotentissime pariter ac clementissime Domine, ut sicut in te credo et spero, dato mihi gratis posse, prout jamdudum dare dignatus es, et dare quotidie dignaris etiam velle: coram undique electa populorum te timentium multitudine, praesenti etiam istius regni principe 4 cum pontificum et sacerdotum, monachorumque seu canonicorum venerabili simul agmine, concederetur mihi, si secus hanc catholicae fidei de praedestinatione tua veritatem nollent recipere, ut isto quo dicturus sum, favente tua gratia, id approbarem, cernentibus cunctis, examine: ut videlicet quatuor doliis 5 uno post unum positis, atque ferventi singillatim repletis aqua, oleo pingui et pice, et ad ultimum accenso copiosissimo igne, liceret mihi, invocato gloriosissimo nomine tuo, ad approbandam hanc fidem meam, imo fidem catholicam, in singula transire: donec te praeveniente, comitante, ac subsequente, dexteramque praebente ac clementer educente valerem sospes exire, quatenus in Ecclesia tua tandem aliquando catholicae hinc fidei claritas claresceret, et falsitas evanesceret, fidesque firmaretur, et perfidia vitaretur.
+
+
+[0347B] {#pl.121.0347b}
+Post Usserium, utramque Gotteschalci Confessionem exhibet Gilbertus Manguinus 6 Veterum saeculi IX scriptorum de Gratia et Praedestinatione tom. I, pag. 7-25. Apud eumdem pag. 6, et parte II, pag. 3 seq., fragmenta ex Gotteschalci libello de Praedestinatione et chartula Professionis an. 848 Rabano Mauro oblatae, quae servavit Hincmarus Rhemensis T. I Opp., p. 25, 26, 118, 149, 211, 224, 226. Apud eumdem Manguinum tomo II, pag. 54, editi sunt Versus, 26 hexametri leonini ex Gotthescalci Epistola, quam ex Germania scripsit ad Ratramnum, monachum Corbeiensem, quos vulgaverat Sirmondus tomo I Operum Hincmari, pag. 555. Alios versus anacreonticos ex prooemio ad eumdem Ratramnum producit. Sirmondus ad Ennodii lib. V, ep. 7: Age quaeso, perge, Clio, etc. Longe plures editis versus Gotthescalci a viro nescio quo docto in lucem proferendos jampridem sperare jussit Labbeus, pag. 59 Biblioth. mss. Ex pitacio Gotthescalci ad quemdam monachum nonnulla profert idem Hincmarus, pag. 304, 305, et ex Epistola ad quemdam suum complicem, p. 226. Epistola ad Ratramnum in Ludovici Cellotii Historia Gottheschalci, edita Parisiis, 1655, fol., p. 415 Schedulam Gotthescalci, quod trina Deitas dici possit, exhibet idem Hincmarus t. I, p. 415-418, atque integro deinceps libro de non trina Deitate, sumpsit sibi oppugnandum. Ad Gotthescalci subtiliores de ratione qua beati visuri simus Deum, quaestiones respondit Lupus Ferrariensis epistola trigesima, cui etiam librum de tribus quaestionibus vindicat Baluzius, quem alteri Lupo alii, alii Amalario maluerunt tribuere. De Gottheschalci autem causa praeter Usserium, Cellotium aliosque a me laudatos adiri etiam possunt Mabillonius praefat. ad tom. III Annal. Benedictin., Sirmondus in Historia Praedestinatiana et contra Sirmondum Gilbertus Manguinus, in historica et chronica Synopsi controversiae Gotthescalcianae, et dissert. historica et chronica, in parte I tomi secundi Scriptorum saec. IX de Gratia et Praedestinatione, et ex nostratibus D. Paulus Roeberus, dissertatione de erroribus Gottheschalci saec. IX damnatis, Witebergae, 1646 4o.
+
+
+[0348B] {#pl.121.0348b}
+Ex historia ms. de Gottheschalci Novimonasteriensis visionibus an. 1190 excerpta edita sunt ab illustri Leibnitio tomo I Scriptorum Brunsvicensium, p. 870-875.
+
+
+[121] {#pl.121.121}
+Vide Bulaeum, hist. Academiae Pariensis, tom. I, pag. 178 seq. Summarische Nachrichten von der Thomasischen Bibliothec, tom. I, pag. 681. seq., 734. seq. Non plane Usserius hoc persuasit Vossio, cui librum suum dedicaverat. Vide Vossii epist. 156, qua Usserio gratias agit, et epist. 158, ad Guilelmum Laudum, episcopum Londinensem: nec non Grotii epist. 292, Vossii Historiae Pelagianae lib. VII, part. IV, tom. VI Operum, pag. 812 seq. Ad Usserii tamen accedunt sententiam praeter Gilbertum Magninum in Vindiciis praedestinationis et gratiae et Sylloge scriptorum saec. IX de Praedestinatione et Gratia, Paris. 1650, 4o, II vol. et cardinalis Norisius, cujus synopsis historiae Gottheschalcianae prodiit tom. IV ejus Operum, p. 681, 720, Veronae, 1732, fol. Suspicio est ab hoc Fulgentio, ad cujus libros tam fortiter provocat, Gottheschalco Fulgentii haesisse cognomentum, licet alii dicant appellatum, quod ipse prae aliis ingenio et litteris fulgere visus esset. Vide Caveum in Historia litteraria S. E.; Casparem Sagittarium, introduct. in Hist. Eccles., tom. I, p. 970 seq. Carolo Calvo, rege Galliae. Ad hunc locum respiciens Joannes Scotus Erigena cap. 3 de Praedestinatione, pag. 123, ad Gotteschalcum: Inter illa, ut video dolia, quae tibi praeparari jubes, jam involutus suffocaris: merito quippe in oleo atque pice ardere debuisti, qui et lumen charitatis, et mysterium praedestinationis perperam docere non timuisti. Propter idem insolens promissum doliorum, acriter reprehenditur Gotteschalcus ab Hincmaro Rhemensi lib. de non trina Deitate, tomo I, pag. 433. Caetera quae in utroque Manguini tomo exhibentur, notavit B. Thomas Ittigius libro de Bibliothecis et Catenis Patrum, pag. 397 seq.

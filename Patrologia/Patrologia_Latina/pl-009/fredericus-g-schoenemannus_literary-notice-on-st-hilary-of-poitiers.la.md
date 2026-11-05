@@ -1,0 +1,175 @@
+---
+id: pl.009.8259
+sigla: pl.9.literary-notice-on-st-hilary-of-poitiers
+title: "Literary notice on St. Hilary of Poitiers"
+work: "Literary notice on St. Hilary of Poitiers"
+creator: "Fredericus G. Schoenemannus"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 9"
+columns: "9"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.9.colN}"
+---
+
+# Literary notice on St. Hilary of Poitiers
+
+**Author**: Fredericus G. Schoenemannus  
+**Series**: PL 9  
+**Columns**: 9  
+
+[9] {#pl.9.9}
+Notitia litteraria in S. Hilarium
+NOTITIA LITTERARIA IN SANCTUM HILARIUM, AUCTORE SCHOENEMANN.( Biblioth. PP. t. 1. p. 273-294.)
+
+### 1. Vita.
+§ 1. Vita.
+
+
+[0207B] {#pl.9.0207b}
+Natus est Hilarius Pictavii in Gallia sub initium saeculi IV, parentibus gentilibus, non infimi loci. Quo factum est, ut optime litteris et inge nuis disciplinis, utut tunc temporis in Galliis erat earum conditio, erudiretur, litterarumque assectatione in libros sacros incideret, quorum praestantia et imprimis sententiarum gravitate captus, se uxoremque et filiam Apram nomine fidei christianae addixit. Prima quidem, quam in contubernio Christianorum exegit, aetas pariter ac tempus, quod gentilis adhuc traduxit, in obscuro latet. Summum ecclesiasticae dignitatis fastigium quin eruditione, morum integritate et devoto penitus religioni animo meruerit, nullum dubium est. Num vero ab inferioribus clericorum gradibus sensim ascenderit, an subito in sedem episcopalem sit evectus, divinare difficile sit. Certius videtur annus, quo episcopi sedem occupaverit, CCCL, poni. Hilarius hoc officio imprimis sibi datum existimabat, fidem orthodoxam, quae audiebat, contra Arianorum vexationes defendere; quod scriptis juxta ac viva voce animoque intrepido, sed nimio fervore ac vehementia nec ea ubivis, quam res imperii et ecclesiae poscebant, prudentia praestitit. Ac primum quidem in hac causa an 355, post concilia Arelate et Mediolani an. 353 et 355, celebrata librum unum ad Constantium misit, adhortatus imperatorem, ut orthodoxae fidei sectatores persequi desisteret. Simul Saturnino Arelatis episcopo, Ursacioque et Valenti episcopis, Arianae factionis per Gallias, Pannoniam ac Moesiam statoribus, omnem secum communionem interdixit. Non impune. Nam Saturninus, qui plurimum gratia apud imperatorem valebat, effecit, ut Biterras 1 , concilium decerneretur, a quo abesse Hilario per Constantium non licebat, quamvis quae Athanasio et ipsi intenderentur ibi pericula, facile praevideret. Ergo quicquid in illo concilio pro Athanasio et concilii Nicaeni formulis contra Arianos ab eo proferebatur, quod non nisi desultorie per illos fieri poterat, ad ipsum solum apud imperatorem invidia opplendum valuit jussuque Constantii Phrygiam in exilium missus est, Rhodano, Tolosae episcopo, comite. Quo loco inimici ejus hud dubie putaverant exilii poenam non leviter fore exacerbatam, quando non Phrygiam solum, sed omnem Asiam minorem Arianis plenam cognosceret. Et accidit sane, sed mitigabatur dolor Gallicanorum episcoporum litteris, quibus vinculum et communionem inter eum et ecclesiam Gallicanam salvam fore ac integram, Saturninum contra in Ecclesiae societatem non admissum iri significabant. Hinc ad eos perscripsit librum de Synodis s. de fide Orientalium et libros de Trinitate absolvit. Anno autem 359, cum concilia Arimini et Seleuciae haberentur, Hilarius quoque, incertum quo auctore et impulsore, certe injussu imperatoris accitus est. Cumque Anomoei vicissent, Constantinopolim cum legatis synodi petiit expectaturus, Phrygiamne an Gallias repetere juberetur. Ex quo colligas Hilarium in ea opinione fuisse, se imperatoris jussu Ariminum missum esse. Ibi Orientales quosdam episcopos, Nicaenam formulam tantum non totam amplexos, Gallicanis conciliavit, quo facilius conjuncti se tuerentur. Utque copia sibi daretur cum Arianis disputandi, flagitavit et post concilium Constantinopoli (360) habitum, quod in gratiam Anomoeorum cesserat, ad Constantium alterum libellum non mitiori pectore scriptum dedit. Sed protinus Constantinopoli decedere et Gallias reverti jussus est. Lente tamen in hoc itinere perrexit, in quo librum etiam contra Constantium, atrae bilis foetum emisit. In Gallias deinde, forsan Juliano jam imperatore, reverso, prima cura fuit, ut episcopos Gallicanos, qui Ariminensis concilii formulae subscripserant, et pro lapsis habebantur ab orthodoxae fidei defensoribus, Ecclesiae recuperaret, quod imprimis conciliis hinc ibi habitis effecit. Aliquot annis post Valentiniano et Valente imperatoribus de Italia ab haereticis purganda sollicitudo eum incessit et prae caeteris Auxentium Mediolani episcopum Arianae factionis per occidentales regiones ingens columen et in aula Caesarea magnopere gratia florentem debellavit, sed post varias machinationes et editum adversus eumdem librum, qui nunc quoque extat, ipse ex urbe secedere jussus, reliquum vitae tempus tranquille degit, ultimoque opere Expositionum in Psalmos exarato a. 368, d. 13 Jan. vitam reliquisse putatur.
+
+### 2. Scripta.
+
+
+[0209B] {#pl.9.0209b}
+§ 2. Scripta.
+Scripta Hilarii quae supersunt, secundum temporis seriem: Ad Constantium liber primus an. 355; Commentarius in Evangelium Matthaei circa an. 356; De Synodis sive de fide Orientalium, in editionibus vetustis: de synodis Graeciae an. 358; De Trinitate l. XII, an. 359, sive 360 absoluti. Ad Constantium liber secundus an. 360; Adversus Constantium an. 361: Adversus Auxentium Mediolani Ep. an. 365; Expositiones in Psalmos, extrema senectute compositae, auctiores post edit. Veronensem per Edmundum Martene redditae; Fragmenta Hilarii ex libro historiam Concilii Ariminensis et Seleuciensis complex et adversus Valentem et Ursacium inscripto.
+
+
+[0209C] {#pl.9.0209c}
+Falso tribuuntur Hilario: Epistola ad Apram filiam et Hymnus matutinus ad eamdem, quamquam a Benedd. pro genuinis accepta; Carmen in Genesim, liber de Patris et Filii unitate, liber de essentia Patris et Filii, uterque e libris de Trinitate consarcinatus, confessio de Trinitate, Alcuini potius, cujus libris de Trinitate adhaesit: denique Epistola sive libellus et sermo de dedicatione Ecclesiae a Trombello vulgati.
+
+
+[0209D] {#pl.9.0209d}
+Deperditorum non exiguus est numerus, in quibus tituli aliquot valde speciosi. Nimirum Liber ad Sallustium, contra Dioscorum medicum Hymnorumque liber, liber Mysteriorum, Epistolae in volumen collectae, Tractatus in Job ex Graeco Origenis translati, et, de quibus tamen dubitare licet, in Epistolas Pauli. Aiunt quidam, Hieronymus inquit 2 , scripsisse eum et in Cantica Canticorum; sed a nobis hoc opus ignoratur. De singulis post Constantium prolixe et docte egit Oudinus, tom. I, cap. 5, pag. 452, sqq. ed. Weidmann.
+
+### 3. Editiones.
+
+
+[0210A] {#pl.9.0210a}
+§ 3. Editiones.
+Pauca Hilarii opuscula, in quibus tamen opus praecipuum de Trinitate fuit; una cum Augustini de eodem argumento libro, Geo. Cribellus, Mediolanensis presbyter, e situ primus produxit Mediolani obstetricante Leon. Pachel. an. 1489. Unicum exemplar, quod reperire potuerit, passim a se emendatum scribit. Sed quo istud valuerit, dictu est difficile. Omnino autem plus curae Augustino tribuisse videtur, quam Hilario, ut infra notabimus. Eadem iterum excusa legimus Venetiis, et repetiit adjectis non sine honesta gloriatione reliquis potioribus ab aliquot viris doctis sibi oblatis Jod. Badius Ascens. an. 1510, tribus tomis, qui volumine non admodum magno comprehenduntur. Sed universa vitiorum nubes tantam circumfuderat caliginem, ut ad sententias ejus et effata plurimi caecutirent et usus impressi Hilarii fere cessaret. Huic igitur calamitati subvenit commode Erasmus, qui depravationis speciem et causas revolvens tum emendando graviora, tum spuria a genuinis secernendo plus praestitit, quam a quoquam praeter hunc virum an. 1523, quo Frobenii prela opus luci dederunt, expectari poterat. Sed nimirum non unius viri hoc nec aetatis erat, omnes labes eluere et pristino nitori, de quo ipso propter dictionis ejus indolem, et res a latinis Patribus non antea tractatas judicium confusum et incertum futurum erat, Hilarium restituere. Multo minus autem cum Erasmi ingenio colludebat per codicum incerta vestigia sedulo lectiones plausibiles rimari, atque ubi hi destituturi essent, in vadis subsistere, sed totum statim simul ac ad cognoscendum aliquem se dedisset, animo metiebatur, argumenti vim, tractationem atque elocutionem, aliunde et ex se petita, verbo, quicquid virtutum aut vitiorum sese exsereret, animo notabat, secum reputabat atque quamdam quasi auctoris imaginem ex omnibus sibi effingebat, quam in ex poliendo textu sequeretur, quo sane effecit hoc, ut de causis variisque vitiorum generibus nemo ipso rectius sentiret, nemo felicius ea detegeret. Sed nequaquam omnibus emaculandis natus, curas suas posterorum diligentiae perficiendas reliquit, quibus utinam ingenium quoque. Tractarunt igitur currente saec. XVI, operam Erasmianam duo viri docti non aeque ingenio quam studio, quod uterque contulit, dispares, Ludovicus Miraeus, qui an. 1544, apud Carolum Guillard Hilarium excudi curavit et Martinus Lypsius, per quem recognitus apud Froben. Bas. 1550, prodiit. Uterque codices mss. adhibuit, sed diligentiam solus Miraeus, sed nec ipsum magnam mss. copiam nec in omnes tractatus habuisse atque plusculum credidisse antecessoris sui ingenio et conjecturis; Lypsium adeo propriis conjecturis plus aeque indulsisse Hilariumque pluribus in locis contaminasse magis quam castigasse, Benedictini queruntur. Interea conferri quoque coepit lucis aliquid intelligentiae auctoris nostri ex vitae et aetatis, quam illustrabat, sedula notatione, quod laboris genus primus tentavit, sed satis infeliciter Joh. Jac. Grinaeus, edito an. 1570 Hilario Bas. apud Eusebium Episcopium. Auspicatius cessit Jo. Gillotio Gallo Campano in ed. Parisiis apud Nivellium an. 1572, facta, cui commentatio docta atque elegans de rebus ad Hilarium spectantibus, nec non stylo et scriptis ejus praemittitur. Huc usque Hilarius varia vice editus nihil incrementi quoad numerum librorum ceperat. Nam spurium tractatum Erasmianae repetitae a Frobenio 1535, additum de essentia et unitate patris et filii Gillotius rursus etiam rescidit. Jam vero 1598, novum opus, Fragmentorum nomine, ex deperdita concilii Ariminensis historia superstes, e bibliotheca Petri Pithoei per Nic. Fabrum foras datum, et Hilarii res novo splendore, et temporum istorum in ecclesia gesta luce clariori collustravit; cui ne confuso ordine et implicato rerum nexu officeretur, editoris perspicacia et eruditione cautum est. Nunc quoque ineunte saec. XVII, an. 1605, societas typographica Parisiensis animum ad parandam Hilarii editionem appulit, et superiorum editorum bona comprehendentem, et novis accessionibus e codd. mss. locupletatam, quae per integrum pene saeculum obtinuit, aliquoties per eosdem, et Coloniae Agrippinae etiam recusa. Sed parum magnifice de eadem senserunt Benedictini, quibus jam decus summum Hilarius et honestam conditionem debet. Horum enim solerti diligentia, coryphaeo studiorum Petro Coutantio effectum est, ut editioni sub extremum saec. 1693, solito splendore Parisiis factae nihil fere in Ed. Veronensi ab eruditissimo Marchione Scipione Maffeio 1730, adornata addi potuerit, meritoque ea inter praestantissima industriae fratrum hujus congregationis monimenta numeretur.
+
+
+[0211C] {#pl.9.0211c}
+SAEC. XV. 1489.
+Mediolani, per Leon. Pachel. f. Hilarius et Augustinus de Trinitate. In fine: Impressum Mediolani per Magistrum Leonard. Pachel, anno a Nativitate Domini nostri Jesu Christi millesimo quadringentesimo octogesimo nono septimo idus julii. Ad Calc. Augustini: anno, ut supra, septimo kalendas junii. Charactere gothico, rotundo et nitido. Tituli et librorum numeri singulis paginis inscripti sunt, SAXE, Hist. Mediol. typ. p. DLXXXV. Pin. I. p. 90. Praecedit epistola 3 Ge. Cribelli ad Guid. Ant. Archimboldum, Archiep. Mediol., qua ex unico, quod nancisci potuerit, in urbe Mediolanensi horum librorum exemplari manu propria eos transcripsisse, quantum fieri potuerit, emendasse, suaque ipsius impensa imprimi curasse scribit. Accedunt autem praeter libros de Trinitate, liber adversus Constantium Aug. libri II ad Constantium. Liber contra Auxentium et ipsius Auxentii ep. purgatoria et liber de Graeciae Synodis, quem, inquit, facunda illa natio ita admirata est, ut in propriam linguam vertendum curaverit.
+
+
+[0211D] {#pl.9.0211d}
+S. l. cum Augustino de Trinitate. Venetiis per Pagaum de Paganinis: 4. S. Hilarii Libri XII de Trinitate contra Arianos.
+
+
+[0212A] {#pl.9.0212a}
+SAEC. XVI. 1510-1600. 1510.
+Parrhisiis ap. Ascensium. f. Opera complura S. Hilarii Ep. hac serie compressa. D. Trinitate contra Arrianos l. XII. Contra Constantium haereticum lib. I, Ad Constantium Imp. l. II. Contra Auxentium Arrianum l. I. Auxentii Blasphemiae plena ep. I. De Synodis contra Arrianos habitis lib. I. Ad Apram F. divi Hilarii ep. I. In psalmos David commentarii seu libri II. In evangelium Matthaei lib. I. Venundantur ubi impressa sunt in aedibus ascensianis Parrhisiis in via regia ad divum Jacobum sub tribus luciis (1510).
+Praefatus est epistola apposita nuncupatoria ad Joannem rhedonen. antistit. et confessionis reginae Francor. auditorem (d. ex gymnasio plesseiaco Parrhis. 7 id. jan. 1510) Robertus Fortunatus Macloviensis --de Hilarii vita, scriptis et exstantibus et deperditis eorumque stylo. At postquam librorum a Cribello editorum meminit, haec addit: Commentarios autem duos in psalmorum explanationem Joannes Solidus cracovius, vir litteris et moribus probatis, adhortante praesertim Jacobo Fabro stapulensi, philosopho multis nominibus laudato, acri vigilantia et non pauco labore e situ ac squalore redemit. Porro tractatus in Matthaeum et epistolam ad Apram filiam divi Hilarii, Guillelmus Parvus regiae confessionis auditor e divi Benigni divionen. coenobio ad Badii officinam, ut latinis characteribus vir tam anxie latinus imprimeretur, transmisit. Huic epistolae subnexum cernitur epigramma ascensianum ad Guil. Parvum. In fine epistolae, ad Apram, f. XCIIX, quo prima editionis pars finitur, haec leguntur verba: Explicitum est opus sancti Hilarii episcopi de Synodis: cunctis orthodoxae religionis zelatoribus, cum utile tum necessarium. In Arianos inque praevaricatores Arianis astipulantes. Impressum solerti opera in aedibus Ascensianis ad quartum idus septembres, Anno MDX. Explanatio psalmorum. Alteram quasi constituit partem, tertia inchoatur, Tabula canonum evangelii Matthaei. Illi finis hisce verbis imponitur: fol. XXXV. a. Finis tractatus Sancti HILARII episcopi in Matthaeum, de quo vetus hoc extat epigramma: HILARII hoc opus est digestum praesulis ore: Qui junxit veris edita cum typicis, Supposuit sacrae patratis verba figurae Quae leni scripsit mystica disseruit. Recentius de Divo HILARIO distichon: Gallorum columen, Gallus non Gallus, at heros Hilarius doctus, docta per ora volat. Impressum est hoc opus quanta maxima potuit diligentia pro exemplariorum penuria in aedibus atque impensis Ascensianis, anno salutis nostrae MDX, ad kalendas januarias. Eod. fol. b. brevis legitur narratio de vita et operibus B. Hilarii per spanhemensem (Trithemium Abbatem).
+
+
+[0213A] {#pl.9.0213a}
+Bas. ap. Froben. f. Hoc titulo: Jo. Frobenius Pio Lectori S. D. divi Hilarii Pictavorum episcopi lucubrationes per Erasmum Roterodamum non mediocribus sudoribus emendatos, formulis nostris, operaque nostra, quantum licuit, ornavimus. Priorem editionem non damnamus, sed quid intersit, ipse cognosces ex collatione, lector optime, simulque valebis. Catalogum reperies in proxima pagella. In officina Frobeniana apud inclytam Basileam. Anno MDXXIII, mense febr.
+Exhibentur libri eodem ordine ac in superiori editione, nisi quod Comment. in psalmos tomum secundum constituit, qui simul indicem cujusdam eruditi in omnes libros complectitur. De novo accessit hymnus ad Apram filiam, sed una cum epistola ad eamdem pro nothis declaratus. Caeterum praefixa est huic editioni famosa illa et Pontificiis invisa epistola dedicatoria Erasmi ad Jo. Carondiletum Archiep. Pavor., in qua de interpolationibus in Hilario a multis inde saeculis commissis et multorum temere ausis acerbe conqueritur, singulorum scriptorum argumenta, causas et origines tam libere quam perite exponit, denique de ipsius Hilarii ingenio ac moribus ita disputat, ut miraremur jure profecto, si inter prohibitos libros non relata esset haec Hilarii editio. Moderatae sunt Benedictinorum de praeproperis illius judiciis querelae.
+
+
+[0213B] {#pl.9.0213b}
+Bas. ap. eumd. f. Erasmiana repetita. Cavens, qui editionem primam Erasm. ignorat, laudat 1516 oculi haud dubie errore pro an. 1526. Tertia vice repetita est ibidem ex Frob. off. 1535.
+
+
+[0213C] {#pl.9.0213c}
+Basileac. f. D. Hilarii Ep. Pictavorum de patris et filii unitate et quorumdam locorum Scripturae S. interpretatione, in Antidoto contra diversas haereses p. 83-91.
+Parisiis ap. viduam Carolam Guillard. f. D. Hilarii opera ex recensione Ludovici Miraei.
+Haec Miraei editio omnium, quae ante et post prodiere, licet nostro judicio castigatior, ita tamen rara est, ut lustratis pluribus Parisianis bibliothecis, eam detegere nos posse jam desperaremus, cum in magno Carmelitarum conventu offendimus. Erasmi laborem plurimum laudavit Lud. Miraeus, ipse diligentia vicit. Nam scriptis exemplaribus accurate collatis, quidquid in eis a Frobeniana editione diversum nactus est, non minore cura notavit. Plurimos codd. mirae antiquitatis se contulisse testatur, unos nominavit Victorinos, qui certe antiquitatis titulo a multis longe superantur. Ex eadem S. Victoris bibl. emit librum de essentia Patris et Filii, duas ad Augustinum epistolas ac Metrum in Genesin. BENEDD.
+
+
+[0213D] {#pl.9.0213d}
+Bas. ap. Hier. Froben. et Nic. Episcopium. D. Hilarii P. E. lucubrationes quotquot extant, olim per Des. Erasmum Roterod. haud mediocribus sudoribus emendatae, nunc denuo vigilantissime et ad plura exemplaria per D. Martinum Lipsium collatae et recognitae. Pagina tituli aversa post Cat. in superioribus contentorum haec leguntur: » Additum erat nobis illud agentibus scriptum quoddam, hunc titulum prae se ferens, Hilarii de Patris et Filii unitate: mox comperimus id non esse novum Hilarii opus, sed rhapsodiam studiosi cujuspiam, partim quidem e secundo de Trinitate libro, sed maxima ex parte e nono consarcinatam, omissis et additis quaelibet, ut satis appareat, cum quisquis hoc ausus est, voluisse lectori facere fucum. Attexuit appendicem de variis Christi cognominibus, ex auctore nescio quo, nam phrasis plurimum dissonat ab Hilariana. Nos vel in hoc relinquendum duximus, quo perspicuum fiat, quid sit titulis credere: nec sine causa in praefatione destomachari Erasmum, in eos qui sibi nihil non permittunt in celebrium virorum monumentis. Accesserunt ergo de essentia Patris et Filii liber, epistola ad D. Aurelium Augustinum de reliquiis Pelagianae haereseos, altera ad eumdem, in qua proponit aliquot quaestiones. Ejusdem carmen in Genesim ad Leonem papam. De suis curis Lypsius praeter ea, quae titulus praefert, ne verbulum quidem. Benedictini vero judicant, non negandam esse in mendis typographicis emaculandis Lypsii vigilantiam: sed in conquirendis ac recensendis mss. curam posuisse longe minorem, quam in excogitandis conjecturis, in quibus non semper, imo raro felix fuerit. Reprehendendus quoque videri possit in eo, quod Miraeum, quem certe ignorasse verba modo allata credere prohibent, penitus neglexerit.
+
+
+[0214C] {#pl.9.0214c}
+Bas. per Euseb. Episcopium et Nicolai fratris haeredes. Eadem repetita. Accessit Jo. Jacobi Grynaei vita S. Hilarii kal. april. A. MDLXX. perscripta, quae acrem Gillotii et Benedictinorum censuram passa est.
+Parisiis ap. Sebast. Nivellium. f. D. Hilarii--opera, ad plura exemplaria collata, nunc accuratissime restituta: ex editione Joannis Gillotii Campani.
+Praemittitur commentatio, in qua primum veniunt, quae ad Hilarii historiam spectant, ex illius aliorumque veterum scriptis collecta; tum de ipsius stylo et scriptis disserit; ac postremo locos suspectos notat, et quantum potest, benigne interpretatur: opus pro illa aetate exquisitum et laude dignum, quamvis permulta in eo reperire sit, quae historiae jam limatiori atque accuratiori assuefactos nonnihil offendant. Commentationi huic Hilarii aliquot elogia, ac vitam per Hieronymum ex lib. de SS. Eccl. per Fortunatum et Gregorium Turonensem, nec non Petri Damiani de translatione S. Hilarii sermonem adjecit: libros autem de essentia ac de unitate Patris et Filii, centonibus duntaxat ex quibus constant notatis, suppressit. Ac demum in indicandis plerisque SS. locis suam probavit diligentiam: at illibatum prorsus reliquit textum, in quem etiam Nivellii incuria menda irrepserunt non pauca. BENEDD.
+
+
+[0215A] {#pl.9.0215a}
+Basileae. 8. D. Hilarii E. P. de S. Trinitate fragmentum; in legatione Imp. Manuelis Comneni ad Armenios, p. 601-605.
+Parisiis ap. Rob. Nivelle. 8. B. Hilarii Pictaviensis E. fragmenta ex opere historico, nunquam antea edita, ex bibliotheca Petri Pithoei, et ejusdem P. Pithoei vita, studio Nicolai Fabri. Cat. Bibl. Reg. p. 364 et 370.
+SAEC. XVII. 1605.
+Paris. sumptibus soc. typ. sub. insigne magnae Navis. f. D. H. P. E. Opera; ex collatione vett. codd. emendata, variis lectionibus illustrata et quorumdam tractatuum accessione locupletata studio et cura Joannis Gillotii, C.
+
+
+[0215B] {#pl.9.0215b}
+Typographi, quid in hoc negotio a se praestitum sit, explicant his verbis: « Primum, inquiunt, ab eo, qui praelegere preloque adornare libros excudendos solet, Hilarii opera curavimus cum optimis quibusque mss. conferri, quos nobis--suppeditarunt ad libros de Trinitate Nic. Faber, ad Tract. in psalmos Jacobus Bongarsius, ad comm. in Matt. recensendos Paulus Petaveus Sen. Paris. Deinde vero cum adscriptis ad oram marginis variis lectionibus suam nobis operam vir quidem doctissimus non denegasset, ut earum delectu habito, quae jam receptis praeferendae viderentur, reliquas expungeret, visum est etiam ab altero impetrandum, ut eas, quae in superioribus editionibus toleratae fuerant, sub libri calcem, colligeret: ne forte a te illae quoque desiderarentur, sive quod earum verbis alibi citata testimonia quaedam possent occurrere, sive quod utrum his novis posthabendae fuerint, judicio tuo velles expendi. Adjecimus praeterea fragm. ex op. histor. quae an. 1598, ( apud Ambros. Drouar. Nic. Fabri opera 4 v. c. P. Pithoeus publici juris fecit, et exscriptos ex iisdem mss. libris Tractatus in psalmos XIII, XIV, CXLIX et CL. » --Nec tamen multo puriora H. scripta his curis prodiisse, Benedictinorum est judicium, sive quod is, qui Vr. lectt. selegendis operam suam commodaverat, judicii fuerit non admodum exquisiti, sive perfunctorie hoc obierit; ita saepenumero mutavisse, quae retinenda fuerant, et contra quae fuissent mutanda, retinuisse eum notant. Sed et Parisienses typographi, inquiunt, qui quod artis suae non erat aliunde mendicarunt, ita neglexerunt, quod erat industriae suae, ut eorum editioni prae multitudine mendorum, facile anteferendae videantur Basileenses.
+
+
+[0215D] {#pl.9.0215d}
+Coloniae Agr. f. Recusa Parisiensis novissima.
+Francof. ap. Dan. et Dau. Aubrios et Caspar. Schleichium. 8. Hilarii Carmina, cum notis M. Joh. Weitzii.
+
+
+[0216A] {#pl.9.0216a}
+Paris. ap. eosdem typogr. f. Recusa prima, Lectionibus tamen variantibus, quae antea ad calcem rejectae erant, propriis locis aptatis et ad marginem adscriptis. Sed quod major laus est, lectiones, quae in prioribus editionibus obtinuerant, a primae vero ed. curatore loco male erant motae, non semel revocatae sunt.
+Parisiis impens. societat. typogr. librorum officii ecclesiastici jussu regis constitutae. f. repetitio praecedentis.
+Parisiis Exc. Franc. Muguet (Regis, Cleri Gallicani et illustriss. Archiep. Par. typogr.) f. S. H. P. E. opera ad manuscriptos codices gallicanos, romanos, belgicos, nec non ad veteres editiones castigata; aliquot aucta opusculis, praeviis in locos difficiles disputationibus, praefationibus, admonitionibus, notis, nova S. Confessoris vita, et copiosissimis Scripturarum, Rerum, Glossarum indicibus locupletata et illustrata, studio et labore Monachorum Ordinis S. Benedicti, e Congregatione S. Mauri.
+
+
+[0216B] {#pl.9.0216b}
+Egregia prorsus Benedictinorum opera effectum est, ut Hilarius non modo purior et emendatior prodiret tandem, sed et intelligeretur facilius et legeretur commodius. Textum enim summa consideratione adhibita ad codd. mss. in unum conspirantium fidem expresserunt, variantibus, quarum ingentem copiam ex omni Gallia, Britannia Italiaque conquisiverant, ubi minus tuta videretur castigatio, in margine appositis. Rationem vero mutatarum pristinarum lectionum notulis subjectis sat frequentibus (quibus tamen nemo lectorum, ut ipsi veriti sunt, irascetur puto) explicaverunt. Iisdem notis illustrantur et explicantur locutiones inusitatae, implexae phrases, sententiae singulares; ex aliorum eruditorum operibus, quicquid ad gestorum, quae Hilarius attingit, notitiam faciliorem conduceret, allatum; loca pugnantia aut suspecta composita et ex ipsiusmet potissimum verbis ab errore vindicata. Momenta quaedam celebriora aut difficiliora in prolegomenis curatius expedita sunt, ut ipsius scripta non prius offerrentur, quam praecipuae suspicionum nebulae prorsus fuissent dissipatae. Quod ad commodiorem operis usum attinet, praemissas habes singulis operibus admonitiones aut praefationes, in quibus quicquid ad operis occasionem, tempus, scopum, veritatem et id genus alia spectant, ipsi explicuerunt, subnexa etiam inter dum totius operis synopsi. Praeterea argumenta brevibus summariis in ora librorum indicata, tractatus ipsi in varios numeros sunt distincti. Ordo totius voluminis is est, ut praemissa epistola nuncupatoria ad Card. Caes. Estraeum in praefatione generali de edd. opp. Hilarii, operibus deperditis, causis obscurati sermonis Hilarii, denique de fine hujus editionis disserant tum difficiliores Hilarii sententias, quales sunt de conceptione Christi, etc. diffuse explicare conentur monachi eruditi. Quibus omnibus triplex vita Hilarii, 1o ex ipsius scriptis collecta, 2o ex Hieronymo et 3o Fortunato auctore, libris II, nec non Petri Damiani sermo de translatione S. Hilarii subjicitur.--Opera Hilarii hac serie sese excipiunt: Comment. in Psalmos in Matthaeum, l. XII, de Trinitate. Lib. de Synodis. Responsa apologetica ad reprehensores superioris libri (hic primum edita). Ep. ad Abram. Aymnus ad eamdem. L. I ad Constantium L. II ad Constantium. L. contra Const. L. contra Auxentium. Fragmentum libri, in quo historia Ariminensis et Seleuciae synodi continebatur. Fragmenta ex aliis operibus. Porro appendicis loco: Carmen in Genesin. L. de Patris et Filii unitate; L. de essentia Patris et Filii; Fides Alcuini sub nomine Hilarii graece versa; Nic. Fabri praefatio in Hilarii fragmenta, notulis ad oram a Benedictinis adscriptis; syllabus mss. ad quos recognita sunt H. opera; Index triplex locorum S. S. rerum, sententiarum et glossarum.
+
+
+[0217B] {#pl.9.0217b}
+SAEC. XVIII.--1730.
+Veronae. ap. Petr. Ant. Bernam et Jac. Vallarsium in-fol. 2 vol. Hilarii--opera, studio et labore monachorum ordinis S. Benedicti e congregatione S. Mauri castigata, aucta atque illustrata. Nunc vero libris de Trinitate et commentariis in psalmos ad binos capituli Veronensis codices, antiquitate ac praestantia quo suis ad hanc diem cognitos facile exsuperantes, diligenter exactis, atque octo maxime variantium tractatuum adjectione locupletatis.
+
+
+[0217C] {#pl.9.0217c}
+Curavit celeberrimus Marchio Scipio Maffeius, cujus praefatio codd. duorum Veronensium antiquissimorum et optimorum descriptionem et specimina sistit et ad calcem octo in psalmos Hilarianos tractatus exhibet, ab editis valde recedentes. Caeterum ratio hujus editionis ea est, ut integra recusa Benedictinorum opera, libri de Trinitate et commentarii in psalmos istorum codd. ope, ubi tuto fieri pateret, resarcirentur, reliqua lectionis varietate textui a Benedictinorum notis separatim supposita et numeris distincta. Contulit dictos codd. ad editionem Benedictinorum Joseph. Blanchinius, Veronensis, Eccl. tunc canonicus et bibliothecarius.
+Parisiis in-fol. D. Hilarii Ep. P. Interpretatio aliquot psalmorum (XV, XXXI, XLI) hactenus inedita, ex msto Aquicinctensi. Accedit ex eodem codice sermo in die Paschatis, in quo Ps. CXLIX explicatur, qui si Hilarii saltem antiquissimi scriptoris est; in EDM. MARTENE ET URSINI DURANDI vet. Scriptor. Collect. ampliss. t. IX, col. 55 usque ad 84.
+
+
+[0217D] {#pl.9.0217d}
+Venetiis, apud Jacob. Capellati, in-fol. tomi II. Hilarii opera secundum Veronensem editionem expressa. Commemorat hanc ed. Veronensis repetitionem Celeb. Oberthür. Sed ita negligenter tractatam ac vitiis inquinatam esse, addit, ut solum vile lucrum mercatorem spectasse appareat. Talem vero negligentiam et turpitudinem typographos Venetos etiam in aliorum PP. operibus prodidisse, opportune observat. Nos in Tertulliano eam reprehendere memini.
+
+
+[0218A] {#pl.9.0218a}
+Bononiae. 4 mai. S. Hilarii ep. Pict. epistola Paraenetica et sermo de dedicatione ecclesiae Hilario tributus, nunc primum edita a canonicis regularibus S. Salvatoris in Vett. Latinorum opusculis nunquam antehac editis Tomo II, p. 38-185. Editor est Jo. Aloysius Mingarellius, sed commentarii et dissertationes tres, in quibus Hilario illa epistola vindicatur et loca difficiliora ejus illustrantur, Jo. Chrysost. Trombelli esse, Feltrus profitetur, cui doctam dissertationem, in qua eamdem Hilario ereptum ivit, debemus, Romae 1762, evulgatam hoc titulo: De epistola seu libello sub S. Hilarii Pictaviensis nomine a canonicis R. S. S. an. 1751, edito dissertatio, in qua ostenditur epistolam illam seu libellum non Hilario Pictavorum ep. tribuendum esse, auctore Angelo Maria Feltri a S. Antonio--in novo Coll. Calasanctio. S. Theol. Prof.
+
+
+[0218B] {#pl.9.0218b}
+Venetiis, ex Typogr. Jo. Bapt. Albritii, in-fol. S. Hilarii Pict. episcopi, psalmorum XV, XXXI, et XLI, interpretatio, quae in novis editionibus desideratur. Accessit vetustissimi scriptoris anonymi sermo in die paschatis, in quo psalmus CXLIX explicatur: in Andreae Gallandii Biblioth. Vet. PP. T. V, p. 85-95. Accurate ex Marteneo descripta sunt. Praemittitur in Prolegg. cap. IX, p. XV sq. notitia de Hilario.
+
+
+[0218C] {#pl.9.0218c}
+Wirceburgi ex off. Stahel. 8. Tomi IV. S. Hilarii Pictaviensis ep. opera omnia. Recudi curavit Dr. Franciscus Oberthur (Opera omnia SS. PP. Latinorum Tomus VIII, XI.
+Placuit celeb. editori instructiorem et ornatiorem dare Hilarium, quam reliqui PP. ex hac officina comparuerant, cum propter peculiarem scriptorum ejus vim ac gravitatem, tunc in honorem amici magnifice ab ipso culti, cui haec editio sacra erat futura Perill. ac S. R. Baronis de Fechenbach. Ex omnibus igitur, quae a Benedictinis ad vitam, doctrinam et contextus librorum ejus, qualis jamiam est, rationem illustrandam conscripta erant, quaeque horum lucubrationibus a Maffeio erant superaddita, potiora per singulos hujus descriptionis tomos ita distribuit, ut primus cum parte operum, I Vitam Hilarii et II Elenchum scriptorum ejus complectatur, alter et tertius cum reliquis libris breve Hilarii dogmatices compendium f. crisin summariam in scripta Hilarii duce Constantio, quartus denique post I brevem Epicrisin in summ. Cris. (in qua Semleri argumenta adversus Hilarii orthodoxiam ad Baumgartenii Polemicam T. III prolata a se neglecta esse, qua de re Annal. Helmst. litt. editores et Roeslerus eum admonuerant, excusat), II Historiam litterariam operum Hilarii, III opera quaedam ejus dubia et supposititia, IV Varias lectiones et observationes in quaedam Hilarii loca, atque V, indicem textuum Scripturae, qui in locis non suis explicantur.
+
+
+[0219A] {#pl.9.0219a}
+Paris., sumptibus Petri Didot. f. primog. fol. S. Hilarii liber de Synodis notis et totius historiae contextu illustratus in Collectione concilior. Galliae tam editorum quam ineditorum studiis Monach. Congreg. S. Mauri tom. I, p. 145-185.
+Codices: Liber vetustus Cribelli.
+Codex Coenobii D. Benigni Divionensis, quem Guil. Parvus ad Badium detulit, Comment. in Matth. et Ep. ad fil. Apram complexum.
+Codices Lud. Miraei. Quales fuerint, haud indicavit. Unum in specie appellat ex Bibl. Coenobii S. Victoris Parisiis.
+
+
+[0219B] {#pl.9.0219b}
+Codices Nic. Fabri, Jac. Bongarsii et Pauli Petavei, qui typographis Parisiensibus in ed. 1605 praesto erant. Sed quales fuerint, et quaenam opuscula in singulis contenta, ex notitiis eorum non liquido constat.
+Benedictini codices sat multos adhibuerunt et pervetustos, quos ita indicant, uti singulis libris emendandis profuerunt. Si in universum nomina eorum vis, praesto fuerunt: Albinensis, Beccensis, Boherianus, Carnutenses duo, Cisterciensis, Colbertini quinque, Corbeiensis tum vero Sangermanensis, Eluonensis vulgo S. Amandi, tum in Bibl. Archiep. Remensis, Germanensis, Martinianus, Michaelinus, Miciacensis, Ottobonianus, Pratellensis, Regii duo, Remensis, in bibliotheca archiepiscopi, Remigiani duo, codex Coenobii B. Mariae Silvae majoris, Sorbonici duo, Tellerianus, Theodoricensis, Turonensis.
+
+
+[0219C] {#pl.9.0219c}
+Vaticani tres, in quibus unus christianae Suecorum fuit. Unus Vaticanae basilicae, cujus variantes primum ex Lat. Latinii, tum Petri Ciacconii ac demum Joh. Bapt. Bandinii recensione annotatae editoribus transmissae erant; Victorinus, Vindonicensis 5 . Ad manum erant praeterea Nic. Fabri apographum, quo ad fragmenta Hilarii edenda usus fuerat, ex bibl. Colbertina, cum Pithaeano exemplari.
+
+
+[0220A] {#pl.9.0220a}
+Restant Codices duo Capituli Veronensis a celeb. Maffeio in ed. Veronensi tractata, quorum descriptionem una cum speciminibus aere expressis in praefatione exhibuit, alter, libros de Trinitate continens, quinto aut sexto saeculo scriptus, ut contra Mabillonium monuit, qui de Re Dipl. l. V, p. 356, sub finem saeculi quarti aut ineunte quinto scriptum eum dixerat; accuratissimus et paucissimis mendis adspersus. Alter antiquitate et ipsa facie vetustatis cum quocumque alio certans, commentarios in psalmos complexus est, quorum rara admodum scripta exemplaria occurrunt. Illos in IX, XIII, et XCI, in ms. Vaticano unice adhuc repertos pariter hic probat et recenset.
+
+
+[0220B] {#pl.9.0220b}
+His adde codicem Aquicinctensem sexcentorum circiter annorum, quem Edmundus Martene in Germania peregrinatus evolvit, et deprehensis Ps. XV, XXXI et XI, antea nondum editis, in Collect. Vet. Script. I. supra l, indicavit. Pleraque Hilarii continebat sub epigraphe: S. Hilarii de Trinitate libri XII et alia opuscula ejusdem; eleganter scriptus.
+
+
+[9] {#pl.9.9}
+Beziers in Languedoc. De Vir. ill. cap. C. Ap. SAX. p. CCCCXCIV. Ita insertum a Benedict. Codices, quorum nomina litteris rotundis sunt exscripta, minoribus tantum libellis veluti epist. ad Apram, libellis II, ad Constant., libro in Const., libro adv. Auxentium usui fuerunt.

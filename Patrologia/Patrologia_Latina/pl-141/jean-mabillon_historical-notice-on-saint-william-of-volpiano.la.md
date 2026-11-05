@@ -1,0 +1,42 @@
+---
+id: pl.141.6569
+sigla: pl.141.historical-notice-on-saint-william-of-volpiano
+title: "Historical notice on Saint William of Volpiano"
+work: "Historical notice on Saint William of Volpiano"
+creator: "Jean Mabillon"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 141"
+columns: "141–0838C"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.141.colN}"
+---
+
+# Historical notice on Saint William of Volpiano
+
+**Author**: Jean Mabillon  
+**Series**: PL 141  
+**Columns**: 141–0838C  
+
+[141] {#pl.141.141}
+Notitia historica
+NOTITIA HISTORICA IN S. GUILLELMUM.(Apud Mabill. Acta SS. ord. S. Bened., Saeculi VI parte I, pag. 320.)
+1. Guillelmi ortum ad annum 1031 revocandum esse evidenter colligitur ex Rodulphi Glabri libello de Vita Guillelmi, in quo obitum ejus anno 1031, aetatis septuagesimo, contigisse disertis verbis affirmatur. Totum vero pene vitae suae tempus in monasticae vitae exercitiis transegisse ex hoc probatur, quod vix septimum aetatis suae annum egressus, in coenobio Luciacensi vestem monasticam induerit; unde strictioris disciplinae studio digressus, in monasterium Sancti Michaelis, mox Cluniacum in Galliam cum sancto Maiolo sese recepit. Est autem Luciacum, seu, ut alii dicunt, Lucedium aut Locedium, vulgo di Locedia, antiquum ordinis nostri coenobium, quod primitus Sancti Michaelis, postea Sancti Januarii appellatum est, ob eo translatas ejus reliquias, a quo etiam circumpositum oppidum Sancti Januarii nomen tulit. Situm est haud procul a Vercellensi urbe ad cujus dioecesim olim pertinebat. Hodie vero Casalensi episcopatui subjectum est in territorio Montisferrati. Ex ordine Benedictino ad Cistercienses primum transiit, ac tandem post varias fortunas ad clericos saeculares defecit, ut observat Franciscus Augustinus ab Ecclesia in sua Historia Pedemontana, cap. 33.
+
+
+[0835C] {#pl.141.0835c}
+2. Vicesimo nono aetatis suae anno, hoc est 990, indictione III, Guillelmus ordinatus est abbas Sancti Benigni a domno Brunone episcopo Lingonensi, inquit chronographus Benignianus, cujus sententiae praeter privilegium Benedicti papae, ut putant, septimi, eidem Guillelmo concessum, obstare videtur fragmentum quoddam Benigniani monasterii historiae manuscriptae, in quo ecclesia sancti Benigni a Guillelmo incoepta anno 982, et omnino restaurata anno 986, fuisse dicitur. Verum haec tanti non sunt ut a scriptoris gravis et aequalis auctoritate facile recedamus, maxime cum Glaber Rodulfus simul et Chronicum a Labbeo editum cum chronographo Benigniano consentiant; ac Benedicti papae privilegium, non Benedicto VII sed VIII assignandum esse constet, quippe quod anno Christi 1015 datum esse legitur apud Ughellum tomo II Italiae sacrae, col. 996.
+
+
+[0836C] {#pl.141.0836c}
+3. Erat praedictus Willermus, inquit Glaber in libro III Historiarum, cap. 5, acer ingenio, et insignis prudentia, idcirco summum in palatiis regum ac coeterorum principum obtinebat locum. Ejus elogium paucis verbis, sed quae multis libris praestantiora sunt, complectitur beatus Odilo ejus sub sancto Maiolo condiscipulus, in libello scilicet de ejusdem sancti Maioli actis, ubi haec habet: Et ut pace spiritualium artificum in eadem fabrica laborantium dicam, unus praecipue refulsit, qui nuper rebus humanis excessit, et qui plus nobis omnibus laboravit, domnus videlicet abbas Willelmus, de cujus clarissimis actibus et vita laudabili et mirabili conversatione parvitas nostra non sufficit quod sentit ad plenum referre. Jotsaldus in Planctu de ejusdem beati Odilonis obitu Willelmum simul et ipsum Odilonem iisdem versibus celebrat, quos infra in Odilonis Elogio proferemus. Eumdem vetus auctor Chronici Fiscamnensis liberalibus artibus apprime eruditum, atque disciplinis ecclesiasticis, cunctisque spiritualibus officiis . . . . virtutum gratia imbutum et illuminatum fuisse scribit. Hinc nullum ferme fuit in Romano imperio monasterium, quod Guillelmi curae non commissum fuerit, quorum nonnullis ipse praefuit, aut discipulos suos praefecit: caeterorum vero abbates, qui jam illis praeerant, suis exemplis ac monitis ad accuratam regularis disciplinae praxim adduxit. Beatae memoriae, inquit idem auctor, Willelmus abbas suae religionis affluentia totius partes Romani imperii illustrabat, abbatumque multorum tepidos animos sui fervoris imagine reformabat et accendebat. Eum Sigebertus, ad annum 1027, recenset inter abbates nominabiles, quorum opera religio ecclesiastica saeculo XI floruit. In Francia quidem et Burgundia . . . . per Guillelmum Divionensem severitate reverendum. Denique, ut habet Glaber loco laudato, quodcunque monasterium proprio viduabatur pastore, statim compellebatur tam a regibus vel comitibus, quam a pontificibus, ut meliorandi gratia illud ad regendum susciperet. Hinc ipsum quadraginta fere monasteriis praefectum fuisse idem auctor asserit, quorum pleraque chronographus Benignianus recenset, videlicet praeter Benignianum de quo agit, Verziacense, Besuense, Reomaense, Tornodorense, Melundense, Sancti Arnulfi Mettense, Sancti Apri Tullense, Gorziense, Fiscamnense, Gemeticense, sancti Audoeni Rotomagense, sancti Michaelis in monte Tumba, Sancti Faronis Meldense, Sancti Germani Parisiense, Fructuariense, Sancti Amatotoris prope Lingonas, Sanctae Mariae prope Saxonicum-fontem, quibus addit Glaber monasterium Sancti Saturnini ad Rhodanum fluvium, quod modo in prioratum redactum est, monasterio Ambroniacensi subjectum. De his omnibus seorsim agere non vacat, at de Fructuariensi, quod idem vir sanctus in fundo paterno condidit, ac de Fiscamnensi in quo defunctus est, nonnulla subjicimus ex eorumdem locorum monumentis. De Benigniano vero et Besuensi potissimum scripsere chronographi istorum monasteriorum, quorum excerpta inferius proferemus.
+
+
+[0837D] {#pl.141.0837d}
+4. Porro etsi nullo publico cultu, quod quidem sciamus, apud veteres sanctus Guillelmus honoratus fuerit, illum tamen in fastis sacris ad diem Januarii, qui ejus natalis est, inter sanctos inseruerunt Arnoldus Wion et Ugo Menardus in Menologio ac Martyrologio Benedictinis quos imitati recentiores omnes, sancti nomine donarunt: nec immerito, cum tanta praesto sint ad illius sanctitatem demonstrandam argumenta, vix ut ulla pro quovis hujus saeculi sancto certiora reperiantur, nempe mortis praecognitio, miraculorum patratio, ac prae caeteris integerrima vita, ac regulae monasticae observatio singularis. Hinc Glaber Vitae ejus scriptor, vir gravis et magnae auctoritatis, capite ultimo, sancti Guillelmi mortem ad sanctum deificum lumen transitum appellat, observatque, quod notatu dignissimum est, quae in vivis adhuc agens operatus erat miracula, etiam et post mortem ad ejus sepulcrum perdurasse. Audiendus est in lib. IV Historiarum, c. 4. Unum restat, inquit, quod novi ibidem (in sancti Guillelmi Vita) minime contineri. Migravit enim praedictus Pater a saeculo ad beatorum requiem in Neustriae partibus, in Fiscamnense videlicet monasterio . . . sepultusque est, uti tantum condecebat virum, in loco optimo ejusdem ecclesiae. Post aliquot fere dies contigit, ut puerulus ferme decennis valida confectus aegritudine ad sepulcrum illius gratia recuperandae salutis duceretur, ibique a parentibus dimissus, decubabat solus. Qui subito respiciens, vidit super idem sepulcrum insidentem aviculam, formam columbae praeferentem, quam diu intuens obdormivit; dehinc leni expletus somno evigilans, ita se reperit incolumem, ac si nimi aegritudinis persensisset. Suscipiunt itaque laeti parentes suum, fit omnibus commune gaudium.
+
+
+[0838C] {#pl.141.0838c}
+5. Sancti Guillelmi corpus in majori Fiscamnensi basilica tumulatum est, in conspectu euntium ac redeuntium fratrum, inquit Vitae auctor, hoc est ante sancti Taurini Ebroicensis episcopi altare, quod hodie sancti P. Benedicti appellatur. Ex hoc autem loco postmodum in sacellum beatae Mariae Magdalenae sacrum (quo tempore quave de causa ignoratur) ad latus Evangelii translatum est, ubi hodieque in sarcophago lapideo, tres pedes longo ac novem pollices lato, intra parietis cameram ad septentrionem inclusum asservatur, cum hac in plumbi lamina inscriptione, quae anno 1638 detecta est. Abbatem plenum lector cognosce dierum Nomine Willelmum, hic recubare senem. Iste loci primus pastor praefulserat hujus, Quo statuit multos dante Deo monachos. Jani prima dies animae nova claruit ejus Cui nova Jerusalem obvia tota fuit.

@@ -1,0 +1,33 @@
+---
+id: pl.136.5351
+sigla: pl.136.historical-notice-on-folquin-of-saint-bertin
+title: "Historical notice on Folquin of Saint-Bertin"
+work: "Historical notice on Folquin of Saint-Bertin"
+creator: "Robert Guérard"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 136"
+columns: "136"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.136.colN}"
+---
+
+# Historical notice on Folquin of Saint-Bertin
+
+**Author**: Robert Guérard  
+**Series**: PL 136  
+**Columns**: 136  
+
+[136] {#pl.136.136}
+Notitia historica
+NOTITIA HISTORICA.(Guérard, Cartulaire de Saint-Bertin. )
+Le cartulaire de Saint-Bertin fut commencé, vers le milieu du xe siècle, par un religieux de cette abbaye nommé Folquin, qui prend le titre de moine et de lévite. Folquin était né en Lorraine, d' une des plus nobles familles du pays. Sa mère se nommait Thiédale, et son père Folquin. Celui-ci était fils d' Odwin, dont le père, nommé aussi Odwin était frère de l' évêque de Térouanne, saint Folquin, et fils de Jérôme et d' Ermentrude. L' humble moine, qui nous fait connaître lui-même 1 cette généalogie, oublie de dire que son trisaïeul Jérôme était l' oncle de saint Adolard, abbé de Corbie, et le fils de Charles Martel 2 .
+L' an 948, le père et la mère de Folquin le conduisirent eux-mêmes à Saint-Omer, où ils le consacrèrent à Dieu, dans l' abbaye de Saint-Bertin, au commencement de novembre 3 .
+C' est à tort qu' un écrivain du XVIe siècle semble lui donner le titre d' abbé 4 , et que des savants l' ont confondu avec un moine du même nom qui fut abbé de Lobbes en 965 5 . Folquin ne paraît pas avoir jamais quitté son abbaye, où il mourut vers l' an 975. 6 Il n' était encore que diacre, levita, lorsqu' il commença son cartulaire, et rien n' indique qu' il se soit jamais élevé plus haut dans les ordres, ni qu' il ait été promu à quelque dignité dans son monastère. La souscription Folquinus levita et monachus subscripsit, mise au bas d' une charte dont il donne le sommaire, prouve seulement qu' il fut employé à la rédaction des actes de l' abbaye. Peut être même eut-il la garde des archives de Saint-Bertin; la rapidité avec laquelle il a composé le recueil qui porte son nom prouve au moins qu' il en possédait à l' avance tous les éléments. Folquin prit la plume par ordre de l' abbé Adalolphe élu le 4 avril 961, et le dernier fait qu' il rapporte dans sa chronique est la démission volontaire de ce même abbé, arrivée au plus tard au commencement de l' année suivante. C' est donc en 961 que la première partie de notre cartulaire a été rédigée.
+Elle commence par un pompeux éloge de saint Bertin. Folquin le compare au soleil qu' il nomme Titan. Le formules poétiques dont il orne son panégyrique prouvent qu' il n' était point etranger à la littérature profane. Il raconte ensuite, en peu de mots, l' arrivée de saint Bertin à Sithiu, et la construction dans ce lieu d' une église en pierre et en briques. Rien dans sa narration ne fait même allusion à une vieille légende qui embellit de circonstances miraculeuses la deuxième fondation de l' abbaye 7 . Quoiqu' il ne soit pas entièrement exempt de la pieuse crédulité qui est un des caractères de son siècle, Folquin se montre généralement plus sensé que ses continuateurs: il est sobre de récits merveilleux; il se moque de ceux qui attribuaient à la lune une influence directe sur les événements humains; il semble enfin doué d' un jugement et d' une critique peu ordinaires pour le temps où il a vécu.
+Folquin se proposait, en écrivant son ouvrage, de faire connaître par ordre chronologique les actes, gesta, des abbés de Saint-Bertin et les donations immobilières qui avaient successivement accru le domaine de l' abbaye. Quant aux chartes moins importantes, il en avait formé un recueil à part, dont les divisions correspondaient chacune à l' une des charges administratives du monastère, en sorte que chaque officier pouvait, au besoin, trouver dans un seul chapitre tous les actes qui concernaient son département.
+En offrant son travail à l' abbé Adalolphe, Folquin proteste qu' il n' a rien écrit que ce qu' il a pu apprendre de témoins dignes de foi, ou recueillir dans les anciens diplômes échappés aux ravages des temps et du feu. Ces vieux documents sont généralement datés par les années du règne des rois et du pontificat des papes. Afin de rendre les recherches plus faciles, Folquin a joint à ces dates celle des années de l' Incarnation, en ayant soin toutefois de ne les jamais intercaler dans le texte des chartes pour qu' on ne pût l' accuser de l' avoir altéré. On doit lui savoir d' autant plus gré de cette précaution, que sa concordance étant souvent fautive, ainsi que l' a remarqué Mabillon, on n' aurait pas manqué, s' il l' avait joint aux actes mêmes, de rejeter comme suspects la plupart de ceux qu' il a rapportés.
+Le recueil de Folquin est contenu dans un volume petit in-folio en parchemin, écrit, à ce qu' il nous semble, au commencement du XIIe siècle, et qui appartient aujourd' hui à la bibliothèque de Boulogne 8 . Il est divisé en deux livres, précédés d' une liste des abbés de Saint-Bertin. Le premier livre se compose de soixante et un chapitres et le second de quatre-vingt-un; à la suite sont transcrites ou analysées onze chartes constatant les donations ou acquisitions immeubles affectées à l' aumônerie du monastère, ce qui donne un total de quatre-vingt-donze chapitres pour le deuxième livre. On voit même par la table des chapitres écrite à la tête du manuscrit de Boulogne, que le deuxième livre de Folquin se composait primitivement, dans ce manuscrit, de quatre-vingt-treize chapitres; mais le dernier feuillet du volume ayant été arraché, il manque aujourd' hui le chapitre 93 tout entier et la fin du chapitre 92, lequel, ainsi qu' on s' en apercevra facilement, est incomplet dans notre édition 9 .
+Edit. Guér. pag. 141. Hist. littér. tom. VI, p. 384. Mabill. Saec. Bened. IV, part. I, p. 625, n. 6. Edit. Guér. pag. 146. Edit. Guér. pag. 372. Bibl. hist. de la Fr. t. I, n. 12361. Hist. littér. t. VI, p. 384. Voy. Mabillon, l. c. et Annal. XLVI, 50. Voy. les trois Vies annonymes de saint Bertin publiées dans le recueil des Bollandistes, au cinquième jour de septembre. Une copie de ce manuscrit, exécutée avec beaucoup de soin par M. E. Miller, employé à la bibliothèque impériale, est conservée dans cette bibliothèque parmi les cartulaires, sous le no 158. Voy. p. 168 de l' édit. Guérard. Ce chapitre 92 porte, dans la table des chapitres du manuscrit de Boulogne, le numéro 93, et le chapitre qui manque au manuscrit porte le numéro 94.

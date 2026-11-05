@@ -1,0 +1,58 @@
+---
+id: pl.103.1880
+sigla: pl.103.second-rule
+title: "Second Rule"
+work: "Second Rule"
+creator: "Uncertain author"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 103"
+columns: "103–0444B"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.103.colN}"
+---
+
+# Second Rule
+
+**Author**: Uncertain author  
+**Series**: PL 103  
+**Columns**: 103–0444B  
+
+[103] {#pl.103.103}
+Regula secunda
+INCIPIUNT PATRUM REGULAE.
+
+### PRAEFATIO.
+
+
+[0441C] {#pl.103.0441c}
+PRAEFATIO.
+Cum resideremus in unum in nomine Domini nostri Jesu Christi, secundum traditionem Patrum sanctorum virorum, visum est nobis conscribere vel Regulam ordinare, quae in monasterio teneatur ad profectum fratrum; ut neque nos laboremus; neque sanctus praepositus, qui constitutus est in loco, dubitationem aliquam pati possit: ut omnes unanimes, sicut scriptum est, et unum sentientes: invicem honorantes (Phil. II) , ea quae statuta sunt a Domino jugi observatione custodiant.
+I. Ante omnia habentes charitatem, humilitatem, patientiam, mansuetudinem, vel caetera quae docet sanctus Apostolus (Col. III) ; ita ut nemo quidquam suum vindicet, sed sicut scriptum est in Actibus apostolorum, habeant omnia communia (Act. IV) . Ille vero qui praepositus est, Dei judicium, et ordinationem sacerdotis in omnibus timere, diligere et obaudire debet secundum veritatem: quia si quis illum putat se spernere, Deum spernit: sicut scriptum est: Qui vos audit, me audit; et qui vos spernit, me spernit: Et qui me spernit, spernit eum qui me misit (Luc. X) . Ita ut sine ipsius voluntate nullus frater quidquam agat, neque accipiat ab aliquo aliquid, neque det, nec usquam prorsus recedat sine verbo.
+
+
+[0441D] {#pl.103.0441d}
+II. Observantes etiam hoc, ut non se invicem fabulis vanis destruant, sed unusquisque opus suum meditetur et custodiat, et cogitationes habeat apud Deum. In conventu omnium nullus junior quidquam nisi interrogatus loquatur. Caeterum si quis vult consolationem accipere, vel verbum audire, secretum et opportunum tempus requirat
+
+
+[0442C] {#pl.103.0442c}
+III. Advenienti peregrino nihil plus exhibeat quam pacem, reliquum non sit illi cura, unde venerit, pro quo venerit, vel quando ambulaturus sit, nec se jungat ad fabulas cum illo
+IV. Illud quoque observandum est, ut praesente seniore quocunque, vel praecedente in ordine psallendi, sequens non habeat facultatem loquendi, vel aliquid praesumendi, nisi tantum is qui in ordine, ut dictum est, praecedere videtur. Hoc usque ad imum ante omnia in oratione, seu in opere, sive in responso dando erit servandum. Si vero simplicior fuerit, vel impeditior sermone, et dederit locum, ita demum sequens loquatur. Omnia tamen in charitate fiant, non per contentionem, vel aliquam praesumptionem.
+
+
+[0442D] {#pl.103.0442d}
+V. Cursus vero orationum vel psalmorum, sicut dudum statutum est, ultra tempus istud meditandi operandique servabitur. Ita meditationem habeant fratres, ut usque ad horam secundam legant; si tamen nulla causa exstiterit, qua necesse sit etiam praetermissa meditatione aliquid fieri in commune. Post horam vero secundam unusquisque ad opus suum paratus sit: et usque ad horam nonam quidquid injunctum fuerit, sine murmuratione vel haesitatione (Phil. II) perficiat, sicut docet sanctus Apostolus. Si quis autem murmuraverit, vel contentiosus exstiterit, aut opponens in aliquo contrariam voluntatem praeceptis, digne correctus tam diu abstineat, quandiu vel culpae qualitas poposcerit, vel se poenitendo humiliaverit atque emendaverit. Correctus autem non audeat usquam recedere. Si quis vero de fratribus, vel qui in cellis consistunt, ejus errori consenserit, culpabilis erit atque excommunicatione dignissimus.
+
+
+[0443A] {#pl.103.0443a}
+VI. Ad horam vero orationis dato signo, si quis non statim praetermisso omni opere quod agit (quia nihil orationi praeponendum est) paratus fuerit, foras excludatur confundendus. Operam vero dabunt singuli fratres, ut tempore quo missae fiunt, sive die sive nocte, quando diutius ad orationem standum est, non deficiant, vel superfluo foras recedant; quia scriptum est in Evangelio: Oportet autem semper orare, et non deficere (Luc. XVIII) . Et alio loco: Non impediaris orare semper. Si quis autem non necessitate, sed magis vitio procedendum putaverit, cisat se, cum deprehensus fuerit, culpabilem judicandum; quia per suam negligentiam et alios in vitium mittit. In vigiliis observandum est, quando omnes conveniunt, quicunque gravatur somno, et exit foras, non se fabulis occupet, sed statim redeat ad opus, ad quod convenitur. In congregatione autem ipsa ubi legitur, aurem semper ad Scripturas habeant, et silentium observent omnes.
+
+
+[0444A] {#pl.103.0444a}
+VII. Hoc etiam addendum fuit, ut frater, qui pro qualibet culpa arguitur vel increpatur, patientiam habeat, et non respondeat arguenti; sed humiliet se in omnibus, secundum praeceptum Domini dicentis: Quia Deus humilibus dat gratiam, superbis autem resistit (I Petr. V) . Et, qui se humiliat, exaltabitur (Luc. XIV) . Qui vero saepius correptus non se emendaverit, novissimus in ordine stare jubeatur; sicut Dominus dixit: Sit tibi sicut ethnicus et publicanus (Matth. XVIII) . Ad mensam autem specialiter nullus loquatur, nisi qui praeest, vel qui interrogatus fuerit.
+
+
+[0444B] {#pl.103.0444b}
+Explicit Regula.

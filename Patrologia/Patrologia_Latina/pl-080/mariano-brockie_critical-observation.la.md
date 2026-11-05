@@ -1,0 +1,26 @@
+---
+id: pl.080.3364
+sigla: pl.80.critical-observation
+title: "Critical observation"
+work: "Critical observation"
+creator: "Mariano Brockie"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 80"
+columns: "80"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.80.colN}"
+---
+
+# Critical observation
+
+**Author**: Mariano Brockie  
+**Series**: PL 80  
+**Columns**: 80  
+
+[80] {#pl.80.80}
+Observatio critica
+OBSERVATIO CRITICA IN REGULAM SEQUENTEM.(Brokie, Cod. Regularum, t I)
+Inter reliquos monasticae vitae propagatores saeculo sexto florentes, celeberrimum nomen obtinuit S. Columbanus abbas, natione Scotus, in monasterio Benchorensi educatus; sed utrum ex Benchoria Hibernensi, an vero ex hodiernae Scotiae coenobiis Benchorensibus, disceptatur acriter ab utriusque gentis inquilinis. Varia enim Benchorensia coenobia reperimus, quorum primum in hodierna Wallia situm erat, a Ven. Beda in sua gentis Anglorum Historia Ecclesiastica celebratum, a quo forsan et reliqua originem suam duxerunt, quamvis hodierni Scoti pro suo Benchorensi coenobio ad ripam Deae fluminis sito, et a S. Ternano discipulo S. Palladii erecto, pro antiquitate certent: prout ex Monastico Scotico instruimur. Quod autem Benchorense Hibernicum attinet, et illud existimamus verum S. Columbani monasterium; cum ibidem eum principia vitae monasticae posuisse testatur S. Bernardus in Vita S. Malachiae, qui tamen sanctissimus abbas haud adeo rete utramque gentem distinguit, sed saepius Scotos cum Hibernis confundit. Utcunque vero haec sint, S. Columbanus cum turma monachorum Scotorum et Hibernensium secessit in Gallias, circa annum 590, aetatis vero suae 30, ubi Luxoviense exstruxit monasterium, in quod arctam monachorum Scotorum disciplinam introduxit, acerrimus paternarum traditionum vindex. Dum igitur Luxovium plurimos confluere videret ex vicinis regionibus monachos, pro iisdem hanc praesentem Regulam conscripsit, rigidamque Scotorum disciplinam quodammodo mitigavit, perpetuum tamen jejunium et silentium, omnimodamque obedientiam monachis suis mandavit, quod regimen monasterii a solo nutu abbatis dependere voluerit. Regula autem haec primitiva est et originaria, nullam cum aliis regulis connexionem habens; quamvis Regula Benedictina jam per plures annos ante adventum S. Columbani apud Gallos a S. Mauro promulgata fuerit: nullibi enim antiquarum regularum mentionem facit, sed duntaxat cap. 7 loquitur de mille monachis catholicis sub uno archimandrita, qui uniformiter, quoties de nocte conveniunt, duodecim psalmos decantant, sive noctes longae sint, sive breves. Ubi aperte loquitur de disciplina psallendi in monasteriis Columbinis usitata, a S. Columba Magno Scotorum monachorum patriarcha per hodiernam Scotiam et Hiberniam erectis, cui etiam et Regulam cujusdam Patris ascribimus. Interea haec S. Columbani Regula novem capitibus constans, cui et hic decimum adjecit Holstenius, non omnia ad perfectionem vitae monasticae praecepta necessaria tradit, sed generalia tantum statuta praescribit; ita ut viva potius voce, quam scripta Regula, monacho suos direxisse videatur. His eamtu non obstantibus, disciplina monastica a S. Columbano apud Gallos propagata miros fecit progressus, etiam post ejus Luxovio expulsionem, atque in Italiam secessum, ubi iterum Bobiense erexit coenobium, et ibidem piissime obiit, sacrum exuviarum pignus monachis suis in amoris et reverentiae tesseram relinquens. Non solum enim in Luxoviensi, Bobiensi, Anegreysiensi, Fontanens aliisque ab ipso erectis coenobiis, sed etiam in aliis per sanctissimos discipulos Gallum et Magnoalitum conditis monasteriis haec Regula monastica pluribus annis sola floruit et observabatur. Nec tam cito haec monasteria Regulam S. Benedicti solam amplecti voluerunt, sed gradatim. Vetera quippe statuta derepente apud monachos in desuetudinem non abeunt, et sic apud laudatos Benedictinos Scriptores Mabillonium et Calmetum reperimus, hanc S. Columbani Regulam, adhuc labente saeculo septimo, simul cura Regula S. Benedicti in praefatis monasteriis aliisque pluribus observatam fuisse; donec illa Benedictinae soli, tanquam perfectiori, tandem locum dare coacta est, quod ineunte saeculo octavo in omnibus monasteriis nulla alia quam Regula S. Benedicti observata fuerit. Huic etiam Regulae subjicitur S. Columbani Liber Poenitentialis, praescribens poenas regulares pro qualibet culpa levissima commissa contra Regulam et monasterii consuetudinem; quae tamen poenae, satis graves pro adeo parvis delictis, nullam connexionem cum ipsa Regula, aut cum aliis scriptis vitae monasticae normis habere videntur; adeoque poenae illae monachis inflictae ex rigida Scotorum disciplina exortae sunt: prout ex Ordine monastico apud Culrocenses monachos Scotos, sive Kiledeos, inter additamenta adducto patebit. Quod autem hic Poenitentialis Liber ex communi Scotorum Monachorum disciplina desumptus sit, cuilibet in historia monastica vel leviter versato obvium esse potest; cum hic ipsemet liber in vetustis codicibus appellari soleat: Regula coenobialis Patrum Scotorum, et aliquando: Regula Fratrum Hibernensium; utriusque enim gentis monachis commune erat, pro minutissimis culpis rigidas poenas infligere.

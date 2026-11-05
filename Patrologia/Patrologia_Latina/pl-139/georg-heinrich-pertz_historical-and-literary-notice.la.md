@@ -1,0 +1,61 @@
+---
+id: pl.139.7434
+sigla: pl.139.historical-and-literary-notice
+title: "Historical and literary notice"
+work: "Historical and literary notice"
+creator: "Georg Heinrich Pertz"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 139"
+columns: "139"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.139.colN}"
+---
+
+# Historical and literary notice
+
+**Author**: Georg Heinrich Pertz  
+**Series**: PL 139  
+**Columns**: 139  
+
+[139] {#pl.139.139}
+Notitia historica et litteraria
+DE JOANNE DIACONO ET EJUS SCRIPTIS NOTITIA HISTORICA ET LITTERARIA.(Apud PERTZ, Monum. Germ. hist. VII, 1.)
+Antiquissimum Venetorum quod exstat chronicon exeunte saeculo decimo inchoatum atque ad annum usque 1008 perductum, a nonnullis Joanni Sagornino, fabro ferrario, quod notitiam ab eo profectam ad calcem operis legimus, tribuitur; perperam tamen, cum notitia illa viginti quatuor post librum absolutum annis spatio vacuo inscripta, non Chronici auctorem, sed codicis fortasse possessorem indicet. Auctor vero, licet nomen suum latere voluerit, non alius fuisse videtur a Joanne diacono Veneto, Petri Urseoli ducis ministro, quem legationis ad Ottonem III munus non semel suscepisse, imperatoremque clam Venetias adduxisse 1 infra legimus. Cujus legationis historia ita comparata est, ut aut ipsum Joannem, aut virum ei amicissimum Chronicon conscripsisse necesse sit. Fuit igitur vir summae apud suos existimationis, duci deditus ab eoque arcanis regiminis admotus, cujus rei ipsa narratio in Historia sui temporis maximi facienda amplum testimonium praebet. Fontibus usus est narrationibus antiquis et legendis sanctorum fabulosis, libris annalibus, quos inter Bedam De sex aetatibus mundi et Pauli diaconi Historiam Langobardorum fuisse complura inde decerpta ostendunt, catalogis ducum Venetorum et patriarcharum Gradensium, chartis etiam publicis majori minorive fide dignis, quas quamplurimas apud Venetos asservatas fuisse ex maxima earum copia hodieque Vindobonae et Venetiis exstante conjicere licet. Quibus subsidiis ita usus est, ut in antiquioribus et rectam temporis computationem et justum judicium nonnunquam desideres, in recentioribus plurimum laudes. Primam operi manum admovisse videtur circa annum 980 2 , deinde codice autographo teste decursu temporis narrationem produxit 3 , et demum anno 1008 stylum deposuit. Scribendi genus ut plurimum simplex et dilucidum, lingua tamen Latina dialectum Venetam 4 prodit et compluribus contra grammatices regulas peccatis formisque verborum Italam linguam quasi praemonstrat 5 .
+
+
+[0872B] {#pl.139.0872b}
+Liber non solum Venetiis inclaruit, sed cis Alpes quoque translatus esse videtur, siquidem saeculo duodecimo Chronicon Gradense excerptum, eodem exeunte quaedam chronici Veneti ab Annalista Saxone decerpta videmus 6 ; quo tamen tempore autographus codex damnum passus, ultima folia, alteram scilicet Chronici Gradensis partem, amisit. Saeculo decimo tertio transcriptus, decimo quarto liber tam Chronici Veneti quam Gradensis integer ab Andrea Dandulo, celeberrimo Venetiarum duce, Historiae suae adhibitus est, et auctoribus librorum De Vitis patriarcharum Aquilegiensium innotuit 7 . Posteris quoque saeculis opus iterum transcriptum et doctis Venetis 8 notum, sed nonnisi anno 1765 Venetiis a Zanettio luci datum, hodie subsidio codicum optimorum iterum prodit. Quos inter primo loco nominandus eminet
+
+
+[0873A] {#pl.139.0873a}
+1) C. bibl. Urbinatis in Vaticano numero 440 signatus, membranaceus, in 4 majori, quem a Boehmero nostro evolutum precibus meis V. cl. Giesebrecht Ph. D. diligentissime exscripsit. Constat quaternionibus quinque, quorum qui hodie primum locum obtinet, sed saeculo certe decimo tertio ultimo loco positus fuit, Chronicon Gradense, reliqui Venetum exhibent. Utrumque Chronicon eadem manu scriptum est; fol. 22 inde a vocibus imperatorum Grecorum ratio coegit scriptor littera paulo minori et magis aequali pergit; folii 27 pars prior vacat, posteriori historia anni 991 littera majori et atramento magis pallido pergit. Scriptura inde a folio 32 Egressus vero inde levigrade minus ampla, folio 35 verso lineis omissis iterum grandescit, et fol. 37 medio Interea Petrus dux dum sibi pro votis primarum iterum paginarum scripturam refert. Folio 38, linea sexta, Chronicon explicit, subjecto pagina posteriori et 39 catalogo ducum Venetorum. Partes paginae vacuas posteriores saeculi XI scribae chartis duabus et catalogis regum Longobardorum et imperatorum Occidentis a Carolo Magno usque ad Berengarium I, Orientis inde a Julio Caesare usque ad Probum expleverunt. Codicem autographum esse ipsa scripturae varietas, rerum decursu temporis gestarum seriem comitata, atque saeculi X exeuntis et XI characterem prae se ferens comprobat; cujus rei et multa eadem manu eodemque tempore correcta fidem faciunt; pauca posteriore tempore addita, in numeris praecipue, facile distinguuntur. Ordinem paginarum hodie turbatum complura arguunt, tum quod longe potior libri pars, scilicet Chronicon Venetum, primum locum occupasse judicari potest, tum institutio codicum ex nostro descriptorum, in quibus Chronicon Gradense ultimum locum occupat nec minimum argumentum est, quod, si ita autographum quoque antiquitus compactum fuisse statuas, jactura priorum et ultimarum paginarum, initii chronici Veneti et alterius partis Chronici Gradensis, facilius explicatur. Nec adversatur conditio codicis, cum hodiernus quaternionum ordo ciphris prodentibus recenti tempore institutus sit, et prima ultimi quaternionis pagina, quae una numero antiquo X signatur, ita detrita sit, ut eam primam totius Chronici quondam fuisse facile conjicias.
+
+
+[0874A] {#pl.139.0874a}
+Ex Urbinate transcriptus est
+2) codex Vaticanus numero 5269 signatus, membranaceus, in-8o majori, et saeculo XIII, intra annos scilicet 1237 et 1261, exaratus. Habentur ibi fol. 1-40 Chronicon Venetum, fol. 41-48 Chronicon Gradense, fol. 49-96 Gesta pontificum Romanorum usque ad Gregorium II, quibus olim Lucas Holstenius usus est 9 , fol. 97-99 catalogus imperatorum Occidentis et Orientis 10 usque ad Balduinum I productus. Liber amissam codicis Urbinatis partem priorem servavit, qua V. cl. Giesebrecht in textu corrigendo usus est.
+
+
+[0874B] {#pl.139.0874b}
+3) C. olim Apostoli Zeni, postea bibliothecae Praedicatorum 11 , jam vero in bibliotheca Divi Marci Venetiis inter libros manuscriptos classis X, numero 141 signatus, referente Koepkio nostro membranaceus in folio, pulchra saeculi XIV exeuntis vel XV ineuntis manu exaratus est. Originem ex Vaticano ductam lectiones indicant. Usui fuit Zanettio, qui in editione sua textum male inde descriptum expressit, variasque nonnullas Urbinatis et Vaticani codicum lectiones margini ascripsit, quas ex utriusque
+
+
+[0874C] {#pl.139.0874c}
+4) apographo in usum Marci Foscareni Venetorum ducis, dum legatus Romae morabatur, confecto se sumpsisse scribit. Quod quidem apographum veram codicum lectionem minime expressit, prout ipsis iterum iterumque evolutis Giesebrechtus perspexit, quare lectionem nostram a notis Zanettii marginalibus haud raro discrepare noveris. Apographum hoc nuper in catalogo bibliothecae Foscarinae laudatum 12 , in bibliothecam Caesaream Vindobonensem transiit 13 .
+4*) Editione nostra jam absoluta, beneficio Leopoldi Ranke, clarissimi historiae in universitate regia Berolinensi professoris, uti licuit apographo apparatus critici a P. Pellegrino a. 1806 in usum editionis novae congesti. Constat textu Zanettiano, adnotatis in margine lectionibus codicum 3, 2, 1; praefatione, qua Zanettii incuriam exponit, et novae editionis subsidia, codicem scilicet Venetum fundamenti loco positum et Vaticani utriusque apographum curante Borgia sibi transmissum, recenset; adnotationibus criticis et historicis locos a Zanettio praetermissos complexis; Chronico Gradensi ex codice Veneto usque ad Primogenii patriarchae electionem producto, et indice clericorum atque laicorum qui in Chronico Veneto occurrunt.
+
+
+[0875A] {#pl.139.0875a}
+5) C. bibliothecae principis Barberini, n. 247 signatus, et saeculo XII exaratus, ita inscribitur: Cronica de singulis patriarchis nove aquileie quae gradensis ecclesia vocatur a tempore domini heliae ejusdem ecclesiae patriarchae. Exhibet in quatuor membranae plagulis Chronici Gradensis excerpta hoc initio: Temporibus tyberii constantini augusti helias patriarcha aquileiensis in gradensi castro ecclesiam sanctae eufemiae fabricari praecepit; et ultra quod in codicibus 1-4 exstat catalogum archiepiscoporum Gradensium usque ad Ursum II producit, qui a. 1012 cathedrae admotus, eam 37 annis occupavit. Eam igitur Chronici partem codicis hujus beneficio restituere licet. Nam cum chronicon Venetum usque ad a. 1008 procedat, nonnisi annos Vitalis, qui circa a 1012 obiit, et Ursi successionem a succedente quodam scriba addita conjicias. Caeterum codice nostro jam Ughellus in Gradensibus patriarchis, et apographum Philippi a Turre nactus Jo. Fr. Bernardus Maria de Rubeis in Monumentis Ecclesiae Aquileiensis usi sunt 14 ; nostrum in usum V. cl. Roestell, publicus juris in universitate regia Berolinensi professor, dum ante viginti annos Romae degebat, codicem iterum exscripsit, et varias
+
+
+[0876A] {#pl.139.0876a}
+6) codicis Vaticani n. 3922 eadem excerpta exhibentis lectiones adnotavit.
+Quibus subsidiis adjuti, editionem nostram ita instituimus, ut codice 1 fundamenti loco posito, lacunas ejus auxilio codicis 2 expleremus, et Chronici Gradensis partem alteram, qualis in codice 5 exstat, aliquot locis ope Chronici Andreae Danduli emendatam subjiceremus. Lectiones codicum minoris momenti et editionis Zanettianae raro tantum indicandas censuimus.
+
+
+[139] {#pl.139.139}
+Eum Joanni quoque, ducis filio, Constantinopolim pro Maria uxore arcessenda comitem ivisse, Lebret asserit, cujus tamen asserti rationem ignoro. Anno 979 Petrum ducem et Warinum abbatem « domnos » vocat, et catalogus ducum Venetorum, Chronico Veneto subjectus regnante tribuno Meni annum et menses quatuor, igitur a. 980, subsistit. Vide infra historiam anni 1004, quam ipso tempore, certe ante annum 1007, scriptam fuisse patet. Exempli gratia: Serzi pro Sergii; circumscepti, viscere, scita, posce, obscula pro circumsepti, visere, sita, posse, oscula. Consendentes, siphus, justa, estitit pro conscendentes, scyphus, juxta, extitit; legitur etiam dequoritas, quomoda, Venetiquorum, Teutoniquorum pro decoritas, commoda, Veneticorum, Teutonicorum; tum condam l. quondam. Littera h. passim omittitur, e. g. illaresco pro hilaresco. Habetur et mollitur, pallacium, cessar; Vergelensis, Belonensis pro molitur, palacium. cesar; Vercellensis, Bellunensis; Federicus; Arripdanus, Eripdanus l. Eridanus. Cf. e. g. formas casuum vitiosas a Ausonia pro ad Ausoniam; suo sceptrui, episcopati, praeconi loco praeconis, illo pro illum, filia pro filiam, filium, pro filius, adventum pro adventus, unus pro unum, ditatus pro ditatum, tanti pro tanto, duci pro ducis, capacitate pro capacitatem, subditos pro subditi, cunctos cleres pro cunctus clerus, perversos pro perversi, dies pro die, multitudine pro multitudo, Mediolensem rurem pro Mediolanense rus; patre pro pater; Gradensem castrum; formas verborum diferabatur l. differebat; largivit, expugnaturam l. expugnandam; vento imperatore, auderet l. auderent; constructiones verborum ut: Quem successit Petrus, ab aliquis, ab ipso infortunium, ut sequente indicativo ubi conjunctivus requirebatur, accusativos absolutos pro ablativis. Mitto turim l. turrim, voces aliena significatione usitatas, e. g. interim l. donec, reciprocare l. repetere, repetere l. redire et alia ejusmodi. Adverbia saepius in ae desinunt. V. Mon. Germ. SS. t. VI, pag. 567 (tom. CXLVII Patrolog.) . Muratori SS. XVI, pag. 8, et alterius auctore Antonio Bellono ibid. pag. 30. Exempli gratia Flaminio Cornelio, qui anno 1749 in Ecclesia Torcellana, pag. 5-11, 15 sqq., fragmenta chronici Gradensis edidit. Codex minor. Codex minor. Cornelii Eccl. Torcell. p. 5. Archivio storico Italiano V. p. 283. Alius de quo spem quamdam conceperamus codex saeculo XI adscriptus, Mediomontanus, quem nuper apud V. ill. Thomam Phillipps Equitem evolvimus, ex editione Zanettiana descriptus est, ideoque in calculum venire non potest. P. 241 sqq

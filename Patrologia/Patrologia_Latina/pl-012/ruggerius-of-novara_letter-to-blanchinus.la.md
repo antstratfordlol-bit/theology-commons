@@ -1,0 +1,60 @@
+---
+id: pl.012.7136
+sigla: pl.12.letter-to-blanchinus
+title: "Letter to Blanchinus"
+work: "Letter to Blanchinus"
+creator: "Ruggerius of Novara"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 12"
+columns: "12–0072D"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.12.colN}"
+---
+
+# Letter to Blanchinus
+
+**Author**: Ruggerius of Novara  
+**Series**: PL 12  
+**Columns**: 12–0072D  
+
+[12] {#pl.12.12}
+Epistola ad Blanchinum
+EPISTOLA RUGGERII NOVARIENSIS, CATHEDRALIS EUSEBIANAE CANONICI, AD BLANCHINUM VERONENSEM. Codicis Evangeliorum Vercellensis descriptio.
+Vetustissimum tandem codicem Evangeliarium Eusebianum jam multis ab hinc annis a plurimis sapientissimis viris, ac eruditissimis scriptoribus conquisitum, vota tua, vir clarissime, non solum ut antiquitatem spectares, verum etiam ut magis, ad confirmationem catholicae fidei, quae sacrosanctis Evangeliis tamquam firmissimis propugnaculis roboratur, veritatem erueres, consequi potuerunt.
+Prodit enim in lucem; illumque tenes diuturna temporum serie nulla oblivione deletum, sed caute, studiose, ac sedula diligentia adservatum, nunc vero, D. O. M. opitulante, et eminentissimo, ac reverendissimo D. D. Carolo Vincentio Ferrerio ord. Praed. hujusque sanctae Vercellensis Ecclesiae episcopo vigilantissimo sic disponente, ac dignitatibus, et canonicis Eusebiani capituli annuentibus, mea ope, ac labore a suo exemplari fideliter, et ad amussim transcriptum.
+
+
+[0069C] {#pl.12.0069c}
+De vero possessore hujus sacri voluminis, praeter antiquam constantissimamque venerationem, quam semper erga illud, capitulum et Ecclesia professa est, illud asservando in ipsomet sacro Reliquiarum deposito, ubi sanctorum prophetarum, apostolorum, plurimorumque martyrum ossa custodiuntur, exstant et documenta plurima certae fidei, monimentisque publicis consignata, ex quibus ediscimus, librum quatuor Evangeliorum a magno sancto patre nostro episcopo et martyre Eusebio et Graecanicis litteris ante divum Hieronymum fuisse redditum. Hac ipsa igitur facultate Graecarum litterarum lectionis atque scriptionis ea perfectione Romae potiebatur, ut Julius pontifex Marci successor, qui Eusebium sacro presbyterali charactere insignivit, existimarit illum non sibi soli vacare, sed etiam Christianae reipublicae prodesse debere; ut habetur ex antiquissimis tabulis hujus Vercellensis Ecclesiae, in quibus eumdem Eusebium, interpretem sacrorum Voluminum designatum a summo pontifice fuisse traditur. Graecas enim litteras non alio proposito sibi fine didicerat, quam ut perfectius Sacrarum Litterarum arcana dignosceret.
+
+
+[0069D] {#pl.12.0069d}
+Quo tempore, quove loco, quem ad finem hoc opus inchoaverit, composuerit atque perfecerit, non me auctore, sed praestantissimi hujus Vercellensis Ecclesiae olim episcopi Joannis Stephani Ferrerii, testimonio, ex Vita P. N. Martyris et episcopi Eusebii ab eo scripta mutuato, patefacere contendam. Legitur itaque fol. 16 illius Vitae:
+
+
+[0070A] {#pl.12.0070a}
+-- Neque vero, haec, aliaque dum ageret, sui obliviscebatur: immo constans traditio est, eum non modo ad occasionem tollendam, qua populus Ariana invidia seductus in eum peccaret, sed etiam ardenti studio vacandi sibi et Deo, secessisse in montes Oupae Buggellensis ditionis, et ultra Padum ad Castrum Credonense (tunc dioecesis Vercellensis) diversis temporibus; ut, qui tot curis juvandorum aliorum gratia distinebatur, haberet ubi subinde se colligeret, ac spiritum e coelo attraheret, majoresque ei ad Dei gloriam provehendam vires suppeterent.
+
+
+[0070B] {#pl.12.0070b}
+Legitur etiam in eadem Vita manuscripta, Eusebium, dum in his locis religiosis et sanctis moraretur, sua ipsius manu quatuor Evangelia scripsisse, quae ad haec usque tempora conservantur: quae quidem sancta Evangelia totius postea vitae tempore ipsius fuisse caros comites, in ejus Vita narratum habemus. Siquidem illorum temporum Christiani homines, et perpetuo apud se habere, ac circumgestare ea consueverant, quemadmodum a mulieribus etiam factitatum novimus: id quod de sancta Caecilia in primis satis constat, quae Christi Evangelia, uti ejus narrat Historia, semper in pectore gestabat suo. Immo idipsum nonnullis ad mortem usque familiare fuit, uti sancto Barnabae, ad cujus defuncti pectus repertum est S. Matthaei Evangelium, ipsius Barnabae manu descriptum; quo tempore in insula Cypro, Zenone imperante, corpus ejus inventum est. Quamobrem pie credendum existimo, librum hunc in promptu semper habuisse Eusebium, non secus atque Barnabam, et Caeciliam: sui illum thesauri instar duxisse; et ex hoc, omnium doctrinarum, virtutum, rerumque mirabilium, tamquam ex Oceano, tum venae, tum fontes effluxerunt, quorum sanctos latices eum Eusebius ebibisset, daemonia, daemoniorumque ministros ejecit, vitiorum, schismatum, haeresum tetra monstra ex Ecclesia ejecit, exterminavitque. Neque enim fructus expectare poterant alii, aut ab instrumenti perfectione atque prestantia, aut a summa dexteritate peritiaque artificis, qui instrumento hujusmodi usus est. Dolendum sane est, thesaurum hunc nostrum injuria temporis aliqua ex parte consumptum fuisse; tametsi ad eum illibatum conservandum, et integrum, non semel adhibita fuerit diligentia vel a magnis regibus, uti a Berengario, qui librum argenteis laminis contegendum curavit: quod satis adhuc praedicant illa carmina, quae sub sanctissimi Eusebii effigie leguntur; ea vero sunt: Praesul hic Eusebius scripsit, solvitque vetustas, Rex Berengarius sed reparavit idem: Argentum postquam fulvo deprompsit et auro, Ecclesiae, praesul, obtulit ipse tuae. Nec minus doleo, quod videam folium unum illius sacri codicis religiosis quibusdam personis reliquiae loco datum; quemadmodum in infra scripta syngrapha Augustini Ferrerii, ea tempestate Vercellensis episcopi, ac patruelis avi mei, legere est. Quem nos codicem perinde describendum curabimus, priusquam, aut illum diuturnitas temporis pejus efficiat, aut ulla illius pars alia deperdatur: ut saltem firmissimi testimonii loco exstet versionis; ipsa qua hodie utimur S. Hieronymi versione, antiquioris. Syngrapha autem illa sic se habet: « Augustinus Ferrerius, Dei, et Apostolicae Sedis gratia episcopus Vercellensis, et Comes, Universis Christi fidelibus, praesentes nostras inspecturis, salutem in Domino sempiternam. Noveritis, quod nuper ad Ecclesiam S. Eusebii Vercellensis devotionis gratia declinantes Mag. D. Jacobus Circestensis, et Petrus Ebult de Salus, dioecesis Lausanensis, ad M. principem nostrum Excellentiss. Carolum Sabaudiae ducem pro universali Helvetiorum conventu oratores, significantes nobis, et venerando Cap. nostro, Ecclesiam sub hujus sancti Eusebii invocatione in finibus loci Salus, loco dicto Nieuchen. Lausanensis dioecesis, consistere, quam homines, et incolae loci praedicti summa venerantur devotione et reverentia, ob sublime sanctissimi episcopi et Martyris Eusebii meritum. Quare, si quid de illius veste, gestis, ex reliquiis apud plebem praedictam haberetur, eadem plurimum in Domino gratularetur. Nos ideo (ut par est) cupientes, et praedictum divum Eusebium patronum nostrum devotis laudibus ubique locorum, et terrarum summa veneratione extolli, justamque eorum oratorum devotionem considerantes, nec non praelibati illius principis nostri ducis singularem erga praefatos oratores benevolentiam, qui nobis et capitulo nostro pro eis affectuose scripsit, et magnificum D. Stephanum, Motae in Sabaudia dominum, et suae excellentiae capitaneum destinavit, quoniam hujusmodi postulatio ad Beati Eusebii cedit, populique praefati devotionem, eisdem oratoribus (accedente venerandi capituli consensu) partem lapidis, quo Beatus Eusebius lapidatus exstitit, et morti traditus; foliumque unum Evangeliorum, ante centum quadraginta quatuor, super mille annos, praefati S. Eusebii manu propria conscriptum, et a Sacrario Ecclesiae praedictae cum qua decuit reverentia extractum, elargiti fuimus: ex quo Evangeliorum libro plurima miracula visa sunt, quae nulla poterunt tergiversatione celari, et quae omnia apud Ecclesiam nostram praedictam summa veneratione asservata transmittimus, parique veneratione penes eos observari affectamus. Has autem nostras per secretarium, nostrumque jussum subsignari, et sigilli nostri majoris appositione roboratas in testimonium praemissorum concessimus. Datum Vercellis ex palatio episcopali nostro, die 24 Januarii MDXV, praesentibus ibidem Andrea Ferrerio Patruo, et vicario nostro generali, et Ludovico de Gromis, Canonico Vercellensi, testibus ad praemissa vocatis, et rogatis. + loco Signi. Jo. de Ferreriis. »
+
+
+[0071D] {#pl.12.0071d}
+Per hunc denique librum praecipuam quamdam ejusdem sanctitatem aliquando significavit Deus, uti etiam ipsa syngrapha superior innuit: saepius enim evenit, ut qui, illo tacto pejerarunt, ii, aut statim exeaecati, aut alio membro capti sint. Sed de hoc sancto nobisque charissimo codice satis.
+
+
+[0072A] {#pl.12.0072a}
+Hucusque idem memoratus episcopus Jo. Stephanus Ferrerius, qui, quamvis in sua praecellenti hujus sacri codicis descriptione eum posteritati, aeternaeque memoriae dandum promiserit his verbis: Quem nos proinde describendum curabimus: morte tamen praereptus anno 1610, antequam vita S. Eusebii ab ipso collecta in lucem ederetur, alteri Ferrerio episcopo, et sacra cardinalatus purpura insignito, atque, ad spectabilem venerandumque Eusebianum codicem in praesentem memoriam revocandum incomparabili sollicitudine praedito, supremo dictante providentiae numine, hisce temporibus curam reliquit.
+Aliud quoque documentum habetur in sermone Athonis, episcopi Vercellensis anno 752, qui inter alios ad laudem sancti martyris episcopi Eusebii a Sanctis Patribus et episcopis Ambrosio, Maximo, ac Gregorio Turonensi compositos recensetur. Circa medium namque Serm. illius, ubi fit mentio de concilio coacto Mediolani anno 355 (juxta adnotationem Cardinalis Baronii) a Constantio imperatore perniciosissimo catholicae Fidei hoste, atque eversore, sic legitur: Ad quem beatus Eusebius ire distulerat, quem, quid agendum, minime latuerat. Deinde subdit: Nec se potuit continere, quin ad memoratum concilium iret pro fide contendere, sancti Evangelii cara deportans pignora. Idem testatur etiam Venerabilis Jo. Franciscus Bonomius, hujus Ecclesiae episcopus anno 1554, qui inter caetera, ad apparatum excogitatae translationis sacri corporis sancti martyris Eusebii pertinentia, elogia ex SS. Patrum, tum Graecorum, tum Latinorum scriptis excerpta, quae in basilica Eusebiana, atrio episcopali, arcubus, trophaeis, viisque publicis erant apponenda, illud quoque Athonis extabat. Habetur demum in Vita sancti Eusebii typis edita, num. XIV, fol. 138. Sacrosancta Evangelia sua ipsius manu descripta, fidissimorum comitum loco, assidue apud se habuit: quibus usus, vitiorum, schismatum, haeresumque tetra monstra undique exterminavit.
+
+
+[0072C] {#pl.12.0072c}
+Sed quid immoror in requirendis probationibus, cum tu, mi Blanchine, compertum habeas, quanta sit hujus sacri codicis dignitas, quanta ejus conditoris certitudo, quanta insuper fides ei habenda. Hoc duce novatorum errores eludere conare: ut, sicut oriente sole, quidquid de nocturna umbrarum caligine reliquum est, cito dilabitur; ita, hoc sacro volumine in lucem edito, et non solum in litteraria republica, sed etiam in toto terrarum orbe diffuso, omnium haereticorum oculi caecutientes, catholicae fidei agnitione illustrentur.
+
+
+[0072D] {#pl.12.0072d}
+Faxit Deus, ut mea etiam ad majorem orthodoxae fidei confirmationem, ad majus gloriae incrementum S. P. N. martyris episcopi Eusebii, eique famulantis capituli, ad dignam demum tui nominis commendationem compleantur vota. Accipe igitur, praeclarissime, ac semper mihi gratissime Blanchine, quidquid imbecillitas mea seligere potuit, quod omne tibi jucundissimum fore confido. Vive diu, zelando fidei veritatem; ac in arduo maximoque, quod suscepisti, opere, te Deus incolumem servet, ac demum ad felicissimum salutis aeternae locum perducat. Vale. Vercellis die XI mensis Junii, Anno Domini 1738.

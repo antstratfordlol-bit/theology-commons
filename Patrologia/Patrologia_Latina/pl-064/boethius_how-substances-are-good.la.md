@@ -1,0 +1,46 @@
+---
+id: pl.064.3291
+sigla: pl.64.how-substances-are-good
+title: "How Substances are Good"
+work: "How Substances are Good"
+creator: "Boethius"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 64"
+columns: "64"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.64.colN}"
+---
+
+# How Substances are Good
+
+**Author**: Boethius  
+**Series**: PL 64  
+**Columns**: 64  
+
+[64] {#pl.64.64}
+Quomodo substantiae bonae sint
+QUOMODO SUBSTANTIAE IN EO QUOD SINT, BONAE SINT, CUM NON SINT SUBSTANTIALIA BONA, LIBER, AD JOANNEM DIACONUM ECCLESIAE ROMANAE.
+Postulas ut, 1 ex hebdomadibus nostris, ejus quaestionis obscuritatem, quae continet modum quo substantiae in eo quod sint, bonae sint, cum non sint substantialia bona, digeram et paulo evidentius monstrem; idque eo dicis esse faciendum, quod non sit omnibus notum iter hujusmodi scriptionum. Tuus vero testis ipse sum, quam haec vivaciter fueris ante complexus. Hebdomadas vero ego mihi ipse commentor, potiusque ad memoriam meam speculata conservo, quam cuiquam participo, quorum lascivia ac petulantia nihil a joco risuque patitur esse disjunctum. Prohinc tu ne sis obscuritatibus brevitatis adversus, quae cum sint arcani fida custodia, tum id habent commodi, quod his solis, qui digni sunt, colloquuntur. Ut igitur in mathematica fieri solet, caeterisque etiam disciplinis, proposui terminos regulasque quibus cuncta quae sequuntur efficiam. Communis animi conceptio est enuntiatio, quam quisque probat auditam. Harum duplex modus est: nam ita una communis est, ut omnium hominum sit, velut si hanc proponas: Si duobus aequalibus aequalia auferas, quae relinquuntur aequalia esse; nullus id intelligens neget. Alia vero est doctorum tantum, quae tamen ex talibus communis animi conceptionibus venit, ut est: Quae incorporalia sunt, in loco non esse, et caetera, quae non vulgus, sed docti comprobant. Diversum est, esse, et id quod est: ipsum enim esse nondum est; at vero quod est, accepta essendi forma, est atque consistit. Quod est, participare aliquo potest; sed ipsum esse, nullo modo aliquo participat: fit enim participatio cum aliquid jam est; est autem aliquid, cum esse susceperit. Id quod est, habere aliquid praeterquam quod ipsum est, potest; ipsum vero esse, nihil aliud praeter se habet admixtum. Diversum est, tantum esse aliquid, et esse aliquid in eo quod est: illic enim accidens, hic substantia significatur.
+
+
+[1311C] {#pl.64.1311c}
+Omne quod est, participat eo quod est esse, ut sit; alio vero participat, ut aliquid sit: ac per hoc, id quod est, participat eo quod est esse, ut sit; est vero, ut participet alio quolibet. Omne simplex, esse suum, et id quod est unum habet. Omni composito aliud est esse, aliud ipsum est. Omnis diversitas discors, similitudo vero appetenda est; et quod appetit aliud, tale ipsum esse naturaliter ostenditur, quale est illud hoc ipsum quod appetit. Sufficiunt igitur quae praemisimus; a prudente vero rationis interprete suis unumquodque aptabitur argumentis.
+
+
+[1311D] {#pl.64.1311d}
+Quaestio vero hujusmodi est: Ea quae sunt, bona sunt; tenet enim communis sententia doctorum, omne quod est ad bonum tendere; omne autem tendit ad simile: quae igitur ad bonum tendunt, bona ipsa sunt; sed quemadmodum bona sint inquirendum est, utrumne participatione, an substantia. Si participatione, per se ipsa nullo modo bona sunt: nam quod participatione album est, per se in eo quod ipsum est, album non est, et de caeteris qualitatibus eodem modo; si igitur participatione, bona sunt, ipsa per se nullo modo bona sunt; sed concessum est. Non igitur participatione sunt bona, sed substantia: quorum vero substantia bona est, id quod sunt bona sunt, id autem quod sunt habent ex eo quod est esse. Esse igitur ipsorum bonum est: omnium igitur rerum ipsum esse, bonum est. Sed si esse bonum est, ea quae sunt, in eo quod sunt, bona sunt; idemque illis est esse, quod bonum esse: substantialia igitur bona sunt, quoniam non participant bonitatem. Quod si ipsum esse in eis bonum est, non est dubium quin substantialia, cum sint bona, primo sint bono similia, ac per hoc, ipsum bonum erunt: nihil enim illi praeter seipsum simile est; ex quo fit ut omnia quae sunt, Deus sint, quod dictu nefas est. Non sunt igitur substantialia bona, ac per hoc, non in his est esse bonum; non sunt igitur, in eo quod sunt, bona: sed nec participant bonitate, nullo enim modo ad bonum tenderent; nullo igitur modo sunt bona.
+
+
+[1312B] {#pl.64.1312b}
+Huic quaestioni talis poterit adhiberi solutio. Multa sunt quae cum separari actu non possint, animo tamen et cogitatione separantur, ut cum triangulum vel caetera a subjecta materia nullus actus separat, mente tamen segregans ipsum triangulum proprietatemque ejus praeter materiam speculatur. Amoveamus igitur primi boni praesentiam paulisper ex animo, quod esse quidem constat, idque ex omnium doctorum indoctorumque sententia, barbararum quoque gentium religionibus cognosci potest. Hoc igitur paulisper amoto, ponamus omnia esse, quae sunt, bona; atque ea consideremus quemadmodum bona esse possent, si a primo bono minime defluxissent. Hinc intueor, aliud in eis esse, quod bona sunt, aliud quod sunt: ponatur enim una eademque substantia bona esse, alba, gravis, rotunda: tunc aliud esset illa ipsa substantia, aliud ejus rotunditas, aliud color, aliud bonitas; nam si haec singula idem essent quod ipsa substantia, idem esset gravitas quod color, quod bonum, et bonum quod gravitas; quod fieri natura non sinit. Aliud igitur tunc in eis esset esse, aliud aliquid esse; ac tunc bona quidem essent, esse tamen ipsum minime haberent bonum. Igitur si ullo modo essent non a bono, ac bona essent, ac non idem essent quod bona, sed eis aliud esset esse, aliud bonis esse; quod si nihil omnino aliud essent nisi bona, neque gravia, neque colorata, neque spatii dimensione distantia, nec ulla in eis qualitas esset, nisi tantum bona essent, tunc non res, sed rerum viderentur esse principium; nec potius viderentur, sed videretur: unum enim solumque est hujusmodi, quod tantum bonum, aliudque nihil sit; quae quoniam non sunt simplicia, nec esse omnino poterant, nisi ea id quod solum bonum est, esse voluisset. Idcirco quoniam esse eorum a boni voluntate defluxit, bona esse dicuntur; primum enim bonum quoniam est, in eo quod est, bonum est; secundum vero bonum, quoniam ex eo fluxit cujus ipsum esse bonum est, ipsum quoque bonum est. Sed, ipsum esse omnium rerum ex eo fluxit quod est primum bonum, et quod bonum tale est, ut recte dicatur, in eo quod est, esse bonum. Ipsum igitur esse eorum bonum est; tunc enim, in eo quod essent, non essent bona, si a primo bono minime defluxissent.
+
+
+[1313B] {#pl.64.1313b}
+Qua in re soluta quaestio est: idcirco enim licet in eo quod sunt, bona sunt, non sunt tamen similia primo bono: quoniam non quoquo modo sint res, ipsum esse earum bonum est; sed quoniam non potest esse ipsum esse rerum, nisi a primo esse defluxerit, id est a bono: idcirco ipsum esse bonum est, neque est simile ei a quo est. Illud enim, quoquo modo sit, bonum est, in eo quod est; non enim aliud est praeterquam bonum; hoc autem, nisi ab illo esset, bonum fortasse esse posset; sed bonum, in eo quod est, esse non posset. Tunc enim participaret forsitan bono; ipsum vero esse quod non haberent a bono, bonum habere non possent. Igitur sublato ab his primo bono mente et cogitatione, ista licet essent bona, tamen, in eo quod essent, bona esse non possent; et quoniam actu non potuere existere, nisi illud ea quod vere bonum est, produxisset, idcirco et esse eorum bonum est, et non est simile substantiali bono id quod ab eo fluxit: et nisi ab eo fluxissent, licet essent bona, tamen in eo quod sunt, bona esse non possent; quoniam et praeter bonum et non ex bono essent, cum illud ipsum bonum primum et ipsum esse sit, et ipsum bonum, et ipsum esse bonum. At nonne etiam alba, in eo quod sunt, alba esse oportebit ea quae alba sunt, quoniam ex voluntate Dei fluxerunt, ut essent alba? minime. Aliud est enim esse, et aliud alba esse: hoc ideo, quoniam qui ea ut essent effecit, bonus quidem est, minime vero albus. Voluntatem igitur boni comitata sunt, ut essent bona, in eo quod sunt; voluntatem vero non albi non sunt comitata, ut talis ejus esset proprietas, ut esset album in eo quod est; neque enim ex albi voluntate defluxerunt. Itaque quia voluit esse ea alba, qui non erat albus, sunt alba tantum; quia vero voluit ea esse bona, qui erat bonus, sunt bona, in eo quod sunt. Secundum hanc igitur rationem, cuncta oportet esse justa, quoniam ipse justus est, qui ea esse voluit. Ne hoc quidem, nam bonum esse, essentiam, justum vero esse, actum respicit: idem autem est in eo esse, quod agere; idem igitur bonum esse quod justum. Nobis vero non est idem esse quod agere, non enim simplices sumus: non est igitur nobis idem bonis esse, quod justis; sed idem nobis est, esse omnibus bonis, in eo quod sumus. Bona igitur omnia sunt, non etiam justa: amplius bonum quidem generale est, justum vero speciale, nec species descendit in omnia. Idcirco alia quidem justa, alia aliud: omnia vero bona.
+
+
+[64] {#pl.64.64}
+Nimirum partiturus erat breviores has scriptiones suas per hebdomadas, sicut Titus Livius divinum opus suum per decades, Sabellicus per enneades.

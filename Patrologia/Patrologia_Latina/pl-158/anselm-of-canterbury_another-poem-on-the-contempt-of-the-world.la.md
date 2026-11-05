@@ -1,0 +1,34 @@
+---
+id: pl.158.431
+sigla: pl.158.another-poem-on-the-contempt-of-the-world
+title: "Another poem on the contempt of the world"
+work: "Another poem on the contempt of the world"
+creator: "Anselm of Canterbury"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 158"
+columns: "158"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.158.colN}"
+---
+
+# Another poem on the contempt of the world
+
+**Author**: Anselm of Canterbury  
+**Series**: PL 158  
+**Columns**: 158  
+
+[158] {#pl.158.158}
+Aliud carmen de contemptu mundi
+ALIUD CARMEN DE CONTEMPTU MUNDI.
+Quid probitas, quid nobilitas, nisi mors animarum? Unde superbit homo, cum constet quod moriatur? Nam caro mortalis, et quisquis ei famulatur. Morte perit duplici, quia post obitum cruciatur. Quid prodest homini, si vivat saecula centum, Cum moriens vitam transisse putet quasi ventum? Quid prodest homini sua fenore farta crumena, Si per eam consumat eum sine tempore poena? Ut quid homo gaudet de mundi prosperitate, Quae nimium brevis est, et habetur in anxietate? Prosperitas mundi cito transit, et annihilatur: Unde satis claret quoniam nihil esse probatur. Res hujus mundi, quotquot natura creavit, Sunt quasi flos agri, quem frigus et aura cremavit, Sicut enim flores autumni tempore nati, Frigore marcescunt in ventos ire parati: Sic cito deficiunt, quae mundus habet pretiosa, In quibus infelix hominum mens est studiosa. Res hujus mundi proprio cum fine feruntur, Et sine lege ruunt, nec cum ratione reguntur. 201 Sicut et in fluviis fluit irrevocabilis unda, Tempora sic hominis fugiunt, et quaeque secunda. Res hujus mundi sunt instabiles velut hora; Pro nihilo debent reputari cuncta decora. Ergo miser dum vivis, homo, sine fine labora; Ne perdas ea pro nihilo quae sunt meliora. Sic teneas, ut praevaleas a morte futura: Da quod habes, ut possideas quae sunt sine cura, Dic caro mortalis 1 , dic de putredine vermis, Cur miser insanis; quid prodest gloria carnis? Dic homo, dic pulvis, quare putredo superbis? Dic quid sis, quid eris; memor esto quod morieris. In cinerem vermis post 2 mortem regredieris: Despice 3 quod sequeris, cognosce viam rationis. An leges 4 nescis humanae conditionis Corpus humo fit: Corpore semen: Semine sanguis: Sanguine corpus: Sic hominis corpus matris concrescit in alvo: Sic hominis corpus terrae putrescit in alvo: Corpore tabes: Tabeque vermis: Verme cinis fit: Pulvere terra. Sic hominis corpus de terra matre creatur: Sic hominis corpus in terram regredietur. Ergo tristis homo verae rationis habena Cor animumque tuum, mundum fugiendo, refrena. Sic tibi perpetuam nancisci nitere vitam.
+
+
+[0707A] {#pl.158.0707a}
+DEUS SOLUS AMANDUS, in quo et ex quo omnia bona . Omnia sunt hominum tenui pendentia filo, Et subito casu quae valuere ruunt. Ludit in humanis divina potentia rebus, Et certam praesens vix habet hora fidem. Quam nimis, et nimis est Dominum super omnia mitem, Et veniae facilem, velle negare pium. Vis, agnosce pium? te respice, respice quid sis, Quid fueris, quid eris, quid caro, terra, Deus? Coelum sole tibi, sol lumine servit, et aer Flatibus, unda cibis terraque mille bonis. Sed quid es? Unde tibi quid habes, quid praebet? utrumque Sponte facit pietas dulcis et ampla Dei. Fons bona quaeque fluens, fons nescius evacuari, Fons sine fine patens, et sine fine Deus. Debes namque scelus metiri non brevitate Temporis, sed debes impietate sui. Major enim impietas non est, quam spernere gratis Ipsum, qui gratis contulit esse tibi. Qui tibi te tribuens sese promisit, eoque Nil habuit melius quam daret ipse Deus. Quidquid es, et quod habes, et quodque valebis habere, Quid tamen ad meritum sunt simul ista Dei? Hunc igitur spernens, seseque per omnia subdens Daemonis obsequio quanta meretur homo? Adde quod in vitium quisquis ruit: ipse ruendi Saepius indicit turpe necesse sibi. Virtus enim vitio, vitiis fit servus: et in se Non habet admissum solvere posse suum. Ergo perpes ei debetur poena necesse, Qui sibi peccandi sponte perenne facit. Gratia tollatur non debita: poena sequatur Debita, morsque premens, et sine fine manens. O quam dulce decus, quam vera potentia, qualis Gloria, quam stabilis quaestus, amare Deum! Ejus amans Abraham plus civibus hospes, et unus Plus populo miles, plus ita rege potest. Nam virtus in amore Dei, verumque perenne Praestat, et esse facit illud amare quod est. Vere est ipse quidem, qui permanet unus et idem . . . . . . . . . . . . . Esse habet aeternum, sine principio, sine fine, Semper idem, si quis amare studet. Si non tam solidum, solidum tamen esse meretur: Nam sequitur vitam vita beata bonam. Caetera si spectes, quam sint nihil, omnia finis Indicat, Assyrium consule, testis adest. Haec quid honos, quid opes, quid forma, quid arma, quid amplum Heu juvat imperium? juvit amasse Deum. Sed quia vera salus Deus est, et amore tenetur, Expeto propter eum, vos ut ametis eum. Dignus et ipse quidem est ut ametur: amando scietis Quis fructus, quis honos, quid sit amare Deum. Virtus vero Deum, vel vita meretur honesta; Quale bonum, quod sit semper amare Deum. Quam pius est, quam promptus adest, quam denique prodest, Ipsum quisquis amat, hic mage nosse potest. Si te facta docent aliena, doceris honeste Concipere meritis spemve metumve tuis. O qualis jactura Deo praeponere quidquam; Quem bene si quis habet; quaeso, quid est, quid habet? Nam si magna petis, Deus est, super omnia magnus: Si bona, quam bonus est dicere nemo potest. Si speciosa cupis, quis eo speciosior? Optas Forsan opes, dat opes, dives et ipse manet. Si te celsa juvant, generosaque, quam generosus, Quamve sit excelsus nemo referre potest. Quem si forte potens juvat et pius, ecce potestas Hinc pia, seu pietas est sine fine potens: Quid mores? ipse poli, terrae, maris auctor, et omnia Quod fuit, est, et erit, perstat origo boni. Huic famulans, parens dominatur Hebraeus; Servit, et est liber; subditur, estque potens: Cui subdi fugiens, Satanae male subditur, hosti Subditur, et vitiis subditur inumeris. Tandem vero videns quo lapsus et unde fuisset, Pectora curarum morsibus aeger erat, Multaque volventi sententia sedit asylum Lapsis quaerendum fortiter esse Deum. Sicque reus, quem laesit, avet; quem spreverat, orat; Quem fugit, reperit; quem reprobarat, amat. Hunc repetit, veniamque petit, de crimine fletum, De pietate spei gaudia multa capit. Et quid ad haec dulcedo placens, dulcedo perennis; Dulcis disponens ordine cuncta Deus. Quid dulcedo potens, dulcisque potentia fecit? Quod solet haec fecit, dulcia dulcis agit
+
+
+[158] {#pl.158.158}
+In ms. Bec. O. Carmen leoninum de eodem argumento incipit ab his verbis : Dic caro moralis, etc. huic subjunguntur ibidem hi versus : Corpus homo fit, etc. qui editi hactenus non fuerant Vermis post ms . vilis post Despice, etc. ms. hunc versum ponit ante istum : An leges, etc. An casus ms . an leges

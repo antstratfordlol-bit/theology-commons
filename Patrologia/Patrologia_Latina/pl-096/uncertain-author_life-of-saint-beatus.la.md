@@ -1,0 +1,58 @@
+---
+id: pl.096.2014
+sigla: pl.96.life-of-saint-beatus
+title: "Life of Saint Beatus"
+work: "Life of Saint Beatus"
+creator: "Uncertain author"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 96"
+columns: "96"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.96.colN}"
+---
+
+# Life of Saint Beatus
+
+**Author**: Uncertain author  
+**Series**: PL 96  
+**Columns**: 96  
+
+[96] {#pl.96.96}
+Vita S. Beati
+INCIPIT VITA.
+1. Tempore Mauregati Asturicarum regis, fuit in Toleto quidam archiepiscopus, nomine Elipandus, qui inter Agarenorum diras procellas Cixiliano successerat decessori, ex eo quod ejus fama doctrinae et sanctitudinis per totam spargebatur Hispaniam Is erat ex Muzarabibus Gothis oriundus, et nobilitate sanguinis clarus. Illum docuerat ab ejus primis litterarum rudimentis quidam Felix, 1 Gallus prosapia, episcopus Urgelitanus, post haereticus Nestorianus, qui Christum fuisse filium Patris adoptivum, qua parte homo est, contra fas, contra auspicia, contra omnes humanas et divinas litteras et religiones perdocuit. Foedam hanc doctrinam per sacrilega epistolarum monita a 2 magistro suxerat Elipandus, qui praeceptoris vestigia temeraria comprehensione consectans, adversus omnes Hispaniae episcopos et presbyteros, ejus sententiam despicientes, primo scriptis, post anathemate usus, est Hispaniam damnabili propositione foedatus.
+
+
+[0891A] {#pl.96.0891a}
+2. Cum igitur haec aggrederetur, in Livaniensibus montanis, quae inter utrasque eriguntur Asturicas, ex forti dulcedinem, ex silvis Davidem extraxit Deus, ut fortia quaeque confunderet: et velut alterum Isaiam loqui nescientem, calculo ignito labia pertingens, suscitavit in Hispania prophetam qui adversus errantes Ecclesiae proceres stylo ferreo inveheretur strenuus. Construxerat Nabuchodonosor statuam, apparentia pulcherrimam, magnitudine proceram, metallis divitem, fama celebrem et apparatu magnificam: quis illius excellentiam collimavit? minuta petra e monte decurrens. Templi vasa Balthasaris inscitia profanavit: quis ejus ambitionem et mortem detexit? duo digiti et brevis stylus. Ergo Deus qui in Elipando Goliath, in ejus errore populum, in ipsius vana gloria Nabuchum, et in illius ambitione Balthasarem conspexerat, ex abjectione plebis, et montanae speleis Davidem, et plebe ignota blaesum Isaiam, ex monte Beatum, ex silvis ejus digitum, qui hujus archiepiscopi errores contunderet, surrexit.
+
+
+[0891C] {#pl.96.0891c}
+3. Iste, qui Beatus fuit et nomine et opere, Hispanus fuit, qui ab illis oriundus asperrimis montanis, originem ab Asturicanis antiquioribus traxit. Erat ordine presbyter 3 in sacris litteris edoctus et fidei catholicae zelo conspicuus. Hic cum Elipandi erroneam professionem audivit, protinus per totam illam regionem et catholicum seminare dogma, et haereticam evellere zizaniam coepit, quibus obsistens Elipando profectibus, paulatim ejus propalari commenta cognovit. Adfuit quoque catholico operi beatus Heterius, qui post fuit episcopus Uxamensis, et 4 Beati amicitia fretus: uterque adversus Felicem et Elipandum litteris et sermonibus per populos discurrentes, catholicam veritatem virili et sancta charitate docebant. Istorum etenim efficacia plurimi qui Elipandi venenum ebiberant, vinum haereticum eructantes, ad gremium matris Ecclesiae sunt contritionis poenitentia reversi.
+
+
+[0892B] {#pl.96.0892b}
+4. Audierat Elipandus opera sanctorum Heterii et Beati, et adversus istum impense iratus, 5 epistolam Fideli abbati Asturicensi direxit, qua de sanctis presbyteris conqueritur, ex eo quod ipse astans Toletanus episcopus, ipsi, tanquam ejus dignitatem et ordinem contemnentes, nullam ab ipso de adoptionis doctrina cognitionem ediscere cogitarent. « Quis ergo, prosequitur, unquam audivit quod homo Asturicanus et montivagus Toletanos docere et corrigere praesumat? Nonne exemplum ab 6 Archarico episcopo insumere poterat, qui, audita vestri Beati antiphrasi, ad nostram occurrens sedem, quid tenendum humili percunctatione poposcit? Sed, sicut Dei gratia factum est quod per nos episcoporumque Hispaniae consessum, de Magetianis 7 Spalitanis, qui circa festi Paschatis diem aberrantes, confusam ordinis normam spargebant, obtineretur victoria, sic in Domino haeresim eatianam de Asturicarum montanis exstirpare confidimus. Non me latet Heterium prout juvenem, deceptum fuisse a Beato, homine silvestri et vaniloquo: quem, si tibi nostra placent, protinus ad te advoca, quantumque coram Deo, ejusque Ecclesia et nobis erraverit, indica: et si in obstinatae propositionis thecnis perstiterit, nostra et totius Ecclesiae correctione contunde. »
+
+
+[0893A] {#pl.96.0893a}
+5. Beato, post aliquantulum, visitationis 8 Adosindae gratia perveniente, Fidelis abbas Elipandi epistolam demonstravit eidem; qui prout catholicum virum et fidei defensorem decebat, ascito Heterio opus integrum duobus libris compactum, qui Elipandi errores solidis sacrae Scripturae locis rationibusque validis confutabat, scripsit. Cujus cum in manus Elipandi et aliorum sequacium pervenisset codex, illum infestissimis sunt dedecorum ulceribus verbo et paginis insecuti, inter quae Antiphrasii nomine macularunt. At Deus, cui omnium viscerum arcana patescunt, Beati innocentiae spiritum a solio majestatis suae contuens, et purum fidei zelum presbyteri ab alto longe cognoscens, ab omnibus illum suorum inimicorum periculis liberavit.
+
+
+[0893B] {#pl.96.0893b}
+6. Nam Elipandus Toleto profectus, Astures et Gallaecos obivit, iisque in locis multos prava opinione infecit pestifero oris afflatu. Felix Vaccaeos in Hispania, Septimanios in Gallia, aliosque in Germania inficere satagens, ab omnibus fuit constanti defensione depulsus. Sic enim apud 9 Reginum Bajoariae civitatem primo in conventu episcoporum damnatus, post coram Adriano pontifice maximo simulato animo resipiscens, demum apud Francofurtum, ubi praesente Carolo Francorum rege concilium fuerat indictum, cui Roma Theophylactus et Stephanus episcopi, ex Hispania beatus et Heterius pro catholicis missi, interfuere legati, error cum auctoribus a congregatione concilii damnatus est, quod et Adrianus pontifex fecit.
+
+
+[0894A] {#pl.96.0894a}
+7. Hoc siquidem intellecto Elipandus Toletanus a propositione resilire decernens, episcoporum congregationem apud Toletum indixit, qua poenitens confessionis libellum, ubi Filium Dei unigenitum Patrique consubstantialem, non adoptivum, sed naturalem, humili confessione professus, obtulit. A Patribus lacrymarum professione susceptus, reconciliationis beneficium accepit. Hic beatum et Heterium, deposita antiquae disceptationis malevolentia, benigne suscipiens, illos fidei defensores et catholicae veritatis patronos, non absque lacrymis et singultibus, compellabat.
+
+
+[0894B] {#pl.96.0894b}
+8. Concilio denique soluto et rebus fidei in Hispania bene compositis, sedatoque Felicianae pravitatis jurgio, sanctus vir Beatus Adosindae regis Silonis uxori, quae propter Mauregati tyrannidem sacram erat vestem induta, continuus pro animae suae remedio exstitit paedagogus: donec apud Vallemcavam secederet, orationibus, jejuniis et sacrae Scripturae studio insistens, super Apocalypsis mysteria librum miro ordine scriptitavit: demum miraculis celebris, Domino, cui servierat, spiritum placida dormitatione commendavit XI Kal. Martii, anno Domini 798. Ejus corpus ibidem sepultum jacuit per tres annos, donec ad honoratiorem locum translatum, reservato brachio pro aegrotorum ad ejus sarcophagum advenientium juvamine, theca marmorea inclusum, debito honoris munere custoditur: prout illud et sanctorum suorum ossa custodire promisit Deus, qui vivit et regnat per infinita saecula saeculorum. Amen.
+
+
+[96] {#pl.96.96}
+Id asserere non ausus est Joannes Mariana, quod falsum esse constat ex Eginhardi Annalibus ad annum 792: « Orgellis est civitas in Pyrenaei montis jugo sita, cujus episcopus, nomine Felix, natione Hispanus, ab Elipando Toleti episcopo per litteras consultus quid de humanitate Salvatoris Dei et Domini nostri Jesu Christi sentire deberet, utrum secundum id quod homo est, proprius an adoptivus Dei filius credendus esset ac dicendus, valde incaute atque inconsiderate, et contra antiquam catholicae Ecclesiae doctrinam, adoptivum non solum pronuntiavit, sed etiam scriptis ad memoratum episcopum libris, perversissimae pravitatem opinionis suae defendere curavit. » Festivi vero sunt Hispani qui, si quos habent nebulones, Francis aut Gallis ascribunt; quos autem sanctos insigniores habemus, sibi vindicant, ut multis exemplis patet in Martyrologio Hispanico. Cum Felice ad Hispanos remittendus est Claudius Taurinensis episcopus, quem genere, non Scottum, sed Hispanum fuisse demonstravi in tomo I veterum Analectorum. Falsus est Binius, qui Elipandum Felicis praeceptorem appellavit. Certe Dungalus Felicem hujus erroris magistrum vocat. Imo et monachus, ut superius probatum est in Observatione, num. 3. Fuit hic etiam Beati discipulus, ut Alcuinus tradit, cujus verba in eadem Observatione relata sunt. Ejus epistolae mentionem facit Beatus initio libri primi: « Legimus litteras prudentiae tuae, anno praesenti, et non nobis, sed Fideli abbati mense Octobri, in aera 823 clam sub sigillo directas: quas ex relatu advenisse audivimus, sed eas usque VI Kal. Decembris minime vidimus. » Itaque epistola haec anno 785 ad Fidelem scripta est. Ascaricum habet Elipandi vulgata ad Fidelem epistola, relata in lib. I Beati abbatis, in qua haec verba: « Hanc epistolam domini Ascarici episcopi ideo fraternitati tuae direxi, charissime Fidelis, ut cognoscas, quanta in Christi servis regnet humilitas, quanta in Antichristi discipulis regnet superbia, cum dominus Ascaricus mihi non docentis imperio, sed interrogantis voto ea scribere voluit, sicut illum vera humilitas docuit. Isti vero modo et contraria dicendo, modo et quasi ignorantem me, quid rectum sit noluerunt interrogare. » Ascaricus erat episcopus Bracarensis, quem cum Elipando suggillat Adrianus papa I in epistola 97 Codicis Carolini ad episcopos Hispaniae. De hac itidem victoria gloriatur idem Elipandus in epistola proxime laudata ad Fidelem: « Ut quod ego et caeteri fratres mei in Hispalitanis tanto tempore dijudicavimus, et Deo auxiliante, tam in festis Paschalium quam in caeteris erroribus, Migetianorum haeresim emendavimus; nunc illi (Beatus scilicet et Heterius) e contrario inveniunt unde nos arguant. » Et infra Migetianos istos in finibus Baeticae viguisse ait. Migentium ejus sectae auctorem, ejusque discipulum Egilam arguit Adrianus in epistola mox citata. Unde hic in textu legendum Migetianis. Adosinda erat Aldefonsi regis filia, nupta Siloni, cujus regnum Mauregatus, Aldefonsi ex concubina itidem filius, invasit anno 783. Adosindam se invisisse cum Heterio tradit Beatus ipse initio libri I contra Elipandum: « Cumque nos ad fratrem Fidelem, non litterarum illarum compulsio, sed recens religiosae dominae Adosindae perduceret devotio, audivimus illum libellum (Elipandi) adversum nos et fidem nostram in cuncta Asturia publice divulgatum. Et cum fides nostra esset indissoluta, coepit inter scopulos fluctuare navicula, et duae factae erant. Postea cum tranquillitate, ne bipertita, sed tantum videretur una; tunc colloquentes ad invicem (Beatus scilicet et Heterius) diximus, etc. » Hinc arrepta occasio mutuo consensu scribendi unum idemque opus in Elipandum. De Adosinda item infra, num. 8. « Ductus, inquit Eginhardus, ad palatium regis, qui tunc apud Reginum Bajoariae civitatem (alii Ratisponam vocant) residebat, ubi congregato episcoporum concilio auditus est, et errasse convictus, ad praesentiam Adriani pontificis Romam missus, etc. »

@@ -1,0 +1,41 @@
+---
+id: pl.053.5018
+sigla: pl.53.prolegomenon
+title: "Prolegomenon"
+work: "Prolegomenon"
+creator: "Andrea Gallandi"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 53"
+columns: "53"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.53.colN}"
+---
+
+# Prolegomenon
+
+**Author**: Andrea Gallandi  
+**Series**: PL 53  
+**Columns**: 53  
+
+[53] {#pl.53.53}
+Prolegomenon
+PROLEGOMENON.
+
+
+[0841A] {#pl.53.0841a}
+I. Capreolus, gloriosus pontifex et memorabilis doctor Carthaginiensis Ecclesiae, ut eum vocat Ferrandus ejusdem Ecclesiae diaconus, 1 in ea sede successit beato Aurelio qui ad Deum migrasse dignoscitur sive anno 429, sive ut maxime 430, quemadmodum ex Norisio 2 quem sequuntur Pagius 3 ac Tillemontius 4 , erudimur. Tres ab eo epistolae scriptae narrantur apud veteres, quarum primae scribendae hujusmodi fuisse perhibetur occasio. Theodosius Junior sacram miserat ad Cyrillum Alexandrinum atque ad episcopos metropolitanos provinciarum pro celebrando concilio Ephesino. Quae quidem Theodosii litterae datae feruntur 5 XIII cal. Decembris, Theodosio XIII et Valentiniano III coss., id est anno Christi 430. Eodem tempore scripsit imperator sacram, inquit Liberatus 6 , et beato Augustino Hipponiregiensi episcopo per Ebagnium magistrianum, ut ipse concilio praestaret sui praesentiam. Qui Ebagnius veniens Carthaginem magnam, audivit a Capreolo ipsius urbis antistite, beatum Augustinum ex hoc mundo migrasse ad Dominum; acceptisque ab eo ad imperatorem litteris loquentibus de obitu beati Augustini, Constantinopolim unde venerat, rediit. Haec Liberatus. At vero Ebagnius e regia urbe discedens desinente anno 430 Carthaginem pervenit anno insequente 431 in diebus Paschae, teste ipso Capreolo in litteris ad synodum Ephesinam 7 , octavo fere mense postquam sanctus Augustinus e vivis excesserat. Caeterum haud superest epistola, qua sacrae divali Theodosianae respondit Capreolus; si unum excipias fragmentum, quod ex Ferrando huc referre operae pretium fuerit. Est autem hujusmodi 8 : Nihil in divinis humanisque actibus, nihil tam in sacris quam in publicis rebus obtinere ullam poterit firmitatem, si ea quae debito sententiae judicialis fine clauduntur, post annorum spatia et quaelibet volumina saeculorum, tanquam in emendatione Patrum velut instructior praesumat emendare posteritas. In eamdem sententiam loquitur Capreolus in altera epistola, de qua statim dicendum.
+
+
+[0842A] {#pl.53.0842a}
+II. Litteris itaque imperatoris, licet ad Augustinum praecipue destinatis 9 , permotus noster Carthaginiensis antistes, propter impetus Vandalorum Africanas regiones obsidentium, universale non valens congregare concilium, Bessulam diaconum suum misit Ephesum ad concilium legatum. Verba sunt Liberati 10 . Hujusce legationis ad concilium Ephesinum meminit ipse Capreolus in epistola Vitali et Constantio inscripta 11 , de qua mox verba facturi sumus. Quas vero pro Africanorum legatione litteras tradidit diacono suo ad idem concilium perferendas, exstant hae in actis Ephesinis, unde illas deprompsimus 12 : in quibus et miserrimum statum Ecclesiae Africanae ob Vandalorum incursionem lamentabili narratione describit. Ex iis autem litteris quas Ephesum Capreolus direxit, excerptum profert Ferrandus 13 , verbis tamen nonnihil immutatis. Locum in notulis subjectis habes infra indicatum 14 . Illud porro haud est hic praetereundum, quod de iisdem litteris observat Vincentius Lirinensis his verbis 15 : Cum lecta esset, inquit, sancti Capreoli episcopi Carthaginiensis epistola, qui nihil aliud intendebat et precabatur nisi ut, expugnata novitate, antiquitas defenderetur; ita episcopus Cyrillus prolocutus est et definivit: quod hic quoque interponere non abs re videtur. Ait enim in fine gestorum: « Et haec, inquit, quae lecta est epistola venerandi et multum religiosi episcopi Carthaginiensis Capreoli fidei gestorum 16 inseretur cujus aperta sententia est. Vult enim antiquae fidei dogmata confirmari, novitia vero et superflue adinventa et impie promulgata reprobari atque damnari. Omnes episcopi acclamaverunt: Hae omnium voces sunt, haec omnes dicimus, hoc omnium votum est » Huc usque Vincentius. Quae quidem verba ex actis Ephesinis epistolae Capreoli subdidimus. Cum autem ipsa epistola Latine scripta et postea Graece reddita, utraque lingua in eodem concilio recitata fuerit, ut ejus acta perhibent 17 ; utrumque propterea contextum exhibuimus.
+
+
+[0843B] {#pl.53.0843b}
+III. Vix dum celebratum erat concilium Ephesinum, ut videtur, cum Vitalis et Constantius seu potius Tonantius, Hispani, missa per Numinianum ad Capreolum epistola de una Christi Dei et hominis persona adversus Nestorium, ab co enixe petierunt, ut hac de re 18 quod rectum habet fides catholica, edocerentur. Eorum petitioni statim annuit praesul Carthaginiensis, atque ad eos prolixum et doctissimum rescriptum direxit, quo se re vera sublimem theologum prodidit, ut eum appellat magnus annalium ecclesiasticorum parens 19 . Ejus enim vero sapientiae celebritas adeo longe lateque sese diffuderat, ut ab ultima Hispania viri modo laudati ad ipsum scripserint in haec verba 20 : Illud sane multum desiderii nostri fuit, scribere sanctae honorificentiae tuae per dulcissimum fratrem nostrum Numinianum. Reperit enim parvitas nostra praecellentem famam et doctrinam tuae sanctitatis. . . . . . ut propterea de bono thesauro cordis tui nostris visceribus irrigari jubeas, quae fides catholica recta tenet. Ejusmodi vero Capreoli rescriptum ex Pithoei schedis mutilum edidit Baronius 21 ; sed integrum ex codice Herivallensi vulgavit Sirmondus una cum epistola Hispanorum, cujus occasione datum illud fuit, inter opuscula dogmatica quae Parisiis in lucem emisit anno 1630. Non longe autem post damnatum Nestorium in synodo Ephesina, ut modo innuimus, hanc epistolam scripsisse Capreolum, ex his ipsius verbis intelligimus 22 : Jam enim, inquit, quod etiam ad vestram notitiam pervenisse non dubito, intra Orientis partes ubi primum pestis ista surrexit, congregata gloriosa synodo sacerdotum, cui etiam legatio nostra non defuit, in vestibulo cum suo auctore atque assertore compressa et radio apostolicae lucis exstincta est. Porro quo tempore e vivis excesserit noster pontifex Carthaginiensis haud plane liquet. Fortasse paulo ante annum 439 quo Carthaginem Vandali occuparunt. Ei successit in episcopatu Quodvultdeus, non autem Deogratias, ut aliud agens scripsit Pagius 23 : quem scilicet sedem Carthaginiensem obtinuisse post Quodvultdeum, cum ex Victore Tunnonensi 24 , tum vero ex Victore Vitensi 25 constat. Verum ad Victoris Tunnonensis locum quod attinet, consulas velim Ruinartium 26 . Capreoli nomen cum sancti titulo memoria . . . . . . cal. Augusti recolitur in veteri Carthaginiensis Ecclesiae calendario 27 : quod quidem observandum, ait laudatus Ruinartius 28 ; cum non omnes alii antistites Carthaginienses in isto calendario designati hac sanctitatis nota honorentur.
+
+
+[53] {#pl.53.53}
+Ferrand. epist. ad Pelag. et Anatol., § 6 Bibl. PP. Lugd. tom. IX, pag. 516 d e. Noris. Hist. Pelag. lib. II, cap. 8 opp. tom. I, pag. 355 c d. Pagi ad ann. 430, § 26. Tillem. tom. XVI, pag. 495. Conc. Ephes. part. 1, cap. 31, pag. 985, tom. III Concil. edit. Ven. Labb. Liberat. Breviar. cap. 5, pag. 17 edit. Garner. Capreol. epist. ad conc. Ephes., infra, p. 490, c ( Nobis col. 845, b ). Ferrand. loco citato pag. 516 d. Capreol. epist. ad conc. Ephes. l. c. Liberat. loco citato, pag. 18. Capreol. epist. ad Vital. et Constant., § 1. Conc. Ephes. act. 1, pag. 1073, tom. III cit. Ferrand. loco citato. Infra, p. 491 ( Col. 845 lin. ult. ). Vincent. Lirin. common. 2 § 31, pag. 367 edit. 3 Baluz. Paris. 1684. Leg. inseratur, Gr. ἐμφερέσθω. Ex tom. III Concil., pag. 1957; infra, p. 491 ( Col 848, b ). Conc. Ephes. l. c., pag. 1073 c. Infra, p. 492 ( Col. 849, c. Baron. ad ann. 431, § 27. Infra, p. 492 ( Col. 847, d ). Baron. ad ann. 431, § 28-35. Capreol. epist ad Vital. et Constant. § 1. Pagi. ad ann. 431, § 13. Vict. Tun. Chron. pag. 2, apud Scalig. in Thes. temp. edit. Amst. 1658. Vict. Vit. Hist. pers. Vandal. lib. I, cap. 5, 8, et lib. II, cap. 3. Ruinart. ad Vict. Vit. Hist. persec. Vand. part. 2, cap. 8, pag. 495 edit. Paris. 1694. Mabillon. Analect. pag. 164, not. d edit. Paris. 1723. Ruinart. l. c. cap. 3, pag. 429.

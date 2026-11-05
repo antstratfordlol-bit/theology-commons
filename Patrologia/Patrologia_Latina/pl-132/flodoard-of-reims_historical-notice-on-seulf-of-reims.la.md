@@ -1,0 +1,30 @@
+---
+id: pl.132.4860
+sigla: pl.132.historical-notice-on-seulf-of-reims
+title: "Historical notice on Seulf of Reims"
+work: "Historical notice on Seulf of Reims"
+creator: "Flodoard of Reims"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 132"
+columns: "132–1064A"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.132.colN}"
+---
+
+# Historical notice on Seulf of Reims
+
+**Author**: Flodoard of Reims  
+**Series**: PL 132  
+**Columns**: 132–1064A  
+
+[132] {#pl.132.132}
+Notitia historica
+NOTITIA HISTORICA. (Apud Flodoardum, Historia Ecclesiae Rhemensis, lib. IV, cap. 18.)
+Herivaeo successit Seulfus, qui tunc Rhemensis urbis ministerio fungebatur archidiaconatus: vir tam ecclesiasticis quam saecularibus disciplinis sufficienter instructus, quique apud Remigium Antissiodorensem magistrum in liberalibus studium dederat artibus. Quo per consensum et jussionem Roberti regis ab Abbone Suessonico caeterisque Rhemensis provinciae praesulibus ordinato episcopo, delati sunt Odo frater quondam Herivaei archiepiscopi, et Heriveus nepos ipsius apud eumdem praesulem, quod fidelitatem quam ei promiserant minime servarent. Qua de re quia noluerunt ad reddendam venire rationem coram eodem pontifice, vel singulari certamine cum accusatoribus decernere, sublatis sibi Ecclesiae possessionibus, quas plures ex hoc retinebant episcopio, per Heribertum comitem deducti sunt ad Robertum regem, et sub custodia usque ad mortem regis Roberti, Odo quidem penes eumdem Heribertum, Herivaeus vero Parisiis detenti sunt. Fertur autem tunc ab hoc archiepiscopo, et a consiliariis suis, Heriberto comiti depactum, de electione filii sui in hac sede pro praedictorum virorum expulsione. Hic denique praesul legatos hujus Ecclesiae Romam dirigens pro consensu papae Joannis in ordinatione sua, pallium ab eodem sibi missum cum litteris privilegii hujus sedis suscepit.
+
+
+[1064A] {#pl.132.1064a}
+Hic etiam synodum habuit in villa Trosleio cum episcopis Rhemensis dioeceseos, ubi adfuere nonnulli quoque comites: in qua et Isaac comes ad satisfactionem venit pro his quae prave perpetraverat adversus Ecclesiam Cameracensem, quoddam castellum Stephani praesulis ejusdem urbis dolosa comprehensum pervasione succendens. Pro quo facinore vadatus in hac synodo, centum libras argenti pacatur cum praefato episcopo, satagente Heriberto et aliis qui aderant Franciae comitibus. Hic praesul monasterium sancti Remigii cum adjacentibus ecclesiis vel domibus muro cingens, castellum ibidem instituit, domum episcopalem cameris reparans, picturis excoluit. Fecit et calicem aureum majorem cum gemmis in honore Dei genitricis pondo decem librarum. Sed et alia quaedam ecclesiae praeparavit ornamenta. Ciborium quoque super altare sanctae Mariae argento aggressus est operire: quod opus, morte praeventus, explere nequivit. Fertur autem veneno potatus a domesticis vel familiaribus Heriberti comitis vitam finivisse.

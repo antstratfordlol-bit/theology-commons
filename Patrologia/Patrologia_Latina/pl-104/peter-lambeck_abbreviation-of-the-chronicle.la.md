@@ -1,0 +1,54 @@
+---
+id: pl.104.6291
+sigla: pl.104.abbreviation-of-the-chronicle
+title: "Abbreviation of the Chronicle"
+work: "Abbreviation of the Chronicle"
+creator: "Peter Lambeck"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 104"
+columns: "104"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.104.colN}"
+---
+
+# Abbreviation of the Chronicle
+
+**Author**: Peter Lambeck  
+**Series**: PL 104  
+**Columns**: 104  
+
+[104] {#pl.104.104}
+Abbreviatio Chronicae
+APPENDIX AD EGINHARDI OPERA. ABBREVIATIO CHRONICAE. (Lambecius, Comment. de Biblioth. Vindobonensi.)
+
+
+[0607B] {#pl.104.0607b}
+Adam cum esset 130 annorum, genuit Seth; Seth autem habens annos 105, genuit Enos, vivente Adam et habente annos 235: Enos quippe habens 90 genuit Caïnam, vivente Adam et habente annos 325. Caïnam vero habens annos 70 genuit Malalehel, vivente Adam et habente annos 395. Malalehel habens annos 65 genuit Jareth, vivente Adam et habente annos 460. Jareth autem habens annos 162 genuit Henoch, vivente Adam et habente annos 622. Enoch vero habens annos 65 genuit Mathusalam, vivente Adam et habente annos 687. Et Mathusalam habens annos 187 genuit Lamech, vivente Adam et habente annos 874. Lamech enim habens annos 172 genuit Noë. Noë habens annos 500 genuit Sem. autem habente annos 100, diluvium factum est; et hic perficitur numerus annorum 1656.
+Anno 2 post diluvium Sem annorum 102 genuit Arfaxath. Arfaxath vero habens annos 35 genuit Sale. Sale autem habens annos 30 genuit Heber. Heber habens annos 24 genuit Falech. Falech habens annos 30 genuit Reu. Reu habens annos 32 genuit Seruch. Seruch habens annos 30 genuit Nahor. Nahor habens annos 29 genuit Thara. Thara habens annos 70 genuit Abraham. Hic finitur numerus secundae aetatis, annos habens 292, et fiunt simul anni duarum aetatum 1948.
+
+
+[0607C] {#pl.104.0607c}
+Abraham cum 100 esset annorum genuit Isaac; Isaac autem habens annos 60 genuit Jacob; Jacob habens annos 90 genuit Joseph, qui vixit annos 110, fueruntque ab eo usque ad egressionem filiorum Israel ex Aegypto per Moysen ducem anni 145, et ab egressione Israel usque ad Josue anni 40; a Josue usque ad Othonielem sunt anni 26, et ab Othoniele usque ad Aoth [ Al., Ehud] anni 40; ab Aoth vero usque ad Debora fiunt anni 80; a Debora autem usque ad Gedeonem fiunt anni 40; et a Gedeone usque ad Abimelech fiunt anni 40; ab Abimelech enim usque ad Thola fiunt anni 3; a Thola quippe ad Jaïr anni sunt 23; a Jaïr vero usque Jephte sunt anni 22, et de Jephte usque ad Abessan fiunt anni 6; de Abessa autem usque ad Achialionem sunt anni 7; ab Achialone vero usque ad Labdonem fiunt anni 10; a Labdone usque ad Samsonem sunt 8, et a Samsone usque ad Heli anni 20; ab Heli enim usque ad Samuelem sunt anni 40, et a Samuele usque ad Saulem sunt anni 12; a Saule ergo usque ad David sunt anni 20. Hic perficitur numerus tertiae aetatis annorum 942, et fiunt anni simul trium aetatum 2890.
+
+
+[0607D] {#pl.104.0607d}
+A David usque ad Salomonem sunt anni 40; a Salomone autem usque ad Roboam computantur anni 40, et a Roboam usque ad Abiam sunt anni 17 ab Abia usque ad Asa fiunt anni 3, et ab Asa usque ad Josaphat anni 41; a Josaphat autem usque ad Joram sunt anni 25; de Joram usque ad Azariam fiunt anni 8, et ab Azaria usque ad Athaliam fit annus 1. Ab Athalia enim usque ad Joam sunt anni 6; a Joa vero usque ad Amasiam sunt anni 40, et ab Amasia usque ad Oziam sunt 29. Ab Ozia enim usque ad Joatham fiunt anni 52; de Joatham autem usque ad Achaz sunt anni 16, et ab Achaz usque ad Ezechiam sunt anni 16, et ab Ezechia usque ad Manassen sunt anni 29; a Manasse vero usque ad Amon sunt anni 55; ab Amon usque ad Josiam fiunt anni 2, et de Josia usque ad Joachim sunt anni 31; a Joachim usque ad Sedechiam sunt anni 11; de Sedechia ad Nabuchodonosor anni 11. Hic finitur numerus quartae aetatis, continens annos 473, anni quatuor aetatum fiunt simul 3363.
+
+
+[0608B] {#pl.104.0608b}
+Sunt anni quintae aetatis usque ad Cyrum 30; a Cyro usque ad Cambysem sunt anni 30; a Cambyse usque ad Darium anni 9; a Dario usque ad Xerxen sunt anni 36; a Xerxe usque ad Artaxerxen sunt anni 21, et ab Artaxerxe usque ad Darium sunt anni 40; a Dario usque ad item Artaxerxen anni 19; ab Artaxerxe autem usque item Artaxerxem fiunt anni 40; et ab Artaxerxe usque Arsen anni 26; ab Arse vero usque ad Darium fiunt anni 4; a Dario autem usque ad Alexandrum sunt anni 6; ab Alexandro enim usque ad Ptolomaeum fiunt anni 5, et de Ptolomaeo usque ad Philadelphum fiunt anni 40; a Philadelpho usque ad Evergetem anni 38 [ Bed. male, 33]; a Philopatore autem usque ad Epiphanem sunt anni 17, et de Epiphane usque ad Philometorem anni 24; a Philometore quidem usque item Evergetem anni 35, et ab Evergete usque ad Soterem sunt anni 29; a Sotere usque ad Alexandrum, anni 17; ab Alexandro vero usque ad Ptolomaeum fiunt anni 10; a Ptolomaeo usque ad Dionysium anni 8; a Dionysio vero usque ad Cleopatram fiunt anni 30, et a Cleopatra usque ad Julium Caesarem anni 2; a Julio usque ad Octavianum Augustum sunt anni 5; et ab Octaviano Augusto usque ad Christum fiunt anni 42. Hic finitur quinta aetas, annos habens 589, et fiunt simul anni quinque aetatum 3952.
+
+
+[0608D] {#pl.104.0608d}
+A nativitate Domini nostri Jesu Christi usque ad Tiberium numerantur anni 14; a Tiberio vero usque ad passionem Christi sunt anni 18, et a Christi passione usque ad Gajum sunt anni 5; a Gajo usque ad Claudium anni 4, et a Claudio usque ad Neronem fiunt anni 14 [ Bed., 13]; a Nerone vero usque ad Vespasianum sunt anni 14, et de Vespasiano usque ad Titum anni 8 [ Bed., 10], a Tito vero usque ad Domitianum anni 2, et a Domitiano usque ad Nervam anni 16; a Nerva usque ad Trajanum fit annus 1; a Trajano quidem usque ad Adrianum anni 14 [ Bed. rectius, 19]; ab Adriano usque ad Antoninum fiunt anni 21, et ab Antonino usque ad item Antoninum anni 23 [ Bed., 22]; ab Antonino autem usque ad Commodum fiunt anni 19; a Commodo enim usque ad Helvium Pertinacem anni 13 [ Bed. minus recte, 3]; et de Helvio usque ad Severum fit annus 1; a Severo usque ad Antoninum Caracallam sunt anni 18; ab Antonino Caracalla usque ad Macrinum anni 7; a Macrino vero usque ad Aurelium fit annus 1, et de Aurelio usque ad Alexandrum anni 4; ab Alexandro usque ad Maximinum fiunt anni 13; a Maximino quoque usque ad Gordianum anni 3; a Gordiano usque ad Philippum anni 6 [ Bed. 7], et a Philippo usque ad Decium anni 7; a Decio ad Valerianum anni 3 [ Beda: Decius anno 1. Gallus Volusianus annis 2]; a Valeriano usque ad Claudium anni 15; a Claudio enim usque ad Aurelianum anni 2; ab Aureliano usque ad Probum fiunt anni 7 [ Bed., 5]; a Probo ad Carum anni 5 [ Bed. 7], et a Caro usque ad Diocletianum anni 2; a Diocletiano vero usque ad Constantinum fiunt anni 20 [ Bed. add. Maximianus Severusque annis 2]; a Constantino usque ad Constantium anni 21 [ Bed. rectius, 31]; de Constantio usque ad Julianum anni 24, et a Juliano usque ad Jovianum anni 2. A Joviano ergo usque ad Valentinianum fit annus 1; de Valentiniano usque ad Valentem anni 11 [ Bed., 13], et de Valente usque ad Theodosium anni 4; a Theodosio vero usque ad Arcadium anni 17; ab Arcadio usque ad Honorium anni 13; ab Honorio usque ad Theodosium anni 15, a Theodosio usque ad Marcianum anni 26, a Marciano usque ad Leonem anni 17 [ Bed. rectius, 7; et addit: a Leone autem majore usque ad Leonem ejus filium anni 17]; item a Leone usque ad Zenonem fit annus 1, et de Zenone usque ad Anastasium fiunt anni 16 [ Bed., 17]; ab Anastasio vero usque ad Justinum sunt anni 27 [ Bed., 26], et a Justino usque ad Justinianum anni 9; item a Justiniano usque ad Justinum sunt anni 39; item a Justino usque ad Tiberium anni 16 [ Bed., 11]; a Tiberio usque ad Mauricium fiunt anni 4 [ Bed., 7]; a Mauricio usque ad Focam sunt anni 20 [ Bed., 21]; a Foca usque ad Heraclium anni 8; ab Heraclio usque ad Constantinum [ Bed. addit: qui fuit filius Heraclii] fiunt anni 26 [ Beda addit: a Constantino filio Heraclii usque ad Heracleonam menses 6; ab Heracleona autem et matre ejus Martina usque a Constantem (Heraclii nepotem) anni 2. A Constante usque ad Constantinum (Pogonatum), ejus filium, anni 28]; a Constantino usque ad Justinianum anni 17; a Justiniano usque ad Pippinum Seniorem fiunt anni 2; a Pippino Seniore usque ad Carolum anni 27; a Carolo usque ad Pippinum et Carolomannum anni 27, et a Pippino et Carolomanno usque dum Pippinus constitutus est rex fiunt anni 10; a Pippino vero usque ad Carlum et Carlomannum anni 17, et a Carlo et Carlomanno usque ad Carlum fiunt anni 4; et inde domnus Carlus solus regnum suscepit, et Deo protegente gubernat usque in praesentem annum 2 feliciter, qui est annus regni ejus 42, imperii autem 9. Sunt autem totius summae ab origine mundi anni usque ad praesentem annum 4761.
+
+
+[0610B] {#pl.104.0610b}
+Ab Adam usque ad Nativitatem Christi computantur anni 3952; inde usque ad passionem ejus anni 33 et dimidius. Si in primo anno, quo Adam factus est, posueris terminum Paschae in XII Kal. April et VII concur. erit in ipsa dies IV feria, in qua sidera condita esse credunt, et plenilunium atque aequinoctium. Quod cum tali termino talique concur. cyclum inchoaveris, et usque ad Christi nativitatem vel passionem supputando praedictum annorum numerum perduxeris, erit anno nativitatis Dominicae terminus Kal. et concur. IIII, annoque passionis terminus XVII. Kal. Maii et concur. IIII. Si vero ab Adam usque ad nativitatem Domini 5199 annos habere volueris, et supputationem eorumdem annorum secundum praedictam rationem per concurrentes et terminos compleveris, habebis anno nativitatis Domini terminum Paschae XIV Kal. Maii et concur. I, anno vero passionis terminum IV Nonas Aprilis et concur II. Si autem ab Adam usque ad Christum 5500 pronuntiaveris; eosque secundum ipsam regulam computaveris; eveniet tibi anno Dominicae nativitatis terminus Paschae XI Kal. April. et concur. VII, annoque passionis terminus Non. Aprilis et concur VII.
+
+
+[104] {#pl.104.104}
+Auctorem hujus abbreviationis existimo esse Eginhartum imp. Caroli Magni cancellarium. Per Chronicon autem, quod ille abbreviavit, intelligendi sunt venerabilis Bedae libri duo, qui inscribuntur: De sex aetatibus mundi et De temporibus, [LAMB].--Pertzius vero in praefatione ad Vitam Caroli Magni, p. 429, ait: « Lambecius Abbreviationem Chronici ab Orbe condito usque ad annum 809 ei (Eginhardo) vindicare conatusnullo, plane fundamento nititur. » [EDIT] . Fuit is annus aerae Christianae vulgaris 809, uti liquet ex sequenti numero tam annorum mundi, quam annorum regni et imperii Caroli Magni. Quod autem ad praecedentem supputationem successionis imperatorum Romanorum attinet, ea tam apud Bedam, quam hic culpa imperitorum et negligentium librariorum multis locis depravata, et adminiculo accuratioris chronologiae hoc aevo usitatae emendanda est.

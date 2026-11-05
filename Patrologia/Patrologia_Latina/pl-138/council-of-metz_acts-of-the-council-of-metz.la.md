@@ -1,0 +1,82 @@
+---
+id: pl.138.2458
+sigla: pl.138.acts-of-the-council-of-metz
+title: "Acts of the Council of Metz"
+work: "Acts of the Council of Metz"
+creator: "Council of Metz"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 138"
+columns: "138"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.138.colN}"
+---
+
+# Acts of the Council of Metz
+
+**Author**: Council of Metz  
+**Series**: PL 138  
+**Columns**: 138  
+
+[138] {#pl.138.138}
+Acta synodi Mettensis
+KAROLI II ET HLOTHARII II SYNODUS METTENSIS. ( An. 859. Mai. 28, Jun. 4.)
+
+### EPISCOPORUM LEGATIO AD HLUDOWICUM REGEM. Haec capitula tractata et confirmata sunt ab episcopis in synodo habita apud Mettis civitatem, de indulgentia Hludowici regis pro seditione et excessibus in regno fratris sui Karoli perpetratis.
+EPISCOPORUM LEGATIO AD HLUDOWICUM REGEM. Haec capitula tractata et confirmata sunt ab episcopis in synodo habita apud Mettis civitatem, de indulgentia Hludowici regis pro seditione et excessibus in regno fratris sui Karoli perpetratis.
+
+
+[0653B] {#pl.138.0653b}
+Dilectis in Christo fratribus et consacerdotibus nostris, legatis videlicet divinae pacis ac nostrae unanimitatis, Hincmaro, Gunthario, Weniloni archiepiscopis, et venerabilibus coepiscopis nostris Herluino, Hildegario, Adventio, Abboni, Hincmaro, Erchanrao, episcopi quorum nomina subter habentur adscripta, qui favente Domino, et annuentibus gloriosis principibus nostris Karolo et Hlothario, in Mediomatricum civitatem, anno incarnationis dominicae 859, indictione 7, 5 Kal. Junias synodali decreto convenimus.
+1. Nota et proh dolor! nimis est nota discordia atque calamitatis pernicies, quae factione quorumdam seditiosorum hominum nuper inter fratres, reges nostros, Hludowicum et Karolum accidit: unde tanta ac talia in ecclesia nobis ad regendum, divina dignatione, commissa et in hoc regno perpere sunt admissa, ut ipso etiam auditu horribilia cognoscantur; et si haec discordiae pestilentia diutius, operante humani generis antiquo hoste, duraverit, quam exitiabilis et mortifera existat melius ipsi scitis. Qua de re memores quid veritas missis praedicatoribus jusserit, ut divinus Paulus dicit, legatione fungimur pro Christo, reconciliamini Deo, legatione pro Christo fungentes, vos, fratres carissimi, legatos Deo amatae pacis, quoniam exinde jam gloriosos principes nostros Karolum et Hlotharium episcopali auctoritate monuimus, ad domnum Hludowicum regem gloriosum mediante Domino ordinamus, sicut Salvator dicit: In quamcumque, inquiens, domum intraveritis, primum dicite: Pax huic domui. Et si ibi fuerit filius pacis, requiescet super illum pax vestra. Sin autem, ad vos revertetur. Quia aut erit quisque praedestinatus ad vitam, et coeleste verbum sequetur quod audiet; aut si nullus audire voluerit, ipse praedicator sine fructu non fuerit, quoniam ei a Domino pro labore sui operis merces recompensabitur.
+
+
+[0653D] {#pl.138.0653d}
+2. Post praedicatam vero et postulatam pacem, legatio vestrae fraternitatis hujusmodi erit conditionis, ut isdem rex nobis, et utinam Deo, semper amabilis, ad missorum indulgentiam consequatur.
+
+
+[0654B] {#pl.138.0654b}
+3. Videlicet si se de omnibus quae per eum malitiosorum hominum persuasione atque seductione in parochiis nostris fratrumque nostrorum perpetrata sunt veraciter recognoverit, sicut scriptum est: Juxta est Dominus his qui tribulato sunt corde. Et: Sacrificium Deo est spiritus contribulatus; quoniam cor contritum et humiliatum Deus non spernit. Et sicut hi qui ficte Deum quaerunt, invenire nunquam merentur, ita prope est Dominus omnibus invocantibus se in veritate.
+4. Et si post veram recognitionem puriter confessus fuerit; quia iterum dicit Scriptura: Qui abscondit scelere sua, non dirigetur. Qui autem confessus fuerit, et reliquerit ea, misericordiam consequetur. Et: Si confiteamur peccata nostra, fidelis est et justus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.
+
+
+[0654C] {#pl.138.0654c}
+5. Post puram autem confessionem, si promiserit quae male gesta sunt, per dignos poenitentiae fructus, praeveniente, adjuvante, et subsequente divina gratia, se pro viribus emendaturum, quia scriptum est, Facite fructus dignos poenitentiae, ut tanto majora quaerat bonorum operum quisque lucra per poenitentiam, quanto graviora sibi intulit damna per culpam; quoniam et illi beati quorum tecta bonis operibus sunt peccata, et ut scriptum est, quia peccavit, et populum peccare fecit, tanta sint bona quae tanta operiant mala.
+
+
+[0654D] {#pl.138.0654d}
+6. Deinde si spoponderit ad pacem et concordiam praesentaliter in toto corde et ore, et quantocius rationabiliter et possibiliter atque convenienter ex communi consensu fieri poterit, etiam praesentia corporis ad pacem et concordiam cum fratre suo Karolo se rediturum, et in pace ac caritate Deo placita cum praefatis principibus nostris Karolo atque Hlothario, si ipsi eandem pacem et concordiam erga eum servaverint, permansurum, et in se peccantibus debita dimiserit, sicut sua a Deo debita sibi cupit dimitti Quia itidem Scriptura dicit: Pacem sequimini cum omnibus, et sanctimoniam, sine qua nemo videbit Deum. Et cum mala cuncta bonis sequentibus diluantur, tantum est discordiae malum, quae nisi extincta funditus fuerit, bonum nullatenus sequi, evangelio teste, permittat; et caritas est quae operit multitudinem peccatorum, sine qua etiam si quis corpus suum tradat ad ignem, nihil ei nisi ad damnationis judicium proderit. Et Dominus dicit: Si non dimiseritis hominibus peccata eorum, nec Pater vester coelestis dimittet vobis peccata vestra.
+
+
+[0655A] {#pl.138.0655a}
+7. Post haec si promiserit, quod jam ulterius tale vel simile schisma in hac sancta Dei ecclesia atque in ista christianitate non reiteret. Unde scriptum est: Qui baptizatur a mortuo, et iterum tangit illum, quid proficit lavatio ejus? Baptizatur quippe a mortuo, qui mundatur fletibus a peccato; sed post baptisma mortuum tangit, qui culpas post lacrymas repetit. Et iterum scriptum est: Canis reversus ad vomitum suum, et sus lota in volutabro luti; quia qui peccatum post poenitentiam repetit, quasi in lutosa aqua semetipsum volvit, vitae munditiam subtrahit, ipsas etiam lacrymas ante Dei oculos sordidas facit.
+
+
+[0655B] {#pl.138.0655b}
+8. Tunc demum promittat se ab illorum perditorum hominum tuitione atque favore, per quos tam graviter Deum offendit, disjungere. Et qui quasi ad ejus fidem, sed potius infideliter ad eum venerunt, ad rectam rationem in proximo placito ante fratrem suum Karolum et nepotem suum Hlotharium, sicut, Deo teste, jam apud Marsnam propria manu firmaverat, venire, si potuerit, faciat. Et quemcumque illorum recta ratio dignificaverit, digne honore suo fruatur. Et qui per rectam rationem erga seniorem suum justificari non potuerit, et rationabilem misericordiam pro eo expetierit, eandem rationabilem misericordiam illi obtineat. De illo vero quem recta ratio et justum judicium condemnaverit, ut rex christianus cum rege regum Christo concordet, et alienae perditioni se non commisculet; quia, ut Paulus dicit, non solum qui faciunt, sed etiam qui male facientibus consentiunt, digni sunt morte. Unde sanctus Innocentius dicit, quia non multum interest inter committentis animum et consentientis favorem. Addo amplius, plerumque dediscit errare cui nemo consentit. Et iterum sanctus Paulus cum talibus hominibus nec cibum sumere permittit. Et sanctus David, dum totum se ad foedera pacis internae constringeret, testatur, quod cum malis concordiam non teneret, dicens: Nonne qui oderunt te, Deus, oderam illos, et super inimicos tuos tabescebam? Perfecto odio oderam illos, inimici facti sunt mihi. Inimicos etiam Dei perfecto odio odisse est, ad quod facti sunt diligere, et quod faciunt increpare; mores pravorum premere, vitae prodesse. Hinc Finees peccantem civem coeuntem cum Madianite perculit, et iram Dei iratus placavit. Et Josaphat, qui tot de anteacta vita praeconiis attollitur, de Achab regis amicitiis pene periturus increpatur; cui a Domino per prophetam dicitur: Impio praebes auxilium, et his qui oderunt Dominum amicitia jungeris. Et idcirco iram quidam Domini merebaris; sed bona opera inventa sunt in te. Hinc sacri canones a sancto promulgati Spiritu dicunt, ut hi qui post excommunicationem vel interdictum cum excommunicatis communicaverint, condemnati anathema habeantur. Et sanctus Cyprianus regis ministerium esse dicit, impios de terra perdere, homicidas, perjuros, adulteros, veneficos, sacrilegos non sinere vivere. Et in libro regum scriptum est, dicente Domino per prophetam: Quia dimisisti virum morte dignum, erit anima tua pro anima illius, et populus tuus pro populo illius. Et quam noxia sit indebita erga iniquos misericordia, monstratur in opere Saul ac Samuelis; quoniam cui Saul pepercit offendens Dominum, Samuel propheta in frusta concidit. Nam sicut quisque in se peccantibus debet propter Deum dimittere, ita in Deum peccantes, et ecclesiam conculcantes, et regni pervasores, et in christianitatis depopulatores, et in pacis perturbatores, et in patriae proditores debet minister Domini rex debitam vindictam propter Deum exercere. Quapropter sciat rex nobis amabilis, quia sicut infirmus sanari non potest qui a medios coquitur, quandiu ferrum ignitum in illius tenetur corpore, ita et nemo sanari potest a peccato quandiu in peccato manserit, vel quandiu in peccato manenti scienter et libenter communicaverit.
+
+
+[0656B] {#pl.138.0656b}
+9. Tandem si se promiserit adjutorem et cooperatorem Dei pro viribus de caetero et rationabiliter futurum, qualiter ecclesia Dei quae in suo regno ac regnis nostrorum principum una est, sicut et unum sacerdotium, secundum qualitatem periculosi temporis in unoquoque ordine restituatur, et sacerdotes Dei debita privilegia et ecclesiasticum vigorem obtineant, et populus justitiam et pacem habeat, congregatis vobis et nostro immo divino spiritu, qui est remissio omnium peccatorum, per ecclesiasticam apostolicae auctoritatis potestatem illi peccata in nostris parochiis per illum et ab illo commissa ecclesiastica pietate et canonico more dimittite, eique indulgentiam postulanti donate, atque illum sacrae communioni, qua ipse se privaverat excommunicatis communicans, restituite.
+
+
+[0656C] {#pl.138.0656c}
+10. Et licet multorum annorum, secundum praefixos a sacris canonibus gradus, poenitentiae haec perpetrata facinora indigerent, tamen confisi de Dei misericordia, apud quem non sic acceptatur mensura temporis ut doloris, nec abstinentia ciborum sicut mortificatio vitiorum, non praejudicantes patrum sententiis quae de hujusmodi decreverunt, sed potius eorum sequentes humaniorem diffinitionem, haec scribimus. Ait sancta synodus Africana: Poenitentibus, secundum differentiam peccatorum, episcopi arbitrio poenitentiae tempora discernantur. Et sanctus Leo apostolicae sedis pontifex: His, inquit, qui in tempore necessitatis et in periculi urgentis instantia praesidium poenitentiae et mox reconciliationis implorant, nec satisfactio interdicenda est, nec reconciliatio deneganda; quia misericordiae Dei nec mensuras possumus ponere, nec tempora definire, apud quem nullas patitur veniae moras vera confessio, dicente Dei spiritu per prophetam: Cum conversus ingemueris, tunc salvus eris. Et alibi: Dic iniquitates tuas prior, ut justificeris. Et item: Quia apud Dominum misericordia est, et copiosa apud eum redemptio. In dispensandis itaque donis Dei non debemus esse difficiles, nec se accusantium gemitus lacrymasque neglegere, cum ipsam poenitendi affectionem ex Dei credamus inspiratione conceptam, dicente Apostolo: Ne forte det illis Deus poenitentiam, et resipiscant a diaboli laqueis, a quo captivi tenentur ad ipsius voluntatem. Et sanctus Gregorius in evangelii homelia dicit: Veniat foras mortuus, id est, culpam confiteatur peccator. Venientem vero foras solvant discipuli, ut pastores ecclesiae ei poenam debeant amovere, quam meruit qui non erubuit confiteri quod fecit.
+
+
+[0657B] {#pl.138.0657b}
+11. His perpensis, fratres carissimi, si, ut diximus, jam dictum regem a nobis amabilem ita contemperatum divinae voluntati et sacrae auctoritati inveneritis, secundum ministerium vobis a Deo traditum cum nostra unanimitate absolvite. Sin alias, vos nullo modo cum eo, quem absolvere non poteritis, ligare nolite; quoniam nec coram Deo, nec in synodo nos inde auctores habebitis, si agere aliter, quod absit, praesumpseritis; vosque et in synodo et coram Deo pro facto irrito dabitis rationes.
+Et si ipse, quod Deus longe faciat, ea quae egit, unde illum nunc commonere vos mittimus, reiteraverit, omnia et ante divinos oculos et ad ecclesiastica judicia redivivo vulnere curanda vel amputanda noverit revenire. Si quid quoque contra sanctam auctoritatem praesumptum vel subreptum sive extortum fuerit, non solum in divinis examinationibus, verum nec in divinis legibus quippiam praevalebit. Et non sit de caetero immemor idem rex gloriosus quod dicit sanctus Gregorius: Sciendum est, inquit, quia quisquis inlicita nulla commisit, huic jure conceditur ut licitis utatur; sicque pietatis opera faciat, ut tamen, si noluerit, ea quae mundi sunt non relinquat. Quilibet vero tanto a se licita debet abscidere, quanto se meminit et inlicita perpetrasse. Neque enim par fructus esse boni operis debet ejus qui minus et ejus qui amplius deliquit, aut ejus qui in nullis et ejus qui in quibuslibet facinoribus cecidit. Sed tanto quisque majora quaerat bonorum operum lucra per poenitentiam, quanto graviora sibi intulit damna per culpam. Unde a vobis nostra, quin potius Dei voce, commoneatur ut sic studeat praeteritorum poenitens, et imminentia atque futura cavens, Deo militare in regno terreno, quatenus mereatur conregnare Christo in regno coelesti.
+
+### Haec quae sequuntur, peracta legatione, renuntiarunt episcopi. ( An. 859, Jun. 4.)
+
+
+[0658A] {#pl.138.0658a}
+Haec quae sequuntur, peracta legatione, renuntiarunt episcopi. ( An. 859, Jun. 4.)
+De indulgentia sua nobis Hludowicus rex pridie Nonas Junias in Wormatia dixit: Volo vos precari, ut si in aliquo vestros animos offendi, ut hoc mihi perdonetis, ut inantea securus vobiscum loqui possimus. Ad haec Hincmarus, qui primus in ordine ex sinistra parte illius stetit, respondit dicens: Ista causa cito ad effectum pervenire potest; quia quod nos offerimus, hoc vos petitis. Et monente Grimoldo 2 ac Theodorico episcopo 3 , iterum ipse Hincmarus dixit: Nihil contra me fecistis unde noxium rancorem in mente contra vos teneam, quia si facerem, ad altare, ut Domino sacrificarem, accedere non auderem. Iterum monentibus eisdem Grimoldo et Theodorico ac Salomone 4 , dicente ipso Theodorico haec verba: Facite sicut senior noster precatur, parcite illi, respondit ipse Hincmarus haec eadem verba: Quod in me, id est in mea persona, offendistis, et peperci et parco. De hoc autem quod in ecclesia mihi commissa et in populo male est factum, voluntarie vobis dono consilium, et secundum Deum praesto auxilium ut inde salvi sitis, si vobis placet. Et praefati viri responderunt: Certe bene dicit. Et caeteri fratres nostri in haec verba et senserunt et prosecuti sunt. Tanta et talis indulgentia illi largita fuit, et non altera, neque amplius. De scripto autem quod confirmatum nobis est traditum, nec ipse a nobis quiddam quaesivit, nec nos illi aliquid diximus, quoniam necdum cum illo ex hujusmodi in ratione eramus. Ipse autem post haec et alia dixit nos egisse quod non egimus, ex hoc materiam sumens, quod Guntharius illi familiariter, ut eum instrueret et ad satisfactionem provocaret, scriptum relegit ita inquiens: Vos mihi transmisistis vestram epistolam cum capitulis: vos venistis cum causa facta. Nos non sumus hic nisi duo vel tres, qui sine aliis huc exilivimus: in illas causas intrare non possumus, antequam cum nostris episcopis inde tractemus; quia, Deo gratias, nihil sine illorum consilio feci; et postea inde respondeam. Nos autem expectabamus, ut consilium a nobis de sua salute oblatum ipse quaereret, et tunc ei secundum illud scriptum donaremus consilium. Ipse autem de suo gradu respondit, quod in illud scriptum non intraret, antequam cum suis episcopis consideraret. Et sic quicquid in generali causa ecclesiae et populi egit, penes illum remansit.
+
+
+[138] {#pl.138.138}
+Edita est a Baronio ex codice Mureti atque Antonii Augustini tom. Annalium X, tum a Sirmondo et Baluzio. Abbate sancti Galli et archicapellano. Mindensi. Constantiensi.

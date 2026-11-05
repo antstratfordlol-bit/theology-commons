@@ -1,0 +1,71 @@
+---
+id: pl.187.1329
+sigla: pl.187.index-of-pontiffs-etc
+title: "Index of pontiffs, etc."
+work: "Index of pontiffs, etc."
+creator: "Uncertain author"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 187"
+columns: "187–1912"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.187.colN}"
+---
+
+# Index of pontiffs, etc.
+
+**Author**: Uncertain author  
+**Series**: PL 187  
+**Columns**: 187–1912  
+
+[187] {#pl.187.187}
+Index pontificum etc.
+II. INDEX SUMMORUM PONTIFICUM, SS. PATRUM ET SCRIPTORUM ECCLESIASTICORUM QUORUM NOMINE A GRATIANO CANONES REFERUNTUR.
+A. SUMMI PONTIFICES
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+L
+M
+N Agatho. A. 679-682. Alexander I. A. 109-119. Alexander II. A. 1061-1073. Anacletus. A. 78-91. Anastasius I. A. 389-401. Anastasius II. A. 496-498. Anicetus (Anitius). A. 157-168. Anterus. A. 235-236. Benedictus I. A. 574-578. Bonifacius I. A. 418-422. Bonifacius II. A. 530-532. Caius. A. 283-296. Callistus I A. 219-222. Clemens I. A. 91-100. Coelestinus I. A. 422-432. Cornelius. A. 251-252. Damasus I. A. 366-384. Deusdedit. A. 615-618. Dionysius. A. 259-269. Eleutherius. A. 177-192. Eugenius II. A. 824-827. Eusebius. A. 310. Eutychianus. A. 275-283. Evaristus. A. 100-109. Fabianus. A. 236-250. Felix I. A. 269-274. Felix II. A. 355-365. Felix III. (II.) A. 483-492. Felix IV. (III.) A. 526-530. Gelasius. I. A. 492-496. Gregorius I. A. 590-604. Gregorius II. A. 715-731. Gregorius III. A. 731-741 Gregorius IV. A. 827-844. Gregorius VII. A. 1073-1085. Hadrianus I. A. 772-795. Hilarius. A. 461-468. Hormisdas. A. 514-523 Hyginus. A. 139-142. Innocentius I. A. 401-417. Innocentius II. A. 1130-1143. Joannes I. A. 523-526. Joannes III. A. 560-573. Joannes VIII. A. 872-882. Julius I. A. 337-352. Leo I. A. 440-461 Leo III A. 795-816. Leo IV. A. 849-852. Leo VIII. A. 863-865. Leo IX. A. 1048-1054. Liberius. A. 352-366. Lucius I. A. 252-253. Marcellinus. A. 296-304. Marcellus I. A. 308-310. Martinus I. A. 649-654. Miltiades (Melchiades). A. 311-314. Nicolaus I. A. 858-867.
+
+
+[1912] {#pl.187.1912}
+P
+S
+T
+U
+V
+Z Nicolaus II. A. 1058-1061 Paschalis I. A. 817-824. Paschalis II. A. 1099-1118. Pelagius I. A. 555-560. Pelagius II. A. 578-590. Pius I. A 142-157. Pontianus. A. 230-235. Silverius A. 536-537. Silvester I. A. 314-335. Simplicius. A. 468-483. Siricius. A. 384-398. Sixtus I. A. 119-127. Sixtus II. A. 257-258. Sixtus III. A. 432-440. Soter. A. 168-177. Stephanus I. A. 253-257. Stephanus III. (IV.) A. 768-772. Stephanus V. (VI.) A. 885-891. Symmachus. A. 498-514. Telesphorus. A. 127-139. Urbanus I. A. 223-230. Urbanus II. A. 1088-1091 Victor I. A. 193-202. Vigilius. A. 537-555. Zacharias. A. 741-752. Zephyrinus. A. 202-218 Zosimus. A. 417-418.
+B. SS. PATRES ET SCRIPTORES ECCLESIASTICI.
+
+
+[1911] {#pl.187.1911}
+A
+B
+C
+D
+E
+F
+G
+H
+I Alcuinus, + A. 804. Ambrosius, + A. 397. Anastasius Bibl., + c. A. 887. Athanasius, + A. 371. Atticus, + A. 427. Augustinus, + A. 430. Basilius, + A. 378. Beda, + c. A. 735. Benedictus abb., + A. 542 vel 543. Cassiodorus, + c. A. 570. Chromatius, + c. A. 410. Cyprianus, + A. 258. Cyrillus, + A. 444. Didymus, + c. A. 392. Eusebius, + c. A. 360. Fructuosus, + c. A. 675. Fulbertus, + c. A. 1028. Gregorius M., + A. 604. Gregorius Naz., + A. 389. Haymo, + A. 853. Hermas, saec. I. Hesychius, ut vid., Hierosol, + A. 609. Hieronymus, + A. 420. Hilarius Pict., + c. A. 370. Hincmarus Rem., + A. 882 Isidorus Hispal., + A. 636.
+
+
+[1912] {#pl.187.1912}
+J
+L
+O
+P
+R
+T Joannes Chrysostom. + A. 407. Leo M., + A. 461. Origenes, + A. 254. Paschasius, + A. 851. Paulinus Nol., + A. 431. Prosper Aquit., + c. A. 460. Rabanus, + A. 856. Rufinus, + A. 410. Theodorus Cantuar., + A. 600.
+FINIS TOMI CENTESIMI OCTOGESIMI SEPTIMI.

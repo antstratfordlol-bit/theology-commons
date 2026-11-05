@@ -1,0 +1,36 @@
+---
+id: pl.127.8117
+sigla: pl.127.dedication-letter
+title: "Dedication Letter"
+work: "Dedication Letter"
+creator: "Giovanni Maria Salvioni"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 127"
+columns: "127"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.127.colN}"
+---
+
+# Dedication Letter
+
+**Author**: Giovanni Maria Salvioni  
+**Series**: PL 127  
+**Columns**: 127  
+
+[127] {#pl.127.127}
+Epistola dedicatoria
+EPISTOLA DEDICATORIA.
+Sanctissimo domino nostro CLEMENTI XI, pontifici maximo, Joannes Maria SALVIONI typographus Vaticanus.
+Cum artium bonarum praesidio, et incremento datum, BEATISSIME PATER, te agnoscant facultates utiles. ac necessariae in republica optime constituta; typographica non postrema tuo se munere ac largitate restitutam sentit; quin etiam de tuo judicio gloriatur: quod hanc veluti administram universarum impense foveas, earumque in primis, quae in religionis officiis procurandis beneficia sua referunt ad aeternitatem. Quos itaque labores in eadem excolenda, tenues quidem, sed non poenitendos, tuis auspiciis, hactenus impendi, experior a clementia tua ita benigne susceptos, et a munificentia tua ita largiter ornatos ad me rediisse, ut in domicilio Romanae Universitatis, quam Sapientiam vocant, officina amplissima instructa, in eodem Archigymnasio typographus, mox etiam Vaticanus, te dante, sim renuntiatus. Haec nominis amplitudo me sollicitum reddit, ut qui par gratiae referendae non sim munifico erga me principi, exspectationi sanctissimi Patris saltem pro modulo respondere connitar. Qua igitur ratione id contendam hac editione Operis Anastasii, id tibi, PATER BEATISSIME, laboris, et consilii mei non tantum domino indulgentissimo, verum etiam judici ac patrono clementissimo, exponendum humiliter duxi: tuoque sub auspicio caeteris aperiendum, ut sciant quicunque opella nostra imposterum usuri sunt, quibus praesertim operibus prela officinae nostrae exerceri cupiam, ex quo Vaticani typographi munere a sacerdote maximo sum donatus.
+
+
+[0021] {#pl.127.0021}
+1 Typographiam Vaticanam cum institueret immortalis memoriae pontifex Sixtus V, professus est eo consilio fundatam, ad sanctorum scilicet opera restituenda, catholicamque religionem toto orbe propagandam. Quanto autem studio se comparaverint ad implendum susceptae provinciae munus quotquot ejus officinae librariae curam administrabant, satis ostendunt opera egregia per eos annos edita typis Vaticanis: utriusque Testamenti lectio quam emendatissima, conciliorum generalium Acta ex probatissimis codicibus descripta, sanctorum Patrum lucubrationes ad veterum exemplarium fidem summopere castigatae. Annales Ecclesiae a Baronio tunc inchoati, et ejusmodi librorum genera nunquam intermoritura. Nae celebres illi editores Vaticani Aldinam elegantiam cum utilitate et majestate argumenti omnium gravissimi conjunxerunt. Post uberem igitur messem undique conquisitam, et adeo feliciter illatam in Ecclesiae horreum, quale spicilegium supererit a me colligendum, eo dignum nomine, quo placuit SANCTITATI VESTRAE conatus meos honestare, dum in vitam revocaret post unum, aut alterum saeculum typographiam Vaticanam? Animo tamen despondere nos minime sinit sacrorum seges, quam magnus pater familias paratam servat industriae coloni, non secus ac vineae fructus, et mercedis proventum vinitoribus vocatis ad horam nonam, et undecimam. Nam quae provincia tibi non ferax futura sit, BEATISSIME PATER, si ab extrema etiam Syria, et desertis, ac solitudinibus Nitriae ac Thebaidis colligis fructus, pluribus ante nos saeculis denegatos aut occultatos? Acta enim Martyrum, ab Eusebio collecta, et turbine quodam aetatis barbarae ita abrepta ac dispersa, ut post annos non integros trecentos frustra quaererentur in scriniis Ecclesiae, nuper ex Oriente attulisti cum aliis praeclaris codicibus ducentis, tuo jussu ac munificentia comparatis ad instruendam novis copiis bibliothecam Vaticanam. Quanta amplitudo regionis nostris laboribus excolendae hoc uno in prospectu ante oculos aperitur! Cum itaque materia editionum defutura minime sit sub optimo principe, sacris litteris impense addicto, praestabit, ut ego arbitror, specimen ejus diligentiae exhibere, quam tua Vaticana typographia polliceri potest cultoribus graviorum disciplinarum, tum in delectu operum edendorum, tum in castigatione atque elegantia editionis
+Tria haec spondere cum ausim, etiam praestare conatus sum in his excudendis Romanorum Pontificum Vitis, quae Anastasii nomine donari solent. Delectus in primis utilis reputari profecto debet, qui gesta praecipua complectitur decessorum tuorum in Petri cathedra, successionemque non interruptam: universa haec genuinis notis descripta ex diptychis et heortologiis nascentis Ecclesiae. Non alia rudimenta maximi operis Annalium Baronio fuisse fatetur inclytus scriptor 2 in epistola nuncupatoria ad Sixtum pontificem, quam Vitas sanctorum et exempla Patrum: unde adversaria colligens ad usum familiarium concionum, pro consuetudine Oratorii sui quotidie habendarum, ex parvo semine ingentem arborem exortam vidit. At Vitae maximorum pontificum hac etiam brevitate enuntiatae, qua potissimum veritas gaudet, quanto rerum pondere et momento polleant, satis, spero, indicabitur in praefatione ad Lectorem. Castigatio accurata (quod erat alterum a me pollicitum et praestandum) se prodet in uniuscujusque folii conspectu primo. Videbit Lector, omnium fere cultarum nationum, quae in Europa sunt, collatis studiis hanc operis emendationem esse adornatam. Codicum praestantiorum variantes lectiones, quas bibliothecae prae caeteris celebres attulerunt, Vaticana, Caesarea Vindobonensis, Regia Ludovici Magni, Regia Christinae, Florentina, Farnesiana, Barberina, Otthoboniana, Cavensis et Colbertina, occurrent ad singulas lectiones. Ex Germania superiori Velserus, et Freherus, necnon Binius, et Surius; ex inferiori Lucas Holstenius, et Emmanuel a Schelestrate; ex Gallis Labbeus, et Fabrottus; ex Hispanis Penia; ex Italis Baronius (ut unus sit instar omnium) symbolam suam contulerunt. Hoc agmen scriptorum primi subsellii vadem adhibeo delectus operis a me suscepti, et castigationis promissae: quod etiam pertinet ad dignitatem Ecclesiae omnium matris, libenter approbaturae, in tot nationum filiis devotam sibi pietatem feliciter occupatam in describendis fideliter gestis pontificum maximorum. Tertium illud, quod pollicebar ductus auspicio jussionis, et beneficentiae tuae, PATER BEATISSIME, est elegantia editionis: quam usus docuit conferre plurimum ad operis perennitatem. Hanc vero consectatus sum impensis non mediocribus, consilio praestantium virorum, et comparatione editionum, quae peritorum consensu habentur maxime nobiles. Felicem me reputabo, si pro votis id obtinuero, ut SANCTITAS VESTRA persuasum habeat, typographi sui fidem, obedientiam, ac diligentiam ita semper paratam fore; ut is apostolicis pedibus saepe accidens, et per salutis nostrae signum pontificia manu productum a Deo vires impetrans, a quo omnis sufficientia nostra est, ex hoc qualicunque specimine, veneratione maxima tibi oblato, ad constitutam sibi Vaticani impressoris metam nunquam non progredi videatur.
+
+
+[127] {#pl.127.127}
+Ex R. P. Bonanni in expl. nummi postr. Sixti V. Baron. tom. I. Annal. in epistola Dedic. ad Sixtum V

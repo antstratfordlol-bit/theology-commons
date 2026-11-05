@@ -1,0 +1,54 @@
+---
+id: pl.087.2993
+sigla: pl.87.observations
+title: "Observations"
+work: "Observations"
+creator: "Jacques Basnage"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 87"
+columns: "87"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.87.colN}"
+---
+
+# Observations
+
+**Author**: Jacques Basnage  
+**Series**: PL 87  
+**Columns**: 87  
+
+[87] {#pl.87.87}
+Observationes
+JACOBI BASNAGII OBSERVATIONES De Vita Desiderii episcopi ejusque ordinatore Severo Sulpitio et epistolis quae hic eduntur.
+I. Natus est Desiderius Albige, sive in urbe Albiensi, in extremis Aquitaniae finibus sita. Pater ejus, nomine Sylvius, tres genuit filios. Tunc temporis Dagoberti regis monarchiam solus tenebat Lotharius, a quo tres germani nobilissime enutriti summis dignitatibus praediti sunt. Rusticus enim abbatiam Palatini oratorii et archidiaconatus officium gessit, sed episcopus Cadurcensis factus, nescio qua de causa, a parochianis caesus est. Ei successit Desiderius, qui thesauro regio praefuerat. Siagrius denique Massiliae gubernacula et Albiensium Comitatum annis plurimis administravit.
+
+
+[0245B] {#pl.87.0245b}
+II. Desiderium in palatio innutritum nemo negaverit qui Abbonis peccatoris ad ipsum verba legerit: « Vos enim qui i nutriti in palatio regio fuistis, ibi bene cogniti estis; » et revera non solum cum Flothario principe contubernium habuit, sed ipsi commercium litterarum cum Dagoberto et Sigeberto regibus intercessit. Denique eo tempore quo, ut notavit ad formulas Marculphi, ipse natalitiis et dignitate inclytus, Bignonius (L. I, c. 5) , praeceptum regis de eligendo episcopo ferebat, ut eligeretur quem plerumque apud animos nostros actio probata commendat et nobilitatis ordo sublimat, ordinatus est ex testimonio episcoporum et auctoritate regis, ut ferebant leges tunc temporis, quanquam electionum usus observatus diceretur; ordinatus est, inquam, Desiderius episcopus Cadurcensis, ut episcopi defuncti et jugulati vices obiret.
+
+
+[0245C] {#pl.87.0245c}
+III. Ejus ordinator fuit Severus Sulpitius, qui trigesimus primus Biturigum praesul recensetur. Sed quatuor fuerunt ejusdem nominis viri celebres. Nitrobrix, aequalis Hieronymi, quem pessime monachum Primiulacensem faciunt plurimi, sive ut ejus nomine majorem monasterio illi famam concilient, sive errore decepti, quod Severus Sulpitius, de quo mox acturi sumus, abbatiam regendam fuerit sortitus. Illi presbytero debentur tum Historiae sacrae libri, tum sancti Martini Vita. Ab eo distingui debet Sulpitius Severus, qui Bituricensem Ecclesiam regendam suscepit regnante Childeberto, anno nono, obiit autem sexto decimo ejusdem regni, ita ut per septennium episcopatum tenuerit. Hic laudatur a Gregorio Turonensi, quod titubantem Ecclesiae statum firmare et ejus ruinas resarcire contenderet. Male tribuitur ipsi Vita sancti Martini, nec satis accurate ab historico superius memorato distinguitur. Alter fuit Severus, qui cum Germano Autissidorensi episcopo transmeavit in Angliam, ut haereseos Pelagianae ab aliquot annis grassantis reliquias radicitus evelleret. Hunc eumdem ac Sulpicium Severum Aquitanum censent aliqui. At errant penitus; quippe Severus qui in Britanniam transfretavit, Sulpicii praenomen non habuit; nec Bituricensis, sed Treverensis fuit episcopus. Denique quartus fuit Sulpicius Severus, ordinator Desiderii Cadurcensis, Austregili successor, « praesulum flos nobilissimus, totius virtutis singulare specimen, defensor et pater patriae; » ideoque Pii titulum obtinuit. Fallitur Anonymus, qui patriarchicum Bituricense illustravit apud Labbaeum, dum narrat varias in partes cleri populique sententias nutasse, ubi agebatur de eligendo successore Austregili, dum non minima pars Sulpicium acclamaret, ex altera vero parte, instigante diabolo, aliquis optimatum regem adiit, aurumque obtulit, ut eligeretur Bituricensis episcopus, quippe electio praesulum non pendebat a plebe, nec ab ejus suffragio: nominatio penes regem erat, qui praesules quosdam sibi assistentes et optimates consulere fingebat, cum de electione Desiderii ageretur. Ipse enim Dagobertus Sulpicio Severo mandavit, ut illum in sede Cadurcensi collocaret. Ea ratione summam cum Desiderio contraxit amicitiam, ipsique plurimas scripsit epistolas, quarum aliquae hic eduntur. In illis patriarchae titulum assumit. Metropolitani enim nondum in Occidente archiepiscopi vocabantur, illudque nomen vix fuit in usu apud Gallos. Papas se dixerunt tunc temporis episcopi, metropolitani vero patriarchas, et patriarchae archiepiscopos. Haec de Severo Sulpicio, quia circa viros cognomines, eosque celeberrimos, saepius peccatum fuit.
+
+
+[0246C] {#pl.87.0246c}
+IV. De tempore quo Severus Sulpicius Desiderium ordinaverit disputatur. Illam enim consecrationem Sammarthani fratres in Gallia Christiana referunt ad annum 635. Labbaeus vero ad biennium removet, annumque 637 assignavit. Oritur difficultas ex eo quod Rusticus dicitur caesus anno septimo regis Dagoberti, cum jam per septem annos integros et ultra pontificatum administrasset. Incepit regnare Dagobertus ab obitu Lotarii patris, qui incidit in annum 628. Si inde annos septem elapsos recenseas, debuit ordinari Desiderius an. 635, ut volunt Sammarthani. Sed adfuit Rusticus synodo Rhemensi, quae habita est praeside Sonnatio Rhemorum antistite, ut narrat Frodoardus. Fuit convocata synodus illa anno 625, quippe anno sequenti Senocus Elusanus metropolita, qui hic aderat, exsulavit. Debuit igitur jam episcopus esse Rusticus an. 525, quo synodum tenuit Sonnatius. Nodum intricatum solvit Mabillonius distinguendo bina regni initia; Dagobertus enim Austrasiae rex creatus fuit vivente parente Lotario anno 622. Deinde Galliam occupavit mortuo eodem Lotario anno 628. Numerandi ergo sunt septem anni Rustici non a regno Galliae, sed a regno Austrasiorum, cum Rusticum longe ante annum 528 fuisse antistitem creatum ex indicata synodo constet. In Austrasia regnavit Dagobertus annuente Lotario an. 622, eodem fere tempore praesul creatus est Rusticus. Pontificatum tenuit annos septem et aliquot menses. Caesus est igitur anno 629, et eodem anno circa Paschatis solemnia ordinatus fuit in ejus locum Desiderius frater.
+
+
+[0247B] {#pl.87.0247b}
+V. Dum viveret Desiderius, cum totius Galliae praesulibus, proceribus et regibus litterarum commercium frequens habuit. Eduntur hic ejus tum epistolae, tum ad ipsum responsa virorum celeberrimorum. Erunt qui brevissimas illas epistolas non magnifacient, utpote quae rudi stylo sint scriptae; erunt etiam qui vitia quae occurrunt frequentissima in amanuenses rejicient; multa tamen reperias quae vix possunt sanari. Nos illas qualescunque emendatiores hic quam Canisius fecerat protulimus. Dein aliqua leguntur singularia nec omnino spernenda. Hinc facile probatur episcopos honorifica verba titulosque ex saeculi usu elicitos anxie nimis quaesivisse, quippe non modo eminentiae verbo gaudebant, sed « palmata triumphatione decorati et Pontificali officio coronati » dicebantur. Creabantur tamen episcopi « Deo auctore et jussu regis, » quemadmodum ex iisdem epistolis constat et probavimus, nec consilia convocari poterant, nisi ex mandato regis; quippe sic jubet Sigebertus in epistola 15: « Sine nostra scientia synodale concilium in nostro regno non agatur, nec ad dictas Kalendas Septembris ulla conjunctio episcoporum ex iis qui ad nostram ditionem pertinere noscuntur non natur; postea vero opportuno tempore, si nobis antea denuntiatur, utrum pro statu ecclesiastico, an pro regni utilitate, sive etiam pro qualibet rationabili conditione conventio esse decreverit, non abnuimus. »
+
+
+[0247C] {#pl.87.0247c}
+VI. Controversiam biennalem habuit Desiderius cum Felice Narbonnensi episcopo. Peccaverat adversus Felicem aut saltem peccasse videbatur aliquis vel laicus vel clericus Cadurcensis. Statim « serpentina astutia jurgiorum propinavit venena auresque Felicis viperea infusione suppletae serpentis erumpebant sibilum. » Misit Desiderius reum Felici, oravitque ut daret affatus copiam, daret veniam, daret gratiam. Interea tamen elapsum est biennium antequam sedari potuerint episcoporum contendentium animi. Poenituit tandem Felicem criminis ab ipso intentati, vel querelas tandiu fovisse. « Ante hoc biennium, inquit ille, misi epistolam, quae mentem vestram ac si quidam turbo pertransiens nube obtexit, et licet non eo sensu fuerit edita, quo domnus censuit interpretandam, me tamen poenitet incaute et inculto sensu vel impolito stylo exarasse unde offensam sanctae animae vestrae potueram incurrere, nisi vestra bonitas causam admodiasset. » (Fel. epist. 15.) Qui vocem barbaram interpretatur Cangius per modum ponere et leviorem offensam facere, hunc episcopum, nescio qua ratione, Palladium appellat, quippe ad Felicem directa fuit querela Desiderii et eamdem subscriptionem praefert epistola decima quinta, de qua nunc agimus.
+
+
+[0248B] {#pl.87.0248b}
+VII. De anno obitus Desiderii resurgit difficultas quam superius attigimus, ob annos Dagoberti, quin etiam Sigeberti, diversa plane ratione computatos. Dein in Vita Desiderii, quam edidit Labbaeus (Bibl. Mss. t. I) , numerantur XXIII anni episcopatus Desiderii; attamen legitur in illa Vita sub anno 16 Sigeberti regis testamentum condidisse Desiderius, et anno 17 ejusdem regis decimo septimo Kalendar. Decembris « ultimum spiritum exhalasse. » Austrasiae rex designatus est Sigebertus anno Dagoberti undecimo, cum esset bimulus puer: vixit postea Dagobertus ad annum usque 638. Sexdecimque annos regnaverat; ergo annus decimus septimus Sigeberti debet anno vicesimo primo episcopatus Desiderii illigari; cumque eo anno constet eum obiisse, ipsius episcopatus ulterius promoveri nequit. Sic Cantius. Auget difficultatem Codex Moissiacensis, quem post editam in priore tomo Desiderii Vitam inspexit Labbaeus (Annal. t. III, p. 535) : in eo quippe legitur, annos XX sedem Cadurcensem occupasse Desiderium, et hanc genuinam lectionem comprobavit his in rebus versatissimus Mabillonius, consulto, scilicet, Exemplari Moissiacensi, in quo legitur: episcopatus sui vicesimo et VI. Ipse tot discrimina verborum, imo rerum, componit, observando annos Sigeberti non debere incipi ab eo anno quo puer vagiens ad Austrasiae regnum promotus est, sed a parentis morte, quae incidit in annum 638. Si annos XVII Desiderio adjicias, obierit anno 654, rexitque ecclesiam Cardurcensem XXIV annos nondum integros, ab anno, scil. 29. Et conveniunt huic calculo anni regni Sigeberti, qui XVII numerantur ab obitu Dagoberti regis. Claruit miraculis post mortem Desiderius. Prioribus nova adjiciuntur in Codice Moissiacensi, quae in appendice ad priores tomos Bibliothecae ms. apposuit Labbaeus.
+
+
+[87] {#pl.87.87}
+Vir inter protestantes eruditissimus, et, ut dicitur, amantissimus aequi; nec tamen adeo suae sectae praejudiciorum immunis, quin aliquando instituta nostra vel etiam sanctorum nostrorum lapsus arguendi occasionem alacrius arripiat. [EDIT.]

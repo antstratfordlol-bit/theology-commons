@@ -1,0 +1,43 @@
+---
+id: pl.159.6955
+sigla: pl.159.historical-notice-on-king-philip-i-of-france
+title: "Historical notice on King Philip I of France"
+work: "Historical notice on King Philip I of France"
+creator: "The Maurist Editors"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 159"
+columns: "159–0838B"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.159.colN}"
+---
+
+# Historical notice on King Philip I of France
+
+**Author**: The Maurist Editors  
+**Series**: PL 159  
+**Columns**: 159–0838B  
+
+[159] {#pl.159.159}
+Notitia historica
+NOTITIA HISTORICA.( Histoire littéraire de la France, tom. IX, p. 384.)
+
+
+[0837A] {#pl.159.0837a}
+Philippe Ier, roi de France, qui ayant été couronneé en 1059, du vivant de son père Henri Ier, régna après lui jusqu' au vingt-neuvième de juillet 1108, terme de sa vie, n' était rien moins qu' un prince lettré, quoiqu' il eût de l' éloquence et qu' il fût soigneux de faire étudier le prince Louis son fils, connu dans l' histoire sous le nom de Louis le Gros. Mais divers monuments qu' on a sous son nom, et quelques autres qui le concernent personnellement, nous engagent à dire ici un mot de lui, pour faire connaître ces monuments comme utiles à l' histoire.
+Entre ceux de la première classe, il y a trois lettres de ce prince: l' une, qui est la première en date, à Bernard, abbé de Marmoutier, et l' autre à saint Anselme, archevêque de Cantorberi. La première est d' autant plus importante qu' elle contient plus de traits des bons sentiments de ce prince, malgré la vie voluptueuse qu' il menait alors. II débute par avouer au pieux abbé qu' il avait souvent usé de mauvais traitements à son égard, et qu' il avait négligé jusqu' ici à lui en faire une satisfaction convenable, ses péchés en étant la cause et de grandes affaires l' en ayant détourné, quoiqu' il eût toujours aimé et considéré son monastère au-dessus de tous les autres. Après cet aveu il conjure Bernard et toute sa communauté de prier instamment pour lui, et lui donne commission de réformer l' abbaye de Farmoutiers, où il s' était glissé des désordres scandaleux. Peu de temps après, le même prince chargea Bernard de rendre le même service à celle de Saint-Magloire à Paris. Cette dernière commission est en date du mois de février 1093; et l' on voit par là que la lettre, qui n' est point datée, la précéda de quelque temps. Dom Mabillon en ayant trouvé l' original dans le chartrier de Marmoutier, la fit graver dans sa Diplomatique, pour servir de modèle du caractère en l' usage du XIc siècle, et l' a réimprimée depuis dans le corps de ses Annales.
+
+
+[0837B] {#pl.159.0837b}
+La lettre à saint Anselme est courte, mais bien écrite à tous égards. Elle fait partie du recueil de celles de cet archevèque, à qui elle fut envoyée lors de son second exil à Lyon, en 1104. Philippe lui marque l' extrême part qu' il prenait à ses peines et lui offre sa protection, si elle peut les lui adoucir, ou même l' en délivrer entièrement. Ayant appris que sa santé était altérée et que le lien de son exil n' était pas propre à la rétablir, il le presse de se retirer dans ses Etats, car Lyon n' en faisait pas encore partie, et l' assure qu' il y recevra des marques de l' affection qu' il lui portait. M. de la Curne de Sainte-Palaye, dans le cours de ses voyages littéraires en Italie, a découvert une autre lettre du même prince à l' empereur Henri IV, laquelle commence par ce mot: Philippus.
+
+
+[0838A] {#pl.159.0838a}
+On nous a conservé le serment solennel que ce prince fit de quitter sans retour Bertrade sa concubine. II le prêta le second de décembre 1104, entre les mains de Lambert, évêque d' Arras, qui avait été nommé à cet effet. Bertrade fut obligée d' en faire autant; et son serment se trouve à la suite de celui du roi Philippe.
+Il y a de ce prince un autre acte public qui confirme l' abrogation qu' Etienne, comte de Chartres, avait faite de la pernicieuse coutume qu' on avait de piller la maison épiscopale et toutes ses dépendances dès que le siége de cette Eglise venait à vaquer. Cet acte, qui fut fait en l' année 1105, à la prière d' Yves de Chartres, est sur tout intéressant par le détail où il entre de tout ce qu' on pillait en cette occasion. L' on n' épargnait non-seulement ni meubles, ni bestiaux, ni provisions, mais encore ni les vitres, ni le plomb, ni le fer, ni les pierres.
+
+
+[0838B] {#pl.159.0838b}
+Quant aux monuments qui concernent la personne du roi Philippe, c' est-à-dire qui traitent expressément de l' histoire de sa vie, ou de son règne, nous n' avons que trois petites pièces de vers, qui sont autant d' épitaphes consacrées à sa mémoire. La première en cinq grands vers ne contient que la date de sa mort, encore exprimée d' une manière assez obscure. La seconde composée de dix vers élégiaques, le fait descendre des anciens Troyens, et le représente comme un prince bien fait, puissant, belliqueux, bon politique, qui avait de la piété, de la douceur, de l' éloquence, de l' agrément en ses discours et ses manières. Enfin la troisième, de douze grands vers, sans entrer dans un si grand détail, fait assez bien dans les six premiers vers le caractère de Philippe.

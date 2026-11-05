@@ -1,0 +1,27 @@
+---
+id: pl.058.3229
+sigla: pl.58.dedication-letter
+title: "Dedication Letter"
+work: "Dedication Letter"
+creator: "Joseph Bertinelli"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 58"
+columns: "58"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.58.colN}"
+---
+
+# Dedication Letter
+
+**Author**: Joseph Bertinelli  
+**Series**: PL 58  
+**Columns**: 58  
+
+[58] {#pl.58.58}
+Epistola dedicatoria
+EPISTOLA DEDICATORIA.
+Josephus Bertinelli Joanni archiepiscopo Minotto Othobono, episcopo Patavino.
+Parum ego prudenter, ne dicam temere fecisse videar rerum quibusdam non satis justis aestimatoribus, qui tibi, amplissime antistes, viro omnium humanissimo ponam ante oculos et persecutorum humanitatem omnem exuentium crudele spectaculum, et immanissimae persecutionis imaginem. Refugit enim animus non modo intueri, sed etiam reformidat dicere quaecunque exhibet Historia nostra, sanctissimorum nempe omnis aetatis ac status hominum carnificinam, dolores, vulnera, equuleos, mortes ac mortium genera intolerabilia; reformidat dicere barbarorum ubique saevientium crudelitatem, episcoporum, sacerdotum, aliorumque infinitum numerum ita pro nomine Jesu constanter firmiterque patientium, ut tortor ipse prius ac tormenta viderentur defessa, quam qui ea passi sunt, licet eo usque cruciati fuerint, ut quo minus haberent virium ad perferendum, eo vim magis tormentorum et cruciatuum acerbitatem sentirent. Verum hujusmodi athletas Christi, tales ac tantos religionis nostrae auctores et magistros, liceat tibi pontificali auctoritate gravissimo si non oculis aspicere, animo certe et cogitatione complecti; liceatque mihi dignitatis ac virtutis tuae praeconium facere meditanti, quorum nomina sunt scripta in coelis, eorum memoriam annalium monumentis commendatam nomini tuo consecrare. Quos igitur non vidisti, vides tamen qui et quales postulent patrocinium tuum; vides quam dignum sit generoso principe porrigere afflictis dexteram, atque opis indigentibus opitulari; quam dignum optimo episcopo episcopos sibi similes, sacerdotes ministrosque sacros pro Christi fide perpessos, benigne suscipere; quam dignum denique humano pectore miserabilium misereri hominum, laborantibus succurrere, et praesidium petentibus nihil negare. Haec cum videas non ego caedes, non verbera, non secures, non vincula, non reliqua suppliciorum genera propono oculis; sed quae mutuae caritatis ac benevolentiae exempla nobis passim occurrunt in hac Historia; atque eo propono libentius, non tam quod omnia te digna sint, quam quod majorem eorum partem moribus tuis exprimere videare. Utinam vero is ego essem, ut, tu qui sis et quantus semper fueris, cum satis videam admirerque maxime, satis etiam quae tua sunt non modo dicere, sed dignis celebrare laudibus dicendo possem! Sed cum persequi omnia non queam (quis enim omnia persequatur ejus qui non honoris nomen, sed honorem adeptus sit?), patere aequo animo, me bene multa praeterire consulto, quae in medio posita et cernunt omnes et mirifice laudant. Dicant alii nobilitatem generis, vetustatem familiae, patriae inclytae et parentum decora, cognationes, majorum nomina, quaeque ab iis praeclarissime gesta sunt; ea tu quamvis tuorum sint atque magna, respuis tamen tanquam aliena, neque quidquam tuum putas nisi quod virtus fecit tuum. Dicant alii, te Alexandro VIII pontifici maximo nepotem esse, te Petro Othobono cardinali amplissimo consobrinum, te a Benedicto XIII pontifice optimo designatum episcopum; magna quidem ista sunt, singularia prope, atque adeo tua; sed non ea sunt quae dici a nemine satis possint. Dicat quaecunque facis Patavina celeberrima civitas, bonarum artium sedes ac magistra, cui praees, dicat seminarium istud litterarum tuum juventuti instituendae aptissimum, quod tu splendori pristino restituendum suscepisti; majora equidem ista censemus, et majoribus etiam digna laudibus; at nos nec quodcunque in te laudabile est proponere nobis volumus, nec aliis demonstrare nisi quidquid est maximum. Maximas autem esse ducimus easdemque admirabiles virtutes animi, quae solae tuae sunt, quae tibi cum aliis non communes, quaeque licet commendari ab omnibus nequeant, sunt tamen omnium commendatione dignissimae. Ac primo quidem sese offert in Deum pietas ac religio ista tam Deo cara, tamque episcopi propria, tum excelsa indoles, suavitas morum et integritas, in omnes benignitas, atque naturae tuae accommodata caritas et beneficentia, tum prae caeteris, quae maximae singulae, et laudandae sunt, summa illa modestia, qua et praestas aliis, et te laudari non sinis. Ad nos igitur quod attinet, qui nimium timidi quam prudentes parum videri malumus, ne alicujus gratiam assentatiuncula quadam aucupari dicamur, summae omnium virtuti tuae morem gerimus, atque universo laudationis genere supersedemus. Qui tamen non patimur testimonium aliquod observantiae nostrae publicum desiderari, Historiam hanc, mole quidem parvam, re autem ipsa magnam, teque dignam offerimus amplitudini tuae, rogamusque ut qualecunque sit munusculum probes nostrum, neque despicias condonantis animum, qui cui multum debeat, et multum dare non possit, satis esse autumat, si ei plurimum debere velit. Tu interim, antistes optime, et virtute magis ac meritis quam dignitate ac laudibus clare, qui divino videris munere donatus Ecclesiae tuae, de ea perge, ut facis, laboribus ac vigiliis bene mereri, gregum tuorum innumerabilium incolumitati consulere, et perpetua clementiae tuae relinquere monumenta ad Christi Redemptoris aeternam laudem

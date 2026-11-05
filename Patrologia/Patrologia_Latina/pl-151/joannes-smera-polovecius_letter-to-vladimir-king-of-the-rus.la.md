@@ -1,0 +1,42 @@
+---
+id: pl.151.6169
+sigla: pl.151.letter-to-vladimir-king-of-the-rus
+title: "Letter to Vladimir, King of the Rus"
+work: "Letter to Vladimir, King of the Rus"
+creator: "Joannes Smera Polovecius"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 151"
+columns: "151"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.151.colN}"
+---
+
+# Letter to Vladimir, King of the Rus
+
+**Author**: Joannes Smera Polovecius  
+**Series**: PL 151  
+**Columns**: 151  
+
+[151] {#pl.151.151}
+Epistola ad Wladimirum regem Russorum
+SMERAE POLOVECII EPISTOLA AD WLADIMIRUM RUSSORUM REGEM(SANDIUS, Append. ad Historiam ecclesiasticam, p. 61.)
+
+### APOGRAPHUM EPISTOLAE
+APOGRAPHUM EPISTOLAE
+Quam scripsit explorator seu nuntius Wladimiri, supremi Russorum principis, Alexandria Aegyptiaca, circa annum 990, tempore quo Russia nondum baptismum suscepisset; quae translata est ex scriptis antiquae doctrinae Russorum, per Andream Kolodynsky a Witepsko, in hodiernum scriptum, e lingua Bulgarica, e tabulis aereis inventis in monasterio Salvatoris, terrae Praemissiensis, non procul a veteri Sambore, ubi celebris dux Leo situs est, anno 1567. Postea vero idem Andreas transtulit eam e Bulgarico scripto in Polonicam linguam. Dictam epistolam ex ms. codice Polonico I Ryniovicii Trembecii a se verbotenus latine redditam meam communicavit Benedictus Wissowatius, filius Andreae Wissowatii, ut sequitur:
+Potentissime rex Wladimire, inclyte heros, domine mi chare, haereditarie dominator regionum Slavonicarum, post aedificationem turris propagatarum e generatione Japhet, Deus vivus omnipotens et solus sapiens regat te sicut ipse scit, in potentia et potestate, ad multos annos.
+
+
+[1406C] {#pl.151.1406c}
+Hodie scias a me, rex, fletus mihi semper oboritur cum suspirio, quod me ablegaveris in regiones Graecas, a communione charitatis tuae et terrarum Russicarum, propter explorationem religionis ac morum: quas ob res hic saepenumero parum abfuit quin perirem: nullusque mihi nunc hinc in terram tuam patet introitus. Qua de re magnificentia tua sic intelligat. Transivi deserta per cacumina cum molestia, Pannoniam itidem transivi, et Danubium trajeci cum magna aerumna. Postea Serbiam, Bulgariam, Mysiam, et magnum celebre imperium Graecorum, cum quinque regnis ejus, fuique Antiochiae, postea Hierosolymae. Hierosolyma autem veni huc Alexandriam. Hic vero vidi ubique synagogas sumptuose fabricatas, in quibus homines morum aspidum et basiliscorum. Praeterea vero vidi etiam non paucos Christianorum conventus, apud quos jam nulla idola sunt, tantum mensa et scamna. Hi autem homines sunt theologi (in Polonico est Bogomowey, i. e. de Deo loquentes ) honesti, super omnia diligentes pacem, plane velut angeli Dei. Conveniunt autem ad doctrinas quotidie ex mandato Dei, et ad preces antelucano tempore, rursus vero post occasum solis, aliquando autem tertia et nona hora diei. Hos autem hic homines ubique nominant sanctum Dei novum Israeliticum populum, seu Israelem. Sequuntur autem hic hanc doctrinam et reges aliqui cum suis doctoribus, et ego ipse semper eos doctrinae causa accedo. Et jam sum apud eos regenitus aqua et Spiritu, in nomine Patris Dei omnipotentis, et Filii ejus Christi, et sancti Spiritus, ex eodem Deo procedentis; qua de re librum eorum cognominatum Evangelia, cum doctrinis apostolorum, tibi, rex, mitto, ut percipias. Sed de hoc etiam sciat vestra potestas: vidi in Caesaris ditione, quod illis probis, piis hominibus, injuria magna fiat; quoniam Graeci existentes sermone callidi, et arrogantes, ex mendacio possunt facere rem justam, imitantes in hoc quasdam doctrinas, et instituta Romana, attrahentes sua astutia homines simplices ad suas synagogas et ecclesias . . . . ( hic deest vocula, quae in Polonico exemplari legi nequit ), ipsi dicunt esse Deum unicum, omnipotentem; Filium autem Dei unigenitum Jesum Nazarenum, ejusdem Spiritu sancto post quaedam tempora, e Davidis generatione, secundum antiqua ejus promissa, in casta Virgine Maria conceptum et natum, cujus solium durabit usque in aeternum, quoniam est jure vocatus Filius Dei, et Servator, Deus fortis, Pater futuri saeculi; praeterea vero ut rex et judex a Deo Israelis est toti mundo manifestatus, sicut hoc mihi a magistro, dudum pro certo notum est. Ecce autem Graeci deserentes Dei omnipotentis praeceptum, et propriam suam explicationem, Caesar ac patriarchae cum caetero suo senatu nominari se etiam novum Israelem mandant; jubent etiam illos fratres suos pauperes, ipsi existentes vividi, invitos sibi servire, et censum dare. Praeterea vero prohibent illis uxores ducere, victuque secundum voluntatem suam cum benedictione frui; sic etiam et artes liberales, et arma, quia est firmatus, quod apud Christianos posset servari honeste, etiamsi absque necessitate urgente, caventes sibi ab invidia, et interna exacerbatione. Illi autem hoc in sua potestate retinent, ideo ut in isto interdicto habeant magnum populum in servitute sua. Denique post mortem suam jubent imagines suas adorari, et imponunt nominum suorum denominationes cum signo domuum, ut in aeternum sint memorabiles et celebres; in illas autem praedictas domos jubent eos ad preces ire cum thure ac candelis, et cum omnigena esculentis sacrificiis, nominantes hoc seu vocantes bonam reverentiam; quod eis in dies electos fundantes, in perpetuum privilegio muniverunt. Verumtamen scio quod ultima generatio ab hoc omni magnopere liberabitur, cum animadvertent quod in illis coactis ecclesiis, praeter voluntatem Dei omnipotentis, valde voracitate inquinentur. Quoniam post adorationem idolorum supplaudunt pedibus, plaudunt manibus, efferentes voces suas ad cantum, sicut musica varia; gerentes se absque pudore, quod non licet dicere nec scribere. In illis autem diebus quosdam donant, sicut dignum est, gratia; alios vero post haec festa puniunt velut legem transgredientes. Propterea quidam Christiani in secessu, in sepulcris, et inter montes atque in silvis et hiatibus terrae convenientes, ob servitutem iniquitatis, vaticinantur, dicentes: Peribunt arrogantes Graeci ipsi in igne aeterno. Denique et hi, qui ab eis morum ansam habent, etiam sunt inhonesti, infames, mendaces, abominandi. Dictum autem est mihi, rex domine mi, te tuamque generationem talem fore, et dicunt de talibus hominibus praesentibus hodie, quod oculi eorum et corda sint obcaecata. Ideo ultima generatio eorum judicabit eos, vocans eos canes, fabularum fictores, a Deo deficientes et aberrantes a veritate; attamen et illi judicantes ipsi multum exitii haud evadent, propter foedam discordiam, et iniquitatem suae superbiae. Quidam vero humilis cordis, ab omnipotente Deo, propter Filium ejus, opera Spiritus sancti, omnia scripta legis investigabunt sibi in salutem. Sed via eorum angusta erit eis: et scrutabar hoc perlustrata doctrina aspiciens ab initio mundi, num erit bene talibus et validis, sapientium dictorum hominibus Graecis opulentis, cum aliis generationibus hominum, morum eorum, et intellexi quod brevi tempore videbunt omnigenam ignominiam, interitum suum. Idola autem eorum externis linguis in proverbium ibunt, quoniam non consistent adversus iram Dei vivi, cum sint surda et muta. Praeterea vero dicebant aliqui Christianorum et Judaicae gentis, quod et ipse cum eis ex quibusdam scriptis intellexi, quod ultima generatio Slavonica uniet se cum magno zelo, applicabunt se ad laudandum et profitendum unicum Deum Israelis, Creatorem visibilium et invisibilium rerum, qui liberavit populum suum credentem a peccatis eorum, obedientia Filii, opera Spiritus ejus sancti. Cum quibus et ultima gens Judaica agnoscentes cum aliis linguis doctrinam Christi sui unigeniti ejus, laudantes et benedicentes salutem adipiscuntur, quoniam voluntati Dei sui obedient. Illo autem tempore possibile erit talibus accipere omnem honorem et potentiam omnigenam, per doctrinam et modum prout in antiquiori scriptura exstat. Ideoque, o rex, non licet tibi suscipere mores et religionem Graecam; sin vero eam susceperis, ego ad te nunquam proficiscar, sed hic obdormiens judicium Filii Dei exspectabo. Haec scripsi ferreis litteris, excudens in XII tabulis aereis, Alexandriae Aegyptiacae 5587, Pharaon 1179, Alexandri celebris regni ejus anno V, indict. I, luna VII, Idib. XIV. Hoc tibi fideliter significo medicus et rhetor tuus.
+
+
+[1410A] {#pl.151.1410a}
+IWANIEC SMERA POLOWLANIN 1 .
+
+
+[151] {#pl.151.151}
+Alii habent, Joannes Smera [POLOWIEC,] quod idem est.

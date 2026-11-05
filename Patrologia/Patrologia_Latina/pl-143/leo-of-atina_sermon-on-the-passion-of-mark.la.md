@@ -1,0 +1,26 @@
+---
+id: pl.143.6343
+sigla: pl.143.sermon-on-the-passion-of-mark
+title: "Sermon on the Passion of Mark"
+work: "Sermon on the Passion of Mark"
+creator: "Leo of Atina"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 143"
+columns: "143"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.143.colN}"
+---
+
+# Sermon on the Passion of Mark
+
+**Author**: Leo of Atina  
+**Series**: PL 143  
+**Columns**: 143  
+
+[143] {#pl.143.143}
+Sermo de passione Marci
+DOMNI LEONIS SERMO DE PASSIONE BEATI MARCI.(UGHELLI, ubi supra, col. 433.)
+Ad matris Ecclesiae gremium, fratres charissimi, harmoniae tympanum per totum orbem plebs fidelium sumens, laudesque Regi magnifico super beatissimi Marci pontificis passionem canens recurrat. Hodie namque Marcus praesul sanctissimus, apostoli Petri discipulus coronatus ante Dominum pervenit; hodie laureatus coelestibus infulis redimitus ante cum assistit, hodie, inquam, audire meruit: « Euge, bone serve et fidelis, quia in modico fuisti fidelis, eris potestatem habens supra multa; hodie pro Christo duobus clavis in capite est affixus; hodie bravium victoriae perennis accepit; hodie sub coelesti est ara locatus; hodie, cum his qui pro Christo passi sunt, canticum novum Deo decantans exsultat; hodie corpus suum urbi Atinae tumulandum reliquit; hodie per totam Campaniam catholicam illustrat Ecclesiam. Adeo enim supereminens ejus excellentissima exstitit gloria, ut sua quidem passione non solum Atinensem Ecclesiam, verum etiam totam illustraret Campaniam; clarificavit nempe hic beatissimus martyr et pontifex Marcus sua passione Jesum Christum Dominum nostrum, cum pro ejus nomine clavis est in capite binis confixus; sua itaque passione et praesulatus officii dignitate illustravit Ecclesiam, cum, sicut a beato apostolo Petro ei fuerat traditum, alios verbis, alios corporis sui supplicio, alios miraculorum signis ad veri Dei culturam accendit; nam quis in sanctae matris Ecclesiae gremio consistens clavos in capite non libenter pro Christo cum Marco susciperet, ut a Christo Domino in perpetuum cum eo remunerari valeret? De hoc siquidem et aliis martyribus David propheta praedixerat: Ure renes meos et cor meum. » Hujus itaque excellentissimi martyris fide Ecclesia Christi per orbem diffusa incitatur ad martyrii metam, provocatur ad praedicationem, instruitur ad pugnam. Incalescant ergo hodie fidelium mentes, et de tanto Ecclesiae ariete congaudentes, odas Christo promant, melleaque famina laudis. Nam quis super tam immanissimam passionem non obstupescat? quis non admiretur tortoris saevam crudelitatem? Apprehenditur praedicator Trinitatis sanctissimus, et praesul magnificus catenis ferreis coarctatur, carceri mancipatur, suppliciis afficitur, proscribitur, damnatur, ad postremum clavis acutissimis in capite confoditur. Videte, fratres, videte Marci mysterium, videte tantam longanimitatem, videte tantam patientiam. Animadvertite quo calore urebatur, qui, dum intrepidus persecutoribus verbum vitae annuntiat, acutos in capite suo pro Christi nomine suscipere clavos non formidavit. Urebatur martyr sanctissimus desiderio vitae aeternae, et idcirco libenter sustinuit acumina saeva clavorum. Hinc Paulus ait: Vivus est sermo Dei, et efficax, et penetrabilior omni gladio ancipiti, pertingens etiam usque ad divisiones animae ac spiritus, compagum quoque, et medullarum et discretor cogitationum Dei (Hebr. IV, 12) . Clavorum igitur beatissimus Marcus afficiebatur supplicio, sed validius sancti Spiritus urebatur ardore; sed dum martyris mens in fidei amore succenditur, hinc amplius tortor nefandus ad ejus necem cum saevis lanistis urgetur. Clamat celerius, clamat instantius: « o mali milites, effeminatum qui animum fertis cum sceleratissimo Marco parcitis! » Atinensis civitas in Christi laude resultat; praeparentur nova supplicia, gladius acuatur, neci Christianorum praesul et doctor tradatur, corpusque ejus lupis et canibus devorandum relinquatur. O sententia saeva tortoris! Heu, heu! phalanx iniqua, cur frustra in Christi martyrem saevis? Adest, adest, inquam, cuncti potentia celsa Tonantis; aderit clementia magnifica Dei de tuis qui manibus liberet beatissimum Marcum. Caput ejus perforatur, sed firmissima constantia pectoris ejus a charitate non recedebat Omnipotentis. Corpus supplicia patitur, sed salutem vitae aeternae acquirit. O felix constantia! o spes inenarrabilis, quae, dum clavorum non timuit sustinere cruciatus, ante omnipotentis Dei clementiam meruit pervenire laureatus! Laureatus, inquam, ante Dominum beatus Marcus advenit, et mox inter sanctorum catervas a Domino est Jesu Christo locatus. Hic est martyr beatissimus, hic est praesul dignissimus, hic est principis apostolorum discipulus, hic est Jesu Christi Domini nostri praedicator testique magnificus. Sed quoniam ipsius hodie veneranda natalitia celebramus, eum, tanquam patronum nostrum, flagitemus obnixius quatenus pro nobis assidue intercedat ad Dominum; decens siquidem est ut quem praedicatorem et doctorem veritatis habuimus in terris, adjutorem pariter habere mereamur in coelis, quod Christus Jesus Rex regum omnium concedat aeternus, qui vivit et regnat cum Patre et Spiritu sancto per omnia saecula saeculorum. Amen.

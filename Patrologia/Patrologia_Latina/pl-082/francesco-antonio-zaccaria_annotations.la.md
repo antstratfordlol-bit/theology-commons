@@ -1,0 +1,38 @@
+---
+id: pl.082.8935
+sigla: pl.82.annotations
+title: "Annotations"
+work: "Annotations"
+creator: "Francesco Antonio Zaccaria"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 82"
+columns: "82–0855A"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.82.colN}"
+---
+
+# Annotations
+
+**Author**: Francesco Antonio Zaccaria  
+**Series**: PL 82  
+**Columns**: 82–0855A  
+
+[82] {#pl.82.82}
+Annotationes
+FR. ANT. ZACCARIAE ANNOTATIONES Ad cap. IV, V et VI libri VIII Etymologiarum.
+CAP. IV. Num. 4, libros Moysi. Cod. Luc., quam lectionem videtur Honorius Augustodunensis suis in Codicibus invenisse. Num. 5. Vetus Editio Rhabani; item Veneta Isidori Editio an. 1483, et Parisiensis Bignaei, quibus accedit Luc. Cod., Efnei dicunt. Num. 6, Masbothaei. Perperam Marbonei in Ven. et Paris. nuper citatis Editionibus, nec rectius Marbonei in vet. Edit. Rhab. et Luc. Cod. Num. 7, Genistae. Ita vet. Edit. Rhab., et Ms. Cod. Antonii Vionis Herovallii, aliaque Mss. regiae Parisiensis bibliothecae exempla apud Cotelerium, tom. I Monum. Eccl. Gr., col. 761. Genistaei Parisiensis Editio Isidori, cui etiam Matritensis consentit. Num. 8, Meristae. Cod. Rom. a Grialio indicatus, Luc. et Coteleriani, ad quos accedit vet. Edit. Rhab., ubi Meristaei habent Bignaeana et Matritensis Isidori Editiones. Ibid. Totum hoc comma a Rhabano omittitur, μέρος enim, etc. Ibid., separatio. Cod. Luc., pro pars. Num. 9, Custodiant. Edit. Ven. an. 1483.
+
+
+[0853B] {#pl.82.0853b}
+CAP. V. Num. 1, suorum auctorum. Luc. et Pistor. Codd. Num. 2, voluisset. Addit Luc. Cod. Hic in tempore Neronis fuit, et in anno 23 post crucem Christi mortuus est; forte scribendum fuerat 33. Certe Simon an. 65 interiit. Num. 3, mago.--Magno perperam in Bignaei Editione. Omittitur id nominis in Cod. Pistor. Num. 4, vocati. Cod. Pist., pro appellati. Ibid., sunt qui. Cod. Luc. Ibid., abnegat. Cod. Luc. et Pistor. Num. 5, sancto Stephano. Cod. Malatestius. Ibid., a Petro Diaconus. Cod. Luc. Ibid., habes bonum. Cod. Pistor. Ibid., quod odisti. Codices Luc. et Pistor. Num. 6, qui animam. Cod. Luc. Ibid, et bonum. Cod. Pistor. Ibid., Deum creasse. Cod. Malatestius, qui aliam propterea omnino sententiam Basilidianorum dogmati tribuit. Ibid., fingunt dogmatibus. Cod. Luc. Num. 8. Ex Gratiano, Millenarii Editio Matrit. At Milliastae, ut in Bignaeana, scripsisse Isidorum cum Cotelerio tom. I Mon, Eccl. Gr., col. 765, nullus dubito. Nam et Milliastae habet Rhabanus, lib. II de Instit. cleric., et Codices plures errorem exhibent, qui nonnisi Milliastae exscripto nomine emendari possit. Sic Milliasti, Cod. Herovallianus ab eodem Cotelerio indicatus; Militiasti, Pistor.; Miliciastae, Luc., Malatest. et Ven. Editio an. 1483. Num. 10, virtutem cognitionis. Pistor. Cod. Num. 12. Ego assentiri viris doctissimis (Chaconi et Grialio) haud possum. Nam non solum quos ego consului, Codices Malatest., Luc., Pistor., aliique, sed ii etiam quos sub oculos habuere Rhabanus et Honorius Augustodunensis, non aliter hunc locum exhibent. Itaque de loci integritate non est cur dubitemus. Apellis potius mentem haud recte assecutum Isidorum dicamus. Num. 13, archonton legebat Chacon. Nil immutandum, repugnantibus Codicibus Rhabani, Honorii et nostris.
+
+
+[0853D] {#pl.82.0853d}
+Num. 14, qui. Pistor. Cod., alii quod. Ibid., imitantur. Cod. Pistor., et Luc. Num. 15. Cajani dicuntur in Luc. Cod. Num. 21, creationis. Recte, ubi Ven. et Bign. Editio, et Codd. Luc., Pistor., et Malatestius, creatoris: hujus tamen margini antiqua manu genuina lectio, quam ex Matritensi Editione reddidimus, ascripta est. Num. 25. Una Bignaei Editio: abominantur carnes. Num. 27, provincia Phrygia. Ita praeter Matritensem Editionem Codex Luc., Pistor., Herovallianus, et Regii tres a Cotelerio indicati, tom. I Mon. Eccl. Gr. p. 773, ubi provinciae Cataphrygiae, Ven. et Bign. Editio; Malatestius autem Cod., provinciae a Frigia, unde et hoc facile ad germanam lectionem traduci possit. Ibid., Priscilla, Cod. Luc.; alii, Prisca. Ibid., Dei, et Spiritus sancti, Cod. Pistor.; sancti Spiritus Ven. Editio. Num. 31, recipiunt. Addit hic Bignaeana Editio: Anomiani, id est Latine sine lege dicuntur, quod Honorius quoque Augustodunensis suis in Codicibus legit. Num. 33: Heraclitaes, Ven. et Bign. Edit., Codd. Luc., Pistor., et Malatestius, qui etiam, pro hierarcha, Heraclio exhibent. Num. 34. Una Bignaei Editio, cathedram pontificalem, quemadmodum paulo post, apostatas recipere. Num. 36, Christum enim. Haec usque compellati sunt omittuntur in Codice Pistoriensi. In Malatestio autem desunt ea, pro paupertate intelligentiae compellati sunt. Num. 40, e coelis, Cod. Pistor. Ibid., mundum. Ita Ven. et Matrit. Editio cum Cod. Luc. et Pistor.; Bignaeus, mundum factum fuisse. Num. 53, Contopitas, in Corbeiensi Codice Maurini legerunt, ut monent ad Augustini epistolam 53. Campitas, non Cotopitas, Fabricius, in Philastr., aliique malunt. Vide etiam quae ad Hieronymi indiculum diximus. Num. 61, celebrandum. Cod. Malatest.; alii, observandum. Num. 64, a Nestorio. In locum sancti Sisinni suffecto an. 428, quemadmodum statuit Cuperus, in Historia Chronologica Patriarch. Politanorum, quem vide. Auctores cum antiquos, tum recentiores, quid de Nestorio ejusque haeresi disseruerunt, recenset Fabricius, Biblioth. Gr. tom. IX, pag. 236 seqq. Adde Doucini nostri Gallicam historiam Nestorianismi 1698; Joannis Sartorii dissertationes duas de Nestorio haeresiarcha; Pauli Ernesti Jablonski exercitationem historicotheologicam de Nestorianismo, et illa inprimis Nestorianorum phrasi, qua humanam Christi naturam templum Divinitatis vocare solebant; et Josephi Sim. Assemani dissertationem de Syris Nestorianis, tom. III Biblioth. Orient., p. 2. Num. 65, ab Eutyche. De quo confer Liberati Diaconi Breviarium, auctoresque alios, a Fabricio indicatos t. VIII Bibl. Gr., p. 350. Num. 66. Cur huc capitula Chalcedocensia appellet, cum sint in quinta synodo tractata, cur itém eorumdem capitulorum divum Isidorum aut debeat, aut non debeat defensor videri, vide annot. Segobricen. antistitis ad cap. 4 lib. de Viris Illustribus. Num. 67, ordinati episcopi. Vide Sollerium in patriarch. Alexandr. Histor., n. 340 seqq. Ibid., Dicunt naturam, Cod. Pistor. Ibid., Contendunt. Haec tamen haeresis pridem sub Timotheo III Alexandriae episcopo eruperat, Severo monacho, cui Timotheus ipse favebat, corruptibile, incorruptibile Christi corpus docente Juliano Halicarnasseo. Vide Liberati Breviarium cap. 19; Sollerium, l. c., num. 337; et Petavium, de Incarnat., lib. I, cap. 16, num. 30 seq. Num. 68. De Agnoitis adi Petavium.
+
+
+[0855A] {#pl.82.0855a}
+CAP. VI. Num. 8, Pisianactian. Ita veteres libri. Pisianaction impressi; et quidem utroque modo constat eam porticum appellatam. Vide Laertium in Zenone, et Plutarchum in Cimone. Num. 10, continentiae, quam esse negant. Haec addidi in indiculo Hieronymi, et Cotolerio, tom. I Mon. Eccl. Gr., col. 719, nam et ipsa orationis series ea postulat; nam quemadmodum id in Stoicis omnino ridiculum, quod affectarent gloriam aeternam, cum se faterentur non esse aeternos, ita in illis hoc erat summopere absurdum, quod amare se virtutem continentiae prae se ferrent, cum eam esse negarent. Num. 15. Non desunt qui Epicurum omnino tam infami criminatione absolvant, Guaseus vir doctus aliique. Num. 17, Gymnasium. Idem inf., lib. XVIII, cap. 17. Num. 19, ut Pythagoras. Cicero. lib. de Natura deorum. Ibid., ut Maro. Ita Matrit. Editio, et Bignaeana, quibus consentiunt Codices duo Malatestii et Luc.; Veneta tamen Editio an. 1483 aliique libri Varro habent. Num. 23. Haec fuse diligenterque tractata habes a Massuetio, diss. 1 in Irenaei libros. Vide etiam abbatis Longuerue de origine haeresum disputationem.

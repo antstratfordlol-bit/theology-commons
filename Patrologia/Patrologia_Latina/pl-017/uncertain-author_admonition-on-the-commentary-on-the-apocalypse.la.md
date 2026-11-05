@@ -1,0 +1,30 @@
+---
+id: pl.017.673
+sigla: pl.17.admonition-on-the-commentary-on-the-apocalypse
+title: "Admonition on the Commentary on the Apocalypse"
+work: "Admonition on the Commentary on the Apocalypse"
+creator: "Uncertain author"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 17"
+columns: "17"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.17.colN}"
+---
+
+# Admonition on the Commentary on the Apocalypse
+
+**Author**: Uncertain author  
+**Series**: PL 17  
+**Columns**: 17  
+
+[17] {#pl.17.17}
+Admonitio
+IN EXPOSITIONEM APOCALYPSIS ADMONITIO.
+Hujus Commentarii exemplar in quo sancti Ambrosii nomen inscriptum erat, nactus e bibliotheca monasterii cujusdam Cuthebertus Tonstallus Dunelmensis episcopus, illud ita publici juris facere constituit, ut simul etiam Doctori nostro ipsum vindicare propria praefatiuncula conaretur. Non tamen dissimulat locum unum in eo reperiri, qui Gregorium Romanum episcopum et verbis et sensu praeferat: sed nihil esse idem respondet, cur Ambrosium in hoc imitari non potuerit sanctus Gregorius. Ex hac Tonstalli editione, quae anno 1548 prodiit Parisiis, haec Commentaria in appendicem suae Ambrosianorum Operum editionis Gillotius admisit: quod similiter a Romanis factitatum est. Dubitari porro minime potest quin hoc ipsum opus e manuscripto valde mutilo vulgatum fuerit, quandoquidem nomina Hilarii, Augustini, Prudentii, Hieronymi, et ipsiusmet Ambrosii, ac demum Gregorii, qui sexties, ut minimum, citatisque nonnumquam ipsius verbis ibi allegatur, praetermissa sunt in editionibus: quae nos non secus ac frequentissimas alias lacunas manuscriptorum optimorum subsidio restituimus (Vide cap. 9, 11, 12, 13, 17, 21 et 22) .
+Verumtamen quantumvis imperfectae fuerint eaedem superiores editiones, idonea tamen argumenta suppeditarunt, unde critici omnes adulterinum fetum Ambrosio suppositum fuisse agnoscerent. Eo inducebant scripti elocutio majestate Ambrosiana multo inferior, ignorantia Graecarum litterarum, denique (Cap. 17) potestatis Longobardorum quasi jam deletae facta mentio. Et sane hoc ultimum sufficiebat, ut sanctum Antistitem demonstraret ejus commentationis auctorem dici haudquaquam posse, quam post annum 774, quo eadem gens, exstincto rege suo Desiderio, sub ditionem Caroli Magni redacta fuit, compositam esse dubium non est. Quid vero si huc addamus istum auctorem de Gregorio pont. max. tamquam inter sanctos et Ecclesiae doctores cum Hieronymo atque aliis jam tunc recepto sermonem habere, atque (Cap. 1, 6 et 20) ex Athanasii symbolo quasi pro regula fidei per universum christianum orbem jam decantari solito frequentia usurpare testimonia, et ad postremum (Cap. 18) archidiaconorum avaritiam quae synodorum Parisiensis, Cabilonensis, et Aquisgranensis nono saeculo celebratarum canonibus coercita est, graviter et cum stomacho insectari.
+Tempus igitur, quo hunc auctorem floruisse necesse est, deprehensum habemus; de nomine ejusdem nunc quaerendum est. Neque vero Usserius Armachanus (De Christ. Eccl. Success. ac statu cap. 1) , ut hallucinatus est in eo, quod illum recentem esse existimavit, ita etiam in hoc erravit, quod affirmavit Berengaudum fuisse appellatum. Etenim hoc ipsum nomen in codicibus omnibus, Gemeticensi tantum excepto, aut in fronte praescriptum legitur; aut saltem in conclusione, quae in editionibus praetermissa est, his verbis indicatur: Quisquis nomen auctoris scire desideras, litteras Expositionum in capitibus VII Visionum primas attende. Numerus quatuor vocalium quae desunt, si Graecas posueris, est LXXXI. Verum quoniam forte obscura et aenigmatica videri possunt haec ipsa verba, eorum expositionem in Regio ac Sagiensi codice ante 600 annos et eadem manu qua ipsemet Commentarius scriptam hic subjicimus.
+Auctor hujus libri Berengaudus appellatur, si diligenter, quomodo inveniendum nomen suum ipse doceat, attendatur. Primae enim litterae Expositionum in capitibus septem Visionum, quas attendere jubet, istae sunt, B. R. N. G. V. D. S. Quatuor autem Graecae vocales, quae his adjungendae sunt, exprimentes numerum LXXXI, istae sunt: E brevis, 5; item E brevis, 5; A, 1; et O, 70. Junge ergo simul numerum, quem singulae vocales istae continent, et habebis sine dubio LXXXI, nisi vero, E, ut praenotatum est, bis assumpseris, in aliis omnino diversis vocalibus numerus iste tibi non occurret. Confer itaque has quatuor vocales superioribus septem consonantibus, et syllabas ex his compone hoc modo Berengaudos. Habes igitur Berengaudos. Sed haec Graeca terminatio est: Latina autem terminatio est Berengaudus. Quod enim apud Graecos in os, apud Latinos terminatur in us, ut Petros Petrus, Paulos Paulus. Quod si ordinem praedictarum vocalium, in inveniendo hoc nomine tenere malueris, et prius ponendo A, caeteras per consonantes ita disponere, ut dicas Barenguedos, non tibi quidem in hoc praescripta vocalium ratio adversatur: sed barbarum nimis, et omnimodo inusitatum hominis nomen inde formatur. Melius ergo est, et multo rectius ut, sicut praescriptum est, Berengaudus, non Barenguedus vocetur, quia hoc usitatum et magis elegans; illud vero et inusitatum et minime elegans hominis nomen videtur.
+Jam vero si quis aveat scire quodnam fuerit auctoris ejusdem institutum ac vitae genus, tametsi nihil omnino exploratum de hoc suppetat, eum tamen monasticam Benedictinae familiae institutionem secutum esse hinc conjicimus, quod de vitiis quae sibi aditum in monasteria tum temporis fecerant (Cap. 9 et 21) tamquam ocularis testis subinde disserat (Cap. 18 et 21) , et locos plures passim inserat e Regula beati Benedicti ad verbum expressos. Quae tamen ratio si non probetur, negari saltem minime poterit viri Ecclesiasticis litteris, ut Regius codex in ipso capite praescriptum habet, optime eruditi hoc Opus esse. Non aliud judicium jam olim de illo tulerat Dionysius Chartusianus, et recenti memoria id ipsum sensit eruditissimus, ac de catholica religione optime meritus dominus Benignus Bossuet Meldensium praesul, cujus suffragio hic non assentiri nefas ducimus.

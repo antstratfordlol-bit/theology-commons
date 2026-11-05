@@ -1,0 +1,38 @@
+---
+id: pl.088.4618
+sigla: pl.88.epistle
+title: "Epistle"
+work: "Epistle"
+creator: "Evantius of Troclara"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 88"
+columns: "88"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.88.colN}"
+---
+
+# Epistle
+
+**Author**: Evantius of Troclara  
+**Series**: PL 88  
+**Columns**: 88  
+
+[88] {#pl.88.88}
+Epistola
+EVANTII ABBATIS EPISTOLA, Contra eos qui sanguinem animalium immundum esse judicant, et carnem mundam esse dicunt.
+Quia se praebuit occasio opportuna, ideo hanc exiguitatis meae paginulam vestris obtutibus perferendam mea curavit destinare miseria; per quam et salutis munia impensius pando, et me sacris vestris orationibus tuendum committo. His 1 explosis, ad agnitionem nostram venit, quod exsurgentes in quibusdam Caesaraugustae partibus reperisse vos adseritis Christianos, nec dum eruditos paginibus sacris, Judaico more sequi litteram occidentem, et postponere spiritum vivificantem: qui dicunt immundum fieri hominem alicujus animalis sanguinem comedentem, nescientes, neque intelligentes praecepta prisca magis mores hominum demonstrare, quam in natura servare. Nam si ista ita sunt, cur aperta fronte cum judaeis et alia quae vetita sunt praecepta priscae legis carnaliter non teneant, nescio. Qui carnes suillas vel cuniculinas non abjiciunt, qui piscium carnes pinnulis carentium non reprobant, qui vetera sacrificia non immolant, qui uxorem fratris sine filiis morientem ad suscitandum semen ejus non accipiunt, aut ad sacerdotium debiles corpore, aut aliqua macula corporis 2 laborantem, qui tamen animo digni videntur accedere, non repudiant, qui paxillos in balteis non gestant, ut egesta humo operiant; cur avem cum pullis inventam, si possunt, tenent, et non, sicut praeceptum est, tenentes pullos, matrem sinunt abire? Cur etiam otium Sabbati cum Judaeis non sectant, et novam gratiam Evangelii absterso rubore Christianitatis non abjiciunt? Nam in Christi nomine frontis et fidei Christianae affecti, et sanguinem comedendum Christianos aperte docemus, et a sanguinis opera declinare omnes hortamur. Carnes suillas edere concedimus, et a volutabro vitiorum recedere omnibus modis optamus. Pisces pinnulis carentes manducare permittimus; et tamen ad coelestia quasi alas habentes convolare fideles omnes optamus. 3 Sacerdotibus corpore debilibus, vel maculam corporis habentibus liber Pastoralis S. Gregorii legatur, quia nobis longum est plurima enodare. Paxillo egesta humo operire est, cum mala perpetrata bonis operibus insudando foetores carnalium voluptatum opprimimus, de quibus scriptum est: Beati quorum remissae sunt iniquitates, et quorum tecta sunt peccata (Psal. XXXI, 1) . Matrem cum pullis inventam abire sinimus, et pullos tenemus, cum testimonia ex lege excerpta ad refutandos Judaeos atque haereticos tenemus, et legi carnaliter non servimus. Otium Sabbati negligimus, quia propter illam futuram requiem, quam istud Sabbatum figurat, ut ad illam perveniamus, legem Domini spiritaliter intelligendo decertamus. Quod si forte objiciunt, ista in canonibus haberi; nec ego me ista fateor ignorare; sed in antiquis canonibus ista reperiuntur, quando Ecclesia ex circumcisione et praeputio ad fidem congregabatur; quando adhuc non solido cibo, sed lacte nutriebatur. Tale quid ad Corinthios apostolos dixisse noverint, et in Actibus Apostolorum facta invenient. Nunc vero Ecclesia Dei solido cibo fide roborata consistit, ut viriliter contra impetus haereticorum pugnet, non in infantium mollitie enervata succumbat.
+
+
+[0720C] {#pl.88.0720c}
+Ne tamen epistolaris consuetudo in longinquas periodos pertracta lectoribus lepidis fastidium nutriat; veniant ad illud, quod Apostolus ait: Omnia munda mundis. Coinquinatis autem et infidelibus nihil est mundum (Tit. I, 15) . Et in alio loco idem apostolus ait: Omnis creatura Dei bona, et nihil rejiciendum quod cum gratiarum actione percipitur (I. Tim. IV, 4) . Et Salvator in Evangelio ait: Nihil est introiens in hominem, quod possit coinquinare eum; quia omne, quod in os intrat, in ventrem vadit, et in secessum emittitur, nec haec coinquinant hominem, sed quae de corde procedunt: de corde enim procedunt adulteria, homicidia et his similia (Matth. XV, 17-19) . Nam quod Apostoli primitivae Ecclesiae a fornicatione, et a suffocato, et a sanguine abstinere praeceperunt (Act. XV, 19) , haec exstitit causa: tunc ex circumcisione, et gentibus credentes congregabantur, ne propter discretionem ciborum a se invicem scinderentur: ideo lacte nutriebantur, non solido cibo. Quibus et postea scribebat, dicens: Non potui loqui vobis quasi spiritalibus, sed quasi carnalibus, tanquam parvulis in Christo: lac vobis potum dedi, non escam: nondum enim poteratis; sed nec adhuc quidem potestis, adhuc enim estis carnales (I Cor. III, 1, 2) . Nam si ubicunque sanguinem legunt prohibitum et hoc ad litteram intelligunt et nihil spiritaliter hoc dictum putant, quid est quod propheta dicit: Speculatorem dedi te domui Israel. Si non annuntiaveris impio, ut se custodiat ab iniquitate sua, ipse impius in iniquitate sua morietur: sanguinem autem ejus de manu tua requiram (Ezech. III, 17, 18) ? Quis est iste sanguis, nisi opera sanguinis? Quid est in psalmo, ubi dicit: Libera me de viris sanguinum (Psal. LVIII, 3) , nisi ab operibus iniquitatis? Et quid est, quod alius propheta dicit: Sanguis sanguinem tetigit: propter hoc lugebit terra, et infirmabitur omnis qui habitat in ea (Osee IV, 2, 3) .
+
+
+[0721B] {#pl.88.0721b}
+Quod tria ista praecepta ex libro Actuum Apostolorum tenere gloriantur, id est, abstinere a suffocato, et sanguine, vel fornicatione; confiteantur, si primum et secundum cum tertio implent, id est, si non fornicantur, si aucupum ministeriis non utuntur, si audiunt Apostolum dicentem: Qui habent uxores, tanquam non habentes sint: si obediunt praecepto ejus, ubi ait, Bonum est non manducare carnem, et non bibere vinum: si consentiunt, quod eis praecipit, Imitatores mei estote, sicut et ego Christi: si faciunt quod idem apostolus dicit: Castigo corpus méum, et in servitutem redigo, ne forte aliis praedicans, ipse reprobus inveniar: si faciunt quod intonat: Exhibete vos sicut Dei ministros, in multa patientia, in castitate, in vigiliis, in jejuniis, et his similia, unde peccatum non incurrant, sed cum gratiarum actione, quae Deus bona creavit, sumerent. Quasi enim apostolis obedientes a duobus abstinent, a suffocato, et sanguine, et tertium praeceptum quod gravius peccatum est, dissimulantes abjiciunt, et negligunt 4 coelestia jussa, et caeremonias enormiter perhorrescunt. Talibus Salvator in Evangelio dicit: Vae vobis hypocritae, qui decimatis mentam, et anetum, et cyminum; et ea, quae legis sunt graviora omittitis (Matth. XXIII, 23) . Quid multa? Legant libros Doctorum, et maxime sancti Augustini contra Faustum Manichaeum, in quo ista, quae isti evacuant, et faciebant et dicebant, et secum illos victos erubescant. Nam et librum sancti Hieronymi contra Donatianum legant, et salutem suam ibi reperient. Nam ridiculum est carnes mundas, quas Deus creavit, usque ad nauseam devorare, et sanguinem illarum carnium, quasi immundum respuere: quasi Deus carnem creaverit mundam, et sanguinem carnium, qui utique nutrimentum et salus carnis est, fecerit immundum. Alia scribere debui, sed cui modica utilia non sufficiunt, nec plurima proderunt. Absit a fidelium cordibus, ut ista carnaliter intelligentes, a sinu matris Ecclesiae discedant, et se cum taliter credentibus gehennae ignibus tradant.
+
+
+[88] {#pl.88.88}
+Forte expletis. Ms., portantem. Ms., sacerdotes c. debiles.--Forte leg. de sacerdotibus corp. debilibus. [EDIT.] Ms., et coelestia jussa agere enerviter perorrescunt.

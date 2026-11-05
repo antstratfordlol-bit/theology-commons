@@ -1,0 +1,33 @@
+---
+id: pl.195.7656
+sigla: pl.195.a-second-notice-on-eckbert-of-schönau
+title: "A second notice on Eckbert of Schönau"
+work: "A second notice on Eckbert of Schönau"
+creator: "Bernhard Pez"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 195"
+columns: "195–0011"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.195.colN}"
+---
+
+# A second notice on Eckbert of Schönau
+
+**Author**: Bernhard Pez  
+**Series**: PL 195  
+**Columns**: 195–0011  
+
+[195] {#pl.195.195}
+Notitia altera
+NOTITIA ALTERA.(R. P. D. Bernardus PEZIUS, Bibliotheca ascetica antiquo-nova, t. VII, Praef., n. 2.)
+Eckeberti nomen apud plerosque scriptorum ecclesiasticorum nomenclatores exstat. Eum insigni elogio celebrat Jo. Trithemius tum in Annalibus Chronico Hirsaugiensi, editionis Sanct.-Gallensis tom. II, pag. 450, tum in libro de scriptoribus eccl. cap. 403, ubi haec ejus verba sunt Eckebertus (in Chron. Hirsang. Egbertus) secundus abbas monasterii Sancti-Florini, Ordinis divi P. Benedicti, Trevirensis dioecesis, natione Teutonicus, vir in divinis Scripturis studiosus et eruditus, et non minus conversatione scientia venerabilis, frater beatae Elisabeth virginis, abbatissae Schonaugiensis fuit. Hic ante Bunnensis (seu Bonnensis) Ecclesiae canonicus fuit a sancta sorore ad Schonaugiam vocatus, primo monachus, ac deinde abbas factus est. Scripsit non contemnendae lectionis Opuscula, quibus nomen suum ad posteritatis notitiam transmisit. E quibus subjecta reperi: Adversum haereses lib. 1. Prophetarum dudum temp. In principium Evangelii Joannis lib. 1. Mysteria divini ser. Super Magnificat lib. 1. Spiritus Domini super te Ma. Super Missus est angelus lib. 1. Sermo evangelicus omni. De obitu sororis suae lib. 1. Virginibus Deo sacratis. Meditationes lib. 1. Verbum mihi est ad te. Sermones per annum lib. 2. Erunt signa, etc., adventus. Laudes Salvatoris lib. 1. Epistolarum ad diversos lib. 1.
+
+
+[0011] {#pl.195.0011}
+Alia quoque nonnulla edidit, quae ad notitiam meam non venerunt. Fuit enim declamator egregius, doctus et eloquens, adeo ut quemdam haereticum, quem nemo concludere poterat, unica disputatione superaret. Claruit in coenobio praefato Sancti Florini, quod Schonaugia dicitur, in dioecesi Trevirensi, sub Frederico imperatore primo, anno Domini 1160 et propter religionem et doctrinam in pretio habebatur. Haec Trithemius de Vita et Scriptis Eckberti, ex quibus Liber adversum haereses, id est, Sermones XIII adversus Catharos, prodiere Coloniae an. 1530, in-8, posteaque inserti sunt tomo XII Bibliothecae Patrum editionis Coloniensis. Liber de obitu sororis suae exstat apud Bollandianos ad diem XVIII Junii, fuitque jam anno 1500, Parisiis ab Henrico Stephano, Roberti patre, una cum Revelationibus S. Elisabethae, ac anno 1628, Coloniae vulgatus, teste Casimiro Oudino tom. II De scriptoribus ecclesiasticis, col. 1549. Qui tamen insigniter fallitur, dum ibidem Eckberto abbati Schonaugiensi Vitam B. Heimeradi presb. et confessoris, a Leibnitio inter scriptores rerum Brunswicensium publicatam attribuit. Neque enim Egbertus, S. Heimeradi biographus, Schonaugiensis unquam abbas aut monachus, sed Hersfeldensis fuit, ut vel ex inscriptione vitae S. Heimeradi perspicuum est. Joannes Mabillonius in recentissima Operum S. Bernardi editione, volum. II, col. 687, Sermonem panegyricum ad B. virginem deiparam, S. Bernardo Claravallensi, sub cujus nomine in recentioribus editionibus comparet, abjudicat, et in Contentis tomi V Eckeberto nostro restituit. Nec plura scio, quae sub Eckeberti abbatis nomine typis hactenus commissa fuerint. At iis tria deinceps Opuscula addere licebit.
+Primum est depromptum ex membraneo codice in-fol. min. inclyti monasterii Windbergensis Ord. can. regularis Praemonstratensium, quingentis circiter abhinc annis exarato, in quo nullus alius quam hic Opusculo titulus praefixus est: Laus crucis, verba Eckeberti. Quae inscriptio, quin nostrum Eckebertum spectet, vix quisquam merito dubitaverit. Est haec scriptiuncula non minus sobria quam pia, cujus numero 5, paucis et perspicuis verbis exponitur, quidquid fere a recentioribus theologis scholasticis de causis et modis Dominicam crucem adorandi per plura capita disputatur.
+Alterum Eckeberti Opusculum, nunc primum, ni fallor, in lucem productum et excusum est ejusdem Soliloquium, seu, ut Trithemius supra inscribit, Meditationes. Exstat id in novem codicibus Bibliothecae Mellicensis, quorum tamen nullus saeculum XV, aetate superat. Codex chartaceus signatus Litt. B. num. 29, id Richardo a S. Victore tribuit his ad calcem verbis: Explicit Soliloquium Richardi de speciali commendatione Jesu. Verum non Richardi, sed Eckeberti abbatis Schonaugiensis esse discimus praeter alia ex paulo ante laudato Trithemio, qui Meditationes ab his verbis: Verbum mihi est ad te incipientes, Eckeberto diserte attribuit. Illud ut ad pium lectorem emendatius pervenerit, ad fidem diversorum codicum castigavimus, variantesque lectiones ad calcem paginarum adjecimus.
+Tertium, quod nunc primum sub nomine Eckeberti publicis juris facio Opusculum, est ejusdem Stimulus amoris, qui hactenus inter Opera S. Bernardi Claravallensis locum sortitus fuit. Libellum hunc seu sermonem etiam recudit inter ejusdem Opera, recentissime edita, Mabillonius tomo V, col. 649, qui tamen erudite ibidem observat, eum sancto Anselmo tribui a Trithemio, Bellarmino et aliis sub titulo Stimuli amoris. Certe Bernardi, inquit, stylum non sapit, nec reperitur in antiquis mss. nec in prima editione Lugdunensi sub nomine Bernardi. Ita recte vir eruditissimus. Sed hanc pietate ac spiritu plenam lucubratiunculam nec Anselmi esse docet nos optimae notae codex Windbergensis paulo supra citatus, qui praeter Laudem crucis etiam sub expresso nomine Eckeberti eamdem hoc titulo continet: Stimulus dilectionis Eckeberti. Codici Windbergensi consentiunt duo Sanct-Petrenses Salisburgi, chartaceus alter, alter membranaceus, ambo saeculo XV exarati, quorum prior vocat Librum domini Eckeberti, qui intitulatur Stimulus charitatis: alter ait esse Eckeberti abbatis. Vero mihi perquam simile est, hunc Stimulum amoris non esse diversum a Laudibus Salvatoris, quas Trithemius Eckebertum scripsisse supra commemorat. Quid enim in illo aliud agit auctor, quam ut gloriemur in nomine Filii Redemptoris, et demus honorem Salvatori nostro qui magna fecit in nobis, etc. Porro variae lectiones, quas ad finem paginarum adjeci, mihi enatae sunt ex collatione editionis Mabillonianae et codicis Mellicensis E. 42, qui ad bonae notae exemplum exaratus videtur.

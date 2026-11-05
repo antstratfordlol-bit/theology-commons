@@ -1,0 +1,42 @@
+---
+id: pl.062.5020
+sigla: pl.62.prolegomenon
+title: "Prolegomenon"
+work: "Prolegomenon"
+creator: "Andrea Gallandi"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 62"
+columns: "62"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.62.colN}"
+---
+
+# Prolegomenon
+
+**Author**: Andrea Gallandi  
+**Series**: PL 62  
+**Columns**: 62  
+
+[62] {#pl.62.62}
+Prolegomenon
+PROLEGOMENON.(Ex Galland.)
+I. Hesychium presbyterum Hierosolymitanum excipit Petrus diaconus, qui ex Oriente in causa fidei cum aliis Romam se contulit saeculo VI ineunte. Exstat ejus libellus de Incarnatione et Gratia Domini nostri Jesu Christi ad Fulgentium et alios episcopos Africae in Sardinia exsulantes, in orthodoxographis atque in bibliothecis Patrum, nec non in appendice ad tomum X operum sancti Augustini 1 , quatuor capitibus de Incarnatione omissis; denique inter opera sancti Fulgentii Ruspensis episcopi saepius excusus. Quo de opere Possevinus 2 : « Inventus est, inquit, hic libellus non ita multos ante annos in coenobio Parisiensi, quod est ordinis Praemonstratensis in agro Lovaniensi. » Caet rum probe advertit S. Fulgentii operum cl. editor 3 , et post ipsum doctissimi editores operum S. Augustini 4 , non esse confundendum auctorem nostrum cum Petro, cui egregium tractatum de Fide inscripsit sanctus Fulgentius. Neque enim is erat diaconus, ut existimavit Norisius 5 , neque monachus, ut perperam creditus est a Blondello 6 ; sed vir, ut videtur, militaris: qui cum in Palaestinam pergere decrevisset, intellexissetque plures per eam provinciam haereses passim serpere, propterea ne ullus sibi sensus haereticae pravitatis subreperet, a sanctissimo aeque ac doctissimo Ruspensi episcopo fidei regulam flagitarat.
+
+
+[0081A] {#pl.62.0081a}
+II. Jam vero de Petri diaconi libello deque illius conscribendi occasione verba facturi, virorum doctorum vestigiis inhaerebimus, qui ea in re aperienda nobis praeivisse ultro agnoscimus. Anno igitur 518, sub initium imperii Justini, monachi Scythae quorum dux et fautor Joannes Maxentius, cum existimassent haeresim Nestorianam et Eutychianam haud radicitus exscindi posse, nisi unus e Trinitate passus assereretur, ingentes turbas Constantinopoli excitarunt, quibus brevi totus orbis exarsit. Causa hujusmodi ad sedis apostolicae legatos Constantinopoli agentes primum delata; mox ad ipsum Hormisdam Romanum pontificem deducta perhibetur. Verum cum Romam missi monachorum legati, quorum primas agebat Petrus Diaconus, novam illam dicendi formulam haud leviter exagitari comperissent ad episcopos Africae in Sardinia exsulantes confugerunt. Anno itaque vertente 520, aut ineunte 521, redditus est sancto Fulgentio caeterisque confessoribus, a Trasamundo Vandalorum rege Ariano in Sardiniam deportatis, professionis fidei libellus ad epistolae modum contextus, Petri diaconi et sociorum ejus nomine consignatus. Hos inter laudatus Petrus diaconus eminebat, qui primo etiam loco libellum subscripsit. Quandoquidem vero typothetae oscitantia horum legatorum subscriptiones hac in nostra editione praetermissas fuisse animadvertimus, eas propterea hic saltem describendas duximus. Sic autem se habent: PETRUS misericordia Dei diaconus subscripsit. JOANNES misericordia Dei monachus subscripsit. LEONTIUS misericordia Dei monachus subscripsit. JOANNES lector misericordia Dei subscripsit.
+
+
+[0081C] {#pl.62.0081c}
+III. Hi porro a monachis Scythis oratores missi, libellum in octo capita digestum ad exsules Patres Africanos deferunt. Quo in libello prioribus capitibus, a secundo nimirum ad quintum, suam ipsorum de Incarnatione fidem exponunt: reliquis vero tribus a sexto ad finem usque, de gratia et libero arbitrio quid sentiant exponunt. Errant tamen, ut advertit doctissimus Norisius 7 , dum hoc testimonium, Omnia studia et omnia opera ac merita sanctorum, ad Dei gloriam laudemque referenda sunt; quia nemo ei aliunde placet, nisi ex eo quod ipse donaverit: errant, inquam, dum hoc testimonium tribuunt Innocentio papae in epistola ad concilium Milevitanum 8 : nam legitur in epistola 21 Coelestini papae ad episcopos Galliae 9 . Delato itaque in Sardiniam Scytharum monachorum nomine hujusmodi libello, Africani Patres suum de propositis quaestionibus sensum expromere haud refugerunt. Neque vero, ut cum Norisio loquar 10 , tantummodo illorum monachorum fidem ex integro commendarunt, verum etiam alterum et ipsi volumen pari titulo de Incarnatione et Gratia Domini nostri Jesu Christi reposuerunt; in quo omnes Scytharum sententias approbarunt, aliisque insuper solidioribus easdem argumentis munierunt. Hi autem fuere 15 episcopi, quorum nomina initio libri recensentur. Unius tamen Fulgentii Ruspensis titulo volumen illud elucubratum fuisse intelligimus ex auctore, qui ejusdem Fulgentii gesta litteris consignavit. Sic enim inquit 11 : Quandocunque transmarinis litteris de fide vel de diversis quaestionibus interrogabantur episcopi, Fulgentio respondere pro omnibus ab omnibus imponebatur. Eo autem in opere, ait Fulgentianorum operum editor 12 , « de Incarnatione quidem praeclare subtiliterque disputat Fulgentius; de illa vero formula, Unus de Trinitate passus est, minus acute: cum ejus loco, velut ejusdem sensus, hanc locutionem usurpet, Una de Trinitate persona crucifixa est 13 . Verum, ut Scytharum monachorum scriptio magna ex parte in explicando gratiae praedestinationisque mysterio versabatur; sic Fulgentii responsio in iisdem capitibus confirmandis muniendisque multa est. »
+
+
+[0082C] {#pl.62.0082c}
+IV. Porro quamvis Africani Patres in Sardinia exsulantes Scythicam fidem Fulgentii scripto statim ab initio commendassent his verbis 14 , Vestram simul alacres et fidem cognovimus et salutem; imo in agnitione fidei, vestra nobis salus innotuit: magnus tamen Annalium ecclesiasticorum parens Scytharum monachorum sententiam de uno ex Trinitate passo reprobandam, adeoque illorum legationem ad Patres Afros in suspicionem vocandam, quin et eorum fidem obtundendam et elevandam existimavit 15 . At vero iidem monachi strenuum nacti sunt patronum: Norisium, inquam, qui propterea doctissimi cardinalis sententiae se non posse accedere profitetur 16 : « Non quod ait 17 , viro eruditissimo quem in ecclesiastica historia principem et fateor et veneror, parum deferendum putem; sed quod is veritati cultus debetur, ut nemo illi in amore praeferendus sit. » Latius deinceps idem V. C. alibi eorumdem monachorum patrocinium suscepit, cum in Historia controversiae de uno ex Trinitate passo 18 , tum in Apologia monachorum Scythiae ab anonymi scrupulis vindicata 19 . De praestita a Norisio monachis Scythicis advocatione plura contexere, non est hujus loci. Adeat lector eminentissimum illum auctorem, in cujus scriptis pervolvendis voluptatis multum, plurimum utilitatis eum percepturum equidem polliceor. Caeterum mitiorem deinceps in monachorum Scytharum sententiam de uno ex Trinitate passo se ipsum exhibuisse Baronium arbitramur; quin imo quae in eos acrius pronuntiavit, deposuisse jure optimo existimandus videtur: quippe quem postea eamdem sententiam in Ferrando diacono comprobasse intelligimus 20 . Quod superest, in utroque libello excudendo praeclaram secuti sumus editionem operum sancti Fulgentii Parisiis evulgatam anno 1684, quam diligenti cura et studio adornavit V. C. Lucas Urbanus Mangeant, ut a viris eruditis edocemur 21 .
+
+
+[62] {#pl.62.62}
+Aug. opp. tom. II in append., pag. 146. Possev. Appar. sacr. tom. II, pag. 252 edit. Colon. Agripp. Praefat. ad S. Fulgent. opp., pag. 8, et not. 1 ad lib. de Fide. BB. Append. ad tom. VI opp. S. Aug., pag. 17 in admonit. Noris. Hist. Pelag. lib. II, cap. 19, opp. tom. I, pag. 492. Blondell. de Primat., pag. 411. Noris. Hist. Pelag. lib. II, cap. 19, opp. tom. I, pag. 485. Petr. Diac. libell. de Incarn. cap. 8, infra col. 90. Coelest. epist. 21, cap. 8, pag. 1190 seq. edit. Coutant. Noris. l. c., pag. 486. Vit. S. Fulgent. cap. 20. Praefat. ad opp. S. Fulgent. Fulgent. lib. de Incarn. cap. 10. Fulgent. lib. de Incarn. cap. 1. Baron. ad ann. 519, §§ 111 seqq. Noris. Hist. Pelag. lib. II, cap. 18, opp. tom. I, pagg. 483 seqq. Id., praefat. ad Hist. Pelag. Noris. Hist. controv. caet. opp. tom. III. pagg. 775 seqq. Id., Apolog. monach. Ibid. pagg. 879 seqq. Baron. ad ann. 533, § 28. Goujet, Bibl. des aut. eccl., tom. III, pag. 17. BB. in append. ad tom. VI opp. S. August., pag. 17.

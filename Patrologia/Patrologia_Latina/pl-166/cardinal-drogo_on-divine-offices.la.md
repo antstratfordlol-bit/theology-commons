@@ -1,0 +1,84 @@
+---
+id: pl.166.3836
+sigla: pl.166.on-divine-offices
+title: "On Divine Offices"
+work: "On Divine Offices"
+creator: "Cardinal Drogo"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 166"
+columns: "166–1563A"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.166.colN}"
+---
+
+# On Divine Offices
+
+**Author**: Cardinal Drogo  
+**Series**: PL 166  
+**Columns**: 166–1563A  
+
+[166] {#pl.166.166}
+De divinis officiis
+DROGONIS CARDINALIS LIBER DE DIVINIS OFFICIIS SEU HORIS CANONICIS.( Biblioth. vet. Patr. ibid., p. 345.)
+
+### Cur matutinae laudes a fidelibus celebrantur.
+Cur matutinae laudes a fidelibus celebrantur.
+
+
+[1557C] {#pl.166.1557c}
+Dominus filios Israel dura de servitute Aegypti, et de sub manu Pharaonis educturus, post multa miracula quibus induratum cor Pharaonis emollire non potuit, unum et hoc ultimum potenter operatus est; primogenita Aegyptiorum angelo percutiente interficiens; quo et Pharaonem cum suis vehementer exterruit, et populum suum mirabiliter liberavit. Praecepit enim per Moysen populo Israel, ut omnes singuli per familias et domos suas agnum immaculatum tollerent, ejusque carnibus, juxta id quod eis mandatum est, comestis, de sanguine ipsius super postes domorum suarum ponerent; ut hoc signo angelus percutiens, quae ipsorum erant intacta praeteriret. Media vero nocte vastator angelus adveniens ubi signa sanguinis in postibus conspiciebat, pertransiens, domosque Aegyptiorum ingrediens, per singulas earum necabat primogenita, primogenitis filiorum Israel reservatis omnibus. Hac virtute miraculi compulsus est rex Aegyptius dimittere populum Domini (Exod. XII, XIII) . Quo in facto liberatio nostra figurabatur, quam in nobis quotidie Dominus spritualiter operatur; per quam viri filii Israel efficimur. Israel enim videns Dominum interpretatur. Filii autem qui a sanctis Patribus Dominum videntibus in fide, et caeteris quibus Deus videtur, generati sumus. Quia igitur miraculum illud medio noctis actum est, nos quoque ad nocturnas vigilias cum Propheta dicente: Media nocte surgebam ad confitendum tibi (Psal. CXVIII) , consurgere debemus, ut ab invisibili Pharaone, id est diabolo, et ab Aegypti servitute, a tenebrarum scilicet operibus, cooperante Divina gratia, liberemur. Nocturnis ergo vigiliis orandum est Dominus, ut gladio verbi sui invisibiliter penetrantis, opera vitae nostrae prioris tenebrosae in nobis percutiat et adnihilet, quae per Aegyptiorum primogenita significari novimus: in quibus etiam Pharaoni, id est regi tenebrarum, captivati servivimus. Qui enim facit peccatum, servus est peccati (Joan. VIII) . Dum enim propriis obediremus voluptatibus, sicut ait Apostolus, Fuistis aliquando tenebrae (Ephes. V) , malignis spiritibus excaecati obedivimus; nunc autem conversi, et facti lux in Domino, ante ipsum intuitu vigili pernoctantes, id etiam postulemus ut ipsum fide cernamus, quae per Israelis primogenita signabatur, quia prima est et fundamentum omnium virtutum; in nobis sanguine veri agni conservet inviolabilem, ne vastator ille angelus, qui tanquam leo rugiens circuit quaerens quem devoret (I Petr. V) , aut per errorem pravae opinionis eam in nobis feriat, aut, per desidiam a bene operando torpescere faciens, eam occidat. Fides enim sine operibus mortua est (Jac. II) . Ab illo autem sic tuti esse poterimus, si adhibito studio per vestigia Dominicae humilitatis, patientiae atque mansuetudinis incedentes, imitationem passionis sanguine agni designatae, vita et moribus ubique teneamus. Haec enim signa si diabolus in nobis prospexerit veraciter, nulla in nobis praevalens virtute, exterritus disparebit.
+
+### De eodem.
+
+
+[1559B] {#pl.166.1559b}
+De eodem.
+Celebraturi laudes matutinas, quae ob honorem et reverentiam Dominicae resurrectionis, quae primo mane facta est, aurora diei institutae sunt celebrari, ad memoriam revocemus etiam transitum filiorum Israel per mare Rubrum, primam resurrectionem nostram, quae in baptismate nobis datur, significantem, cum eos Dominus a servitute Aegypti, et de manu Pharaonis liberaret; ut inde per deserta transeuntes terram promissionis tandem ingrederentur. Transitus autem ille in vigilia matutina, cujus extrema pars aurora diei est, factus esse perhibetur. Quae omnia cum in figura illis contingerent, veritatem nobis adventuram praesignabant: Quia enim per mare Rubrum baptismus noster sanguine Christi consecratus intelligitur, competenter per transitum populi Dei ablutio nostra in baptismate figuratur; ubi et veteris erroris tenebrosa exuentes contagia, et a maligno emancipati pervasore, Domino commersi commorimur, et a morte prima educti, reviviscentes ipsi consurgimus, ut resurrectionis ejus, quae primo mane facta est, participes existamus. Nemo autem in secunda resurrectione ad claritatem resurgere poterit, nisi primam in hac vita habuerit. Est autem sicut prima mors sordere vitiis, et propriis involvi cupiditatibus; secunda vero perpetuis subjacere doloribus. Ita quoque prima resurrectio a vitiis in hac vita resurgere; secunda vero de corruptela ad incorruptionem, de exilio ad patriam, de tenebris ad lucem, de poenis ad requiem introire. Patet ergo quia, sicut secunda mors primam inevitabiliter sequitur, sic etiam secunda resurrectio primam misericordiam comitatur. Meditemur itaque cum David in matutinis in Domino, praeveniamusque eum diluculo, meditantes in eloquia ejus, ut ipse nos sua misericordia, sic a prima morte resurgere concedat, quatenus sibi configuratos, suae resurrectionis, cum secundo advenerit, participes faciat; sicque per hujus vitae deserta immaculato calle transeamus, ut ad terram verae promissionis, coelestem scilicet Hierusalem, ipso ducente pervenire valeamus.
+
+### De hora Prima.
+
+
+[1559D] {#pl.166.1559d}
+De hora Prima.
+
+
+[1560A] {#pl.166.1560a}
+Horae primae laudatio, hymno ipsius attestante, quo dicimus: Jam lucis orto sidere, a sanctis patribus exoriente sole constituta est celebrari; quae si aliquando tardius aut celerius, negotiis exigentibus, celebretur, nobis horae debitae congruo tempore persolventibus officium, hujus similiter et caeterarum statutus terminus penes eum cui cuncta sunt praesentia, relinquatur. Ad hanc igitur horam convenientes celebrandam, Creatori nostro benedicamus, et referamus gratias, qui etiam exterioribus nostris necessitudinibus providet et procurat, in tantum ut, praeter caetera quae multa sunt suae benignitatis beneficia, solem istum visibilem, tam spectabilem videlicet sua pulchritudine creaturam, corporisque usibus nostris et sensibus illustrandis tot modis necessariam, nobis accommodare dignatus est. Sol etenim iste corporeus, (ut plura taceam, quae per eum operatur divina providentia) mundum purgans a tenebris, accessu suo coeli plagam hanc quam incolimus, depulso frigore, clementiorem reddit, terram quoque fecundans, arbores fructificare facit. Quae cum admiratione digna sint, non debet tamen vel utentes retinere hujus utilitas, vel pulchritudo intuentes. In his enim corporalibus, quae ad modicum proficiunt, etsi plura sint in suo genere, remanere non debemus; sed sicut scriptum est: Invisibilia ipsius a creatura mundi per ea quae facta sunt intellecta conspiciuntur (Rom. I) : per creaturam ipsum invitantem Creatorem, Solem Justitiae, videlicet Dominum Christum fide ac dilectione inquiramus; quem ad ostium mentis nostrae pulsantem invenire quotidie poterimus. Ipse enim per corporalia beneficia nobis praestita, quae motibus subjacent, et transeunt, summum bonum, quod ipse est, incommutabile semperque manens admonet inquirendum, fideliterque quaerentibus et amore pulsantibus veraciter promittit inveniendum. Scriptum est enim: Quaerite et invenietis; pulsate et aperietur vobis (Matth. VII) . Ut igitur a nobis valeat inveniri, sincero corde quaeramus, dilectione pulsemus, piissimam ejus exorantes clementiam, ut, qui verus est Sol Justitiae, caecitatis et ignorantiae depellens tenebras, dignetur in nostris exoriri et inhabitare mentibus; et, quia mediator et advocatus noster fieri dignatus est pro nobis, accedens ad Patrem, eum nobis clementiorem, et, vitiorum depulso frigore, faciat esse propitium; et terram nostram (corda ipsa videlicet) sanctarum cogitationum radicibus germinare, exteriusque per opera Deo suaviter redelentia faciat infatigabiliter fructificare; quatenus veram justitiam per omnia sitientes, ad seipsum ipse nos, per seipsum indeclinabiliter perducat, et ad illam felicem et plenam satietatem nos pertrahat; quoniam fidelibus suis promittit dicens. Beati qui esuriunt et sitiunt justitiam, quoniam ipsi saturabuntur (Matth. V) .
+
+### De hora Tertia.
+
+
+[1560D] {#pl.166.1560d}
+De hora Tertia.
+Christus Agnus innocens pro nobis peccatoribus ante Pilatum vilissimum mancipium hora diei tertia ad judicandum stare dignatus est, ne nos in extremi judicii terrore, peccatis accusantibus, rei judicemur. Ipse enim crudelem sententiam sustinuit a Judaeis, qui et ob id eum hora ipsa crucifixisse ab Evangelistis dicuntur, clamantibus, Crucifige, Crufige eum (Joan. XIX) : ne super nos caderet illa ultima valde terribilis sententia, qua dicitur reprobis: Ite, maledicti, in ignem aeternum (Matth. XXV) . Ipse alapas, sputa, flagella, coronam spineam, irrisionesque patientissime pertulit, ut suo nos exemplo ad patientiam invitaret; quatenus, in hac vita probati, spem per patientiam haberemus vitae aeternae. Ad sacramentum etiam hujus horae attinere probatur, quod Spiritus sanctus hora tertia a coelo missus ad illuminandam Ecclesiam, discipulorum cordibus infusus est. Nos itaque in ista hora Salvatorem nostrum, gratias agentes, adoremus, qui tam necessaria nobis et tam mirifica voluit beneficia praeparare. Eamdem etiam gratuitam bonitatem, qua sic voluit, exoremus, ut, eodem Spiritu nos vivificante interius, ipse, qui caput est suorum, per bona opera exterius sua nos membra faciat; sicque, pro modulo nostro, sui nos imitatores, his quae pertulit, communicare concedat, ut ab auditione mala, ubi justo non timere promittitur, liberati, auditum bonum et suavem audire mereamur, quoniam dicturus est: Venite, benedicti Patris mei, percipite regnum quod vobis paratum est a patre meo (Matth. XXV) .
+
+### De hora Sexta.
+
+
+[1561B] {#pl.166.1561b}
+De hora Sexta.
+Testatur evangelicae veritatis historia quod salus nostra Christus hora sexta crucem ascenderit, et a carnifice saevissimo manus innoxias pedesque transforari permiserit, ut vulneribus suis, nostris mederetur vulneribus, atque crucis, patibulo cruciatus a nobis amoveret aeternos. Aequum est igitur et nobis salutare, hora qua Dei Filius membra, quae ipsius summa divinitas pro nobis assumpserat, pro nobis etiam doloribus passionum atque crucis ignominiae supposuit, tantae Majestati reparatrici nostrae naturae gratias referre. Et quia, ut ipse asserit, sine ipso facere nihil possumus, in hora suae sanctae crucifixionis, laudibus ejus assistentes, ipsius pietatis nulli negare auxilium efflagitemus: ut, quia duo sunt crucis genera, cum aut caro cum vitiis crucifigitur et concupiscentiis, aut mens et voluntas a vanis cogitationibus et illicitis, divinitus adjuta refrenatur, nos faciat homines crucifixos corpore et anima: quatenus sic ipsius timore configamur, ne nos insidiator callidus immanitate vitiorum superet, sed amoris ejus igne, meridiano fervore succensi, ad bene operandum juxta mandatorum ipsius obedientiam informemur et perficiamur: ut, qui per lignum vetitum a vita decideramus, per lignum obedientiae redire valeamus.
+
+### De hora Nona
+
+
+[1561D] {#pl.166.1561d}
+De hora Nona
+Non sine lacrymis atque singultibus semper, si nostra sufficeret fragilitas, ad horae nonae mysteria celebranda convenire deberemus. Haec est enim hora illa qua Christus, vita viventium, in quo quidquid factum est vita erat, pro nobis pendens in cruce, consummatis omnibus quae de ipso usque ad horam mortis ejus praedicta fuerant, inclinato capite, in manus Patris commendans, tradidit spiritum. Revocemus ita quotidie in hac hora ante mentis oculos illud salutiferum et venerabile crucis, et crucifixi spectaculum, et animam ejus a corpore exeuntem cum gratiarum actione pronis mentibus adorantes, ejus piam et indeficientem deprecemur misericordiam; ut qua charitate propter peccata nostra mori, et propter justificationem resurgere voluit: ea ipsa nos faciat in hac vita peccato mori, et vivere justitiae; ac in summa nostra necessitate cum anima corpus reliquerit, nobis subveniens, et interpositione suae mortis unicae nos a morte animae protegens, vitae nos illi beatae tandem restituat, quam de ovibus suis loquens promittit: Et ego vitam aeternam ao eis (Joan. X) .
+
+### De hymnis vespertinis.
+
+
+[1562B] {#pl.166.1562b}
+De hymnis vespertinis.
+Post peracta horae nonae mysteria, jam spe divinae misericordiae confidentiores, alacrioribus animis ad hymnos vespertinos festivius convenimus celebrandos. Credimus enim et confitemur propitiationem totius dispensationis, quam Dominus Jesus pro nobis in corpore gesserat usque ad mortem, mortem autem crucis (Philipp. II) , ad conspectum Patris, die qua passus est, hora ipsa ascendisse: per quam humano generi, universaliter pax apud eum restituta est. Omnes enim quantum ad largam Salvatoris nostri misericordiam salvati sunt, nec aliquis, nisi sponte sua perire malit, a tanto beneficio secluditur. Eadem quoque hora pridie quam pateretur, duo nobis beneficia, minime tacenda et valde necessaria praeparavit, et actu ipso imitanda reliquit. Unum cum a coena surgens pedes discipulis lavit, in quo figuravit nostram conversationem terrenam, quae pedum nomine designatur, ut cum eo partem habeamus ab ipso quotidie necessario abluendam, et detergendam ab offensarum pulvere, quas indesinenter contrahimus. Alterum autem est, cum sui corporis et sanguinis sacramentum, quod nobis hora ipsa consecrationis in sui commemorationem faciendum dimisit: quatenus Ecclesia sua in hujus mundi peregrinatione, ne deficeret, vitale habens viaticum, eo confortata interim aleretur, donec illi occurramus omnes in virum perfectum, in mensuram aetatis plenitudinis Christi (Ephes. IV) , cum scilicet capiti membris suis cohaerentibus universis Christi corpus adimplebitur, et erit Deus omnia in omnibus (I Cor. XV) . Quod ergo tantis et tam universalibus vespertina hora decorata est sacramentis, eam promptioribus et dilatatis frequentantes affectibus, propitiatori omnium debitas persolventes gratias oris et cordis instemus precibus, ut quidquid terrenae faecis hic conversando contrahimus, fonte pietatis abluat, et suam in nobis perficiens bonitatem, sic sui nos sacrosancti corporis viatico in hac vita pascat et vegetet, ut migrantes hinc, in illorum conscribi numero mereamur pro quibus reconciliandis Deo Patri tantam obtulit propitiationis hostiam, et quorum nomina in libro vitae conscripta sunt ante tempora.
+
+### De Completorio.
+
+
+[1563A] {#pl.166.1563a}
+De Completorio.
+Completorium, quae hora diem terminat abeuntem, celebrat sancta Ecclesia in honorem Dominicae sepulturae, dum fideliter Joseph et Nicodemus (qui ad eum venerat nocte primum) ipso de cruce deposito, circa corpus ejus illud aromatibus condientes, et linteis involventes, sanctis mulieribus, a longe ubi poneretur conspicientibus, officiosissime compleverunt. Non enim praetereunda est illa mulierum devotio, quem quia vivum ardenter dilexerant, ipsumque in cruce non sine nimio moerore et lacrymis obiisse conspexerant: dum sepeliretur locum notabant diligenter ubi eum denuo repeterent, cum unguenta, quibus eum inungerent, rediturae praeparassent. Quarum devotiones, et obsequia dum animo recolimus; quis est qui non fervore maximo cum eis optet reverenter astitisse, et accuratissime ministrasse; quia quod jam non potest contingere, cum et corporalibus spiritualia praestare noverimus; nihil obest illi Dominicae sepulturae Dominici corporis, corporaliter, quod non potuimus non interfuisse: sed quod illic actum est fide colentes, et amore consepulti ei, ad ea quae mundi sunt, in secreto nostri pectoris requiem ei praeparare satagamus, in qua non defunctus jaceat, sed jam vivens in saecula vita nostra delectetur, et moribus requiescat. His igitur beneficiis gratias referentes, exoremus ut qui corda scrutatur et renes, ipse domum nostram interiorem a sordibus emundet vitiorum, quatenus eam ingredi et inhabitare sibi complaceat. Nos autem, ne nihil studii adhibuisse videamur, priusquam obdormiscamus in somnum, quod nos in die peccasse cognoscimus, lamentis abluentes et poenitentia, quae Dei sunt meditemur, et sancta meditatione locum ipsi in nobis praeparemus, cum David dicentes: Si dedero somnum oculis meis, et palpebris meis dormitationem, donec inveniam locum Domino (Psal. CXXXI) . Si igitur nobis obdormiscentibus tantus hospes penetralia cordis inhabitaverit: rursum nobis evigilantibus, ad nocturnas vigilias illum quaerentibus, haud longe aberit; quem fidelis anima in cubili pectoris paratum reperiet, ubi obdormiscens illum collocaverat.

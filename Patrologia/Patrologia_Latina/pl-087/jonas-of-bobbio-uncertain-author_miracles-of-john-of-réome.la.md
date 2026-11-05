@@ -1,0 +1,67 @@
+---
+id: pl.087.6217
+sigla: pl.87.miracles-of-john-of-réome
+title: "Miracles of John of Réome"
+work: "Miracles of John of Réome"
+creator: "Jonas of Bobbio; Uncertain author"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 87"
+columns: "87"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.87.colN}"
+---
+
+# Miracles of John of Réome
+
+**Author**: Jonas of Bobbio; Uncertain author  
+**Series**: PL 87  
+**Columns**: 87  
+
+[87] {#pl.87.87}
+Miracula Joannis Reomaensis
+LIBER MIRACULORUM S. JOANNIS ABBATIS REOMAENSIS POST VITAM AB ANONYMO DESCRIPTAM ADDITUS A JONA PER DIALOGUM.(Ex Mabill., Acta ordinis S. Benedicti.)
+1. Revolventi iterum mihi ac saepius prioris libelli corpusculum, surpervenit charissimus noster Laetus diaconus: ad cujus ingressum valde gavisus, consalutatisque nobis officiosissime paululum consedimus. Tum percunctari a me coepit, quasi ignarus, quidnam a me operis in cellula ageretur. At ubi ex responsione nostra hoc nobis reperit laboris quod superius dixi, multo laetior redditus, atque exosculans mihi caput: Cum te, inquit, legentem dudum, frater, audissem, sensim ad conscientiam meam tacitis cogitationibus meis recurrebam, utrumnam quae de Joannis virtutibus noveram, in praesenti volumine teneres inserta. Sed quia tibi forsitan minime nota sunt, me quaeso explicante conscribas. In hunc sermonem uterque paululum conticuimus, me tamen poscente, tandem ita exorsus est.
+
+
+[1083C] {#pl.87.1083c}
+2. Quadam die exstitit causa qua ad Secundinum patricium epistolam sancti Joannis pro quodam pauperculo deferebam; quam epistolam Secundinus patricius manibus comprehensam, ut cognovit cujus causae obtentu delata fuerat, pedibus conculcandam projecit, mihique minas conabatur intentare, ac tumenti cervice rabidos intonare sermones, scabellum pede ferire, palmaque collidere femur. Vere tibi fateor quia vidi hominem insanire. At ego nec in totum evangelici immemor praecepti, excusso pulvere de pedibus meis, abscessi. Continuoque pavore nimio Secundinus concutitur, ac tenebrosa quodammodo noctis caligine circumdatur; et velut undique praeacutis esset sudibus circumactus, ita totum in diversis modis partibusque corpus illius cerneres contorqueri. Obstupesco rei miraculum. Quam cito commutati artus in usum alium transierunt! ita ut qui dudum nimio jactantiae furore succensus scabellum pede feriebat, femurque palma illiserat, jam, ut credo confidoque, angelo ingruente exterritus, imo nimio tremore contortus, intellexit se ob sancti Joannis epistolae contemptum ista perferre. Itaque per internuntios fidos veniam precabatur, omnimodis se Joannis jussionibus praebiturum asserens famulatum: universa quoque quae jusserat statim decrevit esse complenda, tantum ut pro se Dominum precaretur. Quo facto et ille recepit sospitatem, et hic quod rogaverat impetravit.
+
+
+[1084C] {#pl.87.1084c}
+3. At ego, inquam, Laete, licet a te ista audiam libenterque suscipiam, illius tamen virtutis magnitudinem ut referas quaeso, quam ipse ut asserunt persensisti. Ita, inquit Laetus, plane faciam. Lue illa [inguinaria], quam utinam nesciretis, nostros, irato Deo, populos patriamque vastante, dum de Parisiis, ubi tunc temporis dominabatur, reverterer, hujus me morbi sensi contagione comprehensum. At cum ulceris ipsius gravamine oppressus vix ad domum propriam pervenissem, ibique praevalescente incommodo pene jacerem exanimis, ac tristi moerentis familiae frequentarer officio, materque mea propriis sibi unguibus faciem genasque discerperet miseram se clamans, nullam sibi post obitum meum spem vitae dicebat remansuram esse, vel exiguam portionem. At ego cupiens eam consolari, evasurum me esse dicebam, tantum si mihi de puteo monasterii sancti Joannis aqua fuisset bibituro exhibita. Cumque advecta fuisset aqua, quae erat sancti Joannis benedictione condita, ubi ebibi, tanquam se in me celerrima sanitas fuisset ingressa, ita, quod mihi antea raro contingebat, in somno quievi. Cumque evigilassem, ulcus illud cujus tabo diuturno gravamine laborabam, crepuisse persensi. Ita sensim paulatimque cum officiis suis coeperunt membra virescere, donec confirmatis gressibus tam orationibus beati Joannis quam Domino auxiliante surrexi.
+
+
+[1085A] {#pl.87.1085a}
+4. Nec dissimile huic fuit illud quod sum referre paratus. Nam tempore quo Franci, postposita republica, sublatoque imperii jure, propria dominabantur potestate, Theodebertus filius Theoderici Clodovei quondam filii Italiae claustris disruptis bellum Ausoniis intulit. Qui celerrime reversus, dimisso duce cui summam bellorum commiserat, nomine Buccelleno, alium etiam nomine Mummolenum in auxilium ei direxit, et sic ad propria repedavit. Latere neminem suspicor qualis quantusque pestifer morbus illis diebus longe lateque populos patriamve depopulatus sit. Hujus morbi infestatione germanus meus Fidamiolus quem tu, frater, optime nosti, longo jam tempore quartano tabescebat incommodo. At cum mihi compertum esset eum absque ulla spe vitae jacere praemortuum, continuo ad notum recurrens praesidium, non aliter ad Joannem quam ad coelestia praesidia pro re peritura jam jamque festinavi devotus. Statimque eulogiarum munus acceptum sane lautissimum, unum paximacium et quinque pomula noctu transcurrens languido deportabam. Dumque adhuc procul abessem, non tam meum quam sanitatis suae adventum sensit aegrotus, ac percontari a circumstantibus coepit ubi essem, meoque nomine me vocans, paximacium illud quod deferebam, quasi praesentem aspiceret, deposcebat. Paulo post ego veniens plangentis turbae sum exceptus officio, atque ita ingressus domum in qua aeger jacebat, ut vidi germanum meum jamjamque praecipitanter rapi in mortem, in apertos singultus lacrymasque prorumpens, munus illud quod exhibueram protuli. Igitur tres particulas benedicti panis vini infusione madefactas in os illius ipse inserui, statimque corroboratis artubus in stratum resedit ac respiravit. Dein paulatim hujus edulii perceptione corroborari, atque ad usum suum coeperunt membra reverti, donec incolumitati pristinae redditus turba omni inspectante surrexit.
+
+
+[1085C] {#pl.87.1085c}
+5.Nam nec hoc praetereundum videtur, quod amico suo, imo parenti periclitanti valitudine hujus morbi cujus se noverat aegritudine laborasse, partem illius muneris per quod sanus effectus fuerat, similem sibi officere cupiens detulit. Quo et ipse accepto, prosperitati nuper amissae restituitur. Nam et harum eulogiarum munuscula sancti Joannis benedictione sanctificata crebras super infirmantes egere sanitates.
+
+
+[1085D] {#pl.87.1085d}
+6. Cumque solito per saltum more athletarum antiquorum oratione et jejuniis exerceretur; reperit quemdam pauperem seminudum necessaria alimenta fructusque quos saltus gignere solet, omni studio investigare, ut carnis famem potuisset cibo superare. Illo inquirente quid quaereret, illatam miseriam oris confessione deprompsit. At ille: Utinam te, inquit, sola carnis fames urgeret, et non fames vel sitis animae quae omni sine dape manet, cruciaret! Aut certe si ea te pauperies de qua Dominus praecinens dixit: Beati pauperes spiritu, quoniam ipsorum est regnum coelorum (Matth. V, 3) , et: Beati qui esuriunt et sitiunt justitiam, quoniam ipsi saturabuntur (ibid., 6) , possideret, nulla dapum copia indigeres. Sed dabo quodcunque potero modo consilium, ut spem non perdas: Multi enim ex insperato temporis usu evaserunt. Pone in Domino spem tuam, et ipse enutriet te, et arripe laboris studium, juxta Apostolum, quod bonum est, ut habeas unde tuo usui et egentum praebeas necessaria (Ephes. IV, 28) . Factoque in pectore ejus crucis signo, ire ad propria imperat. Ille imperio viri Dei obtemperans, tantam copiam laboris suscepit, ut nequaquam deinceps quae ei necessaria erant, defuissent.
+
+
+[1086B] {#pl.87.1086b}
+7. Quodam etiam tempore loca circumadjacentia valida fames torquebat ita vehemens, ut nec spes vivendi plerisque foret. Cum ergo ad virum Dei ob alimonias quaerendas properarent, ille prophetici praeconii dictum ante oculos ferens quo ait: Frange esurienti panem et omni petenti te tribue (Isai. LVIII, 7) , quoscunque advenire cerneret, necessaria ministrabat. Cumque jam egentum plebs crebrius adveniret, ille assuetum opus impendens, omnibus ministrabat. Tum unus e subditis ad Patrem accedens, ait se tantam farris copiam non habere, quantam egentum poscebant cohortes. Ille gemens poposcit vas segregari ad sublevandum pauperum petentium indigentiam; moxque ad imperium pii Patris vas farcitur, capiens plus fere modios quam quinquies quinos; caetera vero ad usus fratrum proficerent. Cum ergo turba egentum per aliquod temporis spatium ex eo vase aleretur, evenit ut quidam juxta morem sibi dari necessaria posceret. Ille mensuram consuetam dari jubet egenti. Tum minister: Nequaquam, inquit, vel parum in vase remansit, sed totum imperiis tuis pauperibus est erogatum. Quo audito oculos ad coelum attollit, genuque flexo largitorem omnium Deum implorat, peractaque oratione, ministro jubet: Vade, inquit, cum fidei adminiculo, defer alimenta egeno. Pergens minister reperit vas plenum, sumptaque mensura pauperi tribuit, deinde Patri nuntianda credit. Sed ille silendum esse imperat, ne elationis macula cumulum gratiae tollat.
+
+
+[1086D] {#pl.87.1086d}
+8. Vir quidam nobili intentione praeventus, Sequanus nomine, comperta famuli Dei Joannis fama in observatione priorum Patrum, quam et ipse flagranti sitiebat amore, quadam nocte a partibus Magnimontensium inter densa tenebrarum adveniens, basilicam latenter introiit, communem Dominum orationibus pulsans. Quod divinitus viro Dei revelatum est; citoque ministro imperat ut concito gradu pergat, tactoque signo sodales excitet, quia frater communis Sequanus abscondite fores ecclesiae penetrans Dominum orationibus pulsat. Quod ita esse citissima est inventione compertum, et venerando famulo Dei perplurimum ardentissima fratrum charitas officium debitum hospitalitatis persolvit.
+9. Quanta quamque sublimia miraculorum Domini in sanctis suis redoleant exempla, finibus Ecclesiae in orbe terrarum diffusae personuit, atque elucubrata luce veritatis fidelibus notum est. Cum eo in tempore segetes annua maturitate confectae, ad praecidendum in supradicto coenobio fuissent paratae, concio fratrum ad segetem praecidendam catervatim properavit, opusque per totius diei metas peractum adventus terrae noctis prohibuit. Cum omnes ad coenobium remeassent, imperio seniorum unus e fratribus, Claudius nomine, ad frugem custodiendam remansit; qui cum somnum caperet atque intempesta nocte evigilans mentis ardorem ad coelum tolleret juxta illud: Ego enim dormio et cor meum vigilat (Cant. V, 2) , coepit cogitare ne fessi artus sodalium nimio indulgerent sopori, neglectoque orationis usu in aurorae adventum consuetum officii usum differrent. Cumque haec anxio animo volveret, vidit subito coelos apertos, et micantem globum totum lustrare mundum. Moxque dum mirandi facti mente pavefacta pulsaretur eventu, alifer gallus solitam vocem attollens, mundo venturam lucem nuntiavit; signoque tacto omnis concio fratrum ad orationem cantusque peragendos ecclesiam penetravit. Ovans ille postquam lux dedita mundo fuit, Patri de industria quid viderit nuntiavit. Ille ne forte stimulo elationis frater corruptus mentem pollueret, increpans ait: Nequaquam talia te corde tumido vidisse praesumas narrare. Quid enim? Num fas est ut homo sub fragilitate positus et contagione peccatorum maculatus audeat de contemplatione coelesti gloriari?
+
+
+[1087C] {#pl.87.1087c}
+10. Quanto jam honore ac venerationem regum Francorum atque nobilium fulciretur virorum, ambigit nemo, qui beneficia a praedictis regibus praestita per 1 praecepta chartarum quae usque nunc in publicis archivis praedicti condita sunt monasterii relegere cupit. Inerat in eo, ut opinor jure dicam, omnium virtutum fragrantia, corporis castigatio, jejunia et orationes aeque ut juvenili aetate tulerat, eo modo et senili portabat.
+
+
+[1088A] {#pl.87.1088a}
+11. Post obitum gloriosissimi viri Joannis suffectus est in locum ejus abbas Silvester nomine, quem ipse antea vivens fratrum coetui praeceperat praeesse; qui et religionis forma et regulae tenore per vestigia magistri gradiens longaevo floruit tempore. Diligebatur autem a Clotario atque Childeberto Christianissimis regibus Francorum ob meritum ejus sanctitatis. Miracula autem ab illo acta non amplius legimus, nisi in uno tantummodo clerico, quem contractio nervorum et debilitas manuum totum reddiderat inofficiosum. Qui ad venerabilem Silvestrum adminiculo vehiculi est delatus, et ab ipso sancti olei liquore perunctus, mox omnis contractio nervorum atque incurvatio poplitum extenta, et plantae pedum ejus solidatae sunt, sanitatique est restitutus; a debilitate vero manuum per beatum Germanum Parisiacae civitatis episcopum postea meruit curari. Scriptum in gestis habetur praefati beati Germani. 2 Quievit igitur venerabiliter Silvester XVII Kalendas Maii, et sepultus est in ecclesia sancti Joannis regnante de eo Domino Jesu Christo, qui vivit et regnat in saecula saeculorum. Amen.
+
+
+[87] {#pl.87.87}
+De praecepto Clodovei monasterio Reomaensi concesso videndi Petrus Roverius, in Historia Reomaensi, et Carolus le Cointe, tom. I Annal. Franc., an. 496, n. 111. De eo in Martyrologio Bened. ipso die agitur, de praedicto autem miraculo in Vita sancti Germani Parisensis episc., num. 35.

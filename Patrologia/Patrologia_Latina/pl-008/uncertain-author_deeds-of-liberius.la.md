@@ -1,0 +1,106 @@
+---
+id: pl.008.1202
+sigla: pl.8.deeds-of-liberius
+title: "Deeds of Liberius"
+work: "Deeds of Liberius"
+creator: "Uncertain author"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 8"
+columns: "8"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.8.colN}"
+---
+
+# Deeds of Liberius
+
+**Author**: Uncertain author  
+**Series**: PL 8  
+**Columns**: 8  
+
+[8] {#pl.8.8}
+Gesta Liberii
+GESTA LIBERII PAPAE.
+
+### ADMONITIO IN GESTA SEQUENTIA.( Coust. Append., p. 87.)
+
+
+[1387] {#pl.8.1387}
+ADMONITIO IN GESTA SEQUENTIA.( Coust. Append., p. 87.)
+I. Silvestri pseudoconstituto in veteri collectione Langobardicis litteris exarata proxime subjiciuntur Gesta subsequentia. Eorum artifex sese ab exordio mendacem prodit atque imperitum, ubi imperatorem, qui Liberio pontifice Romae regnabat, non modo Constantinum, Constantem, Constantiumque promiscue vocat, sed et eum appellat « Constantini Magni nepotem, » cum imperatoris hujus filium Constantium tunc Romae imperasse constet. Deinde quod de Constantini lepra ejusque baptismo in Silvestri papae falsis gestis ac pseudoconstituto fingitur, repetit. Quod autem Eusebius Caesariensis episcopus de Constantini Magni baptismo Nicomediae ab Eusebio civitatis hujus praesule suscepto tradit, de fictitii hujus nepotis baptismo stolide interpretatur. Neque minus falso haereticam de pluribus Mariae filiis opinionem Constantio attribuit. Quis vero eum turpiter hallucinari non sentiat, ubi exilii Liberii vel causam vel locum exponit? Liberius enim a Constantio non ideo relegatus est, quia eum deriserit aut accusarit, eique dixerit: « Non erit tuum regnum, quia non times Dominum; » sed quia Athanasii damnationi subscribere noluerit. Istud quoque ignorat nemo, eumdem non Noellae in coemeterio tribus tantum millibus ab Urbe distanti, sed Beroeae in Syria exulasse. Praeterea sic eum in hoc coemeterio agentem inducit, quasi Felicem loco ejus subrogatum nesciat. Damasum vero tum, cum Liberius in exilium abiit, presbyterum fuisse, atque a Liberio, priusquam Roma exiret, vicarium suum creatum esse mentitur; quamvis illum tunc tantum diaconum, atque Liberii abeuntis comitem extitisse exploratum sit ex Marcellini et Faustini ad imperatores Valentinianum, Theodosium et Arcadium precibus. Ibi enim, pag. 2, legere est: « Cum Liberio Damasus ejus diaconus se simulat proficisci: unde fugiens de itinere Romam rediit. » Sane non proficiscendi aut saltem citius redeundi legitima ei extitisset causa, si Liberii vicarius ab ipsomet institutus fuisset. Sed et aliud omnino sonat, quod in iisdem precibus statim subnectitur: « Eo die, quo Liberius ad exilium proficiscebatur, clerus omnis, id est presbyteri, et archidiaconus Felix, et ipse Damasus diaconus . . . sub jurejurando firmaverunt se, vivente Liberio, pontificem alterum nullatenus habituros. Sed clerus contra fas . . . Felicem archidiaconum ordinatum in locum Liberii susceperunt. » Tam apertis autem mendaciis refutandis diutius immorari taedet: praesertim cum caetera vel fabulis pariter constent, vel gestis perperam intellectis, vel praepostere relatis.
+
+
+[1387D] {#pl.8.1387d}
+II. Horum gestorum architectum ab eo qui superiora Marcellini gesta et Silvestri pseudoconstitutum confinxit, non alium esse suspicamur; idque suadent, cum locus quem in exemplaribus manu exaratis obtinent, tum barbara loquendi ratio, quamvis paulo tolerabilior, tum etiam in excogitandis mendaciis imperitia par, et in iis proferendis aequalis impudentia. Quocirca et ea praedictis adjungere inutile non erit. Ad hoc certe proficient, ut unde vitae Damasi e ms. codice archivi Canonicorum S. Petri a Constantino Cajetano abbate exscriptae, et Parisiis anno 1672 apud Lud. Billaine cum caeteris Damasi papae operibus, p. 21, excusae initia sumpta sint, compertum habeatur. Hujus quippe vitae scriptor, quamvis nec sermonis nec eruditionis omnino expers, negari tamen nequit, gestorum illorum dictis non satis circumspecte adhaesisse. Plura quidem castigavit absurda et absona; nonnulla quoque, ab historica veritate abhorrentia, ad ejus normam revocavit: sed non ita correxit omnia ut nihil corrigendum relinqueret. Non enim emendavit quod in his actis de Liberii exilio in coemeterio Noellae tertio ab Urbe milliario distanti legitur. Et quamvis Felicem ei subrogatum esse non taceat, sic tamen repraesentat Liberium, ut qui Damaso vices committat suas, ac subinde: « omnes catholici gradus ecclesiasticos » ad se convocet, iisque praesentibus baptismum multis millibus semel et secundo conferat. Mittimus eumdem scriptorem Luciferi episcopi Calaritani, Pancratii atque Hilarii ad Constantium legationem, nec non ejusdem Luciferi, Eusebii Vercellensis, atque ipsius Liberii exilia, quae concilium ariminense tribus vel quatuor annis praecesserunt, hac synodo posteriora credidisse; Hilarium pictaviensem episcopum cum Hilario diacono, qui Luciferiano schismati adhaesit, confundere, et alia similia de quibus plura disserere non est hujus loci. Hic annotasse satis sit, scriptorem illum his gestis, quae meliori forma exprimere conatus est, manifeste recentiorem apparere.
+
+### INCIPIUNT GESTA LIBERII PAPAE.( Indidem, p. 89)
+
+
+[1388C] {#pl.8.1388c}
+INCIPIUNT GESTA LIBERII PAPAE.( Indidem, p. 89)
+
+### 1. Fidei confessio.
+1. Fidei confessio.
+Anno regni Constantini 1 regis nepotis Constantini magni viri erat quidam sacerdos Urbis nomine Liberius, pius praesul Christum praedicans, sicut et doctus fuerat a Marco episcopo urbis Romae, qui eum ordinavit diaconum in civitate in gremio basilicae Constantinianae, semper in Trinitate fixus, Patrem et Filium et Spiritum sanctum praedicans, et laudans « Deum de Deo et lumen de lumine, totum a toto, plenum a pleno; non creatum, sed genitum; non ex nihilo, sed ex Patre, unius substantiae cum Patre: Spiritum vero sanctum Deum nostrum, non ingenitum neque genitum, non creatum neque factum, sed de Patre procedentem, Patris et Filii ( spiritum ), semper cum Patre et Filio coaeternum veneramur: unum tamen Deum, quia ex uno Patre totum quod Patris est Deus natus est Filius, et in Patre totum quod inest ( unus ms. quod est), totum genuit Filium. Pater Filium generans, non minuit nec amisit plenitudinis suae deitatem. Totum autem, quod Deus pater est, id esse et Filium certissime confitentes cum Spiritu sancto unum Deum piissime confitemur. Credimus Jesum Christum Dominum nostrum Dei Filium, per quem omnia facta sunt quae in coelis et in terra, visibilia et invisibilia, propter nostram salutem descendisse de coelo, qui nunquam desierit esse in coelo, et natum de Spiritu sancto ex Maria virgine. Verbum caro factum non amisit quod erat, sed coepit esse quod non erat, non demutatum, sed Deum permanentem, etiam hominem natum, non putative, sed vere, non aereum, sed corporeum, non phantasticum, sed carneum, ossa, sanguinem, sensum et animam habentem; ita verum hominem ut verum Deum, unum eumdemque verum hominem fuisse nullo modo ambigimus confitendum. Hunc eumdem Dominum Jesum Christum adimplesse Legem vel Prophetas, passum sub Pontio Pilato, crucifixum secundum Scripturas, tertia die a mortuis resurrexisse, assumptum in coelis, sedere ad dexteram Patris, inde venturum judicare vivos et mortuos exspectamus, et saeculum per ignem 2 . »
+
+### 2. Constantinus a lepra mundatus. Constans Nicomediae baptizatus. Liberius relegatus Noellam.
+
+
+[1389B] {#pl.8.1389b}
+2. Constantinus a lepra mundatus. Constans Nicomediae baptizatus. Liberius relegatus Noellam.
+
+
+[1389C] {#pl.8.1389c}
+Hoc cum legisset ex libro antiquo, edoctus a libro Silvestri episcopi Romanorum, eo quod et publice praedicaret, quia (dele quia) in nomine Jesu Christi a lepra mundatum fuisse per Silvestrum Constantinum patruum Constantis; erat enim Constans non integre christianus, sed quasi tentator, baptizatus tamen in Trinitate, non tamen integre confitebatur Trinitatem. Baptizatus autem ab Eusebio Nicomediensi in Nicomedia in Aquilone villa. Hic vero dicebat, alios filios habuisse de Maria Joseph. Hoc cum audisset Liberius episcopus urbis Romae, coepit deridere eum, et clara voce accusare, et dicere ex omni virtute: « Non erit tuum regnum, quia non times Dominum Deum tuum. » Hoc cum multi referrent regi 3 Constantio, iratus est vehementer, et jussit eum extra civitatem habitare. Habitabat autem ab urbe Roma milliario III, quasi exul in cymiterio Noellae via Salaria.
+
+### 3. Liberius Damasum vicarium instituit. Petri amor post negationem. Chrisma in nomine Domini.
+
+
+[1389D] {#pl.8.1389d}
+3. Liberius Damasum vicarium instituit. Petri amor post negationem. Chrisma in nomine Domini.
+
+
+[1390A] {#pl.8.1390a}
+Veniens 4 autem dies Paschae, vocavit universos presbyteros cives romanos et diaconos, et sedit in eodem cymiterio, et dixit: « Nolite timere quoniam vobiscum ego non habito in civitate Roma, sed habetis vicarium; ecce fratrem et presbyterum Damasum, cujus testimonium vos mihi perhibetis, cujus corpore et mente clara voce vos praedicatis 5 . » Respondit autem Dionysius presbyter ad Liberium episcopum urbis Romae, et dixit: « Praesul sancte et innocens a corruptione et fortis in palmarium Christi, tu enim bene scis, quoniam Petrus apostolus quando negabat aegrotabat. Venit accessio, et iterum negavit. Venit tertio febris, et negavit. Recessit febris, et ploravit et amare et dulce. Medicus autem nondum venerat. Venit medicus post tertium tyfus, fecit medicamentum, et curavit. Qui defecerat ter negando ante passionem, post resurrectionem ter amando reficitur. Respice medicamentum chrismatis, chrismatis sacramentum. Non nos accuset illa columba, quoniam tu conficis chrismate (leg. chrisma) et in nomine ejus quem voce clara praedicabas. Ipsam vocem, quia vox Domini repeti non potest, mutari non potest, audire cum tremore potest (f. oportet) . »
+
+
+[1390B] {#pl.8.1390b}
+4. Respondit autem Liberius episcopus urbis Romae, et dixit: « Domni et sancti compresbyteri, nolite cogitare de crastina. Sic enim dixit Magister: Crastinus enim dies ipse de se cogitabit (Matth. VI, 34) . Hoc enim commonemus. Joannes in deserto baptizabat in poenitentia. Ideo erat desertum, quia nondum venerat auctor baptismi. Ille enim dum venisset, descendit Spiritus sanctus in specie columbae, et mansit super aquas et super auctorem baptismi, et sacerdos quod accepit exhibet sacramentum. »
+
+### 5. Baptismus in pelve, flumine, palude.
+
+
+[1390C] {#pl.8.1390c}
+5. Baptismus in pelve, flumine, palude.
+Respondit Damasus presbyter, et dixit: « Exhibe nobis celebrare Pascha. Ego in humilitate loquor: onus enim, quem ( leg. quod) tu super te bajulas, nos sublevare non possumus; quia ignoras ubi baptizes. Baptiza in pelve ubi Magister. Pelvis illa non lignum, sed totus mundus est. » Hunc sermonem accepit Liberius cum magno honore, et gaudio plorabat, et dicit ad eum: « Eris major minister, sicut et ille qui nobis dedit baptismum, sic dixit ad plebem: Qui est vester minor fiat major 6 . » Respondit Siricius diaconus et dixit: « Juba ore meo praesul, et infunde favore. Patres nostri in typo baptismi transierunt per medium mare. Nam in fluminibus et in paludibus oportet baptizari. » Dicit Liberius episcopus: « Juste locutus es. » Erat enim ibi non longe a cymiterio Noellae cymiterius Ostrianus, ubi Petrus apostolus baptizavit. Eodem tempore Paschae baptizavit promiscui sexus numero quatuor millia duodecim: qui omnes Romani vel a longe, alii vicini Romanorum desiderabant ab eodem baptizari.
+
+### 6. Constantii expeditio super Danubium.
+
+
+[1391A] {#pl.8.1391a}
+6. Constantii expeditio super Danubium.
+Veniens autem 7 eodem tempore bellum super Danubium ingestissima ( an ingentissima) pars barbarorum quasi intra octavarum Paschae. Et audiens hoc Constans (Leg. Constantius) dixit: « Videte hunc sacrilegum, quia quod numquam factum est, fecit superstitionem vanitatis. Ideo haec plaga multitudinis barbarorum ingens venit super Romania; » et ambulavit ad bellum, et profectus est cum grandi amaritudine, et dicebat, dum exiret portam civitatis: « Sacrilegum Liberium, qui dixit patruum meum fuisse leprosum, et baptizatum a Silvestro episcopo, et mundatum, dum abiero super quadrupedes Danubii, et concidero barbaros, rediens ad urbem Romam, volucribus coeli et bestiis terrae carnes ejus immolabo; ipsum solum Liberium, non enim alios: ne dicant et affirment me esse persecutorem. » Dum esset autem in pugna Danubii, Constans fortiter urgebatur.
+
+### 7. Liberius ut in basilica S. Petri baptizet rogatur.
+
+
+[1391B] {#pl.8.1391b}
+7. Liberius ut in basilica S. Petri baptizet rogatur.
+Veniens autem dies Pentecosten, satis protestatus sexus promiscuus urgebatur ad baptismum propter metum persecutionis. Dicit autem 8 Dionysius presbyter: Quare non baptizas ad primum pontificem nostrum Petrum apostolum? Respondit Damasus et dixit: Fac; erat enim obscurus sensus Liberii episcopi dicens: Patruus ( In actis Damasi, pater) ejus fabricavit ecclesiam hanc, et construxit. Quoniam habet potestatem in patrui sui dare sententia. Nam et aqua ibi non emanat. Homines enim promiscui sexus renasci desiderant, non mori propter me singulum. Respondit Dionysius presbyter, et dixit: Renascantur; et si mortui fuerint post baptismum, in cruore melius vivent.
+
+### 8. Damasus pollicetur fontes. Liberius baptizat in Pentecoste.
+
+
+[1392A] {#pl.8.1392a}
+8. Damasus pollicetur fontes. Liberius baptizat in Pentecoste.
+Respondit Damasus, et dixit 9 : « Non tristetur cor tuum, praesul summe: quia dabo tibi venam fontis emanantem. » Gaudio consolatus est Liberius in hunc sermonem, et dicit ei: « Vade, construe affluente Spiritu: et ego veniens cum fratribus et adorabo illum quem nobis dimisit Christus, qui pro nobis est pastor. » Et tertio die venit Damasus, venit Siricius, venit Innocentius, venit Priscus et Urbanus diaconi ad beatum Petrum apostolum. Erant enim ibi monimenta, et super aqua denatabat. Fecit autem quasi cum eos (Leg. eis) consilium Damasus, et dixit: « Date mihi opera mysterii (ministerii), ut haec aqua mundetur desuper cadavera hominum. » Fecit autem cuniculos duos, et exinanivit locum illum qui est a dextra introeuntibus in basilicam beati Petri apostoli. Habebat enim ibidem fontem quae (leg. qui) non sufficiebat. Et caecidit montem Damasus manu sua. Et introivit plus quam consuetum est. Et construxit fontem. Et nuntiaverunt hi omnes Liberio episcopo quid actum fuisset. Et jussit convenire omnes presbyteros, clerosque et universos (f. ex universis) gradibus vel fideles. Et voce clara dixit: « Vocat Petrus oves suas. Ecce homo fidem servans, Christum audiens et me peccatorem, fecit ovile ovium, et dedit eloquio meo dulcedinem mellis: propter quod ego gaudeo, quia non dimisit Petrus introire lupum, et devastare oves ejus. Sciatis baptismum me praedicare in basilica Petri apostoli. » Hoc omnes cum gaudio susceperunt. Erat enim proximus dies Pentecosten. Fecit convenire monasteria et plebem sanctam Christianorum. Et cum laetanea (litaniis) venit ad beatum Petrum apostolum. Dedit autem, dum introisset, hanc orationem: « Deus, qui misisti Filium tuum, et ostendisti creaturae creatorem, respice super vineam istam, et emunda ab ea spinas et tribulos, et produc palmites ejus in fortitudinem, et dona eis fructum veritatis per Deum et Dominum nostrum Jesum Christum et Spiritum sanctum, qui vivit cum Deo Patre omnipotente a saeculis et nunc et usque in saecula saeculorum. » Et respondit universa plebs: « Amen. » Et introierunt sabbato Pentecosten, et placuit Liberio fons, et gaudio plorabat omnino non amare, sed favum omnibus videbatur. Ab hora nona catechizavit omnes, et ab hora quasi 10 jam ad occasum usque in Dominica Pentecosten non cessavit baptizare. Multi enim urgebantur 11 baptizare: ita ut Dominicum Pentecosten sabbati Missas celebrarentur hora quasi octava. Et baptizati sunt promiscui sexus fere octo millia octingenti decem 12 . Multi eodem tempore desiderabant tangere vestimenta Liberii episcopi.
+
+
+[1393B] {#pl.8.1393b}
+9. Alia autem die, quae est feria secunda, audivit universa plebs, quod Constans adeptus quidem 13 victoria fecerat, clara sensu alieno dicebat: « in Nicomediam vadam, » et transivit 14 usque ad Nicomediam, et in Aquilone villa, ubi baptizatus est ab Eusebio Nicomediense, in Arianorum dogma declinat. Eodem loco mortuus est et sepultus Constante III 15 et Constantio aug. et Basso consulibus, IX Kalendas Maias. Et sedit eamdem sedem Petri apostoli annos 17, menses 13, dies 8. In ejus tempore fabricata est absis in urbe Roma in regione quinta, et requievit in pace
+
+
+[8] {#pl.8.8}
+(1) Anno Christi 327, consulatum gessit Fl. Valerius Constantinus, de quo dubitatur quidem Constantino frater, an fratris filius fuerit: sed is regno numquam potitus legitur: ac certum est id, quod ab Eusebio de baptismo Constantini Magni Nicomediae traditum est, perperam ad hunc nepotem referri. (1) Ex libello fidei qui in Codice Quesnelli extat cap. 39, et apud August., in append. tom. V, Serm. 235, nonnullis mutatis. (2) Vitae Damasi scriptor, de quo in Admonitione praefati sumus, de Constantio Constantini Magni filio, qui Constantino et Constante fratribus defunctis, solus imperium obtinuit, istud non minus falso intellexit. (3) Haec ita emendavit et amplificavit vitae Damasi scriptor, ut longe plenior et elegantior sit Liberii oratio, ac nihil ab eo, quod summum dedeceat pontificem, proferri ponat. Tantum rerum dictarum cum gestis desideratur consensio. In eo autem maxime peccat, quod Liberium exulem sic inducit loquentem, ut qui Ario recens extincto, mutationis rerum maximam inde spem capiat; cum anno Christi 336, extinctus sit Arius, hoc est 20 annis antequam Liberius in exilium pelleretur. (4) In memorata Damasi vita sic desinit oratio Liberii, subnectiturque Dionysii interlocutio, ut omnia sibi apte cohaereant: sed ibi nihil de negatione seu lapsu atque emendatione Petri. Haec autem istic non alio videtur attinere, nisi ut Symmachus papa, vel potius concilium a quo absolutus erat, ex culpa eximatur. Eo quidem pacto gestorum istorum artifex Symmachum non innoxium fuisse innueret: sed virum quadam benevolentiae specie potius, quam ulla prudentiae laude cemmendatum, in id unum intendisse suspicamur, ut suam Symmacho dignitatem servari potuisse persuaderet. (1) In Damasi vita istud ita explicatur, ut vaticinetur Liberius quod beatus Damasus pro eminentia humilitatis et vigilantiae, ad culmen sedis apostolicae esset quandoque provehendus. (2) Haec ita emendavit vitae Damasi scriptor: In diebus illis multitudo barbarorum super Danubium congregata est, ut fines Romanorum invaderent. Quod audiens, imperator Constantius ait: Videte hunc sacrilegum, quia quod numquam factum est, fecit, ideo haec plaga multitudinis super regnum nostrum. Et infra dies paschales profectus est ad bellum, comminans, cum proficisceretur, Liberio episcopo, quod victor revertens carnes ejus volucribus coeli et terrae bestiis immolaret. (3) In vita Damasi ipsius Damasi haec sunt verba; in hunc enim modum locus iste restauratur: Volente autem Liberio in praescripto coemiterio Ostriano baptizare, ait ad eum B. Damasus: Quare opportunitate accepta non baptizas ad primum nostrum pontificem Petrum apostolum? Respondit Liberius. Quia dubito (nam pater ejus fabricavit hanc ecclesiam, et construxit) ne ex hoc iratus ferat sententiam. Homines enim renasci desiderant, non mori. Quasi vero si Liberio ad ecclesiam B. Petri accedere liberum fuisset, haec idonea esset ratio cur ab iis qui baptismum expetebant, ibi baptizandis abstineret, quia haec ecclesia a Constantii patre constructa esset. (4) Et ista vitae Damasi auctor sic mutavit: Non turbetur cor tuum, pontifex summe, et si coronae tempus advenit. Sed et de aqua ne sis sollicitus: ego dabo tibi venam fontis emanantem. Et corroboratus gaudio Liberius ad verbum ejus, ait ei: Vade itaque, construe fontem affluentem, ut renascantur omnes qui Ecclesiae filii esse cupiunt. Et die tertio veniens Damasus presbyter cum diaconibus ad ecclesiam S. Petri, communicato consilio, dixit eis: Date mihi operam ministerii hujus. Providens autem expiavit locum illum qui est ad dexteram introeuntibus basilicam B. Petri, eliminata inde omni putredine, construxitque fontes, et coecidit montem proximum Damasus manu sua . . . et manavit aqua abundanter, ut repleret fontes quos ipse construxerat. Gavisus autem ex hoc Liberius jussit congregari presbyteros et alios ecclesiasticos gradus. Veniens ad basilicam praenotatam, cum appropinquasset ad fontem, dedit orationem hujusmodi: Deus omnipotens qui misisti, etc., filium tuum, et ostendisti omnium creatorem, respice super vineam istam, quam plantavit dextera tua , . . . fructum veritatis, qui vivis et regnas in saecula saeculorum. (1) In vita Damasi, quasi undecima usque. (2) Ibid. urgebantur ad baptismum, ut in Dominica Pentecostes sabbati Missa celebraretur. (3) Ex iis quae deinceps sequuntur, vitae Damasi scriptor nihil arripuit. (4) Lege, victoriam fuerat, clara voce sensu. (5) Constantinus Magnus, non is imperator cujus jussu Liberius relegatus est, anno Christi 337, in suburbanis Nicomediae baptizatus, ibidemque vita functus ab Eusebio in libro IV Vitae ejus, cap. 61 et seqq., narratur. (6) Constantis tertius consulatus in annum Christi 346 incidit: in quem annum neque Constantini patris, neque filii ejus Constantii, longe minus Liberii mors convenit.

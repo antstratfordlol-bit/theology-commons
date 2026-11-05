@@ -1,0 +1,26 @@
+---
+id: pl.142.7206
+sigla: pl.142.sermon-on-the-feast-of-st-narcissus
+title: "Sermon on the feast of St. Narcissus"
+work: "Sermon on the feast of St. Narcissus"
+creator: "Oliba of Vic"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 142"
+columns: "142"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.142.colN}"
+---
+
+# Sermon on the feast of St. Narcissus
+
+**Author**: Oliba of Vic  
+**Series**: PL 142  
+**Columns**: 142  
+
+[142] {#pl.142.142}
+Sermo in natali S. Narcissi
+I. SERMO IN NATALI SANCTI NARCISSI EPISCOPI CONFESSORIS ET MARTYRIS CHRISTI.
+Quia hodie, fratres charissimi, festivitas almi confessoris Narcissi et martyris Christi annua decursione revolvitur, gaudeamus. Hodie namque justus in domo Domini plantatus, qui, sicut palma flores in excelsum protulit, maturos in aulam regiam fructus exhibuit. Hodie stola, quam in sanguinem Agni saepe abluerat, indutus, atque dignitate sacerdotii infulatus, et martyriali laurea coronatus, et roseo sui sanguinis rubore perfusus, coeli palatium ingressus, coelesti Imperatori fortissimus miles gloriose est praesentatus. Hodie domum senatoriam introivit, et a Christo vero Rege complexus in ordine suo collocari promeruit. Et ideo exsultent justi in Domino, quoniam rectos decet collaudatio; dicantque justo: quoniam bene, quoniam fructum adinventionum suarum manducabit. Gaude et tu nimium, Felix; et laetare, Gerunda, quoniam speciale promeruisti munus, quod nulla circa te commanens civitas potuit habere, vel locus. Tibi namque Africa fidei calore repletum, Deo disponente, Felicem direxit sanctissimum, qui Barchinonem docendo ad Christi fidem atque culturam direxit, et praedicando impurias ab errore daemonum liberavit; viam veritatis ignorantibus demonstravit, atque se evangelizans cum triumpho martyrii in te gloriosa morte quievit. Tibi quoque verus Oriens atque Sol justitiae Narcissum florem paradisi et luciferum adventus sui praeconem direxit, qui diversas illustrando provincias, atque provocando animas ad poenitentiam, diabolica fraude deceptas, dum te sua praedicatione doceret, suisque sanctissimis orationibus foveret, in te venerabilis martyr existens cum consortibus propriis in libro vitae conscriptis in perpetuum praemuniret. Sed, o beate Narcisse, flos paradisi, atque in omni loco permanens bonus odor Christi, quibus te laudibus extollemus? Fidemne prius an virtutes miremur? Sed fidem, quoniam sine ipsa, quae te scuto armavit, galeaque salutis protexit, et gladio spiritus, verbo scilicet Dei, praemunivit, nusquam quisque Deo placere valebit. De virtutibus autem, quibus te gratia Christi ornavit, pauca de multis, propter quod coepimus, exsequemur. Igitur eo tempore, quo per Augustam civitatem transitum habuisti, quid ibi gesseris, qualiter ibi docueris, testimonio tua sanctitas non indiget; quoniam repleta civitas tuis praedicationibus, et munita tuis sanctis orationibus hactenus sacerdotes a te constitutos et martyres ostendit. Ibi denique datae lupanaribus, et diversis generibus pollutionum nefandissimae Veneris meretrices, et in hospitium suscipientes tuamque sanctitatem diutissime intuentes, et claritatem superni luminis in te coelitus emissam conspicientes, Domini nostri Jesu Christi verissimae per te meruerunt esse cultrices. Ipse nimirum eas de faucibus antiqui draconis eripuisti, easque suo Creatori purificatas a sordibus mentis et corporis consecrasti; atque animatas tua sanctissima praedicatione inter collegia martyrum cum corona martyrii mirabiliter introduxisti. Ipsum etiam draconem inimicum generis humani repletus Christi sapientia sapientissime conclusisti, ut nisi draco draconem suum interficeret amicum, ipse ruinam passus profundissimam protinus rueret in abyssum. Aquas interea Alpium Juliarum, quas ne ad usum proficerent hominum lividus infecerat inimicus, tua dulcis oratio in dulcedinem vertens humanis usibus aptas exhibuit. Ergo nullatenus te deserebat gratia Christi; sed ubique illuminans inflammabat, ubique protegens circumdabat, ut bene tibi congrueret quod scribitur in psalmo, quoniam Dei Filius tenuerit manum dexteram tuam, et in voluntate tua te deduxerit, et martyrio coronatum te assumens atque ad coeli palatium transferens, et inter senatores curiae coelestis te constituens in collegio eorum disposuerit. Ergo, fratres charissimi, quoniam nobis dies tantae solemnitatis confessoris Christi, nostrique apostoli et martyris [illuxit], gratias et laudes reddamus omnipotentissimo Creatori; illius praelibati Narcissi, floris videlicet paradisi, nos subdentes orationi, et quod amavit amemus, et quod verbo praedicavit credamus, et quod operibus exhibuit imitemur. Exsultet igitur pontifex noster, clerus, simulque congaudeat populus universus. Quoniam sicut Roma, quae caput et speculum est totius orbis, a Deo promeruit habere primum apostolorum et principem suae salvationis, Petrum, ita quoque Gerunda doctorem suae salutis florem paradisi promeruit habere Narcissum. Omnis haec dies in Christi laudibus expandatur, atque divinis ejus cultibus dedicetur; desinant esse jurgia, quia praedicationis pacis recoluntur solemnia; desinant esse comessationes et ebrietates, quia cujus hodie festivitas celebratur tales a Christianis prohibuit voluptates.

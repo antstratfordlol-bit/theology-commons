@@ -1,0 +1,51 @@
+---
+id: pl.042.690
+sigla: pl.42.admonition-on-augustines-on-the-trinity
+title: "Admonition on Augustine's On the Trinity"
+work: "Admonition on Augustine's On the Trinity"
+creator: "Uncertain author"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 42"
+columns: "42–0817"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.42.colN}"
+---
+
+# Admonition on Augustine's On the Trinity
+
+**Author**: Uncertain author  
+**Series**: PL 42  
+**Columns**: 42–0817  
+
+[42] {#pl.42.42}
+Admonitio
+ADMONITIO IN LIBROS DE TRINITATE.
+Prolixum de Trinitate opus per annos non paucos in manibus habuit Augustinus; cum illud, ut ipse ad Aurelium scribit, juvenis inchoarit, senex ediderit. Quippe id facile intermittebat, quoties alii cuipiam incumbendum erat operi, quod pluribus profuturum existimabat; ratus istud operosius et minus utile quam pleraque alia, quod res minus necessarias et a paucioribus intelligendas contineret. Hunc laborem suscepit in eorum potissimum gratiam, qui fidei auctoritatem non recipientes, mysteriorum veritatem ratione demonstrari sibi volebant. Cum enim in sacrarum rerum meditatione, cui se maxime deditum Vir sanctus in lib. 1, cap. 3, profitetur, plura in dies et altiora divino illustratus lumine detegeret, non patiebatur charitas ipsum, quae ex Dei dono accepisset, aliis denegare. Sperabat siquidem fore, ut aliis ministrando quae legerent, ipse quoque proficeret; ac aliis cupiens respondere quaerentibus, etiam ipse id quod quaerebat inveniret. Ergo suscepi, ait, lib. 1, cap. 5, haec, jubente atque adjuvante Domino Deo nostro, non tam cognita cum auctoritate disserere, quam ea cum pietate disserendo cognoscere. Testatur in tertii libri exordio, stilum se perlibenter fuisse suppressurum, si res hujusmodi a Latinis invenirentur explicatae, aut Graeci qui de iis rebus tractarunt, essent latine redditi, aut alii denique curam respondendi quaestionibus ipsi propositis, quas, ait, pro persona mea quam in servitio Christi gero, necesse est me pati, vellent suscipere.
+
+
+[0815] {#pl.42.0815}
+Argumentum suum variasque propositas circa id quaestiones et difficultates hoc ordine pertractat. In libro I summae Trinitatis unitatem et aequalitatem demonstrat ex Scripturis: earum testimonia quae contra Filii aequalitatem perperam objectantur, quomodo interpretanda sint secundum catholicam fidem, ostendit.
+II. Eamdem Trinitatis aequalitatem asserit, probans nihil obstare quae de Filii missione ac Spiritus sancti, deque variis Dei apparitionibus dicuntur in Scripturis. Trinitatem enim totam in sua natura immutabilem, invisibilem, ubique praesentem, in missione qualibet vel apparitione inseparabiliter operari.
+III. Quaerit an in praedictis Dei apparitionibus corporea tantummodo creatura formata sit, in qua Deus humanis ostenderetur aspectibus; an Angeli jam ante existentes ita sint missi, ut ex persona Dei loquerentur, sive per corporalem speciem de corporea creatura assumptam, sive per suum ipsorum corpus in quas vellent species conversum: ita ut ipsa Dei essentia nunquam per se ipsam visa fuerit.
+IV. Docet ad quid missus sit Filius Dei. Caeterum, Filium Dei, quamvis missione factus sit minor, non ideo esse minorem quia misit eum Pater, nec ideo minorem Spiritum sanctum quia et Pater eum misit et Filius.
+V. Pergit ad refellenda haereticorum argumenta illa, quae jam non e divinis libris, sed e suo sensu proferunt. Ac primum quod objectant gignere et gigni, vel genitum esse et ingenitum, quoniam diversa sunt, substantias esse diversas, refellit, ostendens ista de Deo non secundum substantiam dici, sed relative.
+VI. In eos qui contra Filii aequalitatem disputant ex eo quod Christus ab Apostolo dictus sit Dei Virtus et Dei Sapientia, quaestionem proponit, annon et ipse Pater sapientia sit. Cujus tantisper dilata solutione, adhuc probat unitatem et aequalitatem Patris, Filii, ac Spiritus sancti; et non Deum triplicem, sed Trinitatem dici et credi oportere. Tum explicat dictum Hilarii; Aeternitas in Patre, species in Imagine, usus in Munere.
+VII. Quaestionem, quae dilata fuerat, resolvit, docetque Patrem, Filium, et Spiritum sanctum esse unam virtutem et unam sapientiam, non secus atque unum Deum et unam essentiam. Quaerit postea quomodo dicatur in Deo, a Latinis una essentia, tres personae; a Graecis, una essentia, tres substantiae vel hypostases.
+VIII. Ratione etiam reddita monstrat, non solum Patrem Filio non esse majorem, sed nec ambos simul aliquid majus esse quam Spiritum sanctum, nec quoslibet duos simul in eadem Trinitate majus aliquid quam unum, nec omnes simul tres majus aliquid quam singulos. Admonet ut ex veritatis intellectione, ex notitia summi boni, et ex insito amore justitiae, intelligatur natura Dei; praesertim vero ut ipsius cognitio puaeratur per charitatem, in qua tria quaedam velut Trinitatis vestigium inesse observat.
+IX. Trinitatem in homine, qui imago Dei est, quamdam inveniri docet: mentem, et notitiam qua se novit, et amorem quo se notitiamque suam diligit; et haec tria esse inter se aequalia et unius essentiae.
+X. Aliam in hominis mente evidentiorem reperiri trinitatem; in memoria scilicet, intelligentia, et voluntate.
+XI. Etiam in exteriori homine Trinitatis aliqua vestigia, veluti in corporali visione, deprehendi.
+XII. Praemissa distinctione sapientiae a scientia, ostendit in ea quae proprie scientia dicitur, quamdam trinitatem: quae licet ad interiorem hominem jam pertineat, nondum tamen imago Dei sit appellanda.
+
+
+[0817] {#pl.42.0817}
+XIII. Repertam in scientia trinitatem exponit per commendationem fidei christianae.
+XIV. De sapientia hominis vera dicit, qua videlicet meminit, intelligit, et diligit Deum: ostendit quod in eo ipso sit homo imago Dei secundum mentem; quae quidem hic renovatur in agnitione Dei, tunc vero erit in ea imagine perfecta Dei similitudo, quando Dei perfecta erit visio.
+XV. Quidquid in superioribus exposuit, compendiario sermone complectitur: ac postremo Trinitatem, in cujus perfecta visione nobis beata vita promittitur, ostendit a nobis hic videri tanquam per speculum et in aenigmate, dum videtur per imaginem Dei quod nos sumus.
+Hosce libros in Retractationibus collocat inter opuscula circiter annum Christi 400 conscripta, quia illos eo tempore inchoavit. In epistola 120, ad Consentium anno 410 missa, n. 13, meminit operis de Trinitate, quod in manibus habebat, et ob argumenti praestantiam ac difficultatem nondum perficere potuerat. In 162, ad Evodium, quae ad annum 414 pertinet, scribit n. 2 se libros de Trinitate nondum edidisse: et in 169 ad eumdem epistola, quae exeunte anno 415 scripta est, se nondum illos complevisse, n. 1 testatur. Ex epistola 143, ad Marcellinum data sub finem anni 412, licet intelligere, n. 4, amicos ab eo flagitasse, ut hos libros publicaret; ipsum contra diutius eos retinuisse, quam vellent et ferrent. Unde conjicias priorem ipsam publicationem, quae opere necdum absoluto facta est, non praecessisse annum 412. Constat autem alteram nonnisi longo post tempore factam, cum ipse in libro 13 citet illud quod scripserat in libro 12 de Civitate Dei, qui ante annum 416 perfectus non fuit. Libro 15 citat Tractatum 90 in Joannem. Ad istud opus Prosperum remittit lib. de Praedestinatione Sanctorum, cap. 8, ratus id jam in Galliis haberi.
+Cassiodorus senator, in Institut. cap. 16, laudat quindecim libros, quos Augustinus de sancta Trinitate mirabili profunditate conscripsit, curiosa intentione meditandos. Eosdem libros e latino sermone in graecum transtulit Maximus Planudes monachus, qui sub Andronico seniore vivebat, circiter annum 1350. Demetrius vero Cydonius sub Joanne Cantacuzeno, capita aliquot vertit ex ejusdem sermonibus. Has versiones Romae asservari in bibliotheca Vaticana, testatur Possevinus in Apparatu. Vidimus Indicem Ms. codd. Graec. biblioth. Vatic. qui est penes V. C. Antonium Faure Doct. Theolog. Paris. et similem alium in codice Colbertinae bibliothecae 5125, in quibus haec leguntur: Τοῦ μακαριωτάτου Αὐγουστίνου ἐπισκόπου Ἱππῶνος περὶ Τριάδος βιβλία πέντε πρὸς τοῖς δέκα, ἅπερ ἐκ τῆς Λατίνων διαλέκτου εἰς τὴν Ἑλλάδα μετήνεγκεν ὁ σοφώτατος καὶ τιμιώτατος μοναχῶν Μάξιμος Πλανούδης. Item: Τοῦ μακαρίου Αὐγουστίνου ἐπισκόπου Ἱππῶνος κεφάλαια ἐκ τῶν αὐτοῦ λόγων παρεκβληθέντα ἐκ τῆς Λατίνων διαλέκτου εἰς τὴν Ἑλλάδα μετήνεγκε Δημήτριος ὁ Κυδώνης. Vide Allatium, lib. 2 de utriusque Ecclesiae Consensione, cap. 17, § 4.
+Domino beatissimo, et sincerissima charitate venerando, sancto fratri et consacerdoti papae AURELIO AUGUSTINUS, in Domino salutem.
+De Trinitate, quae Deus summus et verus est, libros juvenis inchoavi, senex edidi. Omiseram quippe hoc opus, posteaquam comperi praereptos mihi esse sive subreptos antequam eos absolverem, et retractatos, ut mea dispositio fuerat, expolirem. Non enim singillatim, sed omnes simul edere ea ratione decreveram, quoniam praecedentibus consequentes inquisitione proficiente nectuntur. Cum ergo per eos homines (quia priusquam vellem, ad quosdam illorum pervenire potuerunt) dispositio mea nequivisset impleri, interruptam dictationem reliqueram, cogitans hoc ipsum in aliquibus meis scriptis conqueri, ut scirent, qui possent, non a me fuisse eosdem libros editos, sed ablatos priusquam mihi editione mea digni viderentur. Verum multorum fratrum vehementissima postulatione, et maxime tua jussione compulsus, opus tam laboriosum, adjuvante Domino terminare curavi: eosque emendatos, non ut volui, sed ut potui, ne ab illis qui subrepti jam in manus hominum exierant, plurimum discreparent, Venerationi tuae per filium nostrum condiaconum charissimum misi, et cuicumque audiendos, describendos, legendosque permisi: in quibus si servari mea dispositio potuisset, essent profecto etsi easdem sententias habentes, multo tamen enodatiores atque planiores, quantum rerum tantarum explicandarum difficultas et facultas nostra pateretur. Sunt autem qui primos quatuor vel potius quinque etiam sine prooemiis habent, et duodecimum sine extrema parte non parva: sed si eis haec editio potuerit innotescere, omnia si voluerint et valuerint, emendabunt. Peto sane ut hanc epistolam, seorsum quidem, sed tamen ad caput eorumdem librorum jubeas anteponi. Vale. Ora pro me.

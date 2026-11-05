@@ -1,0 +1,35 @@
+---
+id: pl.161.7012
+sigla: pl.161.dedication-letter
+title: "Dedication Letter"
+work: "Dedication Letter"
+creator: "Melchior a Vosmediano"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 161"
+columns: "161"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.161.colN}"
+---
+
+# Dedication Letter
+
+**Author**: Melchior a Vosmediano  
+**Series**: PL 161  
+**Columns**: 161  
+
+[161] {#pl.161.161}
+Epistola dedicatoria
+EPISTOLA DEDICATORIA
+PHILIPPO maximo Hispaniarum, Angliae, Franciae et Neapolis, etc., regi Catholico, ac fidei defensori, MELCHIOR a VOSMEDIANO, artium et sacrae theologiae doctor, ejusdem regiae majestatis a sacris ac xenodochii regiae curiae praefectus.
+Majores nostri, Philippe maxime rex Catholice, summa diligentia contendere nitebantur, ut probatissimos quosque auctores undecunque conquirerent et conquisitos, nulli parcentes pecuniae, conscribi curarent, et ingenti studio conscriptos conservarent: unde factum est ut fervens illud litterarum studium in dies apud eos magis succresceret et praestantium hominum ingenia ad eorum lectionem excitarent. Quare nos illis multum debemus qui hanc curam publicam suscepere, ut eorum laboribus adjuti, studia nostra magis quotidie promoverentur. Quod mihi certe contigit, cum in concilio oecumenico Tridentino (cui ad sex fere integros annos interfui) in Panormiam seu Decretum doctissimi Ivonis Carnotensis incidi. Nec tamen desideratum potui habere, cum tamen non exiguo labore illud in concilio, et apud Venetos bibliopolas, et alibi conquisitum non posse invenire, et ingenti hujus libri desiderio tenerer, apud Anglos Londini in regia tuae majestatis curia agens, illum quaerere per bibliothecas, cum publicas tum privatas minime destiti; sed quem quaesitum invenire non potui, casu reperi, nec unum exemplar, sed duo: alterum a sexaginta fere annis impressum, alterum vero in pergamena charta vetustissimis characteribus manuscriptum. Quae mihi tam grata fuere ut Anglicae peregrinationis immemor, inventus liber laborem alioqui non exiguum longe superasse videretur. Et ne tantus labor periret, et tempus (quod pretiosissimum est) per manus dilaberetur, accingor, lego et perlego, et multa cum diligentia percurro librum (imo exemplaria illa duo) quae cum referta pulchra doctrina, sanctis legibus, sanctissimisque Patrum institutis invenirem et locupletissimo indice (quo carebat) a me composito ornarem, et emendarem per omnia librum pretiosissimum ac reipublicae Christianae longe utilem et necessarium in lucem emitterem, ne tantus thesaurus maneret absconditus, et lucerna sub modio nulli profutura lateret hac in re nullis peperci laboribus, nullis vigiliis, ut liber hic infinitis fere mendis quibus scatebat, expurgatus, non jam aliena veste (ut erat) sed propria potius eniteret, et omnium manibus versaretur, qui ad omnium utilitatem ingenti studio, maxima diligentia, ac miro ingenio a doctissimo Ivone conscriptus fuerat. Cum igitur vetustissimus sit mos dicare libros principi viro, cui ego istum dicare possem, aut deberem, nisi tibi Philippe, principum maxime et regum optime, qui me in tuam plane regiam familiam nil tale cogitantem evocasti? Aut cui potissimum librum qui de justitia et jure totus agit, dicari merito debuisset, quam tibi regum potentissime, qui innumeris regnis praees, et jus tot nationibus tamque variis dicas? Cum demum justitiae munus sit, id distribuere (ut Aristoteles ait) quod est secundum cujusque dignitatem, patrias consuetudines tueri et instituta, servare scriptas leges et veracem esse in controversiis, et stare conventionibus, cui potissimum Panormia haec de legibus cum verissimis, tum sanctissimis aeque conveniret quam tibi? ut ex ea in promptu habeas, quae decreta, quae Patrum sanctiones, quae statuta majorum prodesse reipublicae possint, quae leges sint, ad quarum normam, qui sub tuo degunt imperio (quod Dei munere toto terrarum orbe amplissimum est) se componere debeant. Aut cui pulcherrimum hunc sanctissimarum legum, Romanae Ecclesiae et sancti auctoris librum dicarem, imo auctor ipse (si in vivis ageret) dicaret, quam tibi, rex catholicae fidei defensor, qui relictis amplissimis tuis praeter alia multa utriusque Siciliae et Indiarum provinciis (quae innumerae sunt) ad divisos toto orbe Britannos te contulisti, ut ibi una cum heroe incomparabilis virtutis serenissima Maria conjuge tua, fidem propagares, et eam si non mortuam, certe pene exstinctam reviviscere, imo de morte ad vitam veluti excitares; quod veri Christiani principis munus, ea animi moderatione, ea patientia et mansuetudine, ea dexteritate et prudentia fecisti, ut intra paucissimos dies, Christiana fides, a Britannis jam exsul, revocaretur, schisma longe maximum aboleretur, et nomen pontificis summi in terris Christi Dei optimi maximi (fremant licet haeretici) vicem gerentis, quod audire apud eos nefas erat, et audiretur, et in honore (ut par erat) haberetur, et templa quae quondam plena populo erant, et tunc tanquam deserta habebantur, frequenti populo non multo post dies, et innumeris missarum sacrificiis ornata, tua cura et sollicitudine, multa cum gratiarum ad Deum actione vidimus, non sine multorum nefandorum hominum gemitu, cum nonnullorum tamen congratulatione: reliquerat enim ibi Dominus septem millia virorum, qui non curvaverant genua sua ante Baal; audierat etiam clamantem sub altari sanguinem beati martyris Joannis Fischerii Roffensis episcopi, incomparabilis sanctimoniae, et insigni litteratura viri, et Thomae Mori Angliae cancellarii longe meritissimi, et monachorum Carthusiensium, et aliorum qui pro tuenda Catholicae fidei veritate, mortis constantissime subiere tormentum, ut aeterna apud Deum vita fruerentur; suscitaverat enim Dominus te, rex optime, idemque maxime principem super has Britanni populi oves, ut eas pasceres, ut quod infirmum est consolidares, quod aegrum sanares, quod confractum alligares, quod abjectum reduceres, denique ut quod perierat quaereres, quae omnia zelo domus Dei et Christianae fidei (qua ferves) succensus, ita praestitisti, ut nedum regem optimum ageres, verum etiam animarum pastorem et apostolum fuisse videaris. Nam ita regni habenas moderaris, ut solum rex esse videaris, et ita plantandae propagandaeque fidei et religioni Christianae ac exstirpando schismati perniciosissimo incubuisti, ut et apostolus et animarum pastor censearis et ita utrique muneri obeundo adstitisti, ut neutri deesse videaris. Nec haec narro, ut tuas decantem laudes, quas etiam modestissimus non libenter audis, sed ut res gestas quas vidimus ad Dei optimi maximi gloriam referamus. Tu igitur, regum optime, opus hoc sub tuam clientelam suscipito, nec quale sit munus offerentis respicias, sed qua sit tibi mente oblatum. Vale, Philippe maxime, rex Catholicae fidei defensor atque propagator, et Deus te nobis servet incolumem, vincas, valeas, et multis annis imperes.
+
+
+[1039] {#pl.161.1039}
+Bruxellae, 15 Martii 1557.
+
+
+[161] {#pl.161.161}
+Panormiam a Decreto non distinguit. Vide Dissertationem in Decretum Ivonis, supra col. XLIX, [EDIT].

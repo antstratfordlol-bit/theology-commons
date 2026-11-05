@@ -1,0 +1,35 @@
+---
+id: pl.139.6899
+sigla: pl.139.on-the-nineteen-year-cycles
+title: "On the Nineteen-Year Cycles"
+work: "On the Nineteen-Year Cycles"
+creator: "The Maurist Editors"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 139"
+columns: "139–0573"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.139.colN}"
+---
+
+# On the Nineteen-Year Cycles
+
+**Author**: The Maurist Editors  
+**Series**: PL 139  
+**Columns**: 139–0573  
+
+[139] {#pl.139.139}
+De circulis decennovennalibus
+DE CIRCULIS DECENNOVENNALIBUS BEDAE VENERABILI ASCRIPTIS.( Histoire littéraire de la France, tom. VII, pag. 177, in ABBONE Floriacensi.)
+Abbon travailla aussi sur le Cycle pascal de Victorius, dont nous avons rendu compte au Ve siècle; et son ouvrage existe encore dans diverses bibliothèques de l' Europe (MONTF. Bibl. bibl., p. 23, 87; MART. Voy. lit. t. I, part. II, p. 210) . Il se trouve nommément dans deux manuscrits de celle du Vatican, l' un desquels appartenait autrefois à Christine, reine de Suède, et l' autre à Alexandre Petau, et dans un troisième de l' abbaye de Laubes. C' est sur celui-ci que dom Martène et dom Durand ont publié la préface de l' auteur (MART. Anec. t. I, p. 118, 119) . Il paraît qu' il était déjà abbé lorsqu' il entreprit ce travail. Il s' y détermina à la prière de ses fréres, qui trouvaient de grandes difficultés dans l' ouvrage de Victorius. Abbon se propose de l' éclaircir et de le corriger: ce qui, selon lui, demandait autant de lumière que d' application, parce qu' il y fallait employer les connaissances que donnent l' arithmétique, la géométrie, la musique et l' astronomie. Néanmoins, après un travail de cette nature, Abbon avait assez de modestie pour ne rogarder son commentaire que comme une voie pour entrer dans l' intelligence de l' arithmétique, titre qu' il porte dans un des manuscrits nommés.
+Sigebert (Script. c. 139) lui rend plus de justice, et ne craint pas de dire que ce commentaire fait voir combien son auteur était versé dans l' une et l' autre littérature. Il y a toute apparence que c' est ce même commentaire dont a prétendu parler l' auteur d' une chronique d' Anjou (LAB. Bib. nov. t. I, p. 286) , lorsqu' il dit, en termes obscurs et peut-être viciés, qu' Abbon avait fait des Cycles de dix-neuf ans: Qui Cyclos XVIIII scripsit. Cet ouvrage a été fort connu dans les siècles suivants. Albéric de Trois-Fontaines, Trithème et les autres bibliographes postérieurs en font mention (ALB. Chr. par. II, p. 34; TRIT. Script. c. 303; Poss. App. t. I, p. 35) . Quoiqu' Aimoin ne nomme pas Victorius, il ne laisse pas de désigner clairement l' écrit d' Abbon dont il s' agit ici, lorsqu' il dit (in Vita Abb. c. 13) que cet abbé corrigea, en suivant la vérité des Evangiles, les cycles des années de l' Incarnation du Verbe, et qu' il les conduisit depuis le point de cette célèbre époque jusqu' à son temps.
+Aimoin ajoute qu' Abbon, dans la suite, poussa encore son travail beaucoup plus loin, en dressant des cycles pour mille cinq cent quatre-vingt quinze ans, ou environ. La préface de ce nouvel ouvrage, selon le même historien, était adressée aux moines de Fleury; et l' auteur y parlait de l' année de la mort de S. Benoît du Mont Cassin. C' est cet ouvrage que Trithème, Jacques Philippe de Bergame et autres ont connu sous le titre d' Additions au commentaire du Cycle de Victorius, dont ils savent les distinguer (TRIT. ib.; POSS. ib.) .
+
+
+[0573] {#pl.139.0573}
+La notice qu' Aimoin nous en donne, rapprochée de l' écrit sur le même sujet, imprimé au premier volume des oeuvres du Vénérable Bède (t. I, p. 823) , fait voir que c' est là l' ouvrage d' Abbon dont nous entreprenons de rendre compte. Son nom à la vérité n' y paraît pas, non plus que l' inscription par laquelle il l' adressait à ses frères de Fleury, mais il n' y a qu' à lire la préface pour y reconnaître celle dont parle Aimoin, et l' une des lettres manuscrites d' Abbon, que dom Mabillon dit avoir eues entre les mains. Outre que ce sont les mêmes caractères dans l' une et l' autre pièce, comme aussi dans la notice qu' en donne Aimoin, le titre de l' ouvrage, qui est intitulé: Decennovales Circuli, Cycles de dix-neuf ans, annonce, conformément à ce qu' on lit dans Aimoin, qu' ils sont pour mille cinq cent quatre-vingt-quinze ans. On a peine à comprendre comment on a attribué cet ouvrage au vénérable Bède, qui y est cité au moins deux fois. L' expression du chroniqueur d' Anjou, rapportée plus haut: Qui Cyclos XVIIII scripsit, dit-il, en parlant d' Abbon, pourrait bien désigner l' écrit dont il est ici question plutôt que le commentaire sur Victorius. Cet écrivain en effet a pu avoir en vue d' exprimer le terme decennovales par le nombre de dix-neuf qu' il emploie.
+Quoi qu' il en soit, ce qu' Abbon a exécuté dans l' ouvrage précédent par rapport à Victorius, dont il a corrigé les erreurs, il l' entreprend dans celui-ci, à l' égard de Denys le Petit, dont il se propose de rectifier les supputations. Après sa préface, où il parle à deux différentes fois de la mort de S. Benoît, il rapporte en entier le Cycle de ce fameux computiste romain, et donne ensuite deux exemples ou modèles de la façon qu' il aurait dû procéder dans ses opérations chronologiques. Après quoi viennent deux autres exemples pris du Cycle de S. Cyrille d' Alexandrie, qui sont suivis du Cycle entier de dix-neuf ans de la façon de notre auteur. La dernière partie de l' ouvrage sont les supputations, pour trouver chaque année le jour de la lune qui doit fixer la fête de Pâques pendant tout le cours de ce cycle, supputations qui devaient servir, suivant le titre, depuis l' année de l' Incarnation jusqu' à l' an mil cinq cent quatre vingt-quinze.
+A la tête se lit encore, sous le nom du prêtre Bède et le titre de préface, une courte explication de ce qu' on entend par cycle pascal. Mais quelques manuscrits où se trouve cette explication sous le titre de lettre, la donnent à Abbon (MONTF. ib., p. 23) ; ce qui est conséquent et confirme ce que nous venons d' établir. Notre savant abbé y explique clairement les huit colonnes qui entrent ordinairement dans la construction d' un cycle pascal. Suivent après huit grands vers, où il y a de l' art, et qu' Abbon paraît avoir faits pour qu' on retînt mieux les règles de son explication, qu' il a eu le secret d' y faire entrer.
+Il ne faut pas confondre avec les deux ouvrages précédents un traité du Comput par Abbon, quoique celui ci roule sur presque le même sujet que les autres. L' historien de sa vie les distingue clairement luimême, et ils se trouvent également distingués dans les manuscrits (AIM. ib., c. 3, 7; MONTF. ib., p. 23, 87) . Il y en a deux à la bibliothèque du Vatican, dans l' un desquels ce traité porte pour titre: De ratione calculi, et dans l' autre: De computo epistola et tractatus. Aimoin, entreprenant d' en laisser une idée à la postérité (AIM. ib. c. 3) , dit que les supputations qu' Abbon y fait entrer sont variées, agréables et à peu près semblables aux tables de calcul qu' on avait coutume de dresser pour les affaires temporelles.

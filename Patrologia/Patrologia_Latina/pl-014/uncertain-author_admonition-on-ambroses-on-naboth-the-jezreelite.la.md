@@ -1,0 +1,35 @@
+---
+id: pl.014.640
+sigla: pl.14.admonition-on-ambroses-on-naboth-the-jezreelite
+title: "Admonition on Ambrose's On Naboth the Jezreelite"
+work: "Admonition on Ambrose's On Naboth the Jezreelite"
+creator: "Uncertain author"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 14"
+columns: "14–0729"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.14.colN}"
+---
+
+# Admonition on Ambrose's On Naboth the Jezreelite
+
+**Author**: Uncertain author  
+**Series**: PL 14  
+**Columns**: 14–0729  
+
+[14] {#pl.14.14}
+Admonitio
+IN LIBRUM DE NABUTHE JEZRAELITA ADMONITIO.
+
+
+[0727] {#pl.14.0727}
+Videtur hic liber nihil aliud continere nisi unum aut alterum sermonem, quos Ambrosius in divites a quibus immanissime tenuiores homines diripiebantur, toto mentis ardore pronuntiavit. Haud dubie historia regis Achabi ac pauperis Nabuthae in Ecclesia tunc temporis recitata ipsi occasionem suppeditavit (Cap. 1, num. 1) ; ut in altero crudelitatem avari divitis, in altero pauperis extrema omnia perpetientis calamitatem ob oculos poneret. Quamobrem primo ostendit (Ibid.) nulli tempori suos Achabos, neque suos Nabuthas deesse; nec non etiam dum loquebatur, inveniri pauperes tam diris modis exagitatos divexatosque, ut profugere ex patria ne illic fame ac miseria interirent, cogerentur. Id summa cum vehementia exprobrat hisce divitibus, quibus etiam ex parte prima propositae historiae demonstrat (Cap 2, num. 4 et seq.) ipsos mediis in divitiis quam egenos quoslibet magis egere: in rapinis (Cap. 3, num. 11 et seq.) propriam utilitatem minus quaerere quam inopum spoliationem: postremo (Cap. 5, num. 9 et seq) eorumdem abstinentiam atque convivia ex aequo miseris illis perniciem adferre solere. Tum (Cap. 6, num. 29 et seq.) exposito eo loco Evangelii ubi opulentus quidam horrea nova veteribus destructis exaedificare cogitans inducitur, quam sit infelix locupletiorum conditio, patefacit. Mox ad argumentum suum rediens (Cap. 11, num. 46 et seq.) aperit qua ratione Jezabel ut conjugis sui Achabi obsecundaret avaritiae, funestissimam necem Nabuthae intulerit. Ea occasione insurgens adversus divites sui temporis in pauperes nihilo clementiores quam Achab et Jezabel, eos etiam atque etiam admonet, caveant ne istorum crimina imitando eadem quoque incurrant supplicia. Quoque id persuadeat efficacius, quis legitimus divitiarum usus sit, docet (Cap. 12, num. 52 et seq.) ; ac simul quam nullius soliditatis illae sint, probat (Cap. 15 et 16) inserta perbrevi expositione totius psalmi LXXV, quem scite admodum propositae coaptat materiae. Ad extremum (Cap. 17, num. 70) repetito ejusdem Achabi exemplo nihil verius esse adstruit quam quod ultimo memorati psalmi versiculo declaratur, Deum scilicet adversus reges terrae se se praebere terribilem, ac spiritum auferre principum eorum, a quibus tam atrociter tenues inopum facultates invaduntur.
+
+
+[0729] {#pl.14.0729}
+Cum autem ex iis quae supra diximus, intelligere sit hac in opella multo frequentiorem Achabi quam Nabuthae fieri mentionem, forte cuipiam rogare lubeat, cur illi non potius indita fuerit inscriptio, de Achab rege, quam de Nabuthe Jezraelita, vel de Nabuthe paupere, ut vetustissimi mss. prae se ferunt. Responderi non incommode potest, hoc tribuendum sancti Antistitis amori erga pauperes, quorum gratia in eo tractatu non pauca disserit quae ad consolationem eorum conferant; et quos (Cap. 4, n. 16; c. 6, n. 29; c. 14, n. 60; c. 16, n. 67 et seq.) ibidem locupletioribus non tantum aequal, sed etiam anteponit, utpote feliciores in sua tenuitate, ac Deo ipsi acceptiores. Caeterum exemplum hoc pauperis regiae cupiditati non obsequentis admodum placuisse huic nostro Doctori non solum quae hic leguntur indicio sunt; verum etiam quod jam eodem illo exemplo usus fuerat, ut se ipse confirmaret stimularetque ad resistendum imperatori, a quo Justinae instinctu Catholicorum ecclesias tradere Arianis jubebatur: Nabuthe vites suas, inquit (Contra Aux. de Basil.) , vel proprio cruore defendit. Si ille vineam non tradidit suam, nos trademus Ecclesiam Christi? . . . Si ille patrum haereditatem non tradidit, ego tradam Christi haereditatem? Absit ut tradam haereditatem patrum, hoc est haereditatem Dionysii, etc.
+Hoc loco dissimulandum non est Ambrosium ex Basilianis homiliis, de Avaritia, et in Ditescentes nonnulla mutuatum esse. Illud evincit vel sola affinitas (Basil., Hom. de Avar.; Ambr., cap. 5, num. 21 et seq.) elegantissimarum earum descriptionum quibus apud utrumque, patris cujusdam unum e liberis, ad alendos alios, vendere coacti, dolor atque aestus tam concitato dicendi genere tamque ad movendos animos idoneo exprimuntur. Si quid praeterea ex Basilio desumptum hic reperitur, id quidem ferme nihil aliud est nisi paucae sententiae, quas hinc inde excerptas Sanctus noster suae materiae accommodavit. Et hoc omnem extra controversiam esse non ibit inficias, qui consideraverit beatum Basilium non nisi obiter de Achab et Nabuthe loqui, de psalmo autem LXXV prorsus tacere, in quibus tamen potissima pars Ambrosianae commentationis posita est.
+Nullum porro ex hujus operis lectione argumentum eruere possis, unde liquido ejusdem aetas cognoscatur. Attamen non nihil ad hanc rem investigandam videtur praelucere, quod illic (Cap. 14, num. 61, et c. 5, num. 20 et seq.) narratur de potentium, consulum, principum atque optimatum avaritia: quae quidem eo feritatis per haec tempora devenerat, ut pauperes ad vertendum solum, deserendas conjuges, liberos ne fame in patria sua perirent, abducendos cogerentur. Enim vero Paulinus a quo nobis Ambrosii vita transmissa est, dum postremas beati Praesulis actiones memorat, ita loquitur: Ingemiscebat vehementer cum videret radicem malorum omnium avaritiam pullulare, quae neque copia, neque inopia minui potest, magis magisque crescere in hominibus, et maxime in iis qui in potestatibus erant constituti; ita ut interveniendi apud illos gravissimus labor esset, qui omnia pretio distrahebant. Quae res primo omne malum invexit Italiae, et exinde omnia vergunt in pejus, etc. (Paulin. in Vita S. Ambrosii) . Totius autem hujusce loci cum iis quae in tractatu de quo agimus, dicuntur, major est consensio, quam ut ad ea respexisse Paulinus non videatur. Et quamvis idem ille auctor in scribendis Ambrosii gestis minime secutus fuerit accuratam temporum rationem; satis tamen intelligimus haec eo loci ab ipso esse memorata, quod revera illorum procerum cupiditas numquam exarserit impotentius, quam sub extremum Theodosii Magni imperium: cum videlicet Rufinum, Eutropium, aliosque praefectos Caesareos in tantam invidiam atque odium sua adduxit rapacitas, ut Patres concilii Carthaginensis ab imperatoribus propter afflictionem pauperum cogerentur petere, ut defensores eis adversus potentias divitum cum episcoporum provisione delegentur (Conc. Carthag. III, quibusdam V, can. 9) . Non est dubium quin ante ipsos Ambrosius quoque suam in causa tam pia charitatem nobilitaverit; unde nihil profecto videmus obesse, quominus hoc ipso forte consilio eumdem librum anno 395, aut alio proximo, scriptum dicamus: adeo belle in id omnia conveniunt.

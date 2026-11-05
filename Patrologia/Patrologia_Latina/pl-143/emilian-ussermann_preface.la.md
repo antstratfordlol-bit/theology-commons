@@ -1,0 +1,47 @@
+---
+id: pl.143.8659
+sigla: pl.143.preface
+title: "Preface"
+work: "Preface"
+creator: "Emilian Ussermann"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 143"
+columns: "143–0274D"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.143.colN}"
+---
+
+# Preface
+
+**Author**: Emilian Ussermann  
+**Series**: PL 143  
+**Columns**: 143–0274D  
+
+[143] {#pl.143.143}
+Praefatio
+PRAEFATIO.
+PRAEFATIO.
+Hermanni ex Augiensi codice desumpto Chronico aliud hic subjicimus eidem vicini monasterii, Petershausen vulgo dicti, extra muros Constantienses ad Rhenum. Particulare id equidem est, locique illius originem ac priora fata potissimum sistit, ut tamen plura etiam contineat, unde patria medii aevi historia quantum ad nobiles Bodamici tractus familias, geographiam et Alemanniae pagorum notitiam illustrari plurimum valeat. In quo etiam argumento versatur Codex Diplomaticus Alemanniae et Burgundiae Trans-Juranae intra fines dioecesis Constantiensis, quem ceu prodromum historiae ejusdem episcopatus prelo jamjam subjecit sodalis noster P. Trudpertus Neugart.
+
+
+[0271A] {#pl.143.0271a}
+Dignum adeo censemus hoc Chronicon quod in publicam lucem protrahatur, cujus hactenus nonnisi excerpta quaedam S. Gebehardum fundatorem concernentia in Manlii Chronico episcopatus Constantiensis apud Pistorium (Scrip. Rer. Germ. t. III, p. 685) prostant. Habetur in ms. codice membranaceo in fol., pluribus vero lituris hinc inde respersum, quod collectioni nostrae inserendum gratiose nobiscum communicavit dignissimus istius coenobii abbas Josephus, cui proin grates hic publico nomine rependimus. Occurrunt quidem in eo levioris subin momenti narrationes, quae saeculi quo scriptum est et scriptoris genium produnt, quarumve notitia haud interest publico. Quin vero illa omitti queant nil sane impedit, cum id unice agatur ut ne quid lateat quod patriae historiae quoquo modo inservire possit. Nobis certe, qui ab aliquot jam annis in adornanda Germania sacra communem conferimus operam, huncque in finem delitescentia hactenus monumenta undique conquirimus, visum satis haud est si illa duntaxat in sacros usus nostros convertamus, nisi eadem aliis quoque sisteremus unde etiam profanae historiae lux quaedam affundi queat.
+
+
+[0271C] {#pl.143.0271c}
+262 Porro Chronici istius scriptor nomen suum nullibi, se tamen coenobii illius monachum circa medium saec. XII prodit. Sic l. IV, c. 12, circa an. 1126 aliquandiu in cella Wagenhausen demoratus est. Ibidem n. 3 Petershusii praesens erat, dum an. 1134 corpus S. Gebehardi levatum erat, cui etiam sanitatem suam in acceptis retulit. Demum n. 16 expeditionem Conradi regis in Saracenos an. 1147 motam describens, eos adhuc minime rediisse testatur, qui ex suo loco illuc profecti sunt. Ex variis tamen circumstantiis suo loco notandis videbimus Chronicon hoc non ab uno tantum, sed a pluribus scriptoribus fuisse compilatum, uti jam alias de hujusmodi chronicis observavimus.
+
+
+[0272A] {#pl.143.0272a}
+Primus vero horum annalium scriptor eos non ex aliorum duntaxat relatione, unde plures plerumque fabulae emergere solent, sed ex authenticis ut plurimum tabulis, chartis aliisque coaevis monasterii illius documentis conscripsit, uti ex aliorum scriptorum collatione liquet, qui inde et am haud modicam quandoque lucem accipiunt. Ut autem, quod res est, dicamus, fidem Chronici nostri haud parum suspectam reddunt quae initio ejus habentur de Brigantinorum comitum origine, nullo antiquorum scriptorum testimonio fulta, ac insuper in nonnullis historicae illorum temporum rationi contraria. Quae ipsa etiam causa est quod Wilh. Ern. Tenzelius in Vindiciis historicis pro Conringii censura in diploma coenobii Lindaviensis, p. 270, postquam ex Manlio ea retulisset quae infra in Chronico l. I, n. 2, 3 et 4, de hac genealogia leguntur, haec demum subjunxerit: « Totum locum recitare operae pretium fuit, ut lector facilius de fabulosa comitum Brigantinorum origine ibi descripta judicare queat. » Cujus quidem rigidae censurae rationes sequentes allegat. 1, « Quis ferat fabulantem, Galliae Togatae Francorum imperatorum tempore peculiarem regem fuisse? » Atqui si de vera Gallia Togata seu Italia sermo sit, certe ex Hermanni testimonio ad an. 888 multi ibidem reguli Carolo Crasso mortuo emerserunt; si vero Galliae Togutae nomine 263 scriptori nostro Gallia Belgica vel Celtica veniat, uti postea dicemus, Carolus Calvus ibi sub imperatoribus Francis Lothario I et Ludovico II regnum obtinebat. 2. Quaerit « Quomodo ex aliis genuinis scriptoribus probari potest quemquam Francorum imperatorum filiam suam in matrimonium dedisse nobili cuidam ex Gallia Togata? » Pauca legerit Tenzelius; id enim quod ignoravit, non ex genuinis modo scriptoribus, sed et authenticis quoque instrumentis infra probabimus. 3. objicit: « Nonne ex tot chartis scriptoribusque constat Potamum tam praecedentium imperatorum Francorum quam Caroli Crassi tempore palatium regium fuisse? Quomodo igitur ab aliquo Francorum imperatorum donari potuit comiti Brigantino? » Hic ipse sibi respondeat Tenzelius (l. c., p. 271) ita scribens: « Neque enim illis temporibus novum insolensque duxerunt imperatores, curtes quoque regales . . . comitibus bene meritis elargiri. » Si id igitur Caroli Crassi temporibus nec novum nec insolens erat, ergo jam antea factum fuerit necesse est, ut curtis regalis, qualis erat Potamum, non dico comiti bene merenti, sed proprio suo nepoti Udalrico in proprium concederet Ludovicus Germanicus, Caroli Crassi pater. Qua tamen donatione non obstante, Potamum eo modo curtis regia permanere potuit, ubi regio nomine jus diceretur, quo Lustenowa seu Lustinava pariter curtis regalis, de qua ita scribit Tenzelius (l. c., p. 272) : « Ut Arnolfus imperator curtem Lustenowa Udalrico comiti de Linzegewe (juxta chartam an. 891 apud Herrgott) in jus proprietatis dedit, ita non intercedo quominus comiti Brigantino curtem Lintowa vel Arnolfus vel alius donasse dicatur. Imo non repugnaverim si quis hunc Udalricum comitem velit esse eumdem quem chronicon Petershusianum Brigantio aliisque locis remuneratum sistit (l. I, n. 3) , modo ea demantur quae et fabulis propiora sunt, et notorie, ut Potamum, ad imperii fiscum diutius pertinuere, vel aliis comitibus, ut Buchorn, inservierunt. » Demum ita concludit: « Saltem Chronicon istud Petershusanum recentioris commatis esse vel illud prodit, quod ruinas habitationis antiquae 264 memorat, quam incoluerit Uzo pater Gebhardi fundatoris Petershusani (l. I, n. 5) . » Scripsit sane, ut vidimus, Chronici auctor duobus fere post Uzonem saeculis, ubi jam in rudera consederat vetus arx Brigantina, anno 948 ab Hermanno duce capta et destructa. Verum ex iisdem fontibus haurire potuit Gebhardi progeniem, unde et ejusdem gesta tam fideliter descripsit. Neque enim sincero alias scriptori omnis ideo fides deneganda est in illis quae de temporibus a se remotioribus narrat, maxime si et aliorum testimonia ei suffragentur, etsi in nonnullis factorum circumstantiis aberret. Aequiorem tamen se postea (p. 275) horum annalium judicem praebet Tenzelius, « quos licet, scribens, antea comitum (Brigantinorum) originem fabulis coinquinasse ostenderimus (asseruit, non probavit,) non improbamus tamen, quae habent de parente Gebhardi fundatoris (Uzone seu Udalrico,) quippe ut coenobii Petershusani initiis propiora, ita procul dubio studiosius sinceriusque adservata. Novimusque ex ipsis Brigantinorum assertis . . . eos a Gebehardi II Constantiensium episcopi genitore, ex praeclarissimo Alemannorum genere procreato, tanquam radice totam comitum suorum progeniem derivare. » Quod si largiente Tenzelio ea in his annalibus sinceriora sunt quae propius tempora S. Gebhardi respiciunt, ergo pariter genuina censeri debent quae ibidem de episcopi illius cognatione cum Hedwige ducissa, Burchardi II Alemanniae ducis conjuge, habentur. Haec vero nec ipse Tenzelius explicare poterit, nisi illud horumce annalium systema genealogicum infra § 14 a nobis propositum admiserit; quod igitur haud adeo fabulosum est, ut huic scriptori videtur.
+
+
+[0274B] {#pl.143.0274b}
+Mitius nonnihil de Chronico nostro sentiunt Bollandiani agiographi, qui, in commentario praevio ad Vitam S. Gebhardi (t. VI Augusti, p. 106) , ita pronuntiant: « Chronicon Constantiense (Manlii scilicet, qui, ut supra diximus, nobilissimam hanc progeniem ex his Petri-Domus annalibus decerpsit) egregie meruit de praeclarissimo viri stemmate, modo tam vera sint quam splendida quae refert. Sed 265 aetas istius auctoris tam recens in comparatione tam antiqui stemmatis quod refert, parum habet auctoritatis. » Sed advertere debuissent eruditi socii non Manlii esse hanc genealogiam, qui saeculo XVI Chronicon scripsit, sed Annalium Petershusianorum saec. XII. Quod dein addunt: « Nec imperatoris, nec sororis ejus, nec regis interempti nomen exprimit, » recte monent, cum et nos ea ibidem desideremus, quae vero inferius investigabimus, unde patebit illos recte subjunxisse: « Si tamen ad tempus attendas, videtur respicere ad familiam Caroli Magni, vel aliorum qui e natione Francorum saeculo nono imperium Occidentis tenuerunt. »
+
+
+[0274D] {#pl.143.0274d}
+Haec de nostro Chronico praenotasse sufficiat; plura in sequentibus hinc inde recurrent, subjecta praeprimis disquisitione qua vexatam S. Gebhardi genealogiam non quidem defendere, examinare tamen tentavimus, relicta aliis, quam nobis sumpsimus, quae voluerint sentiendi libertate.

@@ -1,0 +1,50 @@
+---
+id: pl.184.1437
+sigla: pl.184.meditation-on-the-salve-regina
+title: "Meditation on the Salve Regina"
+work: "Meditation on the Salve Regina"
+creator: "Uncertain author"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 184"
+columns: "184–1080A"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.184.colN}"
+---
+
+# Meditation on the Salve Regina
+
+**Author**: Uncertain author  
+**Series**: PL 184  
+**Columns**: 184–1080A  
+
+[184] {#pl.184.184}
+Meditatio in Salve Regina
+MEDITATIO IN SALVE REGINA.
+
+### NOTA.
+NOTA.
+Est fragmentum cap. 19 part. III Stimuli amoris inter Opuscula S. Bonaventurae. Quidam putant esse Anselmi Lucensis episcopi, qui ante Bernardum natum devixit. Non ergo Bernardus esset auctor clausulae hujus antiphonae, O Clemens, etc., cum ab hoc auctore afferatus
+1. Ad salutandum Virginem primo debeo ejus magnitudinem considerare. Nec enim circa suum Filium amplius potuit elevari, quam ut Mater Dei vocaretur. Admirans ergo magnificentiam Matris nostrae, devote et reverenter dico: « Salve, Regina. » Sub tuo tegmine, Domina, volo de caetero militare: me totaliter dominationi tuae committo, ut plenarie regas, nihil meae insipientiae dimittens de mei regimine. Quidquid enim mihi 733 dimiseris, noveris miserrime destruendum. Sed cum plenus sim miseria a vertice usque ad pedum plantas, et putrefactus; fetorem gravem et horrorem quomodo dignaberis regere, tam nobilis creatura? Quia tu es « Regina misericordiae » et qui sunt misericordiae subditi, nisi miseri? Multum es sollicita de miseris; hos in tuos filios adoptasti, hos regere Domina voluisti: et ideo « Regina misericordiae » vocaris. Nos ergo miseri tecum de caetero consolemur, tecum amodo, Domina, habitemus, te mentis visceribus amplectamur, quia tu es « vita. » Vita vere, quae mortem superbiae humilis vicisti, et nobis vitam gratiae impetrasti. O certe vita amabilis, vita desiderabilis, vita delectabilis! o vita quae nutris tuos coelestibus alimentis! Qui enim vult te habere, se affligat, delicias respuat, delicata quaeque contemnat: et qui amplius mortificatus fuerit, te amplius possidebit.
+
+
+[1077C] {#pl.184.1077c}
+2. « Dulcedo. » Vere dulcedo, quae amaritudinem peccati, impetrando gratiam, expellis, quae nobis gratiae dulcorem acquiris, quae ad suavitatem patriae coelestis contemplantes introducis. O dulcis Domina, cujus sola memoria affectum dulcorat, cujus magnitudinis meditatio mentem elevat, cujus pulchritudo oculum interiorem exhilarat, cujus amoenitatis immensitas cor meditantis inebriat! O Domina, quae rapis corda hominum dulcore, nonne cor meum, Domina, rapuisti? Ubi, quaeso, posuisti illud, ut ipsum valeam invenire? O raptrix cordium, quando mihi restitues cor meum? Quare sic corda simplicium rapis? Quare violentiam facis amicis? Nunquid ipsum semper vis tenere? Cum illud postulo, mihi arrides: et statim tua dulcedine consopitus quiesco. Cum in me reversus iterum illud postulo, me complexaris dulcissima, et statim inebrior tui amore: tunc cor meum non discerno a tuo, nec aliud scio petere, nisi tuum. Sed ex quo est cor meum tuo dulcore sic inebriatum, guberna illud cum tuo, et in sanguine Agni conserva, et in latere Filii colloca. Tunc assequar quod intendo, et possidebo quod spero, quia tu es « spes nostra. » Sperent ergo in te qui noverunt nomen tuum, quoniam non dereliquisti quaerentes te, Domina. Certe qui sperant in te, mutabunt fortitudinem: assument pennas, ut aquilae; volabunt, et non deficient. Quis non sperabit in te, quae etiam adjuvas desperatos? Non dubito quod si ad te venerimus, habebimus quod volemus. In te ergo speret qui desperat: qui deficit, ad te currat.
+
+
+[1078B] {#pl.184.1078b}
+3. « Salve. » Quis ergo de caetero nos a tui salutatione poterit prohibere ex quo sic es vita, dulcedo et spes nostra? « Salve. » Quis ergo ex quo Regina es nostra, a tua reverentia nos poterit separare vel impedire? Primo es Domina salutanda, ut per te gratia impetretur: secundo, ut per te ad gloriam veniatur. « Ad te. » Ad te vere, quia tu sola Deum genuisti, tu sola interemisti universam haereticam pravitatem: ad te certe quae levas nos a faecibus peccatorum, quae nos consolaris in cunabulis vagientes, lactas parvulos esurientes, « Clamamus. » Quare non clamaremus, Domina, qui vulnera sustinemus, plagas sentimus, qui inimicis undique circumdamur? Clamamus angustiati miseriis infinitis oppressi. Clamamus cordis anxietate, stomachi vacuitate, doloris acerbitate, aut forte erga te amoris immensitate. Quare enim obdormis, Domina? Surge, adjuva nos. Clamamus etiam, ut nostram manifestemus necessitatem, quia clamare necessitas nos compellit: quid nos amplius affligis? Si multum tardaveris, vocem amittam clamando, et ad te amplius vociferare nequibo. Heu mihi! tunc quid faciam, cum nec exaudire me poteris, nec audire? Cito, cito, Domina, subvenias clamanti, ne in manibus deficiam inimici: curre, festina, Domina, et tuum iniquissimum, et infidelissimum servum ad te clamantem parcendo adjuva, et eripe de manu et periculis tui hostis. Si aliud te allicere, Domina, non deberet, nisi quia tuus hostis audet nos tuos servos invadere fraudulenter, deberes ad nos quam citius festinare. Curre, et libera nos, Domina, propter eorum superbiam reprimendam. Curre, ne dicant: Ubi est eorum Domina, de cujus clementia confidebant?
+
+
+[1078D] {#pl.184.1078d}
+4. Ne mireris, Domina, si clamamus, quia sumus a te nimium elongati. In regione longinqua dissipavimus partem 734 nostram, et ideo « ad te clamamus exsules. » Exsules a patria, exsules a visione divina: et utinam non exsules a gratia, exsules a consolatione materna! O anima, cur non es potius a corpore separata, quam a tua Domina exsul facta? Heu mihi! cur sum in tam longum exsilium relegatus! O Domina, dum hic sumus, exsules constituas nos, ne hic tanquam in patria confidentes, te et tuum Filium quaerere desistamus: sic tamen constituas exsules in corpore, ut semper tecum simus cives in mente. « Filii Evae. » Vere filii Evae; superbi, praesumptuosi, ambitiosi, avari, gulosi et carnales, inobedientes; et breviter, in omnibus ipsam Evam sequentes, proni sumus ad malum, difficiles vero ad bonum: et si contingat aliquem filium bonorum operum generare, cum quodam cordis dolore et tristitia parturimus. Sed malum cum laetitia perpetramus, nec bonis sufficiunt mala nostra: sed sicut ipsa Eva, ita et nos alios inclinamus ad malum; et etiam sicut ipsa, ita et nos in defectibus excusamus, aut saltem, si possumus, in alios retorquemus. Plus enim placet nobis in multo sudore et labore vilia acquirere, quam Dominam gloriae degustare, et ipsam levissime, imo dulcissime possidere. Nisi enim nos, Domina, adjuvisses, fortassis jam in inferni profundissima venissemus.
+
+
+[1079B] {#pl.184.1079b}
+5. Nec est quod nos valeat excusare, qui non te, sed Evam in omnibus imitamur, ac per hoc, « Ad te suspiramus. » Suspiramus autem de tam bonae Matris absentia, venire ad te, Domina, cupientes: « suspiramus ad te, » videre Filium tuum affectantes. Nimius ergo amor, quo erga te sumus inebriati intrinsecus, cogit nos ad te, Domina, suspirare. Omnibus es amabilis, omnibus affabilis, omnibus delectabilis; sedes sapientiae, fluvius clementiae, radius Deitatis: nec est qui se abscondat a calore tuo. Quis ergo ad te, Domina, non suspirabit? Amore suspiramus, etiam et dolore. Undique nos angustiae premunt. Quomodo ergo ad te non suspiremus? solatium miserorum, refugium expulsorum, liberatio captivorum, Regina bellatorum, Domina universorum, etiam inimicorum, nec est qui tuae voluntati valeat obviare. Sic afflicti, sic miseri ad te suspiramus: « Gementes et flentes in hac lacrymarum valle. » Heu, Domina! non vides quod totaliter sumus amaritudine pleni? Intus sumus gementes, exterius flentes in loco lacrymoso jacentes: onerati peccatis gemimus, aggravati molestiis flemus, abundantes miseriis in valle lacrymarum sumus, tuum subsidium postulantes. Quid amplius dicam? nec sufficio, nec scio omnia detestabilia hujus vallis enarrare.
+
+
+[1080A] {#pl.184.1080a}
+6. « Eia ergo, advocata nostra. » O laudabilis clementia Salvatoris, qui sic afflictis tam nobile subsidium dignatus est elargiri! et ideo non est timendum quin miserearis miseris, ad illam partem inclinans sententiam quam defendis, ut nobis exhibeas gloriam quam peperisti. Non ergo restat, Domina, nisi ut illos misericordes oculos ad nos convertas. « Eia ergo, advocata nostra, illos tuos misericordes oculos ad nos converte. » Non dubitamus, Domina, quin, si nostras aspexeris miserias, non poterit tua miseratio suum retardare effectum. Mirabiles necnon et amabiles illi tuorum radii oculorum, quibus nos allicis ad amorem, et ad plenam ducis salutem, ne venenatos oculos basilisci timeamus. O Evae oculi venenati! cur non offertis vos oculis Virginis, si vultis perfectam recipere medicinam? nam suorum claritas oculorum tenebras expellit, effugat catervas daemonum, purgat vitia mentium, corda congelata accendit, et demum ad coelestia trahit. O quam beati, o Domina, quos tui viderint oculi! Hos ergo oculos ad nos, Domina, converte. « Et Jesum benedictum fructum ventris tui nobis post hoc exsilium ostende. » O venter mirabilis, qui potuit capere Salvatorem! o venter laudabilis, qui potuit recipere Redemptorem! o venter desiderabilis, e quo emanavit desiderium mentium, gratiarum fluvius, gloriae praemium! o venter amabilis et dulcedo animae, o elevatio mentium, inebriatio cordium, sanitas peccatorum! Fructus tuus, Domina, hic certe est fructus beatus a principio sui ortus. Hic est Jesus Dei vivi Filius. Hic est salvator noster Dominus Deus. Hunc « Jesum benedictum fructum ventris tui nobis post hoc exsilium ostende, » ut videndo ipsum habeamus; ipsum videndo, beatitudine repleamur. « O clemens, o pia, o dulcis Maria! » O clemens indigentibus, pia exorantibus, dulcis diligentibus! o clemens poenitentibus, pia proficientibus, dulcis contemplantibus! o clemens liberando, pia largiendo, dulcis te donando! o clemens consolando, pia blandiendo, dulcis osculando! Clemens es subjectis, pia jam correctis, dulcis praedilectis. Amen.

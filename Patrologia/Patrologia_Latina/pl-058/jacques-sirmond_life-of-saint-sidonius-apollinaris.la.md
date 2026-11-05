@@ -1,0 +1,33 @@
+---
+id: pl.058.8376
+sigla: pl.58.life-of-saint-sidonius-apollinaris
+title: "Life of Saint Sidonius Apollinaris"
+work: "Life of Saint Sidonius Apollinaris"
+creator: "Jacques Sirmond"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 58"
+columns: "58–0443"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.58.colN}"
+---
+
+# Life of Saint Sidonius Apollinaris
+
+**Author**: Jacques Sirmond  
+**Series**: PL 58  
+**Columns**: 58–0443  
+
+[58] {#pl.58.58}
+Vita S. Sidonii Apollinaris
+VITA S. SIDONII APOLLINARIS A SIRMONDO ADORNATA.
+Sidonium nobilissimo inter Gallos genere, ac patre avoque praefectis praetorio Galliarum natum constat. De patria cum alii diversa sentiant, ipse Lugdunensem se non semel nec obscuris verbis significat. Sed crebra in ejus libris Arvernorum mentio, apud quos conjugem primum Aviti imp. filiam, deinde cathedram episcopalem sortitus est, nonnullis ansam dedit ut Arvernum suspicarentur. Lugduni ergo natus, atque optimis, quibus tum adhuc referta erat Gallia, liberalium artium usus magistris, inter quos Ennium in poeticis, Eusebium in philosophicis commemorat, eam in omnibus natura et studio laudem est consecutus, ut eruditorum sui aevi (quod Mamerti Claudiani de ipso elogia docent) peritissimus ac disertissimus haberetur. Poeticae imprimis fama clarus, non solum apud aequales amicos, verum etiam apud principes ipsos in pretio fuit. Quorum alterum declarant omnium generum epigrammata et carmina, quae amicorum rogatu variis de rebus officiosissime scripsit; alterum tres panegyrici, quibus Avitum socerum, Majorianum, et Anthemium Augustos publice laudavit, benevolentiaeque a singulis fructum tulit. Nam et Romae statuam inter poetas sub Avito in fori Trajani bibliotheca meruit, et a Majoriano, cum circenses daret Arelate, solemni ejus epulo inter honoratos adhibitus est, atque a Satyrae, cujus insimulabatur, invidia singulari exemplo vindicatus. Ab Anthemio denique, post comitivam aliasque quibus ornatus antea fuerat dignitates, praefectus Urbi creatus, atque patricius, familiam suam, quam praefectoriam a majoribus acceperat, reddidit patriciam. Nec multo post defuncto Arvernorum episcopo Eparchio, in ejus locum, quamvis renitens, et nondum clericus, suffectus est. Quod munus summa cum modestia susceptum, pari cum sanctitate ac vigilantia, turbidissimis temporibus, maximasque inter difficultates tum privatas tum publicas administravit. Primum enim obsessis per Gothos Arvernis, diutinae acerrimaeque oppugnationis molestias pertulit; deinde redacto ex nepotis Aug. foedere in hostium potestatem oppido, ab his per legationis speciem relegatus aliquandiu exsulare coactus est. Tum suis tandem redditus, cum in officii curam intentus, nullam inter barbaros optimi pastoris partem omitteret, ac singulari in omnes benignitate, praecipua in egenos munificentia, neminem ipse lacesseret, aemulorum tamen, ut mos est, in se odia concitavit: duorum videlicet presbyterorum, qui omni Ecclesiae suae potestate per summam contumeliam exutum, in maximas rerum omnium angustias conjecerunt. Sed diuturnam eam cladem esse divina ultio passa non est. In integrum ergo restitutus, nec diu tamen postea superstes, Aprunculo successor non sine divina praesensione designato, ad coeli pramia evolavit XII calendas Septembris. Qui dies exiunde anniversariae ipsius memoriae apud Arvernos dicatus est, et tumulo inscriptus cum epitaphio. Liberos ex Papianilla conjuge ante episcopatum susceptos reliquit Apollinarem filium, et Rosciam ac Severianam filias. Ingenii vero monimenta, quamvis alia plurima scripserit, haec sota quae restant publici juris esse voluit. In quibus sane, seu metro vinctis, seu liberis ac solutis, sive narret aut suadeat, sive laudet aut vituperet, et quodcunque argumentum tractet, par in omnibus felicitas et copia, atque ea tum verborum, tum sententiarum varietas, ut mira in eo vis ingenti et abundantia quaedam doctrinae statim eluceat. Qua opinor fiebat ut doctis etiam aetatis suae hominibus, velut Ruricio Lemovicensi, obscurior atque interprete egere judicaretur. Neque vero in iis tantum quae attentius meditabatur et elaborabat quantus esset ostendit, sed in extemporalibus etiam repentinisque scriptionibus. Quarum illi tam prompta facultas erat, ut non pauculos duntaxat versus non meditatos funderet e vestigio, quale fuit distichum quo Satyrae calumniam deprecatus est apud Majorianum, et alterum reciprocum quo lusit in torrentem, aut tetrastichum quod in Philematii gratiam composuit; sed justa interdum utroque orationis genere opuscula pari celeritate pertexeret. Ejusmodi enim fuit concio Bituricensis, quam paucis horis dictavit, et Anacreonticum carmen, quod Burdegalae in Petri librum magistri epistolarum subito proferens, cum eximiis illius saeculi poetis Domnulo, Severiano atque Lampridio decertavit. Sed nunquam quid in hoc genere posset clarius enituit quam cum subtracto sibi, ut est apud Gregorium Turonensem, inter sacra libello ex quo recitare consueverat, totam nihilominus dicendorum seriem apposite ac luculenter explicuit. Caeterum cum talis omni ex parte tantusque esset Sidonius, ejusque scripta omnibus mirifice probarentur, ipse unus de se modice sentire ac parum sibi usquequaque satisfacere videbatur. Itaque et multa, ut dictum est, suppressit, et quaedam adorsus, ut Attilae bellum, operis pertaesus abjecit. Historiam praeterea sui temporis ut scriberet hortante Leone, Eurici regis consiliario, detrectavit, cum diceret historiae scribendae consilium clerico minime convenire. Atque haec fere omnia, multoque etiam plura de Sidonio discere licet ex ipsis operibus Sidonianis. Colitur autem apud Arvernos, ut jam quoque monuimus, stato die rituque sanctorum numero praeclari antistitis memoria, religioseque asservantur sacra ejus ossa in basilica Genesiana, quo jam olim ex vetere S. Saturnini aedicula, in qua primum conditus fuerat, translata commemorant. Ejus porro epitaphium, cujus supra meminimus, ex veteri codice Cluniacensi depromptum sic habet:
+
+### EPITAPHIUM SIDONII.
+
+
+[0443] {#pl.58.0443}
+EPITAPHIUM SIDONII.
+Sanctis contiguus, sacroque patri Vivit sic meritis Apollinaris, Inlustris titulis, potens honore, Rector militiae, forique judex. Mundi inter tumidas quietus undas, Causarum moderans subinde motus, Leges barbarico dedit furori, Discordantibus inter arma regnis, Pacem consilio reduxit amplo. Haec inter tamen et philosophando Scripsit perpetuis habenda saeclis. Et post talia dona gratiarum, Summi pontificis sedens cathedram, Mundanos suboli refundit actus. Quisque hic dum lacrymis Deum rogabis Dextrum funde preces super sepulcrum. Nulli incognitus, et legendus orbi, Illic Sidonius tibi invocetur. XII cal. Septemb. Zenone imp.

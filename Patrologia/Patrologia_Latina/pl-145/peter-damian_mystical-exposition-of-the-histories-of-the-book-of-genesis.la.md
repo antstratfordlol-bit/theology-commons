@@ -1,0 +1,257 @@
+---
+id: pl.145.7587
+sigla: pl.145.mystical-exposition-of-the-histories-of-the-book-of-genesis
+title: "Mystical Exposition of the Histories of the Book of Genesis"
+work: "Mystical Exposition of the Histories of the Book of Genesis"
+creator: "Peter Damian"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 145"
+columns: "145–0858A"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.145.colN}"
+---
+
+# Mystical Exposition of the Histories of the Book of Genesis
+
+**Author**: Peter Damian  
+**Series**: PL 145  
+**Columns**: 145–0858A  
+
+[145] {#pl.145.145}
+Expositio mystica historiarum Libri Geneseos
+889-890 OPUSCULUM SEXAGESIMUM. EXPOSITIO MYSTICA HISTORIARUM LIBRI GENESEOS.
+OPUSCULUM SEXAGESIMUM. EXPOSITIO MYSTICA HISTORIARUM LIBRI GENESEOS.
+
+### CAPUT PRIMUM. Dixit Deus: FIAT LUX, prima die.
+CAPUT PRIMUM. Dixit Deus: FIAT LUX, prima die.
+
+
+[0841B] {#pl.145.0841b}
+Qualiter valeat homo consummari et quomodo debeat perfici, liber hic succincte perstringit, prout ex mundi creationis ordine reperiri datur. Quia enim homo microcosmus, hoc est minor mundus esse dicitur, necesse est ut ad suae plenitudinis incrementa contendens ipsam mundanae conditionis speciem imitetur, et, sicut visibilis atque corporeus hic mundus per suarum partium molem et magnitudinem consummatus est, sic et homo noster interius ad sui plenitudinem paulatim perveniat per augmenta virtutum. De qua spirituali plenitudine dicit Apostolus: « Donec occurramus omnes in virum perfectum, in mensuram aetatis plenitudinis Christi. » Tunc autem in homine dicitur ut fiat lux, cum datur ei ut illuminatio sibi credulitatis infulgeat; prima quippe mentis lux fides est. Unde jam fidelibus Ephesiis bene dicit Apostolus: « Fuistis aliquando tenebrae, nunc autem lux in Domino; » et hoc est primum in lege praeceptum: « Audi, Israel: Dominus Deus tuus unus est. » Tunc autem in homine primus dies fit, cum novus ad fidem venit.
+
+### CAPUT II. De firmamento et divisione aquarum.
+
+
+[0841C] {#pl.145.0841c}
+CAPUT II. De firmamento et divisione aquarum.
+Secunda die fecit Deus firmamentum, et divisiones aquarum, quarum aliae ad inferiora defluerent, aliae in superioribus remanerent. Quid autem firmamentum nisi robur est Scripturarum? Unde legitur quod coelum in die judicii plicabitur sicut liber. Quid autem sunt aquae inferiores, nisi hominum multitudines, juxta illud Apocalypsis: « Aquae multae, populi multi? » Quid vero superiores, nisi chori sunt angelorum? de quibus in psalmo dicitur: « Et aquae omnes, quae super coelos sunt, laudent nomen Domini. » Angeli enim Scripturarum coelum super se non habent, sed sub se, quia non egent ut verbum Dei legentes audiant, qui ipsum Deum praesentem clare conspiciunt et in ejus semper amore flammescunt. Cum igitur homo per firmamentum, hoc est, per coelestis eloquii documentum, jam incipit dividere inferiores aquas a superioribus, id est, carnalia a spritualibus, terrena a coelestibus separare; tunc in eo secundus fit dies, quia non modo fidei lumen, sed etiam rerum incipit habere discretionem.
+
+### CAPUT III. De aquarum congregatione in locum unum sub coelo.
+
+
+[0841D] {#pl.145.0841d}
+CAPUT III. De aquarum congregatione in locum unum sub coelo.
+
+
+[0842B] {#pl.145.0842b}
+Facta igitur divisione aquarum, hoc est, inter terrena et coelestia, necesse est ut humana mens haec eadem terrena minutius dividat, et sic reprobos homines, hujus terrenae sapientiae salsugine prurientes, a justis, fontem fidei sitientibus, tanquam ab arida mare, discernat. Infideles enim sive carnales quilibet a maris tentationum fluctibus quatiuntur, et tanquam procellarum cupiditatum et arrogantiae tempestatibus intumescunt; sancti vero quique ac justi velut arida Deum sitiunt, et tanquam ferax terra virentes bonorum operum fructus germinate contendunt. Ideoque cum dixisset Deus: « Et appareat arida, » eodem die itidem praecipit: « Germinet terra herbam virentem facientem semen, et lignum pomiferum faciens fructum. » Quisquis ergo hoc solerter exsequitur, quisquis hoc subtiliter meditatur, huic procul dubio tertius jam dies exoritur. Unusquisque ergo se ab amara carnaliter sapientium salsugine dividat, fontem vitae Dominum, factus arida, divinae gratiae fontem medullitus sitiat, bonorum fructuum germina proferat, ut sibi dies tertius illucescat.
+
+### CAPUT IV. De luminaribus quarta die factis in firmamento coeli.
+
+
+[0842C] {#pl.145.0842c}
+CAPUT IV. De luminaribus quarta die factis in firmamento coeli.
+His ita positis et salubriter ordinatis, anima hominis, quasi dimotis vitiorum tenebris, radiare incipit nitore virtutum. Quid vero est quod prius germinat terra et protinus creantur luminaria, nisi quia, prodeunte boni operis germine, lux in anima copiosior 891 oritur, ut imitari valeat sui vestigia Redemptoris? Acceleret ergo mens humana spiritualium segetum germinare proventum, ut rutilantibus divinae lucis radiis illustretur, quatenus, dum quarti diei luce perfruitur, etiam ad contemplanda coelestia, more spiritualium volucrum, rapiatur.
+
+### CAPUT V. Quod quinta die pisces et aves creati sunt.
+
+
+[0842D] {#pl.145.0842d}
+CAPUT V. Quod quinta die pisces et aves creati sunt.
+Quinta die creati sunt pisces, per quos designantur, qui baptismatis sacramentum percipiunt, sicut, per volucres, illi qui virtutum pennis ad coelestia se contemplanda suspendunt. Quintum ergo diem cum volucribus habet quisquis mundi amore contempto quasi dedignatur coenum calcare terrenum, ac per contemplationis gratiam ad coelestis gloriae se provehit appetitum. Hic igitur non jam in terra graditur, sed per aerem volat, quia terrena quaeque despiciens ad coelestia sitibundus anhelat, juxta illud psalmi: « Sitivit anima mea ad Deum, fontem vivum. » Hic ergo quasi perfectus vir ad sui Conditoris merito formatur imaginem, qui tantam nimirum charismatum spiritualium possidet dignitatem, ut non jam solum quorumlibet normam praecipiatur tenere sanctorum, sed et ipsum Dei, in quantum fas est, imitari conetur exemplum, sicut dicit Apostolus: « Estote imitatores mei sicut filii charissimi, et ambulate in dilectione, sicut Christus dilexit vos. » Differentia quippe magna erat inter Paulum, qui Christum imitabatur, et eos quos provocabat ad imitandum seipsum, dicens: « Imitatores mei estote, sicut et ego Christi. »
+
+### CAPUT VI. De sexto die.
+
+
+[0843B] {#pl.145.0843b}
+CAPUT VI. De sexto die.
+Sexto die creatus est homo ad sui imaginem et similitudinem Creatoris. Quod utique sicut tunc factum est per humanae conditionis exordium, ita nunc agitur per instaurationis intimae sacramentum. Hic praeterea inter omnia, scilicet aquae simul et terrae animantia, quasi monarchiam accipit, et quemdam sublimioris excellentiae primatum, quia vir quisque perfectus ac virtutibus consummatus novit de singulis rectum proferre judicium, sicut ait Apostolus: « Spiritualis homo judicat omnia; ipse autem a nemine judicatur. » Hunc itaque Deus omnipotens perfectum virum, mundo scilicet mortuum sibique viventem, suum constituit thronum ac per eum saepe justitiae suae promulgat edictum. Hinc est etiam quod ordo ille angelicus, per quem frequentius judicia sua decernit omnipotens Deus, thronus vocatur, quia in eis summus sedet arbiter, cum judicia per eos aequitatis exercet. Perfectum itaque virum Deus suum constituit solium, ut in eo suaviter requiescat. Unde et per Prophetam: « Super quem, inquit, requiescet spiritus meus, nisi super humilem et mansuetum, et trementem 892 sermones meos? » Et notandum quod per unumquemque diem dicitur: « Factum est vespere et mane, dies » talis. Vespere scilicet ipsa boni operis perfectio est; mane vero lux mentis. Nam cum opus bonum ad perfectionem pervenit, tunc in operantis mente lux gratiae spiritualis exoritur, ut dum lucidum opus foris exsequitur, intrinsecus ipsa gratia spiritus illustretur.
+
+### CAPUT VII. Quod Sabbato, consummatis omnibus, requievit Deus.
+
+
+[0843D] {#pl.145.0843d}
+CAPUT VII. Quod Sabbato, consummatis omnibus, requievit Deus.
+Sic itaque pervenitur ad Sabbatum, in quo Deus et ipse consummatis omnibus requiescit, et hominem requiescere praecipit: Hoc itaque modo et homo fit Dei Sabbatum, et Deus Sabbatum hominis fit, quia ipse homo in Deo requiescit, et Deus in eo. « Manete in me, et ego in vobis, dicit Dominus; » ipse quippe nobis intemporale tempus et illocalis est locus. Illocalis scilicet, quia loco non circumscribitur; intemporalis vero, quia nunquam finitur. Tempus itaque nobis est Deus, dum dicit in Evangelio Joannis: « Nonne duodecim sunt horae diei? » Se scilicet diem, duodecim autem horas totidem dicit apostolos. Locus vero illic indubitanter exprimitur ubi propheta David, cum praemisisset: « Tu autem idem ipse es, et anni tui non deficient, » protinus addidit: « Filii servorum tuorum habitabunt ibi, » haud dubium quin in te. Fecit itaque Deus coelum et terram; tamen requievisse non dicitur. Fecit germinantia terrae et luminaria coeli; et requievisse non dicitur. Fecit omnia quae pascuntur in terris et quae moventur in aquis; et in omnibus nunquam legitur requievisse. Sed plasmato ad imaginem suam homine, Sabbatum protinus quietis illuxit, et sic humanitatis Conditor requievit. Et cum ipse per prophetam Isaiam dicat: « Coelum mihi sedes est, terra autem scabellum pedum meorum, » quod in illorum creatione non dicitur, in sola hominis conditione quievisse perhibetur. Et ut magis magisque praeclaram hujus diei septimi stupeas dignitatem, dicit Scriptura quod benedixit Deus diei septimo et sanctificavit illum, quia in ipso cessavit ab universo opere suo; quod in caeteris diebus fecisse nullo modo reperitur. Quid enim est Deo Sabbatum sanctificare, nisi templum sibimet in sancti atque perfecti viri mente struere? Sicut ait Apostolus ad Corinthios: « Templum Dei sanctum est, quod estis vos, et Spiritus sanctus habitat in vobis. » Porro autem, sicut de Sabbato diximus, ita quoque ratio exigit ut de templo dicamus quia et Deus templum hominis, et homo est templum Dei, sicut in Apocalypsi Joannes ait: « Templum non vidi in ea, Dominus enim Deus omnipotens templum illius est, et Agnus. » Templum itaque hominis Deus, templum Dei dicitur homo; hoc hominis templum spiritualis est paradisus, mens scilicet sancta, mens perfecta, mens munda, atque ad sui Conditoris imaginem signanter expressa. Haec, inquam, mens, sive rationalis anima jure dicitur paradisus, quae et coelestium charismatum est 893 fluentis irrigua et tanquam fertilium arborum vel herbarum sic virentibus sanctarum virtutum vernat germinibus adornata; fons enim ille sive fluvius qui illic dicitur egredi de loco voluptatis ad irrigandum paradisum, quique dividitur in quatuor capita, ratio mentis est, ex qua velut originali fonte quatuor virtutes, justitia videlicet, fortitudo, prudentia simul ac temperantia, quasi totidem salutiferi gurgites, profluunt, qui terram nostri cordis fertilem reddunt. Lignum vero vitae ipsa bonorum omnium mater est sapientia, de qua et Salomon ait: « Lignum vitae est his qui apprehendent eam; et qui tenuerit eam, beatus. » Lignum vero scientiae boni et mali transgressio est legis indictae experimentumque miseriae, sed quia nobis propositum non est exponere cuncta per ordinem, sufficiant haec succincte, quae huic negotio competunt, praelibasse.
+
+### CAPUT VIII. Immisit Dominus soporem in Adam.
+
+
+[0844D] {#pl.145.0844d}
+CAPUT VIII. Immisit Dominus soporem in Adam.
+
+
+[0845A] {#pl.145.0845a}
+Ad hoc Dei virtus exinanita est ut infirma nostra firmaret; ad hoc Dei sublimitas inclinata est ut dejectos erigeret; ad hoc vita mori dignata est ut mortis imperium destruens ad vitam mortuos revocaret: quod nimirum et in ipso generis humani declaratur exordio. Scriptum est enim: « Quia immisit Dominus soporem in Adam, cumque obdormisset, tulit unam de costis ejus, et replevit carnem pro ea, et aedificavit Dominus Deus costam, quam tulerat de Adam, in mulierem. » Super quo cum loqueretur Apostolus, dicens: « Relinquet homo patrem et matrem suam, et adhaerebit uxori suae, et erunt duo in carne una, » praesto subjunxit: « Sacramentum hoc magnum est; ego autem dico in Christo et in Ecclesia. » Et vere magnae virtutis indicium mirandae profunditatis est sacramentum. Per Adam siquidem Christus, per Evam designatur Ecclesia. Quid est autem quod prius Adam Deus soporavit, deinde costam ex ejus latere, unde mulier formaretur, eduxit, nisi quia prius Redemptor in morte dormivit, sicque de latere ejus in Ecclesiae sacramentum sanguis et aqua profluxit? Translata est Eva de viri latere dormientis, exivit et Ecclesia de latere Christi in cruce pendentis. Sed quid est quod omnipotens Conditor, cum mulierem de viro, id est, fragilem sexum de fortiori propagare disponeret, non viri carnem, sed os potius ad faciendam feminam sibi voluit materiam exhibere? Potuit enim Deus homini carnem subtrahere, unde femina formaretur, et hoc certe congruentius videretur; fiebat enim sexus debilior, qui nimirum consequentius de carnis infirmitate quam ex ossis procederet fortitudine. Et, ut magis stupeas divini operis sacramentum, non pro osse os reddidit; sed carne potius, quod in viri corpore vacabat, implevit. Unde Scriptura cum dicit: « Tulit unam de costis ejus, » mox addit: « Et replevit carnem pro ea: » poterat nempe ad mulierem plasmandam carnem viro detrahere; poterat os et ossis dispendium immutilato corpore restaurare, sed os tulit, et carnem reddidit. 894 Sic fragilem de virtute formavit; debilis itaque factus homo Adam, ut fortis fieret Eva. Infirmatus est Christus, ut roboraretur Ecclesia; illius enim infirmitas, nostra est fortitudo, et ad hoc ille nostram pertulit infirmitatem, ut ad suam nos statueret fortitudinem, « Quod infirmum Dei, » ut ait Apostolus, « fortius est hominibus, » et alibi: « Nam si crucifixus est Christus ex infirmitate, sed vivit ex virtute Dei. » Nam etsi nos infirmi sumus in illo, sed vivimus cum eo ex virtute Dei. Enim vero saeculi hujus homines, qui bellorum ambiunt virtute clarescere, qui per hora vulgi suas optant victorias celebrare, cum ingressuri sunt praelium, in corpore suo quod infirmum est et molle subjiciunt, quod durum est atque ad penetrandum difficile superponunt; loricis quippe ferreis induuntur, et carnem, quae facile cedit ictui. custodire contendunt, ut illud durum ac forte, quod foris est, defendat molle quod intus est. Redemptor noster, cum mundi hujus campum pugnaturus ingreditur, ad debellandas hujus aeris nequitias fortis praeliator armatur; quia novum debebat instruere praelium, novum induit genus armorum; videlicet ut quod infirmum est superponeret, et quod robustum est occultaret; loricam siquidem imbecillem carnis induit, et insuperabilem divinitatis fortitudinem occultavit. Sic per carnem diabolus a secundo homine perdidit, qui per carnem dudum primum hominem superavit eidemque nunc ruinae facta est causa, quae victoriae fuerat de primo parente materia.
+
+### CAPUT IX. Quod, deambulante Domino in paradiso, Adam, quia nudus esset, se abscondit.
+
+
+[0846A] {#pl.145.0846a}
+CAPUT IX. Quod, deambulante Domino in paradiso, Adam, quia nudus esset, se abscondit.
+
+
+[0846B] {#pl.145.0846b}
+Frigus concretum pectori vocem interrumpere consuevit, hoc denique frigus jam tunc ille conceperat, qui, deambulante Domino ad auram paradisi post meridiem, raucis quodammodo vocibus respondebat: « Audivi vocem tuam, et timui, eo quod nudus essem, et abscondi me. » Porro quia meridianus ab illo jam fervor abierat, aura, quae frigoris est alumna, huc accedebat, quia et illum jam innocentia sublata nudaverat. Haec omnia quid aliud innuunt, quam quia illius viscera exstincti amoris algor obstrinxerat, atque idcirco vox illius in auribus Domini raucum sonabat? Ab hoc plane frigore Abraham alienus exstiterat, de quo Scriptura pronuntiat: « Quoniam apparuit ei Dominus in ipso fervore diei, » et Sponsus ille coelestis, sicut in Canticis legitur: « Pascit et cubat in meridie. »
+
+### CAPUT X. De Cain septuplum ultio dabitur, de Lamech septuagies septies.
+
+
+[0846C] {#pl.145.0846c}
+CAPUT X. De Cain septuplum ultio dabitur, de Lamech septuagies septies.
+Ut beatus Lucas expiari nos a nostris sceleribus per adventum nostri Salvatoris ostendat, non ab evangelicae narrationis exordio, sed a baptismo duntaxat et Christi cognatione ordinem ejus inchoat, quem per septuaginta 895 septem cognationis gradus ascendendo describit, quod et in libro Geneseos evidenter ostenditur, ubi Lamech uxoribus suis dixisse narratur: « Septuplum ultio dabitur de Cain, de Lamech vero septuagies septies. » Ultio quippe de Lamech septuagies septies danda dicitur, quia septuaginta septem homines de femoribus ejus perhibentur egressi ac postmodum diluvio vorante referuntur absorpti. Sed qua Lamech percutiens sive percussus exprimitur, quid per hunc nisi primus parens humani generis figuratur? Qui nimirum et peccati telum, quo primus ipse percussus interiit, universae quoque successurae posteritati vulnus inflixit. De hoc ergo Lamech septuagies septies ultio data est, quia peccatum, quod primus homo contraxit, per septuaginta septem generationes in humano genere vigunt usque ad Christum; peccatum siquidem originale permansit, quod ipse per baptismi sacramenta delevit, ubi videlicet de illo dicitur: « Ecce Agnus Dei, ecce qui tollit peccata mundi. »
+
+### CAPUT XI. Fac tibi arcam de lignis laevigatis, et bitumine linies intrinsecus et extrinsecus.
+
+
+[0846D] {#pl.145.0846d}
+CAPUT XI. Fac tibi arcam de lignis laevigatis, et bitumine linies intrinsecus et extrinsecus.
+
+
+[0847A] {#pl.145.0847a}
+Arcam, quae octo animas inter cataclysmi fluenta continuit, intrinsecus et extrinsecus liniri bitumine vox divina praecepit; sancta scilicet Ecclesia, quae ad resurrectionis gloriam tendit, sic intus et extra bitumine linitur, ut et foris blandiatur in fraterna dilectione, et intus cohaereat in dulcedinis mutuae veritate. Quisquis enim intus amat, sed foris fratribus morum inconsona asperitate discordat, intrinsecus quidem bitumen habet, sed extrinsecus non habet; quisquis vero se specie tenus affabilem praebens amicitiam simulat, sed in cordis occulto veritatem amicitiae non servat, damnabiliter intus hiat, cum forinsecus superducti bituminis simulatione cohaereat. Quorum videlicet a diluviali naufragio neuter eripitur, quia duplici charitatis bitumine, ut divinitus praeceptum est, minime munitur; qui autem se et foris praebet amabilem, et intus conservat amantem, foris cum ramis verbi fructus exhibet beneficii, intus altam radicem figit, quia medullitus diligit. Hic profecto et intus et extra bitumine linitur, quia duplici charitatis glutino cum proximis foederatur. Porro autem quia de lignis laevigatis prius arca fieri praecipitur et sic deinceps ut bitumine liniatur, per hoc aperte nobis innuitur ut ligna nostra, duri videlicet inculti et asperi mores, prius expoliri debeant per spiritualis exercitii disciplinam, ut compactae dehinc fabricae bitumen accedat; quandiu enim hominum mores asperi sunt et inculti, inaniter eis charitatis gluten apponitur, quia ab invicem cito dissiliunt, dum in eis politae moralitatis aequata confoederatio non tenetur.
+
+
+[0847C] {#pl.145.0847c}
+896
+CAPUT XII. De mensura arcae diluvii.
+Crucis mysterium arca illa continuit, cujus longitudinem trecentorum fuisse cubitorum Scriptura definit. Qui videlicet numerus in thau littera, quae crucis exprimit speciem, continetur. Porro sicut Noe cum suis per aquam lignumque salvatur, sic et Christi familia aqua salvatur et ligno, dum et baptismo salutis abluitur, et vivificae crucis impressione signatur.
+Quae videlicet arca, ut in sacramento Christi humani corporis videatur aequiparare mensuram, trecentos habuisse cubitos in longitudine, triginta vero in altitudine perhibetur. Trecenti namque quinquagenarium numerum sexies, et tricenarium in se decies includunt; et humani corporis longitudo a capitis vertice usque ad pedes sexies tantum habet, quantum latitudo, quae est a dextera usque ad sinistram; et decies tantum quantum altitudo, quae est ante et retro. Sic nimirum arca in trecentenario longitudinis suae numero speciem crucis, et in totius suae dimensionis altitudine figuram tenet Dominici corporis. Et sicut animae septem donantur Noe, ut per lignum salventur in aquis diluvii, sic septem Ecclesiae septiformi Spiritu repletae salvantur in Christo per lignum crucis et aquam baptismatis. Per lignum nempe nos servituti suae princeps superbiae subdidit, et per lignum nos humilitatis auctor Christus Dominus in libertatis titulum revocavit.
+
+### CAPUT XIII. Quod cubitis quindecim altior fuit aqua diluvii super omnes montes.
+
+
+[0848A] {#pl.145.0848a}
+CAPUT XIII. Quod cubitis quindecim altior fuit aqua diluvii super omnes montes.
+Quindenarius numerus, quia ex septem et octo constat, mysterium in se continet beatae quietis et futurae resurrectionis; Deus enim, initio mundi conditi, septimo die requievit, et octavo die, cum mundum redimeret, resurrexit. Utriusque numeri hujus sacramentum continetur specialiter in baptismo, ubi scilicet novi de vetustate resurgimus, et deinceps quiescere a mundani strepitus perturbatione jubemur. Hoc denique septimae quietis et octavae resurrectionis mysterium non intelligunt qui vel gloriae mundanae jactantia, vel terrenae sapientiae vanitatibus intumescunt. Unde apte hic dicitur quia « quindecim cubitis altior fuit aqua super omnes montes quos operuerat. » Montes scilicet, superbos significant et elatos. Altum ergo atque profundum resurrectionis et quietis intimae sacramentum omnem transcendit intellectum alta sapientium superborum.
+
+### CAPUT XIV. Quod diluvium coepit minui post centum et quinquaginta dies.
+
+
+[0848B] {#pl.145.0848b}
+CAPUT XIV. Quod diluvium coepit minui post centum et quinquaginta dies.
+« Reversae sunt aquae de terra euntes et redeuntes, et coeperunt minui post centum 897 et quinquaginta dies. » Quoniam in regenerationis nostrae mysterio septima requies cum octava resurrectione conjungitur, bene in Genesis libro dicitur: « Quia reversae sunt aquae de terra, et coeperunt minui post centum et quinquaginta dies; » septuaginta namque, qui a septem, et octoginta qui ab octo dinumerantur, simul juncti centum quinquaginta fiunt.
+
+### CAPUT XV. Quod arca requievit mense septimo.
+
+
+[0848C] {#pl.145.0848c}
+CAPUT XV. Quod arca requievit mense septimo.
+Requievit arca mense septimo, vigesimo septimo die mensis super montes Armeniae. Quae nimirum septuagenarii requies bene in baptismo commendatur, quod videlicet per diluvium illud figuratum esse dignoscitur; in quo novi de Adam vetustate resurgentes deinceps quiescere a mundani strepitus perturbatione jubemur.
+
+### CAPUT XVI. De corvo et columba ex arca dimissis.
+CAPUT XVI. De corvo et columba ex arca dimissis.
+
+
+[0848D] {#pl.145.0848d}
+In hujus quippe mundi salo justi laborant, ubi suam reprobi possident requiem. Quam diversitatem bene corvus et columba ex arca dimissi significant; corvus enim, cadaveribus insidens, ad arcae claustra non rediit; columba vero reversa est, quia ubi pes ejus requisceret non invenit. Hic enim, ubi pravi quique carnalibus se voluptatibus satiant, sancti viri reperire nequeunt ubi ad quiescendum desiderii sui pedem ponant.
+
+### CAPUT XVII. Quod dimisit iterum Noe columbam ex arca.
+CAPUT XVII. Quod dimisit iterum Noe columbam ex arca.
+Cum mundi crimina diluvio quodam expiarentur effuso, futuri muneris columba similitudinem protulit, cum per olivae ramum pacem terris redditam nuntiavit. Ait enim Scriptura: « Exspectatis autem septem diebus aliis, rursum dimisit Noe columbam ex arca; at illa venit ad eum portans ramum olivae virentibus foliis in ore suo. » In emissione ac reversione columbae septenarius numerus ponitur, quia Spiritus sanctus, qui in mundi principio ferebatur super aquas, jam vesperascente saeculo sanctam replevit Ecclesiam.
+
+### CAPUT XVIII. Venite, faciamus civitatem.
+
+
+[0849A] {#pl.145.0849a}
+CAPUT XVIII. Venite, faciamus civitatem.
+« Cum proficiscerentur de oriente in occidentem, invenerunt campum in terra Sennaar et habitaverunt ibi in eo. » Cum Christus vero sit Oriens, propheta testante Zacharia, qui ait: « Ecce vir, Oriens nomen ejus; » de oriente veniunt, qui a Christi consortio, male vivendo, vel proximos lacerando recedunt. Sennaar autem interpretatur excussio dentium, sive fetor eorum. In campo ergo Sennaar habitant, qui non constituti in arca virtutum, 898 sed potius in valle vitiorum, dentes excutiunt, ut proximos suos detractionibus mordeant et quasi rodant, et fetores emittunt, dum in coenosae conversationis squaloribus computrescunt. Sed eorum dentes Deus excutit, dum perversorum quorumlibet facta simul et verba confundit: unde et illic dicitur: « Idcirco vocatum est nomen ejus Babel, quia ibi confusum est labium universae terrae, et dispersit eos Dominus super faciem cunctarum regionum. » Recte ergo dicitur, quia illi homines et vanae gloriae captatores, nimirum dicentes ad alterutrum: « Venite, faciamus nobis civitatem et turrim, » etc., habitaverunt in campo Sennaar, quod apud nos, sicut dictum est, sonat excussio dentium, vel fetor eorum; quoniam perversi quique, dum contra divinae legis mandata superbiunt, dum adversus Deum cervicem cordis arroganter erigunt, et proximis damnabiliter detrahunt, ipsi proclivius in obcenae vitae sterquilinio volutantur. Et de excussione quidem dentium in psalmo dicitur: « Dentes peccatorum contrivisti. » Item: « Deus conteret dentes eorum in ore ipsorum, molas leonum confriget Dominus. » De fetore quoque eorum legitur: « Computruerunt jumenta in stercore suo. » Item in Threnis: « Qui nutriebantur in croceis, amplexati sunt stercora. » Item Isaiae III: « Erit pro suavi odore fetor. » Quisquis enim vult aedificium fundare quod facile ruinae non sit obnoxium, necesse est eum non lateres et bitumen habere, quae repente dissiliant, sed lapides potius et saxa, quae parietes conjungant, et calcis ac sabuli coementum, quod ipsos parietes inviolata lapidum compago fortiter firmiterque constringat. Quod ergo jam dicti Babylonii lateres pro saxis et bitumen pro coemento habebant, carnalis vitae significatur aedificium, ad vim ventorum vel impetum fluminum quantocius obruendum.
+
+### CAPUT XIX. De quinque regibus Sodomae et Gomorrhae, qui a quatuor regibus interfecti sunt.
+
+
+[0849D] {#pl.145.0849d}
+CAPUT XIX. De quinque regibus Sodomae et Gomorrhae, qui a quatuor regibus interfecti sunt.
+
+
+[0850A] {#pl.145.0850a}
+Prudentia hujus mundi inimica est Deo; legi enim Dei non subjicitur, nec enim potest. Hinc est quod sicut in libro Genesis quinque reges, qui subesse noluerunt Chodorlahomor, a quatuor regibus superati sunt. Et ubi? In valle silvestri, quae nunc dicitur mare Salis. Qui sunt enim quatuor reges, nisi quatuor virtutes quas Scriptura sacra nominat principales? Quid vero per quinque reges, nisi totidem sensus corporis, ac per eos exterior scientia designatur? Sicut autem illae quatuor virtutes velut ex originali matris suae, rationis scilicet, fonte procedunt, sic isti in terrenae sapientiae vanitate velut in convalle salsuginis immorantur, ibique a suis hostibus sunt prostati, quia dignum est ut in anima hominis spiritualis sapientia vincat, et carnalis prudentiae calliditas pereat. Hinc et de David legitur: « Quia fecit sibi nomen, cum reverteretur capta Syria in valle Salinarum, caesis duodecim millibus. »
+
+
+[0850B] {#pl.145.0850b}
+899
+CAPUT XX. Quod Abraham cum Deo sacrificavit, pecora divisit, aves non.
+« Qui tollens, inquit Scriptura, universa haec, divisit ea per medium, et utrasque partes circa se altrinsecus posuit, aves autem non divisit. » Terrena quidem animalia contra se et altrinsecus opponuntur, quia terreni quique contra proximos jurgiis et contentionibus saeviunt, vel certe occultis adversus eos odiorum fomitibus inardescunt. At contra, qui sese in altum desiderii coelestis pluma sustollunt, dum sacrificium Deo semetipsos offerunt, a mutuae dilectionis glutino non recedunt.
+
+### CAPUT XXI. Abraham volucres descendentes super sacrificia abigebat.
+
+
+[0850C] {#pl.145.0850c}
+CAPUT XXI. Abraham volucres descendentes super sacrificia abigebat.
+Maligni spiritus vel orationes nostras pravis cogitationibus, vel opera bona peccati cujuslibet contaminatione corrumpere nituntur. Unde scriptum est quia, cum Abraham Deo sacrificium de pecoribus ac volucribus devotus offerret, descenderunt volucres super cadavera, et abigebat eas Abraham. Quid enim exprimunt volucres, nisi reprobos spiritus per aera volitantes? Volucres ergo a sacrificio nostro repellimus, cum orationum seu operum nostrorum victimas a malignis spiritibus eas foedare tentantibus provide custodimus.
+
+### CAPUT XXII. Cum sol occumberet, sopor irruit super Abraham, et horror magnus invasit eum.
+
+
+[0850D] {#pl.145.0850d}
+CAPUT XXII. Cum sol occumberet, sopor irruit super Abraham, et horror magnus invasit eum.
+Cum sol occumberet, sopor irruit super Abraham, et horror magnus et tenebrosus invasit eum. Solis occubitus mundi designat occasum; horror vero magnus et tenebrosus vitiorum figurat criminumque caliginem, quae quotidie pestilenter perhorrescunt per aestuantem reproborum hominum pravitatem. Unde et illic paulo post additur: « Cum ergo occubuisset sol, facta est caligo tenebrosa, et apparuit clibanus fumans. » Sicut enim fumus ex igne clibani vaporantis egreditur, ita vitiorum omnium flagitiorumque caligo de camino aestuantis avaritiae generatur, sicut dicit Apostolus: « Quia radix omnium malorum avaritia est. » Et hoc circa finem diei, hoc est circa finem mundi. Fumans ergo clibanus tenebrosam caliginem generat, quia caminus avaritiae, qui in pectoribus hominum pravorum aestuat, multis diversitatum tenebris mundum pestilenter obscurat. An non mentes infelicium caecat, quae scilicet et fidem tollit, et omnium virtutum in eorum cordibus lumen exstinguit? Unde cum illud praemisisset Apostolus, praesto subintulit: « Quam, videlicet avaritiam, quidam appetentes erraverunt a fide, et inseruerunt se doloribus multis; » multis quippe doloribus se inserunt, dum propter temporalia lucra infoederabili a se invicem simultate 900 dissiliunt, et plerumque, dum pro corporalibus in arma concurrunt, corporibus animas exuunt. Qui vero solis coelestibus inardescunt, pro doloribus oblectationibus potiuntur, quia in fraternae charitatis dulcedine unanimiter vivunt. Hinc est quod illo sacrificio vespertino, quod tunc Abraham obtulit, pecora quidem terrena ab invicem sequestrata composuit, sed volatilia non adjunxit. Unde Scriptura: « Qui tollens, inquit, universa haec, divisit ea per medium, et utrasque partes altrinsecus contra se posuit, aves autem non divisit. »
+
+### CAPUT XXIII. Descendam, et videbo an clamorem qui venit ad me opere compleverint.
+
+
+[0851B] {#pl.145.0851b}
+CAPUT XXIII. Descendam, et videbo an clamorem qui venit ad me opere compleverint.
+
+
+[0851C] {#pl.145.0851c}
+Si Creatoris nostri facta vigilanter attendimus, ad credenda quaelibet mala fidem adhibere facile non debemus; ipse enim, cujus oculis nuda et aperta sunt omnia, non dedignatus est, cum loqueretur ad Abraham super Sodomorum clamore qui ad eum venerat, dicere: « Descendam, et videbo utrum clamorem qui venit ad me opere compleverint. An non est ita, ut sciam? » Quod profecto ad nil aliud dictum videtur, nisi ut humana doceatur ignorantia sine experimentis audita non credere, incognita non leviter judicare, nec ante sententiam promere quam rem dubiam testimoniis approbare.
+
+### CAPUT XXIV. Quod Sodomitae, dum conarentur ad angelos violenter irrumpere, caecitate percussi sunt.
+CAPUT XXIV. Quod Sodomitae, dum conarentur ad angelos violenter irrumpere, caecitate percussi sunt.
+
+
+[0851D] {#pl.145.0851d}
+« Et ecce, inquit Scriptura, miserunt manum viri, et introduxerunt ad se Loth, clauseruntque ostium, et eos qui foris erant percusserunt caecitate a minimo usque ad maximum, ita ut ostium invenire non possent. » Sodomitae nempe violenter ad angelos conantur irrumpere, cum immundi homines ad Deum tentant per sacri ordinis officia propinquare. Sed ibi profecto caecitate percutiuntur, quia justo Dei judicio in tenebras interiores cadunt; ita ut nec ostium invenire praevaleant, quia, a Deo divisi peccando, unde ad eum revertantur ignorant. Qui enim non per humilitatis iter, sed per arrogantiae vel tumoris anfractus ad Deum accedere gestiunt, patet profecto quia unde ingressionis aditus pateat non agnoscunt. Sed quia ostium Christus est, sicut ipse dicit: « Ego sum ostium, » et qui Christum exigentibus peccatis amittunt, qua intrare coelestium civium habitaculum possint, ostium non inveniunt. In reprobum autem sensum traditi sunt, quia, dum reatus sui pondus impropriae mentis statera subtili consideratione non trutinant, gravissimam plumbi massam pennarum inanium levitatem putant. Quod ergo illic dicitur: « Percusserunt eos qui foris erant caecitate, » hoc Apostolus manifeste declarat, cum dicit: « Tradidit eos Deus in reprobum sensum. » Et quod illic subjungitur: « Ut ostium invenire non possint, » hoc iste patenter exponit, cum ait: « Ut faciant 901 quae non conveniunt, » ac si diceret, ut intrare tentent unde non debent.
+
+### CAPUT XXV Quod Abraham unicum sibi filium sacrificandum Deo obtulit.
+
+
+[0852B] {#pl.145.0852b}
+CAPUT XXV Quod Abraham unicum sibi filium sacrificandum Deo obtulit.
+Abraham dum immolare Deo filium suum voluit, cuncta pene per ordinem passionis Christi sacramenta signavit. Sicut Abraham, qui pater excelsus dicitur, unicum et dilectum filium Deo offerre non dubitavit, ita et summus Pater unigenitum Filium pro nobis omnibus tradidit. Et sicut Isaac ipse sibi ligna portavit quibus erat imponendus, ita quoque Christus crucis suae passionis gestavit in humeris lignum, in quo erat pro nostra salute passurus. Duo autem servi illi procul dimissi Judaeos significant, qui, cum serviliter viverent et carnaliter saperent, non intellexerunt altissimam humilitatem Christi, atque ideo non ascenderunt in montem, locum videlicet sacrificii. Cur autem duo servi, nisi quia, peccante Salomone, ex una Israelitica plebe duo facti sunt populi? quibus utique saepe per prophetam dicitur: « Adversatrix Israel, et praevaricatrix Juda. » Asinus autem ille quo utebatur Abraham tunc, insensata erat stultitia Judaeorum. Illa plane bruta stultitia portabat omnia sacramenta; quae tamen quid ferret, velut irrationale animal, ignorabat. Jam vero quid est quod dictum est eis: « Exspectate hic cum asino; postquam autem adoraverimus, revertemur ad vos? » Audi Apostolum: « Caecitas, inquit, ex parte in Israel facta est, ut plenitudo gentium intraret, et sic omnis Israel salvus fieret. » Quid est enim quod dicitur: « Caecitas in Israel facta ex parte? » Hoc est videlicet: « Exspectate hic cum asino, ut plenitudo gentium intraret, » hoc est, « postquam adoraverimus; » ubi videlicet sacrificium Dominicae passionis impletum per omnes gentes fuerit praedicatum. Quod autem sequitur: « Et sic omnis Israel salvus fieret, » hoc est, revertemur ad vos. Quid est autem quod aries inter vepres haerens cornibus invenitur, qui pro Isaac immolatus offertur? Crux nempe cornua habet; duo siquidem ligna invicem compinguntur, et sic crucis speciem reddunt; hinc est enim quod de Christo scriptum est: « Cornua sunt in manibus ejus. » Haerens ergo cornibus aries, Christus est crucifixus inter aculeatas et vulnificas Judaeorum iniquitates. Sicut ipse per Jeremiam conqueritur, dicens: « Spinis peccatorum suorum circumdedit me populus hic. » Peracto sacrificio, dicitur Abrahae: « In semine tuo benedicentur omnes gentes. » Et postquam Dominus dixit: « Foderunt manus meas et pedes meos, » paulo post in eodem psalmo subjecit: « Reminiscentur, et convertentur ad Dominum universi fines terrae, et adorabunt in conspectu ejus omnes patriae gentium. Quoniam Domini est regnum, et ipse dominabitur gentium. » Oblato itaque Abraham filio, et pro ariete immolato, appellavit nomen loci illius, « Dominus videt, » quia Dominus noster, postquam in ara crucis oblatus mortis nostrae debitum solvit, videndum se deinceps fidelium suorum obtutibus praebuit, 902 ut nimirum redempti omnes illum jam per fidem inveniant, qui eatenus fidei oculos non habebant.
+
+### CAPUT XXVI. De Lia et Rachel uxoribus Jacob.
+
+
+[0853B] {#pl.145.0853b}
+CAPUT XXVI. De Lia et Rachel uxoribus Jacob.
+Porro non est obscurum quod Laban duas filias habuit, quarum juniorem Jacob in conjugium copulavit, ad cujus tamen amplexus pervenire non potuit, donec majorem ignarus atque ideo invitus accepit. Sed quia rem scientibus loquor, non mihi multis elaborandum est verbis. Laban quippe dealbatio interpretatur. Quis autem ad Deum convertitur, nisi ut, deposita peccatorum nigredine, per remissionis gratiam dealbetur? sicut ipse pollicetur, dicens: « Si fuerint peccata vestra ut coccinum, quasi nix dealbabuntur. » Quod felix ille peccator postulabat, cum diceret: « Mundabor, lavabis me, et super nivem dealbabor. » Lia interpretatur, laborans; Rachel, verbum sive principium. Sed, si Scripturam diligenter attendimus, nec uno quidem die servisse Jacob propter Liae desiderium reperimus, sed per totas illas annorum hebdomadas pro sola Rachel servituti subjacuit. Insuper et ipsam Liam ad illius intuitum toleravit. Quis enim ad Deum idcirco convertitur, ut labores et aerumnas ac tentationum certamina patiatur? Omnis enim Deum quaerentis intentio hoc sperat, ad hoc spectat, ut ad requiem quandoque perveniat, et in summae contemplationis gaudio, velut in pulchrae Rachel amplexibus, requiescat, videlicet ut per verbum quod audit ascendat ad videndum principium quod quaesivit. Sed necesse est ut hunc diversorum certaminum labor exerceat antequam ad quietis intimae suavitatem, quam concupiscit, attingat. Prius servitute deprimitur, ut jure postmodum ad perfectae libertatis titulos provehatur. Septem vero annis sub dealbationis gratia servit, cum septem ea quae ad proximi dilectionem pertinent Decalogi mandata custodit, videlicet ut primo timore constrictus atque ideo servitutis jugo depressus saltem a vetustae legis incipiat institutis, ut nimirum parentes honoret, ut non moechetur, non occidat, non furetur, non falsum testimonium proferat, non uxorem alterius, nec rem proximi concupiscat. Quibus rite servatis, non mox, ut sperabat, ad contemplationis oblectamenta perducitur, ut velut exspectatae diu Rachel pulchritudine perfruatur, sed Lia sibi per noctem inopinato supponitur, quia inter humanae hujus ignorantiae tenebras tolerantia sibi laboris injungitur; ex qua tamen jam numerosam sobolem suscipit, quia uberes spiritualis lucri per hunc laborem fructus acquirit. Hanc itaque tolerat, ut ad illam quandoque perveniat quae perseveranter amat. Suadetur ergo ut per alios septem annos servire desudet, quia profecto necesse est ut adhuc alia septem praecepta observet, sed jam aliquanto liberior, non legalia tanquam servus, sed evangelica sicut gener, videlicet ut sit pauper spiritu, sit mitis, lugeat, esuriat sitiatque justitiam, sit misericors, mundum cor habeat, sit postremo pacificus. 903 Enimvero vellet homo, si fieri posset, nullas laborum molestias agendo perferre, sed protinus in ipsius sui tirocinii rudimentis ad pulchrae contemplationis delicias pervenire; verumtamen hoc non in terra morientium fit, sed in terra viventium. Quod significare videtur illud quod ad Jacob dicitur: « Non est, inquit Laban, in loco nostro consuetudinis, ut minores ante tradamus ad nuptias. » Nec absurde major appellatur, quae prior est tempore. Prius est enim in Domini eruditione labor boni operis quam requies contemplationis. Expletis itaque duabus, altera videlicet legis antiquae, altera evangelicae gratiae, mox ad diu desideratae Rachel pervenitur amplexus, quia quisquis pertingere ad divinae contemplationis oblectamenta desiderat, prius necesse est ut utriusque Testamenti peragere mandata contendat.
+
+### CAPUT XXVII. De Bala et Zelpha.
+
+
+[0854C] {#pl.145.0854c}
+CAPUT XXVII. De Bala et Zelpha.
+Sed quia electus quisque, perfectionis suae limite non contentus, filios etiam Deo gignere speciali fecunditate desiderat, postquam conjugale foedus Jacob cum duabus sororibus inivit, ad propagandum uberioris germen sobolis ancillas quoque ad generandi usum suscipere non refugit; atque, ut omnia spiritualibus intelligantur redundare mysteriis, ipsa quoque ancillarum nomina sub mysticis sunt praenuntiata figuris. Nam Bala interpretatur inveterata; sane quia intellectum spiritualis substantiae nudis verbis humana lingua nequit exprimere, quandoque doctrina sapientiae per quasdam corporeas similitudines audientem nititur informare. De veteri autem vita et carnalibus sensibus dedita corporeae cogitantur imagines, quarum videlicet ad docendum usus assumitur, cum aliquid ex incomprehensibili et incommutabili essentia divinitatis auditur. Rachel itaque maluit utcunque filios ex ancilla suscipere quam omnino sterilis permanere, quia doctrina sapientiae, sive gratia contemplationis, per exteriorem scientiam, vel visibilium rerum formas auditoribus intimat quidquid de visibilibus intra arcana occultat; et sic quodammodo per ancillam filios accipit, dum per eam, quae sub se est, scientiam spirituales Deo filios parit. Zelpha vero interpretatur os hians. Haec igitur ancilla illos figurat quorum, in praedicatione evangelicae fidei, os quidem hiat, sed cor non hiat. De quibus videlicet scriptum est: « Populus hic labiis me honorat, cor autem eorum longe est a me; » et de quibus Apostolus: « Qui praedicas, inquit, non furandum, furaris: » verumtamen ex hac ancilla cohaeredes futuros alios Lia filios accepit, quia saepe per tales praedicatores activa vita multos regni filios adoptavit. De quibus Veritas dicit: « Quae dicunt, facite; quae autem faciunt, facere nolite; » et Apostolus: « Sive, inquit, ex occasione, sive ex veritate Christus annuntietur, et in hoc gaudeo, sed et gaudebo. » Hoc autem in his considerandum esse perpendimus, quia, sicut Jacob solius Rachelis intuitu omnes illas mulieres accepit ex quibus filios genuit, sic quisquis, sub dealbationis gratia 904 constitutus, fructificare Deo spirituali fecunditate desiderat, necesse est ut per omne quod agit ad contemplationis gratiam semper tendat.
+
+### CAPUT XXVIII. Quod Rachel nomen filii sui Benjamin vocavit.
+
+
+[0855B] {#pl.145.0855b}
+CAPUT XXVIII. Quod Rachel nomen filii sui Benjamin vocavit.
+Egrediente anima, Rachel prae dolore, et imminente jam morte, vocavit nomen filii sui Benoni, id est, filius doloris mei; pater vero appellavit eum Benjamin, id est filius dexterae. Per Rachel enim Ecclesia non immerito designatur, quae nimirum et ad instar ovis innocenter vivit, et per studium contemplationis ad videndam Redemptoris sui speciem medellitus inardescit, qui de se requirentibus Judaeis ait: « Ego principium, qui et loquor vobis. » Per Benjamin vero, quo nascente mater emoritur Rachel, designatur Paulus, quem de hac stirpe exstitisse nemo est qui dubitet. Et Benjamin bene nascente, mater emori dicitur, quia, appropinquante ad lucem novae regenerationis Saulo, persecutionibus Ecclesia per eum graviter impugnatur. Sicut Lucas in Actibus apostolorum: « Saulus, inquit, devastabat Ecclesiam, per domos intrans, et trahens viros ac mulieres, tradebat in custodiam. » Congrue itaque Rachel Benoni, id est, filium doloris nostri vocat, quem Jacob Benjamin, id est, filium dexterae nuncupat, quia Paulus, qui matris Ecclesiae dolor exstiterat, qui eam quodammodo, dum nasceretur, impugnando peremit, a Deo Patre filius dexterae est appellatus, dum per eum divina potentia adversus gentes, quasi per fortem suam dexteram, dimicavit, verborum jacula valenter intorsit, salubres cordium plagas intulit, et per eum, devictis atque prostratis hostibus, cum gloria triumphavit. Hinc est quod idem Paulus ad Galatas ait: « Cum placuit autem ei qui me segregavit ex utero matris meae et vocavit per gratiam suam, ut revelaret Filium suum in me, ut evangelizarem eum gentibus, continuo non acquievi carni et sanguini. » Non ergo immerito filius dexterae Paulus vocatur, per quem omnis gentium multitudo, quae ad dexteram Dei ponenda est, ad fidei sacramenta colligitur.
+
+### CAPUT XXIX. Quod Onan invenit aquas calidas in solitudine, dum pasceret asinos patris sui.
+
+
+[0855D] {#pl.145.0855d}
+CAPUT XXIX. Quod Onan invenit aquas calidas in solitudine, dum pasceret asinos patris sui.
+
+
+[0856A] {#pl.145.0856a}
+Iste est Onan qui invenit aquas calidas in solitudine, dum pasceret asinos Sebeon pastris sui. Hoc plane quantum ad litteram videtur frivolum. Quid enim ad sacram Scripturam pertinet ut referat quia custos asinorum aquas reperit in deserto? Sed ubi in sacris litteris nulla videtur utilitas, ad spiritualem intelligentiam necesse est ut mens recurrat. Quid est enim per figuram, Onan in solitudine patris asinos pascere, nisi spiritualem quempiam virum, cui Deus Pater est, simplices fratres sub disciplinae remotioris studio custodire? Et quid 905 est aquas calidas invenire, nisi in compunctionis lacrymas, quae de fervore sancti Spiritus eliciuntur, erumpere? Nam et ipsa interpretatio nominum hujus figurae non refugit intellectum. Onan siquidem dolor tristitiae eorum, sive mussitatio vel murmuratio interpretatur. Quisquis enim verae compunctionis tristatur dolore, quasi sub quadam querula mussitatione adversum pravitatem vitae suae murmurare compellitur. Ipse quippe in aequitate principaliter stat, qui a justitiae rectitudine nulla necessitate coactus exorbitat. Onan ergo dum patris sui Sebeon asinos pasceret, aquas calidas reperit, quia quisquis se per vitae rectitudinem Deo filium exhibet, ac de peccatis suis medullitus dolet, dum se reddit in pervigili fratrum cura sollicitum, divino munere percipit gratiam lacrymarum. Nam et beata illa peccatrix prius pedes Domini unguento perunxit, postmodum alabastrum unguenti pretiosi super caput recumbentis effudit. Caput Christi Deus: pedes Christi servi Dei. Sicut enim illa, dum humanitati Christi dependit obsequium, ad divinitatis attingere meruit intellectum, sic doctor Ecclesiae, dum membra custodit, contemplandae divinitatis gratiam percipit.
+
+### CAPUT XXX. Descendit Judas in Thamna ad tondendas oves.
+
+
+[0856C] {#pl.145.0856c}
+CAPUT XXX. Descendit Judas in Thamna ad tondendas oves.
+Descendit Judas in Thamna ad tondendas oves cum Hira opilione gregis sui Odolamitae. Thamnas autem deficiens interpretatur; per quam videlicet synagoga, in qua reges et prophatae defecerant, simul et unctio, donec veniret cui repositum erat, ostenditur. Unde etiam per Prophetam dicitur: « Cum venerit sanctus sanctorum, cessabit unctio. » Quid itaque per Judam, qui ad tondendas oves in Thamna venit, nisi Redemptor noster intelligitur, 906 qui ut oves, quae perierant domus Israel, exoneraret peccatis, ad Synagogam venisse cognoscitur? Unde sponsus ad sponsam in Canticis: « Dentes tui sicut grex tonsarum, quae ascenderunt de lavacro. » Venit itaque Judas ad tondendas oves, non quidem solus, sed cum pastore suo Odolamite, cui nomen erat Hiras. Quid per Odolamitem, nisi Joannem intelligimus? Interpretatur autem Odolamites testimonium in aqua. Cum hoc plane testimonio venit Dominus ad aquas baptismatis, habens quidem majus te timonium Joannis, sed, propter infirmas oves, hoc testimonio uti dignatus est in aqua. Unde cum videret eum ad Jordanis fluenta propinquantem, protinus exclamans ait: « Ecce Agnus Dei, ecce qui tollit peccata mundi. » Et Evangelista dicit: « Testimonium perhibuit Joannes, dicens: Quia vidi Spiritum descendentem tanquam columbam de coelo et manentem super eum, et ego nesciebam eum, sed qui misit me baptizare in aqua, ille mihi dixit: Super quem videris Spiritum descendentem et manentem super eum, hic est qui baptizat in Spiritu sancto. » Cui sane visioni et nomen pastoris illius aptissime congruit. Interpretatur enim Hiras, fratris mei visio. Erat quippe Dominus frater Joannis, non modo secundum semen Abranae, sed et juxta cognationem Mariae et Elisabeth. Vidit itaque Joannes fratrem suum adhuc clausum in utero, vidit in baptismo, vidit oculo carnis hominem, vidit in spiritu majestatem. Unde utriusque hujus hominis interpretationem, Hiras videlicet, quod est fratris mei vis o, et Odolamites, quod sonat testimonium in aqua, idem Joannes sub unius sententiae versiculo comprehendit, dicens: « Ego vidi, et testimonium perhibui, quia hic est Filius Dei. » Veniente ergo Juda ad oves tondendas, Thamar mutat habitum, quia mutat spirituale vocabulum. Thamar quippe commutans interpretatur; nam de Synagoga fit Ecclesia.
+
+
+[0858A] {#pl.145.0858a}
+Sit nomen Domini benedictum.

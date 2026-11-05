@@ -1,0 +1,86 @@
+---
+id: pl.058.5301
+sigla: pl.58.excerpt
+title: "Excerpt"
+work: "Excerpt"
+creator: "Gregory of Tours"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 58"
+columns: "58"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.58.colN}"
+---
+
+# Excerpt
+
+**Author**: Gregory of Tours  
+**Series**: PL 58  
+**Columns**: 58  
+
+[58] {#pl.58.58}
+Excerptum
+EXCERPTUM EX GREGORIO TURONENSI DE S. EUGENIO CARTHAGINENSI ET ALIIS CONFESSORIBUS QUI SUB HUNERICO REGE PASSI SUNT.
+I. Vandali a loco suo digressi cum Gunderico rege in Gallias ruunt, quibus valde vastatis Hispanias appetunt. Hos secuti Suevi, id est Alamani, Galliciam apprehendunt. Nec multo post scandalum inter utrumque oritur populum, quoniam propinqui (Colb., ibi) sibi erant . . . . . . . Post haec prosequentibus Alamannis usque ad Traductam, transito mari Vandali per totam Africam ac Mauritaniam sunt dispersi.
+
+
+[0769A] {#pl.58.0769a}
+II. Sed quoniam eorum tempore persecutio in Christianos invaluit, videtur ut aliqua ex his quae circa Dei Ecclesias intulerunt, vel quemadmodum de regno expulsi sunt, memorarem. Defuncto igitur 1 Trasimundo, post scelera quae in sanctis Dei exercuit, Honoricus mente crudelior Africanum occupat regnum, atque ex electione Vandalorum ipsis praeponitur, cujus sub tempore quanti Christianorum populi pro ipso Christi sacratissimo nomine coesi tint, ab hominibus non potest comprehendi. Testis est tamen Africa quae misit, et Christi dextera quae gemmis immarcessibilibus coronavit. Legimus tamen quorumdam ex ipsis martyrum passiones, ex quibus quaedam replicanda sunt, ut ad ea quae spopondimus veniamus.
+
+
+[0770A] {#pl.58.0770a}
+III. Igitur Cirola, falso vocatus episcopus, haereticorum tunc maximus habebatur assertor; cumque ad persequendum Christianos rex per diversa transmitteret, sanctum Eugenium episcopum, virum inenarrabilis sanctitatis, qui tunc ferebatur magnae prudentiae esse in suburbano civitatis suae reperit persecutor. Quem ita violenter rapuit, ut nec 2 ad cohortandum gregem Christi locum habere permitteret. Ille vero cum se videret abduci, epistolam civibus suis pro custodienda fide catholica hoc modo transmisit:
+
+### EPISTOLA S. EUGENII CARTHAGINENSIS AD CIVES SUOS, PRO CUSTODIENDA FIDE CATHOLICA.
+
+
+[0770B] {#pl.58.0770b}
+EPISTOLA S. EUGENII CARTHAGINENSIS AD CIVES SUOS, PRO CUSTODIENDA FIDE CATHOLICA.
+Dilectissimis et in Christi amore dulcissimis filiis et filiabus Ecclesiae mihi 3 a Deo commissae, Eugenius episcopus. Regalis emanavit auctoritas, et pro exercenda fide catholica edicto nos 4 ad Carthaginem venire praecepit. Et ideo ne abiens a vobis Ecclesiam Dei in ambiguo, hoc est in suspenso dimitterem, aut oves Christi non verus pastor silentio relinquerem; necessarium duxi has pro me vicarias vestrae dirigere sanctitati, in quibus non sine lacrymis peto, hortor, moneo, et satis abundeque obtestor per Dei majestatem et per tremendum judicii diem, atque adventus Christi terribilem claritatem, ut fixius teneatis catholicam fidem, asserentes 5 Filium Patri esse aequalem, et Spiritum sanctum eamdem habere cum Patre et Filio deitatem. Servate itaque unici baptismatis gratiam, custodientes 6 Chrismatis unctionem. Nemo post aquam, revertatur ad aquam, renatus ex aqua 7 . Nutu enim Dei sal in aqua conficitur, sed si in aquam redactum fuerit, omnis species ejus confestim evacuatur. Unde non immerito Dominus in Evangelio ait: Si cal 8 infatuatum fuerit, in quo salietur? Et utique hoc est infatuari, velle secundo condiri eum semel factum sufficiat. Non audistis Christum dicentem: Qui semel lotus est, non habet necessitatem iterum lavandi (Joan. XIII) ? Ideoque, fratres, et filii, filiaeque meae in Domino, non vos contristet absentia mea: 9 quia si catholicae disciplinae adhaereatis, ego vos nec longinquitate aliqua obliviscar, nec morte a vobis divellar. Scitote quia 10 quodcunque fecerit me dividi a vobis, mecum est palma. Si ad exsilium abiero, beati Joannis evangelistae exemplum 11 habeo; si ad mortis exitium, Mihi vivere Christus est, et mori lucrum (Philipp. I, 21) . Si rediero, fratres, implebit Deus desiderium vestrum. Attamen sufficit modo, quod vobis non tacui, monui et instruxi quomodo potui, ideoque immunis sum a sanguine omnium pereuntium; scio quia adversus eos legentur litterae istae ante tribunal Christi, cum venerit reddere unicuique secundum opera sua. Si reversus fuero, fratres, videbo vos in hac vita; si reversus non fuero, videbo vos in futura. Dico tamen vobis, Valete, orate pro nobis, et jejunate: quia jejunium et eleemosyna semper Dominum ad misericordiam deflexerunt. Mementote esse scriptum in Evangelio: Nolite timere eos qui occidunt corpus, animam autem non possunt occidere; timete autem eum qui postquam occiderit corpus, habet potestatem et animam perdere, et mittere in gehennam (Matth. X, 28) .
+
+
+[0771B] {#pl.58.0771b}
+Explicit Eugenii epistola, ad suum redit thema Gregorius.
+IV. Ductus itaque sanctus Eugenius ad regem cum illo Arianorum episcopo, pro fide catholica decertavit. Cumque eum de sanctae Trinitatis mysterio potentissime devicisset, et insuper multas per eum virtutes Christus ostenderet, in majorem insaniam idem episcopus invidia inflammante succenditur. Erant enim tunc temporis cum sancto Eugenio viri prudentissimi atque sanctissimi, Vindemialis et Longinus episcopi, pares gradu, et virtute non impares. Nam sanctus Vindemialis eo tempore ferebatur mortuum suscitasse, Longinus autem multis infirmis salutem tribuit; Eugenius quoque non solum visibilium oculorum caecitatem, sed etiam mentium depellebat.
+
+
+[0771C] {#pl.58.0771c}
+V. Quod cernens ille nequam Arianorum episcopus, vocatum ad se quemdam hominem, ab illo quo ipse vivebat errore deceptum, ait: Non patior quod hi episcopi multa in populo signa depromunt, illosque cuncti, me neglecto, sequuntur. Acquiesce nunc his quae praecipio, et acceptis quinquaginta aureis, sede in platea per quam nobis est transitus, et manum super clausos oculos ponens, me praetereunte cum reliquis exclama in magna virtute, dicens: Te, beatissime Cirola nostrae religionis antistes, deprecor ut respiciens manifestes gloriam ac virtutem tuam, ut oculos meos aperiens, merear lucem videre quam perdidi. Qui jussa complens, residensque in platea, transeunte haeretico cum sanctis Dei, iste qui Deum irridere 12 cogitabat, exclamat in magna virtute, dicens: Audi me, beatissime Cirola, audi me, sancte sacerdos Dei: respice caecitatem meam. Experiar ego medicamenta quae saepe caeci reliqui a te meruerunt 13 , quae leprosi experti sunt, quae ipsi etiam mortui persenserunt. Adjuro te per ipsam virtutem quam habes, ut mihi desideratam restituas lucem, quia gravi sum caecitate percussus. Veritatem enim nesciens verum dicebat: quia caecaverat eum cupiditas, et virtutem Dei omnipotentis irridere per pecuniam aestimabat.
+
+
+[0772B] {#pl.58.0772b}
+VI. Tunc haereticorum episcopus paululum se divertit quasi in virtute triumphaturus, elatus vanitate atque superbia, posuit manum suam super oculos ejus, dicens: Secundum fidem nostram, qua recte Deum credimus, aperiantur oculi tui. Et mox ut hoc nefas erupit, risus mutatur in planctum, et dolus episcopi est patefactus in publico 14 . Nam tantus dolor oculos miseri illius invasit, ut eos digitis vix comprimeret, ne creparent. Denique clamare coepit miser, ac dicere: Vae mihi misero! quia seductus sum ab inimico legis divinae. Vae mihi, quia Deum per pecuniam irridere volui, et quinquaginta aureos accepi, ut hoc facinus perpetrarem. Ad episcopum autem aiebat: Ecce aurum tuum, redde lumen meum, quod dolo tuo perdidi. Vosque rogo, gloriosissimi Christiani ne despiciatis miserum, sed velociter succurrite pereunti. Vere enim cognovi quia Deus non irridetur (Gal. VI, 7) .
+
+
+[0772C] {#pl.58.0772c}
+VII. Tunc sancti Dei misericordia moti: Si, inquiunt, credis, omnia possibilia sunt credenti. At ille clamabat voce magna: Qui non crediderit Christum Filium Dei et Spiritum sanctum aequalem habere substantiam atque deitatem cum Deo Patre, hodie quae ego perfero patiatur. Et adjecit: Credo Deum Patrem omnipotentem, credo Filium Dei Christum Jesum aequalem Patri, credo Spiritum sanctum Patri et Filio consubstantialem atque coaeternum. Haec illi audientes, et se invicem honore mutuo pravenientes, oritur inter eos sancta contentio, quis oculis ejus signum beatae crucis imponeret. Vindemialis vero ac Longinus Eugenium; ille autem e contra eos exorat ut manus imponerent caeco. Quod cum fecissent, et manus suas super caput ejus tenerent, sanctus Eugenius crucem super oculos caeci faciens, ait: In nomine Patris, et Filii, et Spiritus sancti veri Dei, quem trinum in una aequalitate atque omnipotentia confitemur, aperiantur oculi tui. Et statim ablato dolore, ad pristinam rediit sanitatem 15 . Manifestissime autem patuit per hujus caecitatem, qualiter haereticorum episcopus oculos cordium misero assertionis suae velabat amictu, ne veram lucem illis liceret fidei oculis contemplari. O miserum! qui non ingressus per januam, id est per Christum, qui est janua vera, lupus magis gregi quam ejus custos effectus, et pacem fidei quam in credentium cordibus debuerat accendere, pravitate cordis sui conabatur exstinguere. Sancti vero Dei alia signa in populis multa fecerunt, et erat vox una populi dicentis: Verus Deus Pater, verus Deus Filius, verus Deus Spiritus sanctus, una fide colendus, uno timore metuendus, eodemque honore venerandus. Nam ea quae Cirola asserit, falsa esse cunctis est manifestum.
+
+
+[0773A] {#pl.58.0773a}
+VIII. Videns autem Honoricus rex assertiones suas per sanctorum fidem gloriosam 16 totaliter denudari, nec erigi sectam erroris, sed potius destrui; fraudemque pontificis sui in hoc scelere fuisse detectam: sanctos Dei post multa tormenta, post 17 eculeos, post flammas, post ungulas, jussit interfici. Beatum vero Eugenium decollari jussit, sub ea specie, ut si in ea hora qua ensis super cervicem ejus incumbebat, non reverteretur ad haereticorum sectam, non occideretur, ne eum pro martyre excolerent Christiani, sed exsilio damnaretur: quod ita factum esse manifestum est. Nam cum imminenti morte interrogatus fuisset si mori pro fide catholica 18 destinaret, respondit: Haec enim est sempiterna vita, pro justitia mori. Tunc suspenso gladio, apud 19 Albigensem Galliarum urbem exsilio deputatus est, ubi et finem vitae praesentis fecit. Ad cujus nunc sepulcrum multae virtutes et creberrimae ostenduntur. Sanctum vero Vindemialem gladio percuti praecepit, quod et 20 impletum est in hoc certamine. Octavianus vero archidiaconus et multa millia virorum ac mulierum hanc fidem asserentium, interempta atque 21 debilitata sunt. Sed pro amore gloriae nihil erant haec supplicia confessoribus sanctis, qui in pacis vexati, in multis bene se noverant disponendos, juxta illud Apostoli (Rom. VIII, 18) : Quia non sunt condignae passiones hujus temporis ad futuram gloriam, quae revelatur in nobis 22 .
+
+
+[0773C] {#pl.58.0773c}
+IX. Multi tunc errantes 23 a fide accipientes divitias inseruerunt se doloribus multis. Infelix autem quidam episcopus nomine Revocatus, eo tempore est revocatus a fide catholica. Tunc et sol teter apparuit obscuratus, ita ut vix ab eo pars vel tertia eluceret, credo namque pro tantis sceleribus et effusione sanguinis innocentis. Honoricus vero post tantum facinus, arreptus a daemone, qui diu de sanctorum sanguine pastus fuerat, propriis se morsibus laniabat, in quo etiam cruciatu vitam indignam justa morte finivit. Huic 24 Childericus, successit, quo defuncto Gelisimiris regnum suscepit. Ipse quoque a republica superatus, vitam principatumque finivit, et sic regnum decidit Vandalorum.
+
+
+[0774A] {#pl.58.0774a}
+X. Huic cryptae, in qua servabatur sancti Amarandi corpus, sociatur et ille Honorificianae [Hunericianae] persecutionis martyr Eugenius, sacerdotalis insulae maximum decus, quem in hac urbe detrusum exsilio, vel ipsius, vel sociorum ejus passio narrat. Hic cum magnis in saeculo polleret virtutibus, et jam victor de tormentis martyrialibus exstitisset, tempus vocationis suae, quo accerseretur ad gloriam, Domino revelante cognovit: illud praecipue quod populis occultabatur, manifestum noscens, se martyri Amarando socium esse futurum, ad ejus sepulcrum dirigitur, prostratusque solo diutissime orationem fudit ad Dominum: dehinc expansis per pavimentum brachii, spiritum coelo direxit, qui a Christianis collectus, in ipsa qua diximus crypta sepulturae mandatus est. [Tunc 25 omnes qui circa eum stabant, sua tundentes pectora, dantes mugitus proclamabant: O mors dira, cur tantos hodie perimis, dum a nobis aufers sancti nostri praesentiam? Longum est enarrare per singula, quanta et qualia inibi sine intermissione almi antistitis Eugenii hactenus cernimus coruscare. O quanta miracula et quantam dignitatem Dominus ostendit ad sepulcrum ejus! Aegri veniunt et sanantur, daemoniaci veniunt et liberantur, leprosi veniunt et mundantur, elingues veniunt et loquuntur, febricitantes veniunt et sanantur.]
+
+
+[0774B] {#pl.58.0774b}
+XI. Ad cujus festivitatem cum tempore quodam innumeri populi convenissent, negotia multa in atrio protulerunt; puella vero una ex habitatoribus loci stationem adiit, quasi aliquid coemptura, speciemque sibi aptam aspiciens a negotiatore suscepit, et statim dicto citius porrectam alteri, negat se accepisse. Negotiator vero intente aiebat: Mea eam tibi manu protuli, tuque rimandam sollicite accepisti. Illaque negante, ait negotiator; Si tibi tanta est pertinacia, avaritia stimulante, negandi, judicet illud beatus 26 martyr Eugenius, ad cujus sepulcrum si cum sacramenti interpositione dixeris te non accepisse, damni mihi nihil aestimo quod amisi. At illa pollicita se posse ex hoc exui sacramento, vadit ocius ad sepulcrum, elevatisque manibus ut juraret, extemplo membris 27 dissolutis irriguit, plantaeque ejus infixae sunt pavimento, vox haesit in gutture, tantum os patulum a sermone nudum hiabat. Quod negotiator cernens cum reliquo populo, ait: Prosit tibi, inquit, virgo, haec species quam tulisti mihi. Sufficit tibi ultio data per hunc pontificem Eugenium. Et hac dicens a loco recessit. Illa vero in hoc tormento diutissime detenta, tandem martyre jubente locuta; palam confessa est quod clam latere voluerat.
+
+
+[0775A] {#pl.58.0775a}
+XII. Quid agis, o infelix avaritia! Quid petendis rebus alienis succumbis mens feminea, non virilis? Ut quid firmam loricam mentis modica transverberas sagitta cupiditatis? Quid congregas, o homo, auri rubiginosi talenta, cum iis arsurus in gehenna? Quid tibi prosunt peritura lucra, quae aeternae vitae pariunt detrimenta, juxta illud Domini verbum: Quid prodest homini si totum mundum lucretur, animae autem suae detrimentum patiatur? aut quam dabit homo commutationem pro anima sua?
+
+
+[0776A] {#pl.58.0776a}
+XIII. [O fratres dilectissimi, spem in solo Redemptore figite, et ad aeternam patriam mente transite. Si enim nihil in hoc mundo amando possidetis, etiam possidendo cuncta reliquistis, ipse nobis gaudia aeterna concedat, qui nobis aeternae pacis remedia contulit Jesus Christus Dominus noster, qui cum aeterno Patre es Spiritu sancto vivit et regnat in saecula saeculorum Amen. ]
+
+
+[58] {#pl.58.58}
+Legendum Genserico. Sic Colb. At edit., ad hortandum gregem Christi illum abire permitteret. Legendum forte, illum abire, etc. Reg., Christicolam abire permitteret. Sic codex Regius et editi alii; mss. duo, in Domino; ex quibus alter, commissis. Sic mss. 2; editi habent a Carthagine. Baronius ad ann. 484, a Carthagine. Ms. 1, asserentes Patrem, et Spiritum sanctum eamdem habere cum Filio deitatem. Salvianus ejusdem aevi auctor lib. III de Gubernatione Dei, bona quae Christianis Deus assignat, recensens, commemorat sancti baptismatis gratiam, divini chrismatis unctionem, quod chrisma ecclesiasticum paulo post appellat. Colb. addit et Spiritu sancto. Apud Matth. V, 13, et Luc. XIV, 34, habetur evanuerit; et Marc. XIV, 50, insulsum. At Afri legebant infatuatum, ut patet ex Augustino de sermone Domini in monte. Sic ex ms. reposuimus. Editi cum Colb., Quin si catholicae disciplinae adhaereatis, ego vos nec . . . . . obliviscor . . . . . . divellor. Reg., quasi, etc. Sic eidem Colb. At edit eum regio ms., Quocunque me fecerint dividi agones. Baron., agone. Sic Baron.; sed Colb., profero. Alius ms, constat exemplum. Colb., cogitaverat exclamavit voce magna, tota virtute: Audi me, sancte, etc. Colb. addit accipere. Simile quid huic rei contigit Leovigildi temporibus in Hispania, uti memorat idem Gregorius Turonensis lib. de Gloria Confessorum, cap. 13. Ubi rege conquerente quod suae sectae episcopi nulla ederent miracula sicut apud catholicos fieri solebant, unus ex illis hominem, qui pecunia corruptus caecum se fingeret, curare simulavit, sed Dei nutu ille revera caecus effectus dolum patefecit. Hanc caeci historiam memorat Hermanuus Contractus in Chronico ad annum 483, ubi Longinus episcopus appellatur Longwinus. Sic ms. 1. At. Edit., taliter, et Colb., denudatas. Baron., aculeos. Colb., disponeret. Cod. reg., Albanensem. Mss. 2, impletum est. In hoc autem certamine Octavianus, etc. Ms. 1, necata. Ed., sanctis. Eamdem Africanae Ecclesiae cladem deplorat Felix papa, ut dicemus infra cap. 10. Colb., Hildericus. Quae ansulis inclusa sunt, ex cod. Colb. descripsimus. Colb., confessor. Colb., dissoluta diriguit.

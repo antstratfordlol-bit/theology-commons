@@ -1,0 +1,400 @@
+---
+id: pl.068.6252
+sigla: pl.68.on-the-parts-of-divine-law
+title: "On the Parts of Divine Law"
+work: "On the Parts of Divine Law"
+creator: "Junilius Africanus"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 68"
+columns: "68"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.68.colN}"
+---
+
+# On the Parts of Divine Law
+
+**Author**: Junilius Africanus  
+**Series**: PL 68  
+**Columns**: 68  
+
+[68] {#pl.68.68}
+De partibus divinae legis
+JUNILII DE PARTIBUS DIVINAE LEGIS LIBRI II.
+
+
+[0015] {#pl.68.0015}
+Sancto ac beatissimo episcopo Primasio Junilius salutem.
+
+
+[0015B] {#pl.68.0015b}
+Scis ipse, venerabilis Pater Primasi, quia vitae meae et propositi conscius, sicut divinae legis me studium habere non denego, ita doctorem dicere non praesumo; illud propheticum metuens: Peccatori autem dixit Deus: Quare tu enarras justitias meas, et assumis testamentum meum per os tuum (Psal. XLIX, 16) ? Sed dum te inter alios reverendissimos coepiscopos tuos usque ad Constantinopolim peregrinae provinciae coegisset utilitas, ex civitatis affectu in notitiam colloquiumque pervenimus. Tu autem more illo tuo nihil ante quaesisti, quam si quis esset inter Graecos, qui divinorum librorum studio intelligentiaque flagraret. Ad haec ego respondi, vidisse me quemdam Paulum nomine, Persam genere, qui in Syrorum schola in Nisibi urbe est edoctus, ubi divina lex per magistros publicos, sicut apud nos in mundanis studiis grammatica et rhetorica, ordine ac regulariter traditur. Tunc diu quaesitus, si quid ex ejus dictis haberem, dixi quod legissem regulas quasdam quibus ille discipulorum animos, divinarum Scripturarum superficie instructos, prius quam expositionis profunda patefaceret, solebat imbuere; ut ipsarum interim causarum quae in divina lege versantur, intentionem ordinemque cognoscerent: ne sparsim et turbulente, sed regulariter singula discerent. Haec tu, Pater, nescio qua ratione omnibus Christianis erudiri volentibus necessaria judicasti, excusantemque me diu usque ad defensionis impudentiam compulisti: unde in duos brevissimos libellos regularia haec instituta collegi, addens ipsius dictionis (quantum potui) utilem formam, ut velut discipulis interrogantibus et magistro respondente, breviter singula et perlucide dicerentur. Et ne aliqua confusio per antiquariorum (ut assolet) negligentiam proveniret, Magistro Μ Graecam litteram, Discipulis vero Δ praeposui, ut ex peregrinis characteribus, et quibus Latina scriptura non utitur, error omnis penitus auferatur 1 . Sunt alia illius viri praeclara monimenta: Nam et beati Pauli ad Romanos Epistolam audivi subtilius (ut arbitror) exponentem: quam ego ex ejus ore, ne memoria laberetur, excepi; sed curarum negotiorumque spinae, ne quid agro dominico fructificemus, impediunt. Sufficit haec una temeritas, quod divino gazophylacio ex paupertate confessa, duo haec audeo minuta jactare. Sunt qui talentis onerent unde egentibus prorogetur: qui virtutum gemmas, aurum vitae, argentum scientiae, divinis possint offerre sacrariis. Mihi nihil amplius duobus suppetit his minutis (Luc. XXI, 2) , et ipsis ab alio commodatis. Verum enimvero multum mihi de evangelico examinatore polliceor: quia licet alii ex pretiosissimis pretiosa, ex plurimis valent plura largiri, ego tamen quia totum dedi, plus obtuli. Vale.
+
+### LIBER PRIMUS.
+
+
+[0016C] {#pl.68.0016c}
+LIBER PRIMUS.
+
+### CAPUT PRIMUM.
+
+
+[0015] {#pl.68.0015}
+CAPUT PRIMUM.
+
+
+[0015D] {#pl.68.0015d}
+D. In quot primas partes legis divinae scientia dividitur? M. In duas: quarum una ad ipsam superficiem dictionis proprie pertinet; alia in rebus est quas ipsa Scriptura nos edocet.
+
+### CAPUT II. Quae pertinent ad superficiem Scripturarum.
+CAPUT II. Quae pertinent ad superficiem Scripturarum.
+D. Ad ipsam superficiem dictionis proprie pertinentia quot sunt? M. Quinque. D. Quae? M. Species dictionis, auctoritas, conscriptor, modus, ordo. D. Species dictionis quot sunt? M. Quatuor. Nam aut historica est, aut prophetica, aut proverbialis, aut simpliciter docens.
+
+### CAPUT III. De historia.
+
+
+[0016D] {#pl.68.0016d}
+CAPUT III. De historia.
+D. Historia quid est? M. Praeteritarum rerum praesentiumve narratio. D. In quibus libris divina continetur historia? M. In septemdecim: Gen. 1, Exod. 1, Levit. 1, Num. 1, Deuter. 1, Jesu Nave 1, Judicum 1, Ruth 1, Regum secundum nos 4, secundum Hebraeos 2, Evangeliorum 4, secundum Matthaeum, secundum Marcum, secundum Lucam, secundum Joannem, Actuum apostolorum 1. D. Nulli alii libri ad divinam historiam pertinent? M. Adjungunt plures: Paralipomenon 2, Job 1, Esdrae 2, Judith 1, Esther 1, Macab. 2. D. Quare hi libri non inter canonicas Scripturas currunt 2 ? M. Quoniam apud Hebraeos quoque super hac differentia recipiebantur, sicut Hieronymus caeterique testantur. D. Nulla in his libris alia species invenitur? M. Incedunt caeterae, sed non principaliter: quia etsi personae a quibus dictae sunt primum, secundum caeteras species sunt locutae; tamen ab eo qui librum scripsit, ut historia sunt relata. Sicut benedictiones Jacob patriarchae, ab ipso quidem propheta dictae sunt: sed Moyses qui refert, ordine narrat historico. Et cum ipse Moyses dicit: In principio factum coelum et terram (Gen. I, 1) ; prophetico quidem dicit spiritu, sed specie narrat historica. Similiter et proverbialiter nonnunquam sonat historia, ut est: Ambulantia ambulaverunt ligna, ungere super se regem (Jud. IX, 8) . Aliquando simpliciter docet, id est: Audi, Israel, Dominus Deus tuus, Deus unus est (Deut. VI, 4) . Omnia tamen, ut dixi, specie contexuntur historica. D. Quid historica speciebus caeteris praestat? M. Quod ipsi caeterae subjacent: ipsa, nulli. D. Quid illi commune cum caeteris? M. Habet commune cum simplici doctrina, quod utraque superficie planae videntur, cum sint intellectu plerumque difficiles: nam aliae contra.
+
+### CAPUT IV. De prophetia.
+
+
+[0017B] {#pl.68.0017b}
+CAPUT IV. De prophetia.
+D. Quid est prophetia? M. Rerum latentium, praeteritarum, aut praesentium, aut futurarum, ex divina inspiratione manifestatio. D. Da in praeteritis prophetiam. M. Verbo Domini coeli firmati sunt (Psal. XXXII, 6) . Et: Quoniam ipse dixit, et facta sunt (Psal. CXLVIII, 5) . Et: In principio fecit Deus coelum et terram (Gen. I 1) . D. Da in praesentibus. M. Cognitionem futuri facti Giezi propheta in praesenti vidit (IV Reg. V, 26) : et Ananiae ac Saphirae, Petrus apostolus (Act. V, 3) . D. Da in futuris. M. Ecce virgo accipiet in utero (Isa. VII, 14) , etc. D. Quare in definitione positum est latentium? M. Quia si quis jam cognita dicat, licet et futura sint, tamen propheta non est: sicut nos, cum resurrectionem praedicamus, prophetae non sumus. Si vero cujuscunque temporis latentia manifestat, tunc propheta est, sicut jam ostendimus. D. Proba hoc. M. Apostoli testimonio, in Epistola ad Corinthios, qui ait: Si convenerit universa Ecclesia in unum, et linguis loquantur omnes, intrent autem idiotae, nonne dicent quia insanitis? Si autem omnes prophetent, intret autem infidelis aut idiota, convincitur ab omnibus, interrogatur ab omnibus, occulta etiam cordis ejus manifesta erunt: et tunc cadens in faciem, adorabit Deum, annuntians quod manifeste Deus in vobis est (I Cor. XIV, 23, 25) . Ecce Apostolus prophetiae vim in occultorum manifestatione signavit. Sed et sequentia in eadem Epistola et caeteris, multa sunt talia. D. Quare addidimus: Ex divina inspiratione? M. Quia illi qui aut daemonum instinctu, aut aliis modis latentia dicunt, licet prophetae dici possunt, tamen inter divinarum Scripturarum non numerantur auctores. D. In quibus libris prophetia suscipitur? M. In septemdecim: Psalmorum CL lib. 1, Osee lib. 1, Isaiae lib. 1, Joel lib. 1, Amos lib. 1, Abdiae lib. 1, Jonae lib. 1, Michaeae lib. 1, Nahum lib. 1, Sophoniae lib. 1, Habacuc lib. 1, Jeremiae lib. 1, Ezechiel lib. 1, Daniel lib. 1, Aggaei lib. 1, Zachariae lib. 1, Malachiae lib. 1. Caeterum de Joannis Apocalypsi apud Orientales admodum dubitatur 3 . D. Nulla in his libris alia species invenitur? M. Accedunt caetera; sed non principaliter, nisi ad probationem prophetiae: sicut in Isaia cap. VII, XXXI, XXXVII, Achaz et Ezechiae regum velut quaedam refertur historia; sed prophetiae intentio est, non gesta contexere, sed praedictorum exitum comprobare. Jeremias cum dicit: Terra, terra, audi verbum Domini (Jer. XXII, 29) , terram, proverbialiter, habitantes in ea homines nuncupat. Et cum Isaias dicit: Non tale jejunium elegi, dicit Dominus: sed solve omnem nodum iniquitatis (Isa. LVIII, 6) , etc., velut simpliciter docet, sed ut prophetico spiritu jussus haec praedicat. D. Quid prophetiae commune cum caeteris? M. Habet commune cum Proverbiis quod utraque superficie difficilia sunt, sed pleraque intellectu non ardua.
+
+### CAPUT V. De Proverbiis.
+
+
+[0018B] {#pl.68.0018b}
+CAPUT V. De Proverbiis.
+D. Quae est proverbialis species? M. Quaedam figurata locutio, aliud sonans, aliud sentiens, et in praesenti commonens tempore. D. In quibus haec libris accipitur? M. In duobus: Salomonis Proverbiorum lib. 1, et Jesu filii Sirach lib. 1.
+
+
+[0018C] {#pl.68.0018c}
+D. Nullus alius liber huic speciei subditur? M. Adjungunt quidam librum qui vocatur Sapientiae, et Cantica canticorum. D. Acciduntne his libris aliae species? M. Sola simplex doctrina accidit, sed non principaliter, nisi ad explanationem vel commendationem Proverbiorum: ut, Initium sapientiae timor Domini (Prov. I, 7; IX, 10) .
+D. Quid Proverbiis commune cum caeteris? M. Habet cum prophetia commune, quod superficie difficilis videtur, cum intellectu plerumque non sit. D. Quid habet proverbialis species proprium? M. Quod ei neque historia, neque prophetia miscentur; et sola est quae ita intelligitur, ut quodammodo verborum superficies auferatur. D. Quare in hoc tantum licitum nobis est, non textum Scripturae ipsius considerare, sed sensum, cum in caeteris tribus ita allegorias mysticas admittamus, ut narrationis fidem praesentare necesse sit? M. Quia si voluerimus proverbialem speciem ubique allegoriam sic recipere, ut narrationis veritas infirmetur, locum damus inimicis, prout voluerint, divinos libros interpretandi. D. Quot modis in divina lege allegoria cognoscitur? M. Quatuor: aut secundum translationem vel metaphoram, ut est: Iratus est Dominus, et descendit (Exod. IV, 14) , et similia quae ad insinuandas causas ex humanis moribus transferuntur ad Deum; aut secundum imaginationem vel hypotyposin, ut est in Evangelio: Homo quidam descendebat ab Jerusalem in Jericho (Luc. X, 30) ; et rursus parabola vineae atque agricolarum (Matth. XX, XXI) . Ordo enim eorum quae gerebantur a Christo, velut imagine personae et negotii alterius refertur impletus. Aut secundum comparationem vel similitudinem, sicut dicit: Simile est regnum coelorum grano sinapis (Luc. XIII, 19) , etc. Non enim narratio, sicut in superiore exemplo contexitur, sed causarum solummodo comparantur effectus. Aut secundum proverbialem modum, ut est: Bibe aquam de tuis vasis, et de cisterna tua, et de tuis puteis (Prov. V, 15) , cum velit Scriptura innuere, carnalem concupiscentiam intra licentiam conjugii refrenandam.
+
+### CAPUT VI. De simplici doctrina.
+
+
+[0019B] {#pl.68.0019b}
+CAPUT VI. De simplici doctrina.
+D. Quae est simplex doctrina? M. Qua, de fide aut de moribus in praesenti tempore simpliciter docemur.
+D. Quare hoc nomen accepit? M. Quia omnis quidem Scriptura aliquid docet, sed sub aliis speciebus quas supra diximus; sub quibus aliud etiam agitur. Haec autem neque historiam texit, neque prophetiam, neque proverbialiter loquitur; sed tantummodo simpliciter docet. D. Qui libri ad simplicem doctrinam pertinent? M. Canonici sexdecim; id est, Eccles. lib. I. Et Epist. Pauli Apostoli ad Rom. 1, ad Corinth. 2, ad Gal. 1, ad Ephes. 1, ad Philip. 1, ad Coloss. 1, ad Thessal. 2, ad Timoth. 2, ad Titum 1, ad Philem. 1, ad Heb. 1; Beati Petri ad Gentes 1, et Beati Joannis prima. D. Nulli alii Libri ad simplicem doctrinam pertinent? M. Adjungunt quamplurimi quinque alias quae Apostolorum Canonicae nuncupantur: id est, Jacobi 1, Petri secundam, Judae unam, Joannis duas. D. Nulla in his Libris alia species invenitur? M. Accedunt caeterae, sed non principaliter, nisi ad probationem doctrinae. Nam cum dicit Apostolus: Et dum venissem Troadem, in Evangelio Christi ostium mihi apertum est (II Cor. II, 12) ; et ubi Petro dicitur in faciem restitisse, velut historiam videtur texere. Rursus cum dicit: Ecce mysterium vobis dico: Omnes quidem resurgemus, sed non omnes immutabimur (I Cor. XV, 51) , prophetae opus aggreditur. Cum ait: Cretenses semper mendaces, malae bestiae, ventres pigri (Tit. I, 12) , proverbialibus utitur verbis: omnia tamen ad doctrinae probationem, ut diximus, inseruntur. D. Quid commune cum caeteris speciebus simplex doctrina habet? M. Habet cum historia commune, quod utraque, superficie faciles videntur, cum sint inspectione aut intellectu plerumque difficiles.
+
+### CAPUT VII De auctoritate Scripturarum.
+
+
+[0019D] {#pl.68.0019d}
+CAPUT VII De auctoritate Scripturarum.
+
+
+[0020A] {#pl.68.0020a}
+D. Quomodo divinorum Librorum consideratur auctoritas? M. Quia quidam perfectae auctoritatis 4 sunt, quidam mediae, quidam nullius. D. Qui sunt perfectae auctoritatis? M. Quos Canonicos in singulis speciebus absolute enumeravimus. D. Qui mediae? M. Quos adjungi a pluribus diximus. D. Qui nullius auctoritatis sunt? M. Reliqui omnes. D. In omnibus speciebus hae differentiae inveniuntur? M. In historia et simplici doctrina: omnes namque in prophetia mediae auctoritatis libri, non praeter Apocalypsin reperiuntur: neque in proverbiali specie omnino cessata
+
+### CAPUT VIII. De scriptoribus divinorum Librorum.
+CAPUT VIII. De scriptoribus divinorum Librorum.
+
+
+[0020B] {#pl.68.0020b}
+D. Scriptores divinorum Librorum qua ratione cognoscimus? M. Tribus modis. Aut ex titulis et prooemiis, ut Propheticos Libros, et Apostolorum Epistolas; aut ex titulis tantum, ut Evangelistas: aut ex traditione veterum, ut Moyses creditur scripsisse quinque primos libros historiae; cum non dicat hoc titulus, nec ipse referat, Dixit Dominus ad me: sed quasi de alio, Dixit Dominus ad Moysen. Similiter et Jesu Nave liber, ab eo quo nuncupatur, traditur scriptus. Et primum librum Regum Samuel scripsisse perhibetur. Sciendum praeterea quod quorumdam Librorum penitus ignorantur auctores, ut est Judicum, et Ruth, et Regum III et ultimus, et caetera similia: quod ideo credendum est divinitus dispensatum, ut alii quoque divini Libri non auctorum merito, sed sancti Spiritus gratia tantum culmen auctoritatis obtinuisse noscantur.
+
+### CAPUT IX. De modis Scripturarum.
+
+
+[0020C] {#pl.68.0020c}
+CAPUT IX. De modis Scripturarum.
+D. Modi divinae Scripturae quot? M. Duo: nam aut metris Hebraicis in sua lingua conscribuntur, aut oratione simplici. D. Quae sunt metris conscripta? M. Ut Psalmi, et Job historia, et Ecclesiastes, et in Prophetis quaedam. D. Quae simplici oratione conscripta sunt? M. Reliqua omnia. D. Quare apud nos iisdem metris conscripta non sunt? M. Quia nulla dictio metrum in alia lingua conservat, si vim verborum ordinemque non mutet.
+
+### CAPUT X. De ordine Scripturarum.
+CAPUT X. De ordine Scripturarum.
+
+
+[0020D] {#pl.68.0020d}
+D. Quis est ordo divinorum voluminum? M. Quia quaedam Veteris Testamenti, quaedam Novi. D. Quae ad Novum Testamentum pertinent? M. Evangelia (ut supra dictum est) quatuor, Apostolicae Epistolae, et Actus. D. Quae ad Vetus Testamentum pertinent? M. Reliqua omnia. D. Quae Testamenti Veteris Novique sunt propria? M. Veteris intentio est, Novum figuris denuntiationibusque monstrare: Novi autem, ad aeternae beatitudinis gloriam humanas mentes accendere.
+
+### CAPUT XI. De his quae Scriptura sacra nos edocet.
+CAPUT XI. De his quae Scriptura sacra nos edocet.
+D. Quoniam satis dictum est de his quae ad ipsam Scripturae superficiem proprie pertinent, nunc requiro quae sunt quae ipsa Scriptura nos docet. M. Tria quaedam: nam aut de Deo loquitur, aut de praesenti saeculo aut de futuro.
+
+### CAPUT XII. Quot significationibus Scriptura de Deo loquitur.
+CAPUT XII. Quot significationibus Scriptura de Deo loquitur.
+D. Quot significationibus Scriptura de Deo loquitur? M. Quatuor. Aut enim essentiam ejus significat, quam Latine et substantiam nuncupamus, ut est: Ego sum qui sum (Exod. III, 14) . Aut personas, vel secundum Graecos, subsistentias, ut est: Ite, docete omnes gentes, baptizantes eos in nomine Patris, et Filii, et Spiritus sancti (Matth. XXVIII, 19) . Aut operationem, ut scriptum est: Secundum operationem potentiae virtutis ejus, quam operatus est in Christo, suscitans eum a mortuis, et sedere faciens ad dexteram suam (Ephes. I, 19, 20) . Aut collationem ejus ad creaturas, ut est: Regi autem saeculorum incorrupto 5 , invisibili, soli Deo honor et gloria in saecula saeculorum (I Tim. I, 17) .
+
+### CAPUT XIII. De significationibus divinae essentiae.
+
+
+[0021B] {#pl.68.0021b}
+CAPUT XIII. De significationibus divinae essentiae.
+D. Quot modis divina significatur essentia? M. Duobus; principaliter et consequenter. D. Principaliter quibus verbis? M. Octo. Dicitur enim, aut Deus, aut Dominus, aut simul, Dominus Deus; aut Adonai, aut Sabaoth, aut Heli, aut Heloi; aut, Est. D. Nihil aliud quam Deum haec verba significant? M. Duo tantum nonnunquam et de aliis abusive dicuntur; Deus et Dominus, teste Paulo: Quoniam dii multi et domini multi (I Cor. VIII, 5) . Et: Dii estis et filii Excelsi omnes (Isa. IX, 6) . Reliqua vero sex nunquam nisi de Deo dicuntur. D. Quid de Deo haec verba significant? M. Non quid est, sed quia est: quid enim sit Deus, comprehendi non potest. D. Quibus modis Deus consequenter significatur? M. Cum personas, aut operationem, aut collationem ejus ad creaturas Scriptura exponit. Nam et cum nominat Patrem, licet primus auditus generantem significet, consequenter tamen intelligimus Deum: similiter et quando nominat Filium vel Spiritum sanctum. Et cum dicit, omnipotens, licet operationem ejus primus sermo denuntiet, consequenter tamen intelligimus Deum. Et cum dicit invisibilem, licet eum qui videri a mortalibus nequeat, principaliter sonet, et ex collatione nostra id quod non sumus ei qui nos fecit assignet, consequenter tamen intelligimus Deum.
+
+### CAPUT XIV. De significationibus Trinitatis.
+
+
+[0021D] {#pl.68.0021d}
+CAPUT XIV. De significationibus Trinitatis.
+D. Quot modis Personas sive 6 substantias divinitatis Scriptura significat? M. Similiter duobus: Principaliter et consequenter. Principaliter, ut cum dicitur, Pater, Filius, Spiritus sanctus. Consequenter, per ea quibus significatur essentia, aut operatio, aut ad creaturas collatio. Nam et cum dico, Deus, quod ad essentiam; et cum dico omnipotens, quod ad operationem pertinet, dico. Et cum dico, immutabilis, quod ex collatione ad creaturas dicitur, licet aliud primus auditus sentiat, tamen Patrem et Filium et Spiritum sanctum vel simul, vel singulos, consequenter Deum intelligo.
+
+### CAPUT XV. Quot modis Pater significatur.
+
+
+[0022A] {#pl.68.0022a}
+CAPUT XV. Quot modis Pater significatur.
+D. Quot modis Pater significatur? M. Patris nomine unam personam intelligis, sed non uno modo: ad Filium enim proprie dicitur, ad creaturam communiter: ibi naturae veritate, hic gratiae bonitate. D. Hoc uno modo Pater significatur? M. Principaliter hoc. Nam consequenter et ex his quae essentiam deitatis, aut operationem, aut collationem ad creaturas quolibet modo significant. Insuper et ex Filii vocabulo consequenter intelligitur Pater; et sancti Spiritus nomine, ipse scilicet Pater cujus est Spiritus, subintelligitur. D. In ipsa Trinitate, nulli alii personae vocabulum Patris adscribitur? M. Legitur de Filio dictum: Pater futuri saeculi (Psalm. LXXXI 6) ; sed hoc secundum carnem dictum est, et non proprie et significative: ut ostenderetur ipse causa et genitor beatitudinis nostrae; in quo per carnis resurrectionem humana natura futuram vitam et sperare incipit et sumere.
+
+### CAPUT XVI. Quot modis Filius significetur.
+
+
+[0022C] {#pl.68.0022c}
+CAPUT XVI. Quot modis Filius significetur.
+D. Quot modis loquitur Scriptura de Filio? M. Quinque. Nam velut sola nonnunquam deitas ejus significatur, et consequenter intelligitur carnis assumptio, ut est: Unigenitus Filius qui est in sinu Patris (Joan. I, 18) . Nonnunquam vero solus homo ab eo susceptus, et deitas consequenter, ut est: Novissime locutus est nobis in Filio (Hebr. I, 1, 2) . Nonnunquam simul utrumque, ut est: Hoc sentite in vobis quod et in Christo Jesu; qui cum in forma Dei esset, non rapinam arbitratus est esse se aequalem Deo, sed semetipsum exinanivit formam servi accipiens (Philip. II, 5, 7) . Nonnunquam et ad corpus videntur dicta, quae ad deitatem sunt principaliter referenda, ut est: Filius hominis 7 quidem in coelo (Joan. III, 13) . Rursus divinitati nonnunquam videntur adscripta quae specialiter referuntur ad carnem, ut est: Si enim cognovissent, nunquam Dominum gloriae crucifixissent (I Cor. II, 8) . D. Quare his quinque modis loquitur Scriptura de Filio? M. Distincte quidem ideo secundum naturas loquitur, ut inconfusas eorum proprietates ostendat; communiter, ideo ut asserat unitatem. Alternat vero humana divinis et divina humanis, ut utrumque unius Personae indivisumque monstretur. D. Quot modis solet Filii significari Persona? M. Duobus: et ipse principaliter quidem significatur, cum Christus dicitur absolute. Nam cum alii Christi vocantur, alterius quidem dicuntur, ut est, Christus Domini (I Reg., XXIV, 7, 11) , aut Christus meus (Psalm. CIV, 15) . Solus autem Deus naturaliter Dei Filius Christus absolute dicitur; unde et hoc solius ejus esse proprium declaratur. Consequenter vero intelligitur Persona Filii; et ex illis tribus quibus et Pater, et ex ipso Patris vocabulo, et ex Spiritu sancto; quia et Spiritus dicitur Patris et Filii.
+
+### CAPUT XVII. Quot modis significatur Persona Spiritus sancti.
+
+
+[0023A] {#pl.68.0023a}
+CAPUT XVII. Quot modis significatur Persona Spiritus sancti.
+D. Quot modis significatur Persona Spiritus sancti? M. Principaliter uno, ut legitur: Ite, baptizate omnes gentes in nomine, Patris, et Filii, et Spiritus sancti (Matth. XXVIII, 19) . Et iterum: Templum enim estis Spiritus sancti (I Cor. VI, 19) . Consequenter vero et gratia quam ipse largitur, quae ipsa similiter sanctus Spiritus dicitur, ut est: Spiritus sanctus superveniet in te (Luc. I, 35) . Et: Accipite Spiritum sanctum (Joan. XX, 22) . Similiter et ex his quibus divina significatur essentia, vel operatio, vel ad creaturas collatio, sicut et de Filio diximus: sed et Patris Filiique Persona Spiritum sanctum significat consequenter; quia quidquid horum dicamus, etiam Personam sancti Spiritus aut cooperatricem aut consubstantialem intelligimus consequenter.
+
+### CAPUT XVIII. Quid habent commune vel proprium Personae Trinitatis.
+
+
+[0023B] {#pl.68.0023b}
+CAPUT XVIII. Quid habent commune vel proprium Personae Trinitatis.
+D. Quid habent proprium Personae singulae Trinitatis? M. Quod Pater nunquam dicitur Filius, nec conjunctis sermonibus, Spiritus sanctus; licet divise et Spiritus dici possit et sanctus. Nec Filius Pater proprie dici potest, aut conjunctive Spiritus sanctus. Nec rursus sancto Spiritui Patris aut Filii nomen ascribitur. D. Quae sunt his Personis communia? M. Omnia quae ad significationem aut essentiae, aut operationis, aut ad creaturas collationis pertinere noscuntur: unde et constat Trinitatem unius esse substantiae. D. Patris et Filii et Spiritus sancti vocabulis, quid in his Personis significatur? M. Tantum quod sunt. Nam quid sunt (ut supra de Deo diximus) sermo non potest explicare.
+
+### CAPUT XIX. Per quot species divinitatis operatio designetur.
+
+
+[0023D] {#pl.68.0023d}
+CAPUT XIX. Per quot species divinitatis operatio designetur.
+D. Per quot species divinitatis efficientia sive operatio designatur, quam Graeci ἐνεργείαν nuncupant? M. Quatuor: aut creatione, aut providentia circa creaturas, aut futurorum circa eas praeparatione, aut praeparatorum exitu vel eventu. D. Da ad operationem pertinentia. M. Ut cum dicitur Bonus; ex eo maxime quod quae non erant, esse fecit ac facit: et Sapiens, eo quod tam mirabiliter cuncta cernimus ab eo ordinata: et Fortis, eo quod potuit, quae tam bene et sapienter voluit, adimplere. D. In Deo, haec essentia sunt, an voluntates? M. Deus simplex est, nec est in eo aliud essentia quam voluntas: unde et omnia nomina operationis ejus, licet inter se definitionibus differant, apud ipsum tamen nulla differentia vel diversitas invenitur. Itaque et essentia vel natura facit, quia ei nihil accidens est; et tamen etiam voluntate, quia nihil necessitate efficit, aut coactus. Non enim, sicut ignis naturali necessitate urit, aut apes naturali necessitate fabricant ceras, vel telas araneae, ita etiam Deus operatur; sed Deus ideo natura vel essentia facere dicitur, ne voluntas in eo quasi aliud aliquid demonstretur: et ideo voluntate, quia nihil operari compellitur; sed essentialiter vult, et voluntate subsistit. D. Da specialiter ad creationem pertinentia. M. Ut cum dicitur Factor, Artifex, Creator, et similia: quamvis dicatur et facere, pro disponere, ut est: Fecit salutem in medio terrae (Ps. LXXIII, 12) : sed tunc secundum speciem providentiae dicitur. D. Da quae ad providentiam specialiter pertinent. M. Ut cum dicitur Adjutor, Praescius, Omnipotens, et similia. D. Da ad praeparationem pertinentia futurorum. M. Ut cum dicitur Via, et Spes, Refugium, et similia. D. Da ad eventum praeparatorum pertinentia. M. Ut cum dicitur Exsultatio, Gaudium, et caetera similia. Omnia autem ad operationem pertinentia, 8 non in omnibus tantum, sed etiam in verbis, vel revelationibus similibus cognoscuntur. D. His tantum modis divina operatio declaratur? M. Est alius figuratus modus, cum ex humanis operatio divina significatur. D. Quot modis fit? M. Duobus. Cum aut quae ad animum nostrum pertinent figuraliter dicuntur in Deo, ut est furor, et ira, et poenitentia: aut ea quae ad corpus tractantur, id est pedes, manus, digiti. Aliquando enim et humanae operationes transferuntur ad Deum, ut cum dicitur: Apprehende arma et scutum (Psal. XXXIV, 2) . Omnia tamen haec praedictis quatuor speciebus operationis, pro sententiarum qualitate jungenda sunt.
+
+### CAPUT XX. Quibus modis ex collatione ad creaturas Deus significatur.
+
+
+[0024C] {#pl.68.0024c}
+CAPUT XX. Quibus modis ex collatione ad creaturas Deus significatur.
+D. Quot modis ex collatione ad creaturas Deus significatur? M. Duobus: affirmatione et negatione. Confessione quidem, cum ea dicuntur de Deo, quae juxta eumdem modum nulli creaturae conveniunt; ut est, Simplex, et Vetustus dierum, Ante omnia, et Spiritus: id est incircumscriptus, et Primus Novissimus, et similia. Haec enim omnia ideo de Deo dicuntur, quia nulli creaturae (ejus collatione) conveniunt. Per negationem autem collatio fit, cum, praepositione privativa, ea in Deo negantur quae in creatura sunt: ut est Ingenitus, Incorporeus, Increatus, Incorruptibilis, Immortalis, Impassibilis, et similia. D. Quid ergo? haec verba nunquam de creatura dicuntur? M. Dicuntur quidem, sed non secundum eamdem rationem. Nam cum homo dicitur simplex, non quia compositus non est (solius enim Dei est esse essentiam simplicem), sed simplex homo dicitur, quia non habet doli duplicitatem. Sic et cum dicitur aliquid invisibile, non quia a nullo, in quantum est, videri non potest (hoc enim solius Dei est), sed quia aliquos latet. Similiter et caetera dicuntur. D. Quae sunt collativa, quae de Deo sic dicuntur ut de creatura dici non possint? M. Quae in eo summa sunt et singularia, ut Ingenitus, Sempiternus, Sine initio, et similia.
+
+### LIBER II.
+
+
+[0026A] {#pl.68.0026a}
+LIBER II.
+
+### CAPUT PRIMUM. Quid de praesenti saeculo Scriptura significet.
+
+
+[0025] {#pl.68.0025}
+CAPUT PRIMUM. Quid de praesenti saeculo Scriptura significet.
+D. Quoniam satis dictum quot modis de Deo Scriptura loquatur, nunc requiro quae, de praesenti saeculo loquens, Scriptura significat. M. Quaedam quinque: aut generationem ejus, id est creationem, aut gubernationem, aut accidentia naturis, aut evenientia voluntatibus, aut subsequentia voluntatis eventus.
+
+### CAPUT II. Quot modos et differentias in operatione creaturarum Scriptura posuerit.
+CAPUT II. Quot modos et differentias in operatione creaturarum Scriptura posuerit.
+D. Quot modis generationem saeculi Scriptura significavit? M. Tribus. Aut enim sola Dei voluntate factum aliquid scribitur, ut est: In principio fecit Deus coelum et terram (Gen. I, 1) . Aut voluntate simul et voce, sive praeceptiva, ut est: Fiat lux (Ibid., 3) , et: Fiat firmamentum (Ibid., 6) ; sive deliberativa, ut est: Faciamus hominem ad imaginem et similitudinem nostram (Ibid., 26) . Aut voluntate, voce ac definitione, ut est: Crescite, et multiplicamini, et replete terram (Ibid., 28) . Et iterum: Germinet terra herbam pabuli ferentem semen secundum genus suum, et lignum fructiferum faciens fructum, cujus semen sit in eo ad similitudinem ejus in terra (Ibid., 11) , et caetera quae post septimum diem, usque in finem saeculi per partes operatur: ex illa enim definitione proveniunt. D. Est in his tribus aliqua differentia? M. Est, quia ea quae sola voluntate vel etiam voce sunt facta, noviter facta sunt; quae vero definitione, illis jam similia quae facta noviter diximus. Et rursus illa quidem in sex primis diebus, haec vero donec saeculum stabit. D. Da ordinem per sex dies factarum rerum. M. In ipso quidem principio conditionis facta sunt coelum, terra, angeli, aer et aqua. D. Comproba angelos, et aquas, et aerem factum. M. Facta quidem ex his Scripturae locis ostenditur, ut est: Qui facit angelos suos spiritus (Psal. CIII, 4) . Et: Laudate eum, omnes angeli ejus (Psal. CXLVIII, 2) . Et: Aquae quae super coelos sunt laudent nomen Domini: quoniam ipse dixit, et facta sunt (Ibid., 4, 5) . Et aer in Scripturis coeli nomine ostenditur, ut est: Volucres coeli (Psal. VII, 9) , cum certum sit aves in aere volare. Coelum autem ostendimus factum. Quod vero praecesserint ista caeteras creaturas, in angelis, Scriptura demonstrat, dum in laudibus et benedictionibus creaturis caeteris praeponuntur: et ratio id postulat; oportuit enim ut terrenas coelestis creatura praecederet. De aquis vero ipsa Scriptura dicit quod Spiritus Dei ferebatur super aquas (Gen. I, 2) . D. Sequere ordinem generationis. M. In principio, die prima, lux facta est: secunda vero die, firmamentum: tertia, mare et terrae nascentia: quarta, luminaria coeli: quinta, natantia et volatilia: sexta, reliqua animalia et homo. D. Quae est in ipsarum creaturarum operatione distinctio? M. Quod quaedam ex nihilo facta sunt, ut coelum, terra, et caetera quae usque ad completum diem primum diximus facta; quaedam vero ex jam factis primo die. D. Da horum probationes. M. Quia quoties Scriptura ex aliquo factas res cupit ostendere, aut palam significat, ut est: Producat terra (Ibid., 11) , et: Producant aquae (Ibid., 20) , et similia. Aut certe ex subtili significatione verborum, ut cum dicit: Fiat firmamentum (Ibid., 6) , utique significat fuisse aliquid fluidum ac liquidum, id est aquas: quae ut solidatae ostenderentur, firmamentum vocatum est, quod fiebat. Et rursus luminaria derivativa appellavit, quae quarto die facta sunt: ut ex lumine, primo die operato, facta monstraret. In his autem quae primo die facta sunt, neque aperte, neque subtili verbo factum aliquid declaratur ex altero. D. Nihil ergo post primum diem ostenditur, ex non existentibus factum? M. Sola hominis anima: in quo et hoc ad ostendendum quia cum alia aut ex nihilo, aut ex jam factis facta sint, solus homo ex utroque componitur. D. Quas alias differentias creaturis ascribimus? M. Quod ea quae primis sex diebus facta sunt, non naturaliter, neque ex similitudine provenerunt; reliqua vero quae fiunt naturaliter, ex divina definitione nascuntur, exceptis scilicet miraculis. D. Da tertiam differentiam. M. Quod creaturarum aliquae, id est rationales, 9 propter se ipsas factae sunt, ut angeli et homines. Reliquae vero non propter se, sed propter praedictos angelos aut homines factae noscuntur. Homo vero principaliter, secundum animam, propter se 10 intelligendus est factus. Nam secundum corpus consequenter. D. Quid autem? praeter homines et angelos, aliae creaturae se ipsis invicem non egebant? M. Egebant quidem, non ad utilitatem tamen, sed ad ornatum: utiles enim sunt, non sibi, sed angelis vel hominibus pro quibus etiam factae noscuntur. Ornatum vero etiam invicem praestant: quippe et coelum inornatum sine coelestibus luminaribus fuit, et luminaria ipsa, ne superflua facta essent, videntium oculis indigebant; et mare inornatum, donec aut locum suum reciperet, aut animalibus impleretur; et terra incomposita, praeter habitantium vel nascentium usum; et irrationabilia animalia, sine hominis regimine inepta; et herbae, absente animalium usu, superfluae. Ita omnia egent invicem vel his quae per dies sex facta sunt, vel his quae quotidie fiunt. Sed, ut jam diximus, aliud esse incompositum, aliud utile incompositum, aliquid per se utile alteri declaratur. D. In ornamento ipso aliqua est differentia? M. Est. Nam aliqua in sex diebus ornata sunt: ut coelum luminaribus, et terra herbis, et piscibus mare. Quaedam donec mundus vivit ornantur, ut mare navigiis, et terra aedificiis et caeteris quae humano construuntur ingenio, et homo ipse scientia. Quaedam vero decorem suum in futuro recipient, ut corpus incorruptionem, et mortalia immortalitatem, et coeleste regnum habitationem sanctorum.
+
+
+[0027A] {#pl.68.0027a}
+Notandum autem in ornamentis, quod eorum quae vel ingenio vel artibus fiunt, in hominibus causa est; reliquorum vero in Deo. D. Da quartam differentiam. M. Quod quaedam simul et velut subito creata emerserunt, ut ea quae primis diebus diximus facta, id est herbas, luminaria, natantia et volatilia, necnon terrena animalia et quadrupedia. Quaedam vero non simul, sed velut cum quadam mora, ut mare, terra, homo: et ipse enim paul tim factus scribitur, sicut et caetera. D. Da quintam creaturarum differentiam. M. Quod quaedam earum ratione caeteris praesunt, ut rationalia; quaedam vero usui habentur, ut coelestia luminaria; quaedam naturae necessitate obsequuntur, ut aves et quadrupedes, et similia. D. Da sextam differentiam. M. Quod ea quae caeteris praesunt, id est rationalia, voluntate ac ratione moventur; quae vero usu ac necessitate obsequuntur, natura moventur. D. Ea quae ex aliquo facta sunt, quot materias habuerunt? M. Sex: terram, aquas, aerem, ignem, lumen, costam. D. Da in singulis origines suas. M. Ex terra, virentia, plantaria et animalia; ex aquis, firmamentum, mare, natantia ac volatilia; simul autem ex terra, aquis igne et aere, omnia quae per successiones renovantur; ex lumine, luminaria; ex costa, Eva. D. Ignis quomodo probatur factus, aut unde, vel quando? M. Factum quidem et ex generali Scriptura possumus approbare, cum dicitur de Deo: Qui fecit coelum et terram, mare et omnia quae in eis sunt (Psal. CXLV, 6) : quia utique etiam ignis in eis est. Ex speciali professione: Laudate Dominum de terra, dracones, abyssi, ignis, grando, nix, glacies, spiritus procellarum (Psal. CXLVIII, 7, 8) , de quibus ante dixerat: Quoniam ipse dixit, et facta sunt (Ibid., 5) . Et rursus: Benedicite, omnia opera Domini, Domino (Dan. III, 57) ; et subjunxit: Benedicite, ignis et aestus, Domino (Ibid., 66) . Utrum vero ex nihilo, sicut et alia, factus sit, an ex aliquo, dubitatur. Plures enim volunt coelestium luminarium esse particulam; quippe enim nunc frequenter videmus homines certo modo ignem ex solis radiis mutuari: quod si ita est, primo die factus est. Sed sapientius hoc Scriptura lumen quam ignem vocavit, ut ex meliore usu nomen acciperet. D. Da septimam creaturarum differentiam. M. Quod omnia quae ex aliquo facta sunt, vel ex quibus aliqua facta sunt, corporea sunt: incorporea autem neque ipsa ex aliquo, neque ex ipsis facta sunt aliqua. Haec vero incorporea accipienda sunt, non sicut Deus incorporeus dicitur; ejus enim comparatione nihil incorporeum est, sicut nec immortale, nec invisibile. Alius enim modus est quo haec verba soli divinitati conveniunt, alius quo de creaturis loquitur, sicut animabus vel angelis. D. Quomodo sex diebus Deus dicitur operatus esse, et septimo die requievisse, si nec faciens aliquid laborat, ut necessaria ei requies credatur, nec aliquando cessat, Domino in Evangelio dicente: Pater meus usque modo operatur, et ego operor (Joan. V, 17) ? M. Septimo die requievisse dicitur Deus, non a creando, quippe cum quotidie ex ejus dispensatione ac providentia omnis creatura renovetur et constet; sed hoc significatum est, quod post illos sex dies nullam mundo incognitam substantialem speciem, aut naturam novam inexpertamque creavit. D. Quomodo Deus mundum fecerit, possumus quaerere? M. Hoc temerarie magis quam caute requiritur. Nullius enim divinae creaturae modum homini licet agnoscere: nam si sciret quis quomodo ex nihilo aliqua facta sunt, Creatori utique scientia ac potentia par esset.
+
+### CAPUT III. De his quae ad gubernationem mundi pertinent.
+
+
+[0028B] {#pl.68.0028b}
+CAPUT III. De his quae ad gubernationem mundi pertinent.
+D. Quoniam de creatione mundi tractatum est competenter, restat ut quaeramus, gubernatio ejus quot modis significatur? M. Duobus; aut enim generalis est, aut specialis. D. Quae est generalis? M. Per quam ea quae facta sunt, secundum modum quo facta sunt permanent; quod significatur, cum dictum est: Vidit Deus quia bonum (Gen. I, 4 et seq.) ; et: Quia bona valde, et benedixit ea (Ibid., 31) . Quod et beatus David ostendit dicens: Ipse dixit, et facta sunt; ipse mandavit, et creata sunt. Statuit ea in aeternum et in saeculum saeculi: praeceptum posuit, et non praeteribit (Psal. CXLVIII, 5, 6) . D. Quae est gubernatio specialis? M. Per quam singula, et maxime rationabilia gubernantur a Deo, sicut praeceptum in paradiso, de ligno (Gen. II, 9) . Sicut enim omnes creaturas divina continet virtus, ut maneant; ita etiam rationales diversis occasionibus erudit, ut proficiant.
+
+### CAPUT IV. Quot modis fiat generalis gubernatio.
+
+
+[0028C] {#pl.68.0028c}
+CAPUT IV. Quot modis fiat generalis gubernatio.
+D. Generalis gubernatio in quot species dividitur? M. In duas: aut enim successione constat, aut statu. Successione, ut homines vel jumenta caeteraque quae morte vel corruptione pereuntia, renascentium similitudine renovantur. Statu autem, ut ea quae his passionibus non subjacentia, mundanis motibus obsequuntur, ut coelum, sol, et stellae, et caetera. D. Quae in eis alia differentia est? M. Quod ea quae renovatione solvuntur indigent etiam quibusdam remediis, alimentis et pluviis; nonnunquam et ministeriis angelorum, caeterisque similibus. Ea vero quae non per successionem subsistunt, sine aliqua tali mediatione 11 divinitus gubernantur. Utrum vero et in ipsis per angelorum ministerium aliquid agatur, secreta et difficilis quaestio est.
+
+### CAPUT V. Quibus modis fiat gubernatio specialis.
+
+
+[0029A] {#pl.68.0029a}
+CAPUT V. Quibus modis fiat gubernatio specialis.
+D. Specialis gubernatio quot modis fit? M. Tribus: aut enim a Deo fit, pro angelis et hominibus; aut ab angelis, propter se ipsos et homines; aut ab hominibus, propter se. D. A Deo pro angelis et hominibus quomodo fit? M. Per legislationem.
+
+### CAPUT VI. De legislatione et differentiis ejus.
+CAPUT VI. De legislatione et differentiis ejus.
+D. Legislatio in quot partes dividitur? M. In duas: in naturalem discretionem, et in legem extrinsecus positam. D. Proba naturalem discretionem, legem dici. M. Dicit Apostolus: Quia gentes quae legem non habent, naturaliter quae legis sunt faciunt; hi legem non habentes, ipsi sibi sunt lex (Rom. II, 14) : secundum hanc et Cain reus erat fratris sui occisi. D. Extrinsecus constituta lex in quot partes dividitur? M. In duas: in opera, id est actuum retributionem, et verba.
+
+### CAPUT VII. De lege per opera.
+
+
+[0029B] {#pl.68.0029b}
+CAPUT VII. De lege per opera.
+D. In opere per quot modos? M. Per quatuor: aut per generalem praesentem retributionem, ut est fructuum rerumque proventus; aut per specialem praesentem retributionem, ut est Abraham in peregrinatione ditatus, vel Noe salvatus in diluvio; aut per generalem visibilem poenam, ut est fames generalis, seu siccitas; aut per specialem, ut Cain vel Saul poena. Haec enim omnia, ad modum legis, angelos atque homines erudiunt; quippe et angelos diaboli ruina perterruit atque firmavit: licet credendum sit alio modo angelos, alio homines erudiri. D. Quae est totius legislationis intentio, et in quo consistit? M. in discretione boni ac mali: quae vel in doctrina, id est fide, vel in actibus agnoscuntur.
+
+
+[0029C] {#pl.68.0029c}
+D. Quare poenas et retributiones praesentes diximus? M. Quia ipsa sunt quae ad vicem legis erudiunt. Nam futura et aeterna nec patientibus, nec videntibus proderunt, ubi jam poenitentiae non erit tempus. D. Haec gubernatio, per quos ministros in Scripturis legitur facta? M. Nonnunquam Deus per se ipsum, ut Adae praecepit ne tangeret lignum; nonnunquam per angelos, testante Apostolo: Quia si per angelos locutus sermo factus est firmus (Hebr. II, 2) . Et rursum primogenita Aegypti angeli manu dicuntur exstincta (Exod. XII, 29) . Aut per homines, sicut per prophetas. Aut per bestias, sicut per serpentes in eremo (Num. XXI, 6) , atque similia. Et per haec enim, velut quamdam substantialem ac materialem legem, a malis prohibent propter quae ingeruntur; et ad bona propter quorum retributionem oratur, impellunt.
+
+### CAPUT VIII. De lege per verba.
+
+
+[0029D] {#pl.68.0029d}
+CAPUT VIII. De lege per verba.
+
+
+[0030A] {#pl.68.0030a}
+D. Lex in verbis constituta in quot partes dividitur? M. In duas: aut enim immutabile aliquid praecipitur, aut temporale. D. Quot sunt immutabilium genera? M. Duo: dilectio Dei, et dilectio proximi. D. Temporalia praecepta in quot partes dividuntur? M. In duas: aut enim diu servata sunt, ut circumcisio; aut parvo tempore, ut mannae perceptio. D. Quae alia est legum differentia? M. Quae aut aliquid praecipiunt, ut: Honora patrem tuum (Exod. XX, 12) ; aut aliquid vetant, ut: Non occides, Non moechaberis (Ibid., 13, 14) .
+D. Da tertiam differentiam. M. Quod alia sunt per se utilia, alia propter illa necessaria. D. Quae sunt per se utilia? M. Dei proximique dilectio. D. Quae sunt propter alia necessaria? M. Ut: Non occides; homicidio enim dilectio fratris expellitur: et observatio sabbati; in ejus enim observatione commemoratio est quietis Dei ab operatione creaturarum, in qua celebritate Dei ut conditoris dilectio significabatur. D. Da quartam differentiam. M. Quod quaedam praecepta velut corporalia erant, ut de animalibus mundis et immundis, ac lepra, et similibus. Quaedam spiritalia, ut: Ne oderis fratrem tuum in corde tuo (Levit. XIX, 17) . D. Da quintam differentiam. M. Quod quaedam sunt Veteris Testamenti specialiter praecepta, ut de jubileo: quaedam specialiter Novi, ut: Sic orabitis: Pater noster, qui es in coelis (Matth. VI, 9) : quaedam utriusque communia, ut: Diliges Dominum Deum tuum (Matth. XXII, 37; Marc. XII, 30; Luc. X, 27) . D. Da sextam differentiam. M. Quod aliqua praecepta sicut sonant intelliguntur, ut est: Non moechaberis (Exod. XX, 14) : aliqua autem sonant sicut res est: Cum feceris eleemosynam, nesciat sinistra quid faciat dextera tua (Matth. VI, 3) .
+
+
+[0030C] {#pl.68.0030c}
+D. Da septimam differentiam. M. Quod aliquorum transgressio praeceptorum poena punitur, ut est: Oculum pro oculo, dentem pro dente (Levit. XLV, 20) : aliquorum poena non habetur, ut: Panem sacerdotalem comedi ab eo qui sacerdos non erat (I Reg. XXI, 6; Matth. XII, 4) : aliorum vero etiam laudabilis transgressio est, ut est: Si reddidi retribuentibus mihi mala (Psal. VII, 5) . Lex enim tunc jubebat malis mala restitui 12 . Invenitur ergo contemptus legis esse laudabilis. D. Da octavam differentiam. M. Quod aliqua praecepta ad fidem pertinent, aliqua ad mores: quorum subdivisio admodum prolixa cognoscitur.
+
+### CAPUT IX. De angelica gubernatione.
+
+
+[0030D] {#pl.68.0030d}
+CAPUT IX. De angelica gubernatione.
+D. Angelorum propter se ipsos et homines gubernatio quomodo fit? M. Palam quidem in Scriptura non legitur: tamen cum in ea dicantur esse angelorum gradus et ordines, atque discursus propter humanam vitam, ut pro Tobia et Daniele et aliis, sine dubio significantur quod injuncta sibi in mundo negotia gubernant: quibus et sibi consulunt dum obediunt Creatori, et hominibus, dum eorum dispensationi prospiciunt.
+
+### CAPUT X. De humana gubernatione per homines.
+
+
+[0031A] {#pl.68.0031a}
+CAPUT X. De humana gubernatione per homines.
+D. Hominum propter se ipsos gubernatio quot modis fit? M. Tribus: aut enim pro republica quis hominum satagit, ut rex; aut pro domo, ut paterfamilias; aut pro se ipso, ut quilibet monachus vel egenus. D. Nullis aliis creaturis convenit gubernatio? M. Omnibus quidem convenit; cunctis enim secundum suam naturam, velut prudentiam quamdam Creator inclusit, sicut legitur: Volui colligere filios tuos, sicut gallina pullos suos (Matth. XXIII, 37) , et similia. Sed neque intentio Scripturae est de irrationabilibus subtiliter edocere, neque in ea proficientium est desiderium in his quaerendis tempus atterere.
+
+### CAPUT XI. De accidentibus naturae.
+
+
+[0031B] {#pl.68.0031b}
+CAPUT XI. De accidentibus naturae.
+D. Quoniam de gubernatione mundi satis dictum est, quae sunt naturis accidentia? M. Divinae quidem naturae nihil accidit: cum enim sit incomprehensibilis, et semper eodem modo se habens, non recipit accidentium diversitatem. D. Quae certe accidunt creaturis? M. Stare, ut terrae, secundum Scripturam; moveri, ut coelo, igni, et aquis caeterisque enascentibus. Deinde tempus, locus, numerus. Omnia enim et aliquando coeperunt, et alicubi sunt, et unum vel plura. Item accidunt, generari, corrumpi, sanitas, aegritudo, forma, positio, artium disciplinarumque capacitas. Item crescere, nutriri, sentire, vivere, mori, inter se differre, et esse contraria. Insuper ordo, consecutio, cohaerentia, hisque similia atque contraria; nec tamen singulis, universa.
+
+### CAPUT XII. De accidentibus voluntatis.
+
+
+[0031C] {#pl.68.0031c}
+CAPUT XII. De accidentibus voluntatis.
+D. Quoniam satis dictum est de accidentibus naturarum, dicendum nunc de accidentibus voluntatis. Quid est voluntas? M. Vis animi inviolata sive spontanea, secundum quam diversae atque contrariae cogitationes efficiuntur, et opera. Naturalis est in nobis boni malique communis discretio; spontaneus autem motus in his quae jam discreta et sequenda sunt. Ipsum lex quidem erudit; gratia autem praeparat, adjuvat, corroborat, coronat.
+
+### CAPUT XIII. De consequentibus eventum voluntatis.
+
+
+[0031D] {#pl.68.0031d}
+CAPUT XIII. De consequentibus eventum voluntatis.
+D. Quae sunt consequentia voluntatis eventus? M. Quatuor. Quaedam enim in hac vita, aut bona bonis, et mala malis eveniunt, ut Abrahae prosperitas (Gen. XIII, 6) , et Cain poena (Gen. IV, 11) . Aut contra, bona malis, et mala bonis, ut dives qui in Evangelio usque ad mortem felix describitur (Luc. 16, 19) ; e contra Lazarus ulceribus atque egestate torquetur. Aut certe neque his, neque illis utralibet retributio; ut pro Joseph vendito (Gen. L, 18) nulla ultio fratribus irrogatur. Nec socer Moysi pro regendo populo consilium dans (Exod. XVIII, 17) , licet laudetur, a Deo aliqua mercede donatur. D. Quas hujus diversitatis dicimus causas? M. Aliquibus hic congrua rependuntur, ne mundus non putetur providentia divina regi, sed casibus; simul ut et bonos bonorum copia consoletur, et malos similium poena deterreat. At vero malis felicitas permittitur, ut boni probentur et discant ea contemnere quae vident indignis secum esse communia: bonis autem aeque accidunt mala. Aut utrique generi nulla hic compensationis imago conceditur, ut alibi et judicium et plenam pro actibus retributionem certissime possimus cognoscere. D. Da quartum modum. M. Cum ii neque mali aliquid per se, neque boni gesserunt, bona participant aut mala, ut infantes; aut forsitan neutra, ut sunt abortivi; de quorum et statu, et merito, causa subtilis dubiusque tractatus est.
+
+### CAPUT XIV. De his quae ad futurum saeculum pertinent.
+
+
+[0032B] {#pl.68.0032b}
+CAPUT XIV. De his quae ad futurum saeculum pertinent.
+D. Quoniam omnes regularum partes de praesenti saeculo complevimus, quae ad futurum credimus pertinere? M. Quatuor quidem. Aut enim acceptatio est sive vocatio, aut figura, aut praedictio, aut effectus vel exitus praedictorum.
+
+### CAPUT XV De acceptationibus.
+CAPUT XV De acceptationibus.
+D. Quam vocamus acceptationem sive vocationem? M. Eam, scilicet, qua Deus quosdam homines vel populos specialis gratiae beneficio sibi conciliare dignatur, plusque circa eos quam circa caeteros homines divinae indulgentiae et quasi familiares favores ostendit. D. Quot sunt acceptationes? M. Decem. D. Da ordinem acceptationum. M. Prima est beati Abrahae; secunda, Isaac; tertia, Jacob et ex eo natorum duodecim patriarcharum; quarta, tribus Juda; quinta, totius populi in Aegypto; sexta, sancti David; septima, domus ipsius David, et per ipsam totius tribus Juda: octava, reditus populi ex captivitate; nona, Domini nostri Jesu Christi secundum carnem; quam sibi uniens Dei Filius ex genere David, et per eum ex Abraham atque ex Adam, omnium nostrum saluti remissionique prospexit: decima, omnium gentium per dispensationem incarnationis ipsius Dei et Salvatoris nostri. D. Quid ergo? Justi et Deo placentes ante Abraham homines non fuerunt? M. Fuerunt quidem: quippe cum filii Dei appellati sint qui ex Seth fuerant progenerati (Gen. VI, 2) ; et Enoch translatus sit; Noe pereuntis mundi renovator effectus; et Melchisedech, summi sacerdotis exemplum. Sed in istis non divina acceptatio, id est, specialis illa familiaritas et favor ostenditur; sed ipsorum justitia declaratur. Ad Abraham vero Dei frequens allocutio et quasi convictus, ac per singula dispensatio, probationis promissa praemia, in posteros recordatio, vim miram divinae acceptationis ostendunt. Similiter et circa caeteros supra dictos, peculiaris quidam divinitatis favor, et quasi per singulos vitae actus palam dispensata gubernatio, praecipuum gratiae declarat auxilium. D. Quare haec ad futurum saeculum dicimus pertinere, cum in praesenti gesta sint? M. Quia unaquaeque res ex effectu perspicitur, et eadem est facti causa, atque facientis intentio. D. Proba harum acceptationum causas ad futura respicere. M. Gentium fides pro spe vitae aeternae religionem sequitur Christianam. Nam Christus ipse Dominus toto doctrinae suae remedio actuumque miraculis, nec non resurrectione atque ascensione, futuram vitam docuit, promisit, approbavit, indulsit. Jam caeteras acceptationes, quis pro Domino sacramentisque ignorat effectas? Ipse Abraham, Isaac, Jacob, promittitur salutem gentibus collaturus. Propter eum Abrahae semen a caeteris gentibus segregatur; et propter ipsum Judae tribus et benedictione praecellit, et in captivitatem ultima ducitur, et prima salvatur; quia ex ipsa Dominus carnem sumpsisse dignatus est, adeo ut ex illa Judaei fuerint nuncupati. Ipse, David domnique ejus ac tribui repromittitur, in perpetuum de ejus semine regnaturus. Igitur si fides gentium pro vita futura, Christi incarnatio pro fide gentium fuit facta, omnes acceptationum series ad futurum saeculum pertinere ex ipsa intentione colligitur. Haec autem omnia etiam Novi ac Veteris Testamenti testimoniis facile comprobantur, cum ubique dispersa sint.
+
+### CAPUT XVI. De typis.
+
+
+[0033B] {#pl.68.0033b}
+CAPUT XVI. De typis.
+D. Quid est typus? M. Quam nos figuram dicimus, sive formam; sicut dicit Apostolus: Omnia enim in figura contingebant illis (I Cor. X, 11) . Et iterum: Adam qui est forma futuri (Rom. V, 14) . Nec enim abs re est unum aliquid multis significari vocabulis. D. Quid est ergo typus, sive figura? M. Praesentium, aut praeteritarum, aut futurarum rerum ignotarum, per opera (secundum id quod opera sunt) manifestatio. D. Da praeteritorum typos. M. Ut est catechumenorum humilitas; typum enim gerunt Adae paradiso exclusi, et ex conscientia delictorum divinum metuentis aspectum, propter quod et per publicum capitibus tectis incedunt. D. Da in praesentibus. M. Ut Aaron vestis, qua duodecim tribuum nomina lapidibus insita gestabat, ostendens se quodammodo pro omni populo supplicare. D. Da de futuris. M. In his nulla est difficultas: tamen ex superfluo, ut in duobus filiis Isaac duo Testamenta monstrata sunt (Gal. XIV, 4) . D. Quoniam et de prophetica similem pene definitionem diximus, quid interest? M. Quod in prophetia, verbis (secundum hoc quod verba sunt) futura significantur; typis autem res declarantur. Ex rebus possunt tamen haec duo et ita definitione misceri, ut dicamus quia prophetia est typus in verbis, secundum id quod verba sunt: et contra, typus prophetia est de rebus, in quantum res esse noscuntur.
+
+### CAPUT XVII. De differentiis typorum.
+
+
+[0033D] {#pl.68.0033d}
+CAPUT XVII. De differentiis typorum.
+D. Quot sunt typorum vel figurarum modi? M. Principaliter quatuor. Aut enim grata gratis significantur, aut moesta moestis; aut grata moestis, aut gratis moesta. D. Da exempla per singulos modos. M. Grata quidem gratis significantur, ut Domini secundum carnem resurrectio et in coelis habitatio, formae nostrae resurrectionis, et futurae justis in coelo habitationis indicium, sicut dicit Apostolus: Mortui enim estis, et vita vestra abscondita est cum Christo in Deo (Coloss., III, 3) . Moesta vero moestis praefigurantur, ut diaboli angelorumque ejus dejectio, et futurae poenae repromissio, figura est eorum qui pro similitudine operum poenis similibus detrudentur; sicut et beatus Petrus eadem forma ad deterrendos utitur peccatores, dicens de Deo: Quia et angelis peccantibus non pepercit, sed carceribus caliginis tradidit eos (I Petr. II, 4) . Tertius modus est, cum moestis grata significantur, ut Adae transgressio typus fuit justitiae Salvatoris nostri, sicut beatus Apostolus docet: Quia sicut per inobedientiam unius hominis peccatores constituti sunt multi, sic etiam per obedientiam unius hominis justi constituentur multi. Regnavit enim mors ab Adam usque ad Moysen, etiam in eos qui non peccaverunt, in similitudinem transgressionis Adae, qui est forma futuri (Rom. V, 19, 14) , id est, typus. In Graeco enim, typus, specialiter legitur. Secundi ergo Adam, id est, Christi, gratia, forma vel typus fuit transgressionis Adae per contrarium, scilicet, figurata. Quartus modus est, cum gratis moesta figurantur, ut baptisma; etenim figura est mortis Domini nostri Jesu Christi, sicut dicit Apostolus: Quotquot enim baptizati estis, in morte Jesu Christi baptizati estis (Rom. VI, 3) . Quid enim aut baptismate gratius, ubi a peccato purgamur, et quo filii Dei efficimur; aut morte moestius, ad quam ipse quoque qui eam fuerat sponte sumpturus, tamen moestus accessit? D. Quae alia typis accidunt? M. Temporum differentia. Nam quaedam ante Legem sunt, ut Abel a fratre occisus Christi passionem praefigurabat (Gen. IV, 8) : et Noe arca Ecclesiam (Gen. VII, 7) ; et caetera similia. Quaedam vero sub Lege, ut ipsius Moysi mors, et Jesu gloria. Quaedam sub Gratia, ut baptizatorum indumenta, et sacerdotum vestes, et dominici corporis participatio, et singula alia: quae omnia typis monstrare, non ad regularum doctrinam, sed ad expositionem textus pertinet. D. Qua ratione figuras sive typos ad futurum saeculum dicimus pertinere? M. Quia Veteris Testamenti figurae ad Novum intentione respiciunt; Novum autem figurae vitae beatitudinem repromittit; et sic omnia ad futuri saeculi spem ex ipsa intentione currunt.
+
+### CAPUT XVIII. De praedictionibus.
+
+
+[0034D] {#pl.68.0034d}
+CAPUT XVIII. De praedictionibus.
+D. Quoniam typorum regulam diximus, de prae dictione videamus. Quid est praedictio? M. Futurarum, et incertarum rerum verbis (in quantum verba sunt) manifestatio. D. Quae accidunt praedictionibus? M. Principaliter tria: quod quaedam ante Legem fuerunt, quaedam sub Lege, quaedam sub Gratia.
+
+### CAPUT XIX. De praedictionibus ante Legem, quot modis factae sunt?
+
+
+[0035A] {#pl.68.0035a}
+CAPUT XIX. De praedictionibus ante Legem, quot modis factae sunt?
+D. Ante Legem praedictiones quot modis factae sunt? M. Quinque. Aut de generalitate communiter, ut est: Propterea relinquet homo patrem et matrem, et adhaerebit uxori suae, et erunt duo in carne una (Matt. XIX, 5) . Et rursus: Maledicta terra in operibus tuis (Gen. III, 17) . Hoc enim, per unum, omni humano generi praedictum esse cognoscitur. Aut ex parte vel medio, ut est: Multiplicabo dolores tuos (Ibid., 16) . Et: Conversio tua ad virum tuum, et ipse tibi dominabitur (Ibid.) . Hoc enim non omni humano generi, sed omnibus tantum feminis dictum. Aut singulariter, ut est: Et vocavit Adam nomen uxoris suae Eva, quia ipsa est mater omnium viventium (Ibid., 20) . Aut pro initio Veteris Testamenti, ut est: Maledictus Chanaan, servus erit fratribus suis (Gen. IX, 25) . Aut pro Novo Testamento principaliter; nam cum dicit: Faciamus hominem ad imaginem et similitudinem nostram (Gen. I, 26) : Venite, descendamus, confundamus linguas eorum (Gen. XI, 27) : pluralis numerus Trinitatis judicium est, qui Novo Testamento apertius praedicatur. Et cum dicitur: Sanguis fratris tui clamat ad me de terra (Gen. IV, 10) , passio Domini nostri Jesu Christi praedicitur, Apostolo teste in Epistola ad Hebraeos (Hebr. XII, 24) : quia conspersio sanguinis Christi plus potuit ad Dominum clamare pro nobis, quam Abel sanguis clamaverat contra fratrem
+
+### CAPUT XX. Quot modis sub Lege praedictiones factae sunt.
+
+
+[0035C] {#pl.68.0035c}
+CAPUT XX. Quot modis sub Lege praedictiones factae sunt.
+D. Sub Lege, praedictiones quot modis factae sunt? M. Duobus. Aut pro his rebus quae sub Lege factae sunt, aut pro his quae sub Gratia.
+
+### CAPUT XXI. Pro rebus sub Lege factis, quot sunt praedictiones.
+CAPUT XXI. Pro rebus sub Lege factis, quot sunt praedictiones.
+D. Pro rebus quae sub Lege factae sunt, quot praedictionum species invenimus? M. Fere viginti duas. Aut enim augmentum populi praedicitur, ut est ad Abraham: Et eris in gentem grandem et multam (Gen. XII, 2) . Aut haereditatis promissio, ut est: Semini tuo dabo terram hanc (Ibid., 7) . Aut segregatio indignorum, ut est: Ejice ancillam hanc et filium ejus; non enim haeres erit filius ancillae cum filio liberae (Gal. IV, 30) . Aut vindicta in adversarios populi, et merces in amicos, ut est: Benedicam benedicentes te, et maledicam maledicentes te (Gen. XII, 3) : Aut liberatio populi ab inimicis, ut est: Peregrinum erit semen tuum in terra non sua, et exient inde cum praeparatione magna (Gen. XV, 3) , et caetera. Aut aliquorum generationes et nomina, ut Isaac et Samson. Aut sublimitas posterorum, ut: Reges ex te exient (Gen. XVII, 6) . Aut motus exitus, ut est: Tu autem ibis ad patres tuos cum pace, nutritus in senectute bona (Gen. XV, 15) . Aut differentia populorum, ut est: Populus populum praecedet, et major serviet minori (Gen. XXV, 23) . Aut abundantia est, ut est: Dabit tibi Deus de rore coeli, et de pinguedine terrae plenitudinem frumenti et vini (Gen. XXVII, 28) . Aut divinum auxilium, ut est: Ecce ego tecum sum custodiens in omni via (Gen. XXVIII, 15) . Aut sacerdotii vel doctrinae electio, ut est: Dividam eos in Jacob, et dispergam eos in Israel (Gen. XLIX, 7) . Aut fortitudo et haereditatis immutabilitas, ut est: Catulus leonis Juda, ex radice filii mei 13 ascendisti; recumbens dormisti sicut leo, et sicut catulus leonis; quis excitavit eum (Ibid., 9) ? Aut propositum vitae, ut: Zabulon peregrinus inhabitavit, et ipse portus navium, et sciens requiem, quia bona est (Ibid., 13) , et caetera. Aut transgressio, ut dicit: Scio enim quia in fine transitus mei iniquitatem agetis, et declinabitis a via quam mandavi vobis (Deut. XXXI, 29) . Aut supplicium, ut est: Quia occurrent vobis mala in fine dierum (Ibid.) Aut generalis expulsio, ut dicitur: Quia ipsi aemulati sunt me in diis, et exacerbaverunt me in idolis suis: et ego aemulabor eos in non gentem, in gentem insipientem tradam eos (Deut. XXXII, 21) . Aut virtutis effectum atque mercedem, ut est: Quis habitabit in tabernaculo tuo, aut quis requiescet in monte sancto tuo? Qui ingreditur sine macula, et operatur justitiam (Psalm. XIV, 1, 2) , et caetera. Aut species poenae, ut est: Venit Gad ad Da id et annuntiavit ei dicens, Elige tibi fieri aut tribus annis famem super terram, aut tres menses fugere a facie inimicorum tuorum persequentium te, aut tribus diebus fieri mortalitatem in terra tua (II Reg. XXIV, 11-13) . Aut signa, ut est: Et hoc tibi signum, quia unxit te Deus regem super haereditatem suam (I Reg. X, 1) , et reliqua. Aut electio prophetiae, ut est: Et tu, puer, Propheta Altissimi vocaberis (Luc. I, 76) . D. Da praedictiones de gentibus pro populo. M. Ut est: Manus ejus super omnes, et manus omnium super eum (Gen. XVI, 12) . Et: Surgite et exite ex loco hoc, quia conteret Dominus civitatem (Gen. XIX, 14) . Visiones quoque Nabuchodonosor et Pharaonis, aliorumque regum vel gentium per prophetas dictae, generales quidem causas referunt; ad populum tamen spectat intentio, pro cujus ultione singula provenerunt.
+
+### CAPUT XXII. De praedictionibus sub Lege in Christo.
+
+
+[0036D] {#pl.68.0036d}
+CAPUT XXII. De praedictionibus sub Lege in Christo.
+D. Quot sunt modi praedictionum in Christo? M. Fere viginti sex. Aut de mirabilibus ejus conceptu et nomine, ut est: Ecce Virgo in utero concipiet, et pariet filium; et vocabunt nomen ejus Emmanuel (Isa. VII, 14) . Aut de loco nativitatis, ut est: Et tu, Bethlehem, civitas Juda, nullo modo minor es in civitatibus Judae ex te enim prodiet dux qui reget populum meum Israel (Mich. V, 2) . Aut pro his quae in rudimentis gessit; ut est: Priusquam sciat puer cognoscere malum, et eligere bonum (Isa. VII, 16) . Aut de justitia ejus atque judicio, ut est: Dilexisti justitiam et odisti iniquitatem; propterea unxit te Deus, Deus tuus, oleo laetitiae prae participibus tuis (Psalm. XLIV, 8) . Aut de divinitate ejus, ut est: Generationem ejus quis enarrabit (Isa. LIII, 8) ? Aut de visitatione assumptionis humanae, ut est: Quid est homo, quod memor es ejus, aut filius hominis, quia visitasti eum (Psalm. VIII, 5) ? Aut pro unitate deitatis et carnis, ut est: Puer natus est nobis (Isa. IX, 6) : et postmodum addidit: Deus fortis. Aut de potentia ejus et regno, ut est: Ego autem constitutus sum rex ab eo super Sion montem sanctum ejus (Psalm. XI, 6) . Aut de inimicorum confractione, ut est: Omnia subjecisti sub pedibus ejus (Psalm. VIII, 8) . Aut de ejus doctrina, ut est: Speciosus forma prae filiis hominum (Psalm. XLIV, 3) . Aut de ejus doctrinae utilitate, ut est: Propter veritatem, et mansuetudinem, et justitiam (Ibid., 5) . Aut pro miraculis, ut est: Et deducet te mirabiliter dextera tua (Ibid.) . Aut de glorificatione quam juste a fidelibus suscepit, ut est: Propterea populi confitebuntur tibi in aeternum, et in saeculum saeculi (Ibid., 18) . Aut de probatione praedicationis, ut est: Domine, Dominus noster, quam admirabile est nomen tuum (Psalm. VIII, 2) ! Aut de sacerdotio, ut est: Tu es sacerdos in aeternum (Psalm. CIX, 3) . Aut de judicio ejus atque justitia, ut est: In splendoribus sanctorum (Ibid., 4) . Et rursus: Judicabit, implebit ruinas, confringet capita in terra multorum (Ibid., 6) . Aut de laboribus vitae ejus, ut est: De torrente in via bibet (Ibid., 9) . Aut placidum circa Patrem incarnationis mysterium Scriptura significat, ut est: Ecce puer meus, dilectus mihi, in quo complacuit anima mea (Matt. I, 18) . Aut sancti Spiritus 14 infusionem, quam utique homo ab eo susceptus meruit sive in principio ipsius incarnationis, sive in incremento, sive in baptismate, sive in miraculis, sive in doctrina, sive in resurrectione, ut est: Ponam Spiritum meum super eum (Isa. XLII, 1) ; et: Spiritus Domini super me, propterea unxit me (Luc. IV, 18) , et reliqua. Aut diligentiam circa discipulos, ut est: Non dicet, neque clamabit, neque audiet quis in plateis vocem ejus (Matt. XII, 19) . Aut sessionem ejus super jumentum, ut est: Ne timeas, filia Sion, ecce rex tuus venit sedens super pullum asinae (Zach. IX, 9) . Aut passiones vel sepulturam causasque eorum, ut dicitur: Vidimus, et non habebat speciem neque decorem, sed species inhonorabilis, inferior omnibus hominibus. Et rursus: Homo in plagis, et sciens ferre 15 humilitatem, quia adversa facies ejus et dehonestata est, et ad nihilum reputatus: ipse peccata nostra portat, et pro nobis dolet; et nos putavimus eum esse in dolore et in plaga et in aerumna. Ipse autem vulneratus est propter iniquitates nostras, et infirmatus est propter peccata nostra (Isa. LIII, 2-5) . Aut divisionem vestimentorum ejus, ut: Diviserunt sibi vestimenta mea, et super vestem meam miserunt sortem. (Psalm. XXI, 19) . Aut resurrectionem Domini, ut: Non derelinques animam meam in inferno, nec dabis Sanctum tuum videre corruptionem (Psalm. XV, 10) . Aut vocationem Filii secundum assumptam humilitatem, ut est: De Aegypto vocavi filium meum (Ose. XI, 1) . Aut divinitatis ejus generationem ante principium, ut est: Ex utero ante luciferum genui te (Psalm. CIX, 3) . Aut secundum ejus adventum: Ecce super nubes coeli sicut Filius hominis (Dan. VII, 13) . D. Omnes hae praedictiones de solo Salvatore 16 non intelliguntur? M. Duobus modis haec solemus accipere. Quaedam enim ita in ipsius personam praedicta sunt, ut aliis convenire non possint, sicut legitur: Non deficiet princeps ex Juda, neque dux ex femore ejus, donec veniat cui reposita sunt (Gen. XLIX, 10) . Quaedam vero sub alterius personae occasione dicuntur, ad Christum tamen intellectu respiciunt: In te, et semine tuo benedicentur omnes gentes (Gen. XXII, 18) .
+
+### CAPUT XXIII. De praedictionibus ad vocationem gentium pertinentibus sub Lege.
+
+
+[0038B] {#pl.68.0038b}
+CAPUT XXIII. De praedictionibus ad vocationem gentium pertinentibus sub Lege.
+D. Quoniam praedictiones de Christo dictas in veteri Lege probavimus, da eas quae de gentium vocatione sunt positae. M. De vocatione gentium praedictiones fere decem et septem modis positas accipimus. Aliquando enim acceptionem earum significant, cum dicitur: Ego aemulabo eos in non gentem, in gentem insipientem irritabo eos (Deut. XXXII, 21) . Aliquando infirmitates, peccatorum expulsionem, meliorumque doctrinam, eum dicitur: Pronuntiare pauperibus misit me, praedicare captivis remissionem, et caecis visum (Isa. LXI, 1) ; aliquando gratiam quam acceperant, sive adoptionis, sive miraculorum, cum dicitur: Filiae regum in honore tuo: astitit regina a destris tuis (Psalm. XLIV, 10) . Aliquando etiam admonitionem, ut illud quod sequitur: Audi, filia, et vide, et inclina aurem tuam, obliviscere populum tuum (Ibid., 11) . Aliquando glorificat onem quam Christo debemus, cum dicitur: Quia ipse est Dominus Deus tuus, adorabis eum (Ibid., 12) Aliquando beatitudinem et virtutem quam meretur fidelis, cum dicitur: Adducentur regi virgines post eum (Ibid., 15) . Aliquando laetitiam in qua sunt, profectum suum videntes, cum dicitur: Adducentur cum gaudio et exsultatione (Ibid., 16) . Aliquando sacerdotium et ecclesiasticam consuetudinem, cum dicitur: Pro patribus tuis nati sunt tibi filii (Ibid., 17) . Aliquando Ecclesiae spiritualem aedificationem, cum dicitur: Ex gradibus eburneis, ex quibus te delectaverunt (Ibid., 9) . Aliquando ecclesiasticam auctoritatem, cum dicitur: Pones eos principes super omnem terram (Psal. XLIV, 17) . Aliquando plenitudinem credentium, cum dicitur: Replebitur gloria ejus omnis terra, fiat, fiat (Psalm. LXXI, 19) . Aliquando tolerantium sive tentationes, sive persecutiones, cum dicitur: Donec educat in victoria judicium, et in nomine ejus gentes sperabunt (Isa. XLII, 4) . Aliquando inimicorum destructionem, cum dicitur: Et inimici ejus terram lingent (Psalm. LXXI, 9) . Aliquando pacem qua gaudet post persecutiones Ecclesia, cum dicitur: Orietur in diebus ejus justitia et plenitudo pacis, 17 donec confirmetur luna (Ibid., 7) . Aliquando haereticorum errores, et Eliae praesentiam, cum dicitur: Ecce transmitto vobis Eliam Thesbiten, et revocabit corda patrum in filios (Malach. IV, 5, 6) . Aliquando fidelium spem, et secundum Salvatoris adventum, cum dicitur: Et ipse erit exspectatio gentium (Gen. XLIX, 10) . Aliquando baptismum Joannis, cum dicitur: Ecce mitto angelum meum ante faciem tuam (Malach. III, 1) .
+
+### CAPUT XXIV. De speciebus praedictionum, quae in Gratia factae sunt.
+
+
+[0039B] {#pl.68.0039b}
+CAPUT XXIV. De speciebus praedictionum, quae in Gratia factae sunt.
+D. Quoniam species praedictionum quae in Lege sunt diximus, da eas quae in Gratia leguntur emissae. M. Praedictionum quae in Gratia factae sunt species viginti tres inveniuntur. Aut enim generatio et vita Joannis Baptistae praedicitur ad patrem ejus Zachariam, ut est omnis locutio illa per angelum, et prophetia ipsius Zachariae (Luc. I, 13-17, 68-79) . Aut Salvatoris conceptus nativitasque mirabilis, ut est praedictio quam ad sanctam Mariam angelus dixit (Ibid., 28-37) . Aut magorum revelatio, aut Judaeorum incredulitas atque conversio (Matt. II, 1 seq.) , sicut dicitur: Ecce iste positus est in ruinam et resurrectionem multorum in Israel, et signum contradictionis (Luc. II, 34) . Aut praemium regni coelestis, sicut est: Poenitentiam agite, appropinquavit (Matt. III, 2) , et reliqua. Aut gentium vocatio, sicut dicitur: Multi ab Oriente et Occidente venient, et recumbent cum Abraham et Isaac et Jacob in regno coelorum (Matt. VIII, 11) . Aut Hebraeorum exclusio, ut est quod sequitur: Filii autem regni hujus excludentur in tenebras exteriores (Ibid., 12) . Aut salvatio per apostolorum praedicationem, ut cum dicitur: Venite post me, faciam vos fieri piscatores hominum (Matt. IV, 19) . Aut miraculorum claritas, ut dicitur: Qui credit in me, opera quae ego facio et ipse faciet, et majora horum faciet (Joan. XIV, 12) . Aut tentatio persecutioque justorum, ut dicitur: Tradent enim vos in conciliis, et in synagogis suis flagellabunt (Matt. X, 17) , etc. Aut patientia fidelium inter adversa, ut cum dicitur de Ecclesia: Et portae inferi non praevalebunt adversus eam (Matt. XVI, 18) . Et rursus: Regnum coelorum vim patitur, et violenti diripiunt illud (Matt. XI, 12) . Aut contemplatio regni coelestis et secundi adventus, qua et in hac vita sanctorum animae perfruuntur, ut est: Veniet enim Filius hominis in gloria Patris sui cum angelis suis; et tunc reddet unicuique secundum opera sua. Dico autem vobis quia sunt aliqui de hic stantibus qui non gustabunt mortem donec videant Filium hominis venientem in regno suo (Matt. XVI, 27, 28) . Aut retributio bonorum seu malorum, ut cum dicitur: Et ibunt isti in poenam aeternam, justi vero in vitam aeternam (Matt. XXV, 46) . Aut Spiritus sancti praesentia apostolis data, ut est: Ego rogabo Patrem meum, et alterum Paracletum mittet vobis, ut maneat vobiscum in aeternum Spiritum veritatis (Joan. XIV, 16, 17) . Aut ecclesiastica praenuntiatur auctoritas, sicut dicitur: Et dabo tibi claves regni coelorum: et quodcunque ligaveris in terra, erit ligatum et in coelo (Matt. XVI, 19) . Aut mors, passio ac resurrectio Salvatoris, sicut dicitur: Ex illo coepit Jesus ostendere discipulis suis, quia oportet eum in Hierosolymam ire, et multa sustinere a presbyteris et principibus sacerdotum, et mori, et tertia die resurgere (Luc. IX, 22) . Aut generalis resurrectio, ut cum dicit Apostolus: Sicut in Adam omnes moriuntur, ita et in Christo omnes vivificabuntur (I Cor. XV, 22) . Aut simul Christi et nostra resurrectio, sicut dicitur: Cum ego exaltatus fuero a terra, omnes traham ad me (Joan. XII, 32) . Aut Judae proditio, sicut dicit Christus: Nonne ego vos legi duodecim, et unus ex vobis diabolus est (Joan. VI, 71) ? Aut modus tentationis et mortis aliquorum discipulorum, sicut Petro Dominus et negationem futuram praedixit et speciem passionis, dicens: Antequam gallus cantet, ter me negabis (Matt. XXVI, 34) ; et: Cum senex fueris, extendes manus tuas, et alius te cinget et ducet quo tu non vis (Joan. XXI, 18) . Aut praesentia detentorum Christi, cum dicit: Surgite, eamus, ecce appropinquavit qui me tradet (Matt. XXVI, 46) . Aut dispersio apostolorum, sicut: Percutiam pastorem, et dispergentur oves gregis (Ibid., 31) . Aut pulli asinae repertio, quem Dominus in Evangelio praedixit a discipulis adducendum (Matt. XXI, 2, 3) . Aut Antichristi praesentia, cum dicitur: Nemo vos seducat ullo modo: quia nisi venerit discessio primum, et revelatus fuerit homo peccati, filius perditionis qui contradicit (II Thess. 2, 3) . Aut Eliae praesentia, cum dicitur: Elias veniet primum (Matt. XVII, 11) . Aut conscientiae electorum, ut de Paulo: Vas electionis mihi est iste (Act. IX, 15) . Aut aliqui non immutandi, sed gustaturi mortem praedicuntur, sicut Apostolus: Ecce mysterium dico vobis: omnes quidem resurgemus, sed non omnes immutabimur (I Cor. XV, 51) . Aut futura pestis, sicut Agabi prophetia (Act. XI, 28) . Aut haeresum contrarietas, sicut dicitur: Istud autem agnosce, quia in ultimis diebus exsurgent tempora maligna (II Tim. III, 1) . Et rursus: Quando sanae doctrinae non acquiescent, sed secundum sua desideria quaerent sibi doctores (II Tim. IV, 3) . Aut baptismatis gratia, ut est: Ipse vos baptizabit in Spiritu sancto et igne (Matt. III, 11) . Aut consumptio Jerusalem ac templi judaici, sicut est: Orate ne fiat fuga vestra hieme vel sabbato (Matt. XXIV, 20) ; et: Ecce relinquetur vobis domus vestra deserta (Matt. XXIII, 38) . Aut Evangelii praedicatio, sicut dicitur: Et praedicabitur Evangelium regni in omni orbe terrarum, in testimonium omnium gentium; et sic erit finis (Matt. XXIV, 14) . Aut mala finis ipsius una cum ipso fine, ut cum dicitur: Statim post tribulationem dierum illorum sol obcaecabitur (Ibid., 29) . D. Quomodo has praedictiones ad futurum saeculum dicimus pertinere? M. Sicut 18 de acceptationibus diximus: quia ea quae praedicta sunt ante Legem, intentio eorum fuit ad tempora Legis aut Gratiae: rursus quae in Lege praedicta sunt Gratiam figurabant; et quae in Gratia, causam et praemium regni coelestis habuerunt. Ita colligitur praedictionum omnis intentio ad futuri saeculi bona respicere.
+
+### CAPUT XXV. De effectibus praedictionum.
+
+
+[0041B] {#pl.68.0041b}
+CAPUT XXV. De effectibus praedictionum.
+D. Quoniam tres jam partes ostendimus eorum quae ad futurum saeculum diximus pertinere, hoc est acceptationes et figuras et praedictiones, nunc quarta pars restat, ut de effectionibus disseramus. Quid sunt igitur effectus? M. Effectus sunt earum rerum quas acceptationum prospiciebat intentio, aut typorum similitudo figurabat, aut dictionum scientia praeloquebatur. D. Quot sunt effectuum tempora? M. Tria. Aut enim Legis tempore effecta sunt quae praedicebantur, aut nunc sub Gratia fiunt, aut saeculorum futurorum tempore complenda sunt.
+
+### CAPUT XXVI. Quae causa fuerit praesentis saeculi faciendi.
+CAPUT XXVI. Quae causa fuerit praesentis saeculi faciendi.
+D. Si omnia quae in praesenti saeculo gesta sunt ad futurum respiciebant, quid opus erat ut a Deo praesens saeculum fieret? M. Quia decuit ut rationales creaturae prius discerent, ut excitarentur in dubiis, ac tunc aeternis postea fruerentur; et merito data viderentur probatis; et gratiora fierent reminiscentibus transacta certamina; et plus glorificarent donatorem qui pios in hoc saeculo juvat; et ut vincerent, et victoribus aeterna praemia concederet.
+
+### CAPUT XXVII. De doctrina rationalium in hoc saeculo.
+CAPUT XXVII. De doctrina rationalium in hoc saeculo.
+D. Quot modis in hoc saeculo rationalium doctrina peragitur? M. Duobus. Aut intelligentia rerum factarum, sicut dicit Apostolus: Quia invisibilia ejus a creatura mundi, per ea quae facta sunt, intellecta conspiciuntur (Rom. I, 20) . Necesse est enim ut qui mundum atque omnia in eo posita considerat, modis ordinibusque distincta, intelligat esse Deum, qui haec et fecerit et gubernet. Aut ex divinis Scripturis, quae (ut diximus) in quatuor species dividuntur; historicam, propheticam, proverbialem, et simpliciter docentem.
+
+### CAPUT XXVIII. Quae servanda sint in Scripturarum intelligentia.
+
+
+[0042A] {#pl.68.0042a}
+CAPUT XXVIII. Quae servanda sint in Scripturarum intelligentia.
+D. Quae sunt quae in intellectu divinarum Scripturarum custodire debemus? M. Ut ea quae dicuntur dicenti conveniant; ut a causis pro quibus sunt dicta non discrepent; ut concordent temporibus, locis, ordini, intentioni. D. Quam dicimus divinae doctrinae intentionem? M. Ipse Dominus dixit: Ut diligamus Dominum ex toto corde et ex tota anima, et proximos tanquam nos ipsos (Deut. VI, 1) . Doctrinae autem corruptio est et contrarium: Deum non amare vel proximum. D. Quae hujus contrarietatis est causa? M. Causa malorum in ipsis est qui mali sunt; quia dum libero arbitrio atque bene concesso inordinate utuntur rationales creaturae, et malitiae et poenae causa sibimet existunt.
+
+### CAPUT XXIX. Unde libri religionis catholicae asseruntur.
+
+
+[0042B] {#pl.68.0042b}
+CAPUT XXIX. Unde libri religionis catholicae asseruntur.
+D. Unde probamus libros religionis nostrae divina esse inspiratione conscriptos? M. Ex multis, quorum primum est ipsius Scripturae veritas; deinde ordo rerum, consonantia praeceptorum, modus locutionis sine ambitu, puritasque verborum. Additur conscribentium et praedicantium qualitas: quod divina, homines; excelsa, viles; infacundi, subtilia, non nisi divino repleti Spiritu tradidissent; tum praedicationis virtus, quam dum praedicaretur (licet a paucis despectis) obtinuit. Accedunt his, rectificatio contrariorum, ut sibyllarum vel philosophorum; expulsio adversariorum, utilitas consequentium, exitus eorum quae per acceptationes et figuras et praedictiones quae praedicta sunt; ad postremum miracula jugiter facta, donec Scriptura ipsa susciperetur a gentibus. De qua hoc nunc ad proximum miraculum sufficit, quod ab omnibus suscepta cognoscitur.
+
+### CAPUT XXX. Ubi sit fides religioni necessaria.
+
+
+[0042C] {#pl.68.0042c}
+CAPUT XXX. Ubi sit fides religioni necessaria.
+D. Si divinae Scripturae probationibus sufficiunt, quid necessaria est religioni fides? M. Fides nostra super ratione quidem est; non tamen temerarie et irrationabiliter assumitur: ea enim quae ratio edocet, fides intelligit; et ubi ratio defecerit, fides praecurrit. Non enim utcunque audita credimus, sed ea quae ratio non improbat. Verum quod consequi ad plenum non potest, fideli prudentia confitemur.
+
+
+[68] {#pl.68.68}
+Nos Latinis characteribus usi sumus. [EDIT.] Caute lege, nam perperam quosdam libros a canone sanctarum Scripturarum evellit. [BRASICHELL.] Indic. libror. expurg., tom. I, pag. 57 Citra omne jam dubium liber Apocalypsis et canonicus et propheticus est. Id. ibid. Quinam libri in Scripturae canonem admittendi essent, nondum erat tam explicite quam nunc ab Ecclesia constitutum. Juxta Gr. ἀφθάρτω. Alii tamen codices et Patres nonnulli legunt ἀθανάτω, immortali ut habet Vulg. Leg. subsistentias. Leg. forte, qui est. Addendum videtur rebus, ex contextu. Id est, non propter alias creaturas: alioquin enim non propter se, sed propter Deum creatos esse constat homines et angelos. Malim intelligibilis. Ita rescripsimus pro meditatione. Edit. Caute ista lege: nam lex non jubebat privatim mala malis restitui, sed juridice, auctoritate publica: nec hujus transgressio bona. [BRASICHELL.] Indic. libror. expurgand. tom. I, pag. 57. Vulg., fili mi. Et mox, habitabit pro inhabitavit. Caute lege; nam haud ista cum placitis theologiae consonant, quae docent Christum nec suam incarnationem, nec gratiam aut gloriam animae meruisse, sed gloriam duntaxat sui corporis, et nominis sui exaltationem. S. Thom., III part., q. 19, art. 3.[BRASICHELL.] Indic. libror. expurgand. tom. I, pag. 57. LXX, μαλακίαν. Vulg., infirmitatem. Forte leg., num intell. Hebr. ad litteram, donec luna desit. LXX, ἕως οὗ ἀνταναιρεθῆ ἡ σελήνη. Vulg., donec auferatur luna. Ita rescripsimus ex superiori cap. 15 et cap. 25 hujus libri. Editi, de acceptionibus dicimus.

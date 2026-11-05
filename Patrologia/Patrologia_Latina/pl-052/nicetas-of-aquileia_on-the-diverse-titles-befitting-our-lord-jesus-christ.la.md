@@ -1,0 +1,34 @@
+---
+id: pl.052.7099
+sigla: pl.52.on-the-diverse-titles-befitting-our-lord-jesus-christ
+title: "On the Diverse Titles Befitting Our Lord Jesus Christ"
+work: "On the Diverse Titles Befitting Our Lord Jesus Christ"
+creator: "Nicetas of Aquileia"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 52"
+columns: "52"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.52.colN}"
+---
+
+# On the Diverse Titles Befitting Our Lord Jesus Christ
+
+**Author**: Nicetas of Aquileia  
+**Series**: PL 52  
+**Columns**: 52  
+
+[52] {#pl.52.52}
+De diversis appellationibus D. N. Jesu Christo convenientibus
+SANCTI NICETAE EPISCOPI AQUILEIENSIS DE DIVERSIS APPELLATIONIBUS D. N. JESU CHRISTO CONVENIENTIBUS.
+1. Multa nomina multaeque appellationes in Scripturis sanctis inveniuntur, quae Domino Jesu et Salvatori nostro conveniunt. Dicitur verbum, dicitur sapientia, lux, virtus, dextera, brachium, angelus, appellatur homo; dicitur agnus, ovis, sacerdos, via, veritas, vita; dicitur vitis, justitia, redemptio: panis, lapis, medicus, fons aquae vivae, pax, judex, janua appellatur. Haec omnia dicitur; et alia multa vocabula in Scripturis sanctis 2 de Christo invenies; cum unus atque idem sit Dei Filius Deus noster, ut virtutis ejus ac dispensationis ratio cognoscatur. Audisti appellationes; quaere nunc appellationum significationes. Verbum dicitur, vel quod impassibiliter genitus sit a Deo Patre, vel quod sine diminutione patenae substantiae ejus exstiterit generatio. Nam nec homo diminutionem aliquam pati videtur cum verbum emittit. Vel certe verbum dicitur, quod per ipsum sit Deus Pater semper et angelis locutus et hominibus. Sapientia dicitur, quia per ipsum sunt in principio sapienter cuncta disposita. Lux dicitur, quia et primas mundi tenebras ipse illuminavit, et noctes mentium humanarum suo adventu fugavit. Virtus dicitur, quia nulla eum potest superare creatura. Dextera et brachium dicitur, quia per ipsum universa creata sunt, et ab ipso omnia continentur. Angelus magni consilii appellatur, quia ipse est nuntius paternae voluntatis. Dicitur hominis Filius, quia propter nos homines homo nasci dignatus est. Dicitur agnus propter innocentiam singularem. Ovis dicitur, ut ejus passio demonstretur. Sacerdos dicitur, vel quia suum corpus oblationem et hostiam obtulit Deo Patri pro nobis; vel quod per nos 3 dies singulos offerri dignatur. Dicitur via, quia per ipsum pergimus ad salutem. Vitis appellatur, quia brachiorum palmites extendens in cruce, magnum saeculo praestitit dulcedinis fructum. Justitia dicitur, quia per sui nominis fidem justificat peccatores. Redemptio dicitur, quia olim perditos sanguinis sui pretio nos redemit. Panis dicitur, quia 4 famem gentium per suum refecit Evangelium. Lapis dicitur, quia nec serpens fecit in eo vestigium, et nobis ipse praestitit munimentum. Medicus dicitur, quia infirmitates nostras et vulnera sua visitatione curavit. Fons aquae vivae dicitur, quia per lavacrum regenerationis et abluit et vivificat peccatores. Pax dicitur, quia dissidentes in unum collegit, et Deo Patri reconciliavit. Resurrectio dicitur, quia ipse omnia de sepulcris corpora suscitabit. Judex dicitur, quia ipse est et vivos judicaturus et mortuos. Janua dicitur, quia per ipsum coelorum regni fidelibus aperitur introitus.
+
+
+[0865B] {#pl.52.0865b}
+2. Ergo quia tantis et nominibus et titulis Dominus communis appellatur, habe fiduciam, fidelis, et spem tuam in ipso tota virtute constitue. Nam ut Patrem scias, ipse tibi verbum est. Si vis recte sapere, ipsum quaere, quia sapientia est. Si tenebras aliquas sensus tuus patitur, Christum require, quia lumen est. Infirmus es? habes refugium, quia et medicus est et virtus. Vis scire per quem sit mundus creatus, et a quo omnia contineantur? ipsum crede, quia brachium et dextera perhibetur. Pavorem sustines aliquem? in omnibus tibi velut angelus aderit. Si tibi difficile fuerit visu accedere ad tantam unigeniti majestatem, ne desperes, quia et homo factus est, ut ad eum facile accessum haberet humanitas. Si innocens fueris, tibi ipsi se 5 sociabit velut agnus. Si te persecutio aliqua gentilis contristat, sume fiduciam, quia et ipse tamquam ovis immolatus est; et te tamquam sacerdos Patri suscipiet offerendum. Si viam salutis ignoras, require Christum, quia ipse est iter animarum. Si vis scire veritatem, ipsum audi, quia veritas est. Mortem omnino ne timeas, quia Christus vita credentium est. Dulcedo te saeculi delectat? magis ad crucem Christi convertere, ut ejus vitis, quae in cruce pependit, dulcedine recreeris. Peccator es perditus? justitiam debes esurire, redemptorem sitire, quod Christus est: satiat enim quia panis est. Si nutas in aliquo, firma gressum in ipso, quia lapis est, et te munitum praestabit ut murus. Infirmus et debilis es? ab ipso quaere remedium, quia medicus est. Ardorem pateris pecccatorum, vel maxime quicumque es catechumenus? curre ad vitae fontem, ut ardor tuus exstinguatur, et aeternitatem tua anima consequatur. Si ira discruciat et exagitat dissensio, accede ad Christum, quia pax est, ut et Patri reconcilieris, et omnem diligas hominem tamquam te esse diligendum 6 judicas. Si occasum corporis times, et mortem vitae istius perhorrescis, memento quia resurrectio est; potest resuscitare quod cecidit. Si te peccati 7 voluptas sollicitat, et vitia carnis 8 irritant, praescius cogita quia justus judex est, severus examinator est, aeterni ignis praeparator est; et numquam te peccare delectabit. Ad postremum, frater, si te desperatio aliqua invaserit de remuneratione justitiae, de coelestis gloriae expectatione, 9 credibili mente januam illum esse praesume; quia et per ipsum resuscitatus a mortuis, et coelorum secreta penetrabis, et angelorum consortium consequeris: et audies illam desiderabilem vocem: Euge, serve bone et fidelis, 10 quia fuisti fidelis, intra in gaudium Domini tui; posside regnum quod tibi 11 praeparatum est a mundi constitutione: ipso praestante, qui cum Patre et Spiritu sancto vivit et regnat per omnia saecula saeculorum (Matth. XXV, 23) . Amen.
+
+
+[52] {#pl.52.52}
+In eodem argumento versatur Damasus carm. 11 ed. Sarazan. (Tomo nostro XIII, col. 378, S. Dam. carm. 6) , qui tamen versus in pervetusto Vat. cod. 353 tribuuntur Silvio cuidam. Et quidem cod. vat. via pro vita; columba pro columna; panis pro paries. Legatur item poeta Orientius in collect. Pisaur. tom. VI, p. 89; et Phoebadius contra Arianos cap. 6, quem postremum lectum a Niceta vix dubito. Cod. in pro de. Alius codex hic verba aliquot desiderat. Notemus Missae quotidianae usum aetate Nicetae. Cod. unus habet famis scientiam; alius, scientiae; ego emendandum curavi. Al. cod., sociavit. Vocabulum judicas a me suppletur. Nam in codice relinquitur vacuum spatium unius adamussim vocabuli. Al., voluntas. Al., invitant. Al., fideli. Al., quia in pauca fuisti. Al., paratum.

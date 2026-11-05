@@ -1,0 +1,26 @@
+---
+id: pl.153.6057
+sigla: pl.153.apologetic-hecatostichon
+title: "Apologetic Hecatostichon"
+work: "Apologetic Hecatostichon"
+creator: "Jacques Jérôme of Paris"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 153"
+columns: "153"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.153.colN}"
+---
+
+# Apologetic Hecatostichon
+
+**Author**: Jacques Jérôme of Paris  
+**Series**: PL 153  
+**Columns**: 153  
+
+[153] {#pl.153.153}
+Hecatostichon apologeticum
+415 HECATOSTICHON APOLOGETICUM D. JACOBI HIERONYMI CARTHUSIAE PARISIENSIS ALUMNI, Quo Phrasin B. BRUNONIS, quae nasutis humilior videatur a calumnia defendit, et sententiarum pondera lance justa appendit.
+HECATOSTICHON APOLOGETICUM D. JACOBI HIERONYMI CARTHUSIAE PARISIENSIS ALUMNI, Quo Phrasin B. BRUNONIS, quae nasutis humilior videatur a calumnia defendit, et sententiarum pondera lance justa appendit. Quis novus harmonico mulcens stridore lyristes Allobrogum longi saxa nivosa jugi Transiliens colles, saliens in montibus? O quam Per coelum auritas omne moratur aves, Ore senem, cultu macieque professus eremum, Et nihil agresti pectine agreste sonans! Frons erecta polo est, pedibus calcantur honores, Septenum in capitis vertice sidus inest. Deliciis mollique toro nemo arguet usum, Nec quidquam a studiis et pietate vacans. Non aurum digiti, nec habet lyra dia smaragdos, Nec fucum allophylum sancta camena petit. Nec sibi calvitiem sacra veridicentia texit, Nec calami stratas captat ab arte comas. Alter an Amphion, redivivus an inclytus Orpheus, Illecebrae nervis surda elementa trahens, Restituens sensum, quibus hunc natura negavit? An lyra naturae robore majus habet? Oppida jam putent inculta, arridet eremus. Dum fremit armorum turbine mundus hebes. Dum tam grata canunt superis epinicea silvae, Angelicisque opplent invia lustra choris, Militet ut sancto jam omnis doctrina parenti Spiritui, vertens signa aquilina cruci. O videam charites Christo connubia pactas, Atque eadem castas foedera Castalides. Imo adeo cunctas deserto Helicone videbo, Deserti fabricam jamque levare novi. Alternum miscere melos sub nomine Christi, Per templum bifidis e regione choris. Nec tacitis cellis deerit symphonia psallens Spiritu, et alternae lectio juncta preci. Hiccine Carthusi, Bruno, caput ordinis, olim Clarum agiographiae nomen in orbe gerens, Quo schola Francorum nequaquam invidit Athenis, Rostraque Romano nil theodoxa foro? Ecce movet citharas, et naula prophetica ductor Ordinis, et vitae consona plectra suae. Exemplum signumque suis illustre relinquit Vivere, et aethereo Principe digna loqui. Compellare virum propriusque audire juvabit. Nempe (nisi auditu fallor) et ipse vocat. Affluite, errantes (ait) atque audite, tenelli, Cum lyrico Domini rege docebo metum. Ille ego qui malens inhonorus honoribus illuc Cedere, quo puppim numinis aura vocat. Parisii mundo profugum quem perpulit horror 416 Funeris, ut coeli haec septimus astra sequar. Astra dedere viam, divi arrisere tot esse Millia, sic hamis illaqueanda meis. His agor auspiciis. Ceu vox clamantis eremo, Pertaesi mundum sterno Tonantis iter. Baptistae reparando vias disjectaque membra, Castra monoptolemis singula condo meis. Deserto deserta placet Carthusia Christo, Tuscala cui laudum nocte dieque calent. Invia Psalmologi deserta inaquosaque terra est, Qua pateat virtus gloriaque alma Dei. Unde columbinis avide latera instruit alis, Discat ut huc fugiens seque Deoque frui. Discipulis eadem tribus haec in monte refulsit Gloria, quo fieri vult tria castra Petrus. Cernere Zacchaeus per turbam nescit Jesum: Cui, Turba opprimeris, discipulique canunt. Sic, monache, infesti fugiens contraria mundi, Naviter effectum nominis hujus habe. Hasce igitur partes mihi delegavit Jesus, Asperula in planas sternere lustra vias. Laeviget ut Christo rigidos citharaedia saltus: Militiae tollens hic nova signa piae. Nulla Madaurensis Milesia habemus aselli. Nulla Lycambaeae conscia tela necis. Semina divinae mihi sunt uberrima flammae, Devoto nihil est dignius otiolo. Exuro, gelidos exsurgere cogo jacentes; Et nunc illecebras, nunc quoque vim facio. Nunc lyra Davidis, nunc Pauli buccina pleno Ore quidem haec, digitis concrepat illa meis. Haec, Carthuse, tibi ratio est praescripta silendi; Ut, claudens homini labra, loquare Deo. Quippe ad eum, Paulo aut Davide interprete, fari est Et jactura tuum nulla silere quatit. Nec Latiae offendat linguae neglectior usus, Dictio si tritae est corporis aequa togae. Sublimes humili sensus attempero linguae: Nec mihi ab ore sed ex pectore verba fluunt. Niliacis ornate alii delubra tropaeis, Laudo; sed in praesens causa aliena mihi est. Humanae verbis sophiae inclarescere nolens, Paulus adest doctis debitor et rudibus. Cum David cinere, et cilicino horrescat amictu, Rhetoricis compta quis volet esse rosis? Jam mihi purga aures atque excute faece palatum, Vel magis intra animi septa redito tui. Non linguae, sed cordis ad haec delectus habendus: Nam mihi cum rebus tota palaestra fuit. Ne sensu haec sapias, sed quo sunt prodita gustos Spiritu, et hoc animae viscera pasce bono. Consultum pariter summis minimisque volebam, Et ratio captus omnis habenda fuit.

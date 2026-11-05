@@ -1,0 +1,37 @@
+---
+id: pl.013.1188
+sigla: pl.13.fragment-against-the-arians
+title: "Fragment against the Arians"
+work: "Fragment against the Arians"
+creator: "Uncertain author"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 13"
+columns: "13"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.13.colN}"
+---
+
+# Fragment against the Arians
+
+**Author**: Uncertain author  
+**Series**: PL 13  
+**Columns**: 13  
+
+[13] {#pl.13.13}
+Fragmentum contra Arianos
+CONTRA ARIANOS FRAGMENTUM.
+
+
+[0639B] {#pl.13.0639b}
+In miscello codice Vaticano Regio DLVII, p. 6 et 7, duae exstant membranae saeculo ferme XI scriptae, in quarum priore contineri partem cognovi sermonis de symbolo adversus paganos et Arianos, quem inter spurios Augustinianos collocant Maurini editores, in tomi VIII appendice, p. 11, sqq. In posteriore autem membrana, quae manu eadem perscripta est, fragmentum item legebam contra Arianos, quod ego cum considerarem, pertinere suspicabar ad tractatus illos Augustini contra praedictam haeresim quos deperditos esse scimus. Equidem sentio me periculose admodum de hac re pronuntiare; fieri enim potest, ut vel Augustini cognitum fragmentum sit (de qua re vestigare altius per angustias temporis nequeo) vel cujuslibet alterius Patris, quorum permulta contra Arianos scripta exstant, et a me pleraque sunt lectitata, quin tamen hanc particulam in iis me legisse nunc recorder, quamquam aliquid haud scio an simile me vidisse alicubi pene commemini. Verum quid prohibet, quominus praedictam membranam hoc loco lectoribus meis post Ariana fragmenta exhibeam; quae sive alibi edita est, sive secus, catholicam veritatem belle propugnat? Certe hanc ipsam Arianorum objectionem de genito et ingenito proponunt sibi dissolvuntque sapienter Basilius, orat. contra Arr., ed. Garn., t. II, p. 194; et Ambrosius, de Incarn. sacramento, capp. 8 et 9 ; itemque Augustinus de Trin., V, 4, qui et de illa sic prooemiatur: Inter multa quae Ariani adversus catholicam fidem solent disputare, hoc sibi maxime callidissimum machinamentum proponere videntur cum dicunt, etc. In membranae calce scribitur nota quaternionis septimi; unde cognoscimus reliquum esse fragmentum ex aliquo majore codice.
+
+
+[0639D] {#pl.13.0639d}
+. . . . non edocti humanae sapientiae verbis, sed docti spiritu. Redde ergo, haeretice, quod docuit spiritus; redde ut fides non sit in sapientia hominum, et haeresis non erit. Et ne diutius immoremur, veniamus ad ea, quae nobis tamquam murum ferreum opponere consuerunt dicentes: ingenitus et genitus idem est, necne? ut per id quod dissimilis sonus in nomine est, non videatur Patris et Filii et Spiritus sancti eadem esse substantia. Secundum quam formam et ego interrogo: si differentia est geniti nomen ab ingenito, ne eadem videatur substantia: ergo quodcumque ingenitum dicitur, ejusdem erit substantiae, si geniti ab ingenito discrepat nomen. Dicitur ergo ingenitus Pater atque infectus: dicitur et Filius genitus atque infectus. Si igitur in eo quod ingenitus et genitus , sibi differunt; ergo in eo quod infectus et infectus dicuntur, ejusdem erunt substantiae. Spiritus etiam sanctus, de quo scribitur, quod neque Pater sit, neque Filius, neque quod factus; quid erit dicendum? ingenitus erit: sed si ingenitus, ejusdem erit substantiae, cujus et mundus est, vel ea quae ex nihilo sunt. Sed mundus etsi factus est, ingenitus est: non enim Filius est, quia factus est; erit ergo quod et Pater est, qui est ingenitus: quo genere si et Spiritus sanctus factus est, erit et ipse ut mundus ingenitus. Sed diximus Filium infectum, non enim factus est: ergo quidquid factum non fuerit ejusdem erit substantiae. Pater factus non est; Spiritus sanctus factus non est; Filius factus non est: ergo ejusdem erit substantiae Spiritus sanctus, vel Filius, cujus et pater est. Ingenitus Pater, ingenitus et Spiritus sanctus, ingenitus et mundus (non enim nati sunt) ejusdem erunt substantiae, cujus et Pater est: sed mundus factus est, Pater autem non est factus, sed neque Filius neque Spiritus sanctus; ergo solus mundus non erit ejusdem substantiae, cujus Pater, vel Filius, vel Spiritus sanctus. Quid ergo in nominibus et hominum sapientia convenientibus immoramur, et non in his quae Scriptura signavit dicendo, Patrem et Filium et Spiritum sanctum esse credendum? Quod si nominibus fides adhibenda est, ut quicquid vel ingenitum sonat vel infectum, necesse est ut quicquid fuerit ingenitum vel infectum, ejusdem sit 1 substantiae: et hac ratione quicquid illud fuerit, quod immortale dicatur, vel incorruptum, vel incorporeum, vel infectum, ut ejusdem videatur esse substantiae. Mundus factus est, vel ea quae in mundo sunt: numquid quae facta sunt, ejusdem erunt substantiae, id est coelum, terra, aer, aqua? Si igitur quae facta sunt, non sunt ejusdem substantiae, quia nata non sunt; ergo ingenitus et genitus, qui facti non sunt, ejusdem erunt substantiae, quia aliud sit natum et aliud factum: ea enim quae fiunt voluntate facientis, substantiae diversitate consistunt: ea vero quae nascuntur, etiam ex factis ejusdem naturae semper obtinent veritatem. Respice arborum, seminum, pecudum, ferarum, volucrum, hominumque naturas; respice et earum opera, aut hominum habitacula, aut cubilia ferarum, aut nidos avium, aut apium cellas, aut promptuaria formicarum, aut antra aranearum, vel omnium generum secreta, atque in his, quae dixi, earum opera considera. Numquid similis 2 substantiae sunt? quorum quae vel generant, vel generantur, ita procul opera 3 omnium sunt a natura generantium. Sola nativitas substantiae se generantis indicium est. Factae sunt etiam Dominationes, Virtutes, Potestates, Throni, Principatus: numquid quia factae sunt, et genitae dicuntur? Sed si genitae non dicuntur, quia factae sunt, erunt utique ingenitae: si ingenitae sunt, ejusdem erunt substantiae, cujus et Pater est qui est ingenitus? Dicuntur ergo Throni, Potestates, Principatus, Dominationes, Virtutes: numquid ejusdem erunt substantiae, licet nominum videatur esse diversitas? quia nominum diversitas honoris significatio est, et non earum substantiae. Nam quod dicuntur Virtutes, Dominationes, Sedes, Potestates, honorum expressio est, non substantiae demonstratio, quae vel quales intelligi debeant. Et utique haec omnia et incorporea et incorrupta et immortalia et ingenita dicuntur; non enim filii sunt, quia unicus Filius est, qui sinum Patris exposuit 4 . Denique de angelis quid ait Apostolus? Cui enim angelorum aliquando dixit, Dominus filius meus es tu (Hebr., I, 5) ? Negando ergo filios, negavit in eis nativitatem, non negavit creationem. Sic Apostolus ait: Sive Dominationes, sive Principatus, sive Virtutes, sive Potestates, omnia per ipsum facta sunt (Coloss., I, 16) . Facta autem dixit omnia, non tamen nata. Numquid ergo ex eo quod dicuntur vel incorporea vel incorrupta vel immortalia, substantiae eorum confessio est, quae vel quales sint, et non magis negatio passionum? Nam cum dicimus incorporeum aliquid, negamus corpus, non vero substantiam confitemur. Vel cum dicimus incorruptum atque immortale, non quid sit, sed quid non patiatur edicimus: non enim patitur vel mortem, vel corruptionem quod immortale dicitur vel incorruptum; unde ne quis nominibus tot, tantisque, tam multis, aut ejusdem dicat omnia esse substantiae, aut iterum compo . . . . . .
+
+
+[13] {#pl.13.13}
+Cod. esse. Cod. similia. Ita cod. Ita cod.

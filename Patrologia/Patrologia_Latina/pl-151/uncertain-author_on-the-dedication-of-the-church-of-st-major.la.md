@@ -1,0 +1,47 @@
+---
+id: pl.151.965
+sigla: pl.151.on-the-dedication-of-the-church-of-st-major
+title: "On the Dedication of the Church of St. Major"
+work: "On the Dedication of the Church of St. Major"
+creator: "Uncertain author"
+language: la
+original-language: yes
+authority-type: patristic
+volume: "PL 151"
+columns: "151"
+source: "The Faith Received (TEI / Migne Patrologia)"
+status: current
+anchors: "sigla.reference — {#pl.151.colN}"
+---
+
+# On the Dedication of the Church of St. Major
+
+**Author**: Uncertain author  
+**Series**: PL 151  
+**Columns**: 151  
+
+[151] {#pl.151.151}
+De dedicatione ecclesiae S. Majoris
+TEXTUS De dedicatione ecclesiae hujus sancti Majoris nostri monasterii.
+Anno ab Incarnatione Domini 1095, sexto Idus Martii, luna XI, epacta XXIII, concurrentibus II, qui est annus Philippi Francorum regis XXXVII, et Bernardi hujus monasterii nostri abbatis ab ordinatione sua annus XIII, Urbanus secundus papa gloriosus, et in nullo apostolica dignitate indignus, ab urbe Roma veniens et sola charitatis gratia Gallias invisens, cum in Claromontano concilio in praesentia quingentorum ferme Patrum, archiepiscoporum scilicet, pontificum et abbatum, ipsis universis una cum Radulfo Turonensi archiepiscopo acclamantibus et auctorizantibus privilegia libertatis et immunitatis, quae ipse papa nobis et coenobio nostro per manus reverendorum fratrum nostrorum domni Bernardi Remensis, cognomento Pontii, tunc prioris nostri, dominique Rangerii, qui postea presbyter cardinalis sanctae Romanae Ecclesiae, ac deinde Regiensis archiepiscopus fuit, et in praefato concilio ut archiepiscopus et cardinalis sedit, ab urbe Roma miserat, auctorizasset, anno apostolatus sui VIII, id est in octavis festi hiemalis beati Martini, tandem pacis et concordiae gratia inter nos et Turonenses B. Mauritii canonicos jam tunc decennio nos persequi non cessantes faciendae ( occasione stationis paschalis sublatae, de qua ad an. 1090 diximus ), monasterio nostro ab eodem visitato, ipsoque ab exiguitate nostra pro tempore competenter satis, ut decuit, excepto, et apud nos diebus septem non sine multis expensis repausato, sive refrigerato, octava demum adventus sui die (videlicet VI Idus Martii), qui est terminus in prima fronte paginae adnotatus, dedicavit Deo in honorem sanctae crucis ac beatissimae Dei genitricis perpetuaeque virginis Mariae, ac sanctorum apostolorum Petri et Pauli, necnon et beati Martini majorem basilicam nostri hujus Majoris Monasterii, in qua fratres die noctuque divino servitio incumbunt.
+
+
+[0274C] {#pl.151.0274c}
+Pridie siquidem, quae fuerat dies Dominica, celebratis ex more missis ab eodem, adierat gradum ligneum sibi ad loquendum populo, ut est consuetudinis, in littore Ligeris praeparatum, et super eum cum archiepiscopis et episcopis et cardinalibus stans, diutissime populo infinito, qui ob hoc ipsum undequaque sitienter convenerat, solemniter exhortationis verbum faciens, et monasterii nostri ordinem ac religionem vehementissime collaudans et extollens, atque adversariorum nostrorum, canonicorum videlicet, non minus exsecrans conversationem, ac praecipue ipsorum detestans in nos actam decennio tyrannidem, innocentiam nostram in auribus tam egregii Andegavorum comitis, Fulconis junioris et procerum ejus, qui sermoni ipsi intererant, quam omnium, qui illuc undecunque confluxerant, ipse papa exposuerat et assignaverat, et adoptatos nos ab ipso in speciales sanctae Romanae Ecclesiae filios edixerat, quos nulla prorsus de causa deinceps posset aliquis archiepiscoporum vel episcoporum absque ipsius aut successorum suorum licentia excommunicare; et ad ultimum coenobio nostro et nobis praefato comiti ac proceribus ejus, caeteroque populo commendatis benedixerat, ex praefatorum privilegiorum tenore, et absolverat omnes qui nos et universa nostra custodirent fideliter, et tuerentur atque honorarent. Omnes vero qui nos et nostra quaelibet inquietarent, molestarent, affligerent et inhonorarent maledixerat, et donec inde satisfacientes Deo atque nobis poeniterent, perpetui anathematis catena ligaverat. Unde rediens, sermone finito, ipsa die in refectorio nostro cum duobus archiepiscopis et uno episcopo [ al., quatuor episcopis] atque cardinalibus suis refecit, et, sicut dictum est, in crastino ecclesiam nostram solemniter dedicavit. Cui dedicationi Turonensis archiepiscopus, Aurelianensis Rodolphus interfuit, qui propris suis manibus pignora sanctorum, quorum nomina subscribuntur, sub Dominico altari, jubente papa collocavit, et una cum archiepiscopo Lugdunensi et primate Hugone ab infirmorum capella, pridie a Brunone Signiensi episcopo jussu papae dedicata, reliquias sanctorum, quae inibi pernoctaverant, humeris propriis in majorem basilicam deportavit, et una cum domino Rangerio supradicto alphabetum latinum, illo Graecum faciente, fecit et basilicae ipsius parietibus, jubente papa, crucis vexillum ex oleo imposuit, atque altare de Crucifixo jussu papae mox sacravit.
+
+
+[0275B] {#pl.151.0275b}
+In altari ergo Dominico est ineffabile corporis Christi sacramentum collocatum cum horum pignoribus sanctorum. Particula scilicet victoriosissimae crucis Christi, et de vestimentis gloriosae Dei Genitricis, de capillis et barba Petri apostoli, de vestimento Joannis Evangelistae et reliquiis sanctorum martyrum Stephani, Mauritii, Cypriani, Ermetis, Saturnini, Ferreoli, Nerei, Achillei, Pancratii, confessorum autem Mauritii, Aviti, Sulpitii, Gundulphi, Desiderii, virginum vero Amataliae et Praxedis. Locatis ergo de more sanctorum pignoribus, et sacrato altari Dominico, dotaverunt ipsum, jubente papa, comes Fulco et Robertus de Rupibus, atque Hugo 1 de Calvomonte, sed et caeteri proceres, quorum ibi copia multa erat, dote quadam admodum nobis grata, id est auxilio, tuitione et consilio suo.
+Nomina sane pontificum, qui dedicationi huic interfuerunt, haec sunt: Hugo primus et legatus Lugdunensis archiepiscopus, Radulfus de Aurelianis archiepiscopus Turonensis, Rangerius supradictus, Bruno Signiensis episcopus. Dominus vero Amatus (archiepisc. Burdigalae) aegrotabat apud nos, foris scilicet in camera, sed ejus tamen ope et consilio facta est dedicatio ipsa. Cardinales isti adfuerunt: Albertus presbyter, Thesto presbyter, Gregorius diaconus Ticinensis, Joannes Garcellus diaconus et primiscrinius, qui omnes in Claromontano concilio fuerant. Dominus etiam abbas noster Bernardus, et abbas Puilliensis Otho adfuerunt.
+
+
+[0275C] {#pl.151.0275c}
+Ipsa die sacratum est coemeterium ultra murum nostri coemeterii usque ad viam quae ducebat ad molendinos, a domino Rangerio et ab episcopo Signiensi visu papae. In crastino vero sacravit ipse papa coemeterium Sancti Nicolai spargens aquam benedictam, et jubente eo, dominus Hugo primas et dominus Rangerius sacraverunt coemeterium, undique per marginem Ligeris spargentes aquam benedictam usque ad ligneam crucem, quae est supra molendinos nostros, et inde per viam versus ecclesiam Sancti Joannis, usque ad limitem coemeterii pridie sacrati, et inde versus occidentem inter viridarium nostrum et vineam usque ad viam quae de Sancto Nicolao ducit ad portam monasterii nostri; deinde per vineam, videlicet usque ad Morevum burgi, aquam spargentes per pasticum et vineam extra burgum usque prope ecclesiam Sancti Gorgonii, itemque inde usque ad ipsam Ligerim indirectum, atque iterum inde ad locum unde spargere aquam coeperant in gyro sacrantes coemeterium, ut dictum est, redierunt.
+
+
+[0276A] {#pl.151.0276a}
+Hugo de Calvomonte, filius Sulpicii de Ambaziaco, cum puer adhuc esset, et mater ejus quae neptis erat Gaufredi de Calvomonte, consenserunt venditioni factae monachis Majoris Monasterii de duabus quartis terrae apud culturam Rathonis. Postea cum factus esset juvenis et patri successisset in honore, et cum Ambaziaco simul Calvummontem loco Gaufredi avunculi sui possideret, easdem quartas repetere voluit. Contigit interim Dei nutu Urbanum papam virum gloriosum humilitatem nostram dignanter invisere, et post paucos dies venire ad Majus Monasterium et basilicam nostram solemniter dedicare, cui dedicationi interfuit ipse Hugo. Sacrato autem ex more et inuncto altari, papa residens advocavit Fulconem (scilicet comitem Andegavensem, qui nuper Turoniam Blezensi Theobaldo eripuerat) et circumstantium turbam procerum monens eos, ut ecclesiae et altari noviter dedicatis providerent dotem secundum morem solitum. Submonitus itaque a nobis supradictum Hugonem ad se vocavit, et monuit ut quartas illas nobis relinqueret. Quod ille gratanter fecit; cui rei interfuit multitudo, utpote ad tantam celebritatem undique congregata. Inter caeteros hi nominatim censentur. Ex clericis primas et archiepiscopus Lugdunensis Hugo, Radulfus Turonensis archiepiscopus, Rangerus cardinalis, qui fuerat archiepiscopus Regiensis, Bruno Signiensis episcopus, Albertus presbyter cardinalis, Tezo presbyter cardinalis, Gregorius Papiensis diaconus cardinalis, deinde domnus Bernardus de sancto Venantio abbas noster, etc. Ex laicis vero: Fulco comes Andegavensis, Sigebrannus constabularius ejus, Robertus de Rupibus, Gausbertus praepositus de Calvomonte. Tandem sorores Hugonis praefati Adenordis et Ermensendis idem concesserunt.
+
+
+[151] {#pl.151.151}
+In Hist. episc. Turon. et abbat. Majoris Monast. Hugo Ambaziacensis, Rainaldus Ferlensis de Castello, et Raguellanus de Malliaco. Jed., etc. Hugo de Calvomonte et Ambaziacensis idem est. Vide instrumentum sequens.
