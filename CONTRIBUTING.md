@@ -12,7 +12,7 @@ Place new texts within the appropriate shelf under `Library/`, `Magisterium/`, o
 | :--- | :--- | :--- |
 | `Library/theology/` | Systematic, dogmatic, historical, or moral theology monographs | Scheeben, De Lubac, Ratzinger, Congar, Garrigou-Lagrange |
 | `Library/liturgy/` | Liturgical history, rites, theology, and commentary | Jungmann, Botte, Mohlberg, Gamber, Reid |
-| `Library/patristics/` or `Library/fathers/` | Early Church Fathers and Patristic commentaries | Irenaeus, Athanasius, Basil, Gregory of Nazianzus |
+| `Library/fathers-schaff/` | Early Church Fathers in English (Schaff ANF/NPNF) and Spanish | Irenaeus, Athanasius, Basil, Gregory of Nazianzus |
 | `Library/doctors/` | Writings of declared Doctors of the Church | Anselm, Bernard of Clairvaux, John of the Cross, Teresa of Ávila |
 | `Library/philosophy/` | Classical, Aristotelian, Scholastic, and modern philosophy | Aristotle, Boethius, Gilson, Maritain, Pieper |
 | `Library/spirituality/` | Spiritual classics, ascetical theology, and interior life treatises | Francis de Sales, Scupoli, Teresa of Jesus |
